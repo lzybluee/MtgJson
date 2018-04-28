@@ -1,0 +1,888 @@
+<Card>
+<SetId>pMGD</SetId>
+<No>1</No>
+<Name>Reya Dawnbringer</Name>
+<Type>Legendary Creature — Angel 4/6</Type>
+<ManaCost>6WWW (9)</ManaCost>
+<CardText>Flying
+At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.</CardText>
+<Flavor>"You have not died until I consent."</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>2</No>
+<Name>Liliana's Specter</Name>
+<Type>Creature — Specter 2/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying
+When Liliana's Specter enters the battlefield, each opponent discards a card.</CardText>
+<Artist>Jaime Jones</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>3</No>
+<Name>Mitotic Slime</Name>
+<Type>Creature — Ooze 4/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have "When this creature dies, create two 1/1 green Ooze creature tokens."</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>4</No>
+<Name>Memnite</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>0 (0)</ManaCost>
+<Flavor>Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.</Flavor>
+<Artist>rk post</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>5</No>
+<Name>Tempered Steel</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Artifact creatures you control get +2/+2.</CardText>
+<Artist>jD</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>6</No>
+<Name>Treasure Mage</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.</CardText>
+<Artist>Greg Staples</Artist>
+<Rulings>2011/06/01: If a card in your library has X in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>7</No>
+<Name>Black Sun's Zenith</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBB (2)</ManaCost>
+<CardText>Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.</CardText>
+<Artist>James Paick</Artist>
+<Rulings>2011/06/01: If this spell is countered, none of its effects occur. In particular, it will go to the graveyard rather than to its owner's library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>8</No>
+<Name>Myr Superion</Name>
+<Type>Artifact Creature — Myr 5/6</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Spend only mana produced by creatures to cast Myr Superion.</CardText>
+<Artist>Greg Staples</Artist>
+<Rulings>2011/06/01: <Myr Superion> can be cast only with mana produced by the abilities of one or more creatures on the battlefield (such as Alloy Myr or Priest of Urabrask in this set).
+2011/06/01: Mana produced by abilities of creature cards not on the battlefield, such as Chancellor of the Tangle or Elvish Spirit Guide, can't be used to cast <Myr Superion>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>9</No>
+<Name>Priest of Urabrask</Name>
+<Type>Creature — Human Cleric 2/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>When Priest of Urabrask enters the battlefield, add {R}{R}{R} to your mana pool.</CardText>
+<Artist>Clint Cearley</Artist>
+<Rulings>2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>10</No>
+<Name>Stormblood Berserker</Name>
+<Type>Creature — Human Berserker 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Menace (This creature can't be blocked except by two or more creatures.)</CardText>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>11</No>
+<Name>Dungrove Elder</Name>
+<Type>Creature — Treefolk */*</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Dungrove Elder's power and toughness are each equal to the number of Forests you control.</CardText>
+<Artist>Scott Chou</Artist>
+<Rulings>2011/09/22: <Dungrove Elder>'s power and toughness are each equal to the number of lands you control with the land type Forest, not necessarily lands named Forest.
+2011/09/22: <Dungrove Elder>'s power and toughness will change as the number of Forests you control changes.
+2011/09/22: <Dungrove Elder>'s ability sets its power and toughness in all zones, not just the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>12</No>
+<Name>Diregraf Ghoul</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Diregraf Ghoul enters the battlefield tapped.</CardText>
+<Artist>Austin Hsu</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>13</No>
+<Name>Elite Inquisitor</Name>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>First strike, vigilance
+Protection from Vampires, from Werewolves, and from Zombies</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>14</No>
+<Name>Zombie Apocalypse</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.</CardText>
+<Artist>Volkan Baga</Artist>
+<Rulings>2011/01/22: All Humans are destroyed, not just ones you control.
+2011/01/22: If a creature card in your graveyard is both a Zombie and a Human, it will be returned to the battlefield tapped, then be destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>15</No>
+<Name>Strangleroot Geist</Name>
+<Type>Creature — Spirit 2/1</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>Haste
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</CardText>
+<Artist>Erica Yang</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>16</No>
+<Name>Suture Priest</Name>
+<Type>Creature — Cleric 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, you may gain 1 life.
+Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>17</No>
+<Name>Pristine Talisman</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{T}: Add {C} to your mana pool. You gain 1 life.</CardText>
+<Flavor>"Tools and artisans can be destroyed, but the act of creation is inviolate."
+—Elspeth Tirel</Flavor>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2011/06/01: <Pristine Talisman> has a mana ability. Its ability doesn't use the stack and can't be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>18</No>
+<Name>Latch Seeker</Name>
+<Type>Creature — Spirit 3/1</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Latch Seeker can't be blocked.</CardText>
+<Artist>Eytan Zana</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>19</No>
+<Name>Killing Wave</Name>
+<Type>Sorcery</Type>
+<ManaCost>XB (1)</ManaCost>
+<CardText>For each creature, its controller sacrifices it unless he or she pays X life.</CardText>
+<Artist>Michael Komarck</Artist>
+<Rulings>2012/05/01: First, the active player chooses whether to pay X life for each creature he or she controls. Then each other player in turn order chooses for his or her creatures. Then each player pays life and sacrifices creatures at the same time. Players will know the decisions of players who chose before them.
+2012/05/01: A player may choose to pay life for some creatures and sacrifice the rest. It's not an all-or-nothing decision.
+2012/05/01: You can't pay more life than you have.
+2012/05/01: If you can't sacrifice a creature (perhaps because of Sigarda, Host of Herons), you can choose not to pay life and nothing will happen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>20</No>
+<Name>Magmaquake</Name>
+<Type>Instant</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Magmaquake deals X damage to each creature without flying and each planeswalker.</CardText>
+<Artist>Sam Burley</Artist>
+<Rulings>2012/07/01: <Magmaquake> doesn't target any creature or planeswalker. For example, it will deal damage to a creature without flying that has hexproof.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>21</No>
+<Name>Mwonvuli Beast Tracker</Name>
+<Type>Creature — Human Scout 2/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Rulings>2012/07/01: The creature card must have one of the listed abilities, not an ability that grants one of the listed abilities to the creature. For example, you couldn't put Prized Elephant, which has "{G}: Prized Elephant gains trample until end of turn," on top of your library this way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>22</No>
+<Name>Cryptborn Horror</Name>
+<Type>Creature — Horror 0/0</Type>
+<ManaCost>1{B/R}{B/R} (3)</ManaCost>
+<CardText>Trample
+Cryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2012/10/01: Remember, damage dealt to a player causes that player to lose that much life (unless the source has infect).
+2012/10/01: If no opponent has lost life on the turn <Cryptborn Horror> enters the battlefield, it will enter with no +1/+1 counters on it and be put into its owner's graveyard (unless something else is raising its toughness).
+2012/10/01: <Cryptborn Horror> cares about the total life lost, not necessarily what an opponent's life total is compared to what it was at the beginning of the turn. For example, if an opponent loses 5 life and then gains 10 life on the turn <Cryptborn Horror> enters the battlefield, it will enter with five +1/+1 counters on it.
+2012/10/01: In multiplayer games, life lost the turn <Cryptborn Horror> enters the battlefield by opponents who left the game later that turn will count toward the value of X.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>23</No>
+<Name>Dryad Militant</Name>
+<Type>Creature — Dryad Soldier 2/1</Type>
+<ManaCost>{G/W} (1)</ManaCost>
+<CardText>If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2012/10/01: If an instant or sorcery spell destroys <Dryad Militant> directly (like Murder does), that instant or sorcery card will be put into its owner's graveyard. However, if an instant or sorcery card deals lethal damage to <Dryad Militant>, <Dryad Militant> will remain on the battlefield until the next time state-based actions are checked, which is after the instant or sorcery finishes resolving. The instant or sorcery will be exiled.
+2012/10/01: If an instant or sorcery card is discarded while <Dryad Militant> is on the battlefield, abilities that function when a card is discarded (such as madness) still work, even though that card never reaches a graveyard. In addition, spells or abilities that check the characteristics of a discarded card (such as Chandra Ablaze's first ability) can find that card in exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>24</No>
+<Name>Firemane Avenger</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>2WR (4)</ManaCost>
+<CardText>Flying
+Battalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.</CardText>
+<Artist>Ryan Barger</Artist>
+<Rulings>2013/01/24: If the target creature or player is an illegal target when <Firemane Avenger>'s battalion ability tries to resolve, the ability will be countered and none of its effects will happen. You won't gain life.
+2013/01/24: If <Firemane Avenger>'s battalion ability resolves but some or all of the damage is prevented, you'll still gain 3 life.
+2013/04/15: The three attacking creatures don't have to be attacking the same player or planeswalker.
+2013/04/15: Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves.
+2013/04/15: The effects of battalion abilities vary from card to card. Read each card carefully.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>25</No>
+<Name>Zameck Guildmage</Name>
+<Type>Creature — Elf Wizard 2/2</Type>
+<ManaCost>UG (2)</ManaCost>
+<CardText>{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2013/01/24: <Zameck Guildmage>'s first ability is cumulative. For example, if it resolves twice in a turn, each creature that enters the battlefield under your control that turn will do so with two +1/+1 additional counters on it.
+2013/01/24: <Zameck Guildmage>'s first ability has no effect on creatures already on the battlefield when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>26</No>
+<Name>Melek, Izzet Paragon</Name>
+<Type>Legendary Creature — Weird Wizard 2/4</Type>
+<ManaCost>4UR (6)</ManaCost>
+<CardText>Play with the top card of your library revealed.
+You may cast the top card of your library if it's an instant or sorcery card.
+Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2013/04/15: Melek doesn't affect the timing rules associated with when you can cast the card. If it's a sorcery card, you can cast it only during your main phase when the stack is empty.
+2013/04/15: You still pay all costs for that spell, including additional costs. You may also pay alternative costs, such as overload costs. Although you can't pay additional costs for the copy that's created, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too. For example, if a player sacrifices a 3/3 creature to cast Fling, and you copy it, the copy of Fling will also deal 3 damage to its target.
+2013/04/15: Melek's last ability will copy any instant or sorcery spell you cast from your library, not just one with targets.
+2013/04/15: When the last ability resolves, it creates a copy of the spell. You control the copy. That copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger. The copy will then resolve like a normal spell, after players get a chance to cast spells and activate abilities.
+2013/04/15: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2013/04/15: If the spell being copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. You can't choose a different one.
+2013/04/15: If the spell being copied has an X whose value was determined as it was cast (like Debt to the Deathless has), the copy has the same value of X.
+2013/04/15: Instant and sorcery cards with miracle allow a player to cast a card immediately upon drawing it. If you cast a spell this way, you're casting it from your hand, not your library. Melek's ability won't trigger.
+2013/04/15: The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities.
+2013/04/15: If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability.
+2013/04/15: When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>27</No>
+<Name>Trostani's Summoner</Name>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>5WG (7)</ManaCost>
+<CardText>When Trostani's Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample.</CardText>
+<Artist>Nils Hamm</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>28</No>
+<Name>Hive Stirrings</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Create two 1/1 colorless Sliver creature tokens.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2013/07/01: If you change the creature type of a Sliver you control so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures you control.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>29</No>
+<Name>Goblin Diplomats</Name>
+<Type>Creature — Goblin 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{T}: Each creature attacks this turn if able.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2013/07/01: The controller of each creature still decides which player or planeswalker that creature attacks.
+2013/07/01: Creatures that enter the battlefield (or noncreature permanents that become creatures) after the ability resolves are affected by the ability and must attack if able.
+2013/07/01: If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>30</No>
+<Name>Phalanx Leader</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2013/09/15: Heroic abilities will resolve before the spell that caused them to trigger.
+2013/09/15: Heroic abilities will trigger only once per spell, even if that spell targets the creature with the heroic ability multiple times.
+2013/09/15: Heroic abilities won't trigger when a copy of a spell is created on the stack or when a spell's targets are changed to include a creature with a heroic ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>31</No>
+<Name>Nighthowler</Name>
+<Type>Enchantment Creature — Horror 0/0</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.</CardText>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2013/09/15: <Nighthowler>'s last ability functions only from the battlefield. In other zones, <Nighthowler> is a 0/0 enchantment creature.
+2013/09/15: You don't choose whether the spell is going to be an Aura spell or not until the spell is already on the stack. Abilities that affect when you can cast a spell, such as flash, will apply to the spell after you've made this choice. For example, an effect that said you can cast creature spells as though they have flash won't allow you to cast a creature card with bestow as an Aura spell anytime you could cast an instant, but one that said you can cast Aura spells as though they have flash will.
+2013/09/15: On the stack, a spell with bestow is either a creature spell or an Aura spell. It's never both, although it's an enchantment spell in either case.
+2013/09/15: Unlike other Aura spells, an Aura spell with bestow isn't countered if its target is illegal as it begins to resolve. Rather, the effect making it an Aura spell ends, it loses enchant creature, it returns to being an enchantment creature spell, and it resolves and enters the battlefield as an enchantment creature.
+2013/09/15: Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if it becomes unattached. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its {T} abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
+2013/09/15: If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura.
+2013/09/15: Auras attached to a creature don't become tapped when the creature becomes tapped. Except in some rare cases, an Aura with bestow remains untapped when it becomes unattached and becomes a creature.
+2013/09/15: An Aura that becomes a creature is no longer put into its owner's graveyard as a state-based action. Rather, it becomes unattached and remains on the battlefield as long as it's a creature. While it's a creature, it can't be attached to another permanent or player. An Aura that's not attached to a legal permanent or player as defined by its enchant ability and also isn't a creature will be put into its owner's graveyard as a state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>32</No>
+<Name>Pain Seer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.</CardText>
+<Artist>Mark Winters</Artist>
+<Rulings>2014/02/01: If the mana cost of the revealed card includes {X}, X is considered to be 0.
+2014/02/01: If the revealed card doesn't have a mana cost (because it's a land card, for example), its converted mana cost is 0.
+2014/02/01: Inspired abilities trigger no matter how the creature becomes untapped: by the turn-based action at the beginning of the untap step or by a spell or ability.
+2014/02/01: If an inspired ability triggers during your untap step, the ability will be put on the stack at the beginning of your upkeep. If the ability creates one or more token creatures, those creatures won't be able to attack that turn (unless they gain haste).
+2014/02/01: Inspired abilities don't trigger when the creature enters the battlefield.
+2014/02/01: If the inspired ability includes an optional cost, you decide whether to pay that cost as the ability resolves. You can do this even if the creature leaves the battlefield in response to the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>33</No>
+<Name>Kiora's Follower</Name>
+<Type>Creature — Merfolk 2/2</Type>
+<ManaCost>UG (2)</ManaCost>
+<CardText>{T}: Untap another target permanent.</CardText>
+<Artist>Steve Prescott</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>34</No>
+<Name>Squelching Leeches</Name>
+<Type>Creature — Leech */*</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Squelching Leeches's power and toughness are each equal to the number of Swamps you control.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Rulings>2014/04/26: <Squelching Leeches>'s power and toughness will change as the number of Swamps you control changes. Its ability counts all lands you control with the subtype Swamp, not just those named Swamp.
+2014/04/26: The ability that defines <Squelching Leeches>'s power and toughness works in all zones, not just the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>35</No>
+<Name>Dictate of Kruphix</Name>
+<Type>Enchantment</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Flash
+At the beginning of each player's draw step, that player draws an additional card.</CardText>
+<Artist>Ryan Barger</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>36</No>
+<Name>Hall of Triumph</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>As Hall of Triumph enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+1.</CardText>
+<Flavor>Heroes act without thought of glory or reward. Accolades are a consequence, not a goal.</Flavor>
+<Artist>Chuck Lukacs</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>37</No>
+<Name>Heir of the Wilds</Name>
+<Type>Creature — Human Warrior 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Deathtouch
+Ferocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.</CardText>
+<Flavor>In the high caves of the Qal Sisma mountains, young hunters quest to hear the echoes of their fierce ancestors.</Flavor>
+<Artist>David Palumbo</Artist>
+<Rulings>2014/09/20: <Heir of the Wilds> has a triggered ferocious ability with an intervening "if" clause. That ability will check if you control a creature with power 4 or greater whenever <Heir of the Wilds> attacks. If you don't at that time, the ability won't trigger at all. If it triggers, the ability will also check if you control a creature with power 4 or greater as it resolves. If you don't at that time, the ability won't do anything. Note that the creature with power 4 or greater you control as the ability triggers doesn't necessarily have to be the same one you control as the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>38</No>
+<Name>Utter End</Name>
+<Type>Instant</Type>
+<ManaCost>2WB (4)</ManaCost>
+<CardText>Exile target nonland permanent.</CardText>
+<Flavor>"I came seeking a challenge. All I found was you."
+—Zurgo, khan of the Mardu</Flavor>
+<Artist>Jack Wang</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>39</No>
+<Name>Reclamation Sage</Name>
+<Type>Creature — Elf Shaman 2/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.</CardText>
+<Flavor>"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth."</Flavor>
+<Artist>Clint Cearley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>40</No>
+<Name>Chief Engineer</Name>
+<Type>Creature — Vedalken Artificer 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for {1} or one mana of that creature's color.)</CardText>
+<Flavor>An eye for detail, a mind for numbers, a soul of clockwork.</Flavor>
+<Artist>Ryan Barger</Artist>
+<Rulings>2014/07/18: Multiple instances of convoke on a single spell are redundant.
+2014/07/18: The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay.
+2014/07/18: Convoke doesn't change a spell's mana cost or converted mana cost.
+2014/07/18: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2014/07/18: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2014/07/18: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2014/07/18: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}.
+2014/07/18: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>41</No>
+<Name>Mardu Shadowspear</Name>
+<Type>Creature — Human Warrior 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Whenever Mardu Shadowspear attacks, each opponent loses 1 life.
+Dash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2014/11/24: If you choose to pay the dash cost rather than the mana cost, you're still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its dash cost only when you otherwise could cast that creature spell. Most of the time, this means during your main phase when the stack is empty.
+2014/11/24: If you pay the dash cost to cast a creature spell, that card will be returned to its owner's hand only if it's still on the battlefield when its triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is.
+2014/11/24: You don't have to attack with the creature with dash unless another ability says you do.
+2014/11/24: If a creature enters the battlefield as a copy of or becomes a copy of a creature whose dash cost was paid, the copy won't have haste and won't be returned to its owner's hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>42</No>
+<Name>Supplant Form</Name>
+<Type>Instant</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Return target creature to its owner's hand. You create a token that's a copy of that creature.</CardText>
+<Flavor>"Ice can be shaped to any form, even the whisper of a memory."
+—Mytha, Temur shaman</Flavor>
+<Artist>Mike Bierek</Artist>
+<Rulings>2014/11/24: The token copies exactly what was printed on the creature and nothing else (unless that creature was copying something else or was a token; see below). It doesn't copy whether that creature was tapped or untapped, whether it had any counters on it or Auras and/or Equipment attached to it, or any non-copy effects that changed its power, toughness, types, color, and so on.
+2014/11/24: If you return a face-down creature to its owner's hand, the token will be a face-up colorless 2/2 creature with no name, no abilities, and no creature types. (The face-down creature card will be revealed to all players as it leaves the battlefield.)
+2014/11/24: If the copied creature had {X} in its mana cost, X is 0.
+2014/11/24: If the copied creature was copying something else, the token enters the battlefield as whatever that creature was copying.
+2014/11/24: If the copied creature is a token, the token created by <Supplant Form> copies the original characteristics of that token as stated by the effect that put it onto the battlefield.
+2014/11/24: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "As [this creature] enters the battlefield" or "[This creature] enters the battlefield with" abilities of the copied creature will also work.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>43</No>
+<Name>Thunderbreak Regent</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.</CardText>
+<Flavor>Attracting a dragon's attention may be the last mistake you make.</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2015/02/25: <Thunderbreak Regent>'s ability will resolve before the spell or ability that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>44</No>
+<Name>Scaleguard Sentinels</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand.
+Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels.</CardText>
+<Artist>David Gaillet</Artist>
+<Rulings>2015/02/25: If one of these spells is copied, the controller of the copy will get the "Dragon bonus" only if a Dragon card was revealed as an additional cost. The copy wasn't cast, so whether you controlled a Dragon won't matter.
+2015/02/25: You can't reveal more than one Dragon card to multiply the bonus. There is also no additional benefit for both revealing a Dragon card as an additional cost and controlling a Dragon as you cast the spell.
+2015/02/25: If you don't reveal a Dragon card from your hand, you must control a Dragon as you are finished casting the spell to get the bonus. For example, if you lose control of your only Dragon while casting the spell (because, for example, you sacrificed it to activate a mana ability), you won't get the bonus.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>45</No>
+<Name>Conclave Naturalists</Name>
+<Type>Creature — Dryad 4/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.</CardText>
+<Flavor>"Your swords and wards have no power here."</Flavor>
+<Artist>Howard Lyon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>46</No>
+<Name>Languish</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>All creatures get -4/-4 until end of turn.</CardText>
+<Flavor>Life is such a fragile thing.</Flavor>
+<Artist>Jeff Simpson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>47</No>
+<Name>Stasis Snare</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+When Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2015/08/25: If <Stasis Snare> leaves the battlefield before its triggered ability resolves, the target creature won't be exiled.
+2015/08/25: Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist.
+2015/08/25: If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2015/08/25: The exiled card returns to the battlefield immediately after <Stasis Snare> leaves the battlefield. Nothing happens between the two events, including state-based actions.
+2015/08/25: In a multiplayer game, if <Stasis Snare>'s owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>48</No>
+<Name>Radiant Flames</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.</CardText>
+<Flavor>The fires of Zendikar are always hungry, and there is much on which they can feed.</Flavor>
+<Artist>Ryan Barger</Artist>
+<Rulings>2015/08/25: The maximum number of colors of mana you can spend to cast a spell is five. Colorless is not a color. Note that the cost of a spell with converge may limit how many colors of mana you can spend.
+2015/08/25: Unless a spell or ability allows you to, you can't choose to pay more mana for a spell with a converge ability just to spend more colors of mana. Likewise, if a spell or ability reduces the amount of mana it costs you to cast a spell with converge, you can't ignore that cost reduction in order to spend more colors of mana.
+2015/08/25: If there are any alternative or additional costs to cast a spell with a converge ability, the mana spent to pay those costs will count. For example, if an effect makes sorcery spells cost {1} more to cast, you could pay {W}{U}{B}{R} to cast <Radiant Flames> and deal 4 damage to each creature.
+2015/08/25: If you cast a spell with converge without spending any mana to cast it (perhaps because an effect allowed you to cast it without paying its mana cost), then the number of colors spent to cast it will be zero.
+2015/08/25: If a spell with a converge ability is copied, no mana was spent to cast the copy, so the number of colors of mana spent to cast the spell will be zero. The number of colors spent to cast the original spell is not copied.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>49</No>
+<Name>Immolating Glare</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target attacking creature.</CardText>
+<Flavor>"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy."
+—Nazra of the Stone Havens</Flavor>
+<Artist>Ryan Alexander Lee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMGD</SetId>
+<No>50</No>
+<Name>Jori En, Ruin Diver</Name>
+<Type>Legendary Creature — Merfolk Wizard 2/3</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Whenever you cast your second spell each turn, draw a card.</CardText>
+<Flavor>"Some relic hunters have given up exploring and gone to fight the Eldrazi. But I know our work is more important than ever. The secrets we uncover could lead to the world's salvation."</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2016/01/22: Jori En's ability can trigger only once each turn. The ability will resolve before the second spell resolves. It doesn't matter if the first spell you cast that turn has resolved, was countered, or is still on the stack.
+2016/01/22: Jori En must be on the battlefield in order for the ability to function. Notably, the ability won't trigger if Jori En is the second spell you cast in a turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Game Day</Set>
+<Rarity>Special</Rarity>
+</Card>
+

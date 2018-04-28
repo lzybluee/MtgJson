@@ -1,0 +1,1871 @@
+<Card>
+<SetId>DPA</SetId>
+<No>1</No>
+<Name>Air Elemental</Name>
+<Type>Creature — Elemental 4/4</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab."
+—Joseph Conrad, The Mirror of the Sea</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>2</No>
+<Name>Boomerang</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Return target permanent to its owner's hand.</CardText>
+<Flavor>Early Jamuraan hunters devised a weapon that would return to its source. Tolarian Æthermancers developed a spell that skipped the weapon entirely.</Flavor>
+<Artist>Arnie Swekel</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>3</No>
+<Name>Cancel</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>4</No>
+<Name>Cloud Sprite</Name>
+<Type>Creature — Faerie 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Cloud Sprite can block only creatures with flying.</CardText>
+<Flavor>The delicate sprites carry messages for Saprazzans, but they refuse to land in Mercadia City's filthy markets.</Flavor>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>5</No>
+<Name>Counterbore</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.</CardText>
+<Artist>Wayne England</Artist>
+<Rulings>2008/05/01: <Counterbore> has no effect on cards on the battlefield that have the same name as the targeted spell.
+2008/05/01: The cards you're searching for must be found if they're in the graveyard, because that's a zone everyone can see. Finding those cards in the hand and library is optional, though.
+2008/05/01: In most cases, <Counterbore> will exile the targeted spell. Its first sentence counters the spell, which puts it into its owner's graveyard. Its second sentence then removes it from the graveyard. However, there are some exceptions to this, as listed below.
+2008/05/01: If the spell's controller isn't the same as its owner (due to Commandeer, for example), it won't be exiled. The spell is countered and put into its owner's graveyard. Then the spell's controller's graveyard, hand, and library are searched.
+2008/05/01: If the targeted spell can't be countered (it's Vexing Shusher, for example), that spell will remain on the stack. <Counterbore> will continue to resolve. You still get to search for and exile all other cards with that name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>6</No>
+<Name>Deluge</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Tap all creatures without flying.</CardText>
+<Flavor>"From the sea came all life, and to the sea it will return. The sooner the better."
+—Emperor Aboshan</Flavor>
+<Artist>Wayne England</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>7</No>
+<Name>Denizen of the Deep</Name>
+<Type>Creature — Serpent 11/11</Type>
+<ManaCost>6UU (8)</ManaCost>
+<CardText>When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.</CardText>
+<Flavor>According to merfolk legend, a denizen of the deep swallows the horizon at the end of each day, bringing on the cold blanket of night.</Flavor>
+<Artist>Jim Pavelec</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>8</No>
+<Name>Essence Scatter</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target creature spell.</CardText>
+<Flavor>Some wizards compete not to summon the most interesting creatures, but to create the most interesting aftereffects when a summons goes awry.</Flavor>
+<Artist>Jon Foster</Artist>
+<Rulings>2009/10/01: A "creature spell" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>9</No>
+<Name>Evacuation</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Return all creatures to their owners' hands.</CardText>
+<Flavor>"Once I supply the breeze, you'll see your warriors for the smoke they truly are."
+—Alexi, zephyr mage</Flavor>
+<Artist>Franz Vohwinkel</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>10</No>
+<Name>Mahamoti Djinn</Name>
+<Type>Creature — Djinn 5/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>Of royal blood among the spirits of the air, the Mahamoti djinn rides on the wings of the winds. As dangerous in the gambling hall as he is in battle, he is a master of trickery and misdirection.</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>11</No>
+<Name>Mind Control</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Enchant creature
+You control enchanted creature.</CardText>
+<Flavor>"Why fight the body when you can dominate the mind that rules it?"
+—Jace Beleren</Flavor>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2010/08/15: Gaining control of a creature doesn't cause you gain control of any Auras or Equipment attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>12</No>
+<Name>Mind Spring</Name>
+<Type>Sorcery</Type>
+<ManaCost>XUU (2)</ManaCost>
+<CardText>Draw X cards.</CardText>
+<Flavor>Fragments of thought refract and multiply, surging in a geyser of dizzying insight.</Flavor>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>13</No>
+<Name>Negate</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target noncreature spell.</CardText>
+<Flavor>Masters of the arcane savor a delicious irony. Their study of deep and complex arcana leads to such a simple end: the ability to say merely yes or no.</Flavor>
+<Artist>Jeremy Jarvis</Artist>
+<Rulings>2009/10/01: A "creature spell" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>14</No>
+<Name>Phantom Warrior</Name>
+<Type>Creature — Illusion Warrior 2/2</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Phantom Warrior can't be blocked.</CardText>
+<Flavor>"There are as many pillows of illusion as flakes in a snow-storm. We wake from one dream into another dream."
+—Ralph Waldo Emerson, "Illusions"</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>15</No>
+<Name>Snapping Drake</Name>
+<Type>Creature — Drake 3/2</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>The irritable drakes are solitary nesters. Even brooding females barely contain the urge to attack their own young.</Flavor>
+<Artist>Dave Dorman</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>16</No>
+<Name>Thieving Magpie</Name>
+<Type>Creature — Bird 1/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Thieving Magpie deals damage to an opponent, draw a card.</CardText>
+<Flavor>Other birds collect twigs for their nests. Magpies collect jewels for theirs.</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>17</No>
+<Name>Unsummon</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Return target creature to its owner's hand.</CardText>
+<Flavor>Tolarian apprentices learn to liberate Ætheric energy long before they are taught to bind it.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>18</No>
+<Name>Abyssal Specter</Name>
+<Type>Creature — Specter 2/3</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Flying
+Whenever Abyssal Specter deals damage to a player, that player discards a card.</CardText>
+<Flavor>"Mystic shadow, bending near me, /
+Who art thou? / Whence come ye?"
+—Stephen Crane,
+"Mystic shadow, bending near me"</Flavor>
+<Artist>George Pratt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>19</No>
+<Name>Ascendant Evincar</Name>
+<Type>Legendary Creature — Vampire 3/3</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Other black creatures get +1/+1.
+Nonblack creatures get -1/-1.</CardText>
+<Flavor>His soul snared by an angel's curse, Crovax twisted heroism into its purest shadow.</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2007/07/15: If <Ascendant Evincar> stops being black, it gives itself -1/-1.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>20</No>
+<Name>Consume Spirit</Name>
+<Type>Sorcery</Type>
+<ManaCost>X1B (2)</ManaCost>
+<CardText>Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.</CardText>
+<Flavor>"Your blood, your marrow, your spirit—all are mine."
+—Mayvar, minion of Geth</Flavor>
+<Artist>Matt Thompson</Artist>
+<Rulings>2009/10/01: The amount of life you gain is equal to the number chosen for X, not the amount of damage <Consume Spirit> deals (in case some of it is prevented).
+2009/10/01: If the targeted creature or player is an illegal target by the time <Consume Spirit> would resolve, the entire spell is countered. You won't gain any life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>21</No>
+<Name>Crowd of Cinders</Name>
+<Type>Creature — Elemental */*</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Crowd of Cinders's power and toughness are each equal to the number of black permanents you control.</CardText>
+<Flavor>They envy the life-giving heat so much that they tear it from those who still possess it.</Flavor>
+<Artist>Carl Frank</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>22</No>
+<Name>Drudge Skeletons</Name>
+<Type>Creature — Skeleton 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</CardText>
+<Flavor>"The dead make good soldiers. They can't disobey orders, never surrender, and don't stop fighting when a random body part falls off."
+—Nevinyrral, Necromancer's Handbook</Flavor>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>23</No>
+<Name>Dusk Imp</Name>
+<Type>Creature — Imp 2/1</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Imps are just intelligent enough to have an understanding of cruelty.</Flavor>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>24</No>
+<Name>Essence Drain</Name>
+<Type>Sorcery</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Essence Drain deals 3 damage to target creature or player and you gain 3 life.</CardText>
+<Flavor>"The elves are right: Death inevitably leads to life. But the truly powerful don't just experience this cycle. They control it."
+—Crovax, ascendant evincar</Flavor>
+<Artist>Jim Nelson</Artist>
+<Rulings>2012/07/01: If the target creature or player is an illegal target when <Essence Drain> tries to resolve, it will be countered and none of its effects will happen. You won't gain 3 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>25</No>
+<Name>Eyeblight's Ending</Name>
+<Type>Tribal Instant — Elf</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Destroy target non-Elf creature.</CardText>
+<Flavor>"Those without beauty are Lorwyn's greatest tumor. The winnowers have an unpleasant duty, but a necessary one."
+—Eidren, perfect of Lys Alana</Flavor>
+<Artist>Ron Spears</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>26</No>
+<Name>Megrim</Name>
+<Type>Enchantment</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Whenever an opponent discards a card, Megrim deals 2 damage to that player.</CardText>
+<Flavor>"Pain is both a tool and a craft. Like any tool, it must be sharpened. Like any craft, it must be practiced."
+—Hooks, Cabal torturer</Flavor>
+<Artist>Nick Percival</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>27</No>
+<Name>Mind Rot</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Target player discards two cards.</CardText>
+<Flavor>"The beauty of mental attacks is that your victims never remember them."
+—Volrath</Flavor>
+<Artist>Steve Luke</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>28</No>
+<Name>Mind Shatter</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBB (2)</ManaCost>
+<CardText>Target player discards X cards at random.</CardText>
+<Flavor>Dark thoughts hatch and twist within the mind, straining to take wing.</Flavor>
+<Artist>Michael Sutfin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>29</No>
+<Name>Moonglove Winnower</Name>
+<Type>Creature — Elf Rogue 2/3</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</CardText>
+<Flavor>Winnowers live to eliminate eyeblights, creatures the elves deem too ugly to exist.</Flavor>
+<Artist>William O'Connor</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>30</No>
+<Name>Mortivore</Name>
+<Type>Creature — Lhurgoyf */*</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>31</No>
+<Name>Ravenous Rats</Name>
+<Type>Creature — Rat 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Ravenous Rats enters the battlefield, target opponent discards a card.</CardText>
+<Flavor>Nothing is sacred to rats. Everything is simply another meal.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>32</No>
+<Name>Sengir Vampire</Name>
+<Type>Creature — Vampire 4/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.</CardText>
+<Flavor>Empires rise and fall, but evil is eternal.</Flavor>
+<Artist>Kev Walker</Artist>
+<Rulings>2007/07/15: If <Sengir Vampire> deals nonlethal damage to a creature and then a different effect or damage source causes that creature to be put into a graveyard later in the turn, <Sengir Vampire>'s ability will trigger and it will get a +1/+1 counter.
+2011/09/22: Each time a creature is put into a graveyard from the battlefield, check whether <Sengir Vampire> had dealt any damage to it at any time during that turn. If so, <Sengir Vampire>'s ability will trigger. It doesn't matter who controlled the creature or whose graveyard it was put into.
+2011/09/22: If <Sengir Vampire> and a creature it dealt damage to are both put into a graveyard at the same time, <Sengir Vampire>'s ability will trigger, but it will do nothing when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>33</No>
+<Name>Severed Legion</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</CardText>
+<Flavor>No one in Aphetto answers a knock at the door after sundown.</Flavor>
+<Artist>Dany Orizio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>34</No>
+<Name>Terror</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Artist>Adam Rex</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>35</No>
+<Name>Underworld Dreams</Name>
+<Type>Enchantment</Type>
+<ManaCost>BBB (3)</ManaCost>
+<CardText>Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.</CardText>
+<Flavor>"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan."
+—Rabindranath Tagore</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2004/10/04: If multiple cards are drawn at once, this card triggers once for each card drawn.
+2004/10/04: In a multi-player game, it affects all opponents.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>36</No>
+<Name>Unholy Strength</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+1.</CardText>
+<Flavor>Such power grows the body as it shrinks the soul.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>37</No>
+<Name>Act of Treason</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</CardText>
+<Flavor>"Rage courses in every heart, yearning to betray its rational prison."
+—Sarkhan Vol</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2009/10/01: <Act of Treason> can target any creature, even one that's untapped or one you already control.
+2010/08/15: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.
+2013/07/01: If you control a legendary creature and gain control of another legendary creature with the same name, you'll choose one to remain on the battlefield and put the other into its owner's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>38</No>
+<Name>Banefire</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Banefire deals X damage to target creature or player.
+If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.</CardText>
+<Flavor>For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2009/02/01: <Banefire> checks the number you chose for X, not the amount of mana you actually spent.
+2009/02/01: <Banefire> can be targeted by spells that try to counter it (such as Countersquall) regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.
+2009/02/01: <Banefire>'s ability won't prevent it from being countered by the game rules if its target has become an illegal target.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>39</No>
+<Name>Blaze</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Blaze deals X damage to target creature or player.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>40</No>
+<Name>Bloodmark Mentor</Name>
+<Type>Creature — Goblin Warrior 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Red creatures you control have first strike.</CardText>
+<Flavor>Boggarts divide the world into two categories: things you can eat, and things you have to chase down and pummel before you can eat.</Flavor>
+<Artist>Dave Allsop</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>41</No>
+<Name>Cinder Pyromancer</Name>
+<Type>Creature — Elemental Shaman 0/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{T}: Cinder Pyromancer deals 1 damage to target player.
+Whenever you cast a red spell, you may untap Cinder Pyromancer.</CardText>
+<Flavor>"If the whole world burns, I'll never grow cold."</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>42</No>
+<Name>Earth Elemental</Name>
+<Type>Creature — Elemental 4/5</Type>
+<ManaCost>3RR (5)</ManaCost>
+<Flavor>Earth elementals have the eternal strength of stone and the endurance of mountains. Primordially connected to the land they inhabit, they take a long-term view of things, scorning the impetuous haste of short-lived mortal creatures.</Flavor>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>43</No>
+<Name>Enrage</Name>
+<Type>Instant</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Target creature gets +X/+0 until end of turn.</CardText>
+<Flavor>"You wouldn't like me when I'm angry."</Flavor>
+<Artist>Justin Sweet</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>44</No>
+<Name>Furnace of Rath</Name>
+<Type>Enchantment</Type>
+<ManaCost>1RRR (4)</ManaCost>
+<CardText>If a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.</CardText>
+<Flavor>The furnace awaits the next master who would stoke the fires of apocalypse.</Flavor>
+<Artist>John Matson</Artist>
+<Rulings>2004/10/04: If a spell or ability damages multiple things, divide up the damage before applying this effect. This means you can't normally end up with an odd amount of damage on something.
+2004/10/04: The trample rules cause damage to be divided before it is doubled.
+2004/10/04: If you have two of these on the battlefield, the damage is multiplied by 4.
+2004/10/04: The multiplied damage counts in all ways as if it came from the original source. <Furnace of Rath> is not the source.
+2005/08/01: If multiple effects modify how damage will be dealt, the player who would be dealt damage or the controller of the creature that would be dealt damage chooses the order to apply the effects. For example, Mending Hands says, "Prevent the next 4 damage that would be dealt to target creature or player this turn." Suppose a spell would deal 5 damage to a player who has cast Mending Hands targeting himself or herself. That player can either (a) prevent 4 damage first and then let <Furnace of Rath> double the remaining 1 damage, taking 2 damage, or (b) double the damage to 10 and then prevent 4 damage, taking 6 damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>45</No>
+<Name>Goblin Piker</Name>
+<Type>Creature — Goblin Warrior 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<Flavor>Once he'd worked out which end of the thing was sharp, he was promoted to guard duty.</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>46</No>
+<Name>Goblin Sky Raider</Name>
+<Type>Creature — Goblin Warrior 1/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>The goblin word for "flying" is more accurately translated as "falling slowly."</Flavor>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>47</No>
+<Name>Hill Giant</Name>
+<Type>Creature — Giant 3/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<Flavor>Fortunately, hill giants have large blind spots in which a human can easily hide. Unfortunately, these blind spots are beneath the bottoms of their feet.</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>48</No>
+<Name>Incinerate</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</CardText>
+<Flavor>"Yes, I think 'toast' is an appropriate description."
+—Jaya Ballard, task mage</Flavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2007/07/15: Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than <Incinerate> would deal lethal damage to it or otherwise destroy it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>49</No>
+<Name>Kamahl, Pit Fighter</Name>
+<Type>Legendary Creature — Human Barbarian 6/1</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.</CardText>
+<Flavor>In times when freedom seems lost, great souls arise to reclaim it.</Flavor>
+<Artist>Kev Walker</Artist>
+<Rulings>2004/10/04: The Legend rule only applies to two legendary permanents with identical names. If the names are different, even if they depict the same character, the rule does not apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>50</No>
+<Name>Lightning Elemental</Name>
+<Type>Creature — Elemental 4/1</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
+<Flavor>"A flash of the lightning, a break of the wave,
+He passes from life to his rest in the grave."
+—William Knox, "Mortality"</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>51</No>
+<Name>Prodigal Pyromancer</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{T}: Prodigal Pyromancer deals 1 damage to target creature or player.</CardText>
+<Flavor>"What am I looking at? Ashes, dead man."</Flavor>
+<Artist>Jeremy Jarvis</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Prodigal Sorcerer.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>52</No>
+<Name>Rage Reflection</Name>
+<Type>Enchantment</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Creatures you control have double strike.</CardText>
+<Flavor>Vengeance is a dish best served twice.</Flavor>
+<Artist>Terese Nielsen & Ron Spencer</Artist>
+<Rulings>2008/05/01: If a creature loses double strike after assigning damage in the "first strike" combat damage step (due to <Rage Reflection> leaving the battlefield, for example), that creature won't assign damage in the "normal" combat damage step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>53</No>
+<Name>Shivan Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.</CardText>
+<Flavor>The undisputed master of the mountains of Shiv.</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>54</No>
+<Name>Shock</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Shock deals 2 damage to target creature or player.</CardText>
+<Flavor>"Once I saw a goblin shouting at a thunderstorm. He lost the argument pretty quickly."
+—Wandering mage</Flavor>
+<Artist>Jon Foster</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>55</No>
+<Name>Blanchwood Armor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +1/+1 for each Forest you control.</CardText>
+<Flavor>"Before armor, there was bark. Before blades, there were thorns."
+—Molimo, maro-sorcerer</Flavor>
+<Artist>Paolo Parente</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>56</No>
+<Name>Civic Wayfinder</Name>
+<Type>Creature — Elf Warrior Druid 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</CardText>
+<Flavor>"These alleys are not safe. Come, I can guide you back to the market square."</Flavor>
+<Artist>Cyril Van Der Haegen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>57</No>
+<Name>Drove of Elves</Name>
+<Type>Creature — Elf */*</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Hexproof
+Drove of Elves's power and toughness are each equal to the number of green permanents you control.</CardText>
+<Flavor>"The light of beauty protects our journeys through darkness."</Flavor>
+<Artist>Larry MacDougall</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>58</No>
+<Name>Duskdale Wurm</Name>
+<Type>Creature — Wurm 7/7</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)</CardText>
+<Artist>Dan Dos Santos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>59</No>
+<Name>Elven Riders</Name>
+<Type>Creature — Elf 3/3</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Elven Riders can't be blocked except by Walls and/or creatures with flying.</CardText>
+<Flavor>"Wirewood cannot hide great size. Only with speed and skill can we survive here."</Flavor>
+<Artist>Darrell Riche</Artist>
+<Rulings>2007/05/01: Creatures with the Reach ability (such as Giant Spider) don't actually have Flying, so they can't block this.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>60</No>
+<Name>Elvish Champion</Name>
+<Type>Creature — Elf 2/2</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)</CardText>
+<Flavor>"For what are leaves but countless blades
+To fight a countless foe on high."
+—Elvish hymn</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: It affects Elves controlled by all players, not just yours.
+2005/08/01: This card is now an Elf but has been reworded so that it does not give itself the bonus.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>61</No>
+<Name>Elvish Eulogist</Name>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</CardText>
+<Flavor>"No matter how adept our artistic skill, our effigies can never hope to capture the vibrant beauty of a living elf. Perhaps that is truly why we mourn."</Flavor>
+<Artist>Ben Thompson</Artist>
+<Rulings>2007/10/01: By the time this ability resolves, <Elvish Eulogist> will most likely be in your graveyard, so it will be counted by its own ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>62</No>
+<Name>Elvish Promenade</Name>
+<Type>Tribal Sorcery — Elf</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Create a 1/1 green Elf Warrior creature token for each Elf you control.</CardText>
+<Flavor>The faultless and immaculate castes form the lower tiers of elvish society, with the exquisite caste above them. At the pinnacle is the perfect, a consummate blend of aristocrat and predator.</Flavor>
+<Artist>Steve Ellis</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>63</No>
+<Name>Elvish Visionary</Name>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>When Elvish Visionary enters the battlefield, draw a card.</CardText>
+<Flavor>Before any major undertaking, a Cylian elf seeks the guidance of a visionary to learn the will of the gargantuan ancients.</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>64</No>
+<Name>Elvish Warrior</Name>
+<Type>Creature — Elf Warrior 2/3</Type>
+<ManaCost>GG (2)</ManaCost>
+<Flavor>As graceful as a deer leaping a stream and as deadly as the wolf waiting in ambush on the other side, elvish warriors are the eyes of the forest as well as its unsheathed claws.</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>65</No>
+<Name>Gaea's Herald</Name>
+<Type>Creature — Elf 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Creature spells can't be countered.</CardText>
+<Flavor>"Gaea sings with the voice of nature rampant: a thousand howls, chitters, and cries, and none of them can be ignored."</Flavor>
+<Artist>Jim Murray</Artist>
+<Rulings>2004/10/04: The ability applies to your opponent's spells as well as your own.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>66</No>
+<Name>Giant Growth</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Target creature gets +3/+3 until end of turn.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>67</No>
+<Name>Giant Spider</Name>
+<Type>Creature — Spider 2/4</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Reach (This creature can block creatures with flying.)</CardText>
+<Flavor>"When I trained under Multani, he bade me sit for hours watching Yavimaya's spiders. From them I learned stealth, patience, and the best way to snare a wind drake."
+—Mirri of the Weatherlight</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Rulings>2008/04/01: This card now uses the Reach keyword ability to enable the blocking of flying creatures. This works because a creature with flying can only be blocked by creatures with flying or reach.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>68</No>
+<Name>Greenweaver Druid</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>{T}: Add {G}{G} to your mana pool.</CardText>
+<Flavor>The other tribes call them fanatics, but none deny that the Mul Daya elves have an iron-strong bond to some force greater than themselves.</Flavor>
+<Artist>Justin Sweet</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>69</No>
+<Name>Howl of the Night Pack</Name>
+<Type>Sorcery</Type>
+<ManaCost>6G (7)</ManaCost>
+<CardText>Create a 2/2 green Wolf creature token for each Forest you control.</CardText>
+<Flavor>The murderous horrors of Raven's Run are legendary, but even that haunted place goes quiet when the night wolves howl.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2013/07/01: The number of Wolves you put onto the battlefield is based on the number of Forests you control when <Howl of the Night Pack> resolves.
+2013/07/01: <Howl of the Night Pack> counts any land you control with the subtype Forest, not just ones named Forest.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>70</No>
+<Name>Immaculate Magistrate</Name>
+<Type>Creature — Elf Shaman 2/2</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>{T}: Put a +1/+1 counter on target creature for each Elf you control.</CardText>
+<Flavor>Elves of the immaculate class weave flora into living creatures—sometimes to endorse an elite warrior, sometimes to create a breathing work of art.</Flavor>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>71</No>
+<Name>Imperious Perfect</Name>
+<Type>Creature — Elf Warrior 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Other Elf creatures you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.</CardText>
+<Flavor>In a culture of beauty, the most beautiful are worshipped as gods.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>72</No>
+<Name>Jagged-Scar Archers</Name>
+<Type>Creature — Elf Archer */*</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.
+{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.</CardText>
+<Artist>Paolo Parente</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>73</No>
+<Name>Lys Alana Huntmaster</Name>
+<Type>Creature — Elf Warrior 3/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token.</CardText>
+<Flavor>From the highest tiers of Dawn's Light Palace to the deepest shade of Wren's Run, the silver notes of the horn shimmer through the air, and all who hear it feel its pull.</Flavor>
+<Artist>Pete Venters</Artist>
+<Rulings>2016/06/08: <Lys Alana Huntmaster>'s ability will resolve before the Elf spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>74</No>
+<Name>Molimo, Maro-Sorcerer</Name>
+<Type>Legendary Creature — Elemental */*</Type>
+<ManaCost>4GGG (7)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.</CardText>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>75</No>
+<Name>Natural Spring</Name>
+<Type>Sorcery</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Target player gains 8 life.</CardText>
+<Flavor>"Jewels cannot be eaten nor gold drunk. What civilization trades, nature simply provides."
+—Molimo, maro-sorcerer</Flavor>
+<Artist>Jeffrey R. Busch</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>76</No>
+<Name>Naturalize</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Flavor>"Well, it also makes a very nice flower pot. . . ."
+—Arcum Dagsson, Soldevi machinist</Flavor>
+<Artist>Tim Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>77</No>
+<Name>Nature's Spiral</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)</CardText>
+<Flavor>Like nature, the fern spirals back on itself, eternally seeking its own center.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>78</No>
+<Name>Overrun</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GGG (5)</ManaCost>
+<CardText>Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
+<Flavor>Nature doesn't walk.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2009/10/01: <Overrun> affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>79</No>
+<Name>Rampant Growth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>Nature grows solutions to her problems.</Flavor>
+<Artist>Steven Belledin</Artist>
+<Rulings>2004/10/04: The land does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>80</No>
+<Name>River Boa</Name>
+<Type>Creature — Snake 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{G}: Regenerate River Boa.</CardText>
+<Artist>Paul Bonner</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>81</No>
+<Name>Roughshod Mentor</Name>
+<Type>Creature — Giant Warrior 5/4</Type>
+<ManaCost>5G (6)</ManaCost>
+<CardText>Green creatures you control have trample.</CardText>
+<Artist>Steven Belledin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>82</No>
+<Name>Runeclaw Bear</Name>
+<Type>Creature — Bear 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<Flavor>Bears aren't always as strong and as mean as you imagine. Some are even stronger and meaner.</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>83</No>
+<Name>Spined Wurm</Name>
+<Type>Creature — Wurm 5/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<Flavor>Its spines act like the teeth of a saw, scoring distinctive marks in the vegetation of its territory.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>84</No>
+<Name>Talara's Battalion</Name>
+<Type>Creature — Elf Warrior 4/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Trample
+Cast Talara's Battalion only if you've cast another green spell this turn.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>85</No>
+<Name>Trained Armodon</Name>
+<Type>Creature — Elephant 3/3</Type>
+<ManaCost>1GG (3)</ManaCost>
+<Flavor>These are its last days. Better to grow broad and heavy. Better that the enemy is crushed beneath its carcass.</Flavor>
+<Artist>Gary Leach</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>86</No>
+<Name>Troll Ascetic</Name>
+<Type>Creature — Troll Shaman 3/2</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+{1}{G}: Regenerate Troll Ascetic.</CardText>
+<Artist>Puddnhead</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>87</No>
+<Name>Verdant Force</Name>
+<Type>Creature — Elemental 7/7</Type>
+<ManaCost>5GGG (8)</ManaCost>
+<CardText>At the beginning of each upkeep, create a 1/1 green Saproling creature token.</CardText>
+<Flavor>Left to itself, nature overflows any container, overthrows any restriction, and overreaches any boundary.</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Rulings>2004/10/04: <Verdant Force>'s controller gets the tokens. That is the controller at the beginning of upkeep.
+2005/08/01: Once created, the tokens are independent of <Verdant Force>. If <Verdant Force> changes controllers, the new controller will put tokens onto the battlefield, but existing tokens will stay where they are.
+2006/05/01: In Two-Headed Giant, triggers only once per upkeep, not once for each player.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>88</No>
+<Name>Vigor</Name>
+<Type>Creature — Elemental Incarnation 6/6</Type>
+<ManaCost>3GGG (6)</ManaCost>
+<CardText>Trample
+If damage would be dealt to a creature you control other than Vigor, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.
+When Vigor is put into a graveyard from anywhere, shuffle it into its owner's library.</CardText>
+<Artist>Jim Murray</Artist>
+<Rulings>2007/10/01: The last ability triggers when the Incarnation is put into its owner's graveyard from any zone, not just from on the battlefield.
+2007/10/01: Although this ability triggers when the Incarnation is put into a graveyard from the battlefield, it doesn't *specifically* trigger on leaving the battlefield, so it doesn't behave like other leaves-the-battlefield abilities. The ability will trigger from the graveyard.
+2007/10/01: If the Incarnation had lost this ability while on the battlefield (due to Lignify, for example) and then was destroyed, the ability would still trigger and it would get shuffled into its owner's library. However, if the Incarnation lost this ability when it was put into the graveyard (due to Yixlid Jailer, for example), the ability wouldn't trigger and the Incarnation would remain in the graveyard.
+2007/10/01: If the Incarnation is removed from the graveyard after the ability triggers but before it resolves, it will remain in its new zone when its owner shuffles his or her library. Similarly, if a replacement effect has the Incarnation move to a different zone instead of being put into the graveyard, the ability won't trigger at all.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>89</No>
+<Name>Wall of Wood</Name>
+<Type>Creature — Wall 0/3</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Defender (This creature can't attack.)</CardText>
+<Flavor>Orcish lumberjacks spent the night sharpening their blades and resting for a day of labor. They awoke to find that the forest had been making its own preparations.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>90</No>
+<Name>Coat of Arms</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</CardText>
+<Flavor>"Hup, two, three, four,
+Dunno how to count no more."</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Rulings>2004/10/04: If a creature has more than one creature type, and one of those types matches the creature you are calculating for, then count that creature. Only one type needs to match in order to get counted.
+2004/10/04: If you have a creature with more than one creature type, count all creatures which have either creature type.
+2009/10/01: Sharing multiple creature types doesn't give an additional bonus. <Coat of Arms> counts creatures, not creature types.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>91</No>
+<Name>Demon's Horn</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever a player casts a black spell, you may gain 1 life.</CardText>
+<Flavor>Its curve mimics the twists of life and death.</Flavor>
+<Artist>Alan Pollack</Artist>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a black spell.
+2009/10/01: If a player casts a black spell, <Demon's Horn>'s ability triggers and is put on the stack on top of that spell. <Demon's Horn>'s ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>92</No>
+<Name>Dragon's Claw</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever a player casts a red spell, you may gain 1 life.</CardText>
+<Flavor>Though no longer attached to the hand, it still holds its adversary in its grasp.</Flavor>
+<Artist>Alan Pollack</Artist>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a red spell.
+2009/10/01: If a player casts a red spell, <Dragon's Claw>'s ability triggers and is put on the stack on top of that spell. <Dragon's Claw>'s ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>93</No>
+<Name>Kraken's Eye</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever a player casts a blue spell, you may gain 1 life.</CardText>
+<Flavor>Bright as a mirror, dark as the sea.</Flavor>
+<Artist>Alan Pollack</Artist>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a blue spell.
+2009/10/01: If a player casts a blue spell, <Kraken's Eye>'s ability triggers and is put on the stack on top of that spell. <Kraken's Eye>'s ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>94</No>
+<Name>Loxodon Warhammer</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +3/+0 and has trample and lifelink.
+Equip {3}</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>95</No>
+<Name>The Rack</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>As The Rack enters the battlefield, choose an opponent.
+At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.</CardText>
+<Artist>Nic Klein</Artist>
+<Rulings>2004/10/04: You choose one opposing player as this card enters the battlefield and it only affects that one player. This choice is not changed even if this card changes controllers. It becomes useless but stays on the battlefield if the chosen player leaves the game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>96</No>
+<Name>Wall of Spears</Name>
+<Type>Artifact Creature — Wall 2/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+First strike</CardText>
+<Flavor>Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging Craw Wurms.</Flavor>
+<Artist>Sandra Everingham</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>97</No>
+<Name>Wurm's Tooth</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever a player casts a green spell, you may gain 1 life.</CardText>
+<Flavor>A wurm knows nothing of deception. If it opens its mouth, it plans to eat you.</Flavor>
+<Artist>Alan Pollack</Artist>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a green spell.
+2009/10/01: If a player casts a green spell, <Wurm's Tooth>'s ability triggers and is put on the stack on top of that spell. <Wurm's Tooth>'s ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>98</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>99</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>100</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>101</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Stephan Martiniere</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>102</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>103</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>104</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>105</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Richard Wright</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>106</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>107</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>108</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>109</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Stephan Martiniere</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>110</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>111</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>112</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>DPA</SetId>
+<No>113</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Stephan Martiniere</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers</Set>
+<Rarity>Land</Rarity>
+</Card>
+

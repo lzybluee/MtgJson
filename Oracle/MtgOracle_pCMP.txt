@@ -1,0 +1,212 @@
+<Card>
+<SetId>pCMP</SetId>
+<No>1</No>
+<Name>Electrolyze</Name>
+<Type>Instant</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2017/11/17: You divide the damage as you cast <Electrolyze>, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast <Electrolyze>, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2017/11/17: If <Electrolyze> targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2. You'll still draw a card.
+2017/11/17: If all chosen targets are illegal as <Electrolyze> tries to resolve, it will be countered and none of its effects will happen. No damage will be dealt and you won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>2</No>
+<Name>Niv-Mizzet, the Firemind</Name>
+<Type>Legendary Creature — Dragon Wizard 4/4</Type>
+<ManaCost>2UURR (6)</ManaCost>
+<CardText>Flying
+Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.
+{T}: Draw a card.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>3</No>
+<Name>Rakdos Guildmage</Name>
+<Type>Creature — Zombie Shaman 2/2</Type>
+<ManaCost>{B/R}{B/R} (2)</ManaCost>
+<CardText>({B/R} can be paid with either {B} or {R}.)
+{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.
+{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Rulings>2006/05/01: If the second ability is activated during the End step, the token won't be exiled until the following turn's End step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>4</No>
+<Name>Voidslime</Name>
+<Type>Instant</Type>
+<ManaCost>UUG (3)</ManaCost>
+<CardText>Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)</CardText>
+<Artist>Jim Murray</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>5</No>
+<Name>Urza's Factory</Name>
+<Type>Land — Urza's</Type>
+<CardText>{T}: Add {C} to your mana pool.
+{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2006/09/25: Although <Urza's Factory> has the Urza's land type, it doesn't interact with Urza's Tower, Urza's Mine, or Urza's Power Plant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>6</No>
+<Name>Serra Avenger</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>You can't cast Serra Avenger during your first, second, or third turns of the game.
+Flying
+Vigilance (Attacking doesn't cause this creature to tap.)</CardText>
+<Artist>Scott M. Fischer</Artist>
+<Rulings>2006/09/25: You can cast <Serra Avenger> during another player's first, second, or third turns of the game if some other effect (such as Vedalken Orrery) enables that.
+2012/07/01: <Serra Avenger> cares about how many turns you have taken, not necessarily how many turns the game has had, in case you take an extra turn.
+2012/07/01: If the game is restarted (by Karn Liberated), you can't cast <Serra Avenger> in your first, second, or third turn in the new game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>7</No>
+<Name>Blood Knight</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>RR (2)</ManaCost>
+<CardText>First strike, protection from white</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Black Knight.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>8</No>
+<Name>Groundbreaker</Name>
+<Type>Creature — Elemental 6/1</Type>
+<ManaCost>GGG (3)</ManaCost>
+<CardText>Trample, haste
+At the beginning of the end step, sacrifice Groundbreaker.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Ball Lightning.
+2007/02/01: The creature is sacrificed at the end of every turn in which it is on the battlefield. There is no choice about what turn to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>9</No>
+<Name>Imperious Perfect</Name>
+<Type>Creature — Elf Warrior 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Other Elf creatures you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.</CardText>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>10</No>
+<Name>Doran, the Siege Tower</Name>
+<Type>Legendary Creature — Treefolk Shaman 0/5</Type>
+<ManaCost>WBG (3)</ManaCost>
+<CardText>Each creature assigns combat damage equal to its toughness rather than its power.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2007/10/01: Doran's ability means, for example, that a 2/3 creature will assign 3 damage in combat instead of 2.
+2007/10/01: Doran's ability doesn't actually change creatures' power; it changes only the value of the combat damage they assign. All other rules and effects that check power or toughness use the real values.
+2007/10/01: This effect is mandatory and affects all creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>11</No>
+<Name>Bramblewood Paragon</Name>
+<Type>Creature — Elf Warrior 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has trample.</CardText>
+<Artist>Jim Murray</Artist>
+<Rulings>2008/04/01: If a Warrior would normally enter the battlefield with a certain number of +1/+1 counters on it, it enters the battlefield with that many +1/+1 counters plus one on it instead. If a Warrior would normally enter the battlefield with no +1/+1 counters on it, it enters the battlefield with one +1/+1 counter on it instead.
+2008/04/01: The creature gets the counter if it would enter the battlefield under your control. It doesn't matter who owns the creature or what zone it enters the battlefield from (such as your opponent's graveyard, for example).
+2008/04/01: The effects from more than one <Bramblewood Paragon> are cumulative. That is, if you have more than one <Bramblewood Paragon> on the battlefield, Warrior creatures you control enter the battlefield with that many additional +1/+1 counters on them.
+2008/04/01: If <Bramblewood Paragon> enters the battlefield at the same time as another Warrior (due to Living End, for example), that creature doesn't get a +1/+1 counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pCMP</SetId>
+<No>12</No>
+<Name>Mutavault</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C} to your mana pool.
+{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.</CardText>
+<Artist>Fred Fields</Artist>
+<Rulings>2008/04/01: Although <Mutavault> has all creature types while it's animated, it does not have the changeling keyword ability.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature.
+2013/07/01: Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Champs and States</Set>
+<Rarity>Special</Rarity>
+</Card>
+

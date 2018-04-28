@@ -1,0 +1,643 @@
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>1</No>
+<Name>Ugin, the Spirit Dragon</Name>
+<Type>Legendary Planeswalker — Ugin (Loyalty: 7)</Type>
+<ManaCost>8 (8)</ManaCost>
+<CardText>+2: Ugin, the Spirit Dragon deals 3 damage to any target.
+-X: Exile each permanent with converted mana cost X or less that's one or more colors.
+-10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</CardText>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>394086</Multiverseid>
+<Rulings>2014/11/24: If you choose to put permanent cards with morph onto the battlefield with the third ability, you must put them onto the battlefield face up.
+2014/11/24: <Ugin, the Spirit Dragon> is not a Dragon card; that is, he doesn't have the creature type Dragon. Spells and abilities that refer to Dragon cards or Dragons don't apply to Ugin.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>19</No>
+<Name>Mastery of the Unseen</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.
+{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Multiverseid>394079</Multiverseid>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>24</No>
+<Name>Smite the Monstrous</Name>
+<Type>Instant</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Destroy target creature with power 4 or greater.</CardText>
+<Flavor>The changing of a single moment in Tarkir's past altered its future, rewriting its history.</Flavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>394083</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>26</No>
+<Name>Soul Summons</Name>
+<Type>Sorcery</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Flavor>Ugin's magic reaches beyond the dragons. The clans have adapted it for war.</Flavor>
+<Artist>Johann Bodin</Artist>
+<Multiverseid>394084</Multiverseid>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>30</No>
+<Name>Watcher of the Roost</Name>
+<Type>Creature — Bird Soldier 2/1</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flying
+Morph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Watcher of the Roost is turned face up, you gain 2 life.</CardText>
+<Artist>Jack Wang</Artist>
+<Multiverseid>394088</Multiverseid>
+<Rulings>2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>36</No>
+<Name>Jeskai Infiltrator</Name>
+<Type>Creature — Human Monk 2/3</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Jeskai Infiltrator can't be blocked as long as you control no other creatures.
+When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Artist>Cynthia Sheppard</Artist>
+<Multiverseid>394078</Multiverseid>
+<Rulings>2014/11/24: The pile is shuffled to disguise from your opponents which manifested creature is which. After you manifest the cards, you can look at them.
+2014/11/24: If <Jeskai Infiltrator> isn't on the battlefield as its triggered ability resolves, you'll manifest just the top card of your library.
+2014/11/24: A card's owner is public information at all times. If the two cards you exile are owned by different players (perhaps because you gained control of a <Jeskai Infiltrator> owned by your opponent), which card is which is no longer hidden from your opponent. That player will know which face-down creature they own.
+2014/11/24: If you manifest a card owned by an opponent and you leave the game, that card is exiled.
+2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>46</No>
+<Name>Reality Shift</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)</CardText>
+<Artist>Howard Lyon</Artist>
+<Multiverseid>394081</Multiverseid>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>48</No>
+<Name>Mystic of the Hidden Way</Name>
+<Type>Creature — Human Monk 3/2</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Mystic of the Hidden Way can't be blocked.
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Flavor>"There are many different paths. The Great Teacher reveals them all."</Flavor>
+<Artist>Ryan Alexander Lee</Artist>
+<Multiverseid>394080</Multiverseid>
+<Rulings>2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2018/03/16: If a face-down <Mystic of the Hidden Way> is blocked and then turned face up, it stays blocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>59</No>
+<Name>Write into Being</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Artist>Yeong-Hao Han</Artist>
+<Multiverseid>394090</Multiverseid>
+<Rulings>2014/11/24: Other players won't know whether the card you manifest is the top card or second card of that library.
+2014/11/24: If you're playing with the top card of your library revealed, you'll manifest one of the cards, then the other one will be revealed, then you can choose to put that card on the bottom of your library or leave it on top.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>68</No>
+<Name>Debilitating Injury</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets -2/-2.</CardText>
+<Flavor>Weakness exists within all who are not dragons.</Flavor>
+<Artist>Slawomir Maniak</Artist>
+<Multiverseid>394070</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>73</No>
+<Name>Grim Haruspex</Name>
+<Type>Creature — Human Wizard 3/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Whenever another nontoken creature you control dies, draw a card.</CardText>
+<Flavor>"Your enemies may be cowardly, my lord, but one should never call them gutless."</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Multiverseid>394075</Multiverseid>
+<Rulings>2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>85</No>
+<Name>Sultai Emissary</Name>
+<Type>Creature — Zombie Warrior 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Flavor>To the Sultai, Ugin's power was just one more resource to be exploited.</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Multiverseid>394085</Multiverseid>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>88</No>
+<Name>Ruthless Ripper</Name>
+<Type>Creature — Human Assassin 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Deathtouch
+Morph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Ruthless Ripper is turned face up, target player loses 2 life.</CardText>
+<Artist>Clint Cearley</Artist>
+<Multiverseid>394082</Multiverseid>
+<Rulings>2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>96</No>
+<Name>Ainok Tracker</Name>
+<Type>Creature — Hound Scout 3/3</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>First strike
+Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Flavor>"The ainok are wild dogs, not fit to join us around the fire."
+—Surrak, the Hunt Caller</Flavor>
+<Artist>Evan Shipard</Artist>
+<Multiverseid>394065</Multiverseid>
+<Rulings>2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>97</No>
+<Name>Arc Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.</CardText>
+<Flavor>Lightning burns the dragon's path.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Multiverseid>394068</Multiverseid>
+<Rulings>2014/09/20: You choose how many targets <Arc Lightning> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2014/09/20: If some of the creatures are illegal targets as <Arc Lightning> tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, <Arc Lightning> doesn't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>98</No>
+<Name>Fierce Invocation</Name>
+<Type>Sorcery</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Flavor>Anger can empower those who embrace it.</Flavor>
+<Artist>Tyler Jacobson</Artist>
+<Multiverseid>394072</Multiverseid>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>113</No>
+<Name>Jeering Instigator</Name>
+<Type>Creature — Goblin Rogue 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</CardText>
+<Artist>Willian Murai</Artist>
+<Multiverseid>394077</Multiverseid>
+<Rulings>2014/09/20: <Jeering Instigator>'s last ability can target any creature, even one that's untapped or one you already control.
+2014/09/20: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to that creature.
+2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>123</No>
+<Name>Arashin War Beast</Name>
+<Type>Creature — Beast 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Artist>Eric Deschamps</Artist>
+<Multiverseid>394067</Multiverseid>
+<Rulings>2014/11/24: <Arashin War Beast>'s ability will trigger only once per combat damage step, no matter how many creatures are blocking it.
+2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>129</No>
+<Name>Formless Nurturing</Name>
+<Type>Sorcery</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Artist>Cliff Childs</Artist>
+<Multiverseid>394073</Multiverseid>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>131</No>
+<Name>Dragonscale Boon</Name>
+<Type>Instant</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Put two +1/+1 counters on target creature and untap it.</CardText>
+<Flavor>Only those who have proved themselves worthy are granted a dragon's scale.</Flavor>
+<Artist>Mark Winters</Artist>
+<Multiverseid>394071</Multiverseid>
+<Rulings>2014/09/20: <Dragonscale Boon> can target any creature, including one that's already untapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>146</No>
+<Name>Wildcall</Name>
+<Type>Sorcery</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)</CardText>
+<Flavor>A howl on the wind hides many dangers.</Flavor>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>394089</Multiverseid>
+<Rulings>2014/11/24: If you choose 0 for X, you'll just manifest the top card of your library.
+2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>161</No>
+<Name>Hewed Stone Retainers</Name>
+<Type>Artifact Creature — Golem 4/4</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Cast this spell only if you've cast another spell this turn.</CardText>
+<Flavor>"Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world."
+—Jilaya, Temur whisperer</Flavor>
+<Artist>David Seguin</Artist>
+<Multiverseid>394076</Multiverseid>
+<Rulings>2014/11/24: It doesn't matter whether the other spell resolved. It could have been countered or, if you've somehow cast <Hewed Stone Retainers> as though it had flash, it could still be on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>164</No>
+<Name>Ugin's Construct</Name>
+<Type>Artifact Creature — Construct 4/5</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.</CardText>
+<Flavor>While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri.</Flavor>
+<Artist>Peter Mohrbacher</Artist>
+<Multiverseid>394087</Multiverseid>
+<Rulings>2014/11/24: If you control only colorless permanents as the ability resolves (for example, basic lands and face-down permanents), you won't sacrifice anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>216</No>
+<Name>Altar of the Brood</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Whenever another permanent enters the battlefield under your control, each opponent puts the top card of their library into their graveyard.</CardText>
+<Flavor>Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises.</Flavor>
+<Artist>Erica Yang</Artist>
+<Multiverseid>394066</Multiverseid>
+<Rulings>2014/09/20: If <Altar of the Brood> enters the battlefield under your control at the same time as other permanents, its ability will trigger for each of those permanents.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>217</No>
+<Name>Briber's Purse</Name>
+<Type>Artifact</Type>
+<ManaCost>X (0)</ManaCost>
+<CardText>Briber's Purse enters the battlefield with X gem counters on it.
+{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.</CardText>
+<Flavor>The bigger the hand, the higher the price.</Flavor>
+<Artist>Steve Argyle</Artist>
+<Multiverseid>394069</Multiverseid>
+<Rulings>2014/09/20: Activating the ability targeting a creature that's already attacking or blocking won't remove it from combat or affect that attack or block.
+2014/09/20: If <Briber's Purse> has no gem counters on it, it remains on the battlefield, although you can't activate its last ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>FRF_UGIN</SetId>
+<No>220</No>
+<Name>Ghostfire Blade</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +2/+2.
+Equip {3}
+Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.</CardText>
+<Flavor>If you fear the dragon's fire, you are unworthy to wield it.</Flavor>
+<Artist>Cyril Van Der Haegen</Artist>
+<Multiverseid>394074</Multiverseid>
+<Rulings>2014/09/20: Face-down creatures and most artifact creatures are colorless.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ugin's Fate promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,364 @@
+<Card>
+<SetId>pGTW</SetId>
+<No>1</No>
+<Name>Wood Elves</Name>
+<Type>Creature — Elf Scout 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.</CardText>
+<Flavor>Every branch a crossroads, every vine a swift steed.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>2</No>
+<Name>Icatian Javelineers</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Icatian Javelineers enters the battlefield with a javelin counter on it.
+{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.</CardText>
+<Artist>Michael Phillippi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>3</No>
+<Name>Fiery Temper</Name>
+<Type>Instant</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Fiery Temper deals 3 damage to target creature or player.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Ben Wootten</Artist>
+<Rulings>2016/04/08: Cards are discarded in a Magic game only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded.
+2016/04/08: A spell cast for its madness cost is put onto the stack like any other spell. It can be countered, copied, and so on. As it resolves, it's put onto the battlefield if it's a permanent card or into its owner's graveyard if it's an instant or sorcery card.
+2016/04/08: Casting a spell for its madness cost doesn't change its mana cost or its converted mana cost. You just pay the madness cost instead.
+2016/04/08: Effects that cause you to pay more or less for a spell will cause you to pay that much more or less for its madness cost, too.
+2016/04/08: Madness works independently of why you're discarding the card. You could discard it to pay a cost, because a spell or ability tells you to, or even because you have too many cards in your hand at the end of your turn. You can't discard a card with madness just because you want to, though.
+2016/04/08: When you cast a card with madness, it was still discarded. If it was discarded to pay a cost, that cost is still paid. Abilities that trigger when a card is discarded will still trigger.
+2016/04/08: If you choose not to cast a card with madness when the madness triggered ability resolves, it's put into your graveyard. You don't get another chance to cast it later.
+2016/04/08: If you discard a card with madness to pay the cost of a spell or activated ability, that card's madness trigger (and the spell that card becomes, if you choose to cast it) will resolve before the spell or ability the discard paid for.
+2016/04/08: If you discard a card with madness while resolving a spell or ability, it moves immediately to exile. Continue resolving that spell or ability—the card is not in your graveyard at this time. Its madness trigger will be placed onto the stack once that spell or ability has completely resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>4</No>
+<Name>Boomerang</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Return target permanent to its owner's hand.</CardText>
+<Flavor>"Returne from whence ye came..."
+—Edmund Spenser, The Faerie Queene</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>5</No>
+<Name>Calciderm</Name>
+<Type>Creature — Beast 5/5</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)
+Vanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</CardText>
+<Artist>Dave Kendall</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Blastoderm.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>6</No>
+<Name>Reckless Wurm</Name>
+<Type>Creature — Wurm 4/4</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Trample
+Madness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Flavor>Bred for battle in the Grand Coliseum, these wurms annihilated whole ecosystems when released into the wild.</Flavor>
+<Artist>Greg Staples</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Arrogant Wurm.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>7</No>
+<Name>Yixlid Jailer</Name>
+<Type>Creature — Zombie Wizard 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Cards in graveyards lose all abilities.</CardText>
+<Flavor>He holds the keys to a tombful of incarcerated secrets.</Flavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Rulings>2007/05/01: This removes all abilities on all cards in all graveyards — both the ones that matter in a graveyard (dredge, Chronosavant's ability, etc.) and those that don't.
+2007/05/01: If an ability triggers when the object that has it is put into a graveyard from the battlefield, that ability triggers from the battlefield (such as Deadwood Treefolk or Epochrasite, for example), they won't be affected by <Yixlid Jailer>.
+2007/05/01: If an ability triggers when the object that has it is put into a graveyard from anywhere other than the battlefield, that ability triggers from the graveyard, (such as Krosan Tusker, Narcomoeba, or Quagnoth, for example). <Yixlid Jailer> will prevent those abilities from triggering at all.
+2007/05/01: If an ability triggers when the object that has it is put into a hidden zone from a graveyard, that ability triggers from the graveyard, (such as Golgari Brownscale), <Yixlid Jailer> will prevent that ability from triggering.
+2007/05/01: Some replacement effects cause a card to be put somewhere else instead of being put into a graveyard (such as Legacy Weapon). These effects mean the card is never actually put into the graveyard, so <Yixlid Jailer> can't affect it.
+2007/05/01: Some cards have abilities that modify how they're put onto the battlefield. For example, Scarwood Treefolk says "Scarwood Treefolk is put onto the battlefield tapped" and Triskelion says "Triskelion enters the battlefield with three +1/+1 counters on it." Although these cards won't have these abilities in the graveyard, they will be applied if the cards are put onto the battlefield from the graveyard (due to Zombify, perhaps). What matters is that these cards will have these abilities on the battlefield.
+2007/05/01: If Mistform Ultimus is in the graveyard, the Ultimus will lose its ability that says "Mistform Ultimus is every creature type," but it will still *be* all creature types. The way continuous effects work, Mistform Ultimus's type-changing ability is applied before <Yixlid Jailer>'s ability removes it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>8</No>
+<Name>Zoetic Cavern</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C} to your mana pool.
+Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Flavor>Nothing lives within it, yet there is life.</Flavor>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>9</No>
+<Name>Llanowar Elves</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G} to your mana pool.</CardText>
+<Flavor>Whenever the Llanowar elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>10</No>
+<Name>Mogg Fanatic</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</CardText>
+<Flavor>"As if his chest had been a mortar, he burst his hot heart's shell upon it."
+—Herman Melville, Moby Dick</Flavor>
+<Artist>Nils Hamm</Artist>
+<Rulings>2016/06/08: Once <Mogg Fanatic> has dealt and been dealt combat damage, it's too late to activate its ability before it's destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>11</No>
+<Name>Mind Stone</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Add {C} to your mana pool.
+{1}, {T}, Sacrifice Mind Stone: Draw a card.</CardText>
+<Flavor>"Except our own thoughts, there is nothing absolutely in our power."
+—Rene Descartes, Discourse on Method</Flavor>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>12</No>
+<Name>Dauntless Dourbark</Name>
+<Type>Creature — Treefolk Warrior */*</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.
+Dauntless Dourbark has trample as long as you control another Treefolk.</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Rulings>2007/10/01: <Dauntless Dourbark> counts itself when determining its power and toughness.
+2007/10/01: A permanent that's both a Forest and a Treefolk will be counted twice when determining <Dauntless Dourbark>'s power and toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>13</No>
+<Name>Lava Axe</Name>
+<Type>Sorcery</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Lava Axe deals 5 damage to target player.</CardText>
+<Flavor>"Catch!"</Flavor>
+<Artist>Ray Lago</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>14</No>
+<Name>Cenn's Tactician</Name>
+<Type>Creature — Kithkin Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{W}, {T}: Put a +1/+1 counter on target Soldier creature.
+Each creature you control with a +1/+1 counter on it can block an additional creature each combat.</CardText>
+<Flavor>"A well-trained force brings peace... which brings more time for training!"</Flavor>
+<Artist>Steven Belledin</Artist>
+<Rulings>2008/04/01: The second ability is cumulative. That is, each creature you control with any +1/+1 counters on it can block an additional creature for each <Cenn's Tactician> you control. <Cenn's Tactician> doesn't care whether the creature has any +1/+1 counters on it beyond the first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>15</No>
+<Name>Oona's Blackguard</Name>
+<Type>Creature — Faerie Rogue 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flying
+Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.</CardText>
+<Artist>Darrell Riche</Artist>
+<Rulings>2008/04/01: If a Rogue would normally enter the battlefield with a certain number of +1/+1 counters on it, it enters the battlefield with that many +1/+1 counters plus one on it instead. If a Rogue would normally enter the battlefield with no +1/+1 counters on it, it enters the battlefield with one +1/+1 counter on it instead.
+2008/04/01: The creature gets the counter if it would enter the battlefield under your control. It doesn't matter who owns the creature or what zone it enters the battlefield from (such as your opponent's graveyard, for example).
+2008/04/01: The effects from more than one of these cards are cumulative. That is, if you have two <Oona's Blackguard> on the battlefield, Rogue creatures you control enter the battlefield with two additional +1/+1 counters on them.
+2008/04/01: If <Oona's Blackguard> enters the battlefield at the same time as another Rogue (due to Living End, for example), that creature doesn't get a +1/+1 counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>16</No>
+<Name>Gravedigger</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</CardText>
+<Flavor>A full coffin is like a full coffer-both are attractive to thieves.</Flavor>
+<Artist>Tony Szczudlo</Artist>
+<Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>17</No>
+<Name>Boggart Ram-Gang</Name>
+<Type>Creature — Goblin Warrior 3/3</Type>
+<ManaCost>{R/G}{R/G}{R/G} (3)</ManaCost>
+<CardText>Haste
+Wither (This deals damage to creatures in the form of -1/-1 counters.)</CardText>
+<Flavor>"We're going to need a bigger gate." —Bowen, Barrenton guardcaptain</Flavor>
+<Artist>Lucio Parrillo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>18</No>
+<Name>Wilt-Leaf Cavaliers</Name>
+<Type>Creature — Elf Knight 3/4</Type>
+<ManaCost>{G/W}{G/W}{G/W} (3)</ManaCost>
+<CardText>Vigilance</CardText>
+<Flavor>Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.</Flavor>
+<Artist>Steven Belledin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>19</No>
+<Name>Duergar Hedge-Mage</Name>
+<Type>Creature — Dwarf Shaman 2/2</Type>
+<ManaCost>2{R/W} (3)</ManaCost>
+<CardText>When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.
+When Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Rulings>2008/08/01: Each of the triggered abilities has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless you control two or more lands of the appropriate land type when the Hedge-Mage enters the battlefield, and (2) the ability will do nothing if you don't control two or more lands of the appropriate land type by the time it resolves.
+2008/08/01: Both abilities trigger at the same time. You can put them on the stack in any order.
+2008/08/01: Each of the triggered abilities look at your lands individually. This means that if you only control two dual-lands of the appropriate types, both of the abilities will trigger.
+2008/08/01: Both abilities are optional; you choose whether to use them when they resolve. If an ability has a target, you must choose a target even if you don't plan to use the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pGTW</SetId>
+<No>20</No>
+<Name>Selkie Hedge-Mage</Name>
+<Type>Creature — Merfolk Wizard 2/2</Type>
+<ManaCost>2{G/U} (3)</ManaCost>
+<CardText>When Selkie Hedge-Mage enters the battlefield, if you control two or more Forests, you may gain 3 life.
+When Selkie Hedge-Mage enters the battlefield, if you control two or more Islands, you may return target tapped creature to its owner's hand.</CardText>
+<Artist>Brandon Kitkouski</Artist>
+<Rulings>2008/08/01: Each of the triggered abilities has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless you control two or more lands of the appropriate land type when the Hedge-Mage enters the battlefield, and (2) the ability will do nothing if you don't control two or more lands of the appropriate land type by the time it resolves.
+2008/08/01: Both abilities trigger at the same time. You can put them on the stack in any order.
+2008/08/01: Each of the triggered abilities look at your lands individually. This means that if you only control two dual-lands of the appropriate types, both of the abilities will trigger.
+2008/08/01: Both abilities are optional; you choose whether to use them when they resolve. If an ability has a target, you must choose a target even if you don't plan to use the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway</Set>
+<Rarity>Special</Rarity>
+</Card>
+

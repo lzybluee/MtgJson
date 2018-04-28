@@ -1,0 +1,485 @@
+<Card>
+<SetId>MD1</SetId>
+<No>1</No>
+<Name>Soul Warden</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Whenever another creature enters the battlefield, you gain 1 life.</CardText>
+<Flavor>"One does not question the size or shape of the grains of sand in an hourglass. Nor do I question the temperament of the souls under my guidance."</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>382197</Multiverseid>
+<Rulings>2004/10/04: Does not trigger on a card on the battlefield being changed into a creature.
+2004/10/04: The ability will not trigger on itself entering the battlefield, but it will trigger on any other creature that is put onto the battlefield at the same time.
+2005/08/01: Two <Soul Warden>s entering the battlefield at the same time will each cause the other's ability to trigger.
+2005/08/01: The life gain is mandatory.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>2</No>
+<Name>Tidehollow Sculler</Name>
+<Type>Artifact Creature — Zombie 2/2</Type>
+<ManaCost>WB (2)</ManaCost>
+<CardText>When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.
+When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.</CardText>
+<Artist>rk post</Artist>
+<Multiverseid>382201</Multiverseid>
+<Rulings>2013/06/07: If <Tidehollow Sculler> leaves the battlefield before its first ability has resolved, its second ability will trigger. This ability will do nothing when it resolves. Then its first ability will resolve and exile the chosen card forever.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>3</No>
+<Name>Path to Exile</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Multiverseid>382192</Multiverseid>
+<Rulings>2017/03/14: If the targeted creature becomes an illegal target by the time <Path to Exile> would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card.
+2017/03/14: The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>4</No>
+<Name>Inquisition of Kozilek</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.</CardText>
+<Flavor>You will scream out your innermost secrets just to make it stop.</Flavor>
+<Artist>Tomasz Jedruszek</Artist>
+<Multiverseid>382187</Multiverseid>
+<Rulings>2014/02/01: If you target yourself with this spell, you must reveal your entire hand to the other players just as any other player would.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>5</No>
+<Name>Shrine of Loyal Legions</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
+{3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Multiverseid>382196</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>6</No>
+<Name>Honor of the Pure</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>White creatures you control get +1/+1.</CardText>
+<Flavor>Together the soldiers were like a golden blade, cutting down their enemies and scarring the darkness.</Flavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>382186</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>7</No>
+<Name>Intangible Virtue</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Creature tokens you control get +1/+1 and have vigilance.</CardText>
+<Flavor>In life, they were a motley crew: farmers, lords, cutpurses, priests. In death, they are united in singular, benevolent purpose.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Multiverseid>382188</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>8</No>
+<Name>Raise the Alarm</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Create two 1/1 white Soldier creature tokens.</CardText>
+<Flavor>"The nim raid our homes without warning. We must defend our homes without hesitation."</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>382194</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>9</No>
+<Name>Zealous Persecution</Name>
+<Type>Instant</Type>
+<ManaCost>WB (2)</ManaCost>
+<CardText>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.</CardText>
+<Flavor>"Jharic returned from Grixis changed, a haunted look in her eyes. She destroyed them with an unholy glee that made me shudder."
+—Knight-Captain Wyhorn</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>382204</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>10</No>
+<Name>Sword of Feast and Famine</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from black and from green.
+Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.
+Equip {2}</CardText>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>382200</Multiverseid>
+<Rulings>2011/06/01: You'll untap all lands you control even if the player doesn't discard a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>11</No>
+<Name>Lingering Souls</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Create two 1/1 white Spirit creature tokens with flying.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>The murdered inhabitants of Hollowhenge impart to the living the terror they felt in death.</Flavor>
+<Artist>Bud Cook</Artist>
+<Multiverseid>382191</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>12</No>
+<Name>Spectral Procession</Name>
+<Type>Sorcery</Type>
+<ManaCost>{2/W}{2/W}{2/W} (6)</ManaCost>
+<CardText>Create three 1/1 white Spirit creature tokens with flying.</CardText>
+<Flavor>"I need never remember my past associates, my victims, my mistakes. Innistrad preserves them all for me."
+—Sorin Markov</Flavor>
+<Artist>Tomasz Jedruszek</Artist>
+<Multiverseid>382198</Multiverseid>
+<Rulings>2008/05/01: If an effect reduces the cost to cast a spell by an amount of generic mana, it applies to a monocolored hybrid spell only if you've chosen a method of paying for it that includes generic mana.
+2008/05/01: A card with a monocolored hybrid mana symbol in its mana cost is each of the colors that appears in its mana cost, regardless of what mana was spent to cast it. Thus, <Spectral Procession> is white even if you spend six blue mana to cast it.
+2008/05/01: A card with monocolored hybrid mana symbols in its mana cost has a converted mana cost equal to the highest possible cost it could be cast for. Its converted mana cost never changes. Thus, <Spectral Procession> has a converted mana cost of 6, even if you spend {W}{W}{W} to cast it.
+2008/05/01: If a cost includes more than one monocolored hybrid mana symbol, you can choose a different way to pay for each symbol. For example, you can pay for <Spectral Procession> by spending {W}{W}{W}, {2}{W}{W}, {4}{W}, or {6}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>13</No>
+<Name>Elspeth, Knight-Errant</Name>
+<Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>+1: Create a 1/1 white Soldier creature token.
++1: Target creature gets +3/+3 and gains flying until end of turn.
+-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
+<Artist>Volkan Baga</Artist>
+<Multiverseid>382184</Multiverseid>
+<Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
+2013/07/01: Lethal damage and effects that say "destroy" won't cause a permanent with indestructible to be put into the graveyard. However, a permanent with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's a creature whose toughness is 0 or less, or if it's an Aura that's either unattached or attached to something illegal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>14</No>
+<Name>Caves of Koilos</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you.</CardText>
+<Artist>Jim Nelson</Artist>
+<Multiverseid>382180</Multiverseid>
+<Rulings>2015/06/22: The damage dealt to you is part of the second mana ability. It doesn't use the stack and can't be responded to.
+2015/06/22: Like most lands, each land in this cycle is colorless. The damage dealt to you is dealt by a colorless source.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>15</No>
+<Name>City of Brass</Name>
+<Type>Land</Type>
+<CardText>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.</CardText>
+<Flavor>"There is much to learn here, but few can endure the ringing of the spires."
+—Nulakam the Archivist</Flavor>
+<Artist>Jung Park</Artist>
+<Multiverseid>382181</Multiverseid>
+<Rulings>2004/10/04: The first ability triggers no matter how the land becomes tapped.
+2004/10/04: If you tap <City of Brass> while you are casting a spell or activating an ability, its ability will trigger and wait. When you finish casting that spell or activating that ability, <City of Brass>'s triggered ability is put on the stack on top of it. <City of Brass>'s ability will resolve first.
+2004/10/04: On the other hand, you can tap <City of Brass>, put its triggered ability on the stack, and then respond to that ability by casting an instant or activating an ability using that mana. In that case, the instant spell or activated ability will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>16</No>
+<Name>Isolated Chapel</Name>
+<Type>Land</Type>
+<CardText>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.</CardText>
+<Flavor>Not every church is a place of faith.</Flavor>
+<Artist>Cliff Childs</Artist>
+<Multiverseid>382189</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>17</No>
+<Name>Vault of the Archangel</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.</CardText>
+<Flavor>"For centuries my creation kept this world in balance. Now only her shadow remains."
+—Sorin Markov</Flavor>
+<Artist>John Avon</Artist>
+<Multiverseid>382202</Multiverseid>
+<Rulings>2011/01/22: <Vault of the Archangel>'s last ability affects only creatures you control when that ability resolves. It won't affect creatures that come under your control later in the turn.
+2011/01/22: Multiple instances of deathtouch or lifelink on the same creature are redundant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>18</No>
+<Name>Windbrisk Heights</Name>
+<Type>Land</Type>
+<CardText>Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+{T}: Add {W}.
+{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.</CardText>
+<Artist>Omar Rayyan</Artist>
+<Multiverseid>382203</Multiverseid>
+<Rulings>2007/10/01: At the time the ability resolves, you'll get to play the card if you declared three different creatures as attackers at any point in the turn. A creature declared as an attacker in two different attack phases counts only once. A creature that entered the battlefield attacking (such as a token created by Militia's Pride) doesn't count because you never attacked with it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>19</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>382193</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>20</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>382199</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>21</No>
+<Name>Relic of Progenitus</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Target player exiles a card from their graveyard.
+{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.</CardText>
+<Flavor>Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.</Flavor>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Multiverseid>382195</Multiverseid>
+<Rulings>2016/06/08: If you activate <Relic of Progenitus>'s first ability, the targeted player chooses which card to exile. The choice is made as the ability resolves.
+2016/06/08: You can activate <Relic of Progenitus>'s second ability even if no players have any cards in their graveyards. You'll still draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>22</No>
+<Name>Burrenton Forge-Tender</Name>
+<Type>Creature — Kithkin Wizard 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Protection from red
+Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.</CardText>
+<Flavor>"We are a clachan of smiths. The forge is as comfortable to us as a small fire during a cool winter's evening."</Flavor>
+<Artist>Chuck Lukacs</Artist>
+<Multiverseid>382179</Multiverseid>
+<Rulings>2017/11/17: If the red source you chose changes colors before it deals damage, the damage-prevention effect doesn't apply.
+2017/11/17: The last ability of <Burrenton Forge-Tender> doesn't target anything. You choose a source of damage as the ability resolves, if able. You can activate it even if there is no source to choose.
+2017/11/17: If a permanent spell is chosen as the source of damage, <Burrenton Forge-Tender>'s prevention effect continues to apply for the rest of the turn to the permanent that spell becomes once it has entered the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>23</No>
+<Name>Duress</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</CardText>
+<Flavor>"It hurts more if you think about it."
+—Hooks, Cabal torturer</Flavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>382183</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>24</No>
+<Name>Kataki, War's Wage</Name>
+<Type>Legendary Creature — Spirit 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."</CardText>
+<Flavor>"Before the war, we prayed to Kataki to sharpen our swords and harden our armor. Without his blessing our weapons are all but useless against the kami hordes."
+—Kenzo the Hardhearted</Flavor>
+<Artist>Matt Thompson</Artist>
+<Multiverseid>382190</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>25</No>
+<Name>Dismember</Name>
+<Type>Instant</Type>
+<ManaCost>1{BP}{BP} (3)</ManaCost>
+<CardText>({BP} can be paid with either {B} or 2 life.)
+Target creature gets -5/-5 until end of turn.</CardText>
+<Flavor>"You serve Phyrexia. Your pieces would better serve Phyrexia elsewhere."
+—Azax-Azog, the Demon Thane</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>382182</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>MD1</SetId>
+<No>26</No>
+<Name>Ghost Quarter</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.</CardText>
+<Flavor>Deserted, but not uninhabited.</Flavor>
+<Artist>Peter Mohrbacher</Artist>
+<Multiverseid>382185</Multiverseid>
+<Rulings>2006/05/01: If you target <Ghost Quarter> with its own ability, the ability won't resolve because its target is no longer on the battlefield. You won't get to search for a land card.
+2011/09/22: If the targeted land is an illegal target by the time <Ghost Quarter>'s ability resolves, it won't resolve and none of its effects will happen. The land's controller won't get to search for a basic land card.
+2013/07/01: The target land's controller gets to search for a basic land card even if that land wasn't destroyed by <Ghost Quarter>'s ability. This may happen because the land has indestructible or because it was regenerated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Event Deck 2014</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

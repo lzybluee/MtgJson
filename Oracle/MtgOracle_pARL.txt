@@ -1,0 +1,1270 @@
+<Card>
+<SetId>pARL</SetId>
+<No>1</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Tony Roberts</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>2</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Tony Roberts</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>3</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Tony Roberts</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>4</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Tony Roberts</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>5</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Tony Roberts</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>6</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Artist>Kevin McCann</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>7</No>
+<Name>Fireball</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs {1} more to cast for each target beyond the first.</CardText>
+<Artist>Jock</Artist>
+<Rulings>2017/11/17: For example, if X is 5 and you choose three target creatures, <Fireball> has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as <Fireball> resolves, it deals 1 damage to each of them.
+2017/11/17: You may cast <Fireball> with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves.
+2017/11/17: <Fireball>'s damage is divided as <Fireball> resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as <Fireball> resolves.
+2017/11/17: You can target more than X creatures. However, if the number of legal targets at the time <Fireball> resolves is greater than X, none of them will be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>8</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>9</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>10</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>11</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>12</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>13</No>
+<Name>Pouncing Jaguar</Name>
+<Type>Creature — Cat 2/2</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</CardText>
+<Flavor>One pounce, she's hungry—you die quickly. Two, she's teaching her cubs—you're in for a long day.</Flavor>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>14</No>
+<Name>Skittering Skirge</Name>
+<Type>Creature — Imp 3/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Flying
+When you cast a creature spell, sacrifice Skittering Skirge.</CardText>
+<Flavor>The imps' warbling cries echo through Phyrexia's towers like those of mourning doves in a cathedral.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: The triggered ability triggers when the creature spell is cast, and it is put on the stack before any responses can be cast or activated. This ability will resolve before that creature enters the battlefield.
+2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>15</No>
+<Name>Rewind</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Counter target spell. Untap up to four lands.</CardText>
+<Flavor>"Time flows like a river. In Tolaria we practice the art of building dams."
+—Barrin, master wizard</Flavor>
+<Artist>Dermot Power</Artist>
+<Rulings>2017/03/14: <Rewind> targets only a spell. It doesn't target any lands. The lands are chosen as <Rewind> resolves.
+2017/03/14: You can choose up to four lands, no matter who controls any of them. Those lands untap once. You can't choose one land and have it untap four times, for example.
+2017/03/14: If the spell is an illegal target when <Rewind> tries to resolve, perhaps because it was countered by another spell or ability, <Rewind> will be countered and none of its effects will happen. You won't untap any lands.
+2017/03/14: If <Rewind> resolves but the target spell can't be countered, you'll still untap lands.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>16</No>
+<Name>Karn, Silver Golem</Name>
+<Type>Legendary Artifact Creature — Golem 4/4</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.
+{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2004/10/04: The blocking ability triggers only once no matter how many blockers are declared.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>17</No>
+<Name>Duress</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</CardText>
+<Flavor>"We decide who is worthy of our works."
+—Gix, Yawgmoth praetor</Flavor>
+<Artist>Lawrence Snelly</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>18</No>
+<Name>Uktabi Orangutan</Name>
+<Type>Creature — Ape 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Uktabi Orangutan enters the battlefield, destroy target artifact.</CardText>
+<Flavor>"Is it true that the apes wear furs of gold when they marry?"
+—Rana, Suq'Ata market fool</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>19</No>
+<Name>Chill</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Red spells cost {2} more to cast.</CardText>
+<Flavor>"Temper, temper."
+—Ertai, wizard adept</Flavor>
+<Artist>Greg Simanson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>20</No>
+<Name>Pillage</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Destroy target artifact or land. It can't be regenerated.</CardText>
+<Artist>Richard Kane Ferguson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>21</No>
+<Name>Enlightened Tutor</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</CardText>
+<Flavor>"I do not teach. I simply reveal."
+—Daudi, Femeref tutor</Flavor>
+<Artist>Dan Frazier</Artist>
+<Rulings>2016/06/08: The "shuffle and put the card on top" is a single action. If an effect causes the top card of the library to be face up, the second card down is not revealed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>22</No>
+<Name>Stupor</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Target opponent discards a card at random, then discards a card.</CardText>
+<Flavor>There are medicines for all afflictions but idleness. —Suq'Ata saying</Flavor>
+<Artist>Mike Kimble</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>23</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>24</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>25</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>26</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>27</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>28</No>
+<Name>Creeping Mold</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Destroy target artifact, enchantment, or land.</CardText>
+<Flavor>"Mold could catch you."
+—Suq'Ata insult</Flavor>
+<Artist>Dave Seeley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>29</No>
+<Name>Dismiss</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Counter target spell.
+Draw a card.</CardText>
+<Flavor>"There is nothing you can do that I cannot simply deny."
+—Ertai, wizard adept</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>30</No>
+<Name>Fling</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to target creature or player.</CardText>
+<Flavor>It's raining rats and moggs.</Flavor>
+<Artist>Paolo Parente</Artist>
+<Rulings>2010/08/15: The sacrificed creature's last known existence on the battlefield is checked to determine its power.
+2010/08/15: If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it.
+2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
+2013/04/15: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>31</No>
+<Name>Empyrial Armor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1 for each card in your hand.</CardText>
+<Flavor>"An angel appeared in the smoldering skies above the fray, her clothes as flames, her armor as fire." -"Hymn of Angelfire"</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: The value of X is recalculated constantly, so this card's bonus varies as the number of cards in your hand varies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>32</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>33</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>34</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>35</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>36</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Pat Morrissey</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>37</No>
+<Name>Diabolic Edict</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Target player sacrifices a creature.</CardText>
+<Flavor>Greven il-Vec lifted Vhati off his feet. "The fall will give you time to think on your failure."</Flavor>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>38</No>
+<Name>Gaea's Blessing</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Target player shuffles up to three target cards from his or her graveyard into his or her library.
+Draw a card.
+When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.</CardText>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2016/06/08: When you cast <Gaea's Blessing>, you can't choose it as one of its own targets. This is because you choose the targets when casting this spell, and spells are not put into your graveyard until after they resolve.
+2016/06/08: You must target a player as you cast <Gaea's Blessing>. You may target zero, one, two, or three cards in that player's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>39</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>40</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>41</No>
+<Name>Man-o'-War</Name>
+<Type>Creature — Jellyfish 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</CardText>
+<Flavor>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philospher</Flavor>
+<Artist>Jon J Muth</Artist>
+<Rulings>2016/06/08: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>42</No>
+<Name>Arc Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</CardText>
+<Flavor>"It is vain to look for a defense against lightning."
+—Publius Syrus, Maxim 835, trans. Lyman</Flavor>
+<Artist>Andrew Goldhawk</Artist>
+<Rulings>2014/09/20: You choose how many targets <Arc Lightning> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2014/09/20: If some of the creatures are illegal targets as <Arc Lightning> tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, <Arc Lightning> is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>43</No>
+<Name>Dauthi Slayer</Name>
+<Type>Creature — Dauthi Soldier 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Slayer attacks each combat if able.</CardText>
+<Flavor>"A wisp of life remains in the undergloom of Death; a visible form, though no heart beats within it."
+—Homer, The Iliad, trans. Fitzgerald</Flavor>
+<Artist>Dermot Power</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>44</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>"If a man will begin with certainties, he shall end in doubts."
+—Sir Francis Bacon, The Advancement of Learning</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>45</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>46</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>47</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>48</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>49</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>50</No>
+<Name>Skirk Marauder</Name>
+<Type>Creature — Goblin 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Skirk Marauder is turned face up, it deals 2 damage to target creature or player.</CardText>
+<Artist>Pete Venters</Artist>
+<Rulings>2004/10/04: The trigger occurs when you use the Morph ability to turn the card face up, or when an effect turns it face up. It will not trigger on being revealed or on leaving the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>51</No>
+<Name>Elvish Aberration</Name>
+<Type>Creature — Elf Mutant 4/5</Type>
+<ManaCost>5G (6)</ManaCost>
+<CardText>{T}: Add {G}{G}{G} to your mana pool.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Forestcycling doesn't allow you to draw a card. Instead, it lets you search your library for a Forest card. After you find a Forest card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Forestcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Forestcycling this card. Any ability that stops a cycling ability from being activated also stops Forestcycling from being activated.
+2009/02/01: Forestcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Forestcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Forest land type, including nonbasic lands. You can also choose not to find a card, even if there is a Forest card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>52</No>
+<Name>Bonesplitter</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +2/+0.
+Equip {1}</CardText>
+<Artist>Darrell Riche</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>53</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>54</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>55</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>56</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>57</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>58</No>
+<Name>Darksteel Ingot</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Indestructible
+{T}: Add one mana of any color to your mana pool.</CardText>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>59</No>
+<Name>Serum Visions</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw a card. Scry 2.</CardText>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>60</No>
+<Name>Glacial Ray</Name>
+<Type>Instant — Arcane</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Glacial Ray deals 2 damage to target creature or player.
+Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</CardText>
+<Artist>Jim Murray</Artist>
+<Rulings>2013/06/07: You reveal all cards you intend to splice at the same time. Each individual card can be spliced only once onto any one spell.
+2013/06/07: A card with a splice ability can't be spliced onto itself because the spell is on the stack (and not in your hand) when you reveal the cards you want to splice onto it.
+2013/06/07: You choose all targets for the spell after revealing cards you want to splice, including any targets required by the text of any of those cards. You may choose a different target for each instance of the word "target" on the resulting spell.
+2013/06/07: If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>61</No>
+<Name>Circle of Protection: Art</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>As Circle of Protection: Art comes into play, choose an artist.
+{1}{W}: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.
+{1}{W}: Return Circle of Protection: Art to its owner's hand.</CardText>
+<Artist>Mark “It’s teh-DEEN” Tedin</Artist>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>62</No>
+<Name>Mise</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards.</CardText>
+<Flavor>Statistically mind-staggering as it might seem, the term "mise" was in fact coined simultaneously by over one thousand Magic players.</Flavor>
+<Artist>Mark Zug</Artist>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>63</No>
+<Name>Booster Tutor</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Open a sealed Magic booster pack, reveal the cards, and put one of those cards into your hand. (Remove that card from your deck before beginning a new game.)</CardText>
+<Flavor>Make your judgment wisely: The right pack will let you defeat your nemesis, but a poor choice can only end in torment. And Homelands.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>64</No>
+<Name>Goblin Mime</Name>
+<Type>Creature — Goblin Mime 2/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>When you speak, sacrifice Goblin Mime.</CardText>
+<Flavor>Mung noticed a few clouds gathering in the sky. Perhaps today he could perform his "walking against the wind" routine.</Flavor>
+<Artist>Dan Frazier</Artist>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>65</No>
+<Name>Granny's Payback</Name>
+<Type>Sorcery</Type>
+<ManaCost>7G (8)</ManaCost>
+<CardText>You gain life equal to your age.</CardText>
+<Flavor>Few remember the exploits of Dakkon's grandmother, Eunice Blackblade.</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>66</No>
+<Name>Ashnod's Coupon</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>{T}, Sacrifice Ashnod's Coupon: Target player gets you target drink.
+Errata: You pay any costs for the drink.</CardText>
+<Flavor>Limited time offer. Void where prohibited. Limit one per purchase. Valid only in participating duels. This coupon is nontransferable and invalid if shattered, crumbled, detonated, pillaged, or otherwise disenchanted. Cash value less than 1/20 of a cent. Offer not valid in Quebec, Rhode Island, or where prohibited by law or the DCI.</Flavor>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>67</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Don Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>68</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Don Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>69</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Don Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>70</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Don Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>71</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Don Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>72</No>
+<Name>Genju of the Spires</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Enchant Mountain
+{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.
+When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.</CardText>
+<Artist>Joel Thomas</Artist>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>73</No>
+<Name>Okina Nightwatch</Name>
+<Type>Creature — Human Monk 4/3</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.</CardText>
+<Flavor>Only the most skilled budoka could protect the Okina Shrine. Only the best of these protectors took the night watch.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>74</No>
+<Name>Skyknight Legionnaire</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WR (3)</ManaCost>
+<CardText>Flying, haste</CardText>
+<Flavor>I do not know which gives me more pride: the legions of soldiers marching in thunderous lockstep, or the cry of the skyknights riding their rocs like jagged lightning overhead.
+—Razia</Flavor>
+<Artist>Jim Murray</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>75</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>76</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>77</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>78</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>79</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>80</No>
+<Name>Castigate</Name>
+<Type>Sorcery</Type>
+<ManaCost>WB (2)</ManaCost>
+<CardText>Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.</CardText>
+<Flavor>"We have no need for military might. We wield two of the sharpest swords ever forged: Faith in our left hand, Wealth in our right."
+—Vuliev of the Ghost Council</Flavor>
+<Artist>Darrell Riche</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>81</No>
+<Name>Wee Dragonauts</Name>
+<Type>Creature — Faerie Wizard 1/3</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Flying
+Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.</CardText>
+<Flavor>The blazekite is a simple concept, really - just a vehicular application of dragscoop ionics and electropropulsion magnetronics.
+—Juzba, Izzet tinker</Flavor>
+<Artist>Greg Staples</Artist>
+<Rulings>2016/06/08: <Wee Dragonauts>'s triggered ability will resolve before the spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>82</No>
+<Name>Coiling Oracle</Name>
+<Type>Creature — Snake Elf Druid 1/1</Type>
+<ManaCost>UG (2)</ManaCost>
+<CardText>When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.</CardText>
+<Flavor>Snaking remnants of nature directed by a body of thought and progress, the oracles embody all that is Simic.</Flavor>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pARL</SetId>
+<No>83</No>
+<Name>Surging Flame</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)
+Surging Flame deals 2 damage to target creature or player.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League</Set>
+<Rarity>Special</Rarity>
+</Card>
+

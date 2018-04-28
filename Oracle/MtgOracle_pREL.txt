@@ -1,0 +1,245 @@
+<Card>
+<SetId>pREL</SetId>
+<No>1</No>
+<Name>Rukh Egg</Name>
+<Type>Creature — Bird 0/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</CardText>
+<Flavor>Called "stonefeathers" by many lowlanders, rukhs are thought to descend from a phoenix that sacrificed its flame for a body of stone.</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2004/10/04: If the <Rukh Egg> card is removed from the graveyard in the same turn it is put there, a Bird will still be put onto the battlefield.
+2005/10/01: If the Egg is exiled instead of being put into the graveyard, no Bird is put onto the battlefield.
+2005/10/01: Text-changing effects can be used to change the color of the Bird that will be put onto the battlefield.
+2005/10/01: If the Egg is destroyed while under the control of another player, the controller of the Egg gets the Bird.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>2</No>
+<Name>Ass Whuppin'</Name>
+<Type>Sorcery</Type>
+<ManaCost>1WB (3)</ManaCost>
+<CardText>Destroy target silver-bordered permanent in any game you can see from your seat.</CardText>
+<Flavor>Asses to ashes,
+Donkeys to dust.</Flavor>
+<Artist>Don Hazeltine</Artist>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>3a</No>
+<Name>Budoka Pupil</Name>
+<Type>Creature — Human Monk 2/2</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.
+At the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.</CardText>
+<Artist>Shishizaru</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+<OtherPart>Ichiga, Who Topples Oaks</OtherPart>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>3b</No>
+<Name>Ichiga, Who Topples Oaks</Name>
+<Type>Legendary Creature — Spirit 4/3</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Trample
+Remove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.</CardText>
+<Artist>Shishizaru</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+<OtherPart>Budoka Pupil</OtherPart>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>4</No>
+<Name>Ghost-Lit Raider</Name>
+<Type>Creature — Spirit 2/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.
+Channel — {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.</CardText>
+<Artist>Ittoku</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>5</No>
+<Name>Force of Nature</Name>
+<Type>Creature — Elemental 8/8</Type>
+<ManaCost>2GGGG (6)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)
+At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.</CardText>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>6</No>
+<Name>Shivan Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.</CardText>
+<Flavor>The undisputed master of the mountains of Shiv.</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>7</No>
+<Name>Dimir Guildmage</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>{U/B}{U/B} (2)</ManaCost>
+<CardText>({U/B} can be paid with either {U} or {B}.)
+{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Adam Rex</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>8</No>
+<Name>Gruul Guildmage</Name>
+<Type>Creature — Human Shaman 2/2</Type>
+<ManaCost>{R/G}{R/G} (2)</ManaCost>
+<CardText>({R/G} can be paid with either {R} or {G}.)
+{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player.
+{3}{G}: Target creature gets +2/+2 until end of turn.</CardText>
+<Artist>Paolo Parente</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>9</No>
+<Name>Azorius Guildmage</Name>
+<Type>Creature — Vedalken Wizard 2/2</Type>
+<ManaCost>{W/U}{W/U} (2)</ManaCost>
+<CardText>{2}{W}: Tap target creature.
+{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)</CardText>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>10</No>
+<Name>Sudden Shock</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Sudden Shock deals 2 damage to target creature or player.</CardText>
+<Flavor>Arc mages aren't known for their patience.</Flavor>
+<Artist>Vance Kovacs</Artist>
+<Rulings>2013/06/07: Players still get priority while a card with split second is on the stack.
+2013/06/07: Split second doesn't prevent players from activating mana abilities.
+2013/06/07: Split second doesn't prevent triggered abilities from triggering. If one does, its controller puts it on the stack and chooses targets for it, if any. Those abilities will resolve as normal.
+2013/06/07: Split second doesn't prevent players from performing special actions. Notably, players may turn face-down creatures face up while a spell with split second is on the stack.
+2013/06/07: Casting a spell with split second won't affect spells and abilities that are already on the stack.
+2013/06/07: If the resolution of a triggered ability involves casting a spell, that spell can't be cast if a spell with split second is on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>11</No>
+<Name>Hedge Troll</Name>
+<Type>Creature — Troll Cleric 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Hedge Troll gets +1/+1 as long as you control a Plains.
+{W}: Regenerate Hedge Troll.</CardText>
+<Flavor>His abode was clean and bare, not a morsel in sight. I asked him what he ate, fearing the answer. He smiled and said his faith alone sustained him.</Flavor>
+<Artist>Paolo Parente</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Sedge Troll.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>12</No>
+<Name>Storm Entity</Name>
+<Type>Creature — Elemental 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Haste
+Storm Entity enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.</CardText>
+<Flavor>Dweldian magi don't enter the Realm of Thrones when they die. Instead their souls are drawn to great works of magic.</Flavor>
+<Artist>Lucio Parrillo</Artist>
+<Rulings>2007/05/01: The number of other spells cast this turn is determined as <Storm Entity> enters the battlefield. It will count spells that were cast while <Storm Entity> was on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pREL</SetId>
+<No>13</No>
+<Name>Shriekmaw</Name>
+<Type>Creature — Elemental 3/2</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2013/04/15: If you cast this card for its evoke cost, you may put the sacrifice trigger and the regular enters-the-battlefield trigger on the stack in either order. The one put on the stack last will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Release Events</Set>
+<Rarity>Special</Rarity>
+</Card>
+

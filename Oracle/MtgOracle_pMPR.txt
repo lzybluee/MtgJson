@@ -1,0 +1,871 @@
+<Card>
+<SetId>pMPR</SetId>
+<No>1</No>
+<Name>Wasteland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C} to your mana pool.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.</CardText>
+<Flavor>"I will show you fear in a handful of dust." - T. S. Eliot, "The Waste Land"</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>2</No>
+<Name>Voidmage Prodigy</Name>
+<Type>Creature — Human Wizard 2/1</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>{U}{U}, Sacrifice a Wizard: Counter target spell.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Artist>Christopher Moeller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>3</No>
+<Name>Powder Keg</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>At the beginning of your upkeep, you may put a fuse counter on Powder Keg.
+{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.</CardText>
+<Artist>Dan Frazier</Artist>
+<Rulings>2004/10/04: Only destroys artifacts and creatures with exactly the specified cost. It does not mean "less than or equal to".
+2004/10/04: Putting on a counter is optional. If you forget, you can't go back later even if it is something you usually do.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>4</No>
+<Name>Psychatog</Name>
+<Type>Creature — Atog 1/2</Type>
+<ManaCost>1UB (3)</ManaCost>
+<CardText>Discard a card: Psychatog gets +1/+1 until end of turn.
+Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>5</No>
+<Name>Terror</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>6</No>
+<Name>Fireball</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs {1} more to cast for each target beyond the first.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2017/11/17: For example, if X is 5 and you choose three target creatures, <Fireball> has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as <Fireball> resolves, it deals 1 damage to each of them.
+2017/11/17: You may cast <Fireball> with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves.
+2017/11/17: <Fireball>'s damage is divided as <Fireball> resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as <Fireball> resolves.
+2017/11/17: You can target more than X creatures. However, if the number of legal targets at the time <Fireball> resolves is greater than X, none of them will be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>7</No>
+<Name>Oxidize</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Destroy target artifact. It can't be regenerated.</CardText>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>8</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>9</No>
+<Name>Reciprocate</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature that dealt damage to you this turn.</CardText>
+<Artist>Jim Murray</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>10</No>
+<Name>Hypnotic Specter</Name>
+<Type>Creature — Specter 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying
+Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.</CardText>
+<Flavor>"There was no trace
+Of aught on that illumined face..." -Samuel Taylor Coleridge, "Phantom"</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Rulings>2008/08/01: The ability triggers even if the Specter's damage is being redirected to an opponent. It does not trigger if damage that would have been dealt to the opponent is redirected to a nonopponent player or a creature, or if the damage is prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>11</No>
+<Name>Hinder</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>12</No>
+<Name>Pyroclasm</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Pyroclasm deals 2 damage to each creature.</CardText>
+<Artist>Dave Dorman</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>13</No>
+<Name>Giant Growth</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Target creature gets +3/+3 until end of turn.</CardText>
+<Artist>Joel Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>14</No>
+<Name>Putrefy</Name>
+<Type>Instant</Type>
+<ManaCost>1BG (3)</ManaCost>
+<CardText>Destroy target artifact or creature. It can't be regenerated.</CardText>
+<Artist>Richard Sardinha</Artist>
+<Rulings>2006/02/01: This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an artifact, even if it changed from one to the other between targeting and resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>15</No>
+<Name>Zombify</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Return target creature card from your graveyard to the battlefield.</CardText>
+<Artist>Allan Pollack</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>16</No>
+<Name>Lightning Helix</Name>
+<Type>Instant</Type>
+<ManaCost>WR (2)</ManaCost>
+<CardText>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2017/11/17: If the chosen target is illegal when <Lightning Helix> tries to resolve, it will be countered and none of its effects will happen. You won't gain 3 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>17</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>18</No>
+<Name>Condemn</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2010/08/15: The affected creature's last known existence on the battlefield is checked to determine its toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>19</No>
+<Name>Mortify</Name>
+<Type>Instant</Type>
+<ManaCost>1WB (3)</ManaCost>
+<CardText>Destroy target creature or enchantment.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Rulings>2006/02/01: This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an enchantment, even if it changed from one to the other between targeting and resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>20</No>
+<Name>Psionic Blast</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Psionic Blast deals 4 damage to target creature or player and 2 damage to you.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>21</No>
+<Name>Cruel Edict</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Target opponent sacrifices a creature.</CardText>
+<Artist>Steve Ellis</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>22</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>23</No>
+<Name>Recollect</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Return target card from your graveyard to your hand.</CardText>
+<Artist>Michael Sutfin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>24</No>
+<Name>Damnation</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Wrath of God.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>25</No>
+<Name>Tidings</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Draw four cards.</CardText>
+<Artist>Michael Komarck</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>26</No>
+<Name>Incinerate</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2007/07/15: Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than <Incinerate> would deal lethal damage to it or otherwise destroy it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>27</No>
+<Name>Mana Tithe</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1}.</CardText>
+<Artist>Donato Giancola</Artist>
+<Rulings>2004/10/04: The payment is optional.
+2007/02/01: This is the timeshifted version of Force Spike.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>28</No>
+<Name>Harmonize</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Draw three cards.</CardText>
+<Artist>Vance Kovacs</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Concentrate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>29</No>
+<Name>Ponder</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.</CardText>
+<Artist>Steve Argyle</Artist>
+<Rulings>2007/10/01: If you choose to shuffle your library, that includes the three cards you just looked at and put back on top of it.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>30</No>
+<Name>Corrupt</Name>
+<Type>Sorcery</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>Corrupt deals damage to target creature or player equal to the number of Swamps you control. You gain life equal to the damage dealt this way.</CardText>
+<Artist>Philip Straub</Artist>
+<Rulings>2004/10/04: The swamps are counted on resolution.
+2010/08/15: The life you gain is equal to the damage dealt by <Corrupt>, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example).
+2010/08/15: The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if <Corrupt> deals 6 damage to a 2/2 creature, you'll gain 6 life.
+2013/07/01: <Corrupt> counts any land you control with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>31</No>
+<Name>Cryptic Command</Name>
+<Type>Instant</Type>
+<ManaCost>1UUU (4)</ManaCost>
+<CardText>Choose two —
+• Counter target spell.
+• Return target permanent to its owner's hand.
+• Tap all creatures your opponents control.
+• Draw a card.</CardText>
+<Artist>Wayne England</Artist>
+<Rulings>2017/11/17: You choose both modes as you cast <Cryptic Command>. You must choose two different modes.
+2017/11/17: Look at both chosen modes to determine how many targets <Cryptic Command> has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when <Cryptic Command> tries to resolve, you won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>32</No>
+<Name>Flame Javelin</Name>
+<Type>Instant</Type>
+<ManaCost>{2/R}{2/R}{2/R} (6)</ManaCost>
+<CardText>({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)
+Flame Javelin deals 4 damage to target creature or player.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2008/05/01: If an effect reduces the cost to cast a spell by an amount of generic mana, it applies to a monocolored hybrid spell only if you've chosen a method of paying for it that includes generic mana.
+2008/05/01: A card with a monocolored hybrid mana symbol in its mana cost is each of the colors that appears in its mana cost, regardless of what mana was spent to cast it. Thus, <Flame Javelin> is red even if you spend six green mana to cast it.
+2008/05/01: A card with monocolored hybrid mana symbols in its mana cost has a converted mana cost equal to the highest possible cost it could be cast for. Its converted mana cost never changes. Thus, <Flame Javelin> has a converted mana cost of 6, even if you spend {R}{R}{R} to cast it.
+2008/05/01: If a cost includes more than one monocolored hybrid mana symbol, you can choose a different way to pay for each symbol. For example, you can pay for <Flame Javelin> by spending {R}{R}{R}, {2}{R}{R}, {4}{R}, or {6}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>33</No>
+<Name>Unmake</Name>
+<Type>Instant</Type>
+<ManaCost>{W/B}{W/B}{W/B} (3)</ManaCost>
+<CardText>Exile target creature.</CardText>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>34</No>
+<Name>Nameless Inversion</Name>
+<Type>Tribal Instant — Shapeshifter</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2007/10/01: If a creature loses all creature types but then gains a new creature type later in the turn, it will be that new creature type.
+2013/07/01: Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>35</No>
+<Name>Remove Soul</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target creature spell.</CardText>
+<Artist>Mike Dringenberg</Artist>
+<Rulings>2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>36</No>
+<Name>Blightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BR (3)</ManaCost>
+<CardText>Blightning deals 3 damage to target player. That player discards two cards.</CardText>
+<Artist>Jim Pavelec</Artist>
+<Rulings>2008/10/01: The targeted player will discard two cards even if some or all of <Blightning>'s damage is prevented or redirected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>37</No>
+<Name>Rampant Growth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2004/10/04: The land does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>38</No>
+<Name>Negate</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target noncreature spell.</CardText>
+<Artist>Ralph Horsley</Artist>
+<Rulings>2009/10/01: A "creature spell" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>39</No>
+<Name>Terminate</Name>
+<Type>Instant</Type>
+<ManaCost>BR (2)</ManaCost>
+<CardText>Destroy target creature. It can't be regenerated.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>40</No>
+<Name>Lightning Bolt</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Lightning Bolt deals 3 damage to target creature or player.</CardText>
+<Artist>Véronique Meignaud</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>41</No>
+<Name>Cancel</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Artist>Izzy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>42</No>
+<Name>Sign in Blood</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Target player draws two cards and loses 2 life.</CardText>
+<Artist>Alan Pollack</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>43</No>
+<Name>Infest</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>All creatures get -2/-2 until end of turn.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>44</No>
+<Name>Volcanic Fallout</Name>
+<Type>Instant</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Volcanic Fallout can't be countered.
+Volcanic Fallout deals 2 damage to each creature and each player.</CardText>
+<Artist>Jim Pavelec</Artist>
+<Rulings>2009/02/01: <Volcanic Fallout> can be targeted by spells that try to counter it (such as Countersquall). Those spells will still resolve, but the part of their effect that would counter <Volcanic Fallout> won't do anything. Any other effects those spells have will work as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>45</No>
+<Name>Celestial Purge</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Exile target black or red permanent.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2009/10/01: Lands are colorless (even if their frames have some colored elements to them). You can't target a Swamp, a Mountain, or any other land with <Celestial Purge> (unless some other effect has turned that land black or red).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>46</No>
+<Name>Bituminous Blast</Name>
+<Type>Instant</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+Bituminous Blast deals 4 damage to target creature.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2009/05/01: Cascade triggers when you cast the spell, meaning that it resolves before that spell. If you end up casting the exiled card, it will go on the stack above the spell with cascade.
+2009/05/01: When the cascade ability resolves, you must exile cards. The only optional part of the ability is whether or not you cast the last card exiled.
+2009/05/01: If a spell with cascade is countered, the cascade ability will still resolve normally.
+2009/05/01: You exile the cards face-up. All players will be able to see them.
+2009/05/01: If you cast the last exiled card, you're casting it as a spell. It can be countered. If that card has cascade, the new spell's cascade ability will trigger, and you'll repeat the process for the new spell.
+2009/05/01: After you're done exiling cards and casting the last one if you chose to do so, the remaining exiled cards are randomly placed on the bottom of your library. Neither you nor any other player is allowed to know the order of those cards.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If cascade allows you to cast a split card, you may cast either half but not both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>47</No>
+<Name>Burst Lightning</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.</CardText>
+<Artist>Jung Park</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>48</No>
+<Name>Harrow</Name>
+<Type>Instant</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>As an additional cost to cast Harrow, sacrifice a land.
+Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</CardText>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2004/10/04: The sacrifice of a land is part of the cost of casting <Harrow>. You can't pay this cost more than once to get a multiple effect.
+2004/10/04: The two lands do not count toward your normal one land you can play each turn.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>49</No>
+<Name>Day of Judgment</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>50</No>
+<Name>Brave the Elements</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Choose a color. White creatures you control gain protection from the chosen color until end of turn.</CardText>
+<Artist>Kekai Kotaki</Artist>
+<Rulings>2009/10/01: You choose a color as <Brave the Elements> resolves. Once the color is chosen, it's too late for players to respond.
+2009/10/01: Only white creatures you control at the time <Brave the Elements> resolves gain the protection ability. Creatures that come under your control later in the turn, or that turn white later in the turn, won't have it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>51</No>
+<Name>Doom Blade</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonblack creature.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>52</No>
+<Name>Treasure Hunt</Name>
+<Type>Sorcery</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2010/03/01: The cards you put into your hand this way include one nonland card, plus all the land cards on top of it in your library (if any). If the top card of your library is a nonland card, you just get that one.
+2010/03/01: If all the cards left in your library are lands, you'll reveal all of them and put them all into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pMPR</SetId>
+<No>53</No>
+<Name>Searing Blaze</Name>
+<Type>Instant</Type>
+<ManaCost>RR (2)</ManaCost>
+<CardText>Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.
+Landfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2010/03/01: Whether you had a land enter the battlefield under your control this turn is checked as this spell resolves, not as you cast it.
+2010/03/01: Having more than one land enter the battlefield under your control this turn provides no additional benefit.
+2010/03/01: The landfall ability checks for an action that has happened in the past. It doesn't matter if a land that entered the battlefield under your control previously in the turn is still on the battlefield, is still under your control, or is still a land.
+2010/03/01: Once the spell resolves, having a land enter the battlefield under your control provides no further benefit.
+2010/03/01: The effect of this spell's landfall ability replaces its normal effect. If you had a land enter the battlefield under your control this turn, only the landfall-based effect happens.
+2010/03/01: You must choose two targets as you cast <Searing Blaze>: a player and a creature that player controls. If you can't (because there are no creatures on the battlefield, perhaps), then you can't cast the spell.
+2010/03/01: If either target is illegal by the time <Searing Blaze> resolves, it still deals damage to the other target.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards</Set>
+<Rarity>Special</Rarity>
+</Card>
+

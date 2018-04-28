@@ -1,0 +1,2680 @@
+<Card>
+<SetId>MBP</SetId>
+<No>1</No>
+<Name>Arena</Name>
+<Type>Land</Type>
+<CardText>{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. (Each deals damage equal to its power to the other.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>97042</Multiverseid>
+<Rulings>2004/10/04: The power of the creatures when the effect resolves is used to determine how much damage is done.
+2004/10/04: In multiplayer games, you can choose a different opposing player each time it the ability is activated.
+2004/10/04: Either or both creatures can be tapped prior to using the ability and it still works.
+2006/09/25: If either target is illegal at the time the ability resolves (whether because it has left the battlefield, because it has gained Shroud or Protection, or for any other reason), the ability taps the remaining target, but no damage is dealt. If both targets are illegal, the ability is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>2</No>
+<Name>Sewers of Estark</Name>
+<Type>Instant</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking.</CardText>
+<Artist>Melissa A. Benson</Artist>
+<Multiverseid>97054</Multiverseid>
+<Rulings>2008/08/01: This spell can target any creature. The check for whether that creature is attacking or blocking made on resolution, and it will have the appropriate effect at that time.
+2008/08/01: If the creature is neither an attacking creature nor a blocking creature at the time the spell resolves, it will have no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>3</No>
+<Name>Nalathni Dragon</Name>
+<Type>Creature — Dragon 1/1</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+{R}: Nalathni Dragon gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Nalathni Dragon at the beginning of the next end step.</CardText>
+<Flavor>These small but intelligent Dragons and their Olesian allies held back the tide of Pashalik Mons's hordes of Goblin Raiders.
+DragonCon 1994</Flavor>
+<Artist>Michael Whelan</Artist>
+<Multiverseid>97050</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>4</No>
+<Name>Fireball</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs {1} more to cast for each target beyond the first.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2017/11/17: For example, if X is 5 and you choose three target creatures, <Fireball> has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as <Fireball> resolves, it deals 1 damage to each of them.
+2017/11/17: You may cast <Fireball> with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves.
+2017/11/17: <Fireball>'s damage is divided as <Fireball> resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as <Fireball> resolves.
+2017/11/17: You can target more than X creatures. However, if the number of legal targets at the time <Fireball> resolves is greater than X, none of them will be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>5</No>
+<Name>Blue Elemental Blast</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Choose one —
+• Counter target red spell.
+• Destroy target red permanent.</CardText>
+<Artist>Richard Thomas</Artist>
+<Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>6</No>
+<Name>Mana Crypt</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+{T}: Add {C}{C} to your mana pool.</CardText>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>97048</Multiverseid>
+<Rulings>2016/06/08: No player may choose to take actions between determining the result of the flip and damage being dealt if you lost the flip.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>7</No>
+<Name>Windseeker Centaur</Name>
+<Type>Creature — Centaur 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Vigilance</CardText>
+<Flavor>Loyal and passionate in battle, the Windseeker tribe roams the Green Lands near the Honeyed Sea.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>97057</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>8</No>
+<Name>Giant Badger</Name>
+<Type>Creature — Badger 2/2</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Whenever Giant Badger blocks, it gets +2/+2 until end of turn.</CardText>
+<Flavor>The wizard Greensleeves called a Giant Badger to her aid in an battle with the desert mage Karli.</Flavor>
+<Artist>Liz Danforth</Artist>
+<Multiverseid>97045</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>9</No>
+<Name>Scent of Cinder</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2004/10/04: You reveal cards, and thereby set the value of X, on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>10</No>
+<Name>Lightning Hounds</Name>
+<Type>Creature — Hound 3/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>First strike</CardText>
+<Flavor>Quick enough to avoid jhovalls when alone and fierce enough to attack them in packs, the hounds were as at home in the mountains as the Mercadians were atop theirs.</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>11</No>
+<Name>Spined Wurm</Name>
+<Type>Creature — Wurm 5/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<Flavor>"As it moved, the wurm's spines gathered up bits of flowstone, which took the shapes of dead villagers' heads. Each head spoke a single sound, but if taken together, they said, 'Alas for the living.'"
+—Dal myth of the wurm</Flavor>
+<Artist>Keith Parkinson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>12</No>
+<Name>Warmonger</Name>
+<Type>Creature — Minotaur Monger 3/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{2}: Warmonger deals 1 damage to each creature without flying and each player. Any player may activate this ability.</CardText>
+<Flavor>Funny how money and war travel so well together.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>13</No>
+<Name>Silver Drake</Name>
+<Type>Creature — Drake 3/3</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>Flying
+When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.</CardText>
+<Artist>Allan Pollack</Artist>
+<Rulings>2004/10/04: You choose the creature to return on resolution of the triggered ability. This is not targeted.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>14</No>
+<Name>Phyrexian Rager</Name>
+<Type>Creature — Horror 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.</CardText>
+<Flavor>It takes no prisoners, but it keeps the choicest bits for Phyrexia.</Flavor>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>15</No>
+<Name>Jace Beleren</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>+2: Each player draws a card.
+-1: Target player draws a card.
+-10: Target player puts the top twenty cards of his or her library into his or her graveyard.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2009/10/01: If there are fewer than twenty cards in the targeted player's library, that player puts all the cards from his or her library into his or her graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>16</No>
+<Name>Garruk Wildspeaker</Name>
+<Type>Legendary Planeswalker — Garruk (Loyalty: 3)</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>+1: Untap two target lands.
+-1: Create a 3/3 green Beast creature token.
+-4: Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2009/10/01: The first ability can target any two lands. They don't have to be tapped.
+2009/10/01: The third ability affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>17</No>
+<Name>Brion Stoutarm</Name>
+<Type>Legendary Creature — Giant Warrior 4/4</Type>
+<ManaCost>2WR (4)</ManaCost>
+<CardText>Lifelink
+{R}, {T}, Sacrifice a creature other than Brion Stoutarm: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>18</No>
+<Name>Jaya Ballard, Task Mage</Name>
+<Type>Legendary Creature — Human Spellshaper 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>{R}, {T}, Discard a card: Destroy target blue permanent.
+{1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+{5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>19</No>
+<Name>Broodmate Dragon</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>3BRG (6)</ManaCost>
+<CardText>Flying
+When Broodmate Dragon enters the battlefield, create a 4/4 red Dragon creature token with flying.</CardText>
+<Flavor>Frozen in fear, the goblins stared upward at the circling hunter—and were promptly eaten by its diving mate.</Flavor>
+<Artist>Vance Kovacs</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>20</No>
+<Name>Honor of the Pure</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>White creatures you control get +1/+1.</CardText>
+<Flavor>Together the soldiers were like a golden blade, cutting down their enemies and scarring the darkness.</Flavor>
+<Artist>Ralph Horsley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>21</No>
+<Name>Steward of Valeron</Name>
+<Type>Creature — Human Druid Knight 2/2</Type>
+<ManaCost>WG (2)</ManaCost>
+<CardText>Vigilance
+{T}: Add {G} to your mana pool.</CardText>
+<Flavor>www.MagicTheGathering.com</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>22</No>
+<Name>Day of Judgment</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures.</CardText>
+<Flavor>"I have seen planes leveled and all life rendered to dust. It brought no pleasure, even to a heart as dark as mine."
+—Sorin Markov</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>23</No>
+<Name>Celestial Colonnade</Name>
+<Type>Land</Type>
+<CardText>Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.
+{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.</CardText>
+<Artist>Kekai Kotaki</Artist>
+<Rulings>2010/03/01: A land that becomes a creature may be affected by "summoning sickness." You can't attack with it or use any of its {T} abilities (including its mana abilities) unless it began your most recent turn on the battlefield under your control. Note that summoning sickness cares about when that permanent came under your control, not when it became a creature.
+2010/03/01: When a land becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>24</No>
+<Name>Retaliator Griffin</Name>
+<Type>Creature — Griffin 2/2</Type>
+<ManaCost>1WRG (4)</ManaCost>
+<CardText>Flying
+Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.</CardText>
+<Flavor>For every eye, an eye. For every tooth, a tooth. Griffins are nothing if not fair.</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2009/05/01: The source of combat damage is the creature that dealt it.
+2009/05/01: If a spell causes damage to be dealt, that spell will always identify the source of the damage. In most cases, the source is the spell itself. For example, Breath of Malfegor says "Breath of Malfegor deals 5 damage to each opponent."
+2009/05/01: If an ability causes damage to be dealt, that ability will always identify the source of the damage. The ability itself is never the source. However, the source of the ability is often the source of the damage. For example, Deathbringer Thoctar's ability says "Deathbringer Thoctar deals 1 damage to target creature or player."
+2009/05/01: If the source of the damage is a permanent, <Retaliator Griffin> checks whether an opponent controls that permanent at the time that damage is dealt. If the permanent has left the battlefield by then, its last known information is used. If the source of the damage is a spell, whether it's controlled by an opponent is obvious. If the source of the damage is a card in some other zone (such as a cycled Jund Sojourners), <Retaliator Griffin> checks whether the card's owner, rather than its controller, is an opponent.
+2009/05/01: If <Retaliator Griffin> is dealt lethal damage at the same time that you're dealt damage by a source an opponent controls, <Retaliator Griffin> will be put into a graveyard before it would receive any counters. Its ability will still trigger, but it will do nothing when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>25</No>
+<Name>Kor Skyfisher</Name>
+<Type>Creature — Kor Soldier 2/3</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.</CardText>
+<Flavor>www.MagicTheGathering.com</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2017/03/14: <Kor Skyfisher>'s triggered ability doesn't target a permanent. You choose which one to return to its owner's hand as the ability resolves. No one can respond to the choice.
+2017/03/14: If <Kor Skyfisher> is still on the battlefield as its triggered ability resolves, you may return <Kor Skyfisher> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>26</No>
+<Name>Guul Draz Assassin</Name>
+<Type>Creature — Vampire Assassin 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Level up {1}{B} ({1}{B}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-3
+2/2
+{B}, {T}: Target creature gets -2/-2 until end of turn.
+LEVEL 4+
+4/4
+{B}, {T}: Target creature gets -4/-4 until end of turn.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Rulings>2010/06/15: The abilities a leveler grants to itself don't overwrite any other abilities it may have. In particular, they don't overwrite the creature's level up ability; it always has that.
+2010/06/15: Effects that set a leveler's power or toughness to a specific value, including the effects from a level symbol's ability, apply in timestamp order. The timestamp of each level symbol's ability is the same as the timestamp of the leveler itself, regardless of when the most recent level counter was put on it.
+2010/06/15: Effects that modify a leveler's power or toughness, such as the effects of Giant Growth or Glorious Anthem, will apply to it no matter when they started to take effect. The same is true for counters that change the creature's power or toughness (such as +1/+1 counters) and effects that switch its power and toughness.
+2010/06/15: If another creature becomes a copy of a leveler, all of the leveler's printed abilities — including those represented by level symbols — are copied. The current characteristics of the leveler, and the number of level counters on it, are not. The abilities, power, and toughness of the copy will be determined based on how many level counters are on the copy.
+2010/06/15: A creature's level is based on how many level counters it has on it, not how many times its level up ability has been activated or has resolved. If a leveler gets level counters due to some other effect (such as Clockspinning) or loses level counters for some reason (such as Vampire Hexmage), its level is changed accordingly.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>27</No>
+<Name>Nissa Revane</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 2)</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
++1: You gain 2 life for each Elf you control.
+-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2009/10/01: You may activate Nissa's first ability even if you know you have no cards named Nissa's Chosen in your library. You must still shuffle your library in that situation.
+2009/10/01: You may activate Nissa's second ability even if you control no Elves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>28</No>
+<Name>Birds of Paradise</Name>
+<Type>Creature — Bird 0/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Flying
+{T}: Add one mana of any color to your mana pool.</CardText>
+<Flavor>"The gods used their feathers to paint all the colors of the world."
+—Yare-Tiva, warden of Gramur forest</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>29</No>
+<Name>Memoricide</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.</CardText>
+<Flavor>"You claim wisdom, yet I see nothing in here but tawdry wishes."</Flavor>
+<Artist>Erica Yang</Artist>
+<Rulings>2011/01/01: Because you're searching for "any number" of cards with the chosen name, you can opt to find all of them, none of them, or any number in between. That means you may leave any cards with that name in that target's graveyard, hand, and/or library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>30</No>
+<Name>Liliana Vess</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>+1: Target player discards a card.
+-2: Search your library for a card, then shuffle your library and put that card on top of it.
+-8: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
+<Artist>Kekai Kotaki</Artist>
+<Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>31</No>
+<Name>Bloodthrone Vampire</Name>
+<Type>Creature — Vampire 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.</CardText>
+<Flavor>www.MagicTheGathering.com</Flavor>
+<Artist>Steve Argyle</Artist>
+<Rulings>2010/06/15: You can sacrifice <Bloodthrone Vampire> to activate its own ability, but it won't be on the battlefield to get the bonus.
+2010/06/15: If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but the creature you wish to sacrifice is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>32</No>
+<Name>Mirran Crusader</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Double strike, protection from black and from green</CardText>
+<Flavor>A symbol of what Mirrodin once was and hope for what it will be again.</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>33</No>
+<Name>Surgical Extraction</Name>
+<Type>Instant</Type>
+<ManaCost>{BP} (1)</ManaCost>
+<CardText>({BP} can be paid with either {B} or 2 life.)
+Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.</CardText>
+<Artist>Greg Staples</Artist>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: "Any number of cards" means just that. If you wish, you can choose to leave some or all of the cards with the same name as the targeted card, including that card, in the zone they're in.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>34</No>
+<Name>Frost Titan</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.
+Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.</CardText>
+<Artist>Mike Sass</Artist>
+<Rulings>2010/08/15: <Frost Titan>'s first ability affects each spell (including Aura spells), activated ability, and triggered ability that's controlled by an opponent and that <Frost Titan> becomes a target of.
+2010/08/15: You may target any permanent with <Frost Titan>'s second ability. It's okay if that permanent is already tapped.
+2010/08/15: If the permanent affected by <Frost Titan>'s second ability is untapped at the time that permanent's controller's next untap step begins, the last part of <Frost Titan>'s second ability has no effect.
+2010/08/15: If the permanent affected by <Frost Titan>'s second ability changes controllers before its old controller's next untap step, <Frost Titan>'s second ability will prevent it from being untapped during its new controller's next untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>35</No>
+<Name>Grave Titan</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Deathtouch
+Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens.</CardText>
+<Flavor>Death in form and function.</Flavor>
+<Artist>Lucas Graciano</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>36</No>
+<Name>Inferno Titan</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>{R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</CardText>
+<Artist>Sam Burley</Artist>
+<Rulings>2010/08/15: You divide the damage as you put <Inferno Titan>'s triggered ability on the stack, not as it resolves. Each target must be assigned at least 1 damage. (In other words, as you put the ability on the stack, you choose whether to have it deal 3 damage to a single target, 2 damage to one target and 1 damage to another target, or 1 damage to each of three targets.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>37</No>
+<Name>Chandra's Phoenix</Name>
+<Type>Creature — Phoenix 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.</CardText>
+<Artist>Steve Argyle</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>38</No>
+<Name>Treasure Hunt</Name>
+<Type>Sorcery</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.</CardText>
+<Flavor>"Some call me a thief. I prefer to think of myself as a discreet borrower."
+—Dack Fayden, Planeswalker</Flavor>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2010/03/01: The cards you put into your hand this way include one nonland card, plus all the land cards on top of it in your library (if any). If the top card of your library is a nonland card, you just get that one.
+2010/03/01: If all the cards left in your library are lands, you'll reveal all of them and put them all into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>39</No>
+<Name>Faithless Looting</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Draw two cards, then discard two cards.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>"Avacyn has abandoned us! We have nothing left except what we can take!"</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2016/06/08: You draw two cards and discard two cards all while <Faithless Looting> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>40</No>
+<Name>Devil's Play</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Devil's Play deals X damage to target creature or player.
+Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>A devil's hands are never idle.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>41</No>
+<Name>Gravecrawler</Name>
+<Type>Creature — Zombie 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Gravecrawler can't block.
+You may cast Gravecrawler from your graveyard as long as you control a Zombie.</CardText>
+<Flavor>"Innistrad's ghoulcallers are talented enough, but let me show you what someone with real power can create."
+—Liliana Vess</Flavor>
+<Artist>Dave Kendall</Artist>
+<Rulings>2011/01/22: <Gravecrawler>'s ability doesn't change when you could cast it.
+2011/01/22: Once you've cast <Gravecrawler> and it's on the stack, it doesn't matter if you lose control of the other Zombie.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>42</No>
+<Name>Electrolyze</Name>
+<Type>Instant</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2017/11/17: You divide the damage as you cast <Electrolyze>, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast <Electrolyze>, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2017/11/17: If <Electrolyze> targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2. You'll still draw a card.
+2017/11/17: If all chosen targets are illegal as <Electrolyze> tries to resolve, it will be countered and none of its effects will happen. No damage will be dealt and you won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>43</No>
+<Name>Feast of Blood</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Cast Feast of Blood only if you control two or more Vampires.
+Destroy target creature. You gain 4 life.</CardText>
+<Flavor>Imbued in the Ancient Fang were spells far darker than any Dack Fayden would cast.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2009/10/01: Whether you control two or more Vampires is checked only as you try to move <Feast of Blood> to the stack as the first step of casting it. It doesn't matter whether you still control two or more Vampires as you finish casting <Feast of Blood> (in case you somehow sacrifice one to produce mana) or as <Feast of Blood> resolves.
+2009/10/01: If the targeted creature is an illegal target by the time <Feast of Blood> resolves, the entire spell is countered. You don't gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>44</No>
+<Name>Silverblade Paladin</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Silverblade Paladin is paired with another creature, both creatures have double strike.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>45</No>
+<Name>Merfolk Mesmerist</Name>
+<Type>Creature — Merfolk Wizard 1/2</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{U}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.</CardText>
+<Flavor>www.MagicTheGathering.com</Flavor>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>46</No>
+<Name>Knight Exemplar</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)
+Other Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say "destroy" don't destroy them.)</CardText>
+<Flavor>"If you think you are brave enough to walk the path of honor, follow me into the dragon's den."</Flavor>
+<Artist>Jason Chan</Artist>
+<Rulings>2010/08/15: If an effect would simultaneously destroy <Knight Exemplar> and another Knight creature you control, only <Knight Exemplar> is destroyed.
+2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.
+2013/07/01: If another Knight creature you control is dealt lethal damage, the creature isn't destroyed, but the damage remains marked on it. If, at some point later in that turn, you no longer control <Knight Exemplar> or it loses its abilities, the other Knight creature will lose indestructible and will be destroyed.
+2013/07/01: If you control two <Knight Exemplar>s, each one causes the other to get +1/+1 and have indestructible.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>47</No>
+<Name>Sunblast Angel</Name>
+<Type>Creature — Angel 4/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+When Sunblast Angel enters the battlefield, destroy all tapped creatures.</CardText>
+<Flavor>There may exist powers even greater than Phyrexia.</Flavor>
+<Artist>Jason Chan</Artist>
+<Rulings>2011/01/01: The second ability destroys each creature that's tapped at the time it resolves, including creatures you control. If <Sunblast Angel> has become tapped by the time its ability resolves, it will be destroyed too.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>48</No>
+<Name>Serra Avatar</Name>
+<Type>Creature — Avatar */*</Type>
+<ManaCost>4WWW (7)</ManaCost>
+<CardText>Serra Avatar's power and toughness are each equal to your life total.
+When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2008/10/01: Whether or not the ability triggers depends on if the Avatar has the ability while in the graveyard. If it doesn't (thanks to Yixlid Jailer, for instance), then the ability won't trigger. It doesn't matter whether the Avatar had the ability in its previous zone (it will trigger even if it had been on the battlefield with Humility).
+2012/07/01: <Serra Avatar>'s power and toughness are constantly updated as your life total changes.
+2012/07/01: The ability that defines <Serra Avatar>'s power and toughness works in all zones, not just the battlefield.
+2012/07/01: If <Serra Avatar> is no longer in your graveyard when its triggered ability resolves, you won't shuffle your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>49</No>
+<Name>Primordial Hydra</Name>
+<Type>Creature — Hydra 0/0</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>Primordial Hydra enters the battlefield with X +1/+1 counters on it.
+At the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.
+Primordial Hydra has trample as long as it has ten or more +1/+1 counters on it.</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2011/09/22: Consider only the number of +1/+1 counters on <Primordial Hydra> when determining if it has trample, not its power and toughness. For example, a <Primordial Hydra> with six +1/+1 counters on it that's been the target of Titanic Growth (giving it +4/+4) would not have trample.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>50</No>
+<Name>Vampire Nocturnus</Name>
+<Type>Creature — Vampire 3/3</Type>
+<ManaCost>1BBB (4)</ManaCost>
+<CardText>Play with the top card of your library revealed.
+As long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.</CardText>
+<Flavor>"Your life will set with the sun."</Flavor>
+<Artist>Jason Felix</Artist>
+<Rulings>2009/10/01: To work as an evasion ability, an attacking creature must already have flying when the declare blockers step begins. Once a creature has become blocked, giving it flying won't change that.
+2013/04/15: The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities.
+2013/04/15: If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability.
+2013/04/15: When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it.
+2013/07/01: If the top card of your library is black, <Vampire Nocturnus> will give itself +2/+1 and flying even if it's somehow not a Vampire.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>51</No>
+<Name>Cathedral of War</Name>
+<Type>Land</Type>
+<CardText>Cathedral of War enters the battlefield tapped.
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {C} to your mana pool.</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>52</No>
+<Name>Terastodon</Name>
+<Type>Creature — Elephant 9/9</Type>
+<ManaCost>6GG (8)</ManaCost>
+<CardText>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.</CardText>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2010/03/01: The targeted permanents may be controlled by different players.
+2013/07/01: If a targeted permanent has indestructible or regenerates, its controller won't get an Elephant token for it. Similarly, if the targeted permanent is destroyed but a replacement effect moves it to a different zone instead of its owner's graveyard, its controller won't get an Elephant token for it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>53</No>
+<Name>Arrest</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.</CardText>
+<Flavor>Fayden didn't know if the giant had created the spehere's magic—only that he had to escape it to find Sifa.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>54</No>
+<Name>Consume Spirit</Name>
+<Type>Sorcery</Type>
+<ManaCost>X1B (2)</ManaCost>
+<CardText>Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.</CardText>
+<Flavor>"You clerics brag about your strength of spirit, yet I take away the tiniest fragment, and you crumple like a rag doll."
+—Sorin Markov</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2009/10/01: The amount of life you gain is equal to the number chosen for X, not the amount of damage <Consume Spirit> deals (in case some of it is prevented).
+2009/10/01: If the targeted creature or player is an illegal target by the time <Consume Spirit> would resolve, the entire spell is countered. You won't gain any life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>55</No>
+<Name>Dreg Mangler</Name>
+<Type>Creature — Plant Zombie 3/3</Type>
+<ManaCost>1BG (3)</ManaCost>
+<CardText>Haste
+Scavenge {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2013/04/15: Exiling the creature card with scavenge is part of the cost of activating the scavenge ability. Once the ability is activated and the cost is paid, it's too late to stop the ability from being activated by trying to remove the creature card from the graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>56</No>
+<Name>Supreme Verdict</Name>
+<Type>Sorcery</Type>
+<ManaCost>1WWU (4)</ManaCost>
+<CardText>Supreme Verdict can't be countered.
+Destroy all creatures.</CardText>
+<Flavor>Leonos had no second thoughts about the abolishment edict. He'd left skyrunes warning of the eviction, even though it was cloudy.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>57</No>
+<Name>Standstill</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.</CardText>
+<Flavor>"You learn a lot in no time when you're about to get your neck snapped."
+—Dack Fayden</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2004/10/04: It only works once. If someone casts another spell after it triggers, but before that trigger resolves, then it will trigger again. The first time one of these triggers resolves, it will be sacrificed for the full effect. Any additional triggers on the stack will do nothing when they resolve because you will be unable to sacrifice it additional times.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>58</No>
+<Name>Breath of Malfegor</Name>
+<Type>Instant</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Breath of Malfegor deals 5 damage to each opponent.</CardText>
+<Flavor>The draconic demon loomed over Dack, and he suddenly sensed he wasn't the only Planeswalker that Malfegor had encountered.</Flavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>59</No>
+<Name>Angel of Glory's Rise</Name>
+<Type>Creature — Angel 4/6</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.</CardText>
+<Flavor>"Justice isn't done until undeath is undone."</Flavor>
+<Artist>James Ryman</Artist>
+<Rulings>2012/05/01: Only Zombie permanents on the battlefield are exiled. Zombie cards in other zones are not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>60</No>
+<Name>Turnabout</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.</CardText>
+<Flavor>The best cure for a big ego is a little failure.</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2004/10/04: You decide on resolution if you are tapping or untapping, and which kind of permanent you are affecting.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>61</No>
+<Name>Nightveil Specter</Name>
+<Type>Creature — Specter 2/3</Type>
+<ManaCost>{U/B}{U/B}{U/B} (3)</ManaCost>
+<CardText>Flying
+Whenever Nightveil Specter deals combat damage to a player, that player exiles the top card of his or her library.
+You may play cards exiled with Nightveil Specter.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2013/01/24: The card is exiled face up. All players may look at it.
+2013/01/24: Playing a card exiled with <Nightveil Specter> follows all the normal rules for playing that card. You must pay its costs, and you must follow all timing restrictions, for example.
+2013/01/24: <Nightveil Specter>'s last ability applies to cards exiled with that specific <Nightveil Specter>, not any other creature named <Nightveil Specter>. You should keep cards exiled by different <Nightveil Specter>s separate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>62</No>
+<Name>Voidmage Husher</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+When Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can't be targeted.)
+Whenever you cast a spell, you may return Voidmage Husher to its owner's hand.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>63</No>
+<Name>Ogre Arsonist</Name>
+<Type>Creature — Ogre 3/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>When Ogre Arsonist enters the battlefield, destroy target land.</CardText>
+<Flavor>"All of Ravnica's looking for you, Dack, from the Wojek on down."
+—Maytov</Flavor>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>64</No>
+<Name>Corrupt</Name>
+<Type>Sorcery</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>Corrupt deals damage to target creature or player equal to the number of Swamps you control. You gain life equal to the damage dealt this way.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Rulings>2004/10/04: The swamps are counted on resolution.
+2010/08/15: The life you gain is equal to the damage dealt by <Corrupt>, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example).
+2010/08/15: The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if <Corrupt> deals 6 damage to a 2/2 creature, you'll gain 6 life.
+2013/07/01: <Corrupt> counts any land you control with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>65</No>
+<Name>Chandra's Fury</Name>
+<Type>Instant</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls.</CardText>
+<Flavor>www.MagicTheGathering.com</Flavor>
+<Artist>Volkan Baga</Artist>
+<Rulings>2012/07/01: <Chandra's Fury> targets only the player, not any creature. <Chandra's Fury> will deal 1 damage to a creature with hexproof, for example.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>66</No>
+<Name>Render Silent</Name>
+<Type>Instant</Type>
+<ManaCost>WUU (3)</ManaCost>
+<CardText>Counter target spell. Its controller can't cast spells this turn.</CardText>
+<Flavor>"We have confiscated your spells as evidence. Once we conclude our investigation, you may petition to have them returned."</Flavor>
+<Artist>Kev Walker</Artist>
+<Rulings>2013/04/15: You must be able to target a spell to cast <Render Silent>.
+2013/04/15: <Render Silent> doesn't stop any player from casting spells in response to <Render Silent> before it resolves.
+2013/04/15: The affected player can still activate abilities, including abilities of cards in his or her hand (such as bloodrush abilities), and the player can still play lands.
+2013/04/15: If the spell is an illegal target when <Render Silent> tries to resolve (because it's been countered by another spell, for example), <Render Silent> will be countered and none of its effects will happen.
+2013/04/15: A spell that "can't be countered" is a legal target for <Render Silent>. The spell won't be countered when <Render Silent> resolves, but that spell's controller won't be able to cast spells for the rest of the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>67</No>
+<Name>Ratchet Bomb</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Put a charge counter on Ratchet Bomb.
+{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2011/01/01: As <Ratchet Bomb>'s last ability resolves, its last existence on the battlefield is checked to determine how many charge counters were on it.
+2011/01/01: <Ratchet Bomb>'s second ability destroys only those nonland permanents whose converted mana cost is exactly equal to the number of charge counters on <Ratchet Bomb>. It doesn't matter who controls them.
+2011/01/01: If <Ratchet Bomb>'s second ability is activated while it has no charge counters on it, it will destroy each nonland permanent with converted mana cost 0.
+2011/01/01: The converted mana cost of a permanent is determined solely by the mana symbols printed in its upper right corner, unless it's copying something else (see below). The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {3}{U}{U} has converted mana cost 5.
+2011/01/01: If a permanent is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.
+2011/01/01: In all cases, ignore any alternative costs or additional costs (such as kicker) paid when the permanent was cast.
+2011/01/01: If the mana cost of a permanent includes {X}, X is considered to be 0.
+2011/01/01: If a nonland permanent has no mana symbols in its upper right corner (because it's a token that's not copying something else, for example), its converted mana cost is 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>68</No>
+<Name>Bonescythe Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)</CardText>
+<Flavor>"Their appendages are sharper than our swords and quicker than our bows."
+—Hastric, Thunian scout</Flavor>
+<Artist>Brad Rigney</Artist>
+<Rulings>2013/07/01: If <Bonescythe Sliver> leaves the battlefield after other Sliver creatures you control have dealt first-strike damage but before regular combat damage, those Slivers won't deal regular combat damage (unless they still have double strike for some other reason).
+2013/07/01: If you change the creature type of a Sliver you control so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures you control.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>69</No>
+<Name>Ogre Battledriver</Name>
+<Type>Creature — Ogre Warrior 3/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)</CardText>
+<Flavor>Ogres are driven by passion, rage, and another ogre standing behind them with a whip.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>70</No>
+<Name>Scavenging Ooze</Name>
+<Type>Creature — Ooze 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.</CardText>
+<Flavor>In nature, not a single bone or scrap of flesh goes to waste.</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2017/03/14: If the target card is an illegal target when the ability tries to resolve, it will be countered and none of its effects will happen. No +1/+1 counter will be put on <Scavenging Ooze> and you won't gain life. Notably, this means that if you activate <Scavenging Ooze>'s ability multiple times targeting the same creature card, only the first instance of the ability to resolve will have any effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>71</No>
+<Name>Hamletback Goliath</Name>
+<Type>Creature — Giant Warrior 6/6</Type>
+<ManaCost>6R (7)</ManaCost>
+<CardText>Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power.</CardText>
+<Flavor>"If you live on a giant's back, there's only one individual you'll ever need to fear."
+—Gaddock Teeg</Flavor>
+<Artist>Paolo Parente & Brian Snõddy</Artist>
+<Rulings>2012/07/01: The value of X is determined as the ability begins resolving. If the other creature is no longer on the battlefield, its last known existence on the battlefield is checked to determine its power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>72</No>
+<Name>Ajani, Caller of the Pride</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>+1: Put a +1/+1 counter on up to one target creature.
+-3: Target creature gains flying and double strike until end of turn.
+-8: Create X 2/2 white Cat creature tokens, where X is your life total.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2012/07/01: You can activate the first ability without a target. You'll still put one loyalty counter on Ajani when you activate the ability.
+2012/07/01: The number of Cat tokens you put onto the battlefield is equal to your life total when the third ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>73</No>
+<Name>Jace, Memory Adept</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.
+0: Target player puts the top ten cards of his or her library into his or her graveyard.
+-7: Any number of target players each draw twenty cards.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2011/09/22: If you target yourself with Jace's first ability, you'll draw a card first, then put the top card of your library into your graveyard.
+2011/09/22: If you activate Jace's first ability, and the player is an illegal target when the ability tries to resolve, it will be countered and none of its effects will happen. You won't draw a card.
+2011/09/22: If Jace's third ability causes a player to draw more cards than are left in his or her library, that player loses the game as a state-based action. If this ability causes all players to do this, the game is a draw.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>74</No>
+<Name>Liliana of the Dark Realms</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
+-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
+-6: You get an emblem with "Swamps you control have '{T}: Add {B}{B}{B}{B} to your mana pool.'"</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2012/07/01: You can activate Liliana's first ability even if your library contains no Swamp cards (or you don't want to find one). You'll still search your library and shuffle it.
+2012/07/01: When you activate Liliana's second ability, you choose only the target creature. You choose whether that creature gets +X/+X or -X/-X when the ability resolves. The value of X is determined by the number of Swamps you control when the ability resolves.
+2012/07/01: Liliana's emblem doesn't remove any other abilities of Swamps you control.
+2013/07/01: Each of Liliana's abilities refers to lands (or land cards) with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>75</No>
+<Name>Chandra, Pyromaster</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player and 1 damage to up to one target creature that player controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
+2014/07/18: If the first ability resolves but the damage is prevented or redirected, the target creature still won't be able to block that turn.
+2014/07/18: The card exiled by the second ability is exiled face up. Playing it follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if it's a creature card, you can cast it only during your main phase while the stack is empty.
+2014/07/18: If you exile a land card using the second ability, you may play that land only if you have any available land plays. Normally, this means you can play the land only if you haven't played a land yet that turn.
+2014/07/18: In the third ability, "exiled this way" means the cards you just exiled because of that ability resolving. Cards exiled with the second ability or with previous activations of the third ability don't count.
+2014/07/18: While resolving the third ability, you create the copies of the card in exile and cast them from exile. You can cast zero, one, two, or all three copies. The card itself isn't cast. It remains exiled.
+2014/07/18: While casting the copies created by the third ability, timing restrictions based on the card's type (such as creature or sorcery) are ignored. Other restrictions, such as "Cast [this spell] only during combat," are not.
+2014/07/18: Because you're casting the copies "without paying their mana costs," you can't pay any alternative costs for the copies. You can pay additional costs, such as kicker costs. If the copies have any mandatory additional costs, you must pay those.
+2014/07/18: If the copied card has {X} in its mana cost, you must choose 0 as its value when casting the copies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>76</No>
+<Name>Garruk, Caller of Beasts</Name>
+<Type>Legendary Planeswalker — Garruk (Loyalty: 4)</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+-3: You may put a green creature card from your hand onto the battlefield.
+-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2013/07/01: You choose what green creature card to put onto the battlefield, if any, when the second ability resolves.
+2013/07/01: If you have Garruk's emblem, the creature card you search for will be put onto the battlefield before the creature spell you cast resolves. The creature card you put onto the battlefield isn't cast, so the ability of the emblem won't retrigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>77</No>
+<Name>Sylvan Caryatid</Name>
+<Type>Creature — Plant 0/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Defender, hexproof
+{T}: Add one mana of any color to your mana pool.</CardText>
+<Flavor>Those who enter the copse never leave. They find peace there and take root, becoming part of the ever-growing grove.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>78</No>
+<Name>Karametra's Acolyte</Name>
+<Type>Creature — Human Druid 1/4</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>{T}: Add an amount of {G} to your mana pool equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</CardText>
+<Flavor>"The wilds are a garden tended by divine hands."</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2013/09/15: The activated ability is a mana ability. It doesn't use the stack and can't be responded to.
+2013/09/15: Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don't count toward your devotion to any color.
+2013/09/15: Mana symbols in the text boxes of permanents you control don't count toward your devotion to any color.
+2013/09/15: Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s).
+2013/09/15: If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it's still on the battlefield at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>79</No>
+<Name>Fated Conflagration</Name>
+<Type>Instant</Type>
+<ManaCost>1RRR (4)</ManaCost>
+<CardText>Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</CardText>
+<Artist>Clint Cearley</Artist>
+<Rulings>2013/09/15: When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom.
+2013/09/15: You choose how to order cards returned to your library after scrying no matter where you put them.
+2013/09/15: You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions.
+2013/09/15: Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>80</No>
+<Name>High Tide</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool (in addition to the mana the land produces).</CardText>
+<Flavor>"There's nothing like the high seas to clear your head or escape pursuers."</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2010/03/01: The delayed triggered ability triggers and produces {U} any time a land with the land-type Island is tapped for mana, even if that land has other types or the mana for which it was tapped is another color. For example, if you tap a Breeding Pool for {G}, <High Tide> will give you an extra {U}.
+2010/03/01: The effect applies even if the Island in question entered the battlefield after <High Tide> resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>81</No>
+<Name>Gaze of Granite</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBBG (3)</ManaCost>
+<CardText>Destroy each nonland permanent with converted mana cost X or less.</CardText>
+<Flavor>"Show yourself, thief."</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2013/04/15: If a permanent has {X} in its mana cost, the value of that X is 0.
+2013/04/15: The converted mana cost of a creature token is 0 unless that token is a copy of another creature, in which case it copies that creature's mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>82</No>
+<Name>Wash Out</Name>
+<Type>Sorcery</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Return all permanents of the color of your choice to their owners' hands.</CardText>
+<Flavor>"Perhaps planning should become a higher priority for me."
+—Dack Fayden</Flavor>
+<Artist>Volkan Baga</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>83</No>
+<Name>Acquire</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.</CardText>
+<Flavor>"Ownership' is such a gray area."</Flavor>
+<Artist>Anthony Francisco</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>84</No>
+<Name>Duress</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</CardText>
+<Flavor>"Your night names inspire me, Dack!"</Flavor>
+<Artist>Michael Komarck</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>85</No>
+<Name>Eidolon of Blossoms</Name>
+<Type>Enchantment Creature — Spirit 2/2</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.</CardText>
+<Flavor>The emotional echoes of dryad gatherings attract lost souls.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2014/04/26: A constellation ability triggers whenever an enchantment enters the battlefield under your control for any reason. Enchantments with other card types, such as enchantment creatures, will also cause constellation abilities to trigger.
+2014/04/26: An Aura spell without bestow that has an illegal target when it tries to resolve will be countered and put into its owner's graveyard. It won't enter the battlefield and constellation abilities won't trigger. An Aura spell with bestow won't be countered this way. It will revert to being an enchantment creature and resolve, entering the battlefield and triggering constellation abilities.
+2014/04/26: When an enchantment enters the battlefield under your control, each constellation ability of permanents you control will trigger. You can put these abilities on the stack in any order. The last ability you put on the stack will be the first one that resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>86</No>
+<Name>Magister of Worth</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>4WB (6)</ManaCost>
+<CardText>Flying
+Will of the council — When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from his or her graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.</CardText>
+<Artist>rk post</Artist>
+<Rulings>2014/05/29: Because the votes are cast in turn order, each player will know the votes of players who voted beforehand.
+2014/05/29: You must vote for one of the available options. You can't abstain.
+2014/05/29: No player votes until the spell or ability resolves. Any responses to that spell or ability must be made without knowing the outcome of the vote.
+2014/05/29: Players can't do anything after they finishing voting but before the spell or ability that included the vote finishes resolving.
+2014/05/29: The phrase "the vote is tied" refers only to when there is more than one choice that received the most votes. For example, if a 5-player vote from among three different choices ends 3 votes to 1 vote to 1 vote, the vote isn't tied.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>87</No>
+<Name>Soul of Ravnica</Name>
+<Type>Creature — Avatar 6/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Flying
+{5}{U}{U}: Draw a card for each color among permanents you control.
+{5}{U}{U}, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control.</CardText>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2014/07/18: You can activate the last ability only if the Soul is in your graveyard.
+2014/07/18: Exiling the Soul from your graveyard is part of the last ability's activation cost. A player can't remove the Soul in response to prevent you from activating the ability.
+2014/07/18: To determine how many cards to draw, count the number of colors among permanents you control as either activated ability resolves. You'll draw between zero and five cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>88</No>
+<Name>Soul of Zendikar</Name>
+<Type>Creature — Avatar 6/6</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Reach
+{3}{G}{G}: Create a 3/3 green Beast creature token.
+{3}{G}{G}, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token.</CardText>
+<Artist>Eytan Zana</Artist>
+<Rulings>2014/07/18: You can activate the last ability only if the Soul is in your graveyard.
+2014/07/18: Exiling the Soul from your graveyard is part of the last ability's activation cost. A player can't remove the Soul in response to prevent you from activating the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>89</No>
+<Name>Stealer of Secrets</Name>
+<Type>Creature — Human Rogue 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Whenever Stealer of Secrets deals combat damage to a player, draw a card.</CardText>
+<Flavor>www.MagicTheGathering.com</Flavor>
+<Artist>Michael C. Hayes</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>90</No>
+<Name>Angelic Skirmisher</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.</CardText>
+<Flavor>"A keen mind wields an army as a deft hand wields a sword."</Flavor>
+<Artist>David Rapoza</Artist>
+<Rulings>2013/01/24: You choose which ability creatures you control will gain when <Angelic Skirmisher>'s ability resolves. This happens before attacking creatures are declared.
+2013/01/24: Only creatures you control when the ability resolves will gain the chosen ability. Creatures that come under your control later in the turn will not gain the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>91</No>
+<Name>Xathrid Necromancer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Whenever Xathrid Necromancer or another Human creature you control dies, create a tapped 2/2 black Zombie creature token.</CardText>
+<Flavor>"My commands shall echo forever in their dusty skulls."</Flavor>
+<Artist>Maciej Kuciara</Artist>
+<Rulings>2013/07/01: If <Xathrid Necromancer> dies at the same time as another Human creature you control, its ability will trigger twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>92</No>
+<Name>Rattleclaw Mystic</Name>
+<Type>Creature — Human Shaman 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add {G}, {U}, or {R} to your mana pool.
+Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Rattleclaw Mystic is turned face up, add {G}{U}{R} to your mana pool.</CardText>
+<Artist>Min Yum</Artist>
+<Rulings>2014/09/20: Although turning a face-down creature with morph face up doesn't use the stack, <Rattleclaw Mystic>'s triggered ability does use the stack, and players can respond to that ability. Notably, you can't turn <Rattleclaw Mystic> face up while casting a spell or activating an ability. You'll need to turn <Rattleclaw Mystic> face up and have its triggered ability resolve before you can spend that mana.
+2014/09/20: Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost.
+2014/09/20: The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost.
+2014/09/20: When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics.
+2014/09/20: Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot.
+2014/09/20: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/09/20: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/09/20: At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so.
+2014/09/20: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield.
+2014/09/20: If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>93</No>
+<Name>Ankle Shanker</Name>
+<Type>Creature — Goblin Berserker 2/2</Type>
+<ManaCost>2WBR (5)</ManaCost>
+<CardText>Haste
+Whenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.</CardText>
+<Flavor>The stature of the fighter matters less than the depth of the cut.</Flavor>
+<Artist>Steven Belledin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>94</No>
+<Name>Avalanche Tusker</Name>
+<Type>Creature — Elephant Warrior 6/4</Type>
+<ManaCost>2URG (5)</ManaCost>
+<CardText>Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.</CardText>
+<Flavor>"Hold the high ground, then bring it to your enemy"
+—Surrak, khan of the Temur</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2014/09/20: If the target creature can't block <Avalanche Tusker>, but could block another attacking creature, it's free to block that creature or block no creatures at all.
+2014/09/20: If, during the declare blockers step, the target creature is tapped or is affected by a spell or ability that says it can't block, then it doesn't block. If there's a cost associated with having that creature block, its controller isn't forced to pay that cost. If the player doesn't, the creature doesn't block in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>95</No>
+<Name>Ivorytusk Fortress</Name>
+<Type>Creature — Elephant 5/7</Type>
+<ManaCost>2WBG (5)</ManaCost>
+<CardText>Untap each creature you control with a +1/+1 counter on it during each other player's untap step.</CardText>
+<Flavor>Abzan soldiers march to war confident that their Houses march with them.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2014/09/20: Each creature you control with a +1/+1 counter on it untaps at the same time as the active player's permanents. You can't choose to not untap them at that time.
+2014/09/20: Effects that state a creature you control doesn't untap during your untap step won't apply during another player's untap step.
+2014/09/20: Controlling more than one <Ivorytusk Fortress> doesn't allow you to untap any creature more than once during a single untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>96</No>
+<Name>Rakshasa Vizier</Name>
+<Type>Creature — Cat Demon 4/4</Type>
+<ManaCost>2UBG (5)</ManaCost>
+<CardText>Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier.</CardText>
+<Flavor>Rakshasa offer deals that sound advantageous to those who forget who they are dealing with.</Flavor>
+<Artist>Peter Mohrbacher</Artist>
+<Rulings>2014/09/20: If a card is exiled "instead" of being put into a graveyard, <Rakshasa Vizier>'s ability won't trigger.
+2014/09/20: Exiling cards from your graveyard to pay the cost of a spell with delve is a single action. It will cause <Rakshasa Vizier>'s ability to trigger once, putting a number of +1/+1 counters on it equal to the number of cards you exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>97</No>
+<Name>Sage of the Inward Eye</Name>
+<Type>Creature — Djinn Wizard 3/4</Type>
+<ManaCost>2WUR (5)</ManaCost>
+<CardText>Flying
+Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.</CardText>
+<Flavor>"No one petal claims beauty for the lotus."</Flavor>
+<Artist>Anastasia Ovchinnikova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>98</No>
+<Name>Goblin Rabblemaster</Name>
+<Type>Creature — Goblin Warrior 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Other Goblin creatures you control attack each combat if able.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.
+Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.</CardText>
+<Artist>Zoltan Boros</Artist>
+<Rulings>2014/07/18: Although <Goblin Rabblemaster> doesn't force itself to attack, if you control two of them, they'll force each other to attack if able.
+2014/07/18: If, during your declare attackers step, a creature that must attack if able is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under your control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, you're not forced to pay that cost, so it doesn't have to attack in that case either.
+2014/07/18: The number of attacking Goblins is counted as the last ability resolves, and the bonus is locked in at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>99</No>
+<Name>Ajani Steadfast</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>+1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.
+-2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
+-7: You get an emblem with "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage."</CardText>
+<Artist>Jae Lee</Artist>
+<Rulings>2014/07/18: You may activate the first ability with no targets. If you do, you simply put a loyalty counter on Ajani to pay the cost of the ability.
+2014/07/18: If a permanent you control is both a creature and a planeswalker, Ajani's second ability will put both a +1/+1 counter and a loyalty counter on it.
+2014/07/18: The emblem's ability doesn't consider who controls the source dealing damage to you or a planeswalker you control.
+2014/07/18: Each attacking creature is a separate source of damage. For example, if two 3/3 creatures attack you and are unblocked, the emblem will prevent 2 damage from each creature. You'll be dealt a total of 2 damage.
+2014/07/18: If multiple effects modify how damage is dealt, the player being dealt damage or the controller of the permanent being dealt damage chooses the order to apply the effects. For example, Dictate of the Twin Gods says, "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead." Suppose you would be dealt 3 damage while Dictate of the Twin Gods is on the battlefield and you control Ajani's emblem. You can either (a) prevent all but 1 damage first and then let Dictate of the Twin Gods's effect double that, for a result of being dealt 2 damage, or (b) double the damage to 6 and then prevent all but 1 of that damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>100</No>
+<Name>Jace, the Living Guildpact</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>+1: Look at the top two cards of your library. Put one of them into your graveyard.
+-3: Return another target nonland permanent to its owner's hand.
+-8: Each player shuffles his or her hand and graveyard into his or her library. You draw seven cards.</CardText>
+<Artist>Jae Lee</Artist>
+<Rulings>2014/07/18: When the first ability resolves, the card you don't put into your graveyard stays on top of your library.
+2014/07/18: If a player has no cards in his or her hand and no cards in his or her graveyard when the third ability resolves, that player won't shuffle his or her library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>101</No>
+<Name>Liliana Vess</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>+1: Target player discards a card.
+-2: Search your library for a card, then shuffle your library and put that card on top of it.
+-8: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
+<Artist>Jae Lee</Artist>
+<Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>102</No>
+<Name>Chandra, Pyromaster</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player and 1 damage to up to one target creature that player controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<Artist>Jae Lee</Artist>
+<Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
+2014/07/18: If the first ability resolves but the damage is prevented or redirected, the target creature still won't be able to block that turn.
+2014/07/18: The card exiled by the second ability is exiled face up. Playing it follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if it's a creature card, you can cast it only during your main phase while the stack is empty.
+2014/07/18: If you exile a land card using the second ability, you may play that land only if you have any available land plays. Normally, this means you can play the land only if you haven't played a land yet that turn.
+2014/07/18: In the third ability, "exiled this way" means the cards you just exiled because of that ability resolving. Cards exiled with the second ability or with previous activations of the third ability don't count.
+2014/07/18: While resolving the third ability, you create the copies of the card in exile and cast them from exile. You can cast zero, one, two, or all three copies. The card itself isn't cast. It remains exiled.
+2014/07/18: While casting the copies created by the third ability, timing restrictions based on the card's type (such as creature or sorcery) are ignored. Other restrictions, such as "Cast [this spell] only during combat," are not.
+2014/07/18: Because you're casting the copies "without paying their mana costs," you can't pay any alternative costs for the copies. You can pay additional costs, such as kicker costs. If the copies have any mandatory additional costs, you must pay those.
+2014/07/18: If the copied card has {X} in its mana cost, you must choose 0 as its value when casting the copies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>103</No>
+<Name>Nissa, Worldwaker</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
++1: Untap up to four target Forests.
+-7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
+<Artist>Jae Lee</Artist>
+<Rulings>2014/07/18: The type-changing effects of the first and third abilities don't have a duration. They last indefinitely.
+2014/07/18: If the land targeted by the first ability entered the battlefield this turn, it won't be able to attack and its activated abilities with {T} in the cost (including its mana ability) can't be activated (unless something gives it haste). The same is true for the lands put onto the battlefield with the third ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>104</No>
+<Name>Garruk, Apex Predator</Name>
+<Type>Legendary Planeswalker — Garruk (Loyalty: 5)</Type>
+<ManaCost>5BG (7)</ManaCost>
+<CardText>+1: Destroy another target planeswalker.
++1: Create a 3/3 black Beast creature token with deathtouch.
+-3: Destroy target creature. You gain life equal to its toughness.
+-8: Target opponent gets an emblem with "Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn."</CardText>
+<Artist>Jae Lee</Artist>
+<Rulings>2014/07/18: The first ability can target and destroy a Garruk planeswalker controlled by another player.
+2014/07/18: If you activate the third ability, and the target creature is an illegal target when the ability tries to resolve, it will be countered and none of its effects will happen. You won't gain any life.
+2014/07/18: The emblem's ability won't trigger if a creature attacks a planeswalker.
+2014/07/18: The emblem is owned and controlled by the target of the ability that created it. In a multiplayer game, if Garruk's owner leaves the game, the emblem does not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>105</No>
+<Name>Shamanic Revelation</Name>
+<Type>Sorcery</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Draw a card for each creature you control.
+Ferocious — You gain 4 life for each creature you control with power 4 or greater.</CardText>
+<Flavor>First, whispers of ancient days. Then, visions of things to come.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2014/11/24: Ferocious abilities of instants and sorceries that don't use the word "instead" provide an additional effect if you control a creature with power 4 or greater as they resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>106</No>
+<Name>Ojutai's Command</Name>
+<Type>Instant</Type>
+<ManaCost>2WU (4)</ManaCost>
+<CardText>Choose two —
+• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+• You gain 4 life.
+• Counter target creature spell.
+• Draw a card.</CardText>
+<Artist>Craig J Spearing</Artist>
+<Rulings>2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast <Ojutai's Command> without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of <Ojutai's Command>, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell will be countered and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>107</No>
+<Name>Dragonscale General</Name>
+<Type>Creature — Human Warrior 2/3</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)</CardText>
+<Flavor>"Dragons seek war. I bring it to them."</Flavor>
+<Artist>William Murai</Artist>
+<Rulings>2014/11/24: Count the number of tapped creatures you control as the ability resolves to determine the value of X.
+2014/11/24: The creature you put the counters on doesn't have to be one of the tapped creatures.
+2014/11/24: Bolster itself doesn't target any creature, though some spells and abilities that bolster may have other effects that target creatures. For example, you could put counters on a creature with protection from white with Abzan Skycaptain's bolster ability.
+2014/11/24: You determine which creature to put counters on as the spell or ability that instructs you to bolster resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>108</No>
+<Name>Sage-Eye Avengers</Name>
+<Type>Creature — Djinn Monk 4/5</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power.</CardText>
+<Artist>Viktor Titov</Artist>
+<Rulings>2014/11/24: Any spell you cast that doesn't have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause prowess to trigger. Playing a land also won't cause prowess to trigger.
+2014/11/24: Prowess triggers only once for any spell, even if that spell has multiple types.
+2014/11/24: Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell.
+2014/11/24: Once it triggers, prowess isn't connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>109</No>
+<Name>Archfiend of Depravity</Name>
+<Type>Creature — Demon 5/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying
+At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.</CardText>
+<Flavor>"Why would I kill you all? Who then would be left to worship me?"</Flavor>
+<Artist>Volkan Baga</Artist>
+<Rulings>2014/11/24: The opponent chooses which creatures to spare, if any, as the ability resolves. This choice doesn't target the creatures.
+2014/11/24: The opponent may choose to spare one or no creatures. If the player doesn't choose any creatures, he or she will sacrifice all creatures he or she controls.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>110</No>
+<Name>Flamerush Rider</Name>
+<Type>Creature — Human Warrior 3/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Whenever Flamerush Rider attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat.
+Dash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)</CardText>
+<Artist>Viktor Titov</Artist>
+<Rulings>2014/11/24: You choose which opponent or opposing planeswalker the token is attacking as you put it onto the battlefield. It doesn't have to be the same player or planeswalker <Flamerush Rider> is attacking.
+2014/11/24: Although the token is attacking, it was never declared as an attacking creature (for purposes of abilities that trigger whenever a creature attacks, for example).
+2014/11/24: The token copies exactly what was printed on the original creature and nothing else (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that creature has any counters on it or Auras and/or Equipment attached to it, or any non-copy effects that changed its power, toughness, types, color, and so on. Notably, it doesn't copy any effects that may have turned a noncreature permanent into a creature. If the token isn't a creature as it enters the battlefield, it won't be attacking.
+2014/11/24: If the copied creature had {X} in its mana cost, X is 0.
+2014/11/24: If the copied creature was copying something else, the token enters the battlefield as whatever that creature was copying.
+2014/11/24: If the copied creature is a token, the token created by <Flamerush Rider> copies the original characteristics of that token as stated by the effect that put it onto the battlefield.
+2014/11/24: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "As [this creature] enters the battlefield" or "[This creature] enters the battlefield with" abilities of the copied creature will also work.
+2014/11/24: If another creature becomes or enters the battlefield as a copy of the token, you won't exile that creature at end of combat. However, if <Flamerush Rider> creates multiple tokens due to a replacement effect (like the one Doubling Season creates), you'll exile each of those tokens.
+2014/11/24: If you choose to pay the dash cost rather than the mana cost, you're still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its dash cost only when you otherwise could cast that creature spell. Most of the time, this means during your main phase when the stack is empty.
+2014/11/24: If you pay the dash cost to cast a creature spell, that card will be returned to its owner's hand only if it's still on the battlefield when its triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is.
+2014/11/24: You don't have to attack with the creature with dash unless another ability says you do.
+2014/11/24: If a creature enters the battlefield as a copy of or becomes a copy of a creature whose dash cost was paid, the copy won't have haste and won't be returned to its owner's hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>111</No>
+<Name>Temur War Shaman</Name>
+<Type>Creature — Human Shaman 4/5</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+Whenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2014/11/24: The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics.
+2014/11/24: Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to.
+2014/11/24: If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost.
+2014/11/24: Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card.
+2014/11/24: Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger.
+2014/11/24: Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature.
+2014/11/24: A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected.
+2014/11/24: Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped.
+2014/11/24: At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to.
+2014/11/24: If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends.
+2014/11/24: You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on).
+2014/11/24: There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up.
+2014/11/24: Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>112</No>
+<Name>Arashin Sovereign</Name>
+<Type>Creature — Dragon 6/6</Type>
+<ManaCost>5WG (7)</ManaCost>
+<CardText>Flying
+When Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.</CardText>
+<Flavor>Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion.</Flavor>
+<Artist>David Palumbo</Artist>
+<Rulings>2015/02/25: The player who controlled <Arashin Sovereign> when it died chooses whether to put it on the top or bottom of its owner's library. The player may also choose to leave <Arashin Sovereign> in the graveyard. This choice is made as the ability resolves.
+2015/02/25: <Arashin Sovereign> will be put on the top or bottom of that library only if it's still in the graveyard when its ability resolves. If it leaves the graveyard before that point, it will stay in whatever zone it's in, even if it's returned to the graveyard before the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>113</No>
+<Name>Pristine Skywise</Name>
+<Type>Creature — Dragon 6/4</Type>
+<ManaCost>4WU (6)</ManaCost>
+<CardText>Flying
+Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.</CardText>
+<Flavor>The elite of Ojutai's brood, the skywise see their enemies as puzzles to be solved.</Flavor>
+<Artist>Dan Scott</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>114</No>
+<Name>Necromaster Dragon</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Flying
+Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent puts the top two cards of his or her library into his or her graveyard.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Rulings>2015/02/25: <Necromaster Dragon>'s last ability will trigger once for each player it deals combat damage to. For each of these abilities, you may pay {2} only once.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>115</No>
+<Name>Boltwing Marauder</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Flying
+Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.</CardText>
+<Flavor>When battling the Kolaghan, consider yourself lucky if lightning strikes the same place only twice.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2015/02/25: Any creature on the battlefield can be the target of <Boltwing Marauder>'s triggered ability, including the one that entered the battlefield and caused the ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>116</No>
+<Name>Harbinger of the Hunt</Name>
+<Type>Creature — Dragon 5/3</Type>
+<ManaCost>3RG (5)</ManaCost>
+<CardText>Flying
+{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
+{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.</CardText>
+<Flavor>An Atarka dragon's exhale cooks what its inhale consumes.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2015/02/25: If <Harbinger of the Hunt> loses flying, its first activated ability will cause it to deal damage to itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>117</No>
+<Name>Sultai Charm</Name>
+<Type>Instant</Type>
+<ManaCost>UBG (3)</ManaCost>
+<CardText>Choose one —
+• Destroy target monocolored creature.
+• Destroy target artifact or enchantment.
+• Draw two cards, then discard a card.</CardText>
+<Flavor>"Strike," the fumes hiss. "Raise an empire with your ambition."</Flavor>
+<Artist>Ryan Yee</Artist>
+<Rulings>2014/09/20: A monocolored creature is exactly one color. Colorless creatures aren't monocolored.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>118</No>
+<Name>Aeronaut Tinkerer</Name>
+<Type>Creature — Human Artificer 2/3</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Aeronaut Tinkerer has flying as long as you control an artifact. (It can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>"All tinkerers have their heads in the clouds. I don't intend to stop there."</Flavor>
+<Artist>William Murai</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>119</No>
+<Name>Dragon Fodder</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Create two 1/1 red Goblin creature tokens.</CardText>
+<Flavor>Atarka goblins meet their demise as readily as their Temur counterparts did, but usually under big, winged shadows.</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>120</No>
+<Name>Dragonlord's Servant</Name>
+<Type>Creature — Goblin Shaman 1/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Dragon spells you cast cost {1} less to cast.</CardText>
+<Flavor>Atarka serving-goblins coat themselves with grease imbued with noxious herbs, hoping to discourage their ravenous masters from adding them to the meal.</Flavor>
+<Artist>Carl Frank</Artist>
+<Rulings>2015/02/25: <Dragonlord's Servant> can't reduce the colored mana requirement of a Dragon spell you cast.
+2015/02/25: If there are any additional costs to cast a Dragon spell, apply those before applying <Dragonlord's Servant> and any other cost reductions.
+2015/02/25: The ability can apply to alternative costs to cast a Dragon spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>121</No>
+<Name>Evolving Wilds</Name>
+<Type>Land</Type>
+<CardText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
+<Flavor>The land is ever resilient. Should it die, it will be reborn.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>122</No>
+<Name>Foe-Razer Regent</Name>
+<Type>Creature — Dragon 4/5</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Flying
+When Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.
+Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2015/02/25: You choose the target of the first triggered ability as it goes on the stack, but you choose whether or not to fight as that ability resolves.
+2015/02/25: If the target creature you don't control becomes an illegal target of the first triggered ability before it resolves, <Foe-Razer Regent> won't fight and its last ability won't trigger.
+2015/02/25: If a creature you control fights during an end step, the delayed triggered ability that puts +1/+1 counters on that creature won't trigger until the beginning of the following turn's end step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>123</No>
+<Name>Relic Seeker</Name>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>124</No>
+<Name>Alhammarret, High Arbiter</Name>
+<Type>Legendary Creature — Sphinx 5/5</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Flying
+As Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way.
+Your opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).</CardText>
+<Artist>???</Artist>
+<Rulings>2015/06/22: Alhammarret's second ability happens as Alhammarret enters the battlefield. No one can cast spells or activate abilities between the time a card is named and the time that Alhammarret's last ability starts to work.
+2015/06/22: You choose one card name, not one name per opponent.
+2015/06/22: Although spells with the chosen name can't be cast, permanent cards with that name can still be put onto the battlefield by a spell or ability.
+2015/06/22: If your opponents have no nonland cards in their hands, you can't choose a card name. Alhammarret's last ability won't stop any spells from being cast in that case.
+2015/06/22: Your opponents can still cast a card with the chosen name face down if it has a morph ability. A card with the chosen name can also be manifested.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>125</No>
+<Name>Dwynen, Gilt-Leaf Daen</Name>
+<Type>Legendary Creature — Elf Warrior 3/4</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Reach
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.</CardText>
+<Flavor>"This is our land. We will not allow eyeblights to poison its beauty."</Flavor>
+<Artist>???</Artist>
+<Rulings>2015/06/22: Count the number of attacking Elves you control as Dwynen's last ability resolves to determine how much life to gain.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>126</No>
+<Name>Hixus, Prison Warden</Name>
+<Type>Legendary Creature — Human Soldier 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Artist>???</Artist>
+<Rulings>2015/06/22: Hixus's ability causes a zone change with a duration, a style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like Hixus have a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after Hixus leaves the battlefield.
+2015/06/22: If Hixus leaves the battlefield before its triggered ability resolves, the creature that dealt combat damage to you won't be exiled.
+2015/06/22: Auras attached to the exiled creatures will be put into their owners' graveyards. Equipment attached to the exiled creatures will become unattached and remain on the battlefield. Any counters on the exiled creatures will cease to exist.
+2015/06/22: If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2015/06/22: The exiled cards return to the battlefield immediately after Hixus leaves the battlefield. Nothing happens between the two events, including state-based actions.
+2015/06/22: In a multiplayer game, if Hixus's owner leaves the game, the exiled cards will return to the battlefield. Because the one-shot effect that returns the cards isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>127</No>
+<Name>Kothophed, Soul Hoarder</Name>
+<Type>Legendary Creature — Demon 6/6</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying
+Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life.</CardText>
+<Flavor>"I will be your most demanding master, Liliana. But I have great things in mind for you."</Flavor>
+<Artist>???</Artist>
+<Rulings>2015/06/22: It doesn't matter who controlled the permanent when it was put into a graveyard.
+2015/06/22: The triggered ability is mandatory. You can't decline to draw the card and lose life, even if you want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>128</No>
+<Name>Pia and Kiran Nalaar</Name>
+<Type>Legendary Creature — Human Artificer 2/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
+{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player.</CardText>
+<Artist>???</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>135</No>
+<Name>Ruinous Path</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Destroy target creature or planeswalker.
+Awaken 4—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)</CardText>
+<Artist>Aaron Miller</Artist>
+<Rulings>2015/08/25: You can cast a spell with awaken for its mana cost and get only its first effect. If you cast a spell for its awaken cost, you'll get both effects.
+2015/08/25: If the non-awaken part of the spell requires a target, you must choose a legal target. You can't cast the spell if you can't choose a legal target for each instance of the word "target" (though you only need a legal target for the awaken ability if you're casting the spell for its awaken cost).
+2015/08/25: If a spell with awaken has multiple targets (including the land you control), and some but not all of those targets become illegal by the time the spell tries to resolve, the spell won't affect the illegal targets in any way.
+2015/08/25: If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell will be countered if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast).
+2015/08/25: The land will retain any other types, subtypes, or supertypes it previously had. It will also retain any mana abilities it had as a result of those subtypes. For example, a Forest that's turned into a creature this way can still be tapped for {G}.
+2015/08/25: Awaken doesn't give the land you control a color. As most lands are colorless, in most cases the resulting land creature will also be colorless.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>136</No>
+<Name>Hero of Goma Fada</Name>
+<Type>Creature — Human Knight Ally 4/3</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Rally — Whenever Hero of Goma Fada or another Ally enters the battlefield under your control, creatures you control gain indestructible until end of turn.</CardText>
+<Flavor>"They seek to break us. Let us show them our strength!"</Flavor>
+<Artist>William Murai</Artist>
+<Rulings>2015/08/25: When an Ally enters the battlefield under your control, each rally ability of the permanents you control will trigger. You can put them on the stack in any order. The last ability you put on the stack will be the first one to resolve.
+2015/08/25: If a creature with a rally ability enters the battlefield under your control at the same time as other Allies, that ability will trigger once for each of those creatures and once for the creature with the ability itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>137</No>
+<Name>Drowner of Hope</Name>
+<Type>Creature — Eldrazi 5/5</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Devoid (This card has no color.)
+When Drowner of Hope enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add {C} to your mana pool."
+Sacrifice an Eldrazi Scion: Tap target creature.</CardText>
+<Artist>James Zapata</Artist>
+<Rulings>2015/08/25: You can sacrifice any Eldrazi Scion to activate <Drowner of Hope>'s last ability, not just one created by <Drowner of Hope>.
+2015/08/25: You can't sacrifice the same permanent to pay two different costs. Notably, if you sacrifice an Eldrazi Scion to activate the last ability of <Drowner of Hope>, you won't add {C} to your mana pool.
+2015/08/25: Cards with devoid use frames that are variations of the transparent frame traditionally used for Eldrazi. The top part of the card features some color over a background based on the texture of the hedrons that once imprisoned the Eldrazi. This coloration is intended to aid deckbuilding and game play.
+2015/08/25: A card with devoid is just colorless. It's not colorless and the colors of mana in its mana cost.
+2015/08/25: Other cards and abilities can give a card with devoid color. If that happens, it's just the new color, not that color and colorless.
+2015/08/25: Devoid works in all zones, not just on the battlefield.
+2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
+2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
+2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>138</No>
+<Name>Defiant Bloodlord</Name>
+<Type>Creature — Vampire 4/5</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Flying
+Whenever you gain life, target opponent loses that much life.</CardText>
+<Flavor>"Despite their bravado, mortals are fragile. If Zendikar is to endure, its lords must save it."
+—Drana, Kalastria bloodchief</Flavor>
+<Artist>Ben Maier</Artist>
+<Rulings>2015/08/25: The ability triggers just once for each life-gaining event, whether it's 1 life from Drana's Emissary or 7 life from Nissa's Renewal.
+2015/08/25: A creature with lifelink dealing combat damage is a single life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, the ability will trigger twice. However, if a single creature with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
+2015/08/25: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>139</No>
+<Name>Barrage Tyrant</Name>
+<Type>Creature — Eldrazi 5/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Devoid (This card has no color.)
+{2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to target creature or player.</CardText>
+<Flavor>Terrible fury. Excellent aim.</Flavor>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2015/08/25: <Barrage Tyrant> deals the damage, not the sacrificed creature. For example, if the sacrificed creature had lifelink, you won't gain life.
+2015/08/25: Cards with devoid use frames that are variations of the transparent frame traditionally used for Eldrazi. The top part of the card features some color over a background based on the texture of the hedrons that once imprisoned the Eldrazi. This coloration is intended to aid deckbuilding and game play.
+2015/08/25: A card with devoid is just colorless. It's not colorless and the colors of mana in its mana cost.
+2015/08/25: Other cards and abilities can give a card with devoid color. If that happens, it's just the new color, not that color and colorless.
+2015/08/25: Devoid works in all zones, not just on the battlefield.
+2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>140</No>
+<Name>Oran-Rief Hydra</Name>
+<Type>Creature — Hydra 5/5</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Trample
+Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Oran-Rief Hydra. If that land is a Forest, put two +1/+1 counters on Oran-Rief Hydra instead.</CardText>
+<Artist>Zack Stella</Artist>
+<Rulings>2015/08/25: A landfall ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability puts a land onto the battlefield under your control.
+2015/08/25: When a land enters the battlefield under your control, each landfall ability of the permanents you control will trigger. You can put them on the stack in any order. The last ability you put on the stack will be the first one to resolve.
+2015/08/25: If the ability has an additional or replacement effect that depends on the land having a certain basic land type, the ability will check that land's type as the ability resolves. If, at that time, the land that entered the battlefield is no longer on the battlefield, use its types when it left the battlefield to determine what happens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>141</No>
+<Name>Scythe Leopard</Name>
+<Type>Creature — Cat 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Landfall — Whenever a land enters the battlefield under your control, Scythe Leopard gets +1/+1 until end of turn.</CardText>
+<Flavor>Eldrazi are not the leopard's preferred prey, but they are better than no prey at all.</Flavor>
+<Artist>Winona Nelson</Artist>
+<Rulings>2015/08/25: A landfall ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability puts a land onto the battlefield under your control.
+2015/08/25: When a land enters the battlefield under your control, each landfall ability of the permanents you control will trigger. You can put them on the stack in any order. The last ability you put on the stack will be the first one to resolve.
+2015/08/25: If the ability has an additional or replacement effect that depends on the land having a certain basic land type, the ability will check that land's type as the ability resolves. If, at that time, the land that entered the battlefield is no longer on the battlefield, use its types when it left the battlefield to determine what happens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>142</No>
+<Name>Genesis Hydra</Name>
+<Type>Creature — Plant Hydra 0/0</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>When you cast Genesis Hydra, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.
+Genesis Hydra enters the battlefield with X +1/+1 counters on it.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Rulings>2017/11/17: <Genesis Hydra>'s first ability will resolve before <Genesis Hydra> does. Notably, if you put an Aura card onto the battlefield this way, it can't enchant <Genesis Hydra>.
+2017/11/17: If you have fewer than X cards in your library, you reveal all of them.
+2017/11/17: If a card in a player's library has {X} in its mana cost, X is considered to be 0.
+2017/11/17: A nonland permanent card is an artifact, creature, enchantment, or planeswalker card.
+2017/11/17: If you put an Aura onto the battlefield this way, you choose what it enchants as it enters the battlefield. This doesn't target any permanent or player, but it must be able to enchant that permanent or player. For example, you could put a green Aura onto the battlefield enchanting a creature with hexproof controlled by an opponent, but not one with protection from green.
+2017/11/17: If "the rest" is zero cards, either because X was 0 or because X was 1 and that card was put onto the battlefield, the library is still shuffled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>143</No>
+<Name>Munda's Vanguard</Name>
+<Type>Creature — Kor Knight Ally 3/3</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</CardText>
+<Flavor>"Do not let yourselves fall now. Zendikar is depending on us—on you!"</Flavor>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2016/01/22: To activate a cohort ability, the Ally with that ability must have been under your control continuously since the beginning of your most recent turn. Informally, it can't have "summoning sickness." However, the other Ally you tap can be one that just came under your control. (Note that tapping the second Ally doesn't use {T} [the tap symbol].)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>144</No>
+<Name>Deepfathom Skulker</Name>
+<Type>Creature — Eldrazi 4/4</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+{3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2016/01/22: Activating <Deepfathom Skulker>'s last ability after it's been legally blocked won't change or undo that block. The declare attackers step is the last time you can activate the ability and have it be effective.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>145</No>
+<Name>Dread Defiler</Name>
+<Type>Creature — Eldrazi 6/8</Type>
+<ManaCost>6B (7)</ManaCost>
+<CardText>Devoid (This card has no color.)
+{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)</CardText>
+<Flavor>It left behind an echoing emptiness more horrible than the grave.</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2016/01/22: Use the card's power as it last existed in your graveyard to determine how much life is lost.
+2016/01/22: A creature token is not a creature card. Although a token does go to the graveyard briefly if it dies, it ceases to exist before you have the opportunity to do anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>146</No>
+<Name>Tyrant of Valakut</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying
+When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to target creature or player.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2016/01/22: For some cards, surge represents only an alternative cost, a discount that applies if you or a teammate has cast another spell this turn. Other cards, like Reckless Bushwhacker, have additional abilities or effects if you paid the surge cost to cast the spell.
+2016/01/22: The other spell that you or a teammate cast can be one that's resolved, one that was countered, or (for instants with surge) one that's still on the stack.
+2016/01/22: If an instant or sorcery spell cast for its surge cost is copied, the copy is also considered to have had its surge cost paid.
+2016/01/22: Casting a spell for its surge cost doesn't change its mana cost or its converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>147</No>
+<Name>Gladehart Cavalry</Name>
+<Type>Creature — Elf Knight 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)
+Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2016/01/22: If <Gladehart Cavalry> dies at the same time as a creature you control with a +1/+1 counter on it, its ability will trigger.
+2016/01/22: If <Gladehart Cavalry> somehow gets a +1/+1 counter, it dying will cause its own ability to trigger.
+2016/01/22: You gain 2 life per creature, not per +1/+1 counter.
+2016/01/22: You can't put more than one +1/+1 counter on any one target using the support action.
+2016/01/22: Support can target a creature you don't control.
+2016/01/22: If a spell with support has other abilities that target creatures, those abilities and the support ability can target the same creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>MBP</SetId>
+<No>148</No>
+<Name>Goblin Dark-Dwellers</Name>
+<Type>Creature — Goblin 4/4</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Menace
+When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2016/01/22: You cast the card during the resolution of the enters-the-battlefield ability, not later in the turn. If it's a sorcery card, ignore the timing restrictions based on it being a sorcery card. Other timing restrictions, such as "Cast [this card] only during combat," must be followed.
+2016/01/22: If you can't cast the target instant or sorcery card, perhaps because there are no legal targets available, or if you choose not to cast it, it will remain in your graveyard.
+2016/01/22: If you cast a card "without paying its mana cost," you can't pay alternative costs such as surge costs. You can pay additional costs. If the card has mandatory additional costs, you must pay those.
+2016/01/22: If the instant or sorcery card has {X} in its mana cost, you must choose 0 as its value.
+2016/01/22: If an instant or sorcery card you cast this way is countered, it will be exiled.
+2016/01/22: If an instant or sorcery card you cast this way goes to a zone other than exile or a graveyard, perhaps because one of its abilities says to put it into its owner's hand, it won't be exiled. This is true even if the card would be put into a graveyard later that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Media Inserts</Set>
+<Rarity>Special</Rarity>
+</Card>
+

@@ -1,0 +1,89 @@
+<Card>
+<SetId>pPRO</SetId>
+<No>1</No>
+<Name>Eternal Dragon</Name>
+<Type>Creature — Dragon Spirit 5/5</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Plainscycling doesn't allow you to draw a card. Instead, it lets you search your library for a Plains card. After you find a Plains card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Plainscycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Plainscycling this card. Any ability that stops a cycling ability from being activated also stops Plainscycling from being activated.
+2009/02/01: Plainscycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Plainscycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Plains land type, including nonbasic lands. You can also choose not to find a card, even if there is a Plains card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Pro Tour</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pPRO</SetId>
+<No>2</No>
+<Name>Mirari's Wake</Name>
+<Type>Enchantment</Type>
+<ManaCost>3WG (5)</ManaCost>
+<CardText>Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.</CardText>
+<Flavor>Even after a false god tore magic from Dominaria, power still radiated from the Mirari sword that slew her.</Flavor>
+<Artist>Volkan Baga</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Pro Tour</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pPRO</SetId>
+<No>3</No>
+<Name>Treva, the Renewer</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3WUG (6)</ManaCost>
+<CardText>Flying
+Whenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color.</CardText>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Rulings>2004/10/04: You choose the color during resolution. This means your opponent does not get to react after knowing the color you chose.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Pro Tour</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pPRO</SetId>
+<No>4</No>
+<Name>Avatar of Woe</Name>
+<Type>Creature — Avatar 6/5</Type>
+<ManaCost>6BB (8)</ManaCost>
+<CardText>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can't be regenerated.</CardText>
+<Artist>rk post</Artist>
+<Rulings>2004/10/04: The converted mana cost of this card is still 8, even if you only pay {B}{B} to cast it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pPRO</SetId>
+<No>5</No>
+<Name>Ajani Goldmane</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>+1: You gain 2 life.
+-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+-6: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2007/10/01: The vigilance granted to a creature by the second ability remains until the end of the turn even if the +1/+1 counter is removed.
+2007/10/01: The power and toughness of the Avatar created by the third ability will change as your life total changes.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour</Set>
+<Rarity>Special</Rarity>
+</Card>
+

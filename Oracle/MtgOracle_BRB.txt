@@ -1,0 +1,2237 @@
+<Card>
+<SetId>BRB</SetId>
+<No>1</No>
+<Name>Abyssal Specter</Name>
+<Type>Creature — Specter 2/3</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Flying
+Whenever Abyssal Specter deals damage to a player, that player discards a card.</CardText>
+<Artist>George Pratt</Artist>
+<Multiverseid>21167</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>2</No>
+<Name>Advance Scout</Name>
+<Type>Creature — Human Soldier Scout 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>First strike
+{W}: Target creature gains first strike until end of turn.</CardText>
+<Flavor>"The soldier's path is worn smooth by the tread of many feet—all in one direction, none returning."
+—Oracle en-Vec</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>21186</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>3</No>
+<Name>Air Elemental</Name>
+<Type>Creature — Elemental 4/4</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>21121</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>4</No>
+<Name>Angelic Page</Name>
+<Type>Creature — Angel Spirit 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</CardText>
+<Flavor>If only every message were as perfect as its bearer.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>21177</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>5</No>
+<Name>Arc Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.</CardText>
+<Flavor>Rainclouds don't last long in Shiv, but that doesn't stop the lightning.</Flavor>
+<Artist>Andrew Goldhawk</Artist>
+<Multiverseid>21102</Multiverseid>
+<Rulings>2014/09/20: You choose how many targets <Arc Lightning> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2014/09/20: If some of the creatures are illegal targets as <Arc Lightning> tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, <Arc Lightning> doesn't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>6</No>
+<Name>Argothian Elder</Name>
+<Type>Creature — Elf Druid 2/2</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>{T}: Untap two target lands.</CardText>
+<Flavor>Sharpen your ears
+—Elvish expression meaning
+"grow wiser"</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>21182</Multiverseid>
+<Rulings>2004/10/04: The ability can target an already untapped land.
+2004/10/04: The ability must target two different lands. It can't be activated if there is just one land to target.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>7</No>
+<Name>Armored Pegasus</Name>
+<Type>Creature — Pegasus 1/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits."
+—Tahlil en-Dal, bounty hunter</Flavor>
+<Artist>Una Fricker</Artist>
+<Multiverseid>21120</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>8</No>
+<Name>Azure Drake</Name>
+<Type>Creature — Drake 2/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Little dreamt could seem so cruel
+As waiting for the wings outspread,
+The jagged teeth, the burning eyes,
+And dagger-claws that clench to nerves.</Flavor>
+<Artist>Janine Johnston</Artist>
+<Multiverseid>21122</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>9</No>
+<Name>Blinking Spirit</Name>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>{0}: Return Blinking Spirit to its owner's hand.</CardText>
+<Flavor>"Don't look at it! Maybe it'll go away!"
+—Ib Halfheart, goblin tactician</Flavor>
+<Artist>L. A. Williams</Artist>
+<Multiverseid>11177</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>10</No>
+<Name>Broken Fall</Name>
+<Type>Enchantment</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Return Broken Fall to its owner's hand: Regenerate target creature.</CardText>
+<Flavor>"I think I used up all my good luck and all my bad luck in the same fall."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Zina Saunders</Artist>
+<Multiverseid>21099</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>11</No>
+<Name>Cackling Fiend</Name>
+<Type>Creature — Zombie 2/1</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>When Cackling Fiend enters the battlefield, each opponent discards a card.</CardText>
+<Flavor>Its windpipe is only the first to amplify its maddening laughter.</Flavor>
+<Artist>Brian Despain</Artist>
+<Multiverseid>21168</Multiverseid>
+<Rulings>2004/10/04: If the opponent has no cards in hand, this has no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>12</No>
+<Name>Catastrophe</Name>
+<Type>Sorcery</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.</CardText>
+<Flavor>Radiant's eyes flashed. "Go, then," the angel spat at Serra, "and leave this world to those who truly care."</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Multiverseid>21143</Multiverseid>
+<Rulings>2004/10/04: You choose land or creatures when the spell resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>13</No>
+<Name>Cinder Marsh</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {B} or {R}. Cinder Marsh doesn't untap during your next untap step.</CardText>
+<Artist>John Matson</Artist>
+<Multiverseid>21170</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>14</No>
+<Name>Control Magic</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Enchant creature
+You control enchanted creature.</CardText>
+<Artist>Dameon Willich</Artist>
+<Multiverseid>21141</Multiverseid>
+<Rulings>2016/06/08: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>15</No>
+<Name>Counterspell</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Artist>Hannibal King</Artist>
+<Multiverseid>21127</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>16</No>
+<Name>Crazed Skirge</Name>
+<Type>Creature — Imp 2/2</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Flying, haste</CardText>
+<Flavor>They are Phyrexia's couriers; the messages they carry are inscribed on their slick hides.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>21165</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>17</No>
+<Name>Curfew</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Each player returns a creature they control to its owner's hand.</CardText>
+<Flavor>". . . But I'm not tired!"</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>21137</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>18</No>
+<Name>Dark Ritual</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Add {B}{B}{B}.</CardText>
+<Artist>Clint Langley</Artist>
+<Multiverseid>21154</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>19</No>
+<Name>Dirtcowl Wurm</Name>
+<Type>Creature — Wurm 3/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.</CardText>
+<Flavor>Few of Rath's rivers follow a steady course, so many new channels are carved for them.</Flavor>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>21196</Multiverseid>
+<Rulings>2004/10/04: A spell or ability that tells a player to "put a land onto the battlefield" does not count as playing a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>20</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Flavor>"I implore you not to forget the horrors of the past. You would have us start the Brothers' War anew"
+—Sorine Relicbane, Soldevi heretic</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>21133</Multiverseid>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>21</No>
+<Name>Disruptive Student</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>{T}: Counter target spell unless its controller pays {1}.</CardText>
+<Flavor>"Teferi is a problem student. Always late for class. No appreciation for constructive use of time."
+—Barrin, progress report</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>21123</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>22</No>
+<Name>Drifting Meadow</Name>
+<Type>Land</Type>
+<CardText>Drifting Meadow enters the battlefield tapped.
+{T}: Add {W}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Multiverseid>21203</Multiverseid>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>23</No>
+<Name>Elvish Lyrist</Name>
+<Type>Creature — Elf 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</CardText>
+<Flavor>Bring the spear of ancient briar;
+Bring the torch to light the pyre.
+Bring the one who trod our ground;
+Bring the spade to dig his mound.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>21188</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>24</No>
+<Name>Exhume</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Each player puts a creature card from their graveyard onto the battlefield.</CardText>
+<Flavor>"Death—an outmoded concept. We sleep, and we change."
+—Sitrik, birth priest</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>21153</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>25</No>
+<Name>Fecundity</Name>
+<Type>Enchantment</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever a creature dies, that creature's controller may draw a card.</CardText>
+<Flavor>Life is eternal. A lifetime is ephemeral.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>21192</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>26</No>
+<Name>Fertile Ground</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.</CardText>
+<Flavor>The forest was too lush for the brothers to despoil—almost.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>21175</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>27</No>
+<Name>Fire Ants</Name>
+<Type>Creature — Insect 2/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{T}: Fire Ants deals 1 damage to each other creature without flying.</CardText>
+<Flavor>Visitors to Shiv fear the dragons, the goblins, or the viashino. Natives fear the ants.</Flavor>
+<Artist>Tom Fleming</Artist>
+<Multiverseid>21163</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>28</No>
+<Name>Flood</Name>
+<Type>Enchantment</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>{U}{U}: Tap target creature without flying.</CardText>
+<Flavor>"A dash of cool water does wonders to clear a cluttered battlefield."
+—Vibekke Ragnild, Witches and War</Flavor>
+<Artist>Dennis Detwiller</Artist>
+<Multiverseid>21139</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>29</No>
+<Name>Giant Growth</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Target creature gets +3/+3 until end of turn.</CardText>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>21194</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>30</No>
+<Name>Gorilla Warrior</Name>
+<Type>Creature — Ape Warrior 3/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<Flavor>They were formidable even before they learned the use of weapons.</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>21205</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>31</No>
+<Name>Healing Salve</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn.</CardText>
+<Artist>Zina Saunders</Artist>
+<Multiverseid>21130</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>32</No>
+<Name>Heat Ray</Name>
+<Type>Instant</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Heat Ray deals X damage to target creature.</CardText>
+<Flavor>It's not known whether the Thran built the device to forge their wonders or to defend them.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>21159</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>33</No>
+<Name>Hurricane</Name>
+<Type>Sorcery</Type>
+<ManaCost>XG (1)</ManaCost>
+<CardText>Hurricane deals X damage to each creature with flying and each player.</CardText>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>21195</Multiverseid>
+<Rulings>2004/10/04: Whether or not a creature has flying is only checked on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>34</No>
+<Name>Infantry Veteran</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{T}: Target attacking creature gets +1/+1 until end of turn.</CardText>
+<Flavor>"The true dishonor for a soldier is surviving the war."
+—Telim'Tor</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>21131</Multiverseid>
+<Rulings>2010/08/15: An "attacking creature" is one that has been declared as an attacker this combat, or one that was put onto the battlefield attacking this combat. Unless that creature leaves combat, it continues to be an attacking creature through the end of combat step, even if the player it was attacking has left the game, or the planeswalker it was attacking has left combat.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>35</No>
+<Name>Land Tax</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>21197</Multiverseid>
+<Rulings>2006/10/15: You can fetch any of the "Snow-Covered" lands, since they all also have the supertype basic.
+2009/10/01: This ability has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless any one of your opponents controls more lands than you, and (2) the ability will do nothing if you control at least as many lands as each of your opponents by the time it resolves.
+2009/10/01: You shuffle your library if you search, even if you don't put any basic land cards into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>36</No>
+<Name>Lhurgoyf</Name>
+<Type>Creature — Lhurgoyf */1+*</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</CardText>
+<Flavor>"Ach! Hans, run! It's the Lhurgoyf!"
+—Saffi Eriksdotter, last words</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>11380</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>37</No>
+<Name>Lightning Elemental</Name>
+<Type>Creature — Elemental 4/1</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
+<Flavor>A lightning elemental once killed an entire tribe of merfolk—simply by going for a swim.</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>21166</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>38</No>
+<Name>Living Death</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.</CardText>
+<Artist>Charles Gillespie</Artist>
+<Multiverseid>21155</Multiverseid>
+<Rulings>2018/03/16: As <Living Death> resolves, all players exile their creature cards from graveyards at the same time. Then all players sacrifice all creatures they control at the same time. Then all players put all creatures they exiled onto the battlefield at the same time.
+2018/03/16: Only cards exiled by <Living Death>'s first instruction are put onto the battlefield. If a replacement effect (such as that of Leyline of the Void) causes any of the sacrificed creatures to be exiled instead of put into a graveyard, those cards aren't returned to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>39</No>
+<Name>Llanowar Elves</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G}.</CardText>
+<Flavor>One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>21107</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>40</No>
+<Name>Man-o'-War</Name>
+<Type>Creature — Jellyfish 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</CardText>
+<Flavor>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philosopher</Flavor>
+<Artist>Jon J Muth</Artist>
+<Multiverseid>21138</Multiverseid>
+<Rulings>2016/06/08: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>41</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>"The fatal flaw in every plan is the assumption that you know more than your enemy."
+—Volrath</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>21126</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>42</No>
+<Name>Maniacal Rage</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2 and can't block.</CardText>
+<Flavor>Only by sacrificing any semblance of defense could Gerrard best Greven.</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>21097</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>43</No>
+<Name>Manta Riders</Name>
+<Type>Creature — Merfolk 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>{U}: Manta Riders gains flying until end of turn.</CardText>
+<Flavor>"Water is firmament to the finned."
+—Oracle en-Vec</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>21125</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>44</No>
+<Name>Master Decoy</Name>
+<Type>Creature — Human Soldier 1/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{W}, {T}: Tap target creature.</CardText>
+<Flavor>"A skilled decoy can throw your enemies off your trail. A master decoy can survive to do it again."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Phil Foglio</Artist>
+<Multiverseid>21176</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>45</No>
+<Name>Mogg Hollows</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {R} or {G}. Mogg Hollows doesn't untap during your next untap step.</CardText>
+<Artist>Jeff Laubenstein</Artist>
+<Multiverseid>21117</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>46</No>
+<Name>Nekrataal</Name>
+<Type>Creature — Human Assassin 2/1</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>First strike
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</CardText>
+<Flavor>"I have seen the horrors Kaervek has freed. My Betrayal is certain—but of Kaervek or of Jamuraa, I cannot say."
+—Jolrael</Flavor>
+<Artist>Adrian Smith</Artist>
+<Multiverseid>15391</Multiverseid>
+<Rulings>2016/06/08: Nothing happens if there are no nonartifact, nonblack creatures on the battlefield when <Nekrataal> enters the battlefield, but if there is one, you must target it, even if it's a creature you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>47</No>
+<Name>Opportunity</Name>
+<Type>Instant</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Target player draws four cards.</CardText>
+<Flavor>"He cocooned himself alone in his workshop for months. When he finally emerged, all broad grins and excited chatter, I knew he'd found his answer."
+—Barrin, master wizard</Flavor>
+<Artist>Ron Spears</Artist>
+<Multiverseid>21128</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>48</No>
+<Name>Pacifism</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block.</CardText>
+<Flavor>For the first time in his life, Grakk felt a little warm and fuzzy inside.</Flavor>
+<Artist>Robert Bliss</Artist>
+<Multiverseid>21191</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>49</No>
+<Name>Pestilence</Name>
+<Type>Enchantment</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
+{B}: Pestilence deals 1 damage to each creature and each player.</CardText>
+<Artist>Pete Venters</Artist>
+<Multiverseid>21149</Multiverseid>
+<Rulings>2004/10/04: Each activation is considered a new damage effect. An activation can only be 1 point of damage.
+2011/06/01: Note that "until end of turn" effects wear off after "at the beginning of the end step" triggered abilities, so an artifact that animates until end of turn can keep this on the battlefield.
+2011/06/01: It will stay on the battlefield if there is a creature that is put into the graveyard during the end step. This is because this ability will not trigger at all if there is at least one creature on the battlefield as the end step begins.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>50</No>
+<Name>Phyrexian Ghoul</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.</CardText>
+<Flavor>Phyrexia wastes nothing. Its food chain is a spiraling cycle.</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>21164</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>51</No>
+<Name>Pincher Beetles</Name>
+<Type>Creature — Insect 3/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
+<Flavor>"No fair! Since when does a bug get ta munch on me?"
+—Squee, goblin cabin hand</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>21110</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>52</No>
+<Name>Plated Rootwalla</Name>
+<Type>Creature — Lizard 3/3</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.</CardText>
+<Flavor>" . . . And the third little boar built his house out of rootwalla plates . . . ."
+—Skyshroud children's story</Flavor>
+<Artist>Randy Elliott</Artist>
+<Multiverseid>21116</Multiverseid>
+<Rulings>2006/02/01: If this card's ability is activated by one player, then another player takes control of it on the same turn, the second player can't activate its ability that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>53</No>
+<Name>Polluted Mire</Name>
+<Type>Land</Type>
+<CardText>Polluted Mire enters the battlefield tapped.
+{T}: Add {B}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>21202</Multiverseid>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>54</No>
+<Name>Prodigal Sorcerer</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>{T}: Prodigal Sorcerer deals 1 damage to any target.</CardText>
+<Flavor>Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>21129</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>55</No>
+<Name>Raging Goblin</Name>
+<Type>Creature — Goblin Berserker 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
+<Flavor>He raged at the world, at his family, at his life. But mostly he just raged.</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>21162</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>56</No>
+<Name>Ray of Command</Name>
+<Type>Instant</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.</CardText>
+<Flavor>"Heel."</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Multiverseid>21142</Multiverseid>
+<Rulings>2004/10/04: You may target an untapped creature with <Ray of Command>.
+2004/10/04: The creature returns to the opponent when the "until end of turn" effect wears off during the cleanup step. It taps during the Cleanup step (if it is not already tapped), so any abilities triggered off it tapping happen at that time.
+2008/10/01: You tap the creature when you lose control of it for any reason — because <Ray of Command>'s effect ends, or because a spell or ability causes another player to gain control of it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>57</No>
+<Name>Reanimate</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</CardText>
+<Flavor>"You will learn to earn death."
+—Volrath</Flavor>
+<Artist>Robert Bliss</Artist>
+<Multiverseid>21160</Multiverseid>
+<Rulings>2004/12/01: You lose life equal to the converted mana cost of the card you're bringing back, so if you <Reanimate> Volrath's Shapeshifter, you lose three life, regardless of what the next card down is.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>58</No>
+<Name>Remote Isle</Name>
+<Type>Land</Type>
+<CardText>Remote Isle enters the battlefield tapped.
+{T}: Add {U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Artist>Ciruelo</Artist>
+<Multiverseid>21200</Multiverseid>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>59</No>
+<Name>River Boa</Name>
+<Type>Creature — Snake 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{G}: Regenerate River Boa.</CardText>
+<Flavor>"But no one heard the snake's gentle hiss for peace over the elephant's trumpeting of war."
+—Afari, Tales</Flavor>
+<Artist>Steve White</Artist>
+<Multiverseid>21109</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>60</No>
+<Name>Rolling Thunder</Name>
+<Type>Sorcery</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Rolling Thunder deals X damage divided as you choose among any number of targets.</CardText>
+<Flavor>"Such rage," thought Vhati, gazing up at the thunderhead from the Predator. "It is Greven's mind manifest."</Flavor>
+<Artist>Richard Thomas</Artist>
+<Multiverseid>21158</Multiverseid>
+<Rulings>2004/10/04: If X is greater than 0, you can't choose zero targets. You must choose between one and X targets. If X is 0, you can't choose any targets.
+2015/08/25: You choose how many targets <Rolling Thunder> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2015/08/25: If some, but not all, of the targets become illegal by the time <Rolling Thunder> tries to resolve, the original division of damage still applies, but no damage is dealt to illegal targets. If all the targets are illegal, the spell won't resolve.
+2015/08/25: If <Rolling Thunder> is copied, the copy will retain the original damage divsion. The spell or ability will likely allow you to choose new targets, but you can't change the way damage is divided.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>61</No>
+<Name>Sadistic Glee</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Enchant creature
+Whenever a creature dies, put a +1/+1 counter on enchanted creature.</CardText>
+<Flavor>"First blood isn't as important as last blood."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>21150</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>62</No>
+<Name>Sanctum Custodian</Name>
+<Type>Creature — Human Cleric 1/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{T}: Prevent the next 2 damage that would be dealt to any target this turn.</CardText>
+<Flavor>Serra told them to guard Urza as he healed. Five years they stood.</Flavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>21184</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>63</No>
+<Name>Sanctum Guardian</Name>
+<Type>Creature — Human Cleric 1/4</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage.</CardText>
+<Flavor>"Protect our mother in her womb."</Flavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>21185</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>64</No>
+<Name>Sandstorm</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Sandstorm deals 1 damage to each attacking creature.</CardText>
+<Flavor>Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>21193</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>65</No>
+<Name>Scaled Wurm</Name>
+<Type>Creature — Wurm 7/6</Type>
+<ManaCost>7G (8)</ManaCost>
+<Flavor>"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age."
+—Kjeldor: Ice Civilization</Flavor>
+<Artist>Daniel Gelon</Artist>
+<Multiverseid>21174</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>66</No>
+<Name>Scryb Sprites</Name>
+<Type>Creature — Faerie 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>The only sound was the gentle clicking of the faeries' wings. Then those intruders who were still standing turned and fled. One thing was certain: they didn't think the Scryb were very funny anymore.</Flavor>
+<Artist>Amy Weber</Artist>
+<Multiverseid>21105</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>67</No>
+<Name>Seasoned Marshal</Name>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Whenever Seasoned Marshal attacks, you may tap target creature.</CardText>
+<Flavor>There are only two rules of tactics: never be without a plan, and never rely on it.</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>21183</Multiverseid>
+<Rulings>2004/10/04: Can target an already tapped creature if you want.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>68</No>
+<Name>Seeker of Skybreak</Name>
+<Type>Creature — Elf 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Untap target creature.</CardText>
+<Flavor>"We shun them not for their dream but for their refusal to let such a noble dream die a noble death."
+—Eladamri, Lord of Leaves</Flavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>21108</Multiverseid>
+<Rulings>2004/10/04: It can use its tap ability to untap itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>69</No>
+<Name>Sengir Vampire</Name>
+<Type>Creature — Vampire 4/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>21169</Multiverseid>
+<Rulings>2007/07/15: If <Sengir Vampire> deals nonlethal damage to a creature and then a different effect or damage source causes that creature to be put into a graveyard later in the turn, <Sengir Vampire>'s ability will trigger and it will get a +1/+1 counter.
+2011/09/22: Each time a creature is put into a graveyard from the battlefield, check whether <Sengir Vampire> had dealt any damage to it at any time during that turn. If so, <Sengir Vampire>'s ability will trigger. It doesn't matter who controlled the creature or whose graveyard it was put into.
+2011/09/22: If <Sengir Vampire> and a creature it dealt damage to are both put into a graveyard at the same time, <Sengir Vampire>'s ability will trigger, but it will do nothing when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>70</No>
+<Name>Sewer Rats</Name>
+<Type>Creature — Rat 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.</CardText>
+<Flavor>You lie down with rats, and the rats run away.
+—Suq'Ata insult</Flavor>
+<Artist>Martin McKenna</Artist>
+<Multiverseid>21161</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>71</No>
+<Name>Shower of Sparks</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Shower of Sparks deals 1 damage to target creature and 1 damage to target player or planeswalker.</CardText>
+<Flavor>The viashino had learned how to operate the rig through trial and error—mostly error.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>21104</Multiverseid>
+<Rulings>2004/10/04: If the creature leaves the battlefield before this resolves, it still damages the player.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>72</No>
+<Name>Skyshroud Elite</Name>
+<Type>Creature — Elf 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</CardText>
+<Flavor>"Civilization is a conspiracy to disguise the mutilation of nature."
+—Skyshroud elite creed</Flavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>21106</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>73</No>
+<Name>Slippery Karst</Name>
+<Type>Land</Type>
+<CardText>Slippery Karst enters the battlefield tapped.
+{T}: Add {G}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>21199</Multiverseid>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>74</No>
+<Name>Soltari Foot Soldier</Name>
+<Type>Creature — Soltari Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>"Children of the Ruins, raised to be warriors, know that life begins when another speaks their names."
+—Soltari Tales of Life</Flavor>
+<Artist>Janet Aulisio</Artist>
+<Multiverseid>21187</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>75</No>
+<Name>Songstitcher</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.</CardText>
+<Flavor>The true names of birds are songs woven into their souls.</Flavor>
+<Artist>Berry</Artist>
+<Multiverseid>21134</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>76</No>
+<Name>Soul Warden</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Whenever another creature enters the battlefield, you gain 1 life.</CardText>
+<Flavor>Count carefully the souls and see that none are lost.
+—Vec teaching</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>21132</Multiverseid>
+<Rulings>2004/10/04: Does not trigger on a card on the battlefield being changed into a creature.
+2004/10/04: The ability will not trigger on itself entering the battlefield, but it will trigger on any other creature that is put onto the battlefield at the same time.
+2005/08/01: Two <Soul Warden>s entering the battlefield at the same time will each cause the other's ability to trigger.
+2005/08/01: The life gain is mandatory.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>77</No>
+<Name>Spike Colony</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Spike Colony enters the battlefield with four +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>21181</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>78</No>
+<Name>Spike Feeder</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Spike Feeder enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</CardText>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>21113</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>79</No>
+<Name>Spike Weaver</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Spike Weaver enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</CardText>
+<Artist>Mike Raabe</Artist>
+<Multiverseid>21179</Multiverseid>
+<Rulings>2004/10/04: The second ability includes your own creatures as well.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>80</No>
+<Name>Spike Worker</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Spike Worker enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Multiverseid>21198</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>81</No>
+<Name>Steam Blast</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Steam Blast deals 2 damage to each creature and each player.</CardText>
+<Flavor>The viashino knew of the cracked pipes but deliberately left them unmended to bolster the rig's defenses.</Flavor>
+<Artist>Mike Raabe</Artist>
+<Multiverseid>21204</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>82</No>
+<Name>Subversion</Name>
+<Type>Enchantment</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</CardText>
+<Flavor>Kerrick's corrupt domain swelled like a blister on Tolaria's skin.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>21148</Multiverseid>
+<Rulings>2004/10/04: This is loss of life, not damage. It can't be prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>83</No>
+<Name>Sun Clasp</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return enchanted creature to its owner's hand.</CardText>
+<Flavor>"And darkness shall be cast from me
+For my soul resides in the Sun."
+—Femeref dirge</Flavor>
+<Artist>John Coulthart</Artist>
+<Multiverseid>21190</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>84</No>
+<Name>Swords to Plowshares</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller gains life equal to its power.</CardText>
+<Artist>Jeff A. Menges</Artist>
+<Multiverseid>21172</Multiverseid>
+<Rulings>2018/03/16: The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield.
+2018/03/16: If the creature's power is negative, its controller doesn't lose or gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>85</No>
+<Name>Symbiosis</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Two target creatures each get +2/+2 until end of turn.</CardText>
+<Flavor>Although the elves of Argoth always considered them a nuisance, the pixies made fine allies during the war against the machines.</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>21101</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>86</No>
+<Name>Syphon Soul</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</CardText>
+<Artist>Melissa A. Benson</Artist>
+<Multiverseid>21152</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>87</No>
+<Name>Terror</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>21151</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>88</No>
+<Name>Thalakos Lowlands</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {W} or {U}. Thalakos Lowlands doesn't untap during your next untap step.</CardText>
+<Artist>Jeff A. Menges</Artist>
+<Multiverseid>21146</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>89</No>
+<Name>Tranquility</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Destroy all enchantments.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>21100</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>90</No>
+<Name>Trumpeting Armodon</Name>
+<Type>Creature — Elephant 3/3</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.</CardText>
+<Flavor>These are its last days. But it will not go quietly.</Flavor>
+<Artist>Gary Leach</Artist>
+<Multiverseid>21114</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>91</No>
+<Name>Unnerve</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Each opponent discards two cards.</CardText>
+<Flavor>"If fear is the only tool you have left, then you'll never control me."
+—Xantcha, to Gix</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>21156</Multiverseid>
+<Rulings>2004/10/04: Players with less than 2 cards discard all they have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>92</No>
+<Name>Uthden Troll</Name>
+<Type>Creature — Troll 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{R}: Regenerate Uthden Troll.</CardText>
+<Flavor>"Oi oi oi, me gotta hurt in 'ere,
+Oi oi oi, me smell a ting is near,
+Gonna bosh 'n gonna nosh
+'n da hurt'll disappear."
+—Troll chant</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>21112</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>93</No>
+<Name>Vec Townships</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {G} or {W}. Vec Townships doesn't untap during your next untap step.</CardText>
+<Artist>Eric David Anderson</Artist>
+<Multiverseid>21178</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>94</No>
+<Name>Village Elder</Name>
+<Type>Creature — Human Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{G}, {T}, Sacrifice a Forest: Regenerate target creature.</CardText>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>21098</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>95</No>
+<Name>Wall of Heat</Name>
+<Type>Creature — Wall 2/6</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Defender (This creature can't attack.)</CardText>
+<Flavor>At a distance, we mistook the sound for a waterfall . . . .</Flavor>
+<Artist>Richard Thomas</Artist>
+<Multiverseid>21147</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>96</No>
+<Name>Weakness</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets -2/-1.</CardText>
+<Artist>Kev Walker</Artist>
+<Multiverseid>21157</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>97</No>
+<Name>Wildfire Emissary</Name>
+<Type>Creature — Efreet 2/4</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Protection from white
+{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.</CardText>
+<Flavor>"The efreet is a striding storm with a voice that crackles like fire."
+—Qhattib, vizier of Amiqat</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>21115</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>98</No>
+<Name>Wind Drake</Name>
+<Type>Creature — Drake 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"No bird soars too high, if he soars with his own wings."
+—William Blake,
+The Marriage of Heaven and Hell</Flavor>
+<Artist>Zina Saunders</Artist>
+<Multiverseid>21124</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>99</No>
+<Name>Windfall</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.</CardText>
+<Flavor>"To fill your mind with knowledge, we must start by emptying it."
+—Barrin, master wizard</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>21135</Multiverseid>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<No>100</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>21180</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>21118</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>David O'Connor</Artist>
+<Multiverseid>21119</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>21144</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>21145</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>21171</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22334</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Multiverseid>22335</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Multiverseid>22336</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>22339</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22340</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22342</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22343</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22344</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>David O'Connor</Artist>
+<Multiverseid>22347</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22348</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22349</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22351</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22352</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Ji Yong</Artist>
+<Multiverseid>22353</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Ji Yong</Artist>
+<Multiverseid>22354</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Ji Yong</Artist>
+<Multiverseid>22355</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>22356</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>22357</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>He Jiancheng</Artist>
+<Multiverseid>22358</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>He Jiancheng</Artist>
+<Multiverseid>22359</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>He Jiancheng</Artist>
+<Multiverseid>22360</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>22361</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>22362</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>22363</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>22364</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Ku Xueming</Artist>
+<Multiverseid>22365</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Ku Xueming</Artist>
+<Multiverseid>22366</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Ku Xueming</Artist>
+<Multiverseid>22367</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22368</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22369</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BRB</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>22370</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle Royale Box Set</Set>
+<Rarity>Land</Rarity>
+</Card>
+

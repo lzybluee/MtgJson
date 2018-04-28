@@ -1,0 +1,797 @@
+<Card>
+<SetId>pWPN</SetId>
+<No>21</No>
+<Name>Sprouting Thrinax</Name>
+<Type>Creature — Lizard 3/3</Type>
+<ManaCost>BRG (3)</ManaCost>
+<CardText>When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens.</CardText>
+<Flavor>The vast network of predation on Jund has actually caused some strange creatures to adapt to being eaten.</Flavor>
+<Artist>Jaime Jones</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>22</No>
+<Name>Woolly Thoctar</Name>
+<Type>Creature — Beast 5/4</Type>
+<ManaCost>WRG (3)</ManaCost>
+<Flavor>One of the most ferocious and deadly gargantuans, the thoctar never sees its worshippers, but it often awakens surrounded by gifts and sacrifices.</Flavor>
+<Artist>Steve Argyle</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>24</No>
+<Name>Path to Exile</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.</CardText>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2017/03/14: If the targeted creature becomes an illegal target by the time <Path to Exile> would resolve, the entire spell is countered. The creature's controller won't search for a basic land card.
+2017/03/14: The controller of the exiled creature isn't required to search his or her library for a basic land. If that player doesn't, the player won't shuffle his or her library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>25</No>
+<Name>Hellspark Elemental</Name>
+<Type>Creature — Elemental 3/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Trample, haste
+At the beginning of the end step, sacrifice Hellspark Elemental.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Nils Hamm</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>26</No>
+<Name>Marisi's Twinclaws</Name>
+<Type>Creature — Cat Warrior 2/4</Type>
+<ManaCost>2{R/W}G (4)</ManaCost>
+<CardText>Double strike</CardText>
+<Flavor>"Looks like we're completely outnumbered."
+"Lucky for us. I thought we'd be bored."</Flavor>
+<Artist>Dominick Domingo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>27</No>
+<Name>Slave of Bolas</Name>
+<Type>Sorcery</Type>
+<ManaCost>3{U/R}B (5)</ManaCost>
+<CardText>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</CardText>
+<Flavor>Nicol Bolas doesn't distinguish between servants and victims.</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2009/05/01: You may target a creature you already control.
+2009/05/01: If you don't control the targeted creature when the "at end of turn" ability resolves, it won't be sacrificed. If it's still on the battlefield but under another player's control, the ability won't try to have you sacrifice it again at the end of the turn after that.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>28</No>
+<Name>Mycoid Shepherd</Name>
+<Type>Creature — Fungus 5/4</Type>
+<ManaCost>1WGG (4)</ManaCost>
+<CardText>Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.</CardText>
+<Artist>Jarreau Wimberly</Artist>
+<Rulings>2009/05/01: <Mycoid Shepherd>'s ability will trigger when it's put into a graveyard from the battlefield no matter what its power is at that time.
+2009/05/01: If another creature you control is put into a graveyard from the battlefield, <Mycoid Shepherd>'s ability checks that creature's power as it last existed on the battlefield. If it was 5 or greater, the ability will trigger.
+2009/05/01: If <Mycoid Shepherd> and another creature you control with power 5 or greater are put into a graveyard from the battlefield at the same time, <Mycoid Shepherd>'s ability will trigger twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>29</No>
+<Name>Naya Sojourners</Name>
+<Type>Creature — Elf Shaman 5/3</Type>
+<ManaCost>2WRG (5)</ManaCost>
+<CardText>When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</CardText>
+<Flavor>The elves had entered a land like an open grave-an act of fortitude or folly?</Flavor>
+<Artist>Michael Bruinsma</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/05/01: The triggered ability acts as a cycle-triggered ability or as a leaves-the-battlefield ability, as appropriate. The player who controls the triggered ability is the player who cycled the Sojourner, or the player who last controlled the Sojourner on the battlefield.
+2009/05/01: If you cycle this card, the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2009/05/01: The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2009/05/01: You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>30</No>
+<Name>Mind Control</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Enchant creature
+You control enchanted creature.</CardText>
+<Flavor>"Why fight the body when you can dominate the mind that rules it?"
+—Jace Beleren</Flavor>
+<Artist>Keith Garletts</Artist>
+<Rulings>2010/08/15: Gaining control of a creature doesn't cause you gain control of any Auras or Equipment attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>31</No>
+<Name>Rise from the Grave</Name>
+<Type>Sorcery</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</CardText>
+<Flavor>"Death is no excuse for disobedience."
+—Liliana Vess</Flavor>
+<Artist>Thomas M. Baxa</Artist>
+<Rulings>2009/10/01: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2009/10/01: If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless.
+2009/10/01: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave> effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes.
+2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>32</No>
+<Name>Kor Duelist</Name>
+<Type>Creature — Kor Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)</CardText>
+<Flavor>"Swords cannot reach far enough. Chains cannot strike hard enough. An eternal dilemma, but a simple one."</Flavor>
+<Artist>Kekai Kotaki</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>33</No>
+<Name>Vampire Nighthawk</Name>
+<Type>Creature — Vampire Shaman 2/3</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying, deathtouch, lifelink</CardText>
+<Artist>Karl Kopinski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>34</No>
+<Name>Nissa's Chosen</Name>
+<Type>Creature — Elf Warrior 2/3</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>If Nissa's Chosen would die, put it on the bottom of its owner's library instead.</CardText>
+<Artist>Sam Wood</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>35</No>
+<Name>Emeria Angel</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Flying
+Landfall — Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying.</CardText>
+<Artist>Steve Argyle</Artist>
+<Rulings>2009/10/01: The landfall ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability (such as Rampant Growth) causes you to put a land onto the battlefield under your control. It will even trigger when a spell or ability causes another player to put a land onto the battlefield under your control (as can happen with Yavimaya Dryad's ability, for example).
+2009/10/01: When a land enters the battlefield under your control, each landfall ability of the permanents you control will trigger. You can put them on the stack in any order. The last ability you put on the stack will be the first one that resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>36</No>
+<Name>Kor Firewalker</Name>
+<Type>Creature — Kor Soldier 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from red
+Whenever a player casts a red spell, you may gain 1 life.</CardText>
+<Flavor>"A river of lava is just another river to cross."</Flavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>37</No>
+<Name>Leatherback Baloth</Name>
+<Type>Creature — Beast 4/5</Type>
+<ManaCost>GGG (3)</ManaCost>
+<Flavor>Heavy enough to withstand the Roil, leatherback skeletons are havens for travelers in storms and landshifts.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>38</No>
+<Name>Hada Freeblade</Name>
+<Type>Creature — Human Soldier Ally 0/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.</CardText>
+<Artist>Cyril Van Der Haegen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>39</No>
+<Name>Kalastria Highborn</Name>
+<Type>Creature — Vampire Shaman 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Whenever Kalastria Highborn or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2010/03/01: If multiple Vampires you control (possibly including <Kalastria Highborn> itself) are put into their owners' graveyards at the same time, <Kalastria Highborn>'s ability triggers that many times.
+2010/03/01: You target a player when the ability triggers. You choose whether to pay {B} as the ability resolves. You may pay {B} only once per resolution.
+2010/03/01: If the targeted player is an illegal target by the time the ability resolves (for example, if that player has left a multiplayer game), the entire ability is countered. You can't pay {B} and you don't gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>40</No>
+<Name>Syphon Mind</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Each other player discards a card. You draw a card for each card discarded this way.</CardText>
+<Flavor>When tempers run high, it's easy to lose your head.</Flavor>
+<Artist>Jeff Easley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>46</No>
+<Name>Pathrazer of Ulamog</Name>
+<Type>Creature — Eldrazi 9/9</Type>
+<ManaCost>11 (11)</ManaCost>
+<CardText>Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)
+Pathrazer of Ulamog can't be blocked except by three or more creatures.</CardText>
+<Flavor>No thought but hunger. No strategy but destruction.</Flavor>
+<Artist>Goran Josic</Artist>
+<Rulings>2010/06/15: Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before he or she declares blockers. Any creatures sacrificed this way won't be able to block.
+2010/06/15: If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything.
+2010/06/15: In a Two-Headed Giant game, the controller of an attacking creature with annihilator chooses which of the defending players is affected by the ability. Only that player sacrifices permanents. The choice is made as the ability resolves; once a player is chosen, it's too late for anyone to respond.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>47</No>
+<Name>Curse of Wizardry</Name>
+<Type>Enchantment</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>As Curse of Wizardry enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, that player loses 1 life.</CardText>
+<Flavor>"We must all push through the pain to heal our world."
+—Ayli, Kamsa cleric</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2010/06/15: <Curse of Wizardry> affects all players, including you.
+2010/06/15: If a player casts a spell of the chosen color, <Curse of Wizardry>'s second ability triggers and goes on the stack on top of it. The ability will resolve before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>48</No>
+<Name>Staggershock</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Staggershock deals 2 damage to target creature or player.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2010/06/15: If a spell with rebound that you cast from your hand is countered for any reason (due to a spell like Cancel, or because all of its targets are illegal), the spell doesn't resolve and rebound has no effect. The spell is simply put into your graveyard. You won't get to cast it again next turn.
+2010/06/15: If you cast a spell with rebound from anywhere other than your hand (such as from your graveyard due to Sins of the Past, from your library due to cascade, or from your opponent's hand due to Sen Triplets), rebound won't have any effect. If you do cast it from your hand, rebound will work regardless of whether you paid its mana cost (for example, if you cast it from your hand due to Maelstrom Archangel).
+2010/06/15: If a replacement effect would cause a spell with rebound that you cast from your hand to be put somewhere else instead of your graveyard (such as Leyline of the Void might), you choose whether to apply the rebound effect or the other effect as the spell resolves.
+2010/06/15: Rebound will have no effect on copies of spells because you don't cast them from your hand.
+2010/06/15: If you cast a spell with rebound from your hand and it resolves, it isn't put into your graveyard. Rather, it's exiled directly from the stack. Effects that care about cards being put into your graveyard won't do anything.
+2010/06/15: At the beginning of your upkeep, all delayed triggered abilities created by rebound effects trigger. You may handle them in any order. If you want to cast a card this way, you do so as part of the resolution of its delayed triggered ability. Timing restrictions based on the card's type (if it's a sorcery) are ignored. Other restrictions are not (such as the one from Rule of Law).
+2010/06/15: If you are unable to cast a card from exile this way, or you choose not to, nothing happens when the delayed triggered ability resolves. The card remains exiled for the rest of the game, and you won't get another chance to cast the card. The same is true if the ability is countered (due to Stifle, perhaps).
+2010/06/15: If you cast a card from exile this way, it will go to your graveyard when it resolves or is countered. It won't go back to exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>49</No>
+<Name>Deathless Angel</Name>
+<Type>Creature — Angel 5/7</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+{W}{W}: Target creature gains indestructible until end of turn.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2013/07/01: Lethal damage and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>50</No>
+<Name>Fling</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to target creature or player.</CardText>
+<Flavor>Sometimes the cannoneer must become the cannonball.</Flavor>
+<Artist>Daren Bader</Artist>
+<Rulings>2010/08/15: The sacrificed creature's last known existence on the battlefield is checked to determine its power.
+2010/08/15: If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it.
+2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
+2013/04/15: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>51</No>
+<Name>Sylvan Ranger</Name>
+<Type>Creature — Elf Scout 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Flavor>"Not all paths are found on the forest floor."</Flavor>
+<Artist>Ciruelo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>59</No>
+<Name>Plague Stinger</Name>
+<Type>Creature — Insect Horror 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>It leaves its victims one sting closer to phyresis.</Flavor>
+<Artist>Tomasz Jedruszek</Artist>
+<Rulings>2011/01/01: A player who has ten or more poison counters loses the game. This is a state-based action.
+2011/01/01: Infect's effect applies to any damage, not just combat damage.
+2011/01/01: The -1/-1 counters remain on the creature indefinitely. They're not removed if the creature regenerates or the turn ends.
+2011/01/01: Damage from a source with infect is damage in all respects. If the source with infect also has lifelink, damage dealt by that source also causes its controller to gain that much life. Damage from a source with infect can be prevented or redirected. Abilities that trigger on damage being dealt will trigger if a source with infect deals damage, if appropriate.
+2011/01/01: If damage from a source with infect that would be dealt to a player is prevented, that player doesn't get poison counters. If damage from a source with infect that would be dealt to a creature is prevented, that creature doesn't get -1/-1 counters.
+2011/01/01: Damage from a source with infect affects planeswalkers normally.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>60</No>
+<Name>Golem's Heart</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever a player casts an artifact spell, you may gain 1 life.</CardText>
+<Flavor>The heart of a golem gives life to more than just the iron husk around it.</Flavor>
+<Artist>Alan Pollack</Artist>
+<Rulings>2011/01/01: Unlike Golem Foundry and the Smith cycle, <Golem's Heart>'s ability triggers whenever any player casts an artifact spell, not just when you do.
+2011/01/01: Whenever a player casts an artifact spell, <Golem's Heart>'s ability triggers and goes on the stack on top of it. It will resolve before the artifact spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>63</No>
+<Name>Skinrender</Name>
+<Type>Creature — Zombie 3/3</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>When Skinrender enters the battlefield, put three -1/-1 counters on target creature.</CardText>
+<Flavor>"Your creations are effective, Sheoldred, but we must unite the flesh, not merely flay it."
+—Elesh Norn, Grand Cenobite</Flavor>
+<Artist>Adrian Smith</Artist>
+<Rulings>2011/01/01: This ability is mandatory. If there are no other creatures on the battlefield, you must target <Skinrender> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>64</No>
+<Name>Master's Call</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Create two 1/1 colorless Myr artifact creature tokens.</CardText>
+<Flavor>The need to obey was inscribed on every plate in their bodies.</Flavor>
+<Artist>Erica Yang</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>65</No>
+<Name>Plague Myr</Name>
+<Type>Artifact Creature — Myr 1/1</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{T}: Add {C} to your mana pool.</CardText>
+<Flavor>They watch for a new master, one more sinister than the last.</Flavor>
+<Artist>Ryan Pancoast</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>66</No>
+<Name>Signal Pest</Name>
+<Type>Artifact Creature — Pest 0/1</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Signal Pest can't be blocked except by creatures with flying or reach.</CardText>
+<Flavor>It leaps from tree to tree, revealing the enemy's positions.</Flavor>
+<Artist>Chippy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>69</No>
+<Name>Fling</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to target creature or player.</CardText>
+<Flavor>Sometimes the cannoneer must become the cannonball.</Flavor>
+<Artist>Daren Bader</Artist>
+<Rulings>2010/08/15: The sacrificed creature's last known existence on the battlefield is checked to determine its power.
+2010/08/15: If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it.
+2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
+2013/04/15: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>70</No>
+<Name>Sylvan Ranger</Name>
+<Type>Creature — Elf Scout 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Flavor>"Not all paths are found on the forest floor."</Flavor>
+<Artist>Ciruelo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>71</No>
+<Name>Vault Skirge</Name>
+<Type>Artifact Creature — Imp 1/1</Type>
+<ManaCost>1{BP} (2)</ManaCost>
+<CardText>({BP} can be paid with either {B} or 2 life.)
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)</CardText>
+<Flavor>From the remnants of the dead, Geth forged a swarm to safeguard his throne.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>72</No>
+<Name>Maul Splicer</Name>
+<Type>Creature — Human Artificer 1/1</Type>
+<ManaCost>6G (7)</ManaCost>
+<CardText>When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.
+Golem creatures you control have trample.</CardText>
+<Artist>Erica Yang</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>73</No>
+<Name>Shrine of Burning Rage</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
+{3}, {T}, Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player.</CardText>
+<Artist>Nils Hamm</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>76</No>
+<Name>Tormented Soul</Name>
+<Type>Creature — Spirit 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Tormented Soul can't block and can't be blocked.</CardText>
+<Flavor>Those who raged most bitterly at the world in life are cursed to roam the nether realms in death.</Flavor>
+<Artist>John Stanko</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>77</No>
+<Name>Auramancer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</CardText>
+<Flavor>"In memories, we can find our deepest reserves of strength."</Flavor>
+<Artist>Wayne Reynolds</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>78</No>
+<Name>Circle of Flame</Name>
+<Type>Enchantment</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.</CardText>
+<Flavor>"Which do you think is a better deterrent: a moat of water or one of fire?"
+—Chandra Nalaar</Flavor>
+<Artist>James Paick</Artist>
+<Rulings>2014/07/18: <Circle of Flame>'s ability triggers only if a creature without flying is declared as an attacker during the declare attackers step. If a creature with flying attacks you or a planeswalker you control and then loses flying, or if a creature without flying is put onto the battlefield attacking you or a planeswalker you control, the ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>79</No>
+<Name>Gather the Townsfolk</Name>
+<Type>Sorcery</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Create two 1/1 white Human creature tokens.
+Fateful hour — If you have 5 or less life, create five of those tokens instead.</CardText>
+<Flavor>In the memories of those they lost lies the strength needed to defend their city.</Flavor>
+<Artist>Bud Cook</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>80</No>
+<Name>Curse of the Bloody Tome</Name>
+<Type>Enchantment — Aura Curse</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant player
+At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.</CardText>
+<Flavor>After seeing his life's work drip away, the mage decided it was a good time to go crazy.</Flavor>
+<Artist>John Stanko</Artist>
+<Rulings>2011/09/22: If the enchanted player has only one card in his or her library, he or she puts that card into his or her graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>81</No>
+<Name>Curse of Thirst</Name>
+<Type>Enchantment — Aura Curse</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Enchant player
+At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.</CardText>
+<Flavor>"May you drink until you drown but never be sated."
+—Odila, witch of Morkrut</Flavor>
+<Artist>Dave Kendall</Artist>
+<Rulings>2011/01/22: The number of Curses attached to the player is counted when the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>82</No>
+<Name>Nearheath Stalker</Name>
+<Type>Creature — Vampire Rogue 4/1</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</CardText>
+<Flavor>"Do not speak of this to the elders. They look unfavorably upon my indulgences."</Flavor>
+<Artist>Steve Prescott</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>83</No>
+<Name>Bloodcrazed Neonate</Name>
+<Type>Creature — Vampire 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Bloodcrazed Neonate attacks each combat if able.
+Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.</CardText>
+<Flavor>While elder vampires select their meals with care, the newly sired frenzy at the first whiff.</Flavor>
+<Artist>Dave Kendall</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
+<Card>
+<SetId>pWPN</SetId>
+<No>84</No>
+<Name>Boneyard Wurm</Name>
+<Type>Creature — Wurm */*</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.</CardText>
+<Flavor>The only thing it likes more than discovering a pit of bones is adding to it.</Flavor>
+<Artist>Austin Hsu</Artist>
+<Rulings>2011/09/22: The ability that defines <Boneyard Wurm>'s power and toughness works in all zones, not just the battlefield. If <Boneyard Wurm> is in your graveyard, it will count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network</Set>
+<Rarity>Special</Rarity>
+</Card>
+
