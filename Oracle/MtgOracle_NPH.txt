@@ -38,6 +38,7 @@
 <CardText>({WP} can be paid with either {W} or 2 life.)
 Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.</CardText>
 <Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>194208</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -62,6 +63,7 @@ Target artifact or creature you control gains protection from artifacts or from 
 <CardText>When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.</CardText>
 <Flavor>"We are Mirrodin's children. We will reclaim her—one scrap at a time, if we have to."</Flavor>
 <Artist>James Ryman</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>214353</Multiverseid>
 <Rulings>2011/06/01: If <Auriok Survivors> is no longer on the battlefield when its enters-the-battlefield ability resolves, the Equipment will return to the battlefield and remain unattached.</Rulings>
 <Vintage>Legal</Vintage>
@@ -80,6 +82,7 @@ Target artifact or creature you control gains protection from artifacts or from 
 <CardText>When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 Golem creatures you control have first strike.</CardText>
 <Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233068</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -98,6 +101,7 @@ Golem creatures you control have first strike.</CardText>
 Defender
 When Cathedral Membrane dies during combat, it deals 6 damage to each creature it blocked this combat.</CardText>
 <Artist>Richard Whitters</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218024</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -122,6 +126,7 @@ When Cathedral Membrane dies during combat, it deals 6 damage to each creature i
 Flying
 Whenever an opponent casts a spell, counter it unless that player pays {1}.</CardText>
 <Artist>Min Yum</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218083</Multiverseid>
 <Rulings>2011/06/01: If you reveal more than one <Chancellor of the Annex> from your opening hand, each will trigger when an opponent casts their first spell of the game. That player will have to pay {1} that many times or the spell will be countered.
 2011/06/01: In a multiplayer game, if you reveal <Chancellor of the Annex> from your opening hand, it will trigger each time an opponent casts their first spell of the game.
@@ -143,6 +148,7 @@ Whenever an opponent casts a spell, counter it unless that player pays {1}.</Car
 Metalcraft — If you control three or more artifacts, exile that creature.</CardText>
 <Flavor>Venser wondered if it could still be called a teleportation spell if the destination is oblivion.</Flavor>
 <Artist>Erica Yang</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218072</Multiverseid>
 <Rulings>2011/06/01: If you control three or more artifacts when <Dispatch> resolves, you'll tap the creature, then exile it.</Rulings>
 <Vintage>Legal</Vintage>
@@ -163,6 +169,7 @@ Draw a card.</CardText>
 <Flavor>"A display of humility is required of those who still possess such frailties."
 —Elesh Norn, Grand Cenobite</Flavor>
 <Artist>James Ryman</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233077</Multiverseid>
 <Rulings>2011/06/01: <Due Respect> won't tap any permanents that have entered the battlefield before it resolved.</Rulings>
 <Vintage>Legal</Vintage>
@@ -183,6 +190,7 @@ Other creatures you control get +2/+2.
 Creatures your opponents control get -2/-2.</CardText>
 <Flavor>"The Gitaxians whisper among themselves of other worlds. If they exist, we must bring Phyrexia's magnificence to them."</Flavor>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214352</Multiverseid>
 <Rulings>2017/11/17: If a second <Elesh Norn, Grand Cenobite> comes under your control, you'll put one into its owner's graveyard due to the "legend rule" at the same time that any of your opponents' creatures getting -4/-4 are put into their owner's graveyard for having 0 or less toughness.</Rulings>
 <Vintage>Legal</Vintage>
@@ -203,6 +211,7 @@ Players can't cast spells with the same name as the exiled card.</CardText>
 <Flavor>"Your desires have become our discretion."
 —Izathel, priest of the Annex</Flavor>
 <Artist>Daniel Ljunggren</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214364</Multiverseid>
 <Rulings>2011/06/01: If the exiled card somehow leaves exile, the last ability will no longer have any effect.
 2011/06/01: In a Commander game, a player may replace <Exclusion Ritual> exiling their commander with putting that commander into the command zone. If this happens, <Exclusion Ritual>'s last ability will have no effect.</Rulings>
@@ -224,6 +233,7 @@ Enchanted creature can't attack.
 {2}{W}: Return Forced Worship to its owner's hand.</CardText>
 <Flavor>Imprisonment teaches revenge. Hobbling teaches resignation.</Flavor>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230083</Multiverseid>
 <Rulings>2011/06/01: <Forced Worship>'s activated ability may only be activated if <Forced Worship> is on the battlefield. If it's no longer on the battlefield when the ability resolves, the ability has no effect.</Rulings>
 <Vintage>Legal</Vintage>
@@ -245,6 +255,7 @@ Enchanted creature can't attack.
 <Flavor>"Skin is the prison of the blessed and the stronghold of the heretic."
 —Argent Etchings, plate 64, passage 17</Flavor>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218070</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -262,6 +273,7 @@ Enchanted creature can't attack.
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
 <Flavor>Mirrans were broken down and rebuilt, made to be loyal servants of the force they had fought.</Flavor>
 <Artist>Min Yum</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218053</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -278,6 +290,7 @@ Enchanted creature can't attack.
 <ManaCost>3W (4)</ManaCost>
 <Flavor>Just one drop of the glistening oil can eventually stain even a soul as stalwart as a loxodon's beyond redemption.</Flavor>
 <Artist>Adrian Smith</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218013</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -297,6 +310,7 @@ Marrow Shards deals 1 damage to each attacking creature.</CardText>
 <Flavor>"We are a single entity. Dissenters must be sutured into the Orthodoxy."
 —Elesh Norn, Grand Cenobite</Flavor>
 <Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230072</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -320,6 +334,7 @@ Marrow Shards deals 1 damage to each attacking creature.</CardText>
 Golem creatures you control get +1/+1.</CardText>
 <Flavor>With Phyrexia's victory at hand, each sect began perfecting its vision.</Flavor>
 <Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233062</Multiverseid>
 <Rulings>2017/03/14: If a creature has been dealt damage, that damage remains marked on it until the cleanup step. If <Master Splicer> leaves the battlefield and a Golem creature you control has been dealt damage, that creature will be destroyed if the damage is now lethal. Similarly, if that causes a Golem to have 0 toughness, it's put into its owner's graveyard.</Rulings>
 <Vintage>Legal</Vintage>
@@ -338,6 +353,7 @@ Golem creatures you control get +1/+1.</CardText>
 <CardText>({WP} can be paid with either {W} or 2 life.)
 Creatures can't attack you or a planeswalker you control unless their controller pays {WP} for each of those creatures.</CardText>
 <Artist>James Paick</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233050</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -364,6 +380,7 @@ Creatures can't attack you or a planeswalker you control unless their controller
 <CardText>You don't lose the game for having 0 or less life.
 As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)</CardText>
 <Artist>Jason Chan</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218058</Multiverseid>
 <Rulings>2011/06/01: <Phyrexian Unlife> won't affect damage that reduces your life total from a positive number to 0 or less. For example, if you're at 3 life and are dealt 5 damage, you'll end up at -2 life. The next time you're dealt damage, it will be dealt as though its source had infect.
 2011/06/01: If you're at 0 or less life and <Phyrexian Unlife> leaves the battlefield, you'll lose the game (unless some other effect is keeping you from losing).
@@ -387,6 +404,7 @@ First strike</CardText>
 <Flavor>"My new design has lightweight plating specially cultivated from heretics' spare tissues."
 —Izathel, priest of the Annex</Flavor>
 <Artist>Eric Deschamps</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218043</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -409,6 +427,7 @@ First strike</CardText>
 <CardText>Whenever an Equipment enters the battlefield under your control, you may draw a card.
 Metalcraft — Equipment you control have equip {0} as long as you control three or more artifacts.</CardText>
 <Artist>Jason Chan</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>227504</Multiverseid>
 <Rulings>2011/06/01: You may still activate the Equipment's other equip ability if you wish.
 2011/06/01: Once the equip {0} ability is activated, destroying <Puresteel Paladin> or causing its controller to control fewer than three artifacts won't stop it from resolving.</Rulings>
@@ -430,6 +449,7 @@ Metalcraft — Equipment you control have equip {0} as long as you control three
 • Return target artifact card from your graveyard to your hand.</CardText>
 <Flavor>When the Mirrans had fallen, Planeswalkers carried the burden of remembrance.</Flavor>
 <Artist>Eric Deschamps</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218078</Multiverseid>
 <Rulings>2011/06/01: You choose which mode you're using — or whether to use both modes — as you're casting the spell. Once this choice is made, it can't be changed later while the spell is on the stack.
 2011/06/01: If you choose both modes, and only one of the targeted cards is still a legal target when <Remember the Fallen> tries to resolve, only that card is returned to your hand.</Rulings>
@@ -449,6 +469,7 @@ Metalcraft — Equipment you control have equip {0} as long as you control three
 <CardText>When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 Golem creatures you control have vigilance.</CardText>
 <Artist>Izzy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233038</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -467,6 +488,7 @@ Golem creatures you control have vigilance.</CardText>
 Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.</CardText>
 <Flavor>She preaches the blessings of the Machine Orthodoxy.</Flavor>
 <Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233059</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -486,6 +508,7 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 <Flavor>"That's no glint hawk. The skies have changed for the worse."
 —Ria Ivor, White Sun partisan</Flavor>
 <Artist>Efrem Palacios</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217994</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -503,6 +526,7 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 <CardText>Whenever another creature enters the battlefield under your control, you may gain 1 life.
 Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.</CardText>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217981</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -520,6 +544,7 @@ Whenever a creature enters the battlefield under an opponent's control, you may 
 <CardText>You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.</CardText>
 <Flavor>Underling Ethu's 263rd report read simply "Yes, my lord. Overwhelmingly, my lord." This marked the end of the Mirran-Phyrexian War.</Flavor>
 <Artist>Mike Bierek</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230078</Multiverseid>
 <Rulings>2011/06/01: Each artifact creature on the battlefield is counted twice.</Rulings>
 <Vintage>Legal</Vintage>
@@ -540,6 +565,7 @@ Draw a card.</CardText>
 <Flavor>"My world is corrupted beyond cleansing. I must prevent this from happening to other worlds."
 —Karn</Flavor>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218001</Multiverseid>
 <Rulings>2011/06/01: You can target an artifact with <Argent Mutation>. When it resolves, you'll simply draw a card.
 2011/06/01: If the permanent is an illegal target when <Argent Mutation> tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card.</Rulings>
@@ -559,6 +585,7 @@ Draw a card.</CardText>
 <CardText>Until end of turn, creatures you control gain "Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand."</CardText>
 <Flavor>"Anything we can do to hurt the Phyrexian invaders is worth dying for."</Flavor>
 <Artist>Austin Hsu</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>202641</Multiverseid>
 <Rulings>2011/06/01: Only creatures you control on the battlefield when <Arm with Aether> resolves gain the ability. Creatures you gain control of later in the turn won't be affected.
 2011/06/01: The affected creatures keep the ability even if another player gains control of them that turn. If such a creature deals damage to you, the ability will trigger, targeting a creature you control.
@@ -582,6 +609,7 @@ Blighted Agent can't be blocked.</CardText>
 <Flavor>"Urabrask may suspect our surveillance, but he cannot stop it."
 —Avaricta, Gitaxian sective</Flavor>
 <Artist>Anthony Francisco</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214383</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -599,6 +627,7 @@ Blighted Agent can't be blocked.</CardText>
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 Chained Throatseeker can't attack unless defending player is poisoned.</CardText>
 <Artist>Stephan Martiniere</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218075</Multiverseid>
 <Rulings>2011/06/01: A player is poisoned if that player has one or more poison counters.</Rulings>
 <Vintage>Legal</Vintage>
@@ -618,6 +647,7 @@ Chained Throatseeker can't attack unless defending player is poisoned.</CardText
 Flying
 When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.</CardText>
 <Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214360</Multiverseid>
 <Rulings>2011/06/01: If you reveal more than one <Chancellor of the Spires> from your opening hand, each opponent will put the top seven cards of their library into their graveyard that many times (for a total of fourteen, twenty-one, or twenty-eight cards).
 2011/06/01: The instant or sorcery card you target with the enters-the-battlefield triggered ability is cast as part of the resolution of that ability. Timing restrictions based on the card's type are ignored. Other restrictions, such as "Cast [this card] only during combat," are not.
@@ -642,6 +672,7 @@ When Chancellor of the Spires enters the battlefield, you may cast target instan
 <Flavor>"Flesh is a sickness that infects Phyrexia."
 —Avaricta, Gitaxian sective</Flavor>
 <Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233080</Multiverseid>
 <Rulings>2011/06/01: A player is poisoned if that player has one or more poison counters.</Rulings>
 <Vintage>Legal</Vintage>
@@ -662,6 +693,7 @@ When Deceiver Exarch enters the battlefield, choose one —
 • Untap target permanent you control.
 • Tap target permanent an opponent controls.</CardText>
 <Artist>Izzy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214365</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -681,6 +713,7 @@ Enchanted creature gets -1/+1.</CardText>
 <Flavor>"It isn't for fighting. It's for when the fighting's gone bad."
 —Kara Vrist, Mirran resistance</Flavor>
 <Artist>Dan Scott</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>217987</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -701,6 +734,7 @@ Draw a card.</CardText>
 <Flavor>"My flesh holds no secrets, monster. The spirit of Mirrodin will fight on."
 —Vy Covalt, Mirran resistance</Flavor>
 <Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233056</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -726,6 +760,7 @@ Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. I
 <Flavor>"Interrogation is an unnecessary step for acquiring information."
 —Politus, Gitaxian morphologist</Flavor>
 <Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217988</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -745,6 +780,7 @@ At the beginning of your end step, draw seven cards.
 Each opponent's maximum hand size is reduced by seven.</CardText>
 <Flavor>"It is not a goal, but a process—the process of creating the perfect Phyrexia."</Flavor>
 <Artist>Eric Deschamps</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214349</Multiverseid>
 <Rulings>2017/11/17: If a player has more cards in their hand than their maximum hand size during the cleanup step of that player's turn, that player discards until they have that many cards. A player's maximum hand size isn't checked at any time other than their own cleanup step.
 2017/11/17: Jin-Gitaxias doesn't affect the maximum hand size of its controller. Because the cleanup step is after the end step, its controller may have to discard some of the cards that were just drawn.
@@ -767,6 +803,7 @@ Counter target spell with converted mana cost 1.</CardText>
 <Flavor>"Your first mistake was thinking I would let you live long enough to make a second."
 —Sarnvax, Gitaxian sective</Flavor>
 <Artist>Erica Yang</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230066</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -792,6 +829,7 @@ Counter target spell with converted mana cost 1.</CardText>
 <Flavor>"Why infiltrate their strongholds when what we seek resides in such a poorly guarded safe?"
 —Malcator, Executor of Synthesis</Flavor>
 <Artist>Cos Koniotis</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218085</Multiverseid>
 <Rulings>2011/06/01: You must be able to target an opponent to cast <Mindculling>. If that opponent is an illegal target when <Mindculling> tries to resolve, it'll be countered and will have no effect. You won't draw two cards.
 2011/06/01: If the opponent has one card in hand, that player will discard that card and you will draw two cards. If the opponent has no cards in hand, you will draw two cards.</Rulings>
@@ -812,6 +850,7 @@ Counter target spell with converted mana cost 1.</CardText>
 Enchanted permanent doesn't untap during its controller's untap step.
 At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.</CardText>
 <Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218040</Multiverseid>
 <Rulings>2011/06/01: <Numbing Dose> may target and may enchant an untapped artifact or creature.</Rulings>
 <Vintage>Legal</Vintage>
@@ -830,6 +869,7 @@ At the beginning of the upkeep of enchanted permanent's controller, that player 
 <CardText>Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature.
 Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.</CardText>
 <Artist>Chris Rahn</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214384</Multiverseid>
 <Rulings>2016/06/08: <Phyrexian Ingester> will get bonuses based on the card's power and toughness in exile. Counters, Auras, and Equipment it had on it before it was exiled won't add to those numbers.
 2016/06/08: Abilities that define a creature's power and toughness apply while that card is in exile, but abilities that add or subtract from it don't. For example, the ability of Battle Squadron applies to determine <Phyrexian Ingester>'s power and toughness, but the ability of Werebear doesn't. <Phyrexian Ingester>'s power and toughness are constantly updated if the exiled card's power and/or toughness change.
@@ -850,6 +890,7 @@ Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y
 <CardText>({UP} can be paid with either {U} or 2 life.)
 You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.</CardText>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214375</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -881,6 +922,7 @@ You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact
 <Flavor>"I tolerate Phyrexians because the dragon requires it. But I have no patience for uninvited guests."
 —Tezzeret</Flavor>
 <Artist>Dan Scott</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218016</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -897,6 +939,7 @@ You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact
 <ManaCost>1U (2)</ManaCost>
 <CardText>Whenever an opponent shuffles their library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.</CardText>
 <Artist>Anthony Francisco</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214347</Multiverseid>
 <Rulings>2011/06/01: You look at the top two cards of that library as the triggered ability resolves. That happens after your opponent is done shuffling.
 2011/06/01: If your opponent's library has one card in it and they are instructed to shuffle that library, <Psychic Surgery> will trigger. You may' exile the one card in that library.
@@ -919,6 +962,7 @@ Flying</CardText>
 <Flavor>"I appreciate the depravity of noble designs turned to devious ends."
 —Tezzeret</Flavor>
 <Artist>Pete Venters</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217990</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -942,6 +986,7 @@ Flying</CardText>
 Flying</CardText>
 <Flavor>Each monitor is given an eye for each spire it is to guard.</Flavor>
 <Artist>Daniel Ljunggren</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233053</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -959,6 +1004,7 @@ Flying</CardText>
 <CardText>({UP} can be paid with either {U} or 2 life.)
 Draw two cards, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>227547</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -982,6 +1028,7 @@ Draw two cards, then proliferate. (You choose any number of permanents and/or pl
 <Flavor>"This creature is inadequate. Send it to the splicers for innovation."
 —Malcator, Executor of Synthesis</Flavor>
 <Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218017</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1000,6 +1047,7 @@ Draw two cards, then proliferate. (You choose any number of permanents and/or pl
 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 {3}{U}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
 <Artist>Lars Grant-West</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233047</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1017,6 +1065,7 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 <CardText>When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 Golem creatures you control have flying.</CardText>
 <Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233037</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1036,6 +1085,7 @@ Each creature you control is the chosen type in addition to its other types.</Ca
 <Flavor>"I despise Vorinclex and his slobberings about 'evolution.' Only I know true progress."
 —Jin-Gitaxias, Core Augur</Flavor>
 <Artist>Daniel Ljunggren</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>227544</Multiverseid>
 <Rulings>2011/06/01: You must choose an existing _Magic_ creature type.
 2011/06/01: Creature cards not on the battlefield and creature spells are not affected.
@@ -1056,6 +1106,7 @@ Each creature you control is the chosen type in addition to its other types.</Ca
 <CardText>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.</CardText>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217999</Multiverseid>
 <Rulings>2011/06/01: You'll choose the target creature when the ability goes on the stack. You'll choose whether or not to sacrifice <Blind Zealot> when the ability resolves.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1074,6 +1125,7 @@ Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If 
 <CardText>Target player draws three cards, loses 3 life, and gets three poison counters.</CardText>
 <Flavor>"I am weak. Make . . . me . . . ideal."</Flavor>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218061</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1091,6 +1143,7 @@ Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If 
 <CardText>You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.
 Flying, lifelink</CardText>
 <Artist>Stephan Martiniere</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218020</Multiverseid>
 <Rulings>2016/06/08: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans and "scryed" if applicable. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1111,6 +1164,7 @@ Flying, lifelink</CardText>
 <Flavor>"When terror outweighs all other thoughts, they will understand that I am the true Father of Machines."
 —Azax-Azog, the Demon Thane</Flavor>
 <Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233084</Multiverseid>
 <Rulings>2011/06/01: Unlike most abilities that force a player to discard cards, this ability may be activated whenever you could cast an instant, including during your opponent's draw step after they have drawn a card.
 2011/06/01: You can't force an opponent to discard a card they cast by activating <Dementia Bat>'s ability in response. The spell is on the stack by then.</Rulings>
@@ -1131,6 +1185,7 @@ Flying, lifelink</CardText>
 <Flavor>"Truth is always a weapon in your enemies' hands."
 —Geth, Lord of the Vault</Flavor>
 <Artist>Terese Nielsen</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233043</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1150,6 +1205,7 @@ Target creature gets -5/-5 until end of turn.</CardText>
 <Flavor>"You serve Phyrexia. Your pieces would better serve Phyrexia elsewhere."
 —Azax-Azog, the Demon Thane</Flavor>
 <Artist>Terese Nielsen</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230082</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1174,6 +1230,7 @@ You control enchanted creature.
 At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.</CardText>
 <Flavor>Phyrexia extended its command until there was nothing left to take.</Flavor>
 <Artist>Chris Rahn</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233060</Multiverseid>
 <Rulings>2007/02/01: The owner of a card is the player who started the game with that card in their deck. If the card didn't start the game in a deck, its owner is the player who brought the card into the game, via Living Wish or a similar effect.
 2009/10/01: A token's owner is the player under whose control it entered the battlefield.</Rulings>
@@ -1194,6 +1251,7 @@ At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.
 • Return target creature card from your graveyard to your hand.
 • Target opponent reveals their hand. You choose a noncreature card from it. That player discards that card.</CardText>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218023</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1213,6 +1271,7 @@ Enchanted land is a Swamp.</CardText>
 <Flavor>"The Accorders would lament the transformation of their cherished lands, had they lived to see it."
 —Sheoldred, Whispering One</Flavor>
 <Artist>Scott Chou</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218073</Multiverseid>
 <Rulings>2009/10/01: The enchanted land loses its existing land types and any abilities printed on it. It now has the land type Swamp and has the ability "{T}: Add {B}." <Evil Presence> doesn't change the enchanted land's name or whether it's legendary, basic, or snow.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1232,6 +1291,7 @@ Enchanted land is a Swamp.</CardText>
 <Flavor>"Everyone should owe you something."
 —Geth, Lord of the Vault</Flavor>
 <Artist>Whit Brachna</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214376</Multiverseid>
 <Rulings>2011/06/01: As long as the player is a legal target when <Geth's Verdict> resolves, that player loses 1 life even if they didn't sacrifice a creature (most likely because they didn't control any).</Rulings>
 <Vintage>Legal</Vintage>
@@ -1252,6 +1312,7 @@ Enchanted creature has infect.
 At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.
 When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.</CardText>
 <Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214346</Multiverseid>
 <Rulings>2011/06/01: You choose a target creature for <Glistening Oil> as you cast it, just as you would with any Aura. If that creature is an illegal target when <Glistening Oil> tries to resolve, <Glistening Oil> won't resolve and will be put into its owner's graveyard. It won't enter the battlefield and its last ability won't trigger.
 2011/06/01: The last ability will trigger no matter how <Glistening Oil> is put into the graveyard from the battlefield, not just when the enchanted creature is put into the graveyard.
@@ -1272,6 +1333,7 @@ When Glistening Oil is put into a graveyard from the battlefield, return Glisten
 <CardText>Put a -1/-1 counter on target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
 <Flavor>Even the small wounds let hope bleed out.</Flavor>
 <Artist>Erica Yang</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214389</Multiverseid>
 <Rulings>2011/06/01: You may choose the creature you put the -1/-1 counter on to get another -1/-1 counter when proliferating.
 2011/06/01: The state-based action that removes matching +1/+1 and -1/-1 counters won't check until after you proliferate and <Grim Affliction> finishes resolving. It's possible to remove up to two +1/+1 counters from the creature by choosing to put a second -1/-1 counter on the creature when proliferating.</Rulings>
@@ -1292,6 +1354,7 @@ When Glistening Oil is put into a graveyard from the battlefield, return Glisten
 All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.</CardText>
 <Flavor>The first explosion that didn't excite goblins.</Flavor>
 <Artist>James Ryman</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218066</Multiverseid>
 <Rulings>2011/06/01: X is the power of the sacrificed creature as it last existed on the battlefield.
 2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
@@ -1312,6 +1375,7 @@ All creatures get -X/-X until end of turn, where X is the sacrificed creature's 
 <CardText>Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles their library.</CardText>
 <Flavor>The feeble resistance of the flesh is over. Phyrexia spreads its shadow over all.</Flavor>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214362</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1329,6 +1393,7 @@ All creatures get -X/-X until end of turn, where X is the sacrificed creature's 
 <CardText>Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.
 When Mortis Dogs dies, target player loses life equal to its power.</CardText>
 <Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233072</Multiverseid>
 <Rulings>2011/06/01: The loss of life is equal to <Mortis Dogs>'s power as it last existed on the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1347,6 +1412,7 @@ When Mortis Dogs dies, target player loses life equal to its power.</CardText>
 <CardText>Enchant creature
 At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Myr artifact creature token.</CardText>
 <Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>194216</Multiverseid>
 <Rulings>2011/06/01: The controller of <Parasitic Implant> will control the Myr token no matter who controlled and sacrificed the enchanted creature.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1367,6 +1433,7 @@ Whenever a source deals damage to Phyrexian Obliterator, that source's controlle
 <Flavor>"Behold blessed perfection."
 —Sheoldred, Whispering One</Flavor>
 <Artist>Todd Lockwood</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214386</Multiverseid>
 <Rulings>2018/03/16: If creatures an opponent controls are dealt lethal damage at the same time that <Phyrexian Obliterator> is dealt damage, those creatures will be destroyed before that player chooses permanents to sacrifice.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1386,6 +1453,7 @@ Whenever a source deals damage to Phyrexian Obliterator, that source's controlle
 When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.</CardText>
 <Flavor>After boring up through the crust of Mirrodin, it turned its expertise upon the surface dwellers.</Flavor>
 <Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230079</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1409,6 +1477,7 @@ When Pith Driller enters the battlefield, put a -1/-1 counter on target creature
 <CardText>({BP} can be paid with either {B} or 2 life.)
 Return target creature card with converted mana cost X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.</CardText>
 <Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233054</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1433,6 +1502,7 @@ Return target creature card with converted mana cost X from your graveyard to th
 <CardText>Search target opponent's library for a card and exile it face down. Then that player shuffles their library. You may look at and play that card for as long as it remains exiled.</CardText>
 <Flavor>Sheoldred weaves every thread of information into a noose to hang her enemies.</Flavor>
 <Artist>Steve Argyle</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218050</Multiverseid>
 <Rulings>2011/06/01: Other players, including the card's owner, can't look at the card while it remains exiled.
 2011/06/01: Playing a card exiled with <Praetor's Grasp> follows all the normal rules for playing that card. You must pay its costs, and you must follow all timing restrictions, for example.</Rulings>
@@ -1452,6 +1522,7 @@ Return target creature card with converted mana cost X from your graveyard to th
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.</CardText>
 <Artist>Stephan Martiniere</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214374</Multiverseid>
 <Rulings>2011/06/01: The source's controller will get one poison counter for each time that source deals damage to <Reaper of Sheoldred>, not one poison counter for each 1 damage dealt.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1471,6 +1542,7 @@ Whenever a source deals damage to Reaper of Sheoldred, that source's controller 
 At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
 At the beginning of each opponent's upkeep, that player sacrifices a creature.</CardText>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214382</Multiverseid>
 <Rulings>2017/11/17: Swampwalk is a keyword ability that means "This creature can't be blocked if defending player controls a Swamp." Most nonbasic lands don't have basic land types, even if they produce colored mana. For example, Graven Cairns is neither a Swamp nor a Mountain, while Blood Crypt is both.
 2017/11/17: If another triggered ability during your upkeep causes you to sacrifice a creature, such as that of Lord of the Pit, you won't be able to target it with Sheoldred's triggered ability as that ability is put on the stack.
@@ -1492,6 +1564,7 @@ At the beginning of each opponent's upkeep, that player sacrifices a creature.</
 <CardText>({BP} can be paid with either {B} or 2 life.)
 Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library.</CardText>
 <Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233041</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1516,6 +1589,7 @@ Choose target card in a graveyard other than a basic land card. Search its owner
 {B}: Regenerate Toxic Nim.</CardText>
 <Flavor>The nim have become roving killers marshaled by whichever thane holds tenuous leadership.</Flavor>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233081</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1535,6 +1609,7 @@ Flying
 Lifelink (Damage dealt by this creature also causes you to gain that much life.)</CardText>
 <Flavor>From the remnants of the dead, Geth forged a swarm to safeguard his throne.</Flavor>
 <Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217984</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1558,6 +1633,7 @@ Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter they have.</CardText>
 <Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218045</Multiverseid>
 <Rulings>2011/06/01: You choose whether or not to sacrifice <Whispering Specter>, and the number of poison counters the player has is counted, when the triggered ability resolves.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1576,6 +1652,7 @@ Whenever Whispering Specter deals combat damage to a player, you may sacrifice i
 <CardText>({RP} can be paid with either {R} or 2 life.)
 Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.</CardText>
 <Artist>Whit Brachna</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230076</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1601,6 +1678,7 @@ Gain control of target creature an opponent controls until end of turn. Untap th
 Artillerize deals 5 damage to any target.</CardText>
 <Flavor>Phyrexian or Mirran, most goblins stick to the job they know best.</Flavor>
 <Artist>Johann Bodin</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218081</Multiverseid>
 <Rulings>2011/06/01: The artifact or creature is sacrificed as costs are paid. Players can't respond to the paying of costs by trying to destroy that artifact or creature.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1618,6 +1696,7 @@ Artillerize deals 5 damage to any target.</CardText>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Each noncreature, non-Equipment artifact is an Equipment with equip {X} and "Equipped creature gets +X/+0," where X is that artifact's converted mana cost.</CardText>
 <Artist>Kev Walker</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218055</Multiverseid>
 <Rulings>2011/06/01: The affected artifacts retain their other types and abilities.
 2011/06/01: An Equipment that's also a creature can't be equipped to anything.
@@ -1639,6 +1718,7 @@ Artillerize deals 5 damage to any target.</CardText>
 <CardText>You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Goblin creature token with haste.
 When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin creature tokens with haste, where X is the number of creatures you control.</CardText>
 <Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218021</Multiverseid>
 <Rulings>2011/06/01: The number of creature tokens you put onto the battlefield with the last ability is determined when the ability resolves. If <Chancellor of the Forge> is still on the battlefield at that time, it will be counted.
 2016/06/08: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans and "scryed" if applicable. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
@@ -1658,6 +1738,7 @@ When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin cre
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 {1}{R}, {T}: Fallen Ferromancer deals 1 damage to any target.</CardText>
 <Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>227537</Multiverseid>
 <Rulings>2011/06/01: If <Fallen Ferromancer>'s ability deals 1 damage to a creature, that damage will cause a -1/-1 counter to be placed on the creature. If it deals 1 damage to a player, that player gets a poison counter.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1676,6 +1757,7 @@ When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin cre
 <Flavor>"Large or small, all will toil for the Great Work."
 —Decree of Urabrask</Flavor>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233086</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1693,6 +1775,7 @@ When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin cre
 <CardText>Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.</CardText>
 <Flavor>Born of the core, and dying to stoke it.</Flavor>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217979</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1711,6 +1794,7 @@ When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin cre
 <Flavor>"The mountains have been corrupted. Otherwise, they would not lend me their fire so easily."
 —Koth of the Hammer</Flavor>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218004</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1730,6 +1814,7 @@ Gut Shot deals 1 damage to any target.</CardText>
 <Flavor>"Down here, we have a more pointed version of the scriptures."
 —Urabrask's enforcer</Flavor>
 <Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230074</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1752,6 +1837,7 @@ Gut Shot deals 1 damage to any target.</CardText>
 <CardText>Imprint — When Invader Parasite enters the battlefield, exile target land.
 Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.</CardText>
 <Artist>Volkan Baga</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233067</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1771,6 +1857,7 @@ Flying
 {RP}: Moltensteel Dragon gets +1/+0 until end of turn.</CardText>
 <Flavor>An apocalypse in dragon form.</Flavor>
 <Artist>James Ryman</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233051</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1793,6 +1880,7 @@ Flying
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 {R}: Ogre Menial gets +1/+0 until end of turn.</CardText>
 <Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233082</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1810,6 +1898,7 @@ Flying
 <CardText>When Priest of Urabrask enters the battlefield, add {R}{R}{R}.</CardText>
 <Flavor>Even in New Phyrexia, red mana sparks glimmers of individualism, passion, and freedom.</Flavor>
 <Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218037</Multiverseid>
 <Rulings>2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
 <Vintage>Legal</Vintage>
@@ -1829,6 +1918,7 @@ Flying
 Whenever you cast a spell with {P} in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to any target.</CardText>
 <Flavor>New Phyrexia is an engine that both consumes and creates malice.</Flavor>
 <Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214385</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
@@ -1854,6 +1944,7 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 <Flavor>"They aren't helping the forges. Send them to the surface."
 —Furnace boss, sector 12</Flavor>
 <Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218022</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1873,6 +1964,7 @@ Nonartifact creatures can't block this turn.</CardText>
 <Flavor>"For the survival of our people, every conflict must now end in retreat."
 —Pythor, Mirran resistance</Flavor>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>227528</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1896,6 +1988,7 @@ Nonartifact creatures can't block this turn.</CardText>
 <Flavor>"Squealstokers! Build me a glorious pile of Mirran metal. Then add yourselves to the pile."
 —Furnace boss, sector 11</Flavor>
 <Artist>Austin Hsu</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218019</Multiverseid>
 <Rulings>2011/06/01: The number of artifact cards in your graveyard is counted when <Scrapyard Salvo> resolves.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1915,6 +2008,7 @@ Nonartifact creatures can't block this turn.</CardText>
 <Flavor>"Seal the furnace vents. Admit no others. We'll tend our forges without their tainted ways."
 —Decree of Urabrask</Flavor>
 <Artist>Mike Bierek</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218010</Multiverseid>
 <Rulings>2011/06/01: <Slag Fiend>'s power- and toughness-setting ability works in all zones, not just on the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1934,6 +2028,7 @@ Nonartifact creatures can't block this turn.</CardText>
 Haste</CardText>
 <Flavor>It runs an endless circuit along the ruined roads of the soon-to-be-forgotten Mirran civilization.</Flavor>
 <Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230065</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -1959,6 +2054,7 @@ Haste</CardText>
 <Flavor>"Tend the molten slag, or be the molten slag."
 —Urabrask's enforcer</Flavor>
 <Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218082</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1977,6 +2073,7 @@ Haste</CardText>
 Creatures your opponents control enter the battlefield tapped.</CardText>
 <Flavor>When the Mirran resistance arrived, the furnace dwellers looked to Urabrask for guidance. His decree stunned the others: "Let them be."</Flavor>
 <Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214378</Multiverseid>
 <Rulings>2017/11/17: <Urabrask the Hidden> gives itself haste while it's on the battlefield.
 2017/11/17: If a creature an opponent controls enters the battlefield at the same time that <Urabrask the Hidden> enters the battlefield under your control, Urabrask's effect doesn't apply to your opponent's creature.</Rulings>
@@ -1997,6 +2094,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <Flavor>"The refugees look at these structures with hope. We must relieve them of this burden."
 —Juex, tormentor exarch</Flavor>
 <Artist>Jung Park</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>227549</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2013,6 +2111,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Volt Charge deals 3 damage to any target. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214381</Multiverseid>
 <Rulings>2011/06/01: If the permanent or player is an illegal target when <Volt Charge> tries to resolve, it won't resolve and none of its effects will happen. You won't proliferate.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2031,6 +2130,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <CardText>Protection from red</CardText>
 <Flavor>"I will carve my people's vengeance on the face of Phyrexia."</Flavor>
 <Artist>Wayne Reynolds</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218038</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2048,6 +2148,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <CardText>Whipflare deals 2 damage to each nonartifact creature.</CardText>
 <Flavor>The slag-workers wasted no time in creating their own flare pulses to cleanse the area of the incompleat.</Flavor>
 <Artist>Johann Bodin</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>194383</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2066,6 +2167,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <Flavor>"Kill the weak so they can't drag the strong down to their level. This is true compassion."
 —Benzir, archdruid of Temple Might</Flavor>
 <Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>221533</Multiverseid>
 <Rulings>2011/06/01: If the permanent is an illegal target when <Beast Within> tries to resolve, the spell won't resolve and none of its effects will happen. The permanent's controller won't get a Beast token.
 2013/07/01: If the permanent is still a legal target but is not destroyed (perhaps because it regenerated or has indestructible), its controller still gets the Beast token.</Rulings>
@@ -2085,6 +2187,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <CardText>({GP} can be paid with either {G} or 2 life.)
 {1}{GP}, {T}, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.</CardText>
 <Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218006</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -2111,6 +2214,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 • Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it.
 • Put target noncreature permanent on the bottom of its owner's library.</CardText>
 <Artist>Mark Zug</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217998</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2128,6 +2232,7 @@ Creatures your opponents control enter the battlefield tapped.</CardText>
 <CardText>You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {G}.
 Vigilance, reach</CardText>
 <Artist>Steve Prescott</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218062</Multiverseid>
 <Rulings>2016/06/08: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans and "scryed" if applicable. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2148,6 +2253,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <Flavor>"Wipe Sheoldred's spies from the sky. She'll see the result of our vision soon enough."
 —Glissa</Flavor>
 <Artist>Dan Scott</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230075</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -2170,6 +2276,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <CardText>{1}{G}: Death-Hood Cobra gains reach until end of turn.
 {1}{G}: Death-Hood Cobra gains deathtouch until end of turn.</CardText>
 <Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233065</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2187,6 +2294,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <CardText>Create a 3/3 green Beast creature token for each creature put into your graveyard from the battlefield this turn.</CardText>
 <Flavor>A scavenger's favorite appetizer is death.</Flavor>
 <Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218051</Multiverseid>
 <Rulings>2011/06/01: <Fresh Meat> counts all creatures you owned that went to the graveyard this turn, including creature tokens that entered the battlefield under your control and nontoken creatures you owned but didn't control.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2206,6 +2314,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <Flavor>"If it were fit to survive, it wouldn't have been so easily put down."
 —Glissa</Flavor>
 <Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>194171</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2223,6 +2332,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
 <Flavor>"Beg me for life, and I will fill you with the glory of Phyrexian perfection."</Flavor>
 <Artist>Steve Argyle</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233052</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2240,6 +2350,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <CardText>{T}: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.</CardText>
 <Flavor>"Our ancestors adapted to this world of metal. Just as they did, we will adapt to this world of evil."</Flavor>
 <Artist>Chris Rahn</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>233063</Multiverseid>
 <Rulings>2011/06/01: Once <Greenhilt Trainee>'s ability is activated, it will resolve as normal even if <Greenhilt Trainee>'s power is less than 4 at that time (perhaps because an Equipment attached to it was destroyed).</Rulings>
 <Vintage>Legal</Vintage>
@@ -2258,6 +2369,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <CardText>Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.</CardText>
 <Flavor>A substantial portion of Vorinclex's forces became fuel for the rest.</Flavor>
 <Artist>Cos Koniotis</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218028</Multiverseid>
 <Rulings>2011/06/01: You need to be able to choose two different target creatures in order to cast <Leeching Bite>.
 2011/06/01: If only one of the targeted creatures is still a legal target when <Leeching Bite> tries to resolve, that creature will still be affected, but the illegal target won't be.</Rulings>
@@ -2277,6 +2389,7 @@ Corrosive Gale deals X damage to each creature with flying.</CardText>
 <CardText>When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.
 Golem creatures you control have trample.</CardText>
 <Artist>Jason Chan</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233040</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2296,6 +2409,7 @@ Creatures you control can't have -1/-1 counters put on them.
 Creatures your opponents control lose infect.</CardText>
 <Flavor>Once a pariah, now Mirrodin's greatest hope.</Flavor>
 <Artist>Min Yum</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>194274</Multiverseid>
 <Rulings>2011/06/01: Melira doesn't remove any poison counters you already have or any -1/-1 counters already on creatures you control.
 2011/06/01: Damage dealt to planeswalkers you control causes loyalty counters to be removed from them, regardless of whether Melira is on the battlefield.
@@ -2319,6 +2433,7 @@ Target creature gets +2/+2 until end of turn.</CardText>
 <Flavor>"Sympathy is for weaklings. Whoever survives, wins."
 —Benzir, archdruid of Temple Might</Flavor>
 <Artist>Dave Kendall</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233070</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -2342,6 +2457,7 @@ Target creature gets +2/+2 until end of turn.</CardText>
 <Flavor>"I wish I could take credit for it, but nature progresses on its own, just the way it should."
 —Vorinclex, Voice of Hunger</Flavor>
 <Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217995</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2361,6 +2477,7 @@ Put target card from a graveyard on top of its owner's library.</CardText>
 <Flavor>"Dead or alive, my creations are stronger than Jin-Gitaxias's septic minions."
 —Vorinclex, Voice of Hunger</Flavor>
 <Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230067</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -2383,6 +2500,7 @@ Put target card from a graveyard on top of its owner's library.</CardText>
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 At the beginning of your upkeep, create a 1/1 green Insect creature token with infect for each poison counter your opponents have.</CardText>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218086</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2399,6 +2517,7 @@ At the beginning of your upkeep, create a 1/1 green Insect creature token with i
 <ManaCost>4G (5)</ManaCost>
 <Flavor>Vorinclex had no grand plan. The oil did its own work, evolving creatures into worthy predators.</Flavor>
 <Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233064</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2416,6 +2535,7 @@ At the beginning of your upkeep, create a 1/1 green Insect creature token with i
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 You may have Spinebiter assign its combat damage as though it weren't blocked.</CardText>
 <Artist>Jaime Jones</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230068</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2435,6 +2555,7 @@ Trample</CardText>
 <Flavor>"We do not need beakers and vials to test our predators."
 —Vorinclex, Voice of Hunger</Flavor>
 <Artist>Dan Scott</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218077</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
@@ -2456,6 +2577,7 @@ Trample</CardText>
 <ManaCost>2GG (4)</ManaCost>
 <CardText>Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
 <Artist>Izzy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218044</Multiverseid>
 <Rulings>2011/06/01: Multiple instances of infect are redundant.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2474,6 +2596,7 @@ Trample</CardText>
 <CardText>Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
 <Flavor>To secure a place in Phyrexia's ranks, they hunted their surviving kin.</Flavor>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214390</Multiverseid>
 <Rulings>2011/06/01: A player is poisoned if that player has one or more poison counters.
 2011/06/01: The player must be poisoned when <Viridian Betrayers> deals damage in order for <Viridian Betrayers> to have infect. If the player has no poison counters, damage dealt to that player by <Viridian Betrayers> will result in loss of life, even if it's dealt at the same time as damage from another creature with infect.</Rulings>
@@ -2495,6 +2618,7 @@ When enchanted artifact is put into a graveyard, you gain 6 life.</CardText>
 <Flavor>"In the midst of horror beyond imagining, I still see things that lift my heart."
 —Ezuri</Flavor>
 <Artist>Johann Bodin</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>214388</Multiverseid>
 <Rulings>2011/06/01: If the enchanted artifact and <Viridian Harvest> are put into the graveyard at the same time, you'll still gain 6 life.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2515,6 +2639,7 @@ When enchanted artifact is put into a graveyard, you gain 6 life.</CardText>
 <Flavor>"For every one that falls, ten shall rise. The revelation of New Phyrexia is at hand."
 —Vorinclex, Voice of Hunger</Flavor>
 <Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233079</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2533,6 +2658,7 @@ When enchanted artifact is put into a graveyard, you gain 6 life.</CardText>
 Whenever you tap a land for mana, add one mana of any type that land produced.
 Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.</CardText>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218002</Multiverseid>
 <Rulings>2017/11/17: The types of mana are white, blue, black, red, green, and colorless.
 2017/11/17: If a land you control produces multiple mana of more than one type, Vorinclex's first triggered ability adds one mana of only one of those types. You choose which of those types it adds.
@@ -2554,6 +2680,7 @@ Whenever an opponent taps a land for mana, that land doesn't untap during its co
 Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.</CardText>
 <Flavor>"As long as my hand holds a blade, there's hope for a pure Mirrodin once again."</Flavor>
 <Artist>Austin Hsu</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>227508</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2571,6 +2698,7 @@ Metalcraft — Creatures you control get +3/+0 as long as you control three or m
 <CardText>{T}: Add one mana of any color.</CardText>
 <Flavor>With or without witnesses, the suns continued their prismatic dance.</Flavor>
 <Artist>Matt Cavotta</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>214344</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2590,6 +2718,7 @@ Equipped creature gets +4/+4 and has vigilance and lifelink.
 {3}: Return Batterskull to its owner's hand.
 Equip {5}</CardText>
 <Artist>Mark Zug</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233055</Multiverseid>
 <Rulings>2011/06/01: The ability to return <Batterskull> to its owner's hand can only be activated if <Batterskull> is on the battlefield. If <Batterskull> is no longer on the battlefield when the ability resolves, it will have no effect.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2609,6 +2738,7 @@ Equip {5}</CardText>
 <Flavor>"We thank the souleaters for inscribing our souls with subservience, to reinforce the sacred order."
 —Drones' hymn of gratitude</Flavor>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233045</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2627,6 +2757,7 @@ Equip {5}</CardText>
 Creatures you control of the chosen color get +1/+1.
 Whenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color.</CardText>
 <Artist>Scott Chou</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>214345</Multiverseid>
 <Rulings>2011/06/01: <Caged Sun>'s triggered ability is a mana ability, which means the ability doesn't use the stack and can't be responded to.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2645,6 +2776,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <CardText>{2}, {T}: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.
 {2}, {T}, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Golem artifact creature token.</CardText>
 <Artist>Anthony Francisco</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>230070</Multiverseid>
 <Rulings>2011/06/01: If the targeted artifact card is no longer in the graveyard when the first ability tries to resolve, it won't resolve and none of its effects will happen. You won't put a charge counter on <Conversion Chamber>.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2664,6 +2796,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <Flavor>"It's the last thing we can call our own."
 —Minhu, Mirran resistance</Flavor>
 <Artist>Daniel Ljunggren</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218067</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2682,6 +2815,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 {W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.</CardText>
 <Flavor>Now etched only with the scars of phyresis.</Flavor>
 <Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217996</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2699,6 +2833,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <CardText>{1}, {T}, Sacrifice Gremlin Mine: It deals 4 damage to target artifact creature.
 {1}, {T}, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.</CardText>
 <Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218068</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2716,6 +2851,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <CardText>{X}{BP}: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. ({BP} can be paid with either {B} or 2 life.)</CardText>
 <Flavor>Drawn by power, fueled by conquest.</Flavor>
 <Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218008</Multiverseid>
 <Rulings>2011/06/01: You may choose a value for X that's greater than the number of counters on the targeted permanent. However, <Hex Parasite> only gets the bonus for counters actually removed.
 2011/06/01: If the permanent has multiple kinds of counters, you choose how many of each to remove when the ability resolves.</Rulings>
@@ -2735,6 +2871,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <CardText>Flying, vigilance</CardText>
 <Flavor>Originally created to harvest blinkmoths, the hovermyr are now the silent observers of a dying world.</Flavor>
 <Artist>Dan Scott</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>227513</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2753,6 +2890,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <Flavor>"We thank the souleaters for melting the sinful that we may be reminded of our own insignificance."
 —Drones' hymn of gratitude</Flavor>
 <Artist>Austin Hsu</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233058</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2771,6 +2909,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <Flavor>"We thank the souleaters for culling our sick so that the strong may earn their triumphs."
 —Drones' hymn of gratitude</Flavor>
 <Artist>Dave Kendall</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233066</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2789,6 +2928,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <Flavor>"Attrition is the answer. Starve them, and let their despair be their undoing."
 —Sheoldred, Whispering One</Flavor>
 <Artist>Adrian Smith</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218057</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2806,6 +2946,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 <CardText>Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.</CardText>
 <Flavor>If it possesses an ability to understand and appreciate life, it has never shown it.</Flavor>
 <Artist>Volkan Baga</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214380</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2824,6 +2965,7 @@ Whenever a land's ability causes you to add one or more mana of the chosen color
 Equipped creature gets +1/+1 for each Swamp you control.
 Equip {BP}{BP} ({BP} can be paid with either {B} or 2 life.)</CardText>
 <Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214359</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2842,6 +2984,7 @@ Equip {BP}{BP} ({BP} can be paid with either {B} or 2 life.)</CardText>
 <Flavor>"Let go of your memories and be reborn."
 —Argent Etchings, plate 106, passage 27</Flavor>
 <Artist>Chris Rahn</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233078</Multiverseid>
 <Rulings>2017/11/17: Damage dealt to an opponent usually causes that opponent to lose life. An opponent paying life also causes loss of life.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2860,6 +3003,7 @@ Equip {BP}{BP} ({BP} can be paid with either {B} or 2 life.)</CardText>
 <CardText>When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</CardText>
 <Flavor>The oil created the mycosynth. The mycosynth created New Phyrexia.</Flavor>
 <Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218039</Multiverseid>
 <Rulings>2011/06/01: The ability will trigger when <Mycosynth Wellspring> is put into a graveyard from the battlefield, even if the ability that triggered when it entered the battlefield hasn't resolved yet.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2878,6 +3022,7 @@ Equip {BP}{BP} ({BP} can be paid with either {B} or 2 life.)</CardText>
 <CardText>Spend only mana produced by creatures to cast Myr Superion.</CardText>
 <Flavor>Two kinds of myr survive: the powerful and those that stay close by them.</Flavor>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>194275</Multiverseid>
 <Rulings>2011/06/01: <Myr Superion> can be cast only with mana produced by the abilities of one or more creatures on the battlefield (such as Alloy Myr or Priest of Urabrask in this set).
 2011/06/01: Mana produced by abilities of creature cards not on the battlefield, such as Chancellor of the Tangle or Elvish Spirit Guide, can't be used to cast <Myr Superion>.</Rulings>
@@ -2898,6 +3043,7 @@ Equip {BP}{BP} ({BP} can be paid with either {B} or 2 life.)</CardText>
 Equipped creature gets +3/+1 and has haste.
 Equip {2}</CardText>
 <Artist>Cos Koniotis</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214367</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2915,6 +3061,7 @@ Equip {2}</CardText>
 <CardText>Players can't draw cards.
 At the beginning of each player's draw step, that player exiles the top card of their library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.</CardText>
 <Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233042</Multiverseid>
 <Rulings>2011/06/01: Putting the land onto the battlefield or casting the card is not optional.
 2011/06/01: If the player is unable to put the land onto the battlefield (this is rare) or cast the spell (perhaps because there are no legal targets available) as the triggered ability of <Omen Machine> resolves, the card simply remains in exile.</Rulings>
@@ -2933,6 +3080,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <ManaCost>5 (5)</ManaCost>
 <CardText>{BP}: Pestilent Souleater gains infect until end of turn. ({BP} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
 <Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233085</Multiverseid>
 <Rulings>2011/06/01: Multiple instances of infect are redundant.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2950,6 +3098,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <ManaCost>6 (6)</ManaCost>
 <Flavor>An invasion weapon of ages past, the glistening oil contained the blueprints of countless atrocities.</Flavor>
 <Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214379</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2968,6 +3117,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <Flavor>"Tools and artisans can be destroyed, but the act of creation is inviolate."
 —Elspeth Tirel</Flavor>
 <Artist>Matt Cavotta</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>233074</Multiverseid>
 <Rulings>2011/06/01: <Pristine Talisman> has a mana ability. Its ability doesn't use the stack and can't be responded to.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2986,6 +3136,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <CardText>At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.
 {T}, Sacrifice Shrine of Boundless Growth: Add {C} for each charge counter on Shrine of Boundless Growth.</CardText>
 <Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217982</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3003,6 +3154,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <CardText>At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
 {3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.</CardText>
 <Artist>Dave Kendall</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218018</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3020,6 +3172,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <CardText>At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power.
 {4}, {T}, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.</CardText>
 <Artist>Min Yum</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217980</Multiverseid>
 <Rulings>2011/06/01: Unlike most abilities that force a player to discard cards, this ability may be activated whenever you could cast an instant, including during your opponent's draw step after they have drawn a card.
 2011/06/01: You can't force an opponent to discard a card they cast by activating the last ability in response. The spell is on the stack by then.</Rulings>
@@ -3039,6 +3192,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <CardText>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
 {3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions.</CardText>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>206347</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3056,6 +3210,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 <CardText>At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision.
 {T}, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.</CardText>
 <Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>194318</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3074,6 +3229,7 @@ At the beginning of each player's draw step, that player exiles the top card of 
 Equipped creature gets +2/+2.
 Equip {4}</CardText>
 <Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>214357</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3092,6 +3248,7 @@ Equip {4}</CardText>
 <Flavor>"You have an unhealthy attachment to your selfhood. I can help you with that."
 —Malcator, Executor of Synthesis</Flavor>
 <Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233048</Multiverseid>
 <Rulings>2011/06/01: If one of the targeted players is an illegal target when the activated ability tries to resolve, the exchange won't happen. Neither player's life total will change.
 2011/06/01: When the life totals are exchanged, each player gains or loses the amount of life necessary to equal the other player's previous life total. For example, if Player A has 5 life and Player B has 3 life before the exchange, Player A will lose 2 life and Player B will gain 2 life. Replacement effects may modify these gains and losses, and triggered abilities may trigger on them.
@@ -3114,6 +3271,7 @@ Equip {4}</CardText>
 <Flavor>"Let's show Vorinclex that progress doesn't always need teeth or claws."
 —Malcator, Executor of Synthesis</Flavor>
 <Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>217992</Multiverseid>
 <Rulings>2011/06/01: You can activate <Spellskite>'s ability even if <Spellskite> wouldn't be a legal target for the spell or ability. However, the target of that spell or ability will remain unchanged.
 2011/06/01: If changing one target of a spell or ability to <Spellskite> would make other targets of that spell or ability illegal, the targets remain unchanged.
@@ -3140,6 +3298,7 @@ Equip {4}</CardText>
 {1}, {T}, Remove a charge counter from Surge Node: Put a charge counter on target artifact.</CardText>
 <Flavor>Without a foe to focus on, the machine priests had time to indulge in new sciences.</Flavor>
 <Artist>Lars Grant-West</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>194070</Multiverseid>
 <Rulings>2011/06/01: You can target any artifact, not just one with an ability that references charge counters.</Rulings>
 <Vintage>Legal</Vintage>
@@ -3159,6 +3318,7 @@ Equip {4}</CardText>
 Whenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in their hand and you gain 1 life for each card in your hand.
 Equip {2}</CardText>
 <Artist>Chris Rahn</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>214368</Multiverseid>
 <Rulings>2011/06/01: You count the cards in the each player's hand when the triggered ability resolves.</Rulings>
 <Vintage>Legal</Vintage>
@@ -3178,6 +3338,7 @@ Equip {2}</CardText>
 <Flavor>"Phyrexia is certainly dangerous, but I have to admire some of its innovations."
 —Tezzeret</Flavor>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233069</Multiverseid>
 <Rulings>2011/06/01: <Torpor Orb> stops a creature's own enters-the-battlefield triggered abilities as well as other triggered abilities that would trigger when a creature enters the battlefield.
 2011/06/01: The trigger event doesn't have to specify "creatures" entering the battlefield. For example, Amulet of Vigor says "Whenever a permanent enters the battlefield tapped and under your control, untap it." If a creature enters the battlefield tapped and under your control, Amulet of Vigor would not trigger. If a land (that isn't also a creature) enters the battlefield tapped and under your control, Amulet of Vigor would trigger.
@@ -3202,6 +3363,7 @@ Equip {2}</CardText>
 <Flavor>"We thank the souleaters for surveilling our lives that we may be preserved from our own ignorance."
 —Drones' hymn of gratitude</Flavor>
 <Artist>Scott Chou</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>233073</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3220,6 +3382,7 @@ Equip {2}</CardText>
 <Flavor>"The partisans have unearthed a strange artifact. None know its origin, but it gives them hope of a life beyond."
 —Elspeth's journal</Flavor>
 <Artist>Mike Bierek</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>218079</Multiverseid>
 <Rulings>2011/06/01: Those artifacts untap at the same time as the active player's permanents. You have no choice about what untaps and can't choose to not untap an artifact you control.
 2011/06/01: Some effects, such as the one generated by Rust Tick's ability, state that an artifact doesn't untap during its controller's untap step. These effects won't apply and stop the artifact from untapping during another player's untap step.
@@ -3241,6 +3404,7 @@ Equip {2}</CardText>
 <Flavor>"So even the heart of our world has succumbed."
 —Koth of the Hammer</Flavor>
 <Artist>Franz Vohwinkel</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>218015</Multiverseid>
 <Rulings>2011/06/01: Once you activate the ability and sacrifice an artifact, it's too late for anyone to respond to try and prevent you from paying the cost.</Rulings>
 <Vintage>Legal</Vintage>
@@ -3257,6 +3421,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>James Paick</Artist>
+<Watermark>White</Watermark>
 <Multiverseid>227552</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3272,6 +3437,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>James Paick</Artist>
+<Watermark>White</Watermark>
 <Multiverseid>227518</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3287,6 +3453,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>Jung Park</Artist>
+<Watermark>Blue</Watermark>
 <Multiverseid>227530</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3302,6 +3469,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>Jung Park</Artist>
+<Watermark>Blue</Watermark>
 <Multiverseid>227505</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3317,6 +3485,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>Lars Grant-West</Artist>
+<Watermark>Black</Watermark>
 <Multiverseid>227519</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3332,6 +3501,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>Lars Grant-West</Artist>
+<Watermark>Black</Watermark>
 <Multiverseid>227521</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3347,6 +3517,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>Tomasz Jedruszek</Artist>
+<Watermark>Red</Watermark>
 <Multiverseid>227507</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3362,6 +3533,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>Tomasz Jedruszek</Artist>
+<Watermark>Red</Watermark>
 <Multiverseid>230064</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3377,6 +3549,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Mark Tedin</Artist>
+<Watermark>Green</Watermark>
 <Multiverseid>230081</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3392,6 +3565,7 @@ Equip {2}</CardText>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Mark Tedin</Artist>
+<Watermark>Green</Watermark>
 <Multiverseid>230071</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

@@ -348,7 +348,12 @@ public class Main {
 
 		printEntry(card, "flavor", "Flavor");
 		printEntry(card, "artist", "Artist");
-		// printEntry(card, "watermark", "Watermark");
+		if (code.equals("RAV") || code.equals("GP") || code.equals("DI") || code.equals("SOM") || code.equals("MBS")
+				|| code.equals("NPH") || code.equals("RTR") || code.equals("GTC") || code.equals("DGM")
+				|| code.equals("KTK") || code.equals("FRF") || code.equals("DTK") || code.equals("UST")
+				|| code.equals("A25")) {
+			printEntry(card, "watermark", "Watermark");
+		}
 		printEntry(card, "multiverseid", "Multiverseid");
 		printRulings(card, "rulings", "Rulings");
 		if (card.has("reserved") && card.getBoolean("reserved")) {
