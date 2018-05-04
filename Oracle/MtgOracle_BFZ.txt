@@ -33,7 +33,7 @@
 2015/08/25: Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile their hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into their graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -101,7 +101,7 @@ Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to y
 <Multiverseid>401854</Multiverseid>
 <Rulings>2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1060,7 +1060,7 @@ Tap up to two target creatures. Those creatures don't untap during their control
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1133,7 +1133,7 @@ Sacrifice an Eldrazi Scion: Tap target creature.</CardText>
 <Artist>Tomasz Jedruszek</Artist>
 <Multiverseid>401863</Multiverseid>
 <Rulings>2015/08/25: You can sacrifice any Eldrazi Scion to activate <Drowner of Hope>'s last ability, not just one created by <Drowner of Hope>.
-2015/08/25: You can't sacrifice the same permanent to pay two different costs. Notably, if you sacrifice an Eldrazi Scion to activate the last ability of <Drowner of Hope>, you won't add {C} to your mana pool.
+2015/08/25: You can't sacrifice the same permanent to pay two different costs. Notably, if you sacrifice an Eldrazi Scion to activate the last ability of <Drowner of Hope>, you won't add {C}.
 2015/08/25: Cards with devoid use frames that are variations of the transparent frame traditionally used for Eldrazi. The top part of the card features some color over a background based on the texture of the hedrons that once imprisoned the Eldrazi. This coloration is intended to aid deckbuilding and game play.
 2015/08/25: A card with devoid is just colorless. It's not colorless and the colors of mana in its mana cost.
 2015/08/25: Other cards and abilities can give a card with devoid color. If that happens, it's just the new color, not that color and colorless.
@@ -1141,7 +1141,7 @@ Sacrifice an Eldrazi Scion: Tap target creature.</CardText>
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1168,7 +1168,7 @@ When Eldrazi Skyspawner enters the battlefield, create a 1/1 colorless Eldrazi S
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1219,7 +1219,7 @@ When Incubator Drone enters the battlefield, create a 1/1 colorless Eldrazi Scio
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1959,7 +1959,7 @@ Draw a card.</CardText>
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2266,7 +2266,7 @@ Destroy target creature.</CardText>
 <Multiverseid>401838</Multiverseid>
 <Rulings>2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3451,7 +3451,7 @@ When Blisterpod dies, create a 1/1 colorless Eldrazi Scion creature token. It ha
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3478,7 +3478,7 @@ When Brood Monitor enters the battlefield, create three 1/1 colorless Eldrazi Sc
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3505,7 +3505,7 @@ Create two 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice thi
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3532,7 +3532,7 @@ When Eyeless Watcher enters the battlefield, create two 1/1 colorless Eldrazi Sc
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3560,7 +3560,7 @@ At the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature t
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3617,7 +3617,7 @@ Target creature you control fights target creature an opponent controls. If the 
 2015/08/25: Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile their hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into their graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4200,7 +4200,7 @@ When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion 
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4253,7 +4253,7 @@ Whenever another creature you control dies, scry 1. (Look at the top card of you
 2015/08/25: If a card loses devoid, it will still be colorless. This is because effects that change an object's color (like the one created by devoid) are considered before the object loses devoid.
 2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5199,7 +5199,7 @@ Smoldering Marsh enters the battlefield tapped unless you control two or more ba
 <Multiverseid>402046</Multiverseid>
 <Rulings>2015/08/25: Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1.
 2015/08/25: Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example.
-2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to.
+2015/08/25: Sacrificing an Eldrazi Scion creature token to add {C} is a mana ability. It doesn't use the stack and can't be responded to.
 2015/08/25: Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5235,7 +5235,7 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>Noah Bradley</Artist>
-<Multiverseid>401985</Multiverseid>
+<Multiverseid>401992</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5250,22 +5250,7 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>Noah Bradley</Artist>
-<Multiverseid>401992</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Battle for Zendikar</Set>
-<Rarity>Land</Rarity>
-</Card>
-
-<Card>
-<SetId>BFZ</SetId>
-<No>251</No>
-<Name>Plains</Name>
-<Type>Basic Land — Plains</Type>
-<CardText>({T}: Add {W}.)</CardText>
-<Artist>Sam Burley</Artist>
-<Multiverseid>401988</Multiverseid>
+<Multiverseid>401985</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5290,12 +5275,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>252</No>
+<No>251</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
-<Artist>Adam Paquette</Artist>
-<Multiverseid>401989</Multiverseid>
+<Artist>Sam Burley</Artist>
+<Multiverseid>401988</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5320,12 +5305,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>253</No>
+<No>252</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
-<Artist>Vincent Proce</Artist>
-<Multiverseid>401986</Multiverseid>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>401989</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5350,12 +5335,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>254</No>
+<No>253</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
-<Artist>Tianhua X</Artist>
-<Multiverseid>401987</Multiverseid>
+<Artist>Vincent Proce</Artist>
+<Multiverseid>401986</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5380,12 +5365,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>255</No>
-<Name>Island</Name>
-<Type>Basic Land — Island</Type>
-<CardText>({T}: Add {U}.)</CardText>
-<Artist>Noah Bradley</Artist>
-<Multiverseid>401922</Multiverseid>
+<No>254</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Tianhua X</Artist>
+<Multiverseid>401987</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5410,12 +5395,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>256</No>
+<No>255</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
-<Artist>Sam Burley</Artist>
-<Multiverseid>401918</Multiverseid>
+<Artist>Noah Bradley</Artist>
+<Multiverseid>401922</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5440,12 +5425,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>257</No>
+<No>256</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
-<Artist>Adam Paquette</Artist>
-<Multiverseid>401920</Multiverseid>
+<Artist>Sam Burley</Artist>
+<Multiverseid>401918</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5470,12 +5455,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>258</No>
+<No>257</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
-<Artist>Vincent Proce</Artist>
-<Multiverseid>401924</Multiverseid>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>401920</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5500,12 +5485,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>259</No>
+<No>258</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
-<Artist>Tianhua X</Artist>
-<Multiverseid>401919</Multiverseid>
+<Artist>Vincent Proce</Artist>
+<Multiverseid>401924</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5530,12 +5515,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>260</No>
-<Name>Swamp</Name>
-<Type>Basic Land — Swamp</Type>
-<CardText>({T}: Add {B}.)</CardText>
-<Artist>Noah Bradley</Artist>
-<Multiverseid>402055</Multiverseid>
+<No>259</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Tianhua X</Artist>
+<Multiverseid>401919</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5560,12 +5545,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>261</No>
+<No>260</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
-<Artist>Sam Burley</Artist>
-<Multiverseid>402053</Multiverseid>
+<Artist>Noah Bradley</Artist>
+<Multiverseid>402055</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5590,12 +5575,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>262</No>
+<No>261</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
-<Artist>Adam Paquette</Artist>
-<Multiverseid>402054</Multiverseid>
+<Artist>Sam Burley</Artist>
+<Multiverseid>402053</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5620,12 +5605,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>263</No>
+<No>262</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
-<Artist>Jung Park</Artist>
-<Multiverseid>402056</Multiverseid>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>402054</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5650,12 +5635,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>264</No>
+<No>263</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
-<Artist>Tianhua X</Artist>
-<Multiverseid>402057</Multiverseid>
+<Artist>Jung Park</Artist>
+<Multiverseid>402056</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5680,12 +5665,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>265</No>
-<Name>Mountain</Name>
-<Type>Basic Land — Mountain</Type>
-<CardText>({T}: Add {R}.)</CardText>
-<Artist>Noah Bradley</Artist>
-<Multiverseid>401958</Multiverseid>
+<No>264</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Tianhua X</Artist>
+<Multiverseid>402057</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5710,12 +5695,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>266</No>
+<No>265</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
-<Artist>Sam Burley</Artist>
-<Multiverseid>401957</Multiverseid>
+<Artist>Noah Bradley</Artist>
+<Multiverseid>401958</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5740,12 +5725,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>267</No>
+<No>266</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
-<Artist>Véronique Meignaud</Artist>
-<Multiverseid>401954</Multiverseid>
+<Artist>Sam Burley</Artist>
+<Multiverseid>401957</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5770,12 +5755,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>268</No>
+<No>267</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
-<Artist>Adam Paquette</Artist>
-<Multiverseid>401955</Multiverseid>
+<Artist>Véronique Meignaud</Artist>
+<Multiverseid>401954</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5800,12 +5785,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>269</No>
+<No>268</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
-<Artist>Tianhua X</Artist>
-<Multiverseid>401953</Multiverseid>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>401955</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5830,12 +5815,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>270</No>
-<Name>Forest</Name>
-<Type>Basic Land — Forest</Type>
-<CardText>({T}: Add {G}.)</CardText>
-<Artist>Noah Bradley</Artist>
-<Multiverseid>401887</Multiverseid>
+<No>269</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Tianhua X</Artist>
+<Multiverseid>401953</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5860,12 +5845,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>271</No>
+<No>270</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Sam Burley</Artist>
-<Multiverseid>401885</Multiverseid>
+<Artist>Noah Bradley</Artist>
+<Multiverseid>401887</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5890,12 +5875,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>272</No>
+<No>271</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Adam Paquette</Artist>
-<Multiverseid>401884</Multiverseid>
+<Artist>Sam Burley</Artist>
+<Multiverseid>401885</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5920,12 +5905,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>273</No>
+<No>272</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Vincent Proce</Artist>
-<Multiverseid>401882</Multiverseid>
+<Artist>Adam Paquette</Artist>
+<Multiverseid>401884</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5950,12 +5935,12 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 
 <Card>
 <SetId>BFZ</SetId>
-<No>274</No>
+<No>273</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Tianhua X</Artist>
-<Multiverseid>401883</Multiverseid>
+<Artist>Vincent Proce</Artist>
+<Multiverseid>401882</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5971,6 +5956,21 @@ Sunken Hollow enters the battlefield tapped unless you control two or more basic
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Tianhua X</Artist>
 <Multiverseid>401890</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Battle for Zendikar</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>BFZ</SetId>
+<No>274</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Tianhua X</Artist>
+<Multiverseid>401883</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

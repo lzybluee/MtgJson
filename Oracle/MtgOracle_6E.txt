@@ -237,22 +237,6 @@ You may spend white mana as though it were mana of any color. You may spend othe
 
 <Card>
 <SetId>6E</SetId>
-<No>14</No>
-<Name>D'Avenant Archer</Name>
-<Type>Creature — Human Soldier Archer 1/2</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.</CardText>
-<Flavor>Avenant's archers are also trained as poets, so that each arrow is guided by a fragment of verse.</Flavor>
-<Artist>Douglas Shuler</Artist>
-<Multiverseid>14472</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Classic Sixth Edition</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>6E</SetId>
 <No>15</No>
 <Name>Daraja Griffin</Name>
 <Type>Creature — Griffin 2/2</Type>
@@ -267,6 +251,22 @@ Sacrifice Daraja Griffin: Destroy target black creature.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Classic Sixth Edition</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>6E</SetId>
+<No>14</No>
+<Name>D'Avenant Archer</Name>
+<Type>Creature — Human Soldier Archer 1/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.</CardText>
+<Flavor>Avenant's archers are also trained as poets, so that each arrow is guided by a fragment of verse.</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>14472</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Classic Sixth Edition</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -5041,6 +5041,23 @@ Junior Classics trans.</Flavor>
 
 <Card>
 <SetId>6E</SetId>
+<No>315</No>
+<Name>The Hive</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>Mouths and wings beyond numbering, but a single mind to guide them.</Flavor>
+<Artist>Sandra Everingham</Artist>
+<Multiverseid>11530</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Classic Sixth Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>6E</SetId>
 <No>289</No>
 <Name>Howling Mine</Name>
 <Type>Artifact</Type>
@@ -5470,23 +5487,6 @@ Whenever a land is tapped for mana, return it to its owner's hand.</CardText>
 <Multiverseid>15410</Multiverseid>
 <Rulings>2004/10/04: You do your normal draw before this ability is put on the stack.
 2004/10/04: If you have more than one of these, each effect triggers separately.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Classic Sixth Edition</Set>
-<Rarity>Rare</Rarity>
-</Card>
-
-<Card>
-<SetId>6E</SetId>
-<No>315</No>
-<Name>The Hive</Name>
-<Type>Artifact</Type>
-<ManaCost>5 (5)</ManaCost>
-<CardText>{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)</CardText>
-<Flavor>Mouths and wings beyond numbering, but a single mind to guide them.</Flavor>
-<Artist>Sandra Everingham</Artist>
-<Multiverseid>11530</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

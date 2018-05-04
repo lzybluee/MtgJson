@@ -1002,6 +1002,23 @@ Whenever Spy Eye deals combat damage to a player, you may draw a card from that 
 <Card>
 <SetId>UST</SetId>
 <No>49</No>
+<Name>Very Cryptic Command (a)</Name>
+<Type>Instant</Type>
+<ManaCost>1UUU (4)</ManaCost>
+<CardText>Choose two —
+• Switch target creature's power and toughness until end of turn.
+• Target creature can't be blocked this turn.
+• Draw a card. If that card's art is by Wayne England, you may reveal it and draw another card.
+• Assemble a Contraption.</CardText>
+<Artist>Wayne England</Artist>
+<Multiverseid>439645</Multiverseid>
+<Set>Unstable</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>UST</SetId>
+<No>49</No>
 <Name>Very Cryptic Command (b)</Name>
 <Type>Instant</Type>
 <ManaCost>1UUU (4)</ManaCost>
@@ -1013,23 +1030,6 @@ Whenever Spy Eye deals combat damage to a player, you may draw a card from that 
 <Artist>Zoltan Boros</Artist>
 <Multiverseid>439438</Multiverseid>
 <Rulings>2018/01/19: Hyphenated words count as one word.</Rulings>
-<Set>Unstable</Set>
-<Rarity>Rare</Rarity>
-</Card>
-
-<Card>
-<SetId>UST</SetId>
-<No>49</No>
-<Name>Very Cryptic Command (a)</Name>
-<Type>Instant</Type>
-<ManaCost>1UUU (4)</ManaCost>
-<CardText>Choose two —
-• Switch target creature's power and toughness until end of turn.
-• Target creature can't be blocked this turn.
-• Draw a card. If that card's art is by Wayne England, you may reveal it and draw another card.
-• Assemble a Contraption.</CardText>
-<Artist>Wayne England</Artist>
-<Multiverseid>439645</Multiverseid>
 <Set>Unstable</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -4779,7 +4779,6 @@ Kitten-fish</Flavor>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>John Avon</Artist>
-<Watermark>White</Watermark>
 <Multiverseid>439601</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4795,7 +4794,6 @@ Kitten-fish</Flavor>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>John Avon</Artist>
-<Watermark>Blue</Watermark>
 <Multiverseid>439602</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4811,7 +4809,6 @@ Kitten-fish</Flavor>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>John Avon</Artist>
-<Watermark>Black</Watermark>
 <Multiverseid>439603</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4827,7 +4824,6 @@ Kitten-fish</Flavor>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>John Avon</Artist>
-<Watermark>Red</Watermark>
 <Multiverseid>439604</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4843,7 +4839,6 @@ Kitten-fish</Flavor>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>John Avon</Artist>
-<Watermark>Green</Watermark>
 <Multiverseid>439605</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

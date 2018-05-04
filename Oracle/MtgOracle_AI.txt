@@ -16,6 +16,41 @@
 
 <Card>
 <SetId>AI</SetId>
+<Name>Casting of Bones</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Enchant creature
+When enchanted creature dies, draw three cards, then discard one of them.</CardText>
+<Flavor>"Only a necromancer would create such a foul form of divination."
+—Gerda Äagesdotter,
+Archmage of the Unseen</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>3067</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Casting of Bones</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Enchant creature
+When enchanted creature dies, draw three cards, then discard one of them.</CardText>
+<Flavor>"Whether whole or not, still we serve Lim-Dûl's wishes."
+—Chaeska, Keeper of Tresserhorn</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>3068</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>4</No>
 <Name>Contagion</Name>
 <Type>Instant</Type>
@@ -88,6 +123,104 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<Name>Feast or Famine</Name>
+<Type>Instant</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Choose one —
+• Create a 2/2 black Zombie creature token.
+• Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Flavor>"We are not yet free of Lim-Dûl's terrors."
+—Halvor Arensson, Kjeldoran Priest</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>3074</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Feast or Famine</Name>
+<Type>Instant</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Choose one —
+• Create a 2/2 black Zombie creature token.
+• Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Flavor>"The living cannot understand the benefits of death."
+—Chaeska, Keeper of Tresserhorn</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>3073</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Fevered Strength</Name>
+<Type>Instant</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Target creature gets +2/+0 until end of turn.
+Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"The burst of strength brought on by this plague should not be mistaken for a sign of renewed health."
+—Kolbjörn, High Honored Druid</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>3075</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Fevered Strength</Name>
+<Type>Instant</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Target creature gets +2/+0 until end of turn.
+Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"The fever clouds the mind as it energizes the body. Both will pass in time."
+—Halvor Arensson, Kjeldoran Priest</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>3076</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Insidious Bookworms</Name>
+<Type>Creature — Worm 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random.</CardText>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>3078</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Insidious Bookworms</Name>
+<Type>Creature — Worm 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random.</CardText>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>3077</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>14</No>
 <Name>Keeper of Tresserhorn</Name>
 <Type>Creature — Avatar 6/6</Type>
@@ -141,6 +274,39 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 
 <Card>
 <SetId>AI</SetId>
+<Name>Lim-Dûl's High Guard</Name>
+<Type>Creature — Skeleton 2/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>First strike
+{1}{B}: Regenerate Lim-Dûl's High Guard.</CardText>
+<Flavor>"Death does not prevent us from service to our absent master. As long as Tresserhorn stands, so shall we."
+—Chaeska, Keeper of Tresserhorn</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>3082</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Lim-Dûl's High Guard</Name>
+<Type>Creature — Skeleton 2/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>First strike
+{1}{B}: Regenerate Lim-Dûl's High Guard.</CardText>
+<Flavor>"The Guard will forever stand ready. For them, death is merely an inconvenience, not an ending." —Chaeska, Keeper of Tresserhorn</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>3083</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>19</No>
 <Name>Misinformation</Name>
 <Type>Instant</Type>
@@ -155,6 +321,79 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Phantasmal Fiend</Name>
+<Type>Creature — Illusion 1/5</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>{B}: Phantasmal Fiend gets +1/-1 until end of turn.
+{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.</CardText>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>3086</Multiverseid>
+<Rulings>2005/11/01: Note that the wording "Effects that alter the creature's power alter its toughness instead, and vice versa, this turn" has been removed.
+2008/10/01: Effects that switch power and toughness are always applied last when determining a creature's power and toughness, even if other power/toughness-changing effects are created later in the turn. For example, if you activate <Phantasmal Fiend>'s first ability, it will become 2/4. Then if you activate its second ability, it will become 4/2. Then if you activate its first ability again, it will become 3/3.
+2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
+2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Phantasmal Fiend</Name>
+<Type>Creature — Illusion 1/5</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>{B}: Phantasmal Fiend gets +1/-1 until end of turn.
+{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.</CardText>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>3085</Multiverseid>
+<Rulings>2005/11/01: Note that the wording "Effects that alter the creature's power alter its toughness instead, and vice versa, this turn" has been removed.
+2008/10/01: Effects that switch power and toughness are always applied last when determining a creature's power and toughness, even if other power/toughness-changing effects are created later in the turn. For example, if you activate <Phantasmal Fiend>'s first ability, it will become 2/4. Then if you activate its second ability, it will become 4/2. Then if you activate its first ability again, it will become 3/3.
+2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
+2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Phyrexian Boon</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.</CardText>
+<Flavor>"Phyrexia's touch is painful to all but the blackest of hearts."
+—Gerda Äagesdotter,
+Archmage of the Unseen</Flavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>3088</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Phyrexian Boon</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.</CardText>
+<Flavor>"Dagsson should have paid attention to the lessons of Phyrexia before attempting to create a mechanical utopia."
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>3087</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -180,6 +419,70 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<Name>Soldevi Adnate</Name>
+<Type>Creature — Human Cleric 1/2</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{T}, Sacrifice a black or artifact creature: Add an amount of {B} equal to the sacrificed creature's converted mana cost.</CardText>
+<Flavor>"People love to follow fools; they don't feel so alone then."
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>3090</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Adnate</Name>
+<Type>Creature — Human Cleric 1/2</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{T}, Sacrifice a black or artifact creature: Add an amount of {B} equal to the sacrificed creature's converted mana cost.</CardText>
+<Flavor>"An idiot cannot hear sense, even when a thousand people speak it."
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>3091</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Stench of Decay</Name>
+<Type>Instant</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Nonartifact creatures get -1/-1 until end of turn.</CardText>
+<Flavor>"Disa is dead, and I am left. I shall allow no others to succumb to this pestilence."
+—Kolbjörn, High Honored Druid</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>3093</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Stench of Decay</Name>
+<Type>Instant</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Nonartifact creatures get -1/-1 until end of turn.</CardText>
+<Flavor>"My lord, there is only so much I can do. This plague infests Krov worse than any other city."
+—Halvor Arensson, Kjeldoran Priest</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>3092</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>29</No>
 <Name>Stromgald Spy</Name>
 <Type>Creature — Human Rogue 2/4</Type>
@@ -192,6 +495,152 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Swamp Mosquito</Name>
+<Type>Creature — Insect 0/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flying
+Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</CardText>
+<Artist>Nicola Leonard</Artist>
+<Multiverseid>3096</Multiverseid>
+<Rulings>2004/10/04: Triggers immediately after blocking is declared if at that time no blockers are assigned to it.
+2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Swamp Mosquito</Name>
+<Type>Creature — Insect 0/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flying
+Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</CardText>
+<Artist>Nicola Leonard</Artist>
+<Multiverseid>3095</Multiverseid>
+<Rulings>2004/10/04: Triggers immediately after blocking is declared if at that time no blockers are assigned to it.
+2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Arcane Denial</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
+You draw a card at the beginning of the next turn's upkeep.</CardText>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>3097</Multiverseid>
+<Rulings>2007/09/16: The controller of the countered spell doesn't choose how many cards to draw until the relevant ability resolves. The player may draw 0, 1, or 2 cards. They choose the number before drawing any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Arcane Denial</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
+You draw a card at the beginning of the next turn's upkeep.</CardText>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>3098</Multiverseid>
+<Rulings>2007/09/16: The controller of the countered spell doesn't choose how many cards to draw until the relevant ability resolves. The player may draw 0, 1, or 2 cards. They choose the number before drawing any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Awesome Presence</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't be blocked unless defending player pays {3} for each creature they control that's blocking it.</CardText>
+<Flavor>"At the core of all power is raw passion."Gerda Äagesdotter,
+Archmage of the Unseen</Flavor>
+<Artist>Lawrence Snelly</Artist>
+<Multiverseid>3099</Multiverseid>
+<Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Awesome Presence</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't be blocked unless defending player pays {3} for each creature they control that's blocking it.</CardText>
+<Flavor>"I shape my weapons from the fears of my enemies."
+—Chaeska, Keeper of Tresserhorn</Flavor>
+<Artist>Lawrence Snelly</Artist>
+<Multiverseid>3100</Multiverseid>
+<Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Benthic Explorers</Name>
+<Type>Creature — Merfolk Scout 2/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce.</CardText>
+<Flavor>The rising oceans brought new lakes—and new terrors—to Terisiare. The Explorers found their ancient enemies spawning everywhere.</Flavor>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>3102</Multiverseid>
+<Rulings>2004/10/04: This ability is not targeted any more.
+2009/10/01: Untapping a tapped land an opponent controls is part of the cost of <Benthic Explorers>'s ability. If no opponent controls a tapped land, the ability can't be activated.
+2009/10/01: The types of mana are white, blue, black, red, green, and colorless.
+2009/10/01: <Benthic Explorers> checks the effects of all mana-producing abilities of the land untapped to pay its cost, but it doesn't check the costs of those abilities. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If you untap a tapped Vivid Crag an opponent controls while paying for <Benthic Explorers>'s ability, you can add one mana of any color. It doesn't matter whether that Vivid Crag has a charge counter on it.
+2009/10/01: When determining what types of mana an opponent's land could produce, take into account any applicable replacement effects that would apply to that land's mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
+2009/10/01: <Benthic Explorers> doesn't care about any restrictions or riders an opponent's land (such as Ancient Ziggurat or Hall of the Bandit Lord) puts on the mana it produces. It just cares about types of mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Benthic Explorers</Name>
+<Type>Creature — Merfolk Scout 2/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce.</CardText>
+<Flavor>Distant Atlantis charged these Explorers with the task of venturing into unknown waters to track the despised Viscerids.</Flavor>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>3101</Multiverseid>
+<Rulings>2004/10/04: This ability is not targeted any more.
+2009/10/01: Untapping a tapped land an opponent controls is part of the cost of <Benthic Explorers>'s ability. If no opponent controls a tapped land, the ability can't be activated.
+2009/10/01: The types of mana are white, blue, black, red, green, and colorless.
+2009/10/01: <Benthic Explorers> checks the effects of all mana-producing abilities of the land untapped to pay its cost, but it doesn't check the costs of those abilities. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If you untap a tapped Vivid Crag an opponent controls while paying for <Benthic Explorers>'s ability, you can add one mana of any color. It doesn't matter whether that Vivid Crag has a charge counter on it.
+2009/10/01: When determining what types of mana an opponent's land could produce, take into account any applicable replacement effects that would apply to that land's mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
+2009/10/01: <Benthic Explorers> doesn't care about any restrictions or riders an opponent's land (such as Ancient Ziggurat or Hall of the Bandit Lord) puts on the mana it produces. It just cares about types of mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -231,6 +680,40 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<Name>False Demise</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.</CardText>
+<Flavor>"Far too many of our missing 'dead' seem to be turning up in Varchild's ranks"
+—King Darien of Kjeldor</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>3106</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>False Demise</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.</CardText>
+<Flavor>"Fool Never believe they're dead until you see the body"
+—General Varchild</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>3105</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>42</No>
 <Name>Force of Will</Name>
 <Type>Instant</Type>
@@ -244,6 +727,68 @@ Counter target spell.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Foresight</Name>
+<Type>Sorcery</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Search your library for three cards, exile them, then shuffle your library.
+Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>3108</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Foresight</Name>
+<Type>Sorcery</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Search your library for three cards, exile them, then shuffle your library.
+Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>3109</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Lat-Nam's Legacy</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"All the knowledge of Lat-Nam could not protect its sages from the Brothers' War." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>3111</Multiverseid>
+<Rulings>2008/10/01: Shuffling a card from your hand into your library is mandatory. The effect says "if you do" because performing that action might have been impossible. If you fail to shuffle a card into your library because your hand was empty, you won't draw any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Lat-Nam's Legacy</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"Lat-Nam has bequeathed us its secrets. With them we shall attain true enlightenment." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>3110</Multiverseid>
+<Rulings>2008/10/01: Shuffling a card from your hand into your library is mandatory. The effect says "if you do" because performing that action might have been impossible. If you fail to shuffle a card into your library because your hand was empty, you won't draw any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -283,6 +828,71 @@ When Phantasmal Sphere leaves the battlefield, target opponent creates an X/X bl
 
 <Card>
 <SetId>AI</SetId>
+<Name>Soldevi Heretic</Name>
+<Type>Creature — Human Cleric 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>{W}, {T}: Prevent the next 2 damage that would be dealt to target creature this turn. Target opponent may draw a card.</CardText>
+<Flavor>"In the arms of tragedy, there is little comfort in being right."
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Mike Kimble</Artist>
+<Multiverseid>3115</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Heretic</Name>
+<Type>Creature — Human Cleric 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>{W}, {T}: Prevent the next 2 damage that would be dealt to target creature this turn. Target opponent may draw a card.</CardText>
+<Flavor>"It cannot be Soldev crushed, and my machines to blame?"
+—Arcum Dagsson, Soldevi Machinist</Flavor>
+<Artist>Mike Kimble</Artist>
+<Multiverseid>3114</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Sage</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{T}, Sacrifice two lands: Draw three cards, then discard one of them.</CardText>
+<Flavor>"To hide the truth is more than folly—it is fatal."
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Carol Heyer</Artist>
+<Multiverseid>3117</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Sage</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{T}, Sacrifice two lands: Draw three cards, then discard one of them.</CardText>
+<Flavor>"Our underground archives grow daily, as our excavators and sages alike dig to uncover hidden wonders."
+—Arcum Dagsson,
+Soldevi Machinist</Flavor>
+<Artist>Carol Heyer</Artist>
+<Multiverseid>3116</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>53</No>
 <Name>Spiny Starfish</Name>
 <Type>Creature — Starfish 0/1</Type>
@@ -299,6 +909,41 @@ At the beginning of each end step, if Spiny Starfish regenerated this turn, crea
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Storm Crow</Name>
+<Type>Creature — Bird 1/2</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>"It tells you that the worst is coming. Do you listen?
+—Lovisa Coldeyes,
+Balduvian Chieftain</Flavor>
+<Artist>Sandra Everingham</Artist>
+<Multiverseid>3119</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Storm Crow</Name>
+<Type>Creature — Bird 1/2</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>"Watch for it Right on its tailfeathers will be a storm from your nightmares."
+—Arna Kennerüd, Skycaptain</Flavor>
+<Artist>Sandra Everingham</Artist>
+<Multiverseid>3120</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -377,6 +1022,40 @@ Pay 2 life or {2}: Counter target red or green spell. Any player may activate th
 
 <Card>
 <SetId>AI</SetId>
+<Name>Viscerid Armor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1.
+{1}{U}: Return Viscerid Armor to its owner's hand.</CardText>
+<Flavor>A fallen Viscerid's only tribute is to be worn by a comrade.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>3126</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Viscerid Armor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1.
+{1}{U}: Return Viscerid Armor to its owner's hand.</CardText>
+<Flavor>One Viscerid's death is often another's gain.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>3125</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>62</No>
 <Name>Viscerid Drone</Name>
 <Type>Creature — Homarid Drone 1/2</Type>
@@ -410,6 +1089,40 @@ Distribute three +1/+1 counters among one, two, or three target creatures. For e
 
 <Card>
 <SetId>AI</SetId>
+<Name>Deadly Insect</Name>
+<Type>Creature — Insect 6/1</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
+<Flavor>"Beautiful, indeed—but one sting could fell a Giant in a heartbeat."
+—Taaveti of Kelsinko,
+Elvish Hunter</Flavor>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>3129</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Deadly Insect</Name>
+<Type>Creature — Insect 6/1</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
+<Flavor>"There is no time for pain when this beast leaves its terrible sting."
+—Jaeuhl Carthalion,
+Juniper Order Advocate</Flavor>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>3130</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>66</No>
 <Name>Elvish Bard</Name>
 <Type>Creature — Elf Shaman 2/4</Type>
@@ -422,6 +1135,37 @@ Distribute three +1/+1 counters among one, two, or three target creatures. For e
 <Modern>Legal</Modern>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Elvish Ranger</Name>
+<Type>Creature — Elf 4/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<Flavor>"No one may fault an Elvish Ranger's heart, but the simplest frailty may fell even the proudest warrior."
+—Kaysa, Elder Druid of the Juniper Order</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>3133</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Elvish Ranger</Name>
+<Type>Creature — Elf 4/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<Flavor>"How can any Human hope to match our skills? We are children of Fyndhorn, and its sap runs in our veins."
+—Taaveti of Kelsinko,
+Elvish Hunter</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>3132</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -444,6 +1188,39 @@ Distribute three +1/+1 counters among one, two, or three target creatures. For e
 
 <Card>
 <SetId>AI</SetId>
+<Name>Fyndhorn Druid</Name>
+<Type>Creature — Elf Druid 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.</CardText>
+<Flavor>"All struggles ultimately require sacrifice. It's just that some sacrifices are dearer than others."
+—Jaeuhl Carthalion,
+Juniper Order Advocate</Flavor>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>3136</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Fyndhorn Druid</Name>
+<Type>Creature — Elf Druid 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.</CardText>
+<Flavor>"Honor those who honor Fyndhorn above themselves."
+—Kolbjörn, High Honored Druid</Flavor>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>3135</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>72</No>
 <Name>Gargantuan Gorilla</Name>
 <Type>Creature — Ape 7/7</Type>
@@ -459,6 +1236,104 @@ Distribute three +1/+1 counters among one, two, or three target creatures. For e
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gift of the Woods</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.</CardText>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>3138</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gift of the Woods</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.</CardText>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>3139</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla Berserkers</Name>
+<Type>Creature — Ape Berserker 2/3</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Gorilla Berserkers can't be blocked except by three or more creatures.</CardText>
+<Flavor>"Their fury is their greatest weapon."
+—Taaveti of Kelsinko, Elvish Hunter</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>3140</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla Berserkers</Name>
+<Type>Creature — Ape Berserker 2/3</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Gorilla Berserkers can't be blocked except by three or more creatures.</CardText>
+<Flavor>"Beneath serenity may lie
+a hidden rage."
+—Jaeuhl Carthalion,
+Juniper Order Advocate</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>3141</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla Chieftain</Name>
+<Type>Creature — Ape 3/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>{1}{G}: Regenerate Gorilla Chieftain.</CardText>
+<Flavor>"Oh, no—not you again?"
+—Jaya Ballard, Task Mage</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>3143</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla Chieftain</Name>
+<Type>Creature — Ape 3/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>{1}{G}: Regenerate Gorilla Chieftain.</CardText>
+<Flavor>"In the soil of leadership sprout the seeds of immortality."
+—Kaysa, Elder Druid of the Juniper Order</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>3142</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -553,6 +1428,40 @@ Whenever a player puts a Swamp or black permanent onto the battlefield, that pla
 
 <Card>
 <SetId>AI</SetId>
+<Name>Taste of Paradise</Name>
+<Type>Sorcery</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may pay {1}{G} any number of times.
+You gain 3 life plus an additional 3 life for each additional {1}{G} you paid.</CardText>
+<Flavor>"Any who drink of Freyalise's bounty drink the mead of rebirth."
+—Kaysa, Elder Druid of the Juniper Order</Flavor>
+<Artist>Lawrence Snelly</Artist>
+<Multiverseid>3150</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Taste of Paradise</Name>
+<Type>Sorcery</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may pay {1}{G} any number of times.
+You gain 3 life plus an additional 3 life for each additional {1}{G} you paid.</CardText>
+<Flavor>"There is, in each of us, the potential to heal and the gift of renewed life."
+—Kaysa, Elder Druid of the Juniper Order</Flavor>
+<Artist>Lawrence Snelly</Artist>
+<Multiverseid>3149</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>86</No>
 <Name>Tornado</Name>
 <Type>Enchantment</Type>
@@ -566,6 +1475,104 @@ Whenever a player puts a Swamp or black permanent onto the battlefield, that pla
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Undergrowth</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may pay {2}{R}.
+Prevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.</CardText>
+<Flavor>"It is the work of sorcery. Burn it!" —Taaveti of Kelsinko, Elvish Hunter</Flavor>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>3152</Multiverseid>
+<Rulings>2004/10/04: It means that red creatures still deal damage if you pay the additional cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Undergrowth</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may pay {2}{R}.
+Prevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.</CardText>
+<Flavor>"The art of war is turning obstacle to advantage." —Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>3153</Multiverseid>
+<Rulings>2004/10/04: It means that red creatures still deal damage if you pay the additional cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Whip Vine</Name>
+<Type>Creature — Plant Wall 1/4</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Defender; reach (This creature can block creatures with flying.)
+You may choose not to untap Whip Vine during your untap step.
+{T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.</CardText>
+<Artist>L. A. Williams</Artist>
+<Multiverseid>3154</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Whip Vine</Name>
+<Type>Creature — Plant Wall 1/4</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Defender; reach (This creature can block creatures with flying.)
+You may choose not to untap Whip Vine during your untap step.
+{T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.</CardText>
+<Artist>L. A. Williams</Artist>
+<Multiverseid>3155</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Yavimaya Ancients</Name>
+<Type>Creature — Treefolk 2/7</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>{G}: Yavimaya Ancients gets +1/-2 until end of turn.</CardText>
+<Flavor>"The Ancients teach us that if we can but last, we shall prevail."
+—Kaysa, Elder Druid of the Juniper Order</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>3156</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Yavimaya Ancients</Name>
+<Type>Creature — Treefolk 2/7</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>{G}: Yavimaya Ancients gets +1/-2 until end of turn.</CardText>
+<Flavor>"We orphans of Fyndhorn have found no welcome in this alien place."
+—Taaveti of Kelsinko, Elvish Hunter</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>3157</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -589,6 +1596,38 @@ Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on
 
 <Card>
 <SetId>AI</SetId>
+<Name>Agent of Stromgald</Name>
+<Type>Creature — Human Knight 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{R}: Add {B}.</CardText>
+<Flavor>"The Order of Stromgald spreads its poisonous lies from within Varchild's troops, and still she sees only visions of conquest."
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>3159</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Agent of Stromgald</Name>
+<Type>Creature — Human Knight 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{R}: Add {B}.</CardText>
+<Flavor>"The 'fabled' Order of Stromgald is cast to the four winds, lost for all time. I, for one, give them no thought."
+—General Varchild</Flavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>3160</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>96</No>
 <Name>Balduvian Horde</Name>
 <Type>Creature — Human Barbarian 5/5</Type>
@@ -604,6 +1643,71 @@ Balduvian Chieftain</Flavor>
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Balduvian War-Makers</Name>
+<Type>Creature — Human Barbarian 3/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Haste
+Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</CardText>
+<Flavor>"Those mewling Barbarians will cower before my righteous steel!"
+—General Varchild</Flavor>
+<Artist>Mike Kimble</Artist>
+<Multiverseid>3162</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Balduvian War-Makers</Name>
+<Type>Creature — Human Barbarian 3/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Haste
+Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</CardText>
+<Flavor>"We send our best to battle, but every man, woman, and child will stand against Varchild's butchers." —Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Artist>Mike Kimble</Artist>
+<Multiverseid>3163</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Bestial Fury</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Enchant creature
+When Bestial Fury enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Whenever enchanted creature becomes blocked, it gets +4/+0 and gains trample until end of turn.</CardText>
+<Artist>Mike Raabe</Artist>
+<Multiverseid>3165</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Bestial Fury</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Enchant creature
+When Bestial Fury enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Whenever enchanted creature becomes blocked, it gets +4/+0 and gains trample until end of turn.</CardText>
+<Artist>Mike Raabe</Artist>
+<Multiverseid>3164</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -660,6 +1764,146 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Enslaved Scout</Name>
+<Type>Creature — Goblin Scout 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{2}: Enslaved Scout gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)</CardText>
+<Flavor>"Her soldiers' hatred for the Goblins is tempered only by their need for what the Goblins alone hold: knowledge of their mountain home."
+—King Darien of Kjeldor</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>3169</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Enslaved Scout</Name>
+<Type>Creature — Goblin Scout 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{2}: Enslaved Scout gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)</CardText>
+<Flavor>"Even the basest creatures may serve a purpose. Still, their lives need be only as long as the paths we tread."
+—General Varchild</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>3170</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla Shaman</Name>
+<Type>Creature — Ape Shaman 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</CardText>
+<Flavor>"Frankly, destruction is best left to professionals."
+—Jaya Ballard, Task Mage</Flavor>
+<Artist>Anthony Waters</Artist>
+<Multiverseid>3171</Multiverseid>
+<Rulings>2008/10/01: A tip on how this math works: The cost to destroy a noncreature artifact with converted mana cost 0 is {0} + {0} + {1} = {1}. The cost to destroy a noncreature artifact with converted mana cost 1 is {1} + {1} + {1} = {3}. The cost to destroy a noncreature artifact with converted mana cost 2 is {2} + {2} + {1} = {5}. And so on.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla Shaman</Name>
+<Type>Creature — Ape Shaman 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</CardText>
+<Flavor>"Each generation teaches the next that artifice is the enemy of natural order."
+—Kaysa, Elder Druid of the Juniper Order</Flavor>
+<Artist>Anthony Waters</Artist>
+<Multiverseid>3172</Multiverseid>
+<Rulings>2008/10/01: A tip on how this math works: The cost to destroy a noncreature artifact with converted mana cost 0 is {0} + {0} + {1} = {1}. The cost to destroy a noncreature artifact with converted mana cost 1 is {1} + {1} + {1} = {3}. The cost to destroy a noncreature artifact with converted mana cost 2 is {2} + {2} + {1} = {5}. And so on.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla War Cry</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Cast this spell only during combat before blockers are declared.
+All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
+Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"The only 'art' these beasts possess is the art of noise!" —Jaya Ballard</Flavor>
+<Artist>Bryon Wackwitz</Artist>
+<Multiverseid>3173</Multiverseid>
+<Rulings>2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's before the beginning of that phase's Declare Blockers Step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Gorilla War Cry</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Cast this spell only during combat before blockers are declared.
+All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
+Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"Theirs is the art of blood." —Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
+<Artist>Bryon Wackwitz</Artist>
+<Multiverseid>3174</Multiverseid>
+<Rulings>2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's before the beginning of that phase's Declare Blockers Step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Guerrilla Tactics</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Guerrilla Tactics deals 2 damage to any target.
+When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to any target.</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Multiverseid>3176</Multiverseid>
+<Rulings>2004/10/04: If it is discarded, the damage done by it is done by this card due to an ability and not by a spell.
+2004/10/04: The second ability will trigger even on an optional discard caused by an opponent.
+2004/10/04: Discarding as a cost to cast a spell will not trigger the ability. Only discarding as an effect will trigger the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Guerrilla Tactics</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Guerrilla Tactics deals 2 damage to any target.
+When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to any target.</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Multiverseid>3175</Multiverseid>
+<Rulings>2004/10/04: If it is discarded, the damage done by it is done by this card due to an ability and not by a spell.
+2004/10/04: The second ability will trigger even on an optional discard caused by an opponent.
+2004/10/04: Discarding as a cost to cast a spell will not trigger the ability. Only discarding as an effect will trigger the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -774,6 +2018,71 @@ At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may
 
 <Card>
 <SetId>AI</SetId>
+<Name>Storm Shaman</Name>
+<Type>Creature — Human Cleric Shaman 0/4</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{R}: Storm Shaman gets +1/+0 until end of turn.</CardText>
+<Flavor>"Let the lightning be your warning, and the thunder your battle cry."
+—Lovisa Coldeyes,
+Balduvian Chieftain</Flavor>
+<Artist>Carol Heyer</Artist>
+<Multiverseid>3184</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Storm Shaman</Name>
+<Type>Creature — Human Cleric Shaman 0/4</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{R}: Storm Shaman gets +1/+0 until end of turn.</CardText>
+<Flavor>"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch"
+—Lovisa Coldeyes,
+Balduvian Chieftain</Flavor>
+<Artist>Carol Heyer</Artist>
+<Multiverseid>3183</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Varchild's Crusader</Name>
+<Type>Creature — Human Knight 3/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.</CardText>
+<Flavor>"We could have peace, but Varchild would rather have the maps of the new Kjeldor drawn in Balduvian blood." —King Darien of Kjeldor</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>3186</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Varchild's Crusader</Name>
+<Type>Creature — Human Knight 3/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.</CardText>
+<Flavor>"Every patch of land must belong to Kjeldor, no matter what the cost!"
+—General Varchild</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>3185</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>122</No>
 <Name>Varchild's War-Riders</Name>
 <Type>Creature — Human Warrior 3/4</Type>
@@ -790,6 +2099,114 @@ Trample; rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until 
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Veteran's Voice</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Enchant creature you control
+Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.</CardText>
+<Flavor>"Good soldiers rely first upon their training, then upon their instincts." —King Darien of Kjeldor</Flavor>
+<Artist>Andi Rusu</Artist>
+<Multiverseid>3189</Multiverseid>
+<Rulings>2004/10/04: Is put into its owner's graveyard if you lose control of the creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Veteran's Voice</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Enchant creature you control
+Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.</CardText>
+<Flavor>"Teach by example. If your students do not survive, they were not worth the lesson."
+—General Varchild</Flavor>
+<Artist>Andi Rusu</Artist>
+<Multiverseid>3188</Multiverseid>
+<Rulings>2004/10/04: Is put into its owner's graveyard if you lose control of the creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Carrier Pigeons</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+When Carrier Pigeons enters the battlefield, draw a card at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"Birds know no borders! Why, then, should we?"
+—General Varchild, in a missive to King Darien of Kjeldor</Flavor>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>3191</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Carrier Pigeons</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+When Carrier Pigeons enters the battlefield, draw a card at the beginning of the next turn's upkeep.</CardText>
+<Flavor>"It's true I ask no fealty of the flocks—but surely we are more than mere beasts." —King Darien of Kjeldor, in a missive to General Varchild</Flavor>
+<Artist>Pat Morrissey</Artist>
+<Multiverseid>3190</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Errand of Duty</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Create a 1/1 white Knight creature token with banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Flavor>"Call every able sword to our side. Kjeldor will stand triumphant"
+—King Darien of Kjeldor</Flavor>
+<Artist>Julie Baroh</Artist>
+<Multiverseid>3193</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Errand of Duty</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Create a 1/1 white Knight creature token with banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Flavor>"May they speed to their task, for the Skyknights alone cannot hold Kjeldor safe."
+—Arna Kennerüd, Skycaptain</Flavor>
+<Artist>Julie Baroh</Artist>
+<Multiverseid>3192</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -866,6 +2283,47 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<Name>Kjeldoran Escort</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Flavor>"We willingly trade with Kjeldor, but the peace we build must come from both our lands."
+—Lovisa Coldeyes,
+Balduvian Chieftain</Flavor>
+<Artist>Bryon Wackwitz</Artist>
+<Multiverseid>3199</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Kjeldoran Escort</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Flavor>"The first caravan has passed safely through the Karplusan Mountains without incident, forging a trade route to Balduvia. Kjeld himself would never have believed it"
+—King Darien of Kjeldor</Flavor>
+<Artist>Bryon Wackwitz</Artist>
+<Multiverseid>3198</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>135</No>
 <Name>Kjeldoran Home Guard</Name>
 <Type>Creature — Human Soldier 1/6</Type>
@@ -879,6 +2337,178 @@ Juniper Order Advocate</Flavor>
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Kjeldoran Pride</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+2.
+{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>3201</Multiverseid>
+<Rulings>2004/10/04: The activated ability moves this card to a new permanent.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Kjeldoran Pride</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+2.
+{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>3202</Multiverseid>
+<Rulings>2004/10/04: The activated ability moves this card to a new permanent.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Martyrdom</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Until end of turn, target creature you control gains "{0}: The next 1 damage that would be dealt to target creature, planeswalker, or player this turn is dealt to this creature instead." Only you may activate this ability.</CardText>
+<Flavor>"Martyrs are cheaper than mercenaries, and a far better investment."
+—General Varchild</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>3203</Multiverseid>
+<Rulings>2004/10/04: If the target stops being a creature, you can't redirect damage to it until/unless it becomes a creature again.
+2004/10/04: If the target creature is not still on the battlefield when the damage is to be redirected, the damage stays where it is.
+2004/10/04: Can be used to redirect damage from that creature to itself. This has no particularly useful effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Martyrdom</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Until end of turn, target creature you control gains "{0}: The next 1 damage that would be dealt to target creature, planeswalker, or player this turn is dealt to this creature instead." Only you may activate this ability.</CardText>
+<Flavor>"The only true immortality is in dying for a cause."
+—Halvor Arensson, Kjeldoran Priest</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>3204</Multiverseid>
+<Rulings>2004/10/04: If the target stops being a creature, you can't redirect damage to it until/unless it becomes a creature again.
+2004/10/04: If the target creature is not still on the battlefield when the damage is to be redirected, the damage stays where it is.
+2004/10/04: Can be used to redirect damage from that creature to itself. This has no particularly useful effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Noble Steeds</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{1}{W}: Target creature gains first strike until end of turn.</CardText>
+<Flavor>"Only an animal born in the wild has sufficient heart to be a true Knight's steed."
+—King Darien of Kjeldor</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>3206</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Noble Steeds</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{1}{W}: Target creature gains first strike until end of turn.</CardText>
+<Flavor>"They are fighters as fine as any Knight they carry."
+—Arna Kennerüd, Skycaptain</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>3205</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Reinforcements</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Put up to three target creature cards from your graveyard on top of your library.</CardText>
+<Flavor>"Let them send their legions I will show them that my truth is stronger than their swords."
+—General Varchild</Flavor>
+<Artist>Diana Vick</Artist>
+<Multiverseid>3208</Multiverseid>
+<Rulings>2004/10/04: You have to show which creature cards you put on top of your library, but not the order you put them there.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Reinforcements</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Put up to three target creature cards from your graveyard on top of your library.</CardText>
+<Flavor>"We aided the Balduvians once before. They need but ask and we shall do so again."
+—King Darien of Kjeldor</Flavor>
+<Artist>Diana Vick</Artist>
+<Multiverseid>3207</Multiverseid>
+<Rulings>2004/10/04: You have to show which creature cards you put on top of your library, but not the order you put them there.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Reprisal</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target creature with power 4 or greater. It can't be regenerated.</CardText>
+<Flavor>"The meek shall fight as one, and they shall overcome even the greatest of foes."
+—Halvor Arensson, Kjeldoran Priest</Flavor>
+<Artist>Randy Asplund-Faith</Artist>
+<Multiverseid>3209</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Reprisal</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target creature with power 4 or greater. It can't be regenerated.</CardText>
+<Flavor>"Kjeldor's borders are secure, and its citizens are prepared to take up arms in defense of their families."
+—King Darien of Kjeldor</Flavor>
+<Artist>Randy Asplund-Faith</Artist>
+<Multiverseid>3210</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -897,6 +2527,38 @@ Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Ro
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Royal Herbalist</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{2}, Exile the top card of your library: You gain 1 life.</CardText>
+<Flavor>"Just as an Herbalist heals a wound, so must we heal the rift between Balduvia and Kjeldor."
+—King Darien of Kjeldor</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>3213</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Royal Herbalist</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{2}, Exile the top card of your library: You gain 1 life.</CardText>
+<Flavor>"It's not so easy anymore. Nothing grows in Kjeldor but seaweed."
+—Halvor Arensson, Kjeldoran Priest</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>3212</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -995,6 +2657,75 @@ Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 
 <Card>
 <SetId>AI</SetId>
+<Name>Wild Aesthir</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flying, first strike
+{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.</CardText>
+<Flavor>"High in the Karplusans, death is swift and razor-clawed."
+—Arna Kennerüd, Skycaptain</Flavor>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>3220</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Wild Aesthir</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flying, first strike
+{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.</CardText>
+<Flavor>"What Barbarian secrets do they spy from their lofty perch?"
+—General Varchild</Flavor>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>3219</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Aesthir Glider</Name>
+<Type>Artifact Creature — Bird Construct 2/1</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Flying
+Aesthir Glider can't block.</CardText>
+<Flavor>"Sacrilege A noble ally in life, made nothing more than a glorified kite in death"
+—Arna Kennerüd, Skycaptain</Flavor>
+<Artist>Ruth Thompson</Artist>
+<Multiverseid>3040</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Aesthir Glider</Name>
+<Type>Artifact Creature — Bird Construct 2/1</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Flying
+Aesthir Glider can't block.</CardText>
+<Flavor>"A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel."
+—Arcum Dagsson,
+Soldevi Machinist</Flavor>
+<Artist>Ruth Thompson</Artist>
+<Multiverseid>3041</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>158</No>
 <Name>Ashnod's Cylix</Name>
 <Type>Artifact</Type>
@@ -1009,6 +2740,34 @@ Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Astrolabe</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color. Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Artist>Amy Weber</Artist>
+<Multiverseid>3044</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Astrolabe</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color. Draw a card at the beginning of the next turn's upkeep.</CardText>
+<Artist>Amy Weber</Artist>
+<Multiverseid>3043</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -1154,6 +2913,39 @@ Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, 
 
 <Card>
 <SetId>AI</SetId>
+<Name>Phyrexian War Beast</Name>
+<Type>Artifact Creature — Beast 3/4</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.</CardText>
+<Flavor>"Deal with the spawn of Phyrexia cautiously; only with time may we control them."
+—Arcum Dagsson,
+Soldevi Machinist</Flavor>
+<Artist>Bill Sienkiewicz</Artist>
+<Multiverseid>3053</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Phyrexian War Beast</Name>
+<Type>Artifact Creature — Beast 3/4</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.</CardText>
+<Flavor>"Knowing its origins, how could they have thought they could control it?"
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Bill Sienkiewicz</Artist>
+<Multiverseid>3054</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
 <No>171</No>
 <Name>Scarab of the Unseen</Name>
 <Type>Artifact</Type>
@@ -1219,6 +3011,72 @@ Soldevi Machinist</Flavor>
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Sentry</Name>
+<Type>Artifact Creature — Soldier 1/1</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.</CardText>
+<Flavor>"A dreadful invention. What ease is there under the watchful eye of cold steel?"
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>3060</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Sentry</Name>
+<Type>Artifact Creature — Soldier 1/1</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.</CardText>
+<Flavor>"Our newfound security enables us to turn more of our attentions to the wonders that lie deep within the soil."
+—Arcum Dagsson,
+Soldevi Machinist</Flavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>3059</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Steam Beast</Name>
+<Type>Artifact Creature — Beast 4/2</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever Soldevi Steam Beast becomes tapped, target opponent gains 2 life.
+{2}: Regenerate Soldevi Steam Beast.</CardText>
+<Flavor>"Dagsson saw the steam as life-giving—until his followers felt its scalding touch."
+—Sorine Relicbane, Soldevi Heretic</Flavor>
+<Artist>Bill Sienkiewicz</Artist>
+<Multiverseid>3061</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AI</SetId>
+<Name>Soldevi Steam Beast</Name>
+<Type>Artifact Creature — Beast 4/2</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever Soldevi Steam Beast becomes tapped, target opponent gains 2 life.
+{2}: Regenerate Soldevi Steam Beast.</CardText>
+<Flavor>"Nothing has ever broken my heart so much as this—the betrayal of Soldev by my beloved machines"Arcum Dagsson, Soldevi Machinist</Flavor>
+<Artist>Bill Sienkiewicz</Artist>
+<Multiverseid>3062</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Alliances</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -1291,7 +3149,7 @@ Whenever a land is tapped for mana, return it to its owner's hand.</CardText>
 <Artist>Tom Wänerstrand</Artist>
 <Multiverseid>3231</Multiverseid>
 <Rulings>2004/10/04: You sacrifice the Mountain before this card is put onto the battlefield, and do so no matter how it is put onto the battlefield.
-2004/10/04: This card produces two different types of mana. If an effect that adds one mana to your mana pool of the same type as the mana produced by this card, you choose which of the two types it produces.</Rulings>
+2004/10/04: This card produces two different types of mana. If an effect that adds one mana of the same type as the mana produced by this card, you choose which of the two types it produces.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1397,7 +3255,7 @@ At the beginning of your upkeep, if you control three or fewer lands, you gain 1
 {1}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</CardText>
 <Artist>Liz Danforth</Artist>
 <Multiverseid>3237</Multiverseid>
-<Rulings>2004/10/04: This card produces two different types of mana. If an effect that adds one mana to your mana pool of the same type as the mana produced by this card, you choose which of the two types it produces.</Rulings>
+<Rulings>2004/10/04: This card produces two different types of mana. If an effect that adds one mana of the same type as the mana produced by this card, you choose which of the two types it produces.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1607,1863 +3465,5 @@ Target creature gains trample and gets +X/+0 until end of turn, where X is that 
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>
 <Rarity>Rare</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Aesthir Glider</Name>
-<Type>Artifact Creature — Bird Construct 2/1</Type>
-<ManaCost>3 (3)</ManaCost>
-<CardText>Flying
-Aesthir Glider can't block.</CardText>
-<Flavor>"Sacrilege A noble ally in life, made nothing more than a glorified kite in death"
-—Arna Kennerüd, Skycaptain</Flavor>
-<Artist>Ruth Thompson</Artist>
-<Multiverseid>3040</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Aesthir Glider</Name>
-<Type>Artifact Creature — Bird Construct 2/1</Type>
-<ManaCost>3 (3)</ManaCost>
-<CardText>Flying
-Aesthir Glider can't block.</CardText>
-<Flavor>"A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
-<Artist>Ruth Thompson</Artist>
-<Multiverseid>3041</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Astrolabe</Name>
-<Type>Artifact</Type>
-<ManaCost>3 (3)</ManaCost>
-<CardText>{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color. Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>Amy Weber</Artist>
-<Multiverseid>3043</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Astrolabe</Name>
-<Type>Artifact</Type>
-<ManaCost>3 (3)</ManaCost>
-<CardText>{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color. Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>Amy Weber</Artist>
-<Multiverseid>3044</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Phyrexian War Beast</Name>
-<Type>Artifact Creature — Beast 3/4</Type>
-<ManaCost>3 (3)</ManaCost>
-<CardText>When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.</CardText>
-<Flavor>"Deal with the spawn of Phyrexia cautiously; only with time may we control them."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
-<Artist>Bill Sienkiewicz</Artist>
-<Multiverseid>3053</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Phyrexian War Beast</Name>
-<Type>Artifact Creature — Beast 3/4</Type>
-<ManaCost>3 (3)</ManaCost>
-<CardText>When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.</CardText>
-<Flavor>"Knowing its origins, how could they have thought they could control it?"
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Bill Sienkiewicz</Artist>
-<Multiverseid>3054</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Sentry</Name>
-<Type>Artifact Creature — Soldier 1/1</Type>
-<ManaCost>1 (1)</ManaCost>
-<CardText>{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.</CardText>
-<Flavor>"Our newfound security enables us to turn more of our attentions to the wonders that lie deep within the soil."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
-<Artist>Alan Rabinowitz</Artist>
-<Multiverseid>3059</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Sentry</Name>
-<Type>Artifact Creature — Soldier 1/1</Type>
-<ManaCost>1 (1)</ManaCost>
-<CardText>{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.</CardText>
-<Flavor>"A dreadful invention. What ease is there under the watchful eye of cold steel?"
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Alan Rabinowitz</Artist>
-<Multiverseid>3060</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Steam Beast</Name>
-<Type>Artifact Creature — Beast 4/2</Type>
-<ManaCost>5 (5)</ManaCost>
-<CardText>Whenever Soldevi Steam Beast becomes tapped, target opponent gains 2 life.
-{2}: Regenerate Soldevi Steam Beast.</CardText>
-<Flavor>"Dagsson saw the steam as life-giving—until his followers felt its scalding touch."
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Bill Sienkiewicz</Artist>
-<Multiverseid>3061</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Steam Beast</Name>
-<Type>Artifact Creature — Beast 4/2</Type>
-<ManaCost>5 (5)</ManaCost>
-<CardText>Whenever Soldevi Steam Beast becomes tapped, target opponent gains 2 life.
-{2}: Regenerate Soldevi Steam Beast.</CardText>
-<Flavor>"Nothing has ever broken my heart so much as this—the betrayal of Soldev by my beloved machines"Arcum Dagsson, Soldevi Machinist</Flavor>
-<Artist>Bill Sienkiewicz</Artist>
-<Multiverseid>3062</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Casting of Bones</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Enchant creature
-When enchanted creature dies, draw three cards, then discard one of them.</CardText>
-<Flavor>"Only a necromancer would create such a foul form of divination."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>3067</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Casting of Bones</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Enchant creature
-When enchanted creature dies, draw three cards, then discard one of them.</CardText>
-<Flavor>"Whether whole or not, still we serve Lim-Dûl's wishes."
-—Chaeska, Keeper of Tresserhorn</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>3068</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Feast or Famine</Name>
-<Type>Instant</Type>
-<ManaCost>3B (4)</ManaCost>
-<CardText>Choose one —
-• Create a 2/2 black Zombie creature token.
-• Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
-<Flavor>"The living cannot understand the benefits of death."
-—Chaeska, Keeper of Tresserhorn</Flavor>
-<Artist>Pete Venters</Artist>
-<Multiverseid>3073</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Feast or Famine</Name>
-<Type>Instant</Type>
-<ManaCost>3B (4)</ManaCost>
-<CardText>Choose one —
-• Create a 2/2 black Zombie creature token.
-• Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
-<Flavor>"We are not yet free of Lim-Dûl's terrors."
-—Halvor Arensson, Kjeldoran Priest</Flavor>
-<Artist>Pete Venters</Artist>
-<Multiverseid>3074</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Fevered Strength</Name>
-<Type>Instant</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Target creature gets +2/+0 until end of turn.
-Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"The burst of strength brought on by this plague should not be mistaken for a sign of renewed health."
-—Kolbjörn, High Honored Druid</Flavor>
-<Artist>Brian Snõddy</Artist>
-<Multiverseid>3075</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Fevered Strength</Name>
-<Type>Instant</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Target creature gets +2/+0 until end of turn.
-Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"The fever clouds the mind as it energizes the body. Both will pass in time."
-—Halvor Arensson, Kjeldoran Priest</Flavor>
-<Artist>Brian Snõddy</Artist>
-<Multiverseid>3076</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Insidious Bookworms</Name>
-<Type>Creature — Worm 1/1</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random.</CardText>
-<Artist>Greg Simanson</Artist>
-<Multiverseid>3077</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Insidious Bookworms</Name>
-<Type>Creature — Worm 1/1</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random.</CardText>
-<Artist>Greg Simanson</Artist>
-<Multiverseid>3078</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Lim-Dûl's High Guard</Name>
-<Type>Creature — Skeleton 2/1</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>First strike
-{1}{B}: Regenerate Lim-Dûl's High Guard.</CardText>
-<Flavor>"Death does not prevent us from service to our absent master. As long as Tresserhorn stands, so shall we."
-—Chaeska, Keeper of Tresserhorn</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>3082</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Lim-Dûl's High Guard</Name>
-<Type>Creature — Skeleton 2/1</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>First strike
-{1}{B}: Regenerate Lim-Dûl's High Guard.</CardText>
-<Flavor>"The Guard will forever stand ready. For them, death is merely an inconvenience, not an ending." —Chaeska, Keeper of Tresserhorn</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>3083</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Phantasmal Fiend</Name>
-<Type>Creature — Illusion 1/5</Type>
-<ManaCost>3B (4)</ManaCost>
-<CardText>{B}: Phantasmal Fiend gets +1/-1 until end of turn.
-{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.</CardText>
-<Artist>Scott Kirschner</Artist>
-<Multiverseid>3085</Multiverseid>
-<Rulings>2005/11/01: Note that the wording "Effects that alter the creature's power alter its toughness instead, and vice versa, this turn" has been removed.
-2008/10/01: Effects that switch power and toughness are always applied last when determining a creature's power and toughness, even if other power/toughness-changing effects are created later in the turn. For example, if you activate <Phantasmal Fiend>'s first ability, it will become 2/4. Then if you activate its second ability, it will become 4/2. Then if you activate its first ability again, it will become 3/3.
-2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
-2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Phantasmal Fiend</Name>
-<Type>Creature — Illusion 1/5</Type>
-<ManaCost>3B (4)</ManaCost>
-<CardText>{B}: Phantasmal Fiend gets +1/-1 until end of turn.
-{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.</CardText>
-<Artist>Scott Kirschner</Artist>
-<Multiverseid>3086</Multiverseid>
-<Rulings>2005/11/01: Note that the wording "Effects that alter the creature's power alter its toughness instead, and vice versa, this turn" has been removed.
-2008/10/01: Effects that switch power and toughness are always applied last when determining a creature's power and toughness, even if other power/toughness-changing effects are created later in the turn. For example, if you activate <Phantasmal Fiend>'s first ability, it will become 2/4. Then if you activate its second ability, it will become 4/2. Then if you activate its first ability again, it will become 3/3.
-2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
-2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Phyrexian Boon</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.</CardText>
-<Flavor>"Dagsson should have paid attention to the lessons of Phyrexia before attempting to create a mechanical utopia."
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Mark Tedin</Artist>
-<Multiverseid>3087</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Phyrexian Boon</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.</CardText>
-<Flavor>"Phyrexia's touch is painful to all but the blackest of hearts."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
-<Artist>Mark Tedin</Artist>
-<Multiverseid>3088</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Adnate</Name>
-<Type>Creature — Human Cleric 1/2</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>{T}, Sacrifice a black or artifact creature: Add an amount of {B} equal to the sacrificed creature's converted mana cost.</CardText>
-<Flavor>"People love to follow fools; they don't feel so alone then."
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Christopher Rush</Artist>
-<Multiverseid>3090</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Adnate</Name>
-<Type>Creature — Human Cleric 1/2</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>{T}, Sacrifice a black or artifact creature: Add an amount of {B} equal to the sacrificed creature's converted mana cost.</CardText>
-<Flavor>"An idiot cannot hear sense, even when a thousand people speak it."
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Christopher Rush</Artist>
-<Multiverseid>3091</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Stench of Decay</Name>
-<Type>Instant</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>Nonartifact creatures get -1/-1 until end of turn.</CardText>
-<Flavor>"My lord, there is only so much I can do. This plague infests Krov worse than any other city."
-—Halvor Arensson, Kjeldoran Priest</Flavor>
-<Artist>Heather Hudson</Artist>
-<Multiverseid>3092</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Stench of Decay</Name>
-<Type>Instant</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>Nonartifact creatures get -1/-1 until end of turn.</CardText>
-<Flavor>"Disa is dead, and I am left. I shall allow no others to succumb to this pestilence."
-—Kolbjörn, High Honored Druid</Flavor>
-<Artist>Heather Hudson</Artist>
-<Multiverseid>3093</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Swamp Mosquito</Name>
-<Type>Creature — Insect 0/1</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>Flying
-Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</CardText>
-<Artist>Nicola Leonard</Artist>
-<Multiverseid>3095</Multiverseid>
-<Rulings>2004/10/04: Triggers immediately after blocking is declared if at that time no blockers are assigned to it.
-2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Swamp Mosquito</Name>
-<Type>Creature — Insect 0/1</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>Flying
-Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</CardText>
-<Artist>Nicola Leonard</Artist>
-<Multiverseid>3096</Multiverseid>
-<Rulings>2004/10/04: Triggers immediately after blocking is declared if at that time no blockers are assigned to it.
-2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Arcane Denial</Name>
-<Type>Instant</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
-You draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>Richard Kane Ferguson</Artist>
-<Multiverseid>3097</Multiverseid>
-<Rulings>2007/09/16: The controller of the countered spell doesn't choose how many cards to draw until the relevant ability resolves. The player may draw 0, 1, or 2 cards. They choose the number before drawing any cards.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Arcane Denial</Name>
-<Type>Instant</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
-You draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>Richard Kane Ferguson</Artist>
-<Multiverseid>3098</Multiverseid>
-<Rulings>2007/09/16: The controller of the countered spell doesn't choose how many cards to draw until the relevant ability resolves. The player may draw 0, 1, or 2 cards. They choose the number before drawing any cards.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Awesome Presence</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>U (1)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature can't be blocked unless defending player pays {3} for each creature they control that's blocking it.</CardText>
-<Flavor>"At the core of all power is raw passion."Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
-<Artist>Lawrence Snelly</Artist>
-<Multiverseid>3099</Multiverseid>
-<Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Awesome Presence</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>U (1)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature can't be blocked unless defending player pays {3} for each creature they control that's blocking it.</CardText>
-<Flavor>"I shape my weapons from the fears of my enemies."
-—Chaeska, Keeper of Tresserhorn</Flavor>
-<Artist>Lawrence Snelly</Artist>
-<Multiverseid>3100</Multiverseid>
-<Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Benthic Explorers</Name>
-<Type>Creature — Merfolk Scout 2/4</Type>
-<ManaCost>3U (4)</ManaCost>
-<CardText>{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce.</CardText>
-<Flavor>Distant Atlantis charged these Explorers with the task of venturing into unknown waters to track the despised Viscerids.</Flavor>
-<Artist>Greg Simanson</Artist>
-<Multiverseid>3101</Multiverseid>
-<Rulings>2004/10/04: This ability is not targeted any more.
-2009/10/01: Untapping a tapped land an opponent controls is part of the cost of <Benthic Explorers>'s ability. If no opponent controls a tapped land, the ability can't be activated.
-2009/10/01: The types of mana are white, blue, black, red, green, and colorless.
-2009/10/01: <Benthic Explorers> checks the effects of all mana-producing abilities of the land untapped to pay its cost, but it doesn't check the costs of those abilities. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If you untap a tapped Vivid Crag an opponent controls while paying for <Benthic Explorers>'s ability, you can add one mana of any color to your mana pool. It doesn't matter whether that Vivid Crag has a charge counter on it.
-2009/10/01: When determining what types of mana an opponent's land could produce, take into account any applicable replacement effects that would apply to that land's mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
-2009/10/01: <Benthic Explorers> doesn't care about any restrictions or riders an opponent's land (such as Ancient Ziggurat or Hall of the Bandit Lord) puts on the mana it produces. It just cares about types of mana.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Benthic Explorers</Name>
-<Type>Creature — Merfolk Scout 2/4</Type>
-<ManaCost>3U (4)</ManaCost>
-<CardText>{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce.</CardText>
-<Flavor>The rising oceans brought new lakes—and new terrors—to Terisiare. The Explorers found their ancient enemies spawning everywhere.</Flavor>
-<Artist>Greg Simanson</Artist>
-<Multiverseid>3102</Multiverseid>
-<Rulings>2004/10/04: This ability is not targeted any more.
-2009/10/01: Untapping a tapped land an opponent controls is part of the cost of <Benthic Explorers>'s ability. If no opponent controls a tapped land, the ability can't be activated.
-2009/10/01: The types of mana are white, blue, black, red, green, and colorless.
-2009/10/01: <Benthic Explorers> checks the effects of all mana-producing abilities of the land untapped to pay its cost, but it doesn't check the costs of those abilities. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If you untap a tapped Vivid Crag an opponent controls while paying for <Benthic Explorers>'s ability, you can add one mana of any color to your mana pool. It doesn't matter whether that Vivid Crag has a charge counter on it.
-2009/10/01: When determining what types of mana an opponent's land could produce, take into account any applicable replacement effects that would apply to that land's mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
-2009/10/01: <Benthic Explorers> doesn't care about any restrictions or riders an opponent's land (such as Ancient Ziggurat or Hall of the Bandit Lord) puts on the mana it produces. It just cares about types of mana.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>False Demise</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2U (3)</ManaCost>
-<CardText>Enchant creature
-When enchanted creature dies, return that card to the battlefield under your control.</CardText>
-<Flavor>"Fool Never believe they're dead until you see the body"
-—General Varchild</Flavor>
-<Artist>Randy Gallegos</Artist>
-<Multiverseid>3105</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>False Demise</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2U (3)</ManaCost>
-<CardText>Enchant creature
-When enchanted creature dies, return that card to the battlefield under your control.</CardText>
-<Flavor>"Far too many of our missing 'dead' seem to be turning up in Varchild's ranks"
-—King Darien of Kjeldor</Flavor>
-<Artist>Randy Gallegos</Artist>
-<Multiverseid>3106</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Foresight</Name>
-<Type>Sorcery</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Search your library for three cards, exile them, then shuffle your library.
-Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>Terese Nielsen</Artist>
-<Multiverseid>3108</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Foresight</Name>
-<Type>Sorcery</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Search your library for three cards, exile them, then shuffle your library.
-Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>Terese Nielsen</Artist>
-<Multiverseid>3109</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Lat-Nam's Legacy</Name>
-<Type>Instant</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"Lat-Nam has bequeathed us its secrets. With them we shall attain true enlightenment." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
-<Artist>Tom Wänerstrand</Artist>
-<Multiverseid>3110</Multiverseid>
-<Rulings>2008/10/01: Shuffling a card from your hand into your library is mandatory. The effect says "if you do" because performing that action might have been impossible. If you fail to shuffle a card into your library because your hand was empty, you won't draw any cards.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Lat-Nam's Legacy</Name>
-<Type>Instant</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"All the knowledge of Lat-Nam could not protect its sages from the Brothers' War." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
-<Artist>Tom Wänerstrand</Artist>
-<Multiverseid>3111</Multiverseid>
-<Rulings>2008/10/01: Shuffling a card from your hand into your library is mandatory. The effect says "if you do" because performing that action might have been impossible. If you fail to shuffle a card into your library because your hand was empty, you won't draw any cards.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Heretic</Name>
-<Type>Creature — Human Cleric 2/2</Type>
-<ManaCost>2U (3)</ManaCost>
-<CardText>{W}, {T}: Prevent the next 2 damage that would be dealt to target creature this turn. Target opponent may draw a card.</CardText>
-<Flavor>"It cannot be Soldev crushed, and my machines to blame?"
-—Arcum Dagsson, Soldevi Machinist</Flavor>
-<Artist>Mike Kimble</Artist>
-<Multiverseid>3114</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Heretic</Name>
-<Type>Creature — Human Cleric 2/2</Type>
-<ManaCost>2U (3)</ManaCost>
-<CardText>{W}, {T}: Prevent the next 2 damage that would be dealt to target creature this turn. Target opponent may draw a card.</CardText>
-<Flavor>"In the arms of tragedy, there is little comfort in being right."
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Mike Kimble</Artist>
-<Multiverseid>3115</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Sage</Name>
-<Type>Creature — Human Wizard 1/1</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>{T}, Sacrifice two lands: Draw three cards, then discard one of them.</CardText>
-<Flavor>"Our underground archives grow daily, as our excavators and sages alike dig to uncover hidden wonders."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
-<Artist>Carol Heyer</Artist>
-<Multiverseid>3116</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Soldevi Sage</Name>
-<Type>Creature — Human Wizard 1/1</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>{T}, Sacrifice two lands: Draw three cards, then discard one of them.</CardText>
-<Flavor>"To hide the truth is more than folly—it is fatal."
-—Sorine Relicbane, Soldevi Heretic</Flavor>
-<Artist>Carol Heyer</Artist>
-<Multiverseid>3117</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Storm Crow</Name>
-<Type>Creature — Bird 1/2</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
-<Flavor>"It tells you that the worst is coming. Do you listen?
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
-<Artist>Sandra Everingham</Artist>
-<Multiverseid>3119</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Storm Crow</Name>
-<Type>Creature — Bird 1/2</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
-<Flavor>"Watch for it Right on its tailfeathers will be a storm from your nightmares."
-—Arna Kennerüd, Skycaptain</Flavor>
-<Artist>Sandra Everingham</Artist>
-<Multiverseid>3120</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Viscerid Armor</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +1/+1.
-{1}{U}: Return Viscerid Armor to its owner's hand.</CardText>
-<Flavor>One Viscerid's death is often another's gain.</Flavor>
-<Artist>Heather Hudson</Artist>
-<Multiverseid>3125</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Viscerid Armor</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +1/+1.
-{1}{U}: Return Viscerid Armor to its owner's hand.</CardText>
-<Flavor>A fallen Viscerid's only tribute is to be worn by a comrade.</Flavor>
-<Artist>Heather Hudson</Artist>
-<Multiverseid>3126</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Deadly Insect</Name>
-<Type>Creature — Insect 6/1</Type>
-<ManaCost>4G (5)</ManaCost>
-<CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
-<Flavor>"Beautiful, indeed—but one sting could fell a Giant in a heartbeat."
-—Taaveti of Kelsinko,
-Elvish Hunter</Flavor>
-<Artist>Scott Kirschner</Artist>
-<Multiverseid>3129</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Deadly Insect</Name>
-<Type>Creature — Insect 6/1</Type>
-<ManaCost>4G (5)</ManaCost>
-<CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
-<Flavor>"There is no time for pain when this beast leaves its terrible sting."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
-<Artist>Scott Kirschner</Artist>
-<Multiverseid>3130</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Elvish Ranger</Name>
-<Type>Creature — Elf 4/1</Type>
-<ManaCost>2G (3)</ManaCost>
-<Flavor>"How can any Human hope to match our skills? We are children of Fyndhorn, and its sap runs in our veins."
-—Taaveti of Kelsinko,
-Elvish Hunter</Flavor>
-<Artist>Terese Nielsen</Artist>
-<Multiverseid>3132</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Elvish Ranger</Name>
-<Type>Creature — Elf 4/1</Type>
-<ManaCost>2G (3)</ManaCost>
-<Flavor>"No one may fault an Elvish Ranger's heart, but the simplest frailty may fell even the proudest warrior."
-—Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Terese Nielsen</Artist>
-<Multiverseid>3133</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Fyndhorn Druid</Name>
-<Type>Creature — Elf Druid 2/2</Type>
-<ManaCost>2G (3)</ManaCost>
-<CardText>When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.</CardText>
-<Flavor>"Honor those who honor Fyndhorn above themselves."
-—Kolbjörn, High Honored Druid</Flavor>
-<Artist>Rob Alexander</Artist>
-<Multiverseid>3135</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Fyndhorn Druid</Name>
-<Type>Creature — Elf Druid 2/2</Type>
-<ManaCost>2G (3)</ManaCost>
-<CardText>When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.</CardText>
-<Flavor>"All struggles ultimately require sacrifice. It's just that some sacrifices are dearer than others."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
-<Artist>Rob Alexander</Artist>
-<Multiverseid>3136</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gift of the Woods</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Enchant creature
-Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.</CardText>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>3138</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gift of the Woods</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Enchant creature
-Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.</CardText>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>3139</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla Berserkers</Name>
-<Type>Creature — Ape Berserker 2/3</Type>
-<ManaCost>3GG (5)</ManaCost>
-<CardText>Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
-Gorilla Berserkers can't be blocked except by three or more creatures.</CardText>
-<Flavor>"Their fury is their greatest weapon."
-—Taaveti of Kelsinko, Elvish Hunter</Flavor>
-<Artist>John Matson</Artist>
-<Multiverseid>3140</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla Berserkers</Name>
-<Type>Creature — Ape Berserker 2/3</Type>
-<ManaCost>3GG (5)</ManaCost>
-<CardText>Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
-Gorilla Berserkers can't be blocked except by three or more creatures.</CardText>
-<Flavor>"Beneath serenity may lie
-a hidden rage."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
-<Artist>John Matson</Artist>
-<Multiverseid>3141</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla Chieftain</Name>
-<Type>Creature — Ape 3/3</Type>
-<ManaCost>2GG (4)</ManaCost>
-<CardText>{1}{G}: Regenerate Gorilla Chieftain.</CardText>
-<Flavor>"In the soil of leadership sprout the seeds of immortality."
-—Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>3142</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla Chieftain</Name>
-<Type>Creature — Ape 3/3</Type>
-<ManaCost>2GG (4)</ManaCost>
-<CardText>{1}{G}: Regenerate Gorilla Chieftain.</CardText>
-<Flavor>"Oh, no—not you again?"
-—Jaya Ballard, Task Mage</Flavor>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>3143</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Taste of Paradise</Name>
-<Type>Sorcery</Type>
-<ManaCost>3G (4)</ManaCost>
-<CardText>As an additional cost to cast this spell, you may pay {1}{G} any number of times.
-You gain 3 life plus an additional 3 life for each additional {1}{G} you paid.</CardText>
-<Flavor>"There is, in each of us, the potential to heal and the gift of renewed life."
-—Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Lawrence Snelly</Artist>
-<Multiverseid>3149</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Taste of Paradise</Name>
-<Type>Sorcery</Type>
-<ManaCost>3G (4)</ManaCost>
-<CardText>As an additional cost to cast this spell, you may pay {1}{G} any number of times.
-You gain 3 life plus an additional 3 life for each additional {1}{G} you paid.</CardText>
-<Flavor>"Any who drink of Freyalise's bounty drink the mead of rebirth."
-—Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Lawrence Snelly</Artist>
-<Multiverseid>3150</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Undergrowth</Name>
-<Type>Instant</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>As an additional cost to cast this spell, you may pay {2}{R}.
-Prevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.</CardText>
-<Flavor>"It is the work of sorcery. Burn it!" —Taaveti of Kelsinko, Elvish Hunter</Flavor>
-<Artist>Pat Morrissey</Artist>
-<Multiverseid>3152</Multiverseid>
-<Rulings>2004/10/04: It means that red creatures still deal damage if you pay the additional cost.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Undergrowth</Name>
-<Type>Instant</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>As an additional cost to cast this spell, you may pay {2}{R}.
-Prevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.</CardText>
-<Flavor>"The art of war is turning obstacle to advantage." —Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
-<Artist>Pat Morrissey</Artist>
-<Multiverseid>3153</Multiverseid>
-<Rulings>2004/10/04: It means that red creatures still deal damage if you pay the additional cost.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Whip Vine</Name>
-<Type>Creature — Plant Wall 1/4</Type>
-<ManaCost>2G (3)</ManaCost>
-<CardText>Defender; reach (This creature can block creatures with flying.)
-You may choose not to untap Whip Vine during your untap step.
-{T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.</CardText>
-<Artist>L. A. Williams</Artist>
-<Multiverseid>3154</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Whip Vine</Name>
-<Type>Creature — Plant Wall 1/4</Type>
-<ManaCost>2G (3)</ManaCost>
-<CardText>Defender; reach (This creature can block creatures with flying.)
-You may choose not to untap Whip Vine during your untap step.
-{T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.</CardText>
-<Artist>L. A. Williams</Artist>
-<Multiverseid>3155</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Yavimaya Ancients</Name>
-<Type>Creature — Treefolk 2/7</Type>
-<ManaCost>3GG (5)</ManaCost>
-<CardText>{G}: Yavimaya Ancients gets +1/-2 until end of turn.</CardText>
-<Flavor>"The Ancients teach us that if we can but last, we shall prevail."
-—Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>3156</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Yavimaya Ancients</Name>
-<Type>Creature — Treefolk 2/7</Type>
-<ManaCost>3GG (5)</ManaCost>
-<CardText>{G}: Yavimaya Ancients gets +1/-2 until end of turn.</CardText>
-<Flavor>"We orphans of Fyndhorn have found no welcome in this alien place."
-—Taaveti of Kelsinko, Elvish Hunter</Flavor>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>3157</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Agent of Stromgald</Name>
-<Type>Creature — Human Knight 1/1</Type>
-<ManaCost>R (1)</ManaCost>
-<CardText>{R}: Add {B}.</CardText>
-<Flavor>"The Order of Stromgald spreads its poisonous lies from within Varchild's troops, and still she sees only visions of conquest."
-—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
-<Artist>Alan Rabinowitz</Artist>
-<Multiverseid>3159</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Agent of Stromgald</Name>
-<Type>Creature — Human Knight 1/1</Type>
-<ManaCost>R (1)</ManaCost>
-<CardText>{R}: Add {B}.</CardText>
-<Flavor>"The 'fabled' Order of Stromgald is cast to the four winds, lost for all time. I, for one, give them no thought."
-—General Varchild</Flavor>
-<Artist>Alan Rabinowitz</Artist>
-<Multiverseid>3160</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Balduvian War-Makers</Name>
-<Type>Creature — Human Barbarian 3/3</Type>
-<ManaCost>4R (5)</ManaCost>
-<CardText>Haste
-Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</CardText>
-<Flavor>"Those mewling Barbarians will cower before my righteous steel!"
-—General Varchild</Flavor>
-<Artist>Mike Kimble</Artist>
-<Multiverseid>3162</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Balduvian War-Makers</Name>
-<Type>Creature — Human Barbarian 3/3</Type>
-<ManaCost>4R (5)</ManaCost>
-<CardText>Haste
-Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</CardText>
-<Flavor>"We send our best to battle, but every man, woman, and child will stand against Varchild's butchers." —Lovisa Coldeyes, Balduvian Chieftain</Flavor>
-<Artist>Mike Kimble</Artist>
-<Multiverseid>3163</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Bestial Fury</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>Enchant creature
-When Bestial Fury enters the battlefield, draw a card at the beginning of the next turn's upkeep.
-Whenever enchanted creature becomes blocked, it gets +4/+0 and gains trample until end of turn.</CardText>
-<Artist>Mike Raabe</Artist>
-<Multiverseid>3164</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Bestial Fury</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>Enchant creature
-When Bestial Fury enters the battlefield, draw a card at the beginning of the next turn's upkeep.
-Whenever enchanted creature becomes blocked, it gets +4/+0 and gains trample until end of turn.</CardText>
-<Artist>Mike Raabe</Artist>
-<Multiverseid>3165</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Enslaved Scout</Name>
-<Type>Creature — Goblin Scout 2/2</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>{2}: Enslaved Scout gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)</CardText>
-<Flavor>"Her soldiers' hatred for the Goblins is tempered only by their need for what the Goblins alone hold: knowledge of their mountain home."
-—King Darien of Kjeldor</Flavor>
-<Artist>Rebecca Guay</Artist>
-<Multiverseid>3169</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Enslaved Scout</Name>
-<Type>Creature — Goblin Scout 2/2</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>{2}: Enslaved Scout gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)</CardText>
-<Flavor>"Even the basest creatures may serve a purpose. Still, their lives need be only as long as the paths we tread."
-—General Varchild</Flavor>
-<Artist>Rebecca Guay</Artist>
-<Multiverseid>3170</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla Shaman</Name>
-<Type>Creature — Ape Shaman 1/1</Type>
-<ManaCost>R (1)</ManaCost>
-<CardText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</CardText>
-<Flavor>"Frankly, destruction is best left to professionals."
-—Jaya Ballard, Task Mage</Flavor>
-<Artist>Anthony Waters</Artist>
-<Multiverseid>3171</Multiverseid>
-<Rulings>2008/10/01: A tip on how this math works: The cost to destroy a noncreature artifact with converted mana cost 0 is {0} + {0} + {1} = {1}. The cost to destroy a noncreature artifact with converted mana cost 1 is {1} + {1} + {1} = {3}. The cost to destroy a noncreature artifact with converted mana cost 2 is {2} + {2} + {1} = {5}. And so on.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla Shaman</Name>
-<Type>Creature — Ape Shaman 1/1</Type>
-<ManaCost>R (1)</ManaCost>
-<CardText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</CardText>
-<Flavor>"Each generation teaches the next that artifice is the enemy of natural order."
-—Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Anthony Waters</Artist>
-<Multiverseid>3172</Multiverseid>
-<Rulings>2008/10/01: A tip on how this math works: The cost to destroy a noncreature artifact with converted mana cost 0 is {0} + {0} + {1} = {1}. The cost to destroy a noncreature artifact with converted mana cost 1 is {1} + {1} + {1} = {3}. The cost to destroy a noncreature artifact with converted mana cost 2 is {2} + {2} + {1} = {5}. And so on.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla War Cry</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Cast this spell only during combat before blockers are declared.
-All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
-Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"The only 'art' these beasts possess is the art of noise!" —Jaya Ballard</Flavor>
-<Artist>Bryon Wackwitz</Artist>
-<Multiverseid>3173</Multiverseid>
-<Rulings>2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's before the beginning of that phase's Declare Blockers Step.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Gorilla War Cry</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Cast this spell only during combat before blockers are declared.
-All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
-Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"Theirs is the art of blood." —Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
-<Artist>Bryon Wackwitz</Artist>
-<Multiverseid>3174</Multiverseid>
-<Rulings>2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's before the beginning of that phase's Declare Blockers Step.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Guerrilla Tactics</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Guerrilla Tactics deals 2 damage to any target.
-When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to any target.</CardText>
-<Artist>Randy Asplund-Faith</Artist>
-<Multiverseid>3175</Multiverseid>
-<Rulings>2004/10/04: If it is discarded, the damage done by it is done by this card due to an ability and not by a spell.
-2004/10/04: The second ability will trigger even on an optional discard caused by an opponent.
-2004/10/04: Discarding as a cost to cast a spell will not trigger the ability. Only discarding as an effect will trigger the ability.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Guerrilla Tactics</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Guerrilla Tactics deals 2 damage to any target.
-When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to any target.</CardText>
-<Artist>Randy Asplund-Faith</Artist>
-<Multiverseid>3176</Multiverseid>
-<Rulings>2004/10/04: If it is discarded, the damage done by it is done by this card due to an ability and not by a spell.
-2004/10/04: The second ability will trigger even on an optional discard caused by an opponent.
-2004/10/04: Discarding as a cost to cast a spell will not trigger the ability. Only discarding as an effect will trigger the ability.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Storm Shaman</Name>
-<Type>Creature — Human Cleric Shaman 0/4</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>{R}: Storm Shaman gets +1/+0 until end of turn.</CardText>
-<Flavor>"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch"
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
-<Artist>Carol Heyer</Artist>
-<Multiverseid>3183</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Storm Shaman</Name>
-<Type>Creature — Human Cleric Shaman 0/4</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>{R}: Storm Shaman gets +1/+0 until end of turn.</CardText>
-<Flavor>"Let the lightning be your warning, and the thunder your battle cry."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
-<Artist>Carol Heyer</Artist>
-<Multiverseid>3184</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Varchild's Crusader</Name>
-<Type>Creature — Human Knight 3/2</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.</CardText>
-<Flavor>"Every patch of land must belong to Kjeldor, no matter what the cost!"
-—General Varchild</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>3185</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Varchild's Crusader</Name>
-<Type>Creature — Human Knight 3/2</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.</CardText>
-<Flavor>"We could have peace, but Varchild would rather have the maps of the new Kjeldor drawn in Balduvian blood." —King Darien of Kjeldor</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>3186</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Veteran's Voice</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>R (1)</ManaCost>
-<CardText>Enchant creature you control
-Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.</CardText>
-<Flavor>"Teach by example. If your students do not survive, they were not worth the lesson."
-—General Varchild</Flavor>
-<Artist>Andi Rusu</Artist>
-<Multiverseid>3188</Multiverseid>
-<Rulings>2004/10/04: Is put into its owner's graveyard if you lose control of the creature.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Veteran's Voice</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>R (1)</ManaCost>
-<CardText>Enchant creature you control
-Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.</CardText>
-<Flavor>"Good soldiers rely first upon their training, then upon their instincts." —King Darien of Kjeldor</Flavor>
-<Artist>Andi Rusu</Artist>
-<Multiverseid>3189</Multiverseid>
-<Rulings>2004/10/04: Is put into its owner's graveyard if you lose control of the creature.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Carrier Pigeons</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>3W (4)</ManaCost>
-<CardText>Flying
-When Carrier Pigeons enters the battlefield, draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"It's true I ask no fealty of the flocks—but surely we are more than mere beasts." —King Darien of Kjeldor, in a missive to General Varchild</Flavor>
-<Artist>Pat Morrissey</Artist>
-<Multiverseid>3190</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Carrier Pigeons</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>3W (4)</ManaCost>
-<CardText>Flying
-When Carrier Pigeons enters the battlefield, draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"Birds know no borders! Why, then, should we?"
-—General Varchild, in a missive to King Darien of Kjeldor</Flavor>
-<Artist>Pat Morrissey</Artist>
-<Multiverseid>3191</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Errand of Duty</Name>
-<Type>Instant</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Create a 1/1 white Knight creature token with banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
-<Flavor>"May they speed to their task, for the Skyknights alone cannot hold Kjeldor safe."
-—Arna Kennerüd, Skycaptain</Flavor>
-<Artist>Julie Baroh</Artist>
-<Multiverseid>3192</Multiverseid>
-<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
-2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
-2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
-2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Errand of Duty</Name>
-<Type>Instant</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Create a 1/1 white Knight creature token with banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
-<Flavor>"Call every able sword to our side. Kjeldor will stand triumphant"
-—King Darien of Kjeldor</Flavor>
-<Artist>Julie Baroh</Artist>
-<Multiverseid>3193</Multiverseid>
-<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
-2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
-2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
-2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Kjeldoran Escort</Name>
-<Type>Creature — Human Soldier 2/3</Type>
-<ManaCost>2WW (4)</ManaCost>
-<CardText>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
-<Flavor>"The first caravan has passed safely through the Karplusan Mountains without incident, forging a trade route to Balduvia. Kjeld himself would never have believed it"
-—King Darien of Kjeldor</Flavor>
-<Artist>Bryon Wackwitz</Artist>
-<Multiverseid>3198</Multiverseid>
-<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
-2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
-2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
-2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Kjeldoran Escort</Name>
-<Type>Creature — Human Soldier 2/3</Type>
-<ManaCost>2WW (4)</ManaCost>
-<CardText>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
-<Flavor>"We willingly trade with Kjeldor, but the peace we build must come from both our lands."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
-<Artist>Bryon Wackwitz</Artist>
-<Multiverseid>3199</Multiverseid>
-<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
-2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
-2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
-2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Kjeldoran Pride</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +1/+2.
-{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.</CardText>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>3201</Multiverseid>
-<Rulings>2004/10/04: The activated ability moves this card to a new permanent.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Kjeldoran Pride</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +1/+2.
-{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.</CardText>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>3202</Multiverseid>
-<Rulings>2004/10/04: The activated ability moves this card to a new permanent.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Martyrdom</Name>
-<Type>Instant</Type>
-<ManaCost>1WW (3)</ManaCost>
-<CardText>Until end of turn, target creature you control gains "{0}: The next 1 damage that would be dealt to target creature, planeswalker, or player this turn is dealt to this creature instead." Only you may activate this ability.</CardText>
-<Flavor>"Martyrs are cheaper than mercenaries, and a far better investment."
-—General Varchild</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>3203</Multiverseid>
-<Rulings>2004/10/04: If the target stops being a creature, you can't redirect damage to it until/unless it becomes a creature again.
-2004/10/04: If the target creature is not still on the battlefield when the damage is to be redirected, the damage stays where it is.
-2004/10/04: Can be used to redirect damage from that creature to itself. This has no particularly useful effect.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Martyrdom</Name>
-<Type>Instant</Type>
-<ManaCost>1WW (3)</ManaCost>
-<CardText>Until end of turn, target creature you control gains "{0}: The next 1 damage that would be dealt to target creature, planeswalker, or player this turn is dealt to this creature instead." Only you may activate this ability.</CardText>
-<Flavor>"The only true immortality is in dying for a cause."
-—Halvor Arensson, Kjeldoran Priest</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>3204</Multiverseid>
-<Rulings>2004/10/04: If the target stops being a creature, you can't redirect damage to it until/unless it becomes a creature again.
-2004/10/04: If the target creature is not still on the battlefield when the damage is to be redirected, the damage stays where it is.
-2004/10/04: Can be used to redirect damage from that creature to itself. This has no particularly useful effect.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Noble Steeds</Name>
-<Type>Enchantment</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>{1}{W}: Target creature gains first strike until end of turn.</CardText>
-<Flavor>"They are fighters as fine as any Knight they carry."
-—Arna Kennerüd, Skycaptain</Flavor>
-<Artist>Rebecca Guay</Artist>
-<Multiverseid>3205</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Noble Steeds</Name>
-<Type>Enchantment</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>{1}{W}: Target creature gains first strike until end of turn.</CardText>
-<Flavor>"Only an animal born in the wild has sufficient heart to be a true Knight's steed."
-—King Darien of Kjeldor</Flavor>
-<Artist>Rebecca Guay</Artist>
-<Multiverseid>3206</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Reinforcements</Name>
-<Type>Instant</Type>
-<ManaCost>W (1)</ManaCost>
-<CardText>Put up to three target creature cards from your graveyard on top of your library.</CardText>
-<Flavor>"We aided the Balduvians once before. They need but ask and we shall do so again."
-—King Darien of Kjeldor</Flavor>
-<Artist>Diana Vick</Artist>
-<Multiverseid>3207</Multiverseid>
-<Rulings>2004/10/04: You have to show which creature cards you put on top of your library, but not the order you put them there.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Reinforcements</Name>
-<Type>Instant</Type>
-<ManaCost>W (1)</ManaCost>
-<CardText>Put up to three target creature cards from your graveyard on top of your library.</CardText>
-<Flavor>"Let them send their legions I will show them that my truth is stronger than their swords."
-—General Varchild</Flavor>
-<Artist>Diana Vick</Artist>
-<Multiverseid>3208</Multiverseid>
-<Rulings>2004/10/04: You have to show which creature cards you put on top of your library, but not the order you put them there.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Reprisal</Name>
-<Type>Instant</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Destroy target creature with power 4 or greater. It can't be regenerated.</CardText>
-<Flavor>"The meek shall fight as one, and they shall overcome even the greatest of foes."
-—Halvor Arensson, Kjeldoran Priest</Flavor>
-<Artist>Randy Asplund-Faith</Artist>
-<Multiverseid>3209</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Reprisal</Name>
-<Type>Instant</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Destroy target creature with power 4 or greater. It can't be regenerated.</CardText>
-<Flavor>"Kjeldor's borders are secure, and its citizens are prepared to take up arms in defense of their families."
-—King Darien of Kjeldor</Flavor>
-<Artist>Randy Asplund-Faith</Artist>
-<Multiverseid>3210</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Royal Herbalist</Name>
-<Type>Creature — Human Cleric 1/1</Type>
-<ManaCost>W (1)</ManaCost>
-<CardText>{2}, Exile the top card of your library: You gain 1 life.</CardText>
-<Flavor>"It's not so easy anymore. Nothing grows in Kjeldor but seaweed."
-—Halvor Arensson, Kjeldoran Priest</Flavor>
-<Artist>Douglas Shuler</Artist>
-<Multiverseid>3212</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Royal Herbalist</Name>
-<Type>Creature — Human Cleric 1/1</Type>
-<ManaCost>W (1)</ManaCost>
-<CardText>{2}, Exile the top card of your library: You gain 1 life.</CardText>
-<Flavor>"Just as an Herbalist heals a wound, so must we heal the rift between Balduvia and Kjeldor."
-—King Darien of Kjeldor</Flavor>
-<Artist>Douglas Shuler</Artist>
-<Multiverseid>3213</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Wild Aesthir</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>Flying, first strike
-{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.</CardText>
-<Flavor>"What Barbarian secrets do they spy from their lofty perch?"
-—General Varchild</Flavor>
-<Artist>Greg Simanson</Artist>
-<Multiverseid>3219</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AI</SetId>
-<Name>Wild Aesthir</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>Flying, first strike
-{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.</CardText>
-<Flavor>"High in the Karplusans, death is swift and razor-clawed."
-—Arna Kennerüd, Skycaptain</Flavor>
-<Artist>Greg Simanson</Artist>
-<Multiverseid>3220</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Alliances</Set>
-<Rarity>Common</Rarity>
 </Card>
 

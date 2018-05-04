@@ -2467,11 +2467,11 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Plains</Name>
-<Type>Basic Land — Plains</Type>
-<CardText>({T}: Add {W}.)</CardText>
-<Artist>Fred Fields</Artist>
-<Multiverseid>8354</Multiverseid>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>8409</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2481,11 +2481,11 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Plains</Name>
-<Type>Basic Land — Plains</Type>
-<CardText>({T}: Add {W}.)</CardText>
-<Artist>Fred Fields</Artist>
-<Multiverseid>8374</Multiverseid>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>8410</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2495,11 +2495,11 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Plains</Name>
-<Type>Basic Land — Plains</Type>
-<CardText>({T}: Add {W}.)</CardText>
-<Artist>Fred Fields</Artist>
-<Multiverseid>8380</Multiverseid>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>8408</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2551,48 +2551,6 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Swamp</Name>
-<Type>Basic Land — Swamp</Type>
-<CardText>({T}: Add {B}.)</CardText>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>8392</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Portal Second Age</Set>
-<Rarity>Land</Rarity>
-</Card>
-
-<Card>
-<SetId>PO2</SetId>
-<Name>Swamp</Name>
-<Type>Basic Land — Swamp</Type>
-<CardText>({T}: Add {B}.)</CardText>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>8393</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Portal Second Age</Set>
-<Rarity>Land</Rarity>
-</Card>
-
-<Card>
-<SetId>PO2</SetId>
-<Name>Swamp</Name>
-<Type>Basic Land — Swamp</Type>
-<CardText>({T}: Add {B}.)</CardText>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>8394</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Portal Second Age</Set>
-<Rarity>Land</Rarity>
-</Card>
-
-<Card>
-<SetId>PO2</SetId>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -2635,11 +2593,11 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Forest</Name>
-<Type>Basic Land — Forest</Type>
-<CardText>({T}: Add {G}.)</CardText>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>8408</Multiverseid>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Fred Fields</Artist>
+<Multiverseid>8380</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2649,11 +2607,11 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Forest</Name>
-<Type>Basic Land — Forest</Type>
-<CardText>({T}: Add {G}.)</CardText>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>8409</Multiverseid>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Fred Fields</Artist>
+<Multiverseid>8374</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2663,11 +2621,53 @@ Creatures you control get +2/+2 until end of turn.</CardText>
 
 <Card>
 <SetId>PO2</SetId>
-<Name>Forest</Name>
-<Type>Basic Land — Forest</Type>
-<CardText>({T}: Add {G}.)</CardText>
-<Artist>Quinton Hoover</Artist>
-<Multiverseid>8410</Multiverseid>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Fred Fields</Artist>
+<Multiverseid>8354</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Portal Second Age</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PO2</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>8394</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Portal Second Age</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PO2</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>8392</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Portal Second Age</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PO2</SetId>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>8393</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

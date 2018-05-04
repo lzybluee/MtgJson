@@ -2512,7 +2512,7 @@ When Jeering Instigator is turned face up, if it's your turn, gain control of an
 <Artist>Yefim Kligerman</Artist>
 <Watermark>Mardu</Watermark>
 <Multiverseid>386599</Multiverseid>
-<Rulings>2014/09/20: <Mardu Warshrieker>'s raid ability isn't a mana ability even though it adds mana to your mana pool. It uses the stack and can be responded to.
+<Rulings>2014/09/20: <Mardu Warshrieker>'s raid ability isn't a mana ability even though it adds mana. It uses the stack and can be responded to.
 2018/01/19: Raid abilities care only that you attacked with a creature. It doesn't matter how many creatures you attacked with, or which opponent or planeswalker controlled by an opponent those creatures attacked.
 2018/01/19: Raid abilities evaluate the entire turn to see if you attacked with a creature. That creature doesn't have to still be on the battlefield. Similarly, the player or planeswalker it attacked doesn't have to still be in the game or on the battlefield, respectively.</Rulings>
 <Vintage>Legal</Vintage>
@@ -5206,7 +5206,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>Noah Bradley</Artist>
-<Watermark>White</Watermark>
 <Multiverseid>386624</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5222,7 +5221,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>Sam Burley</Artist>
-<Watermark>White</Watermark>
 <Multiverseid>386625</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5238,7 +5236,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>Sam Burley</Artist>
-<Watermark>White</Watermark>
 <Multiverseid>386623</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5254,7 +5251,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
 <Artist>Florian de Gesincourt</Artist>
-<Watermark>White</Watermark>
 <Multiverseid>386626</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5270,7 +5266,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>Florian de Gesincourt</Artist>
-<Watermark>Blue</Watermark>
 <Multiverseid>386565</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5286,7 +5281,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>Florian de Gesincourt</Artist>
-<Watermark>Blue</Watermark>
 <Multiverseid>386566</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5302,7 +5296,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>Titus Lunter</Artist>
-<Watermark>Blue</Watermark>
 <Multiverseid>386567</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5318,7 +5311,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
 <Artist>Adam Paquette</Artist>
-<Watermark>Blue</Watermark>
 <Multiverseid>386568</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5334,7 +5326,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>Noah Bradley</Artist>
-<Watermark>Black</Watermark>
 <Multiverseid>386685</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5350,7 +5341,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>Sam Burley</Artist>
-<Watermark>Black</Watermark>
 <Multiverseid>386686</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5366,7 +5356,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>Adam Paquette</Artist>
-<Watermark>Black</Watermark>
 <Multiverseid>386683</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5382,7 +5371,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
 <Artist>Adam Paquette</Artist>
-<Watermark>Black</Watermark>
 <Multiverseid>386684</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5398,7 +5386,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>Noah Bradley</Artist>
-<Watermark>Red</Watermark>
 <Multiverseid>386612</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5414,7 +5401,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>Noah Bradley</Artist>
-<Watermark>Red</Watermark>
 <Multiverseid>386611</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5430,7 +5416,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>Florian de Gesincourt</Artist>
-<Watermark>Red</Watermark>
 <Multiverseid>386609</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5446,7 +5431,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
 <Artist>Titus Lunter</Artist>
-<Watermark>Red</Watermark>
 <Multiverseid>386610</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5462,7 +5446,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Sam Burley</Artist>
-<Watermark>Green</Watermark>
 <Multiverseid>386542</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5478,7 +5461,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Titus Lunter</Artist>
-<Watermark>Green</Watermark>
 <Multiverseid>386540</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5494,7 +5476,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Titus Lunter</Artist>
-<Watermark>Green</Watermark>
 <Multiverseid>386541</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5510,7 +5491,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
 <Artist>Adam Paquette</Artist>
-<Watermark>Green</Watermark>
 <Multiverseid>386543</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

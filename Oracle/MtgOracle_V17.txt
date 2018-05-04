@@ -216,27 +216,6 @@ Your opponents can't cast spells with converted mana cost 3 or less.</CardText>
 
 <Card>
 <SetId>V17</SetId>
-<No>5b</No>
-<Name>Brisela, Voice of Nightmares</Name>
-<Type>Legendary Creature — Eldrazi Angel 9/10</Type>
-<CardText>Flying, first strike, vigilance, lifelink
-Your opponents can't cast spells with converted mana cost 3 or less.</CardText>
-<Flavor>Upon discovering what had become of her sisters, Sigarda could only weep.</Flavor>
-<Artist>Clint Cearley</Artist>
-<Multiverseid>439323</Multiverseid>
-<Rulings>2016/07/13: Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast.
-2016/07/13: For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2.
-2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics).</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>From the Vault: Transform</Set>
-<Rarity>Mythic Rare</Rarity>
-<OtherPart>Bruna, the Fading Light</OtherPart>
-</Card>
-
-<Card>
-<SetId>V17</SetId>
 <No>6a</No>
 <Name>Chandra, Fire of Kaladesh</Name>
 <Type>Legendary Creature — Human Shaman 2/2</Type>
@@ -433,6 +412,27 @@ At the beginning of your end step, if you both own and control Gisela, the Broke
 <Set>From the Vault: Transform</Set>
 <Rarity>Mythic Rare</Rarity>
 <OtherPart>Brisela, Voice of Nightmares</OtherPart>
+</Card>
+
+<Card>
+<SetId>V17</SetId>
+<No>5b</No>
+<Name>Brisela, Voice of Nightmares</Name>
+<Type>Legendary Creature — Eldrazi Angel 9/10</Type>
+<CardText>Flying, first strike, vigilance, lifelink
+Your opponents can't cast spells with converted mana cost 3 or less.</CardText>
+<Flavor>Upon discovering what had become of her sisters, Sigarda could only weep.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Multiverseid>439323</Multiverseid>
+<Rulings>2016/07/13: Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast.
+2016/07/13: For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>From the Vault: Transform</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Bruna, the Fading Light</OtherPart>
 </Card>
 
 <Card>

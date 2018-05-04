@@ -3802,27 +3802,6 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 
 <Card>
 <SetId>US</SetId>
-<No>214</No>
-<Name>Shiv's Embrace</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>2RR (4)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +2/+2 and has flying.
-{R}: Enchanted creature gets +1/+0 until end of turn.</CardText>
-<Flavor>"Wear the foe's form to best it in battle. So sayeth the bey."</Flavor>
-<Artist>Bob Eggleton</Artist>
-<Multiverseid>5721</Multiverseid>
-<Rulings>2010/08/15: Only <Shiv's Embrace>'s controller (who is not necessarily the enchanted creature's controller) can activate its activated ability.
-2010/08/15: When <Shiv's Embrace>'s activated ability resolves, the creature <Shiv's Embrace> is enchanting at that time will get +1/+0 (regardless of what creature <Shiv's Embrace> was enchanting when the ability was activated). If <Shiv's Embrace> has left the battlefield by then, the creature it was enchanting at the time it left the battlefield will get +1/+0.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Urza's Saga</Set>
-<Rarity>Uncommon</Rarity>
-</Card>
-
-<Card>
-<SetId>US</SetId>
 <No>215</No>
 <Name>Shivan Hellkite</Name>
 <Type>Creature — Dragon 5/5</Type>
@@ -3851,6 +3830,27 @@ Echo {2}{R} (At the beginning of your upkeep, if this came under your control si
 <Multiverseid>5562</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Set>Urza's Saga</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>US</SetId>
+<No>214</No>
+<Name>Shiv's Embrace</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+{R}: Enchanted creature gets +1/+0 until end of turn.</CardText>
+<Flavor>"Wear the foe's form to best it in battle. So sayeth the bey."</Flavor>
+<Artist>Bob Eggleton</Artist>
+<Multiverseid>5721</Multiverseid>
+<Rulings>2010/08/15: Only <Shiv's Embrace>'s controller (who is not necessarily the enchanted creature's controller) can activate its activated ability.
+2010/08/15: When <Shiv's Embrace>'s activated ability resolves, the creature <Shiv's Embrace> is enchanting at that time will get +1/+0 (regardless of what creature <Shiv's Embrace> was enchanting when the ability was activated). If <Shiv's Embrace> has left the battlefield by then, the creature it was enchanting at the time it left the battlefield will get +1/+0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Urza's Saga</Set>
 <Rarity>Uncommon</Rarity>
 </Card>

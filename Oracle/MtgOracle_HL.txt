@@ -59,6 +59,40 @@ Sacrifice a creature: Untap Black Carriage. Activate this ability only during yo
 
 <Card>
 <SetId>HL</SetId>
+<Name>Cemetery Gate</Name>
+<Type>Creature — Wall 0/5</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Protection from black</CardText>
+<Flavor>"It keeps some out, yes. It also keeps others in"
+—Grandmother Sengir</Flavor>
+<Artist>Melissa A. Benson</Artist>
+<Multiverseid>2913</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Cemetery Gate</Name>
+<Type>Creature — Wall 0/5</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Protection from black</CardText>
+<Flavor>"Just the place for a picnic."
+—Murat, Death Speaker</Flavor>
+<Artist>Melissa A. Benson</Artist>
+<Multiverseid>2914</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>6</No>
 <Name>Drudge Spell</Name>
 <Type>Enchantment</Type>
@@ -74,6 +108,72 @@ When Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can'
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Dry Spell</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Dry Spell deals 1 damage to each creature and each player.</CardText>
+<Flavor>"Wherever water is lacking, all things suffer."
+—Autumn Willow</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>2916</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Dry Spell</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Dry Spell deals 1 damage to each creature and each player.</CardText>
+<Flavor>"My soul thirsts for Serra's salvation, as does my body for life's breath."
+—Ihsan's Shade</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>2917</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Feast of the Unicorn</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +4/+0.</CardText>
+<Flavor>"Some delicacies are not to be savored, save by the callous."
+—Baron Sengir</Flavor>
+<Artist>Dennis Detwiller</Artist>
+<Multiverseid>2918</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Feast of the Unicorn</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +4/+0.</CardText>
+<Flavor>"Could there be a fouler act? No doubt the Baron knows of one."
+—Autumn Willow</Flavor>
+<Artist>Dennis Detwiller</Artist>
+<Multiverseid>2919</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -240,6 +340,40 @@ When Sengir Autocrat leaves the battlefield, exile all Serf tokens.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<Name>Sengir Bats</Name>
+<Type>Creature — Bat 1/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying
+Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 counter on Sengir Bats.</CardText>
+<Flavor>"They are the eyes of the Baron, and they know your fears."
+—Ihsan's Shade</Flavor>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>2930</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Sengir Bats</Name>
+<Type>Creature — Bat 1/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying
+Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 counter on Sengir Bats.</CardText>
+<Flavor>"In the face of every one I see the Baron."
+—Daria</Flavor>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>2929</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>22</No>
 <Name>Timmerian Fiends</Name>
 <Type>Creature — Horror 1/1</Type>
@@ -254,6 +388,44 @@ When Sengir Autocrat leaves the battlefield, exile all Serf tokens.</CardText>
 <Legacy>Banned</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Torture</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Enchant creature
+{1}{B}: Put a -1/-1 counter on enchanted creature.</CardText>
+<Flavor>"Oh, they scream, right enough, and plead, too—but the Baron keeps no mercy in his vault of horrors."
+—Zeki, Reef Pirate</Flavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>2932</Multiverseid>
+<Rulings>2008/05/01: The -1/-1 counters that are put on the enchanted creature are independent of <Torture>. If <Torture> leaves the battlefield or is moved to another creature, the counters will stay put.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Torture</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Enchant creature
+{1}{B}: Put a -1/-1 counter on enchanted creature.</CardText>
+<Flavor>"It helps you pass the time until you die."
+—Grandmother Sengir</Flavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>2933</Multiverseid>
+<Rulings>2008/05/01: The -1/-1 counters that are put on the enchanted creature are independent of <Torture>. If <Torture> leaves the battlefield or is moved to another creature, the counters will stay put.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -354,6 +526,40 @@ Sacrifice an Island: Put two polyp counters on Coral Reef.
 
 <Card>
 <SetId>HL</SetId>
+<Name>Dark Maze</Name>
+<Type>Creature — Wall 4/5</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+{0}: Dark Maze can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.</CardText>
+<Flavor>"The path of faith is fortunately fraught with failure."
+—Irini Sengir</Flavor>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>2940</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Dark Maze</Name>
+<Type>Creature — Wall 4/5</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+{0}: Dark Maze can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.</CardText>
+<Flavor>"Stray not into the path of darkness, or be lost forever."
+—Baki, Wizard Attendant</Flavor>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>2939</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>32</No>
 <Name>Forget</Name>
 <Type>Sorcery</Type>
@@ -365,6 +571,42 @@ Sacrifice an Island: Put two polyp counters on Coral Reef.
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Giant Albatross</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</CardText>
+<Artist>David A. Cherry</Artist>
+<Multiverseid>2942</Multiverseid>
+<Rulings>2004/10/04: The ability works no matter how it goes to the graveyard from the battlefield. It seeks out all creatures that damaged it during the turn and causes them to be destroyed.
+2004/10/04: The ability works even if the damage is redirected to the Albatross.
+2004/10/04: The ability is a triggered ability and is only put on the stack once just after this card goes to the graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Giant Albatross</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</CardText>
+<Artist>David A. Cherry</Artist>
+<Multiverseid>2943</Multiverseid>
+<Rulings>2004/10/04: The ability works no matter how it goes to the graveyard from the battlefield. It seeks out all creatures that damaged it during the turn and causes them to be destroyed.
+2004/10/04: The ability works even if the damage is redirected to the Albatross.
+2004/10/04: The ability is a triggered ability and is only put on the stack once just after this card goes to the graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -408,6 +650,42 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<Name>Labyrinth Minotaur</Name>
+<Type>Creature — Minotaur 1/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</CardText>
+<Flavor>"Legend says they got a treasure cave, but it don't say where to find it."
+—Zeki, Reef Pirate</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2946</Multiverseid>
+<Rulings>2009/10/01: If the creature <Labyrinth Minotaur> blocked is untapped at the time its controller's next untap step begins, this ability has no effect. It won't apply at some later time when that creature is tapped.
+2009/10/01: <Labyrinth Minotaur> doesn't track the creature's controller. If the affected creature changes controllers before its old controller's next untap step, this ability will prevent it from being untapped during its new controller's next untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Labyrinth Minotaur</Name>
+<Type>Creature — Minotaur 1/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</CardText>
+<Flavor>"I doubt any Labyrinth Minotaurs still live—but then again, we Minotaurs are stubborn beings."
+—Onatah, Anaba Shaman</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2947</Multiverseid>
+<Rulings>2009/10/01: If the creature <Labyrinth Minotaur> blocked is untapped at the time its controller's next untap step begins, this ability has no effect. It won't apply at some later time when that creature is tapped.
+2009/10/01: <Labyrinth Minotaur> doesn't track the creature's controller. If the affected creature changes controllers before its old controller's next untap step, this ability will prevent it from being untapped during its new controller's next untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>39</No>
 <Name>Marjhan</Name>
 <Type>Creature — Serpent 8/8</Type>
@@ -425,6 +703,40 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Memory Lapse</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</CardText>
+<Flavor>"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it."
+—Chandler</Flavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>2950</Multiverseid>
+<Rulings>2016/06/08: <Memory Lapse> has a self-replacement effect that replaces the spell going to the graveyard before any other effect can replace that event. If the spell was cast using flashback, however, flashback will change the spell's destination from its owner's library to exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Memory Lapse</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</CardText>
+<Flavor>"Um . . . oh . . . what was I saying?"
+—Reveka, Wizard Savant</Flavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>2949</Multiverseid>
+<Rulings>2016/06/08: <Memory Lapse> has a self-replacement effect that replaces the spell going to the graveyard before any other effect can replace that event. If the spell was cast using flashback, however, flashback will change the spell's destination from its owner's library to exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -481,6 +793,38 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Reef Pirates</Name>
+<Type>Creature — Zombie Pirate 2/2</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of their library into their graveyard.</CardText>
+<Flavor>"Zeki sails with a dead crew not out of villainy, but pragmatism."
+—Baron Sengir</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>2954</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Reef Pirates</Name>
+<Type>Creature — Zombie Pirate 2/2</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of their library into their graveyard.</CardText>
+<Flavor>"Corpses for crew don't sit well with me. Zeki and his dead ship had best keep their distance."
+—Joskun, An-Havva Constable</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>2955</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -611,6 +955,44 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<Name>Carapace</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +0/+2.
+Sacrifice Carapace: Regenerate enchanted creature.</CardText>
+<Flavor>"The tougher to crack, the sweeter the snack."
+—Kakra, Sea Troll</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2963</Multiverseid>
+<Rulings>2004/10/04: This leaves the battlefield when you activate its activated ability, but the enchanted creature won't be regenerated until the ability resolves. In the intervening time, the creature will no longer have the bonus that this had been giving it. This may cause the creature to be destroyed before the regeneration shield is created.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Carapace</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +0/+2.
+Sacrifice Carapace: Regenerate enchanted creature.</CardText>
+<Flavor>"Now, that's a fashion statement."
+—Devin, Faerie Noble</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2964</Multiverseid>
+<Rulings>2004/10/04: This leaves the battlefield when you activate its activated ability, but the enchanted creature won't be regenerated until the ability resolves. In the intervening time, the creature will no longer have the bonus that this had been giving it. This may cause the creature to be destroyed before the regeneration shield is created.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>56</No>
 <Name>Daughter of Autumn</Name>
 <Type>Legendary Creature — Avatar 2/4</Type>
@@ -645,6 +1027,70 @@ Other Faerie creatures you control get +0/+1.
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Folk of An-Havva</Name>
+<Type>Creature — Human 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</CardText>
+<Flavor>"This town's only for good folk. The rest can go to the city."
+—Joskun, An-Havva Constable</Flavor>
+<Artist>Julie Baroh</Artist>
+<Multiverseid>2968</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Folk of An-Havva</Name>
+<Type>Creature — Human 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</CardText>
+<Flavor>"There are those who accept being told what to do, what to think, and what to say. Then there are the Folk of An-Havva."
+—Reyhan, Samite Alchemist</Flavor>
+<Artist>Julie Baroh</Artist>
+<Multiverseid>2967</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Hungry Mist</Name>
+<Type>Creature — Elemental 6/2</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</CardText>
+<Flavor>"All things must eat, after all. Even the air can hunger."
+—Gemma, Willow Priestess</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>2969</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Hungry Mist</Name>
+<Type>Creature — Elemental 6/2</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</CardText>
+<Flavor>"If the air must feed, let it take the self-righteous."
+—Murat, Death Speaker</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>2970</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -791,6 +1237,38 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<Name>Shrink</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Target creature gets -5/-0 until end of turn.</CardText>
+<Flavor>"The smallest beast can yet have the greatest heart."
+—Gemma, Willow Priestess</Flavor>
+<Artist>Liz Danforth</Artist>
+<Multiverseid>2979</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Shrink</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Target creature gets -5/-0 until end of turn.</CardText>
+<Flavor>"Do not fear adversity. Let your courage be your strength."
+—Onatah, Anaba Shaman</Flavor>
+<Artist>Liz Danforth</Artist>
+<Multiverseid>2980</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>72</No>
 <Name>Spectral Bears</Name>
 <Type>Creature — Bear Spirit 3/3</Type>
@@ -804,6 +1282,38 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Willow Faerie</Name>
+<Type>Creature — Faerie 1/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"The Autumn Willow cannot be everywhere at once—that's what her grandchildren are for."
+—Gulsen, Abbey Matron</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>2982</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Willow Faerie</Name>
+<Type>Creature — Faerie 1/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"Swift as the wind and harder to catch— that's the Faeries for you."
+—Daria</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>2983</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -828,6 +1338,38 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<Name>Aliban's Tower</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Target blocking creature gets +3/+1 until end of turn.</CardText>
+<Flavor>"Those who hide in hollow towers would do well to remember the rain."
+—Reyhan, Samite Alchemist</Flavor>
+<Artist>Jeff A. Menges</Artist>
+<Multiverseid>2986</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Aliban's Tower</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Target blocking creature gets +3/+1 until end of turn.</CardText>
+<Flavor>"The people of Aysen built their roads with stones from these wonders. Aliban would be pleased with their ingenuity."
+—Baki, Wizard Attendant</Flavor>
+<Artist>Jeff A. Menges</Artist>
+<Multiverseid>2985</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>78</No>
 <Name>Ambush</Name>
 <Type>Instant</Type>
@@ -837,6 +1379,38 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 —Joskun, An-Havva Constable</Flavor>
 <Artist>Alan Rabinowitz</Artist>
 <Multiverseid>2987</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Ambush Party</Name>
+<Type>Creature — Human Rogue 3/1</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>First strike, haste</CardText>
+<Flavor>"Call it a cost of doing business. The best way to protect against thieves is to hire better thieves."
+—Eron the Relentless</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>2989</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Ambush Party</Name>
+<Type>Creature — Human Rogue 3/1</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>First strike, haste</CardText>
+<Flavor>"The roads to Koskun Keep are mostly safe these days. Mostly."
+—Joskun, An-Havva Constable</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>2988</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
@@ -859,6 +1433,74 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Anaba Bodyguard</Name>
+<Type>Creature — Minotaur 2/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)</CardText>
+<Flavor>"Not all Minotaurs are tribal. Some are freelance."
+—Eron the Relentless</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2992</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Anaba Bodyguard</Name>
+<Type>Creature — Minotaur 2/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)</CardText>
+<Flavor>"Not someone to pick a fight with, unless you're fond of pain."
+—Halina, Dwarven Trader</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2993</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Anaba Shaman</Name>
+<Type>Creature — Minotaur Shaman 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{R}, {T}: Anaba Shaman deals 1 damage to any target.</CardText>
+<Flavor>"The Shamans? Ha They are mere craven cows not capable of true magic."
+—Irini Sengir</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2995</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Anaba Shaman</Name>
+<Type>Creature — Minotaur Shaman 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{R}, {T}: Anaba Shaman deals 1 damage to any target.</CardText>
+<Flavor>"Few master the powers of the earth as well as do the Shamans of the Minotaurs."
+—Baki, Wizard Attendant</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>2994</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -952,6 +1594,36 @@ Creatures of the chosen type don't untap during their controllers' untap steps.<
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Dwarven Trader</Name>
+<Type>Creature — Dwarf 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<Flavor>"Their definition of 'fair profit' is certainly novel."
+—Reveka, Wizard Savant</Flavor>
+<Artist>Margaret Organ-Kean</Artist>
+<Multiverseid>3000</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Dwarven Trader</Name>
+<Type>Creature — Dwarf 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<Flavor>"They wouldn't sell their own families—at least, not for cheap."
+—Zeki, Reef Pirate</Flavor>
+<Artist>Margaret Organ-Kean</Artist>
+<Multiverseid>3001</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -1111,6 +1783,72 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<Name>Abbey Matron</Name>
+<Type>Creature — Human Cleric 1/3</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</CardText>
+<Flavor>"The Matrons are kindly souls, but don't ask one for an ale."
+—Halina, Dwarven Trader</Flavor>
+<Artist>Mike Kimble</Artist>
+<Multiverseid>3011</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Abbey Matron</Name>
+<Type>Creature — Human Cleric 1/3</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</CardText>
+<Flavor>"The Matrons still say Serra is coming back. I bet she never even existed."
+—Murat, Death Speaker</Flavor>
+<Artist>Mike Kimble</Artist>
+<Multiverseid>3012</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Aysen Bureaucrats</Name>
+<Type>Creature — Human Advisor 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{T}: Tap target creature with power 2 or less.</CardText>
+<Flavor>"All the tortures of my vault of horrors pale in comparison to dealing with those petty Bureaucrats."
+—Baron Sengir</Flavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>3014</Multiverseid>
+<Rulings>2004/10/04: This checks the power of the creature on activation and on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Aysen Bureaucrats</Name>
+<Type>Creature — Human Advisor 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{T}: Tap target creature with power 2 or less.</CardText>
+<Flavor>"I would say that our Bureaucrats are no better than vipers—but I shouldn't insult the vipers."
+—Murat, Death Speaker</Flavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>3013</Multiverseid>
+<Rulings>2004/10/04: This checks the power of the creature on activation and on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>106</No>
 <Name>Aysen Crusader</Name>
 <Type>Creature — Human Knight 2+*/2+*</Type>
@@ -1223,6 +1961,40 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<Name>Mesa Falcon</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</CardText>
+<Flavor>"The faith of Serra is borne on wings of hope."
+—Gulsen, Abbey Matron</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>3022</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Mesa Falcon</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</CardText>
+<Flavor>"Pretty Falcon, friend to Soraya. Will you send her my greetings?"
+—Gemma, Willow Priestess</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>3021</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
 <No>114</No>
 <Name>Prophecy</Name>
 <Type>Sorcery</Type>
@@ -1256,6 +2028,38 @@ Whenever Rashka the Slayer blocks one or more black creatures, Rashka gets +1/+2
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Samite Alchemist</Name>
+<Type>Creature — Human Cleric 0/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</CardText>
+<Flavor>"Powders and potions are nothing compared to faith."
+—Baris, Serra Inquisitor</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>3025</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Samite Alchemist</Name>
+<Type>Creature — Human Cleric 0/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</CardText>
+<Flavor>"The wisest of Aysen dwell not in the Abbey, but in the laboratory."
+—Taysir</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>3026</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -1350,6 +2154,36 @@ Enchanted creature can't attack or block, and its activated abilities with {T} i
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Trade Caravan</Name>
+<Type>Creature — Human Nomad 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At the beginning of your upkeep, put a currency counter on Trade Caravan.
+Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>3033</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>HL</SetId>
+<Name>Trade Caravan</Name>
+<Type>Creature — Human Nomad 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At the beginning of your upkeep, put a currency counter on Trade Caravan.
+Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>3032</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Homelands</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -1637,839 +2471,5 @@ At the beginning of your upkeep, if there are no arrowhead counters on Serrated 
 <Legacy>Legal</Legacy>
 <Set>Homelands</Set>
 <Rarity>Uncommon</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Cemetery Gate</Name>
-<Type>Creature — Wall 0/5</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Defender (This creature can't attack.)
-Protection from black</CardText>
-<Flavor>"It keeps some out, yes. It also keeps others in"
-—Grandmother Sengir</Flavor>
-<Artist>Melissa A. Benson</Artist>
-<Multiverseid>2913</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Cemetery Gate</Name>
-<Type>Creature — Wall 0/5</Type>
-<ManaCost>2B (3)</ManaCost>
-<CardText>Defender (This creature can't attack.)
-Protection from black</CardText>
-<Flavor>"Just the place for a picnic."
-—Murat, Death Speaker</Flavor>
-<Artist>Melissa A. Benson</Artist>
-<Multiverseid>2914</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Dry Spell</Name>
-<Type>Sorcery</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>Dry Spell deals 1 damage to each creature and each player.</CardText>
-<Flavor>"Wherever water is lacking, all things suffer."
-—Autumn Willow</Flavor>
-<Artist>Brian Snõddy</Artist>
-<Multiverseid>2916</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Dry Spell</Name>
-<Type>Sorcery</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>Dry Spell deals 1 damage to each creature and each player.</CardText>
-<Flavor>"My soul thirsts for Serra's salvation, as does my body for life's breath."
-—Ihsan's Shade</Flavor>
-<Artist>Brian Snõddy</Artist>
-<Multiverseid>2917</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Feast of the Unicorn</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>3B (4)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +4/+0.</CardText>
-<Flavor>"Some delicacies are not to be savored, save by the callous."
-—Baron Sengir</Flavor>
-<Artist>Dennis Detwiller</Artist>
-<Multiverseid>2918</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Feast of the Unicorn</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>3B (4)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +4/+0.</CardText>
-<Flavor>"Could there be a fouler act? No doubt the Baron knows of one."
-—Autumn Willow</Flavor>
-<Artist>Dennis Detwiller</Artist>
-<Multiverseid>2919</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Sengir Bats</Name>
-<Type>Creature — Bat 1/2</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>Flying
-Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 counter on Sengir Bats.</CardText>
-<Flavor>"In the face of every one I see the Baron."
-—Daria</Flavor>
-<Artist>Dan Frazier</Artist>
-<Multiverseid>2929</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Sengir Bats</Name>
-<Type>Creature — Bat 1/2</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>Flying
-Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 counter on Sengir Bats.</CardText>
-<Flavor>"They are the eyes of the Baron, and they know your fears."
-—Ihsan's Shade</Flavor>
-<Artist>Dan Frazier</Artist>
-<Multiverseid>2930</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Torture</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>Enchant creature
-{1}{B}: Put a -1/-1 counter on enchanted creature.</CardText>
-<Flavor>"Oh, they scream, right enough, and plead, too—but the Baron keeps no mercy in his vault of horrors."
-—Zeki, Reef Pirate</Flavor>
-<Artist>Mark Tedin</Artist>
-<Multiverseid>2932</Multiverseid>
-<Rulings>2008/05/01: The -1/-1 counters that are put on the enchanted creature are independent of <Torture>. If <Torture> leaves the battlefield or is moved to another creature, the counters will stay put.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Torture</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>Enchant creature
-{1}{B}: Put a -1/-1 counter on enchanted creature.</CardText>
-<Flavor>"It helps you pass the time until you die."
-—Grandmother Sengir</Flavor>
-<Artist>Mark Tedin</Artist>
-<Multiverseid>2933</Multiverseid>
-<Rulings>2008/05/01: The -1/-1 counters that are put on the enchanted creature are independent of <Torture>. If <Torture> leaves the battlefield or is moved to another creature, the counters will stay put.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Dark Maze</Name>
-<Type>Creature — Wall 4/5</Type>
-<ManaCost>4U (5)</ManaCost>
-<CardText>Defender (This creature can't attack.)
-{0}: Dark Maze can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.</CardText>
-<Flavor>"Stray not into the path of darkness, or be lost forever."
-—Baki, Wizard Attendant</Flavor>
-<Artist>Rob Alexander</Artist>
-<Multiverseid>2939</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Dark Maze</Name>
-<Type>Creature — Wall 4/5</Type>
-<ManaCost>4U (5)</ManaCost>
-<CardText>Defender (This creature can't attack.)
-{0}: Dark Maze can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.</CardText>
-<Flavor>"The path of faith is fortunately fraught with failure."
-—Irini Sengir</Flavor>
-<Artist>Rob Alexander</Artist>
-<Multiverseid>2940</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Giant Albatross</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Flying
-When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</CardText>
-<Artist>David A. Cherry</Artist>
-<Multiverseid>2942</Multiverseid>
-<Rulings>2004/10/04: The ability works no matter how it goes to the graveyard from the battlefield. It seeks out all creatures that damaged it during the turn and causes them to be destroyed.
-2004/10/04: The ability works even if the damage is redirected to the Albatross.
-2004/10/04: The ability is a triggered ability and is only put on the stack once just after this card goes to the graveyard.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Giant Albatross</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Flying
-When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</CardText>
-<Artist>David A. Cherry</Artist>
-<Multiverseid>2943</Multiverseid>
-<Rulings>2004/10/04: The ability works no matter how it goes to the graveyard from the battlefield. It seeks out all creatures that damaged it during the turn and causes them to be destroyed.
-2004/10/04: The ability works even if the damage is redirected to the Albatross.
-2004/10/04: The ability is a triggered ability and is only put on the stack once just after this card goes to the graveyard.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Labyrinth Minotaur</Name>
-<Type>Creature — Minotaur 1/4</Type>
-<ManaCost>3U (4)</ManaCost>
-<CardText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</CardText>
-<Flavor>"Legend says they got a treasure cave, but it don't say where to find it."
-—Zeki, Reef Pirate</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2946</Multiverseid>
-<Rulings>2009/10/01: If the creature <Labyrinth Minotaur> blocked is untapped at the time its controller's next untap step begins, this ability has no effect. It won't apply at some later time when that creature is tapped.
-2009/10/01: <Labyrinth Minotaur> doesn't track the creature's controller. If the affected creature changes controllers before its old controller's next untap step, this ability will prevent it from being untapped during its new controller's next untap step.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Labyrinth Minotaur</Name>
-<Type>Creature — Minotaur 1/4</Type>
-<ManaCost>3U (4)</ManaCost>
-<CardText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</CardText>
-<Flavor>"I doubt any Labyrinth Minotaurs still live—but then again, we Minotaurs are stubborn beings."
-—Onatah, Anaba Shaman</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2947</Multiverseid>
-<Rulings>2009/10/01: If the creature <Labyrinth Minotaur> blocked is untapped at the time its controller's next untap step begins, this ability has no effect. It won't apply at some later time when that creature is tapped.
-2009/10/01: <Labyrinth Minotaur> doesn't track the creature's controller. If the affected creature changes controllers before its old controller's next untap step, this ability will prevent it from being untapped during its new controller's next untap step.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Memory Lapse</Name>
-<Type>Instant</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</CardText>
-<Flavor>"Um . . . oh . . . what was I saying?"
-—Reveka, Wizard Savant</Flavor>
-<Artist>Mark Tedin</Artist>
-<Multiverseid>2949</Multiverseid>
-<Rulings>2016/06/08: <Memory Lapse> has a self-replacement effect that replaces the spell going to the graveyard before any other effect can replace that event. If the spell was cast using flashback, however, flashback will change the spell's destination from its owner's library to exile.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Memory Lapse</Name>
-<Type>Instant</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</CardText>
-<Flavor>"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it."
-—Chandler</Flavor>
-<Artist>Mark Tedin</Artist>
-<Multiverseid>2950</Multiverseid>
-<Rulings>2016/06/08: <Memory Lapse> has a self-replacement effect that replaces the spell going to the graveyard before any other effect can replace that event. If the spell was cast using flashback, however, flashback will change the spell's destination from its owner's library to exile.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Reef Pirates</Name>
-<Type>Creature — Zombie Pirate 2/2</Type>
-<ManaCost>1UU (3)</ManaCost>
-<CardText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of their library into their graveyard.</CardText>
-<Flavor>"Zeki sails with a dead crew not out of villainy, but pragmatism."
-—Baron Sengir</Flavor>
-<Artist>Tom Wänerstrand</Artist>
-<Multiverseid>2954</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Reef Pirates</Name>
-<Type>Creature — Zombie Pirate 2/2</Type>
-<ManaCost>1UU (3)</ManaCost>
-<CardText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of their library into their graveyard.</CardText>
-<Flavor>"Corpses for crew don't sit well with me. Zeki and his dead ship had best keep their distance."
-—Joskun, An-Havva Constable</Flavor>
-<Artist>Tom Wänerstrand</Artist>
-<Multiverseid>2955</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Carapace</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +0/+2.
-Sacrifice Carapace: Regenerate enchanted creature.</CardText>
-<Flavor>"The tougher to crack, the sweeter the snack."
-—Kakra, Sea Troll</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2963</Multiverseid>
-<Rulings>2004/10/04: This leaves the battlefield when you activate its activated ability, but the enchanted creature won't be regenerated until the ability resolves. In the intervening time, the creature will no longer have the bonus that this had been giving it. This may cause the creature to be destroyed before the regeneration shield is created.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Carapace</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Enchant creature
-Enchanted creature gets +0/+2.
-Sacrifice Carapace: Regenerate enchanted creature.</CardText>
-<Flavor>"Now, that's a fashion statement."
-—Devin, Faerie Noble</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2964</Multiverseid>
-<Rulings>2004/10/04: This leaves the battlefield when you activate its activated ability, but the enchanted creature won't be regenerated until the ability resolves. In the intervening time, the creature will no longer have the bonus that this had been giving it. This may cause the creature to be destroyed before the regeneration shield is created.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Folk of An-Havva</Name>
-<Type>Creature — Human 1/1</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</CardText>
-<Flavor>"There are those who accept being told what to do, what to think, and what to say. Then there are the Folk of An-Havva."
-—Reyhan, Samite Alchemist</Flavor>
-<Artist>Julie Baroh</Artist>
-<Multiverseid>2967</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Folk of An-Havva</Name>
-<Type>Creature — Human 1/1</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</CardText>
-<Flavor>"This town's only for good folk. The rest can go to the city."
-—Joskun, An-Havva Constable</Flavor>
-<Artist>Julie Baroh</Artist>
-<Multiverseid>2968</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Hungry Mist</Name>
-<Type>Creature — Elemental 6/2</Type>
-<ManaCost>2GG (4)</ManaCost>
-<CardText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</CardText>
-<Flavor>"All things must eat, after all. Even the air can hunger."
-—Gemma, Willow Priestess</Flavor>
-<Artist>Heather Hudson</Artist>
-<Multiverseid>2969</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Hungry Mist</Name>
-<Type>Creature — Elemental 6/2</Type>
-<ManaCost>2GG (4)</ManaCost>
-<CardText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</CardText>
-<Flavor>"If the air must feed, let it take the self-righteous."
-—Murat, Death Speaker</Flavor>
-<Artist>Heather Hudson</Artist>
-<Multiverseid>2970</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Shrink</Name>
-<Type>Instant</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Target creature gets -5/-0 until end of turn.</CardText>
-<Flavor>"The smallest beast can yet have the greatest heart."
-—Gemma, Willow Priestess</Flavor>
-<Artist>Liz Danforth</Artist>
-<Multiverseid>2979</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Shrink</Name>
-<Type>Instant</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Target creature gets -5/-0 until end of turn.</CardText>
-<Flavor>"Do not fear adversity. Let your courage be your strength."
-—Onatah, Anaba Shaman</Flavor>
-<Artist>Liz Danforth</Artist>
-<Multiverseid>2980</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Willow Faerie</Name>
-<Type>Creature — Faerie 1/2</Type>
-<ManaCost>1G (2)</ManaCost>
-<CardText>Flying</CardText>
-<Flavor>"The Autumn Willow cannot be everywhere at once—that's what her grandchildren are for."
-—Gulsen, Abbey Matron</Flavor>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>2982</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Willow Faerie</Name>
-<Type>Creature — Faerie 1/2</Type>
-<ManaCost>1G (2)</ManaCost>
-<CardText>Flying</CardText>
-<Flavor>"Swift as the wind and harder to catch— that's the Faeries for you."
-—Daria</Flavor>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>2983</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Aliban's Tower</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Target blocking creature gets +3/+1 until end of turn.</CardText>
-<Flavor>"The people of Aysen built their roads with stones from these wonders. Aliban would be pleased with their ingenuity."
-—Baki, Wizard Attendant</Flavor>
-<Artist>Jeff A. Menges</Artist>
-<Multiverseid>2985</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Aliban's Tower</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Target blocking creature gets +3/+1 until end of turn.</CardText>
-<Flavor>"Those who hide in hollow towers would do well to remember the rain."
-—Reyhan, Samite Alchemist</Flavor>
-<Artist>Jeff A. Menges</Artist>
-<Multiverseid>2986</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Ambush Party</Name>
-<Type>Creature — Human Rogue 3/1</Type>
-<ManaCost>4R (5)</ManaCost>
-<CardText>First strike, haste</CardText>
-<Flavor>"The roads to Koskun Keep are mostly safe these days. Mostly."
-—Joskun, An-Havva Constable</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>2988</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Ambush Party</Name>
-<Type>Creature — Human Rogue 3/1</Type>
-<ManaCost>4R (5)</ManaCost>
-<CardText>First strike, haste</CardText>
-<Flavor>"Call it a cost of doing business. The best way to protect against thieves is to hire better thieves."
-—Eron the Relentless</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>2989</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Anaba Bodyguard</Name>
-<Type>Creature — Minotaur 2/3</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>First strike (This creature deals combat damage before creatures without first strike.)</CardText>
-<Flavor>"Not all Minotaurs are tribal. Some are freelance."
-—Eron the Relentless</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2992</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Anaba Bodyguard</Name>
-<Type>Creature — Minotaur 2/3</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>First strike (This creature deals combat damage before creatures without first strike.)</CardText>
-<Flavor>"Not someone to pick a fight with, unless you're fond of pain."
-—Halina, Dwarven Trader</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2993</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Anaba Shaman</Name>
-<Type>Creature — Minotaur Shaman 2/2</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>{R}, {T}: Anaba Shaman deals 1 damage to any target.</CardText>
-<Flavor>"Few master the powers of the earth as well as do the Shamans of the Minotaurs."
-—Baki, Wizard Attendant</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2994</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Anaba Shaman</Name>
-<Type>Creature — Minotaur Shaman 2/2</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>{R}, {T}: Anaba Shaman deals 1 damage to any target.</CardText>
-<Flavor>"The Shamans? Ha They are mere craven cows not capable of true magic."
-—Irini Sengir</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>2995</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Dwarven Trader</Name>
-<Type>Creature — Dwarf 1/1</Type>
-<ManaCost>R (1)</ManaCost>
-<Flavor>"Their definition of 'fair profit' is certainly novel."
-—Reveka, Wizard Savant</Flavor>
-<Artist>Margaret Organ-Kean</Artist>
-<Multiverseid>3000</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Dwarven Trader</Name>
-<Type>Creature — Dwarf 1/1</Type>
-<ManaCost>R (1)</ManaCost>
-<Flavor>"They wouldn't sell their own families—at least, not for cheap."
-—Zeki, Reef Pirate</Flavor>
-<Artist>Margaret Organ-Kean</Artist>
-<Multiverseid>3001</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Abbey Matron</Name>
-<Type>Creature — Human Cleric 1/3</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</CardText>
-<Flavor>"The Matrons are kindly souls, but don't ask one for an ale."
-—Halina, Dwarven Trader</Flavor>
-<Artist>Mike Kimble</Artist>
-<Multiverseid>3011</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Abbey Matron</Name>
-<Type>Creature — Human Cleric 1/3</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</CardText>
-<Flavor>"The Matrons still say Serra is coming back. I bet she never even existed."
-—Murat, Death Speaker</Flavor>
-<Artist>Mike Kimble</Artist>
-<Multiverseid>3012</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Aysen Bureaucrats</Name>
-<Type>Creature — Human Advisor 1/1</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>{T}: Tap target creature with power 2 or less.</CardText>
-<Flavor>"I would say that our Bureaucrats are no better than vipers—but I shouldn't insult the vipers."
-—Murat, Death Speaker</Flavor>
-<Artist>Alan Rabinowitz</Artist>
-<Multiverseid>3013</Multiverseid>
-<Rulings>2004/10/04: This checks the power of the creature on activation and on resolution.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Aysen Bureaucrats</Name>
-<Type>Creature — Human Advisor 1/1</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>{T}: Tap target creature with power 2 or less.</CardText>
-<Flavor>"All the tortures of my vault of horrors pale in comparison to dealing with those petty Bureaucrats."
-—Baron Sengir</Flavor>
-<Artist>Alan Rabinowitz</Artist>
-<Multiverseid>3014</Multiverseid>
-<Rulings>2004/10/04: This checks the power of the creature on activation and on resolution.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Mesa Falcon</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Flying
-{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</CardText>
-<Flavor>"Pretty Falcon, friend to Soraya. Will you send her my greetings?"
-—Gemma, Willow Priestess</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>3021</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Mesa Falcon</Name>
-<Type>Creature — Bird 1/1</Type>
-<ManaCost>1W (2)</ManaCost>
-<CardText>Flying
-{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</CardText>
-<Flavor>"The faith of Serra is borne on wings of hope."
-—Gulsen, Abbey Matron</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>3022</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Samite Alchemist</Name>
-<Type>Creature — Human Cleric 0/2</Type>
-<ManaCost>3W (4)</ManaCost>
-<CardText>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</CardText>
-<Flavor>"Powders and potions are nothing compared to faith."
-—Baris, Serra Inquisitor</Flavor>
-<Artist>Tom Wänerstrand</Artist>
-<Multiverseid>3025</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Samite Alchemist</Name>
-<Type>Creature — Human Cleric 0/2</Type>
-<ManaCost>3W (4)</ManaCost>
-<CardText>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</CardText>
-<Flavor>"The wisest of Aysen dwell not in the Abbey, but in the laboratory."
-—Taysir</Flavor>
-<Artist>Tom Wänerstrand</Artist>
-<Multiverseid>3026</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Trade Caravan</Name>
-<Type>Creature — Human Nomad 1/1</Type>
-<ManaCost>W (1)</ManaCost>
-<CardText>At the beginning of your upkeep, put a currency counter on Trade Caravan.
-Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.</CardText>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>3032</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>HL</SetId>
-<Name>Trade Caravan</Name>
-<Type>Creature — Human Nomad 1/1</Type>
-<ManaCost>W (1)</ManaCost>
-<CardText>At the beginning of your upkeep, put a currency counter on Trade Caravan.
-Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.</CardText>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>3033</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Homelands</Set>
-<Rarity>Common</Rarity>
 </Card>
 

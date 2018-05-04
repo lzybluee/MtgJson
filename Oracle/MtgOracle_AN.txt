@@ -34,6 +34,36 @@
 
 <Card>
 <SetId>AN</SetId>
+<Name>Erg Raiders</Name>
+<Type>Creature — Human Warrior 2/3</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</CardText>
+<Artist>Dameon Willich</Artist>
+<Multiverseid>916</Multiverseid>
+<Rulings>2018/03/16: A creature "comes under your control" if it enters the battlefield under your control or if you gain control of it while it's already on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Erg Raiders</Name>
+<Type>Creature — Human Warrior 2/3</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</CardText>
+<Artist>Dameon Willich</Artist>
+<Multiverseid>917</Multiverseid>
+<Rulings>2018/03/16: A creature "comes under your control" if it enters the battlefield under your control or if you gain control of it while it's already on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
 <No>5</No>
 <Name>Guardian Beast</Name>
 <Type>Creature — Beast 2/4</Type>
@@ -47,6 +77,36 @@
 <Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Hasran Ogress</Name>
+<Type>Creature — Ogre 3/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</CardText>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>919</Multiverseid>
+<Rulings>2004/10/04: You either take damage or pay the 2 mana during resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Hasran Ogress</Name>
+<Type>Creature — Ogre 3/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</CardText>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>920</Multiverseid>
+<Rulings>2004/10/04: You either take damage or pay the 2 mana during resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -101,6 +161,42 @@ At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.<
 
 <Card>
 <SetId>AN</SetId>
+<Name>Oubliette</Name>
+<Type>Enchantment</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.
+When Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>924</Multiverseid>
+<Rulings>2007/09/16: If <Oubliette> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted creature forever.
+2007/09/16: If the targeted creature is a token, it will cease to exist after being exiled. Any Auras that were attached to it will remain exiled forever.
+2007/09/16: If the exiled card is returned to the battlefield and, for some reason, it now can't be enchanted by an Aura that was also exiled by <Oubliette>, that Aura will remain exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Oubliette</Name>
+<Type>Enchantment</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.
+When Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>925</Multiverseid>
+<Rulings>2007/09/16: If <Oubliette> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted creature forever.
+2007/09/16: If the targeted creature is a token, it will cease to exist after being exiled. Any Auras that were attached to it will remain exiled forever.
+2007/09/16: If the exiled card is returned to the battlefield and, for some reason, it now can't be enchanted by an Aura that was also exiled by <Oubliette>, that Aura will remain exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
 <No>13</No>
 <Name>Sorceress Queen</Name>
 <Type>Creature — Human Wizard 1/1</Type>
@@ -112,6 +208,36 @@ At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.<
 <Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Stone-Throwing Devils</Name>
+<Type>Creature — Devil 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>First strike</CardText>
+<Flavor>Sometimes those with the most sin cast the first stones.</Flavor>
+<Artist>Ken Meyer, Jr.</Artist>
+<Multiverseid>928</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Stone-Throwing Devils</Name>
+<Type>Creature — Devil 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>First strike</CardText>
+<Flavor>Sometimes those with the most sin cast the first stones.</Flavor>
+<Artist>Ken Meyer, Jr.</Artist>
+<Multiverseid>927</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -133,6 +259,40 @@ When you control no Islands, sacrifice Dandân.</CardText>
 
 <Card>
 <SetId>AN</SetId>
+<Name>Fishliver Oil</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)</CardText>
+<Flavor>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>931</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Fishliver Oil</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)</CardText>
+<Flavor>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>930</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
 <No>19</No>
 <Name>Flying Men</Name>
 <Type>Creature — Human 1/1</Type>
@@ -144,6 +304,34 @@ When you control no Islands, sacrifice Dandân.</CardText>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Giant Tortoise</Name>
+<Type>Creature — Turtle 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Giant Tortoise gets +0/+3 as long as it's untapped.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>933</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Giant Tortoise</Name>
+<Type>Creature — Turtle 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Giant Tortoise gets +0/+3 as long as it's untapped.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>934</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -400,6 +588,42 @@ Add X mana of any one color, where X is 1 plus the sacrificed creature's convert
 
 <Card>
 <SetId>AN</SetId>
+<Name>Nafs Asp</Name>
+<Type>Creature — Snake 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.</CardText>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>950</Multiverseid>
+<Rulings>2004/10/04: If its damage gets redirected to its controller, it will still trigger the ability.
+2004/10/04: The player can pay the {1} mana at any time after damage is done before the draw step of that player's turn. People commonly pay during upkeep.
+2004/10/04: If it damages a player twice, they get to pay or take damage twice during their next draw step.
+2004/10/04: The ability does not cause itself to trigger again. It cause loss of life, and not damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Nafs Asp</Name>
+<Type>Creature — Snake 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.</CardText>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>949</Multiverseid>
+<Rulings>2004/10/04: If its damage gets redirected to its controller, it will still trigger the ability.
+2004/10/04: The player can pay the {1} mana at any time after damage is done before the draw step of that player's turn. People commonly pay during upkeep.
+2004/10/04: If it damages a player twice, they get to pay or take damage twice during their next draw step.
+2004/10/04: The ability does not cause itself to trigger again. It cause loss of life, and not damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
 <No>38</No>
 <Name>Sandstorm</Name>
 <Type>Instant</Type>
@@ -430,6 +654,36 @@ Add X mana of any one color, where X is 1 plus the sacrificed creature's convert
 <Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Wyluli Wolf</Name>
+<Type>Creature — Wolf 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Target creature gets +1/+1 until end of turn.</CardText>
+<Flavor>"When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?" —Maimun al-Wyluli, Diary</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>953</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Wyluli Wolf</Name>
+<Type>Creature — Wolf 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Target creature gets +1/+1 until end of turn.</CardText>
+<Flavor>"When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?" —Maimun al-Wyluli, Diary</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>954</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -484,6 +738,36 @@ Add X mana of any one color, where X is 1 plus the sacrificed creature's convert
 <Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Bird Maiden</Name>
+<Type>Creature — Human Bird 1/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile." —The Arabian Nights, trans. Haddawy</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>958</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Bird Maiden</Name>
+<Type>Creature — Human Bird 1/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile." —The Arabian Nights, trans. Haddawy</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>959</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -569,6 +853,44 @@ At the beginning of each player's upkeep, that player may choose any number of t
 
 <Card>
 <SetId>AN</SetId>
+<Name>Rukh Egg</Name>
+<Type>Creature — Bird 0/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</CardText>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>966</Multiverseid>
+<Rulings>2004/10/04: If the <Rukh Egg> card is removed from the graveyard in the same turn it is put there, a Bird will still be put onto the battlefield.
+2005/10/01: If the Egg is exiled instead of being put into the graveyard, no Bird is put onto the battlefield.
+2005/10/01: Text-changing effects can be used to change the color of the Bird that will be put onto the battlefield.
+2005/10/01: If the Egg is destroyed while under the control of another player, the controller of the Egg gets the Bird.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Rukh Egg</Name>
+<Type>Creature — Bird 0/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</CardText>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>965</Multiverseid>
+<Rulings>2004/10/04: If the <Rukh Egg> card is removed from the graveyard in the same turn it is put there, a Bird will still be put onto the battlefield.
+2005/10/01: If the Egg is exiled instead of being put into the graveyard, no Bird is put onto the battlefield.
+2005/10/01: Text-changing effects can be used to change the color of the Bird that will be put onto the battlefield.
+2005/10/01: If the Egg is destroyed while under the control of another player, the controller of the Egg gets the Bird.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
 <No>54</No>
 <Name>Ydwen Efreet</Name>
 <Type>Creature — Efreet 3/6</Type>
@@ -596,6 +918,36 @@ At the beginning of each player's upkeep, that player may choose any number of t
 <Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Army of Allah</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Attacking creatures get +2/+0 until end of turn.</CardText>
+<Flavor>On the day of victory no one is tired. —Arab proverb</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>970</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Army of Allah</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Attacking creatures get +2/+0 until end of turn.</CardText>
+<Flavor>On the day of victory no one is tired. —Arab proverb</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>969</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -675,6 +1027,68 @@ When the chosen player controls no nontoken permanents of the chosen color, sacr
 
 <Card>
 <SetId>AN</SetId>
+<Name>Moorish Cavalry</Name>
+<Type>Creature — Human Knight 3/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Trample</CardText>
+<Flavor>Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.</Flavor>
+<Artist>Dameon Willich</Artist>
+<Multiverseid>975</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Moorish Cavalry</Name>
+<Type>Creature — Human Knight 3/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Trample</CardText>
+<Flavor>Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.</Flavor>
+<Artist>Dameon Willich</Artist>
+<Multiverseid>976</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Piety</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Blocking creatures get +0/+3 until end of turn.</CardText>
+<Flavor>"Whoever obeys God and His Prophet, fears God and does his duty to Him, will surely find success." —The Qur'an, 24:52</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>977</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>Piety</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Blocking creatures get +0/+3 until end of turn.</CardText>
+<Flavor>"Whoever obeys God and His Prophet, fears God and does his duty to Him, will surely find success." —The Qur'an, 24:52</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>978</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
 <No>66</No>
 <Name>Repentant Blacksmith</Name>
 <Type>Creature — Human 1/2</Type>
@@ -707,6 +1121,44 @@ When the chosen player controls no nontoken permanents of the chosen color, sacr
 <Legacy>Banned</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>War Elephant</Name>
+<Type>Creature — Elephant 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Flavor>"When elephants fight it is the grass that suffers." —Kikuyu Proverb</Flavor>
+<Artist>Kristen Bishop</Artist>
+<Multiverseid>981</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>AN</SetId>
+<Name>War Elephant</Name>
+<Type>Creature — Elephant 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Flavor>"When elephants fight it is the grass that suffers." —Kikuyu Proverb</Flavor>
+<Artist>Kristen Bishop</Artist>
+<Multiverseid>982</Multiverseid>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arabian Nights</Set>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -1090,457 +1542,5 @@ Players can't cast spells or play lands with a name originally printed in the Ar
 <Legacy>Legal</Legacy>
 <Set>Arabian Nights</Set>
 <Rarity>Uncommon</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Erg Raiders</Name>
-<Type>Creature — Human Warrior 2/3</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</CardText>
-<Artist>Dameon Willich</Artist>
-<Multiverseid>916</Multiverseid>
-<Rulings>2018/03/16: A creature "comes under your control" if it enters the battlefield under your control or if you gain control of it while it's already on the battlefield.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Erg Raiders</Name>
-<Type>Creature — Human Warrior 2/3</Type>
-<ManaCost>1B (2)</ManaCost>
-<CardText>At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</CardText>
-<Artist>Dameon Willich</Artist>
-<Multiverseid>917</Multiverseid>
-<Rulings>2018/03/16: A creature "comes under your control" if it enters the battlefield under your control or if you gain control of it while it's already on the battlefield.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Hasran Ogress</Name>
-<Type>Creature — Ogre 3/2</Type>
-<ManaCost>BB (2)</ManaCost>
-<CardText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</CardText>
-<Artist>Dan Frazier</Artist>
-<Multiverseid>919</Multiverseid>
-<Rulings>2004/10/04: You either take damage or pay the 2 mana during resolution.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Hasran Ogress</Name>
-<Type>Creature — Ogre 3/2</Type>
-<ManaCost>BB (2)</ManaCost>
-<CardText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</CardText>
-<Artist>Dan Frazier</Artist>
-<Multiverseid>920</Multiverseid>
-<Rulings>2004/10/04: You either take damage or pay the 2 mana during resolution.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Oubliette</Name>
-<Type>Enchantment</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.
-When Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.</CardText>
-<Artist>Douglas Shuler</Artist>
-<Multiverseid>924</Multiverseid>
-<Rulings>2007/09/16: If <Oubliette> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted creature forever.
-2007/09/16: If the targeted creature is a token, it will cease to exist after being exiled. Any Auras that were attached to it will remain exiled forever.
-2007/09/16: If the exiled card is returned to the battlefield and, for some reason, it now can't be enchanted by an Aura that was also exiled by <Oubliette>, that Aura will remain exiled.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Oubliette</Name>
-<Type>Enchantment</Type>
-<ManaCost>1BB (3)</ManaCost>
-<CardText>When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.
-When Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.</CardText>
-<Artist>Douglas Shuler</Artist>
-<Multiverseid>925</Multiverseid>
-<Rulings>2007/09/16: If <Oubliette> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted creature forever.
-2007/09/16: If the targeted creature is a token, it will cease to exist after being exiled. Any Auras that were attached to it will remain exiled forever.
-2007/09/16: If the exiled card is returned to the battlefield and, for some reason, it now can't be enchanted by an Aura that was also exiled by <Oubliette>, that Aura will remain exiled.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Stone-Throwing Devils</Name>
-<Type>Creature — Devil 1/1</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>First strike</CardText>
-<Flavor>Sometimes those with the most sin cast the first stones.</Flavor>
-<Artist>Ken Meyer, Jr.</Artist>
-<Multiverseid>927</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Stone-Throwing Devils</Name>
-<Type>Creature — Devil 1/1</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>First strike</CardText>
-<Flavor>Sometimes those with the most sin cast the first stones.</Flavor>
-<Artist>Ken Meyer, Jr.</Artist>
-<Multiverseid>928</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Fishliver Oil</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
-Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)</CardText>
-<Flavor>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>930</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Fishliver Oil</Name>
-<Type>Enchantment — Aura</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
-Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)</CardText>
-<Flavor>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</Flavor>
-<Artist>Anson Maddocks</Artist>
-<Multiverseid>931</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Giant Tortoise</Name>
-<Type>Creature — Turtle 1/1</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Giant Tortoise gets +0/+3 as long as it's untapped.</CardText>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>933</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Giant Tortoise</Name>
-<Type>Creature — Turtle 1/1</Type>
-<ManaCost>1U (2)</ManaCost>
-<CardText>Giant Tortoise gets +0/+3 as long as it's untapped.</CardText>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>934</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Nafs Asp</Name>
-<Type>Creature — Snake 1/1</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.</CardText>
-<Artist>Christopher Rush</Artist>
-<Multiverseid>949</Multiverseid>
-<Rulings>2004/10/04: If its damage gets redirected to its controller, it will still trigger the ability.
-2004/10/04: The player can pay the {1} mana at any time after damage is done before the draw step of that player's turn. People commonly pay during upkeep.
-2004/10/04: If it damages a player twice, they get to pay or take damage twice during their next draw step.
-2004/10/04: The ability does not cause itself to trigger again. It cause loss of life, and not damage.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Nafs Asp</Name>
-<Type>Creature — Snake 1/1</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.</CardText>
-<Artist>Christopher Rush</Artist>
-<Multiverseid>950</Multiverseid>
-<Rulings>2004/10/04: If its damage gets redirected to its controller, it will still trigger the ability.
-2004/10/04: The player can pay the {1} mana at any time after damage is done before the draw step of that player's turn. People commonly pay during upkeep.
-2004/10/04: If it damages a player twice, they get to pay or take damage twice during their next draw step.
-2004/10/04: The ability does not cause itself to trigger again. It cause loss of life, and not damage.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Wyluli Wolf</Name>
-<Type>Creature — Wolf 1/1</Type>
-<ManaCost>1G (2)</ManaCost>
-<CardText>{T}: Target creature gets +1/+1 until end of turn.</CardText>
-<Flavor>"When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?" —Maimun al-Wyluli, Diary</Flavor>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>953</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Wyluli Wolf</Name>
-<Type>Creature — Wolf 1/1</Type>
-<ManaCost>1G (2)</ManaCost>
-<CardText>{T}: Target creature gets +1/+1 until end of turn.</CardText>
-<Flavor>"When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?" —Maimun al-Wyluli, Diary</Flavor>
-<Artist>Susan Van Camp</Artist>
-<Multiverseid>954</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Bird Maiden</Name>
-<Type>Creature — Human Bird 1/2</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>Flying</CardText>
-<Flavor>"Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile." —The Arabian Nights, trans. Haddawy</Flavor>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>958</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Bird Maiden</Name>
-<Type>Creature — Human Bird 1/2</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>Flying</CardText>
-<Flavor>"Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile." —The Arabian Nights, trans. Haddawy</Flavor>
-<Artist>Kaja Foglio</Artist>
-<Multiverseid>959</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Rukh Egg</Name>
-<Type>Creature — Bird 0/3</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</CardText>
-<Artist>Christopher Rush</Artist>
-<Multiverseid>965</Multiverseid>
-<Rulings>2004/10/04: If the <Rukh Egg> card is removed from the graveyard in the same turn it is put there, a Bird will still be put onto the battlefield.
-2005/10/01: If the Egg is exiled instead of being put into the graveyard, no Bird is put onto the battlefield.
-2005/10/01: Text-changing effects can be used to change the color of the Bird that will be put onto the battlefield.
-2005/10/01: If the Egg is destroyed while under the control of another player, the controller of the Egg gets the Bird.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Rukh Egg</Name>
-<Type>Creature — Bird 0/3</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</CardText>
-<Artist>Christopher Rush</Artist>
-<Multiverseid>966</Multiverseid>
-<Rulings>2004/10/04: If the <Rukh Egg> card is removed from the graveyard in the same turn it is put there, a Bird will still be put onto the battlefield.
-2005/10/01: If the Egg is exiled instead of being put into the graveyard, no Bird is put onto the battlefield.
-2005/10/01: Text-changing effects can be used to change the color of the Bird that will be put onto the battlefield.
-2005/10/01: If the Egg is destroyed while under the control of another player, the controller of the Egg gets the Bird.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Army of Allah</Name>
-<Type>Instant</Type>
-<ManaCost>1WW (3)</ManaCost>
-<CardText>Attacking creatures get +2/+0 until end of turn.</CardText>
-<Flavor>On the day of victory no one is tired. —Arab proverb</Flavor>
-<Artist>Brian Snõddy</Artist>
-<Multiverseid>969</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Army of Allah</Name>
-<Type>Instant</Type>
-<ManaCost>1WW (3)</ManaCost>
-<CardText>Attacking creatures get +2/+0 until end of turn.</CardText>
-<Flavor>On the day of victory no one is tired. —Arab proverb</Flavor>
-<Artist>Brian Snõddy</Artist>
-<Multiverseid>970</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Moorish Cavalry</Name>
-<Type>Creature — Human Knight 3/3</Type>
-<ManaCost>2WW (4)</ManaCost>
-<CardText>Trample</CardText>
-<Flavor>Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.</Flavor>
-<Artist>Dameon Willich</Artist>
-<Multiverseid>975</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Moorish Cavalry</Name>
-<Type>Creature — Human Knight 3/3</Type>
-<ManaCost>2WW (4)</ManaCost>
-<CardText>Trample</CardText>
-<Flavor>Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.</Flavor>
-<Artist>Dameon Willich</Artist>
-<Multiverseid>976</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Piety</Name>
-<Type>Instant</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>Blocking creatures get +0/+3 until end of turn.</CardText>
-<Flavor>"Whoever obeys God and His Prophet, fears God and does his duty to Him, will surely find success." —The Qur'an, 24:52</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>977</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>Piety</Name>
-<Type>Instant</Type>
-<ManaCost>2W (3)</ManaCost>
-<CardText>Blocking creatures get +0/+3 until end of turn.</CardText>
-<Flavor>"Whoever obeys God and His Prophet, fears God and does his duty to Him, will surely find success." —The Qur'an, 24:52</Flavor>
-<Artist>Mark Poole</Artist>
-<Multiverseid>978</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>War Elephant</Name>
-<Type>Creature — Elephant 2/2</Type>
-<ManaCost>3W (4)</ManaCost>
-<CardText>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
-<Flavor>"When elephants fight it is the grass that suffers." —Kikuyu Proverb</Flavor>
-<Artist>Kristen Bishop</Artist>
-<Multiverseid>981</Multiverseid>
-<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
-2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
-2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
-2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
-</Card>
-
-<Card>
-<SetId>AN</SetId>
-<Name>War Elephant</Name>
-<Type>Creature — Elephant 2/2</Type>
-<ManaCost>3W (4)</ManaCost>
-<CardText>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
-<Flavor>"When elephants fight it is the grass that suffers." —Kikuyu Proverb</Flavor>
-<Artist>Kristen Bishop</Artist>
-<Multiverseid>982</Multiverseid>
-<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
-2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
-2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
-2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Arabian Nights</Set>
-<Rarity>Common</Rarity>
 </Card>
 
