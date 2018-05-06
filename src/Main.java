@@ -181,9 +181,11 @@ public class Main {
         if (card.has(key)) {
             String mana = card.getString(key);
             mana = mana.replaceAll("/P", "P").replaceAll("\\{(.)\\}", "$1").replaceAll("\\{(\\d+)\\}", "$1");
+
             if (!mana.contains("{")) {
                 mana = reorderMana(mana);
             }
+
             out.append("<" + desc + ">" + mana + " (" + card.getInt("cmc") + ")</" + desc + ">\n");
         }
         if ((!card.has(key) && card.has("colors"))
@@ -456,7 +458,14 @@ public class Main {
     static void printSet(JSONObject all, String code, String special) {
         out = new StringBuffer();
 
-        JSONObject set = all.getJSONObject(code);
+        String setCode = code;
+        if (code.equals("8EB")) {
+            setCode = "8ED";
+        } else if (code.equals("9EB")) {
+            setCode = "9ED";
+        }
+
+        JSONObject set = all.getJSONObject(setCode);
         String name = set.getString("name");
 
         System.out.println(code + " : " + name);
@@ -465,10 +474,12 @@ public class Main {
             name += " Edition";
         }
 
-        for (String[] s : SETS) {
-            if (name.equals(s[0])) {
-                code = s[1];
-                break;
+        if (!code.equals("8EB") && !code.equals("9EB")) {
+            for (String[] s : SETS) {
+                if (name.equals(s[0])) {
+                    code = s[1];
+                    break;
+                }
             }
         }
 
@@ -622,6 +633,8 @@ public class Main {
             String code = it.next();
             printSet(all, code, null);
         }
+        printSet(all, "8EB", null);
+        printSet(all, "9EB", null);
         printSet(all, "HOP", "Plane");
         printSet(all, "PC2", "Plane2012");
         printSet(all, "ARC", "Scheme");
