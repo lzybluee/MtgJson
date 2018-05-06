@@ -182,9 +182,9 @@ public class Main {
             String mana = card.getString(key);
             mana = mana.replaceAll("/P", "P").replaceAll("\\{(.)\\}", "$1").replaceAll("\\{(\\d+)\\}", "$1");
 
-            if (!mana.contains("{")) {
-                mana = reorderMana(mana);
-            }
+            // if (!mana.contains("{")) {
+            // mana = reorderMana(mana);
+            // }
 
             out.append("<" + desc + ">" + mana + " (" + card.getInt("cmc") + ")</" + desc + ">\n");
         }
