@@ -472,14 +472,14 @@ public class Main {
 
         if (name.startsWith("Commander 201") && !name.endsWith("Edition")) {
             name += " Edition";
+        } else if(code.equals("8EB") || code.equals("9EB")) {
+            name += " Box Set";
         }
 
-        if (!code.equals("8EB") && !code.equals("9EB")) {
-            for (String[] s : SETS) {
-                if (name.equals(s[0])) {
-                    code = s[1];
-                    break;
-                }
+        for (String[] s : SETS) {
+            if (name.equals(s[0])) {
+                code = s[1];
+                break;
             }
         }
 
