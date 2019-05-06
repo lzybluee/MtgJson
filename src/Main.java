@@ -16,7 +16,7 @@ import org.json.JSONObject;
 
 public class Main {
 
-    static String[][] SETS = { { "Dominaria", "DOM" }, { "Rivals of Ixalan", "RIX" }, { "Ixalan", "XLN" },
+    static String[][] SETS = { /*{ "Dominaria", "DOM" }, { "Rivals of Ixalan", "RIX" }, { "Ixalan", "XLN" },
             { "Hour of Devastation", "HOU" }, { "Amonkhet", "AKH" }, { "Aether Revolt", "AER" }, { "Kaladesh", "KLD" },
             { "Eldritch Moon", "EMN" }, { "Shadows over Innistrad", "SOI" }, { "Oath of the Gatewatch", "OGW" },
             { "Battle for Zendikar", "BFZ" }, { "Magic Origins", "ORI" }, { "Dragons of Tarkir", "DTK" },
@@ -75,7 +75,8 @@ public class Main {
             { "MTGO Masters Edition", "MED" }, { "Commander Anthology", "CMA" }, { "Commander's Arsenal", "CM1" },
             { "Chronicles", "CH" }, { "Masterpiece Series: Amonkhet Invocations", "MPSAKH" },
             { "Masterpiece Series: Kaladesh Inventions", "MPSKLD" }, { "Zendikar Expeditions", "EXP" },
-            { "Unstable", "UST" }, { "Unhinged", "UH" }, { "Unglued", "UG" }, { "Commander Anthology", "CMAT" } };
+            { "Unstable", "UST" }, { "Unhinged", "UH" }, { "Unglued", "UG" }, { "Commander Anthology", "CMAT" },
+    		{ "Guilds of Ravnica", "GRN" }, { "Ravnica Allegiance", "RNA" }};
 
     static StringBuffer out;
     static HashMap<String, String> cardRule = new HashMap<>();
@@ -86,13 +87,23 @@ public class Main {
         }
     }
 
-    static void printNo(JSONObject card, String key, String desc) {
+    static void printNo(JSONObject card, String key, String desc, int n) {
+    	String num = n + "";
         if (card.has(key)) {
-            out.append("<" + desc + ">" + card.getString(key) + "</" + desc + ">\n");
+        	num = card.getString(key);
         } else if (card.has("mciNumber")) {
-            out.append("<" + desc + ">" + card.getString("mciNumber") + "</" + desc + ">\n");
+        	num = card.getString("mciNumber");
         }
-
+        if(card.has("layout") && card.getString("layout").equals("split")) {
+        	JSONArray names = card.getJSONArray("names");
+        	for(int j = 0 ; j < names.length(); j++) {
+        		if(names.getString(j).equals(card.getString("name"))) {
+        			num += (char)('a' + j);
+        			break;
+        		}
+        	}
+        }
+        out.append("<" + desc + ">" + num + "</" + desc + ">\n");
     }
 
     static String printName(JSONObject card, String key, String desc) {
@@ -176,7 +187,7 @@ public class Main {
         }
         return true;
     }
-
+   
     static void printMana(JSONObject card, String key, String desc) {
         if (card.has(key)) {
             String mana = card.getString(key);
@@ -185,21 +196,43 @@ public class Main {
             // if (!mana.contains("{")) {
             // mana = reorderMana(mana);
             // }
-
-            out.append("<" + desc + ">" + mana + " (" + card.getInt("cmc") + ")</" + desc + ">\n");
+            if(card.has("faceConvertedManaCost")) {
+                out.append("<" + desc + ">" + mana + " (" + card.getInt("faceConvertedManaCost") + ")</" + desc + ">\n");
+            } else {
+                out.append("<" + desc + ">" + mana + " (" + card.getInt("convertedManaCost") + ")</" + desc + ">\n");
+            }
         }
-        if ((!card.has(key) && card.has("colors"))
-                || (card.has(key) && card.has("colors") && isColorless(card.getString(key)))) {
+        if ((!card.has(key) && (card.has("colors") && card.getJSONArray("colors").length() > 0))
+                || (card.has(key) && (card.has("colors") && card.getJSONArray("colors").length() > 0) && isColorless(card.getString(key)))) {
             JSONArray colors = card.getJSONArray("colors");
             int size = colors.length();
-            out.append("<ColorIndicator>");
-            for (int i = 0; i < size; i++) {
-                out.append(colors.getString(i));
-                if (i < size - 1) {
-                    out.append(" ");
-                }
+            Vector<String> list = new Vector<>();
+            for(int i = 0; i < size; i++) {
+            	list.add(colors.getString(i));
             }
-            out.append("</ColorIndicator>\n");
+            String str = "";
+            if(list.contains("W")) {
+            	str += "White ";
+            }
+            if(list.contains("U")) {
+            	str += "Blue ";
+            }
+            if(list.contains("B")) {
+            	str += "Black ";
+            }
+            if(list.contains("R")) {
+            	str += "Red ";
+            }
+            if(list.contains("G")) {
+            	str += "Green ";
+            }
+            if(list.contains("C")) {
+            	str += "Colorless ";
+            }
+            if(str.endsWith(" ")) {
+            	str = str.substring(0, str.length() - 1);
+            }
+            out.append("<ColorIndicator>" + str + "</ColorIndicator>\n");
         }
     }
 
@@ -254,7 +287,7 @@ public class Main {
     }
 
     static void printRulings(JSONObject card, String key, String desc) {
-        if (card.has(key)) {
+        if (card.has(key) && card.getJSONArray(key).length() > 0) {
             JSONArray rules = card.getJSONArray(key);
             StringBuffer buffer = new StringBuffer();
             int size = rules.length();
@@ -267,30 +300,22 @@ public class Main {
                 }
             }
             String name = card.getString("name");
-            String str = buffer.toString().replaceAll(name, "<" + name + ">").replaceAll(" to your mana pool", "")
+            String str = buffer.toString().replaceAll("’", "'").replaceAll("[“”]", "\"")
+            		.replaceAll(name, "<" + name + ">").replaceAll(" to your mana pool", "")
                     .replaceAll("…", "...");
             out.append("<" + desc + ">" + str + "</" + desc + ">\n");
         }
     }
 
-    static void printLegal(JSONArray legals, String key) {
-        int size = legals.length();
-        String str = null;
-        for (int i = 0; i < size; i++) {
-            JSONObject legal = legals.getJSONObject(i);
-            if (legal.getString("format").equals(key)) {
-                str = legal.getString("legality");
-                break;
-            }
-        }
-        if (str != null) {
-            out.append("<" + key + ">" + str + "</" + key + ">\n");
+    static void printLegal(JSONObject legals, String key) {
+        if (legals.has(key.toLowerCase())) {
+            out.append("<" + key + ">" + legals.getString(key.toLowerCase()) + "</" + key + ">\n");
         }
     }
 
     static void printLegals(JSONObject card, String key) {
         if (card.has(key)) {
-            JSONArray legals = card.getJSONArray(key);
+            JSONObject legals = card.getJSONObject(key);
             printLegal(legals, "Vintage");
             printLegal(legals, "Legacy");
             printLegal(legals, "Modern");
@@ -301,7 +326,9 @@ public class Main {
         if (special || code.equals("EXP") || code.equals("MPSAKH") || code.equals("MPSAKH")) {
             out.append("<" + desc + ">" + "Special" + "</" + desc + ">\n");
         } else if (card.has(key)) {
-            out.append("<" + desc + ">" + card.getString(key).replace("Basic Land", "Land") + "</" + desc + ">\n");
+        	String rarity = card.getString(key).replace("Basic Land", "Land").replace("mythic", "Mythic Rare");
+        	rarity = rarity.substring(0, 1).toUpperCase() + rarity.substring(1);
+            out.append("<" + desc + ">" + rarity + "</" + desc + ">\n");
         }
     }
 
@@ -331,6 +358,12 @@ public class Main {
         }
     }
 
+    static void printFlavor(JSONObject card, String key, String desc) {
+        if (card.has(key)) {
+            out.append("<" + desc + ">" + card.getString(key).replaceAll("\\*", "") + "</" + desc + ">\n");
+        }
+    }
+
     static void printArtist(JSONObject card, String key, String desc) {
         if (card.has(key)) {
             out.append("<" + desc + ">" + card.getString(key).replaceAll("[“”]", "\"") + "</" + desc + ">\n");
@@ -340,18 +373,19 @@ public class Main {
     static void printWatermark(JSONObject card, String key, String desc) {
         if (card.has(key)) {
             String watermark = card.getString(key);
+            watermark = watermark.substring(0, 1).toUpperCase() + watermark.substring(1);
             if (watermark.equals("White") || watermark.equals("Blue") || watermark.equals("Black")
                     || watermark.equals("Red") || watermark.equals("Green")) {
                 return;
             }
-            out.append("<" + desc + ">" + card.get(key) + "</" + desc + ">\n");
+            out.append("<" + desc + ">" + watermark + "</" + desc + ">\n");
         }
     }
 
-    static void printCard(JSONObject card, String code, String set, boolean special) {
+    static void printCard(JSONObject card, String code, String set, boolean special, int num) {
         out.append("<Card>\n");
         out.append("<SetId>" + code + "</SetId>\n");
-        printNo(card, "number", "No");
+        printNo(card, "number", "No", num);
         String name = printName(card, "name", "Name");
         printType(card, "type", "Type");
         printMana(card, "manaCost", "ManaCost");
@@ -370,15 +404,15 @@ public class Main {
             }
         }
 
-        printEntry(card, "flavor", "Flavor");
+        printFlavor(card, "flavorText", "Flavor");
         printArtist(card, "artist", "Artist");
         if (code.equals("RAV") || code.equals("GP") || code.equals("DI") || code.equals("SOM") || code.equals("MBS")
                 || code.equals("NPH") || code.equals("RTR") || code.equals("GTC") || code.equals("DGM")
                 || code.equals("KTK") || code.equals("FRF") || code.equals("DTK") || code.equals("UST")
-                || code.equals("A25")) {
+                || code.equals("A25") || code.equals("GRN") || code.equals("RNA")) {
             printWatermark(card, "watermark", "Watermark");
         }
-        printEntry(card, "multiverseid", "Multiverseid");
+        printEntry(card, "multiverseId", "Multiverseid");
         printRulings(card, "rulings", "Rulings");
         if (card.has("reserved") && card.getBoolean("reserved")) {
             out.append("<Reserved>This card is on the reserved list</Reserved>\n");
@@ -453,9 +487,9 @@ public class Main {
         return ret;
     }
 
-    static boolean REORDER = true;
+    static boolean REORDER = false;
 
-    static void printSet(JSONObject all, String code, String special) {
+    static void printSet(JSONObject all, String code, String special, boolean isSet) {
         out = new StringBuffer();
 
         String setCode = code;
@@ -465,14 +499,21 @@ public class Main {
             setCode = "9ED";
         }
 
-        JSONObject set = all.getJSONObject(setCode);
+        JSONObject set = null;
+        
+        if(isSet) {
+        	set = all;
+        } else {
+        	set = all.getJSONObject(setCode);
+        }
+        
         String name = set.getString("name");
 
         System.out.println(code + " : " + name);
 
         if (name.startsWith("Commander 201") && !name.endsWith("Edition")) {
             name += " Edition";
-        } else if(code.equals("8EB") || code.equals("9EB")) {
+        } else if (code.equals("8EB") || code.equals("9EB")) {
             name += " Box Set";
         }
 
@@ -498,6 +539,7 @@ public class Main {
         }
 
         HashMap<String, Vector<JSONObject>> map = new HashMap<>();
+        HashMap<JSONObject, String[]> flavor_map = new HashMap<>();
 
         JSONArray cards = set.getJSONArray("cards");
         int size = cards.length();
@@ -507,9 +549,11 @@ public class Main {
             if (vector == null) {
                 return;
             }
+            int i = 1;
             for (JSONObject card : vector) {
-                printCard(card, code, name, special != null);
+                printCard(card, code, name, special != null, i);
                 out.append("\n");
+                i++;
             }
         } else {
             Vector<String> vector = new Vector<>();
@@ -537,6 +581,21 @@ public class Main {
                 if (num.isEmpty()) {
                     num = "999";
                 }
+                
+                if(num.contains("★")) {
+                	continue;
+                }
+                
+                if(card.has("layout") && card.getString("layout").equals("split")) {
+                	JSONArray names = card.getJSONArray("names");
+                	for(int j = 0 ; j < names.length(); j++) {
+                		if(names.getString(j).equals(card.getString("name"))) {
+                			num += (char)('a' + j);
+                			break;
+                		}
+                	}
+                }
+                
                 if (map.containsKey(num)) {
                     map.get(num).add(card);
                 } else {
@@ -546,6 +605,32 @@ public class Main {
                 }
                 // printCard(card, code, name);
                 // out.append("\n");
+                
+                String[] flavor = new String[4];
+
+                boolean chinese = false;
+                //System.out.println(card.getString("name"));
+                flavor[0] = card.getString("name");
+                JSONArray foreign = card.getJSONArray("foreignData");
+                for(int j = 0; j < foreign.length(); j++) {
+                	JSONObject obj = (JSONObject) foreign.get(j);
+                	if(obj.getString("language").equals("Chinese Simplified")) {
+                		//System.out.println(obj.getString("name"));
+                		flavor[1] = obj.getString("name");
+                		if(obj.has("flavorText")) {
+                			//System.out.println(card.getString("flavorText").replaceAll("\\*", ""));
+                			//System.out.println(obj.getString("flavorText"));
+                			flavor[2] = card.getString("flavorText").replaceAll("\\*", "");
+                			flavor[3] = obj.getString("flavorText");
+                		}
+                		chinese = true;
+                	}
+                }
+                if(!chinese) {
+                	System.out.println(flavor[0] + "!!!!!!!!!!!!!");
+                }
+                //System.out.println();
+                flavor_map.put(card, flavor);
             }
 
             for (String s : map.keySet()) {
@@ -557,20 +642,8 @@ public class Main {
                 public int compare(String arg0, String arg1) {
                     String n0 = arg0;
                     String n1 = arg1;
-                    if (arg0.startsWith("S") || arg0.startsWith("P") || arg0.startsWith("★")) {
-                        n0 = arg0.substring(1, arg0.length());
-                    }
-                    if (arg1.startsWith("S") || arg1.startsWith("P") || arg1.startsWith("★")) {
-                        n1 = arg1.substring(1, arg1.length());
-                    }
-                    if (arg0.endsWith("a") || arg0.endsWith("b") || arg0.endsWith("c") || arg0.endsWith("d")
-                            || arg0.endsWith("e")) {
-                        n0 = arg0.substring(0, arg0.length() - 1);
-                    }
-                    if (arg1.endsWith("a") || arg1.endsWith("b") || arg1.endsWith("c") || arg1.endsWith("d")
-                            || arg1.endsWith("e")) {
-                        n1 = arg1.substring(0, arg1.length() - 1);
-                    }
+                	n0 = n0.replaceAll("[^\\d]", "");
+                	n1 = n1.replaceAll("[^\\d]", "");
                     if (n0.equals(n1)) {
                         return arg0.compareTo(arg1);
                     } else {
@@ -581,7 +654,14 @@ public class Main {
 
             for (String s : vector) {
                 for (JSONObject card : map.get(s)) {
-                    printCard(card, code, name, special != null);
+                    printCard(card, code, name, special != null, 0);
+
+                    String[] flavor = flavor_map.get(card);
+                    System.out.println(flavor[0]);
+                    System.out.println(flavor[1]);
+                    if(flavor[2] != null) System.out.println(flavor[2]);
+                    if(flavor[3] != null) System.out.println(flavor[3]);
+                    System.out.println();
                     out.append("\n");
                 }
             }
@@ -605,8 +685,7 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) {
-        File file = new File("AllSets-x.json");
+    public static String loadJson(File file) {
         BufferedReader reader = null;
         StringBuffer str = new StringBuffer();
         try {
@@ -626,13 +705,40 @@ public class Main {
                 }
             }
         }
+        return str.toString();
+    }
 
-        JSONObject all = new JSONObject(str.toString());
+    public static String getJson(File file) {
+        if (file.isDirectory()) {
+            String str = "{";
+            for (File f : file.listFiles()) {
+                if (f.getName().endsWith(".json")) {
+                    String json = loadJson(f);
+                    String code = f.getName().substring(0, f.getName().indexOf(".json"));
+                    if (code.equals("CFX")) {
+                        code = "CON";
+                    }
+                    str += "\"" + code + "\":" + json + ",";
+                }
+            }
+            str += "}";
+            return str;
+        } else {
+            return loadJson(file);
+        }
+    }
+
+    public static void main(String[] args) {
+        String json = getJson(new File("WAR.json"));
+
+        JSONObject all = new JSONObject(json);
         Iterator<String> it = all.keys();
         while (it.hasNext()) {
             String code = it.next();
-            printSet(all, code, null);
+            System.out.println(">>> " + code);
+            printSet(all, code, null, false);
         }
+
         printSet(all, "8EB", null);
         printSet(all, "9EB", null);
         printSet(all, "HOP", "Plane");
