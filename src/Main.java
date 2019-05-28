@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
@@ -16,7 +17,7 @@ import org.json.JSONObject;
 
 public class Main {
 
-    static String[][] SETS = { /*{ "Dominaria", "DOM" }, { "Rivals of Ixalan", "RIX" }, { "Ixalan", "XLN" },
+    static String[][] SETS = { { "Dominaria", "DOM" }, { "Rivals of Ixalan", "RIX" }, { "Ixalan", "XLN" },
             { "Hour of Devastation", "HOU" }, { "Amonkhet", "AKH" }, { "Aether Revolt", "AER" }, { "Kaladesh", "KLD" },
             { "Eldritch Moon", "EMN" }, { "Shadows over Innistrad", "SOI" }, { "Oath of the Gatewatch", "OGW" },
             { "Battle for Zendikar", "BFZ" }, { "Magic Origins", "ORI" }, { "Dragons of Tarkir", "DTK" },
@@ -29,7 +30,7 @@ public class Main {
             { "Magic 2010", "M10" }, { "Alara Reborn", "ARB" }, { "Conflux", "CFX" }, { "Shards of Alara", "ALA" },
             { "Eventide", "EVE" }, { "Shadowmoor", "SHM" }, { "Morningtide", "MT" }, { "Lorwyn", "LW" },
             { "Tenth Edition", "10E" }, { "Future Sight", "FUT" }, { "Planar Chaos", "PC" },
-            { "Time Spiral \"Timeshifted\"", "TSTS" }, { "Time Spiral", "TS" }, { "Coldsnap", "CS" },
+            { "Time Spiral Timeshifted", "TSTS" }, { "Time Spiral", "TS" }, { "Coldsnap", "CS" },
             { "Dissension", "DI" }, { "Guildpact", "GP" }, { "Ravnica: City of Guilds", "RAV" },
             { "Ninth Edition", "9E" }, { "Ninth Edition Boxed Set", "9EB" }, { "Saviors of Kamigawa", "SOK" },
             { "Betrayers of Kamigawa", "BOK" }, { "Champions of Kamigawa", "CHK" }, { "Fifth Dawn", "5DN" },
@@ -72,9 +73,9 @@ public class Main {
             { "Premium Deck Series: Graveborn", "PD3" }, { "Premium Deck Series: Fire and Lightning", "PD2" },
             { "Premium Deck Series: Slivers", "PDS" }, { "MTGO Masters Edition IV", "ME4" },
             { "MTGO Masters Edition III", "ME3" }, { "MTGO Masters Edition II", "ME2" },
-            { "MTGO Masters Edition", "MED" }, { "Commander Anthology", "CMA" }, { "Commander's Arsenal", "CM1" },
-            { "Chronicles", "CH" }, { "Masterpiece Series: Amonkhet Invocations", "MPSAKH" },
-            { "Masterpiece Series: Kaladesh Inventions", "MPSKLD" }, { "Zendikar Expeditions", "EXP" },
+            { "Masters Edition", "MED" }, { "Commander Anthology", "CMA" }, { "Commander's Arsenal", "CM1" },
+            { "Chronicles", "CH" }, { "Amonkhet Invocations", "MPSAKH" },
+            { "Kaladesh Inventions", "MPSKLD" }, { "Zendikar Expeditions", "EXP" },
             { "Unstable", "UST" }, { "Unhinged", "UH" }, { "Unglued", "UG" }, { "Commander Anthology", "CMAT" },
     		{ "Guilds of Ravnica", "GRN" }, { "Ravnica Allegiance", "RNA" }};
 
@@ -94,13 +95,16 @@ public class Main {
         } else if (card.has("mciNumber")) {
         	num = card.getString("mciNumber");
         }
-        if(card.has("layout") && card.getString("layout").equals("split")) {
-        	JSONArray names = card.getJSONArray("names");
-        	for(int j = 0 ; j < names.length(); j++) {
-        		if(names.getString(j).equals(card.getString("name"))) {
-        			num += (char)('a' + j);
-        			break;
-        		}
+        if(card.has("layout")) {
+        	String layout = card.getString("layout");
+        	if(layout.equals("split") || layout.equals("flip") || layout.equals("transform") || layout.equals("aftermath")) {
+	        	JSONArray names = card.getJSONArray("names");
+	        	for(int j = 0 ; j < names.length(); j++) {
+	        		if(names.getString(j).equals(card.getString("name"))) {
+	        			num += (char)('a' + j);
+	        			break;
+	        		}
+	        	}
         	}
         }
         out.append("<" + desc + ">" + num + "</" + desc + ">\n");
@@ -300,7 +304,7 @@ public class Main {
                 }
             }
             String name = card.getString("name");
-            String str = buffer.toString().replaceAll("’", "'").replaceAll("[“”]", "\"")
+            String str = buffer.toString().replaceAll("[‘’]", "'").replaceAll("[“”]", "\"")
             		.replaceAll(name, "<" + name + ">").replaceAll(" to your mana pool", "")
                     .replaceAll("…", "...");
             out.append("<" + desc + ">" + str + "</" + desc + ">\n");
@@ -322,9 +326,11 @@ public class Main {
         }
     }
 
-    static void printRarity(JSONObject card, String key, String desc, String code, boolean special) {
-        if (special || code.equals("EXP") || code.equals("MPSAKH") || code.equals("MPSAKH")) {
+    static void printRarity(JSONObject card, String key, String desc, String name, String code, boolean special) {
+        if (special || code.equals("EXP") || code.equals("MPSKLD") || code.equals("MPSAKH") || code.equals("TSTS")) {
             out.append("<" + desc + ">" + "Special" + "</" + desc + ">\n");
+        } else if(name.equals("Plains") || name.equals("Island") || name.equals("Swamp") || name.equals("Mountain") || name.equals("Forest")) {
+        	out.append("<" + desc + ">" + "Land" + "</" + desc + ">\n");
         } else if (card.has(key)) {
         	String rarity = card.getString(key).replace("Basic Land", "Land").replace("mythic", "Mythic Rare");
         	rarity = rarity.substring(0, 1).toUpperCase() + rarity.substring(1);
@@ -360,7 +366,8 @@ public class Main {
 
     static void printFlavor(JSONObject card, String key, String desc) {
         if (card.has(key)) {
-            out.append("<" + desc + ">" + card.getString(key).replaceAll("\\*", "") + "</" + desc + ">\n");
+            out.append("<" + desc + ">" + card.getString(key).replaceAll("…", ". . .").replaceAll("\\*", "").replaceAll("\" —", "\"\n—")
+            		.replaceAll("\\. —", "\\.\n—") + "</" + desc + ">\n");
         }
     }
 
@@ -374,18 +381,32 @@ public class Main {
         if (card.has(key)) {
             String watermark = card.getString(key);
             watermark = watermark.substring(0, 1).toUpperCase() + watermark.substring(1);
+            watermark = watermark.replace("Orderofthewidget", "Order of the Widget")
+            		.replace("Leagueofdastardlydoom", "League of Dastardly Doom")
+            		.replace("Agentsofsneak", "Agents of S.N.E.A.K.")
+            		.replace("Goblinexplosioneers", "Goblin Explosioneers")
+            		.replace("Crossbreedlabs", "Crossbreed Labs");
             if (watermark.equals("White") || watermark.equals("Blue") || watermark.equals("Black")
-                    || watermark.equals("Red") || watermark.equals("Green")) {
+                    || watermark.equals("Red") || watermark.equals("Green") || watermark.startsWith("Set (")
+                    || watermark.equals("Conspiracy")) {
                 return;
             }
             out.append("<" + desc + ">" + watermark + "</" + desc + ">\n");
         }
     }
+    
+    static Vector<String> reorderSet = new Vector<>(Arrays.asList(new String[] {"MR", "4E", "6E", 
+    		"WL", "UN", "AL", "BE", "RV", "SH", "VI", "PO", "TP", "5E", "AI",
+    		"CH", "DK", "FE", "IA", "PO2", "AQ", "AN", "HL", "LG"}));
 
     static void printCard(JSONObject card, String code, String set, boolean special, int num) {
         out.append("<Card>\n");
         out.append("<SetId>" + code + "</SetId>\n");
-        printNo(card, "number", "No", num);
+        if(reorderSet.contains(code)) {
+        	out.append("<No>" + num + "</No>\n");
+        } else {
+        	printNo(card, "number", "No", num);
+        }
         String name = printName(card, "name", "Name");
         printType(card, "type", "Type");
         printMana(card, "manaCost", "ManaCost");
@@ -406,26 +427,21 @@ public class Main {
 
         printFlavor(card, "flavorText", "Flavor");
         printArtist(card, "artist", "Artist");
-        if (code.equals("RAV") || code.equals("GP") || code.equals("DI") || code.equals("SOM") || code.equals("MBS")
-                || code.equals("NPH") || code.equals("RTR") || code.equals("GTC") || code.equals("DGM")
-                || code.equals("KTK") || code.equals("FRF") || code.equals("DTK") || code.equals("UST")
-                || code.equals("A25") || code.equals("GRN") || code.equals("RNA")) {
-            printWatermark(card, "watermark", "Watermark");
-        }
+        printWatermark(card, "watermark", "Watermark");
         printEntry(card, "multiverseId", "Multiverseid");
         printRulings(card, "rulings", "Rulings");
-        if (card.has("reserved") && card.getBoolean("reserved")) {
+        if (card.has("isReserved") && card.getBoolean("isReserved")) {
             out.append("<Reserved>This card is on the reserved list</Reserved>\n");
         }
         printLegals(card, "legalities");
         out.append("<Set>" + set + "</Set>\n");
-        printRarity(card, "rarity", "Rarity", code, special);
+        printRarity(card, "rarity", "Rarity", name, code, special);
         printOtherPart(card, "names", "OtherPart");
         out.append("</Card>\n");
     }
 
     static Vector<JSONObject> getReordered(JSONArray array, String code, String special) {
-        File file = new File("C:\\Users\\LU_cifer\\workspace\\JniLua\\Oracle\\MtgOracle_"
+        File file = new File("D:\\Java_Project\\Jni\\Oracle\\MtgOracle_"
                 + (special == null ? code : special) + ".txt");
         if (!file.exists()) {
             return null;
@@ -473,7 +489,12 @@ public class Main {
             String name = names.get(i);
             boolean found = false;
             for (JSONObject card : all) {
-                if (card.has("multiverseid") && id == card.getInt("multiverseid")) {
+                if (card.has("multiverseId") && id == card.getInt("multiverseId")) {
+                	if(card.has("names") && card.getJSONArray("names").length() > 1) {
+                		if(!name.equals(card.getString("name"))) {
+                			continue;
+                		}
+                	}
                     ret.add(card);
                     all.remove(card);
                     found = true;
@@ -487,26 +508,14 @@ public class Main {
         return ret;
     }
 
-    static boolean REORDER = false;
+    static boolean REORDER = true;
 
-    static void printSet(JSONObject all, String code, String special, boolean isSet) {
+    static void printSet(JSONObject set) {
         out = new StringBuffer();
 
-        String setCode = code;
-        if (code.equals("8EB")) {
-            setCode = "8ED";
-        } else if (code.equals("9EB")) {
-            setCode = "9ED";
-        }
-
-        JSONObject set = null;
+        String special = null;
         
-        if(isSet) {
-        	set = all;
-        } else {
-        	set = all.getJSONObject(setCode);
-        }
-        
+        String code = set.getString("code");
         String name = set.getString("name");
 
         System.out.println(code + " : " + name);
@@ -536,6 +545,18 @@ public class Main {
             name = name.replace("the", "The");
         } else if (name.contains(" (2014)")) {
             name = name.replace(" (2014)", "");
+        } else if (name.startsWith("Global Series ")) {
+            name = name.replace("Global Series ", "Global Series: ");
+        } else if (name.startsWith("Modern Masters 201")) {
+            name = name + " Edition";
+        } else if (name.endsWith(" Timeshifted")) {
+        	name = name.replace("Timeshifted", "\"Timeshifted\"");
+        } else if (name.startsWith("Commander 2011 Edition")) {
+        	name = "Commander";
+        } else if (name.startsWith("Planechase 2012")) {
+        	name = name + " Edition";
+        } else if (name.equals("Master Edition")) {
+        	name = "MTGO " + name;
         }
 
         HashMap<String, Vector<JSONObject>> map = new HashMap<>();
@@ -546,7 +567,7 @@ public class Main {
 
         if (REORDER) {
             Vector<JSONObject> vector = getReordered(cards, code, special);
-            if (vector == null) {
+            if (vector == null || vector.isEmpty()) {
                 return;
             }
             int i = 1;
@@ -620,6 +641,10 @@ public class Main {
                 		if(obj.has("flavorText")) {
                 			//System.out.println(card.getString("flavorText").replaceAll("\\*", ""));
                 			//System.out.println(obj.getString("flavorText"));
+                			if(!card.has("flavorText")) {
+                				System.err.println("'" + flavor[0] + "' " + "no flavorText");
+                				continue;
+                			}
                 			flavor[2] = card.getString("flavorText").replaceAll("\\*", "");
                 			flavor[3] = obj.getString("flavorText");
                 		}
@@ -656,13 +681,13 @@ public class Main {
                 for (JSONObject card : map.get(s)) {
                     printCard(card, code, name, special != null, 0);
 
-                    String[] flavor = flavor_map.get(card);
+                    /*String[] flavor = flavor_map.get(card);
                     System.out.println(flavor[0]);
                     System.out.println(flavor[1]);
                     if(flavor[2] != null) System.out.println(flavor[2]);
                     if(flavor[3] != null) System.out.println(flavor[3]);
                     System.out.println();
-                    out.append("\n");
+                    out.append("\n");*/
                 }
             }
         }
@@ -729,22 +754,23 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String json = getJson(new File("WAR.json"));
-
+    	for(File file : new File("Json").listFiles()) {
+    		/*if(!file.getName().contains("ME1")) {
+    			continue;
+    		}*/
+    		String json = getJson(file);
+            JSONObject set = new JSONObject(json);
+            printSet(set);
+    	}
+        
+    	/*String json = getJson(new File("AllCards.json"));
         JSONObject all = new JSONObject(json);
-        Iterator<String> it = all.keys();
-        while (it.hasNext()) {
-            String code = it.next();
-            System.out.println(">>> " + code);
-            printSet(all, code, null, false);
-        }
-
         printSet(all, "8EB", null);
         printSet(all, "9EB", null);
         printSet(all, "HOP", "Plane");
         printSet(all, "PC2", "Plane2012");
         printSet(all, "ARC", "Scheme");
-        printSet(all, "E01", "SchemeNicolBolas");
+        printSet(all, "E01", "SchemeNicolBolas");*/
     }
 
 }
