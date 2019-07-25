@@ -1,0 +1,143 @@
+<Card>
+<SetId>G11</SetId>
+<No>1</No>
+<Name>Bitterblossom</Name>
+<Type>Tribal Enchantment — Faerie</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.</CardText>
+<Flavor>In Lorwyn's brief evenings, the sun pauses at the horizon long enough for a certain species of violet to bloom with the fragrance of mischief.</Flavor>
+<Artist>Nils Hamm</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2008/04/01: The effect is mandatory. You'll lose 1 life even if you have only 1 life left.
+2008/04/01: The life loss isn't a payment. You'll get a token even if you had 0 life (and another effect is stopping you from losing the game).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>2</No>
+<Name>Sword of Fire and Ice</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from red and from blue.
+Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card.
+Equip {2}</CardText>
+<Artist>Mark Zug</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2013/06/07: The triggered ability has one target: the permanent or player to be dealt 2 damage. If that permanent or player is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>3</No>
+<Name>Vendilion Clique</Name>
+<Type>Legendary Creature — Faerie Wizard 3/1</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Flash
+Flying
+When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>4</No>
+<Name>Entomb</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Search your library for a card and put that card into your graveyard. Then shuffle your library.</CardText>
+<Flavor>A grave is the safest place to store ill-gotten treasures.</Flavor>
+<Artist>Ron Spears</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>5</No>
+<Name>Mana Crypt</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+{T}: Add {C}{C}.</CardText>
+<Artist>Matt Stewart</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2016/06/08: No player may choose to take actions between determining the result of the flip and damage being dealt if you lost the flip.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>6</No>
+<Name>Dark Confidant</Name>
+<Type>Creature — Human Wizard 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.</CardText>
+<Flavor>Greatness, at any cost.</Flavor>
+<Artist>Ron Spears</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>7</No>
+<Name>Doubling Season</Name>
+<Type>Enchantment</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</CardText>
+<Artist>Chuck Lukacs</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2005/10/01: The tokens and counters that <Doubling Season> creates are exact copies of the kind of tokens and counters that were being created in the first place.
+2005/10/01: <Doubling Season> affects cards that "enter the battlefield with" a certain number of counters. Triskelion, for example, would enter the battlefield with six +1/+1 counters on it rather than three.
+2005/10/01: If there are two <Doubling Season>s on the battlefield, then the number of tokens or counters is four times the original number. If there are three on the battlefield, then the number of tokens or counters is eight times the original number, and so on.
+2005/10/01: Planeswalkers will enter the battlefield with double the normal amount of loyalty counters. However, if you activate an ability whose cost has you put loyalty counters on a planeswalker, the number you put on isn't doubled. This is because those counters are put on as a cost, not as an effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G11</SetId>
+<No>8</No>
+<Name>Goblin Welder</Name>
+<Type>Creature — Goblin Artificer 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.</CardText>
+<Flavor>"I wrecked your metal guy, boss. But look! I made you an ashtray."</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2008/08/01: As the new wording makes clear, both targets must still be legal as the ability resolves in order for it to do anything. If either one or both has become illegal, nothing gets sacrificed and nothing gets returned to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,1561 @@
+<Card>
+<SetId>PEMN</SetId>
+<No>2s</No>
+<Name>Decimator of the Provinces</Name>
+<Type>Creature — Eldrazi Boar 7/7</Type>
+<ManaCost>10 (10)</ManaCost>
+<CardText>Emerge {6}{G}{G}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+When you cast this spell, creatures you control get +2/+2 and gain trample until end of turn.
+Trample, haste</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2016/07/13: The set of creatures affected by the triggered ability is determined as the ability resolves. Creatures you begin to control later in the turn won't get +2/+2 or trample.
+2016/07/13: The triggered ability resolves before <Decimator of the Provinces> enters the battlefield, so it won't get +2/+2 from its own triggered ability.
+2016/07/13: A "when you cast" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered.
+2016/07/13: Each card with emerge is colorless and has an emerge cost that includes one or more colors of mana. These cards are still colorless if you pay the emerge cost.
+2016/07/13: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is the back face of a double-faced card, is a melded permanent, or is copying something else; see below). If the mana cost includes {X}, X is considered to be 0. If it's a single-faced card with no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) that were paid as the creature was cast.
+2016/07/13: Colored mana components of emerge costs can't be reduced with emerge.
+2016/07/13: You may sacrifice a creature with a converted mana cost of 0, such as a token creature that's not a copy of another permanent, to cast a spell for its emerge cost. You'll just pay the full emerge cost with no reduction.
+2016/07/13: You may sacrifice a creature with converted mana cost greater than or equal to the emerge cost. If you do, you'll pay only the colored mana component of the emerge cost.
+2016/07/13: If you sacrifice a creature with {X} in its mana cost, that X is considered to be 0.
+2016/07/13: The converted mana cost of the back face of a double-faced card is the converted mana cost of its front face. The converted mana cost of a melded permanent is the sum of the converted mana costs of its front faces. A creature that's a copy of either has a converted mana cost of 0.
+2016/07/13: The converted mana cost of a creature spell with emerge isn't affected by whether its emerge cost is paid. For example, if you cast Elder Deep-Fiend for its emerge cost and sacrifice a creature whose converted mana cost is 3, Elder Deep-Fiend's converted mana cost remains 8.
+2016/07/13: The creature chosen to be sacrificed is still on the battlefield up through the time that you activate mana abilities. Its abilities may affect the spell's cost, be activated to generate mana, and so on. However, if it has an ability that triggers when a spell is cast, it will have been sacrificed before that ability can trigger.
+2016/07/13: Once you begin to cast a spell with emerge, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>3s</No>
+<Name>Distended Mindbender</Name>
+<Type>Creature — Eldrazi Insect 5/5</Type>
+<ManaCost>8 (8)</ManaCost>
+<CardText>Emerge {5}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with converted mana cost 3 or less and a card with converted mana cost 4 or greater. That player discards those cards.</CardText>
+<Artist>Yohann Schepacz</Artist>
+<Rulings>2016/07/13: <Distended Mindbender>'s last ability triggers after you've taken all the actions necessary to cast the spell.
+2016/07/13: If a card in a player's hand has {X} in its mana cost, X is considered to be 0.
+2016/07/13: You must choose two appropriate cards if able.
+2016/07/13: If there aren't two appropriate cards to choose, choose whichever you can and that player discards that card.
+2016/07/13: A "when you cast" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered.
+2016/07/13: Each card with emerge is colorless and has an emerge cost that includes one or more colors of mana. These cards are still colorless if you pay the emerge cost.
+2016/07/13: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is the back face of a double-faced card, is a melded permanent, or is copying something else; see below). If the mana cost includes {X}, X is considered to be 0. If it's a single-faced card with no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) that were paid as the creature was cast.
+2016/07/13: Colored mana components of emerge costs can't be reduced with emerge.
+2016/07/13: You may sacrifice a creature with a converted mana cost of 0, such as a token creature that's not a copy of another permanent, to cast a spell for its emerge cost. You'll just pay the full emerge cost with no reduction.
+2016/07/13: You may sacrifice a creature with converted mana cost greater than or equal to the emerge cost. If you do, you'll pay only the colored mana component of the emerge cost.
+2016/07/13: If you sacrifice a creature with {X} in its mana cost, that X is considered to be 0.
+2016/07/13: The converted mana cost of the back face of a double-faced card is the converted mana cost of its front face. The converted mana cost of a melded permanent is the sum of the converted mana costs of its front faces. A creature that's a copy of either has a converted mana cost of 0.
+2016/07/13: The converted mana cost of a creature spell with emerge isn't affected by whether its emerge cost is paid. For example, if you cast Elder Deep-Fiend for its emerge cost and sacrifice a creature whose converted mana cost is 3, Elder Deep-Fiend's converted mana cost remains 8.
+2016/07/13: The creature chosen to be sacrificed is still on the battlefield up through the time that you activate mana abilities. Its abilities may affect the spell's cost, be activated to generate mana, and so on. However, if it has an ability that triggers when a spell is cast, it will have been sacrificed before that ability can trigger.
+2016/07/13: Once you begin to cast a spell with emerge, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>5s</No>
+<Name>Elder Deep-Fiend</Name>
+<Type>Creature — Eldrazi Octopus 5/6</Type>
+<ManaCost>8 (8)</ManaCost>
+<CardText>Flash
+Emerge {5}{U}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+When you cast this spell, tap up to four target permanents.</CardText>
+<Artist>Jason Felix</Artist>
+<Rulings>2016/07/13: A "when you cast" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered.
+2016/07/13: Each card with emerge is colorless and has an emerge cost that includes one or more colors of mana. These cards are still colorless if you pay the emerge cost.
+2016/07/13: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is the back face of a double-faced card, is a melded permanent, or is copying something else; see below). If the mana cost includes {X}, X is considered to be 0. If it's a single-faced card with no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) that were paid as the creature was cast.
+2016/07/13: Colored mana components of emerge costs can't be reduced with emerge.
+2016/07/13: You may sacrifice a creature with a converted mana cost of 0, such as a token creature that's not a copy of another permanent, to cast a spell for its emerge cost. You'll just pay the full emerge cost with no reduction.
+2016/07/13: You may sacrifice a creature with converted mana cost greater than or equal to the emerge cost. If you do, you'll pay only the colored mana component of the emerge cost.
+2016/07/13: If you sacrifice a creature with {X} in its mana cost, that X is considered to be 0.
+2016/07/13: The converted mana cost of the back face of a double-faced card is the converted mana cost of its front face. The converted mana cost of a melded permanent is the sum of the converted mana costs of its front faces. A creature that's a copy of either has a converted mana cost of 0.
+2016/07/13: The converted mana cost of a creature spell with emerge isn't affected by whether its emerge cost is paid. For example, if you cast <Elder Deep-Fiend> for its emerge cost and sacrifice a creature whose converted mana cost is 3, <Elder Deep-Fiend>'s converted mana cost remains 8.
+2016/07/13: The creature chosen to be sacrificed is still on the battlefield up through the time that you activate mana abilities. Its abilities may affect the spell's cost, be activated to generate mana, and so on. However, if it has an ability that triggers when a spell is cast, it will have been sacrificed before that ability can trigger.
+2016/07/13: Once you begin to cast a spell with emerge, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>6s</No>
+<Name>Emrakul, the Promised End</Name>
+<Type>Legendary Creature — Eldrazi 13/13</Type>
+<ManaCost>13 (13)</ManaCost>
+<CardText>This spell costs {1} less to cast for each card type among cards in your graveyard.
+When you cast this spell, you gain control of target opponent during that player's next turn. After that turn, that player takes an extra turn.
+Flying, trample, protection from instants</CardText>
+<Flavor>An enigma as vexing as life itself.</Flavor>
+<Artist>Jaime Jones</Artist>
+<Rulings>2016/07/13: You only control the player. You don't control any of that player's permanents, spells, or abilities.
+2016/07/13: The card types that could appear in your graveyard are artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal (a card type that appears on some older cards). Supertypes (such as legendary and basic) and subtypes (such as Human and Equipment) are not counted. The maximum discount that Emrakul's own ability can provide is {8}.
+2016/07/13: Protection from instants means that Emrakul can't be the target of instant spells or activated or triggered abilities from instant cards, and damage that would be dealt to it by instant spells or cards is prevented. Instant spells may still affect it in other ways; for example, it would still receive the bonus from Borrowed Grace.
+2016/07/13: Protection abilities only apply while the object with the ability is on the battlefield. Notably, Emrakul may be the target of a spell that targets it while on the stack, such as Convolute.
+2016/07/13: The player you're controlling is still the active player during that turn.
+2016/07/13: While controlling another player, you also continue to make your own choices and decisions.
+2016/07/13: While controlling another player, you make all choices and decisions that player is allowed to make or is told to make during that turn. This includes choices about what spells to cast or what abilities to activate, as well as any decisions called for by triggered abilities or for any other reason.
+2016/07/13: You can't make the affected player concede. That player may choose to concede at any time, even while you're controlling that player.
+2016/07/13: You can't make any illegal decisions or illegal choices—you can't do anything that player couldn't do. You can't make choices or decisions for that player that aren't called for by the game rules or by any cards, permanents, spells, abilities, and so on. If an effect causes another player to make decisions that the affected player would normally make (such as Master Warcraft does), that effect takes precedence. In other words, if the affected player wouldn't make a decision, you wouldn't make that decision on that player's behalf.
+2016/07/13: You also can't make any choices or decisions for the player that would be called for by the tournament rules (such as whether to take an intentional draw or whether to call a judge).
+2016/07/13: You can use only the affected player's resources (cards, mana, and so on) to pay costs for that player; you can't use your own. Similarly, you can use the affected player's resources only to pay that player's costs; you can't spend them on your costs.
+2016/07/13: If the targeted player skips their next turn, you'll control the next turn the affected player actually takes, and the extra turn the player takes will be after that turn.
+2016/07/13: Multiple player-controlling effects that affect the same player overwrite each other. The last one to be created is the one that works. If multiple players have cast Emrakul and targeted the same player, each ability's effect will create an extra turn.
+2016/07/13: If the targeted player loses the game while you control their turn during a multiplayer game, no extra turn is created.
+2016/07/13: In a Two-Headed Giant game, gaining control of a player causes you to gain control of each player on that team.
+2016/07/13: A "when you cast" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered.
+2016/07/13: While controlling another player, you can see all cards in the game that player can see. This includes cards in that player's hand, face-down cards that player controls, and any cards in that player's library the player may look at.
+2016/07/13: Controlling a player doesn't allow you to look at that player's sideboard. If an effect instructs that player to choose a card from outside the game, you can't have that player choose any card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>7s</No>
+<Name>Eternal Scourge</Name>
+<Type>Creature — Eldrazi Horror 3/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>You may cast Eternal Scourge from exile.
+When Eternal Scourge becomes the target of a spell or ability an opponent controls, exile Eternal Scourge.</CardText>
+<Flavor>"It has latched onto this place like an infestation. All efforts at eradication have proved futile."
+—Yeter, Trostad villager</Flavor>
+<Artist>Winona Nelson</Artist>
+<Rulings>2016/07/13: You must follow the normal timing permissions and restrictions and pay its cost to cast <Eternal Scourge> from exile.
+2016/07/13: <Eternal Scourge>'s triggered ability only triggers while it's on the battlefield. For example, Convolute cast targeting <Eternal Scourge> won't cause its ability to trigger.
+2016/07/13: You'll exile <Eternal Scourge> even if the spell or ability that targets it is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>15as</No>
+<Name>Bruna, the Fading Light</Name>
+<Type>Legendary Creature — Angel Horror 5/7</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.
+Flying, vigilance
+(Melds with Gisela, the Broken Blade.)</CardText>
+<Flavor>She now sees only Emrakul's visions.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Rulings>2016/07/13: In a Commander game, your commander may be <Bruna, the Fading Light> or Gisela, the Broken Blade, and the other may be in your deck. If they meld into Brisela, Voice of Nightmares, Brisela will also be your commander; but if Brisela leaves the battlefield, only the card chosen as your commander at the start of the game may be put into the command zone.
+2016/07/13: A "when you cast" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered.
+2016/07/13: Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast.
+2016/07/13: For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (https://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Brisela, Voice of Nightmares</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>15bs</No>
+<Name>Brisela, Voice of Nightmares</Name>
+<Type>Legendary Creature — Eldrazi Angel 9/10</Type>
+<CardText>Flying, first strike, vigilance, lifelink
+Your opponents can't cast spells with converted mana cost 3 or less.</CardText>
+<Flavor>Upon discovering what had become of her sisters, Sigarda could only weep.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Rulings>2016/07/13: In a Commander game, your commander may be Bruna, the Fading Light or Gisela, the Broken Blade, and the other may be in your deck. If they meld into <Brisela, Voice of Nightmares>, Brisela will also be your commander; but if Brisela leaves the battlefield, only the card chosen as your commander at the start of the game may be put into the command zone.
+2016/07/13: A "when you cast" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered.
+2016/07/13: Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast.
+2016/07/13: For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (https://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Bruna, the Fading Light</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>17s</No>
+<Name>Collective Effort</Name>
+<Type>Sorcery</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target creature with power 4 or greater.
+• Destroy target enchantment.
+• Put a +1/+1 counter on each creature target player controls.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2016/07/13: You can tap any untapped creature you control to pay the escalate cost, including one you haven't controlled continuously since the beginning of the turn.
+2016/07/13: If you choose the first and third modes, and destroying the creature ends an "exile until" effect (such as that of Lunarch Inquisitors), the creature will return to the battlefield before you put +1/+1 counters on creatures. The same is true if you choose the second and third modes and destroying the enchantment ends such an effect.
+2016/07/13: You choose all of your modes at once. You can't wait to perform one mode's actions and then decide to choose more modes.
+2016/07/13: You can't choose any one mode multiple times.
+2016/07/13: If two of the chosen modes of an escalate spell target a creature, you may choose the same creature for each mode's target, or choose different creatures. The same is true if the chosen modes target a player (or opponent).
+2016/07/13: If one target of an escalate spell becomes illegal, the other targets will still be affected. If all of the targets become illegal, the spell won't resolve.
+2016/07/13: Effects that reduce the cost of spells reduce the total cost, including any escalate costs added.
+2016/07/13: If an effect allows you to cast a spell that has escalate without paying its mana cost, you pay escalate costs for that spell if you choose more than one mode.
+2016/07/13: Additional costs don't affect a spell's converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>20s</No>
+<Name>Deploy the Gatewatch</Name>
+<Type>Sorcery</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Look at the top seven cards of your library. Put up to two planeswalker cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</CardText>
+<Flavor>Gideon and Liliana may not have seen eye to eye, but that did not stop them from fighting side by side.</Flavor>
+<Artist>Wesley Burt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>28as</No>
+<Name>Gisela, the Broken Blade</Name>
+<Type>Legendary Creature — Angel Horror 4/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Flying, first strike, lifelink
+At the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.</CardText>
+<Flavor>She now hears only Emrakul's murmurs.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Rulings>2016/07/13: In a Commander game, your commander may be Bruna, the Fading Light or <Gisela, the Broken Blade>, and the other may be in your deck. If they meld into Brisela, Voice of Nightmares, Brisela will also be your commander; but if Brisela leaves the battlefield, only the card chosen as your commander at the start of the game may be put into the command zone.
+2016/07/13: Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast.
+2016/07/13: For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (https://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Bruna, the Fading Light</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>37s</No>
+<Name>Providence</Name>
+<Type>Sorcery</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, your life total becomes 26.
+Your life total becomes 26.</CardText>
+<Flavor>There is power in prayer, regardless of who is listening.</Flavor>
+<Artist>Zack Stella</Artist>
+<Rulings>2016/07/13: For a player's life total to become 26, the player gains or loses the appropriate amount of life. For example, if your life total is 4 when <Providence> resolves, it will cause you to gain 22 life; alternatively, if your life total is 40 when it resolves, it will cause you to lose 14 life. Other cards that interact with life gain or life loss will interact with this effect accordingly.
+2016/07/13: Your "opening hand" is the hand of cards you decide to start the game with after taking any mulligans.
+2016/07/13: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans and "scryed" if applicable. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.
+2016/07/13: Revealing multiples of <Providence> from your opening hand won't cause your life total to become 32 or any number other than 26.
+2016/07/13: In a Two-Headed Giant game, <Providence> causes the team's life total to become 26, but only you actually gain or lose life. (Each team's starting life total in a Two-Headed Giant game is normally 30.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>39</No>
+<Name>Sanctifier of Souls</Name>
+<Type>Creature — Human Cleric 2/3</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn.
+{2}{W}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.</CardText>
+<Artist>David Palumbo</Artist>
+<Rulings>2016/07/13: The last ability functions only while <Sanctifier of Souls> is on the battlefield. You can't activate it while <Sanctifier of Souls> is in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>39s</No>
+<Name>Sanctifier of Souls</Name>
+<Type>Creature — Human Cleric 2/3</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn.
+{2}{W}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2016/07/13: The last ability functions only while <Sanctifier of Souls> is on the battlefield. You can't activate it while <Sanctifier of Souls> is in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>40s</No>
+<Name>Selfless Spirit</Name>
+<Type>Creature — Spirit Cleric 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+Sacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.</CardText>
+<Flavor>"There is always more to give."</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2016/07/13: The set of creatures affected by <Selfless Spirit>'s last ability is determined as the ability resolves. Creatures you begin to control later in the turn won't gain indestructible.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>41s</No>
+<Name>Sigarda's Aid</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>You may cast Aura and Equipment spells as though they had flash.
+Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control.</CardText>
+<Flavor>The Order of Saint Traft found new strength with Sigarda's support.</Flavor>
+<Artist>Howard Lyon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>46</No>
+<Name>Thalia, Heretic Cathar</Name>
+<Type>Legendary Creature — Human Soldier 3/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>First strike
+Creatures and nonbasic lands your opponents control enter the battlefield tapped.</CardText>
+<Flavor>"Salvation will not be granted by the Lunarch Council. It must be earned—at the edge of a sword, if necessary."</Flavor>
+<Artist>Johannes Voss</Artist>
+<Rulings>2016/07/13: If an effect states that a creature or land enters the battlefield tapped unless a condition is met, Thalia's last ability has it enter tapped even if that condition is true. For example, your opponent may reveal a Plains while playing Port Town (from the Shadows over Innistrad set), but Port Town will still enter tapped.
+2016/07/13: If Thalia enters the battlefield at the same time as an opponent's creatures or nonbasic lands, those creatures and lands aren't affected by Thalia's last ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>46s</No>
+<Name>Thalia, Heretic Cathar</Name>
+<Type>Legendary Creature — Human Soldier 3/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>First strike
+Creatures and nonbasic lands your opponents control enter the battlefield tapped.</CardText>
+<Flavor>"Salvation will not be granted by the Lunarch Council. It must be earned—at the edge of a sword, if necessary."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/07/13: If an effect states that a creature or land enters the battlefield tapped unless a condition is met, Thalia's last ability has it enter tapped even if that condition is true. For example, your opponent may reveal a Plains while playing Port Town (from the Shadows over Innistrad set), but Port Town will still enter tapped.
+2016/07/13: If Thalia enters the battlefield at the same time as an opponent's creatures or nonbasic lands, those creatures and lands aren't affected by Thalia's last ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>47s</No>
+<Name>Thalia's Lancers</Name>
+<Type>Creature — Human Knight 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>First strike
+When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Flavor>"Let the points of our lances lead the way."</Flavor>
+<Artist>David Palumbo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>51s</No>
+<Name>Coax from the Blind Eternities</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>You may choose an Eldrazi card you own from outside the game or in exile, reveal that card, and put it into your hand.</CardText>
+<Flavor>At Nahiri's call, Emrakul traversed the vast emptiness between the planes and arrived on Innistrad.</Flavor>
+<Artist>Jaime Jones</Artist>
+<Rulings>2016/07/13: In a casual game, a card you choose from outside the game comes from your personal collection. In a tournament event, a card you choose from outside the game must come from your sideboard.
+2016/07/13: A card that is exiled face down has no characteristics. You can't choose it, even if you're allowed to look at it.
+2016/07/13: An Eldrazi card is one with the subtype Eldrazi. Noncreature cards with devoid from the Battle for Zendikar block are Eldrazi-themed, but they are not Eldrazi cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>56sb</No>
+<Name>Final Iteration</Name>
+<Type>Creature — Eldrazi Insect 6/5</Type>
+<CardText>Flying
+Wizards you control get +2/+1 and have flying.
+Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2016/07/13: If you control three or more Wizards while you control Docent of Perfection, it won't transform yet. It only transforms while its triggered ability is resolving after you cast an instant or sorcery spell.
+2016/07/13: Docent of Perfection's triggered ability resolves before the spell that caused it to trigger.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2016/07/13: <Final Iteration>'s triggered ability resolves before the spell that caused it to trigger.
+2016/07/13: When Docent of Perfection transforms into <Final Iteration>, the instant or sorcery spell that's on the stack doesn't cause <Final Iteration>'s triggered ability to trigger.
+2016/07/13: All Wizards you control get +2/+1 and have flying, not just those created by Docent of Perfection or <Final Iteration>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Docent of Perfection</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>56sa</No>
+<Name>Docent of Perfection</Name>
+<Type>Creature — Insect Horror 5/4</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token. Then if you control three or more Wizards, transform Docent of Perfection.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2016/07/13: If you control three or more Wizards while you control <Docent of Perfection>, it won't transform yet. It only transforms while its triggered ability is resolving after you cast an instant or sorcery spell.
+2016/07/13: <Docent of Perfection>'s triggered ability resolves before the spell that caused it to trigger.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2016/07/13: Final Iteration's triggered ability resolves before the spell that caused it to trigger.
+2016/07/13: When <Docent of Perfection> transforms into Final Iteration, the instant or sorcery spell that's on the stack doesn't cause Final Iteration's triggered ability to trigger.
+2016/07/13: All Wizards you control get +2/+1 and have flying, not just those created by <Docent of Perfection> or Final Iteration.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Final Iteration</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>64</No>
+<Name>Identity Thief</Name>
+<Type>Creature — Shapeshifter 0/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Whenever Identity Thief attacks, you may exile another target nontoken creature. If you do, Identity Thief becomes a copy of that creature until end of turn. Return the exiled card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2016/07/13: If the targeted creature has an ability that triggers when it attacks, it'll be too late for it to trigger once <Identity Thief> has that ability. The same is true if another object has an ability that triggers when a creature with certain characteristics attacks and <Identity Thief> doesn't have those characteristics until after it becomes a copy.
+2016/07/13: <Identity Thief> copies the printed values of the targeted creature, plus any copy effects that have been applied to that creature. It won't copy other effects that have changed the targeted creature's power, toughness, types, color, or so on. It also won't copy counters on the targeted creature.
+2016/07/13: If the targeted creature is a double-faced or melded permanent, <Identity Thief> copies the face shown. Because <Identity Thief> is not a double-faced card or meld card, it won't be able to transform or meld. If it copies a melded permanent or the back face of a double-faced card, its converted mana cost will be 0. Exiled double-faced cards and exiled meld cards will return with their front faces up.
+2016/07/13: If the targeted creature is itself copying a permanent, <Identity Thief> will become whatever it's copying, as modified by that copy effect. For example, if you target a Hamlet Captain that has become a copy of Permeating Mass, <Identity Thief> will become a Permeating Mass.
+2016/07/13: This effect can cause <Identity Thief> to stop being a creature. For example, if you target an animated Gideon Jura (a planeswalker with a loyalty ability that turns him into a creature), only the printed wording will be copied; the "becomes a creature" effect won't. <Identity Thief> will become a noncreature Gideon with no loyalty, be removed from combat, and then be put into its owner's graveyard.
+2016/07/13: This effect can cause <Identity Thief> to become a copy of a creature that can't normally attack, such as Lupine Prototype or a creature with defender. In these cases, it remains attacking.
+2016/07/13: Noncopy effects that have already applied to <Identity Thief> will continue to apply to it. For example, if Woodcutter's Grit gave <Identity Thief> +3/+3 and hexproof earlier in the turn, <Identity Thief> will still have those bonuses after copying a creature.
+2016/07/13: <Identity Thief> will still be a copy of the creature during the next end step when the exiled card returns. If it has an ability that triggers at the beginning of the end step, that ability will trigger for <Identity Thief> and not for the returned creature.
+2016/07/13: Auras attached to the exiled creature will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>64s</No>
+<Name>Identity Thief</Name>
+<Type>Creature — Shapeshifter 0/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Whenever Identity Thief attacks, you may exile another target nontoken creature. If you do, Identity Thief becomes a copy of that creature until end of turn. Return the exiled card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/07/13: If the targeted creature has an ability that triggers when it attacks, it'll be too late for it to trigger once <Identity Thief> has that ability. The same is true if another object has an ability that triggers when a creature with certain characteristics attacks and <Identity Thief> doesn't have those characteristics until after it becomes a copy.
+2016/07/13: <Identity Thief> copies the printed values of the targeted creature, plus any copy effects that have been applied to that creature. It won't copy other effects that have changed the targeted creature's power, toughness, types, color, or so on. It also won't copy counters on the targeted creature.
+2016/07/13: If the targeted creature is a double-faced or melded permanent, <Identity Thief> copies the face shown. Because <Identity Thief> is not a double-faced card or meld card, it won't be able to transform or meld. If it copies a melded permanent or the back face of a double-faced card, its converted mana cost will be 0. Exiled double-faced cards and exiled meld cards will return with their front faces up.
+2016/07/13: If the targeted creature is itself copying a permanent, <Identity Thief> will become whatever it's copying, as modified by that copy effect. For example, if you target a Hamlet Captain that has become a copy of Permeating Mass, <Identity Thief> will become a Permeating Mass.
+2016/07/13: This effect can cause <Identity Thief> to stop being a creature. For example, if you target an animated Gideon Jura (a planeswalker with a loyalty ability that turns him into a creature), only the printed wording will be copied; the "becomes a creature" effect won't. <Identity Thief> will become a noncreature Gideon with no loyalty, be removed from combat, and then be put into its owner's graveyard.
+2016/07/13: This effect can cause <Identity Thief> to become a copy of a creature that can't normally attack, such as Lupine Prototype or a creature with defender. In these cases, it remains attacking.
+2016/07/13: Noncopy effects that have already applied to <Identity Thief> will continue to apply to it. For example, if Woodcutter's Grit gave <Identity Thief> +3/+3 and hexproof earlier in the turn, <Identity Thief> will still have those bonuses after copying a creature.
+2016/07/13: <Identity Thief> will still be a copy of the creature during the next end step when the exiled card returns. If it has an ability that triggers at the beginning of the end step, that ability will trigger for <Identity Thief> and not for the returned creature.
+2016/07/13: Auras attached to the exiled creature will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>65s</No>
+<Name>Imprisoned in the Moon</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant creature, land, or planeswalker
+Enchanted permanent is a colorless land with "{T}: Add {C}" and loses all other card types and abilities.</CardText>
+<Flavor>Only one vault was great enough to hold Emrakul.</Flavor>
+<Artist>Ryan Alexander Lee</Artist>
+<Rulings>2016/07/13: At the time the permanent becomes enchanted, <Imprisoned in the Moon> causes it to lose all abilities except the noted mana ability. Any abilities the permanent gains after that point will work normally.
+2016/07/13: The permanent will keep any supertypes it previously had. Notably, if <Imprisoned in the Moon> is enchanting a legendary permanent, that permanent will continue to be legendary.
+2016/07/13: If the enchanted permanent is a land and has land types, it retains those types even though it loses any intrinsic mana abilities associated with them. For example, a Plains enchanted by <Imprisoned in the Moon> is still a Plains, but it can't tap for {W}, only for {C}.
+2016/07/13: If you remove <Imprisoned in the Moon> from a planeswalker after tapping it for mana, you can still activate a loyalty ability of that planeswalker even though it's tapped.
+2016/07/13: Becoming a land may cause other Auras to become illegally attached. These are put into their owner's graveyard, and any Equipment attached to the land become unattached and remain on the battlefield. Counters on the land remain on it even if they don't do anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>69s</No>
+<Name>Mausoleum Wanderer</Name>
+<Type>Creature — Spirit 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Flying
+Whenever another Spirit enters the battlefield under your control, Mausoleum Wanderer gets +1/+1 until end of turn.
+Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell unless its controller pays {X}, where X is Mausoleum Wanderer's power.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>70s</No>
+<Name>Mind's Dilation</Name>
+<Type>Enchantment</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Whenever an opponent casts their first spell each turn, that player exiles the top card of their library. If it's a nonland card, you may cast it without paying its mana cost.</CardText>
+<Flavor>Infinite wisdom cannot be contained within a single mind.</Flavor>
+<Artist>Iain McCaig</Artist>
+<Rulings>2016/07/13: If you cast the exiled card, you do so as part of the resolution of <Mind's Dilation>'s ability. You can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
+2016/07/13: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs, such as escalate costs. If the card has any mandatory additional costs, you must pay those.
+2016/07/13: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2016/07/13: If you cast the card this way, it will resolve before the spell that caused <Mind's Dilation>'s ability to trigger.
+2016/07/13: If you cast an instant or sorcery card this way, it goes to its owner's graveyard as normal. It doesn't return to exile.
+2016/07/13: If you don't cast the card, perhaps because you choose not to or because it's a land card, it remains exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>72</No>
+<Name>Niblis of Frost</Name>
+<Type>Creature — Spirit 3/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast an instant or sorcery spell, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2016/07/13: If multiple effects say that a creature doesn't untap during its controller's next untap step, those effects all apply during one untap step. For example, if you cast two instants in one turn and target the same creature twice with <Niblis of Frost>'s ability, that creature will only spend one untap step without untapping.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>72s</No>
+<Name>Niblis of Frost</Name>
+<Type>Creature — Spirit 3/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast an instant or sorcery spell, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.</CardText>
+<Artist>Josu Hernaiz</Artist>
+<Rulings>2016/07/13: If multiple effects say that a creature doesn't untap during its controller's next untap step, those effects all apply during one untap step. For example, if you cast two instants in one turn and target the same creature twice with <Niblis of Frost>'s ability, that creature will only spend one untap step without untapping.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>75s</No>
+<Name>Summary Dismissal</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Exile all other spells and counter all abilities.</CardText>
+<Flavor>"Let's start fresh, shall we?"</Flavor>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2016/07/13: Spells that can't be countered are exiled by <Summary Dismissal>. They won't resolve.
+2016/07/13: Only activated and triggered abilities on the stack are countered. Static abilities of objects remain unaffected, and activated and triggered abilities of objects may be activated or may trigger again later in the turn. Spells and abilities that have already resolved aren't affected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>79</No>
+<Name>Unsubstantiate</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Return target spell or creature to its owner's hand.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2016/07/13: Spells that can't be countered can be returned to their owner's hand by <Unsubstantiate>. They won't resolve.
+2016/07/13: A spell that's a copy ceases to exist as a state-based action after being returned to its owner's hand. It can't be cast, and it never counts as a "card" in the player's hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>80s</No>
+<Name>Wharf Infiltrator</Name>
+<Type>Creature — Human Horror 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Skulk (This creature can't be blocked by creatures with greater power.)
+Whenever Wharf Infiltrator deals combat damage to a player, you may draw a card. If you do, discard a card.
+Whenever you discard a creature card, you may pay {2}. If you do, create a 3/2 colorless Eldrazi Horror creature token.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/07/13: <Wharf Infiltrator>'s last ability triggers anytime you discard a creature card, not just when you discard a card because of <Wharf Infiltrator>'s other triggered ability.
+2016/07/13: While resolving <Wharf Infiltrator>'s last ability, you can't pay {2} multiple times to get multiple Eldrazi Horror tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>85s</No>
+<Name>Collective Brutality</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Escalate—Discard a card. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
+• Target creature gets -2/-2 until end of turn.
+• Target opponent loses 2 life and you gain 2 life.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2016/07/13: You choose all of your modes at once. You can't wait to perform one mode's actions and then decide to choose more modes.
+2016/07/13: You can't choose any one mode multiple times.
+2016/07/13: If two of the chosen modes of an escalate spell target a creature, you may choose the same creature for each mode's target, or choose different creatures. The same is true if the chosen modes target a player (or opponent).
+2016/07/13: If one target of an escalate spell becomes illegal, the other targets will still be affected. If all of the targets become illegal, the spell won't resolve.
+2016/07/13: Effects that reduce the cost of spells reduce the total cost, including any escalate costs added.
+2016/07/13: If an effect allows you to cast a spell that has escalate without paying its mana cost, you pay escalate costs for that spell if you choose more than one mode.
+2016/07/13: Additional costs don't affect a spell's converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>86s</No>
+<Name>Cryptbreaker</Name>
+<Type>Creature — Zombie 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token.
+Tap three untapped Zombies you control: You draw a card and you lose 1 life.</CardText>
+<Artist>Darek Zabrocki</Artist>
+<Rulings>2016/07/13: You can tap any three untapped Zombies you control, including ones you haven't controlled continuously since the beginning of your most recent turn, to pay the cost of <Cryptbreaker>'s second activated ability. This includes <Cryptbreaker> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>87s</No>
+<Name>Dark Salvation</Name>
+<Type>Sorcery</Type>
+<ManaCost>XXB (1)</ManaCost>
+<CardText>Target player creates X 2/2 black Zombie creature tokens, then up to one target creature gets -1/-1 until end of turn for each Zombie that player controls.</CardText>
+<Flavor>Countless ghouls surged through Thraben's streets, and with them came the city's salvation.</Flavor>
+<Artist>Cynthia Sheppard</Artist>
+<Rulings>2016/07/13: You choose up to one target creature total, not a separate target for each Zombie that player controls.
+2016/07/13: If the targeted creature becomes an illegal target, the targeted player will still get Zombie tokens.
+2016/07/13: You may cast <Dark Salvation> with X as 0 just to have a creature get -1/-1 for each Zombie a player controls, and you may cast it without targeting any creature just to have a player get Zombie tokens. If you really just want to cast a spell, you can even cast it with X as 0 without a target creature and have neither effect do anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>93s</No>
+<Name>Liliana, the Last Hope</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>+1: Up to one target creature gets -2/-1 until your next turn.
+-2: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
+-7: You get an emblem with "At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control."</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Rulings>2016/07/13: You can activate Liliana's first ability without any targets just to add a loyalty counter to her.
+2016/07/13: Liliana's second ability doesn't target the card to return to your hand. After putting the top two cards of your library into your graveyard, you may choose from among any creature cards there.
+2016/07/13: While resolving the triggered ability of Liliana's emblem, if you control zero Zombies, you'll get two Zombie tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>98</No>
+<Name>Noosegraf Mob</Name>
+<Type>Creature — Zombie 0/0</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Noosegraf Mob enters the battlefield with five +1/+1 counters on it.
+Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token.</CardText>
+<Artist>Winona Nelson</Artist>
+<Rulings>2016/07/13: If <Noosegraf Mob> is no longer on the battlefield or no longer has +1/+1 counters on it as its triggered ability resolves, you can't remove a counter from it and won't get a Zombie token.
+2016/07/13: You can't remove more than one +1/+1 counter from <Noosegraf Mob> at once to get more Zombie tokens, and you can't choose not to remove a counter.
+2016/07/13: <Noosegraf Mob>'s triggered ability resolves before the spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>98s</No>
+<Name>Noosegraf Mob</Name>
+<Type>Creature — Zombie 0/0</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Noosegraf Mob enters the battlefield with five +1/+1 counters on it.
+Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token.</CardText>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2016/07/13: If <Noosegraf Mob> is no longer on the battlefield or no longer has +1/+1 counters on it as its triggered ability resolves, you can't remove a counter from it and won't get a Zombie token.
+2016/07/13: You can't remove more than one +1/+1 counter from <Noosegraf Mob> at once to get more Zombie tokens, and you can't choose not to remove a counter.
+2016/07/13: <Noosegraf Mob>'s triggered ability resolves before the spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>99s</No>
+<Name>Oath of Liliana</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>When Oath of Liliana enters the battlefield, each opponent sacrifices a creature.
+At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, create a 2/2 black Zombie creature token.</CardText>
+<Flavor>"I'll keep watch. Happy now?"</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/07/13: <Oath of Liliana>'s last ability will trigger even if the planeswalker that entered the battlefield under your control is no longer on the battlefield, no longer under your control, or no longer a planeswalker. This is also true if <Oath of Liliana> wasn't on the battlefield when the planeswalker entered.
+2016/07/13: The last ability triggers only once per turn, even if more than one planeswalker entered the battlefield under your control.
+2016/07/13: <Oath of Liliana> is legendary, just like the previous Oaths from Oath of the Gatewatch. If you already control an <Oath of Liliana>, you can still cast a second <Oath of Liliana> to take advantage of its enters-the-battlefield ability. It will enter the battlefield, causing its first ability to trigger. You will then choose one to keep, and the other will be put into your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>106s</No>
+<Name>Stromkirk Condemned</Name>
+<Type>Creature — Vampire Horror 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Discard a card: Vampires you control get +1/+1 until end of turn. Activate this ability only once each turn.</CardText>
+<Flavor>"Blood from the vein is the finest vintage to accompany a feast of the mind."
+—Runo Stromkirk</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/07/13: If you discard a Vampire card with madness and cast it, it'll enter the battlefield before <Stromkirk Condemned>'s ability resolves.
+2016/07/13: The set of creatures affected by <Stromkirk Condemned>'s ability is determined as the ability resolves. Vampires you begin to control later in the turn won't get +1/+1.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>109s</No>
+<Name>Tree of Perdition</Name>
+<Type>Creature — Plant 0/13</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Defender
+{T}: Exchange target opponent's life total with Tree of Perdition's toughness.</CardText>
+<Flavor>There will be no absolution.</Flavor>
+<Artist>Jung Park</Artist>
+<Rulings>2016/07/13: If <Tree of Perdition> isn't on the battlefield when the ability resolves, the exchange can't happen and the ability will have no effect. Notably, activating the ability and giving <Tree of Perdition> -13/-13 in response won't cause your opponent to lose the game.
+2016/07/13: When the ability resolves, <Tree of Perdition>'s toughness becomes the targeted opponent's former life total and that player gains or loses an amount of life necessary so that their life total equals <Tree of Perdition>'s former toughness. Other effects that interact with life gain or life loss will interact with this effect accordingly.
+2016/07/13: Any toughness-modifying effects, counters, Auras, or Equipment will apply after its toughness is set to the player's former life total. For example, say <Tree of Perdition> is equipped with Cultist's Staff (which makes it 2/15) and the player's life total is 7. After the exchange, <Tree of Perdition> would be a 2/9 creature (its toughness became 7, which was then modified by Cultist's Staff) and the player's life total would be 15.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>111sb</No>
+<Name>Abolisher of Bloodlines</Name>
+<Type>Creature — Eldrazi Vampire 6/5</Type>
+<CardText>Flying
+When this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures.</CardText>
+<Artist>James Ryman</Artist>
+<Rulings>2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2016/07/13: If the targeted opponent doesn't control three creatures as the triggered ability of <Abolisher of Bloodlines> resolves, that player sacrifices as many creatures as able.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Voldaren Pariah</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>111sa</No>
+<Name>Voldaren Pariah</Name>
+<Type>Creature — Vampire Horror 3/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying
+Sacrifice three other creatures: Transform Voldaren Pariah.
+Madness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>James Ryman</Artist>
+<Rulings>2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2016/07/13: If the targeted opponent doesn't control three creatures as the triggered ability of Abolisher of Bloodlines resolves, that player sacrifices as many creatures as able.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Abolisher of Bloodlines</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>117</No>
+<Name>Assembled Alphas</Name>
+<Type>Creature — Wolf 5/5</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature's controller.</CardText>
+<Flavor>There is always a toll to pay for passage.</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2016/07/13: The triggered ability triggers once for each creature blocking or blocked by <Assembled Alphas>. The ability resolves and deals damage to that creature before combat damage is dealt. If that damage destroys all creatures blocking <Assembled Alphas>, <Assembled Alphas> doesn't become unblocked.
+2016/07/13: The triggered ability deals damage to the creature's controller even if the creature isn't dealt damage, perhaps because it has left the battlefield or because the damage was prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>117s</No>
+<Name>Assembled Alphas</Name>
+<Type>Creature — Wolf 5/5</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature's controller.</CardText>
+<Flavor>There is always a toll to pay for passage.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2016/07/13: The triggered ability triggers once for each creature blocking or blocked by <Assembled Alphas>. The ability resolves and deals damage to that creature before combat damage is dealt. If that damage destroys all creatures blocking <Assembled Alphas>, <Assembled Alphas> doesn't become unblocked.
+2016/07/13: The triggered ability deals damage to the creature's controller even if the creature isn't dealt damage, perhaps because it has left the battlefield or because the damage was prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>118s</No>
+<Name>Bedlam Reveler</Name>
+<Type>Creature — Devil Horror 3/4</Type>
+<ManaCost>6RR (8)</ManaCost>
+<CardText>This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Bedlam Reveler enters the battlefield, discard your hand, then draw three cards.</CardText>
+<Artist>Jama Jurabaev</Artist>
+<Rulings>2016/07/13: <Bedlam Reveler>'s first ability can reduce only the generic mana in its cost, not the red mana.
+2016/07/13: If you have no cards in hand as <Bedlam Reveler>'s last ability resolves, you'll just draw three cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>123s</No>
+<Name>Collective Defiance</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target player discards all the cards in their hand, then draws that many cards.
+• Collective Defiance deals 4 damage to target creature.
+• Collective Defiance deals 3 damage to target opponent or planeswalker.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2016/07/13: You choose all of your modes at once. You can't wait to perform one mode's actions and then decide to choose more modes.
+2016/07/13: You can't choose any one mode multiple times.
+2016/07/13: If two of the chosen modes of an escalate spell target a creature, you may choose the same creature for each mode's target, or choose different creatures. The same is true if the chosen modes target a player (or opponent).
+2016/07/13: If one target of an escalate spell becomes illegal, the other targets will still be affected. If all of the targets become illegal, the spell won't resolve.
+2016/07/13: Effects that reduce the cost of spells reduce the total cost, including any escalate costs added.
+2016/07/13: If an effect allows you to cast a spell that has escalate without paying its mana cost, you pay escalate costs for that spell if you choose more than one mode.
+2016/07/13: Additional costs don't affect a spell's converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>130as</No>
+<Name>Hanweir Garrison</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens that are tapped and attacking.
+(Melds with Hanweir Battlements.)</CardText>
+<Flavor>"We're ready for anything!"</Flavor>
+<Artist>Vincent Proce</Artist>
+<Rulings>2016/07/13: You choose which opponent or planeswalker controlled by an opponent each token is attacking as it enters the battlefield. It doesn't have to be the same opponent or planeswalker that the trigger's source is attacking, and the tokens don't both have to attack the same player or planeswalker.
+2016/07/13: On the turn they enter the battlefield, the tokens are never declared as attacking creatures. They simply enter the battlefield attacking. They won't cause any abilities that trigger "whenever a creature attacks" to trigger.
+2016/07/13: If another ability of a source you control triggers when attackers are declared, such as that of Hamlet Captain, you may have it resolve before or after that of <Hanweir Garrison>. If that ability has targets, it won't be able to target the tokens.
+2016/07/13: If another ability of a source you control triggers when attackers are declared, such as that of Hamlet Captain, you may have it resolve before or after that of Hanweir, the Writhing Township. If that ability has targets, it won't be able to target the tokens.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (https://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Hanweir, the Writhing Township</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>130bs</No>
+<Name>Hanweir, the Writhing Township</Name>
+<Type>Legendary Creature — Eldrazi Ooze 7/4</Type>
+<CardText>Trample, haste
+Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.</CardText>
+<Artist>Vincent Proce</Artist>
+<Rulings>2016/07/13: You choose which opponent or planeswalker controlled by an opponent each token is attacking as it enters the battlefield. It doesn't have to be the same opponent or planeswalker that the trigger's source is attacking, and the tokens don't both have to attack the same player or planeswalker.
+2016/07/13: On the turn they enter the battlefield, the tokens are never declared as attacking creatures. They simply enter the battlefield attacking. They won't cause any abilities that trigger "whenever a creature attacks" to trigger.
+2016/07/13: If another ability of a source you control triggers when attackers are declared, such as that of Hamlet Captain, you may have it resolve before or after that of Hanweir Garrison. If that ability has targets, it won't be able to target the tokens.
+2016/07/13: If another ability of a source you control triggers when attackers are declared, such as that of Hamlet Captain, you may have it resolve before or after that of <Hanweir, the Writhing Township>. If that ability has targets, it won't be able to target the tokens.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (https://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Hanweir Garrison</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>131s</No>
+<Name>Harmless Offering</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Target opponent gains control of target permanent you control.</CardText>
+<Flavor>"Such an adorable face!"</Flavor>
+<Artist>Howard Lyon</Artist>
+<Rulings>2016/07/13: Your opponent can't refuse your generous donation.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>132s</No>
+<Name>Impetuous Devils</Name>
+<Type>Creature — Devil 6/1</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Trample, haste
+When Impetuous Devils attacks, up to one target creature defending player controls blocks it this combat if able.
+At the beginning of the end step, sacrifice Impetuous Devils.</CardText>
+<Artist>Filip Burburan</Artist>
+<Rulings>2016/07/13: If a creature affected by the first triggered ability of <Impetuous Devils> is tapped or is affected by a spell or ability that says it can't block, then it doesn't block. If there's a cost associated with having that creature block, its controller isn't forced to pay that cost, so it doesn't have to block in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>136s</No>
+<Name>Mirrorwing Dragon</Name>
+<Type>Creature — Dragon 4/5</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Flying
+Whenever a player casts an instant or sorcery spell that targets only Mirrorwing Dragon, that player copies that spell for each other creature they control that the spell could target. Each copy targets a different one of those creatures.</CardText>
+<Artist>Min Yum</Artist>
+<Rulings>2016/07/13: The copies are only created targeting creatures that the spell's controller controls. Copies are not created for all creatures on the battlefield, and the affected creatures may be controlled by a different player than the controller of <Mirrorwing Dragon>. Notably, if you cast Murder targeting your opponent's <Mirrorwing Dragon>, your creatures will each get a Murder, not your opponent's.
+2016/07/13: The ability triggers whenever a player casts an instant or sorcery spell that targets only <Mirrorwing Dragon> and no other object or player.
+2016/07/13: If a player casts an instant or sorcery spell that has multiple targets and <Mirrorwing Dragon> is chosen as the target in each instance, <Mirrorwing Dragon>'s ability will trigger. Each of the copies will similarly be targeting only one of the player's other creatures.
+2016/07/13: Any creature the player controls that couldn't be targeted by the original spell (due to shroud, protection abilities, targeting restrictions, or any other reason) is just ignored by <Mirrorwing Dragon>'s ability. If the spell has multiple targets, a given creature must be a legal target for all of them or else a copy won't be created for that creature.
+2016/07/13: The player who cast the original spell controls all the copies. That player chooses the order the copies are put onto the stack. The original spell will be on the stack beneath those copies and will resolve last.
+2016/07/13: The copies that the ability creates are created on the stack, so they're not cast. Abilities that trigger when a player casts a spell (like <Mirrorwing Dragon>'s ability itself) won't trigger.
+2016/07/13: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copies will have the same mode. A different mode cannot be chosen.
+2016/07/13: If the spell that's copied has an X whose value was determined as it was cast (like Burn from Within does), the copies have the same value of X.
+2016/07/13: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>137s</No>
+<Name>Nahiri's Wrath</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard X cards.
+Nahiri's Wrath deals damage equal to the total converted mana cost of the discarded cards to each of up to X target creatures and/or planeswalkers.</CardText>
+<Flavor>"You brought this upon yourself, Sorin!"</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2016/07/13: <Nahiri's Wrath> adds the converted mana costs of the discarded cards in whatever zone they were put into as a result of being discarded, even if they weren't put into a graveyard (due to madness, for example) or are no longer in that zone.
+2016/07/13: The damage is not divided. <Nahiri's Wrath> will deal that much damage to each target.
+2016/07/13: You can't target the same creature or planeswalker multiple times to deal more damage to it.
+2016/07/13: If you discard a card with {X} in its mana cost, X is considered to be 0.
+2016/07/13: If you cast <Nahiri's Wrath> without paying its mana cost, you'll still choose a value for X and discard X cards.
+2016/07/13: If you copy <Nahiri's Wrath>, it has the same number of targets and deals the same amount of damage as the original spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>146s</No>
+<Name>Stromkirk Occultist</Name>
+<Type>Creature — Vampire Horror 3/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Trample
+Whenever Stromkirk Occultist deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.
+Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/07/13: The card exiled by <Stromkirk Occultist>'s second ability is exiled face up.
+2016/07/13: You may play that card that turn even if <Stromkirk Occultist> is no longer on the battlefield or no longer under your control.
+2016/07/13: Playing the card exiled with <Stromkirk Occultist>'s second ability follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if the card is a creature card, you can cast that card by paying its mana cost only during your main phase while the stack is empty.
+2016/07/13: You may pay alternative and additional costs for that card, such as emerge and escalate costs. If it has any mandatory additional costs, you must pay those.
+2016/07/13: Unless an effect allows you to play additional lands that turn, you can play a land card exiled with <Stromkirk Occultist>'s second ability only if you haven't played a land yet that turn.
+2016/07/13: If you don't play the card, it will remain exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>155s</No>
+<Name>Eldritch Evolution</Name>
+<Type>Sorcery</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with converted mana cost X or less, where X is 2 plus the sacrificed creature's converted mana cost. Put that card onto the battlefield, then shuffle your library. Exile Eldritch Evolution.</CardText>
+<Artist>Jason Rainville</Artist>
+<Rulings>2016/07/13: Sacrificing a creature is part of <Eldritch Evolution>'s cost. You can't sacrifice more creatures to search for more creature cards, and you can't cast <Eldritch Evolution> at all if you control no creatures.
+2016/07/13: Once you begin to cast <Eldritch Evolution>, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.
+2016/07/13: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is the back face of a double-faced card, a melded card, or is copying something else; see below). If the mana cost includes {X}, X is considered to be 0. If it's a single-faced card with no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) paid when the creature was cast.
+2016/07/13: A token that isn't a copy of another permanent has a converted mana cost of 0. A token that is a copy or a creature that has become a copy of another permanent has the converted mana cost of what it's copying.
+2016/07/13: The converted mana cost of a permanent that's a double-faced card with its back face up is the converted mana cost of its front face. The converted mana cost of a melded permanent is the sum of the converted mana costs of its front faces. A creature that's a copy of either has a converted mana cost of 0.
+2016/07/13: If a card in a library has {X} in its mana cost, X is considered to be 0. If you find such a card this way, you won't have an opportunity to spend mana on {X}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>156s</No>
+<Name>Emrakul's Evangel</Name>
+<Type>Creature — Human Horror 3/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>{T}, Sacrifice Emrakul's Evangel and any number of other non-Eldrazi creatures: Create a 3/2 colorless Eldrazi Horror creature token for each creature sacrificed this way.</CardText>
+<Flavor>"In times like these, be particularly wary of those who claim they can save your soul."
+—Alena, trapper of Kessig</Flavor>
+<Artist>Jason Felix</Artist>
+<Rulings>2016/07/13: You may choose to sacrifice no other non-Eldrazi creatures this way. <Emrakul's Evangel>'s ability counts itself, so you'll get one Eldrazi Horror token.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>162s</No>
+<Name>Ishkanah, Grafwidow</Name>
+<Type>Legendary Creature — Spider 3/5</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Reach
+Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, create three 1/2 green Spider creature tokens with reach.
+{6}{B}: Target opponent loses 1 life for each Spider you control.</CardText>
+<Artist>Christine Choi</Artist>
+<Rulings>2016/07/13: The number of Spiders you control is checked only as Ishkanah's last ability resolves. The ability will count Ishkanah itself if it's still on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>165s</No>
+<Name>Permeating Mass</Name>
+<Type>Creature — Spirit 1/3</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever Permeating Mass deals combat damage to a creature, that creature becomes a copy of Permeating Mass.</CardText>
+<Flavor>Woodland geists concluded that Emrakul would be unable to warp the denizens of the forest if the geists got there first.</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2016/07/13: A creature dealt lethal damage during combat won't survive long enough to become a copy of <Permeating Mass>. If <Permeating Mass> is dealt lethal damage during combat, the creature <Permeating Mass> dealt damage to still becomes a copy of it.
+2016/07/13: A creature with 3 or more damage marked on it that becomes a copy of <Permeating Mass> will be destroyed immediately after becoming a copy.
+2016/07/13: The damaged creature copies the printed values of <Permeating Mass>. It won't copy counters on <Permeating Mass> or effects that have changed its power, toughness, types, color, or so on. Notably, this means that a creature that becomes a copy of <Permeating Mass> has the ability to permeate other creatures as well.
+2016/07/13: If <Permeating Mass> becomes a copy of another creature before its triggered ability resolves, the damaged creature will become a copy of that creature.
+2016/07/13: Effects that have already applied to the damaged creature will continue to apply to it. For example, if Giant Growth had given it +3/+3 earlier in the turn, it will be 4/6.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>170s</No>
+<Name>Spirit of the Hunt</Name>
+<Type>Creature — Wolf Spirit 3/3</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Flash
+When Spirit of the Hunt enters the battlefield, each other creature you control that's a Wolf or a Werewolf gets +0/+3 until end of turn.</CardText>
+<Flavor>The bonds of the pack transcend time and death.</Flavor>
+<Artist>Bastien L. Deharme</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>171s</No>
+<Name>Splendid Reclamation</Name>
+<Type>Sorcery</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Return all land cards from your graveyard to the battlefield tapped.</CardText>
+<Flavor>"No matter how much a plane has suffered, there is a way to restore it."
+—Nissa Revane</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/07/13: If an effect states that a land enters the battlefield tapped unless a condition is met, <Splendid Reclamation>'s effect puts that land onto the battlefield tapped even if that condition is true. For example, you may reveal a Plains as Port Town (from the Shadows over Innistrad set) is returned to the battlefield, but Port Town will still enter tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>176</No>
+<Name>Ulvenwald Observer</Name>
+<Type>Creature — Treefolk 6/6</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Whenever a creature you control with toughness 4 or greater dies, draw a card.</CardText>
+<Flavor>"I tell you, the trees were closing in! It's by the grace of the Heron alone that I made it out of the Ulvenwald!"
+— Ricton, traveling merchant</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2016/07/13: If <Ulvenwald Observer> dies at the same time as other creatures with toughness 4 or greater, its ability will trigger for each of those creatures.
+2016/07/13: If <Ulvenwald Observer>'s toughness is still 4 or greater at the time it dies, its ability triggers.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>176s</No>
+<Name>Ulvenwald Observer</Name>
+<Type>Creature — Treefolk 6/6</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Whenever a creature you control with toughness 4 or greater dies, draw a card.</CardText>
+<Flavor>"I tell you, the trees were closing in! It's by the grace of the Heron alone that I made it out of the Ulvenwald!"
+—Ricton, traveling merchant</Flavor>
+<Artist>Jaime Jones</Artist>
+<Rulings>2016/07/13: If <Ulvenwald Observer> dies at the same time as other creatures with toughness 4 or greater, its ability will trigger for each of those creatures.
+2016/07/13: If <Ulvenwald Observer>'s toughness is still 4 or greater at the time it dies, its ability triggers.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>181s</No>
+<Name>Bloodhall Priest</Name>
+<Type>Creature — Vampire Cleric 4/4</Type>
+<ManaCost>2BR (4)</ManaCost>
+<CardText>Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target.
+Madness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Mark Winters</Artist>
+<Rulings>2016/07/13: The triggered ability triggers both when <Bloodhall Priest> enters the battlefield and whenever it attacks. You don't have to choose only one.
+2016/07/13: If you have a card in hand at the moment the trigger condition occurs, <Bloodhall Priest>'s ability won't trigger, even if you can get that card out of your hand right afterward. If you have a card in hand as the ability resolves, it has no effect. No damage will be dealt.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>183s</No>
+<Name>Gisa and Geralf</Name>
+<Type>Legendary Creature — Human Wizard 4/4</Type>
+<ManaCost>2UB (4)</ManaCost>
+<CardText>When Gisa and Geralf enters the battlefield, put the top four cards of your library into your graveyard.
+During each of your turns, you may cast a Zombie creature card from your graveyard.</CardText>
+<Flavor>"These fiends are slightly less tolerable than you." "A sentiment that warms my heart, sister."</Flavor>
+<Artist>Karla Ortiz</Artist>
+<Rulings>2016/07/13: You must follow the normal timing permissions and restrictions of the Zombie card you cast from your graveyard.
+2016/07/13: You must pay the costs to cast that Zombie card. If it has an alternative cost, you may cast it for that cost instead.
+2016/07/13: Once you begin to cast the Zombie card, losing control of <Gisa and Geralf> won't affect the spell.
+2016/07/13: If you cast one Zombie creature card from your graveyard and then have a new <Gisa and Geralf> come under your control in the same turn, you may cast another Zombie creature card from your graveyard that turn.
+2016/07/13: If a Zombie card is put into your graveyard during your main phase and the stack is empty, you have a chance to cast it before any player may attempt to remove that card from your graveyard.
+2016/07/13: If multiple effects allow you to cast a Zombie creature card from your graveyard, such as those of <Gisa and Geralf> and Karador, Ghost Chieftain, you must announce which permission you're using as you begin to cast the spell.
+2016/07/13: Even though the cards portray the same characters, <Gisa and Geralf> has a different name than Ghoulcaller Gisa and Stitcher Geralf. Controlling <Gisa and Geralf> along with Ghoulcaller Gisa or Stitcher Geralf won't invoke the "legend rule."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>184s</No>
+<Name>Grim Flayer</Name>
+<Type>Creature — Human Warrior 2/2</Type>
+<ManaCost>BG (2)</ManaCost>
+<CardText>Trample
+Whenever Grim Flayer deals combat damage to a player, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+Delirium — Grim Flayer gets +2/+2 as long as there are four or more card types among cards in your graveyard.</CardText>
+<Artist>Mathias Kollros</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>185</No>
+<Name>Heron's Grace Champion</Name>
+<Type>Creature — Human Knight 3/3</Type>
+<ManaCost>2GW (4)</ManaCost>
+<CardText>Flash
+Lifelink
+When Heron's Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn.</CardText>
+<Artist>Viktor Titov</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>185s</No>
+<Name>Heron's Grace Champion</Name>
+<Type>Creature — Human Knight 3/3</Type>
+<ManaCost>2GW (4)</ManaCost>
+<CardText>Flash
+Lifelink
+When Heron's Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn.</CardText>
+<Flavor>Sigarda was the last uncorrupted archangel, but she would not have to fight alone.</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>189s</No>
+<Name>Spell Queller</Name>
+<Type>Creature — Spirit 2/3</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>Flash
+Flying
+When Spell Queller enters the battlefield, exile target spell with converted mana cost 4 or less.
+When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2016/07/13: For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 4 or less.
+2016/07/13: Spells that can't be countered can be exiled by <Spell Queller>'s ability. They won't resolve.
+2016/07/13: If the exiled card's owner casts it, the spell has no relation to the spell that player originally cast. Any choices made for the original spell or effects affecting the original spell aren't carried over to the new one.
+2016/07/13: If the player casts the exiled card, they do so as part of the resolution of <Spell Queller>'s last ability. The player can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
+2016/07/13: If a player casts a card "without paying its mana cost," they can't choose to cast it for any alternative costs, such as emerge costs. The player can, however, pay additional costs, such as escalate costs. If the card has any mandatory additional costs, those must be paid to cast the card.
+2016/07/13: If the card has {X} in its mana cost, the player must choose 0 as the value of X when casting it without paying its mana cost.
+2016/07/13: If <Spell Queller> leaves the battlefield before its enters-the-battlefield triggered ability resolves, its leaves-the-battlefield triggered ability triggers, resolves, and does nothing. Then its first triggered ability resolves and exiles the spell forever.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>190s</No>
+<Name>Tamiyo, Field Researcher</Name>
+<Type>Legendary Planeswalker — Tamiyo (Loyalty: 4)</Type>
+<ManaCost>1GWU (4)</ManaCost>
+<CardText>+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
+-2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
+-7: Draw three cards. You get an emblem with "You may cast spells from your hand without paying their mana costs."</CardText>
+<Artist>Tianhua X</Artist>
+<Rulings>2016/07/13: Tamiyo's first ability sets up a delayed triggered ability that triggers even if Tamiyo has left the battlefield before those creatures deal combat damage.
+2016/07/13: You must follow the normal timing permissions and restrictions of each nonland card you cast once you get Tamiyo's emblem.
+2016/07/13: Tamiyo's first ability can target creatures you don't control. You'll draw a card, not their controller, if they deal combat damage.
+2016/07/13: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2016/07/13: You may still cast nonland cards by paying their mana costs as normal.
+2016/07/13: If you cast a card "without paying its mana cost," you can't pay any alternative costs such as emerge costs. You can pay additional costs such as escalate costs. If the card has mandatory additional costs, you must pay those.
+2016/08/23: If Tamiyo's first ability targets two creatures, and both deal combat damage at the same time, the delayed triggered ability triggers twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>191sb</No>
+<Name>Ulrich, Uncontested Alpha</Name>
+<Type>Legendary Creature — Werewolf 6/6</Type>
+<ColorIndicator>Red Green</ColorIndicator>
+<CardText>Whenever this creature transforms into Ulrich, Uncontested Alpha, you may have it fight target non-Werewolf creature you don't control.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulrich, Uncontested Alpha.</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2016/07/13: The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2016/07/13: You choose the target of the <Ulrich, Uncontested Alpha>'s first ability as it goes on the stack, but you choose whether or not to fight as that ability resolves.
+2016/07/13: If the targeted creature is an illegal target when <Ulrich, Uncontested Alpha>'s first ability tries to resolve, the ability doesn't resolve.
+2016/07/13: If Ulrich is no longer on the battlefield as <Ulrich, Uncontested Alpha>'s first ability resolves, the targeted creature won't deal or be dealt damage.
+2016/07/13: <Ulrich, Uncontested Alpha>'s last ability only triggers if a single player has cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger.
+2016/07/13: To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Ulrich of the Krallenhorde</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>191sa</No>
+<Name>Ulrich of the Krallenhorde</Name>
+<Type>Legendary Creature — Human Werewolf 4/4</Type>
+<ManaCost>3RG (5)</ManaCost>
+<CardText>Whenever this creature enters the battlefield or transforms into Ulrich of the Krallenhorde, target creature gets +4/+4 until end of turn.
+At the beginning of each upkeep, if no spells were cast last turn, transform Ulrich of the Krallenhorde.</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2016/07/13: The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2016/07/13: You choose the target of the Ulrich, Uncontested Alpha's first ability as it goes on the stack, but you choose whether or not to fight as that ability resolves.
+2016/07/13: If the targeted creature is an illegal target when Ulrich, Uncontested Alpha's first ability tries to resolve, the ability doesn't resolve.
+2016/07/13: If Ulrich is no longer on the battlefield as Ulrich, Uncontested Alpha's first ability resolves, the targeted creature won't deal or be dealt damage.
+2016/07/13: Ulrich, Uncontested Alpha's last ability only triggers if a single player has cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger.
+2016/07/13: To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Ulrich, Uncontested Alpha</OtherPart>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>197s</No>
+<Name>Lupine Prototype</Name>
+<Type>Artifact Creature — Wolf Construct 5/5</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Lupine Prototype can't attack or block unless a player has no cards in hand.</CardText>
+<Flavor>"Ludevic saw it in a dream and set to work immediately, every detail already known. Can such genius be taught?"
+—Stitcher Geralf</Flavor>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2016/07/13: <Lupine Prototype>'s restriction applies only at the moment that attackers and blockers are chosen. If a player puts a card into their hand after <Lupine Prototype> has attacked or blocked, it won't be removed from combat.
+2016/07/13: If a creature can't attack or block unless you return a permanent to your hand, and your hand is empty, you can attack or block with that creature and <Lupine Prototype>. This is because the legality of chosen attackers and blockers is checked before costs are paid.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>199s</No>
+<Name>Soul Separator</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{5}, {T}, Sacrifice Soul Separator: Exile target creature card from your graveyard. Create a token that's a copy of that card, except it's 1/1, it's a Spirit in addition to its other types, and it has flying. Create a black Zombie creature token with power equal to that card's power and toughness equal to that card's toughness.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/07/13: If you copy a double-faced creature card, the Spirit token won't be able to transform.
+2016/07/13: If the copied creature card has {X} in its mana cost, X is considered to be 0.
+2016/07/13: Any enters-the-battlefield abilities of the copied creature card will trigger when the Spirit token enters the battlefield. Any "as [this creature] enters the battlefield" or "[this creature] enters the battlefield with" abilities of the creature card will also work.
+2016/07/13: The Spirit token has the color and mana cost (and thus converted mana cost) of the original card; the Zombie token has a converted mana cost of 0.
+2016/07/13: Abilities that define a creature's power and toughness apply while that card is in your graveyard, but abilities that add or subtract from it don't. For example, the ability of Sage of Ancient Lore applies to determine the Zombie token's power and toughness, but the ability of Liliana's Elite doesn't.
+2016/07/13: If the copied creature card has an ability that defines its power and toughness, such as that of Sage of Ancient Lore, the Spirit token will still have base power and toughness 1/1.
+2016/07/13: The power and toughness of the Zombie token are set as it's created based on the card as it last existed in your graveyard. They won't update if the exiled card's power and toughness change.
+2016/07/13: The Spirit token will be on the battlefield before the Zombie token enters the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>200s</No>
+<Name>Stitcher's Graft</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +3/+3.
+Whenever equipped creature attacks, it doesn't untap during its controller's next untap step.
+Whenever Stitcher's Graft becomes unattached from a permanent, sacrifice that permanent.
+Equip {2}</CardText>
+<Artist>Josh Hass</Artist>
+<Rulings>2016/07/13: If multiple effects say that a creature doesn't untap during your next untap step, those effects all apply during one untap step. For example, a creature that attacks while equipped with two <Stitcher's Graft>s will only spend one untap step without untapping.
+2016/07/13: <Stitcher's Graft> becomes unattached from the creature it's equipping if you equip it to a new creature, if <Stitcher's Graft> leaves the battlefield, if the equipped creature ceases to be a creature, or if <Stitcher's Graft> ceases to be an Equipment. (It also becomes unattached if the equipped creature leaves the battlefield, but the triggered ability won't do anything in that case.)
+2016/07/13: If <Stitcher's Graft>'s last triggered ability triggers, but you don't control the permanent it became unattached from at the time that ability resolves (perhaps because another player has somehow gained control of it), you won't be able to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>203s</No>
+<Name>Geier Reach Sanitarium</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {C}.
+{2}, {T}: Each player draws a card, then discards a card.</CardText>
+<Flavor>All are welcome.</Flavor>
+<Artist>Cliff Childs</Artist>
+<Rulings>2016/07/13: When you activate <Geier Reach Sanitarium>'s last ability, first each player draws a card. Then the player whose turn it is selects a card from their hand and sets it aside without revealing it; proceeding in turn order, each other player does the same. Then the cards that were set aside are discarded at once.
+2016/07/13: If more than one player discards a card with madness simultaneously, the player whose turn it is puts their madness abilities onto the stack first, then each other player does the same in turn order. The last one put onto the stack resolves first, and a spell cast this way will resolve before resolving the next madness ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PEMN</SetId>
+<No>204as</No>
+<Name>Hanweir Battlements</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{R}, {T}: Target creature gains haste until end of turn.
+{3}{R}{R}, {T}: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.</CardText>
+<Artist>Vincent Proce</Artist>
+<Rulings>2016/07/13: You choose which opponent or planeswalker controlled by an opponent each token is attacking as it enters the battlefield. It doesn't have to be the same opponent or planeswalker that the trigger's source is attacking, and the tokens don't both have to attack the same player or planeswalker.
+2016/07/13: On the turn they enter the battlefield, the tokens are never declared as attacking creatures. They simply enter the battlefield attacking. They won't cause any abilities that trigger "whenever a creature attacks" to trigger.
+2016/07/13: If another ability of a source you control triggers when attackers are declared, such as that of Hamlet Captain, you may have it resolve before or after that of Hanweir, the Writhing Township. If that ability has targets, it won't be able to target the tokens.
+2016/07/13: For more information on meld cards, see the Eldritch Moon mechanics article (https://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Eldritch Moon Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Hanweir Garrison</OtherPart>
+</Card>
+

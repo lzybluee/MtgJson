@@ -482,7 +482,7 @@ Enchanted creature has infect. (It deals damage to creatures in the form of -1/-
 <Name>Fuel for the Cause</Name>
 <Type>Instant</Type>
 <ManaCost>2UU (4)</ManaCost>
-<CardText>Counter target spell, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
+<CardText>Counter target spell, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
 <Flavor>"Your ideas will be discarded and your will repurposed."</Flavor>
 <Artist>Steven Belledin</Artist>
 <Watermark>Phyrexian</Watermark>
@@ -1086,7 +1086,7 @@ Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 unt
 <Name>Spread the Sickness</Name>
 <Type>Sorcery</Type>
 <ManaCost>4B (5)</ManaCost>
-<CardText>Destroy target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
+<CardText>Destroy target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
 <Flavor>Life is ephemeral. Phyrexia is eternal.</Flavor>
 <Artist>Jaime Jones</Artist>
 <Watermark>Phyrexian</Watermark>
@@ -1691,7 +1691,7 @@ If damage would be dealt to Phyrexian Hydra, prevent that damage. Put a -1/-1 co
 <Name>Plaguemaw Beast</Name>
 <Type>Creature — Beast 4/3</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>{T}, Sacrifice a creature: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
+<CardText>{T}, Sacrifice a creature: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
 <Flavor>Phyrexia's spiral of consumption grows ever wider and darker.</Flavor>
 <Artist>Whit Brachna</Artist>
 <Watermark>Phyrexian</Watermark>
@@ -1986,7 +1986,7 @@ Equip {2}</CardText>
 <CardText>Equipped creature gets +2/+2 and can't block.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</CardText>
 <Flavor>"We will fight as they do: our flesh protected behind metal."
-—Tae Aquil, Viridan weaponsmith</Flavor>
+—Tae Aquil, Viridian weaponsmith</Flavor>
 <Artist>Franz Vohwinkel</Artist>
 <Watermark>Mirran</Watermark>
 <Multiverseid>213805</Multiverseid>
@@ -2004,7 +2004,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 <Type>Artifact Creature — Horror 2/2</Type>
 <ManaCost>4 (4)</ManaCost>
 <CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
-When Core Prowler dies, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</CardText>
+When Core Prowler dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
 <Artist>Dave Allsop</Artist>
 <Watermark>Phyrexian</Watermark>
 <Multiverseid>213822</Multiverseid>
@@ -2116,7 +2116,7 @@ Equip {2}</CardText>
 <Name>Hexplate Golem</Name>
 <Type>Artifact Creature — Golem 5/7</Type>
 <ManaCost>7 (7)</ManaCost>
-<Flavor>"Use everything. Iron, rust, scrap . . .  even the ground must join our cause."
+<Flavor>"Use everything. Iron, rust, scrap . . . even the ground must join our cause."
 —Ezuri, renegade leader</Flavor>
 <Artist>Matt Cavotta</Artist>
 <Watermark>Mirran</Watermark>
@@ -2729,7 +2729,7 @@ Equip {2}</CardText>
 <ManaCost>6 (6)</ManaCost>
 <CardText>Flying
 At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and create five 1/1 colorless Thopter artifact creature tokens with flying.</CardText>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Watermark>Mirran</Watermark>
 <Multiverseid>214039</Multiverseid>
 <Rulings>2011/06/01: The triggered ability looks for any permanent you control with the creature type Thopter, not just the Thopter tokens previously created by a <Thopter Assembly>.</Rulings>

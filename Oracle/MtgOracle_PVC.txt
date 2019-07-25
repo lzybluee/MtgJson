@@ -230,10 +230,7 @@ Sacrifice a creature: Target creature gets -1/-1 until end of turn.</CardText>
 <Name>Phyrexian Hulk</Name>
 <Type>Artifact Creature — Golem 5/4</Type>
 <ManaCost>6 (6)</ManaCost>
-<Flavor>It doesn't think. It doesn't feel.
-It doesn't laugh or cry.
-All it does from dusk till dawn
-Is make the soldiers die.
+<Flavor>It doesn't think. It doesn't feel. It doesn't laugh or cry. All it does from dusk till dawn Is make the soldiers die.
 —Onean children's rhyme</Flavor>
 <Artist>Matthew D. Wilson</Artist>
 <Multiverseid>209133</Multiverseid>
@@ -413,7 +410,7 @@ Equip {2}</CardText>
 <CardText>Worn Powerstone enters the battlefield tapped.
 {T}: Add {C}{C}.</CardText>
 <Flavor>Even a fragment of a powerstone contains within it not just energy, but space—vast dimensions trapped in fragile crystal.</Flavor>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>210137</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -751,7 +748,7 @@ When Verduran Emissary enters the battlefield, if it was kicked, destroy target 
 <Name>Yavimaya Elder</Name>
 <Type>Creature — Human Druid 2/1</Type>
 <ManaCost>1GG (3)</ManaCost>
-<CardText>When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+<CardText>When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
 {2}, Sacrifice Yavimaya Elder: Draw a card.</CardText>
 <Artist>Matt Cavotta</Artist>
 <Multiverseid>207887</Multiverseid>
@@ -985,7 +982,7 @@ Domain — Enchanted creature gets -1/-1 for each basic land type among lands yo
 <Type>Instant</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>As an additional cost to cast this spell, sacrifice a land.
-Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</CardText>
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.</CardText>
 <Flavor>No spot in nature is truly barren.</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>209114</Multiverseid>
@@ -1152,7 +1149,7 @@ Whenever enchanted creature deals damage, you gain that much life.</CardText>
 <No>66</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>209159</Multiverseid>
 <Vintage>Legal</Vintage>

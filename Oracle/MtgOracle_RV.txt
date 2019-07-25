@@ -61,10 +61,7 @@ Protection from white (This creature can't be blocked, targeted, dealt damage, o
 <Type>Creature — Wraith 3/3</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)</CardText>
-<Flavor>'Twas in the bogs of Cannelbrae
-My mate did meet an early grave
-'Twas nothing left for us to save
-In the peat-filled bogs of Cannelbrae.</Flavor>
+<Flavor>'Twas in the bogs of Cannelbrae My mate did meet an early grave 'Twas nothing left for us to save In the peat-filled bogs of Cannelbrae.</Flavor>
 <Artist>Jeff A. Menges</Artist>
 <Multiverseid>1146</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -210,7 +207,7 @@ At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes an
 <Name>Demonic Tutor</Name>
 <Type>Sorcery</Type>
 <ManaCost>1B (2)</ManaCost>
-<CardText>Search your library for a card and put that card into your hand. Then shuffle your library.</CardText>
+<CardText>Search your library for a card, put that card into your hand, then shuffle your library.</CardText>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>1155</Multiverseid>
 <Rulings>2004/10/04: You pick a card on resolution.
@@ -383,7 +380,8 @@ Activated abilities of white enchantments cost {3} more to activate.</CardText>
 <ManaCost>1BB (3)</ManaCost>
 <CardText>Flying
 Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.</CardText>
-<Flavor>"...There was no trace/ Of aught on that illumined face..." —Samuel Coleridge, "Phantom"</Flavor>
+<Flavor>"...There was no trace/ Of aught on that illumined face..."
+—Samuel Coleridge, "Phantom"</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>1165</Multiverseid>
 <Rulings>2008/08/01: The ability triggers even if the Specter's damage is being redirected to an opponent. It does not trigger if damage that would have been dealt to the opponent is redirected to a nonopponent player or a creature, or if the damage is prevented.</Rulings>
@@ -439,13 +437,13 @@ At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit
 At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>1168</Multiverseid>
-<Rulings>2004/10/04: Note that bringing the Shadow back onto the battlefield from the graveyard is not a spell, it is an ability. It can't be countered with something that counters spells.
-2004/10/04: Since it enters the battlefield due to triggering at the beginning of upkeep, it is not possible to get an infinite loop with four <Nether Shadow>s.
-2008/10/01: A card is "above" another card in your graveyard if it was put into that graveyard later.
+<Rulings>2004/10/04: Since it enters the battlefield due to triggering at the beginning of upkeep, it is not possible to get an infinite loop with four <Nether Shadow>s.
+2004/10/04: Note that bringing the Shadow back onto the battlefield from the graveyard is not a spell, it is an ability. It can't be countered with something that counters spells.
 2008/10/01: Players may not rearrange the cards in their graveyards.
-2008/10/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.
 2008/10/01: The last thing that happens to a resolving instant or sorcery spell is that it's put into its owner's graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards.
-2008/10/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.</Rulings>
+2008/10/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.
+2008/10/01: A card is "above" another card in your graveyard if it was put into that graveyard later.
+2008/10/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Revised Edition</Set>
@@ -542,8 +540,7 @@ At the beginning of the upkeep of enchanted creature's controller, that player m
 <Type>Creature — Rat */*</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.</CardText>
-<Flavor>"Should you a Rat to madness tease
-Why ev'n a Rat may plague you. . ."
+<Flavor>"Should you a Rat to madness tease Why ev'n a Rat may plague you. . ."
 —Samuel Coleridge, "Recantation"</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>1173</Multiverseid>
@@ -787,10 +784,7 @@ Enchanted creature gets -2/-1.</CardText>
 <ManaCost>B (1)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</CardText>
-<Flavor>"About, about in reel and rout
-The death-fires danced at night;
-The water, like a witch's oils,
-Burnt green, and blue and white."
+<Flavor>"About, about in reel and rout The death-fires danced at night; The water, like a witch's oils, Burnt green, and blue and white."
 —Samuel Coleridge, "The Rime of the Ancient Mariner"</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>1187</Multiverseid>
@@ -824,7 +818,7 @@ Other Zombies have "{B}: Regenerate this permanent."</CardText>
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying</CardText>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
 <Flavor>These spirits of the air are winsome and wild, and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>1189</Multiverseid>
@@ -1123,7 +1117,7 @@ When you control no Islands, sacrifice Island Fish Jasconius.</CardText>
 <Name>Lord of Atlantis</Name>
 <Type>Creature — Merfolk 2/2</Type>
 <ManaCost>UU (2)</ManaCost>
-<CardText>Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)</CardText>
+<CardText>Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)</CardText>
 <Flavor>A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>1206</Multiverseid>
@@ -1184,9 +1178,9 @@ When you control no Islands, sacrifice Island Fish Jasconius.</CardText>
 <CardText>Tap all lands target player controls and that player loses all unspent mana.</CardText>
 <Artist>Dameon Willich</Artist>
 <Multiverseid>1209</Multiverseid>
-<Rulings>2004/10/04: Since this is an instant, your opponent may use instants in response to the casting of this spell. Note that such spells and abilities will be resolved before the mana pool is emptied by the <Mana Short>. This makes it useless as a countermeasure for spells. To use it effectively, you need to use it during Upkeep and even then it will not prevent the use of instant spells and abilities.
-2004/10/04: If you play <Mana Short> in response to a spell, it will have no effect on that spell since the mana has already been paid.
-2004/10/04: It even taps lands that do not produce mana.</Rulings>
+<Rulings>2004/10/04: It even taps lands that do not produce mana.
+2004/10/04: Since this is an instant, your opponent may use instants in response to the casting of this spell. Note that such spells and abilities will be resolved before the mana pool is emptied by the <Mana Short>. This makes it useless as a countermeasure for spells. To use it effectively, you need to use it during Upkeep and even then it will not prevent the use of instant spells and abilities.
+2004/10/04: If you play <Mana Short> in response to a spell, it will have no effect on that spell since the mana has already been paid.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Revised Edition</Set>
@@ -1251,10 +1245,7 @@ Enchanted land is the chosen type.</CardText>
 <Type>Creature — Illusion 3/3</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>"While, like a ghastly rapid river,
-Through the pale door,
-A hideous throng rush out forever,
-And laugh—but smile no more."
+<Flavor>"While, like a ghastly rapid river, Through the pale door, A hideous throng rush out forever, And laugh—but smile no more."
 —Edgar Allan Poe, "The Haunted Palace"</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>1213</Multiverseid>
@@ -1555,7 +1546,7 @@ At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 c
 <Name>Vesuvan Doppelganger</Name>
 <Type>Creature — Shapeshifter 0/0</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."</CardText>
+<CardText>You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has "At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability."</CardText>
 <Artist>Quinton Hoover</Artist>
 <Multiverseid>1230</Multiverseid>
 <Rulings>2004/10/04: When the Doppelganger switches creatures, the creature it used to be is not considered to have left the battlefield. Such effects will consider the creature to have left the battlefield when the Doppelganger leaves the battlefield.
@@ -1564,12 +1555,12 @@ At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 c
 2004/10/04: When it takes on the characteristics of the other card, it is no longer of creature type Shapeshifter.
 2004/10/04: When changing forms, any text changes that exist on the Doppelganger are applied to the new text, if appropriate.
 2004/12/01: If a Doppelganger is flipped, and it copies a flip card in any state, it will copy both "sides" of that card but use the flipped side. If a Doppelganger is unflipped, and it copies a flip card in any state, it will copy both "sides" of that card but use the unflipped side. In the second case, if it ever meets the flip conditions of its new ability, it will flip and used the flipped side of what it is copying.
+2007/09/16: Although <Vesuvan Doppelganger>'s triggered ability is targeted, its "as enters the battlefield" ability is not.
 2007/09/16: When <Vesuvan Doppelganger>'s triggered ability triggers, you must choose a target for it. You determine whether to have the Doppelganger become a copy of that target when the ability resolves.
 2007/09/16: <Vesuvan Doppelganger> copies the mana cost of the creature it's copying but doesn't copy its color.
 2007/09/16: If another creature copies <Vesuvan Doppelganger>, the new creature will become a copy of whatever <Vesuvan Doppelganger> is copying except for its color, will copy <Vesuvan Doppelganger>'s color, and will gain <Vesuvan Doppelganger>'s triggered ability.
 2007/09/16: <Vesuvan Doppelganger>'s triggered ability may cause it to become a copy of itself. A <Vesuvan Doppelganger> that becomes a copy of a <Vesuvan Doppelganger> (either itself or a different one) will gain another instance of its triggered ability. Each instance of that ability will trigger during its controller's upkeep. They'll all be put on the stack and resolve one at a time. The last one to resolve determines the Doppelganger's characteristics for the rest of the turn.
-2007/09/16: <Vesuvan Doppelganger> copies a face-down creature, it becomes a face-up 2/2 blue creature with no name and no abilities other than the one it gives itself.
-2007/09/16: Although <Vesuvan Doppelganger>'s triggered ability is targeted, its "as enters the battlefield" ability is not.</Rulings>
+2007/09/16: <Vesuvan Doppelganger> copies a face-down creature, it becomes a face-up 2/2 blue creature with no name and no abilities other than the one it gives itself.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1973,7 +1964,7 @@ Enchanted creature can attack as though it had haste.
 <Type>Enchantment — Aura</Type>
 <ManaCost>1GG (3)</ManaCost>
 <CardText>Enchant land
-When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of their choice.</CardText>
+When enchanted land becomes tapped, destroy it. That land's controller may attach Kudzu to a land of their choice.</CardText>
 <Artist>Mark Poole</Artist>
 <Multiverseid>1254</Multiverseid>
 <Rulings>2004/10/04: You can move it to any other player's land whenever you get to move it.
@@ -2312,10 +2303,7 @@ All creatures able to block enchanted creature do so.</CardText>
 <Type>Creature — Wall 0/7</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Defender (This creature can't attack.)</CardText>
-<Flavor>"And through the drifts the snowy cliffs
-Did send a dismal sheen:
-Nor shapes of men nor beasts we ken—
-The ice was all between."
+<Flavor>"And through the drifts the snowy cliffs Did send a dismal sheen: Nor shapes of men nor beasts we ken— The ice was all between."
 —Samuel Coleridge, "The Rime of the Ancient Mariner"</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>1274</Multiverseid>
@@ -2624,8 +2612,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <ManaCost>R (1)</ManaCost>
 <CardText>Enchant creature
 {R}: Enchanted creature gets +1/+0 until end of turn.</CardText>
-<Flavor>"And topples round the dreary west
-A looming bastion fringed with fire."
+<Flavor>"And topples round the dreary west A looming bastion fringed with fire."
 —Alfred, Lord Tennyson, "In Memoriam"</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>1292</Multiverseid>
@@ -2663,18 +2650,18 @@ A looming bastion fringed with fire."
 <CardText>Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.</CardText>
 <Artist>Amy Weber</Artist>
 <Multiverseid>1294</Multiverseid>
-<Rulings>2004/10/04: When a spell with additional costs is copied, you don't have to pay those costs again.
-2004/10/04: For spells that can have a variable number of targets, the controller of the copy must use the same number of targets the original spell did.
-2004/10/04: <Fork>ing a spell with an X in the cost requires you to use the same X value.
-2004/10/04: <Fork> will not copy changes made by modifying effects to the spell prior to the use of <Fork>, such as text-changing effects.
+<Rulings>2004/10/04: <Fork> will not copy changes made by modifying effects to the spell prior to the use of <Fork>, such as text-changing effects.
 2004/10/04: If mana or other costs need to be spent at resolution of the spell, the player of <Fork> would still be responsible for paying that cost.
 2004/10/04: You need not (and may not) pay any additional mana or other costs (like sacrifices) to use the spell which is <Fork>ed. You get control over a complete copy but can change nothing except the targets.
 2004/10/04: <Fork> does not let you make non-targeting choices about the spell.
-2004/10/04: If the spell being copied targets a spell on the stack, it is possible to target <Fork> itself since <Fork> is still on the stack when you pick the target(s) for the copy. Note that the copy's target will be illegal when it resolves.
+2004/10/04: When a spell with additional costs is copied, you don't have to pay those costs again.
 2004/10/04: If you copy a spell for which Buyback has been paid, you get nothing back since the copied spell does not have a card to give you.
 2004/10/04: The copy that is placed on the stack is not considered to have been "cast".
 2004/10/04: The <Fork> card goes to the graveyard when it resolves and leaves the copy on the stack. There is no card representing the copy on the stack.
 2004/10/04: It does copy the mana symbols in the mana cost for the card it is copying, but it uses its own color definition and not the one from those mana symbols. This is so it maintains its color just like the text says.
+2004/10/04: If the spell being copied targets a spell on the stack, it is possible to target <Fork> itself since <Fork> is still on the stack when you pick the target(s) for the copy. Note that the copy's target will be illegal when it resolves.
+2004/10/04: For spells that can have a variable number of targets, the controller of the copy must use the same number of targets the original spell did.
+2004/10/04: <Fork>ing a spell with an X in the cost requires you to use the same X value.
 2004/12/01: If you <Fork> a Spliced spell, the spliced text is added during the announcement of the original spell, and therefore is fully copied by <Fork>.
 2009/05/01: The copy will have the same mana cost as the original spell, but will be red rather than whatever color that mana cost would have made it.
 2009/10/01: If the targeted spell was kicked, then the copy will be kicked as well. If the targeted spell was not kicked, then the copy will not be kicked.</Rulings>
@@ -2860,12 +2847,12 @@ At the beginning of each player's upkeep, that player may choose any number of t
 <CardText>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>1305</Multiverseid>
-<Rulings>2004/10/04: If the land produces more than one color of mana at a single time, its controller chooses which of those types is produced by <Mana Flare>'s ability.
-2004/10/04: The types of mana are white, blue, black, red, green, and colorless.
-2004/10/04: When used with lands that can produce multiple colors, <Mana Flare> produces one additional mana of the same color that was produced. It can't give a mana of a color that wasn't produced.
+<Rulings>2004/10/04: When used with lands that can produce multiple colors, <Mana Flare> produces one additional mana of the same color that was produced. It can't give a mana of a color that wasn't produced.
 2004/10/04: Only produces extra mana when land is tapped for mana, not when tapped by some other effect.
-2004/10/04: <Mana Flare> adds one of whatever color the land produces after applying any land type or color changing effects.
+2004/10/04: If the land produces more than one color of mana at a single time, its controller chooses which of those types is produced by <Mana Flare>'s ability.
 2004/10/04: This is a triggered mana ability.
+2004/10/04: <Mana Flare> adds one of whatever color the land produces after applying any land type or color changing effects.
+2004/10/04: The types of mana are white, blue, black, red, green, and colorless.
 2007/09/16: Does not copy any restrictions on the mana, such as with Mishra's Workshop or Pillar of the Paruns.
 2007/09/16: Produces only one additional mana, regardless of how much was produced by tapping the land.</Rulings>
 <Vintage>Legal</Vintage>
@@ -3179,10 +3166,7 @@ For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter o
 <Type>Creature — Troll 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>{R}: Regenerate Uthden Troll.</CardText>
-<Flavor>"Oi oi oi, me gotta hurt in 'ere,
-Oi oi oi, me smell a ting is near,
-Gonna bosh 'n gonna nosh 'n da
-hurt'll disappear."
+<Flavor>"Oi oi oi, me gotta hurt in 'ere, Oi oi oi, me smell a ting is near, Gonna bosh 'n gonna nosh 'n da hurt'll disappear."
 —Traditional</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>1323</Multiverseid>
@@ -3744,7 +3728,8 @@ Enchanted creature has first strike.</CardText>
 <Name>Pearled Unicorn</Name>
 <Type>Creature — Unicorn 2/2</Type>
 <ManaCost>2W (3)</ManaCost>
-<Flavor>"'Do you know, I always thought Unicorns were fabulous monsters, too? I never saw one alive before!' 'Well, now that we have seen each other,' said the Unicorn, 'if you'll believe in me, I'll believe in you.'" —Lewis Carroll</Flavor>
+<Flavor>"'Do you know, I always thought Unicorns were fabulous monsters, too? I never saw one alive before!' 'Well, now that we have seen each other,' said the Unicorn, 'if you'll believe in me, I'll believe in you.'"
+—Lewis Carroll</Flavor>
 <Artist>Cornelius Brudi</Artist>
 <Multiverseid>1356</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4046,7 +4031,8 @@ Enchanted creature has protection from white. This effect doesn't remove White W
 <Type>Artifact</Type>
 <ManaCost>8 (8)</ManaCost>
 <CardText>{8}, {T}: Aladdin's Ring deals 4 damage to any target.</CardText>
-<Flavor>"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'" —The Arabian Nights, Junior Classics trans.</Flavor>
+<Flavor>"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'"
+—The Arabian Nights, Junior Classics trans.</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>1093</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4539,14 +4525,14 @@ Juggernaut can't be blocked by Walls.</CardText>
 If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.</CardText>
 <Artist>Daniel Gelon</Artist>
 <Multiverseid>1122</Multiverseid>
-<Rulings>2004/10/04: This effect has no effect on the cards being put into the graveyard from a library, because they are not "discarded".
-2004/10/04: You can't use the <Library of Leng> ability to place a discarded card on top of your library when you discard a card as a cost, because costs aren't effects.
+<Rulings>2004/10/04: You can't use the <Library of Leng> ability to place a discarded card on top of your library when you discard a card as a cost, because costs aren't effects.
 2004/10/04: The discard triggers anything else that triggers on discards.
 2004/10/04: You can look at a randomly discarded card before deciding where it goes.
-2004/10/04: The ability applies any time a spell or ability has you discard as part of its effect. It does not matter if you or your opponent control the spell or ability. The discard is forced because it is an effect.
+2004/10/04: This effect has no effect on the cards being put into the graveyard from a library, because they are not "discarded".
 2004/10/04: If more than one card is discarded due to a single effect, the Library allows you to decide whether or not to use it on each of the cards. You get to decide the order the cards are placed on the library if more than one goes there.
 2004/10/04: Since the card goes directly to the library, the card is not revealed unless the spell or ability requiring the discard specifically says it is.
 2004/10/04: The ability replaces the normal discard action with a discard action that puts the card on the library instead of the graveyard.
+2004/10/04: The ability applies any time a spell or ability has you discard as part of its effect. It does not matter if you or your opponent control the spell or ability. The discard is forced because it is an effect.
 2009/10/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put <Library of Leng> onto the battlefield, you'll have no maximum hand size. However, if those permanents entered the battlefield in the opposite order, your maximum hand size would be two.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4933,6 +4919,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>284</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -4947,6 +4934,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>285</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -4961,6 +4949,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>286</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -4975,6 +4964,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>287</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -4989,6 +4979,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>288</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -5003,6 +4994,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>289</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -5017,6 +5009,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>290</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5031,6 +5024,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>291</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5045,6 +5039,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>292</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5059,6 +5054,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>293</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5073,6 +5069,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>294</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5087,6 +5084,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>295</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5152,6 +5150,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>299</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -5166,6 +5165,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>300</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -5180,6 +5180,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 
 <Card>
 <SetId>RV</SetId>
+<No>301</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>

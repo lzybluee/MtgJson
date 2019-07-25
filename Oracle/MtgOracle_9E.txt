@@ -58,7 +58,7 @@ When Aven Cloudchaser enters the battlefield, destroy target enchantment.</CardT
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 {W}: Aven Flock gets +0/+1 until end of turn.</CardText>
 <Flavor>Just as each added feather steadies the wing, so does the flock grow stronger with each new member.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>82999</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -130,7 +130,7 @@ Whenever Blinding Angel deals combat damage to a player, that player skips their
 <CardText>{0}: Return Blinking Spirit to its owner's hand.</CardText>
 <Flavor>"Don't look at it! Maybe it'll go away!"
 —Ib Halfheart, goblin tactician</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>83962</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -373,8 +373,7 @@ Enchanted creature gets +1/+2.</CardText>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Untap target creature. It gets +2/+4 until end of turn.</CardText>
 <Flavor>"The hour of your redemption is here. . . . Rally to me. . . . rise and strike. Strike at every favorable opportunity. For your homes and hearths, strike!"
-—General Douglas MacArthur,
-to the people of the Philippines</Flavor>
+—General Douglas MacArthur, to the people of the Philippines</Flavor>
 <Artist>Simon Bisley</Artist>
 <Multiverseid>84552</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -651,11 +650,7 @@ First strike (This creature deals combat damage before creatures without first s
 <Type>Sorcery</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>You gain 4 life.</CardText>
-<Flavor>"Over the silver mountains,
-Where spring the nectar fountains,
-There will I kiss
-The bowl of bliss;
-And drink my everlasting fill. . . ."
+<Flavor>"Over the silver mountains, Where spring the nectar fountains, There will I kiss The bowl of bliss; And drink my everlasting fill. . . ."
 —Sir Walter Raleigh, "The Pilgrimage"</Flavor>
 <Artist>Janine Johnston</Artist>
 <Multiverseid>83240</Multiverseid>
@@ -938,7 +933,7 @@ Whenever enchanted creature deals damage, you gain that much life.</CardText>
 <Type>Creature — Human Nomad Cleric 1/1</Type>
 <ManaCost>W (1)</ManaCost>
 <CardText>{W}, {T}: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>83311</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1006,7 +1001,7 @@ Whenever enchanted creature deals damage, you gain that much life.</CardText>
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying</CardText>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
 <Flavor>Pray that it doesn't seek the safety of your lungs.</Flavor>
 <Artist>Nick Percival</Artist>
 <Multiverseid>82988</Multiverseid>
@@ -1080,7 +1075,7 @@ When Aven Fisher dies, you may draw a card.</CardText>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 {1}{U}: Target player reveals the top card of their library.</CardText>
 <Flavor>"The tiniest ripple tells a story ten fathoms deep."</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>84071</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1096,10 +1091,7 @@ When Aven Fisher dies, you may draw a card.</CardText>
 <Type>Creature — Drake 2/4</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>Little dreamt could seem so cruel
-As waiting for the wings outspread,
-The jagged teeth, the burning eyes,
-And dagger-claws that clench to nerves.</Flavor>
+<Flavor>Little dreamt could seem so cruel As waiting for the wings outspread, The jagged teeth, the burning eyes, And dagger-claws that clench to nerves.</Flavor>
 <Artist>Janine Johnston</Artist>
 <Multiverseid>83084</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1229,8 +1221,7 @@ You control enchanted permanent.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>3UU (5)</ManaCost>
 <CardText>Whenever a creature becomes the target of a spell or ability, return that creature to its owner's hand. (It won't be affected by the spell or ability.)</CardText>
-<Flavor>"Cowards die many times before their deaths;
-The valiant never taste of death but once."
+<Flavor>"Cowards die many times before their deaths; The valiant never taste of death but once."
 —William Shakespeare, Julius Caesar</Flavor>
 <Artist>Michael Sutfin</Artist>
 <Multiverseid>83039</Multiverseid>
@@ -1248,9 +1239,7 @@ The valiant never taste of death but once."
 <Type>Creature — Human Wizard 1/1</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>{T}: Target creature with power 2 or less can't be blocked this turn.</CardText>
-<Flavor>Follow the pathmage
-—Otarian expression meaning
-"escape quickly"</Flavor>
+<Flavor>Follow the pathmage —Otarian expression meaning "escape quickly"</Flavor>
 <Artist>Wayne England</Artist>
 <Multiverseid>83165</Multiverseid>
 <Rulings>2004/10/04: If you increase the power of the targeted creature after the ability resolves, it still can't be blocked that turn.</Rulings>
@@ -1758,7 +1747,7 @@ Enchanted land is an Island.</CardText>
 —Remin, venerable monk</Flavor>
 <Artist>Jim Murray</Artist>
 <Multiverseid>83129</Multiverseid>
-<Rulings>2004/10/04: If there is only one card in your library, it goes to your hand.</Rulings>
+<Rulings>2018/12/07: If there is only one card in your library, you put it into your hand.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1808,8 +1797,7 @@ Enchanted land is an Island.</CardText>
 <ManaCost>1UU (3)</ManaCost>
 <CardText>{U}{U}{U}, {T}: Return target permanent to its owner's hand.</CardText>
 <Flavor>"If yesterday was two days ago tomorrow, will the day after tomorrow be today or yesterday?"
-—Temporal Manipulation 101 final exam,
-Tolarian Academy</Flavor>
+—Temporal Manipulation 101 final exam, Tolarian Academy</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>84141</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1984,10 +1972,7 @@ Whenever Thieving Magpie deals damage to an opponent, draw a card.</CardText>
 <Type>Creature — Drake 2/2</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>"But high she shoots through air and light,
-Above all low delay,
-Where nothing earthly bounds her flight,
-Nor shadow dims her way."
+<Flavor>"But high she shoots through air and light, Above all low delay, Where nothing earthly bounds her flight, Nor shadow dims her way."
 —Thomas Moore, "Oh that I had Wings"</Flavor>
 <Artist>Tom Wänerstrand</Artist>
 <Multiverseid>83334</Multiverseid>
@@ -2151,8 +2136,7 @@ Whenever enchanted creature attacks or blocks, its controller loses 3 life.</Car
 <ManaCost>1B (2)</ManaCost>
 <CardText>Target opponent sacrifices a creature.</CardText>
 <Flavor>"No mockeries now for them; no prayers nor bells, / Nor any voice of mourning save the choirs,— / The shrill, demented choirs of wailing shells."
-—Wilfred Owen,
-"Anthem for Doomed Youth"</Flavor>
+—Wilfred Owen, "Anthem for Doomed Youth"</Flavor>
 <Artist>Michael Sutfin</Artist>
 <Multiverseid>84659</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2169,9 +2153,7 @@ Whenever enchanted creature attacks or blocks, its controller loses 3 life.</Car
 <Type>Instant</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Destroy target nonblack creature. It can't be regenerated.</CardText>
-<Flavor>"Ha, banishment? Be merciful, say 'death,'
-For exile hath more terror in his look,
-Much more than death."
+<Flavor>"Ha, banishment? Be merciful, say 'death,' For exile hath more terror in his look, Much more than death."
 —William Shakespeare, Romeo and Juliet</Flavor>
 <Artist>Dermot Power</Artist>
 <Multiverseid>83046</Multiverseid>
@@ -2190,9 +2172,8 @@ Much more than death."
 <ManaCost>3BB (5)</ManaCost>
 <CardText>Whenever a creature is dealt damage, destroy it. It can't be regenerated.</CardText>
 <Flavor>"Neither could I forget what I had read of these pits—that the sudden extinction of life formed no part of their most horrible plan."
-—Edgar Allan Poe,
-"The Pit and the Pendulum"</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+—Edgar Allan Poe, "The Pit and the Pendulum"</Flavor>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>83204</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2693,10 +2674,8 @@ Nightmare's power and toughness are each equal to the number of Swamps you contr
 <Type>Sorcery</Type>
 <ManaCost>2BB (4)</ManaCost>
 <CardText>Choose a color. Target player reveals their hand and discards all cards of that color.</CardText>
-<Flavor>"Of all the tyrannies on humane kind
-The worst is that which persecutes the mind."
-—John Dryden,
-"The Hind and the Panther"</Flavor>
+<Flavor>"Of all the tyrannies on humane kind The worst is that which persecutes the mind."
+—John Dryden, "The Hind and the Panther"</Flavor>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>83199</Multiverseid>
 <Rulings>2004/10/04: The color is chosen on resolution.</Rulings>
@@ -2855,12 +2834,8 @@ The worst is that which persecutes the mind."
 <Name>Scathe Zombies</Name>
 <Type>Creature — Zombie 2/2</Type>
 <ManaCost>2B (3)</ManaCost>
-<Flavor>"They groaned, they stirred, they all uprose,
-Nor spake, nor moved their eyes;
-It had been strange, even in a dream,
-To have seen those dead men rise."
-—Samuel Taylor Coleridge,
-"The Rime of the Ancient Mariner"</Flavor>
+<Flavor>"They groaned, they stirred, they all uprose, Nor spake, nor moved their eyes; It had been strange, even in a dream, To have seen those dead men rise."
+—Samuel Taylor Coleridge, "The Rime of the Ancient Mariner"</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>83247</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3112,10 +3087,7 @@ At the beginning of your upkeep, you may sacrifice an artifact. If you don't, ta
 <Name>Balduvian Barbarians</Name>
 <Type>Creature — Human Barbarian 3/2</Type>
 <ManaCost>1RR (3)</ManaCost>
-<Flavor>"From the snowy slopes of Kaelor,
-To the canyons of Bandu,
-We drink and fight and feast and die
-As we were born to do."
+<Flavor>"From the snowy slopes of Kaelor, To the canyons of Bandu, We drink and fight and feast and die As we were born to do."
 —Balduvian tavern song</Flavor>
 <Artist>Jim Nelson</Artist>
 <Multiverseid>83001</Multiverseid>
@@ -3170,7 +3142,7 @@ As we were born to do."
 <Name>Bloodfire Colossus</Name>
 <Type>Creature — Giant 6/6</Type>
 <ManaCost>6RR (8)</ManaCost>
-<CardText>{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.</CardText>
+<CardText>{R}, Sacrifice Bloodfire Colossus: It deals 6 damage to each creature and each player.</CardText>
 <Flavor>It took all its strength to contain the fire within.</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>84456</Multiverseid>
@@ -3205,8 +3177,7 @@ As we were born to do."
 <Type>Sorcery</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>Destroy target artifact or land.</CardText>
-<Flavor>"Pound the steel until it fits.
-Doesn't work? Bash to bits."
+<Flavor>"Pound the steel until it fits. Doesn't work? Bash to bits."
 —Dwarven forging song</Flavor>
 <Artist>Gary Ruddell</Artist>
 <Multiverseid>83054</Multiverseid>
@@ -3426,7 +3397,7 @@ Creatures without flying can't attack you.</CardText>
 <Name>Goblin Chariot</Name>
 <Type>Creature — Goblin Warrior 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
-<CardText>Haste (This creature can attack the turn it comes under your control.)</CardText>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
 <Flavor>The hardest part of his training is learning not to eat the boar.</Flavor>
 <Artist>John Howe</Artist>
 <Multiverseid>83109</Multiverseid>
@@ -3600,8 +3571,7 @@ When a spell or ability an opponent controls causes you to discard Guerrilla Tac
 <Type>Creature — Elemental 4/1</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
-<Flavor>"A flash of the lightning, a break of the wave,
-He passes from life to his rest in the grave."
+<Flavor>"A flash of the lightning, a break of the wave, He passes from life to his rest in the grave."
 —William Knox, "Mortality"</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>83150</Multiverseid>
@@ -3618,7 +3588,7 @@ He passes from life to his rest in the grave."
 <Name>Magnivore</Name>
 <Type>Creature — Lhurgoyf */*</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>Haste (This creature can attack the turn it comes under your control.)
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
 Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.</CardText>
 <Artist>Carl Critchlow</Artist>
 <Multiverseid>83448</Multiverseid>
@@ -3795,7 +3765,7 @@ Enchanted creature has first strike. (It deals combat damage before creatures wi
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</CardText>
 <Flavor>"Mercy? Mercy is for the playground, not the battleground."</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>83227</Multiverseid>
 <Rulings>2004/10/04: If you manage to cast this during a main phase of your opponent's turn, that opponent's creatures will untap and that opponent will be able to attack again. It will not allow you to attack during their turn.
 2004/10/04: Abilities that trigger when a creature attacks, blocks, or is blocked will trigger during each combat that turn. Thus, a creature with Rampage will get the bonus added during each attack.
@@ -3829,7 +3799,7 @@ Enchanted creature has first strike. (It deals combat damage before creatures wi
 <SetId>9E</SetId>
 <No>214</No>
 <Name>Rukh Egg</Name>
-<Type>Creature — Bird 0/3</Type>
+<Type>Creature — Bird Egg 0/3</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</CardText>
 <Flavor>Called "stonefeathers" by many lowlanders, rukhs are thought to descend from a phoenix that sacrificed its flame for a body of stone.</Flavor>
@@ -4011,7 +3981,7 @@ Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
 <Name>Thundermare</Name>
 <Type>Creature — Elemental Horse 5/5</Type>
 <ManaCost>5R (6)</ManaCost>
-<CardText>Haste (This creature can attack the turn it comes under your control.)
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
 When Thundermare enters the battlefield, tap all other creatures.</CardText>
 <Flavor>Its hooves strike lightning and the thunder follows quickly after.</Flavor>
 <Artist>Bob Eggleton</Artist>
@@ -4029,7 +3999,7 @@ When Thundermare enters the battlefield, tap all other creatures.</CardText>
 <Name>Viashino Sandstalker</Name>
 <Type>Creature — Viashino Warrior 4/2</Type>
 <ManaCost>1RR (3)</ManaCost>
-<CardText>Haste (This creature can attack the turn it comes under your control.)
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
 At the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)</CardText>
 <Flavor>"Some believe sandstalkers to be illusions; those with scars know better."
 —Zhalfirin Guide to the Desert</Flavor>
@@ -4153,7 +4123,7 @@ At the beginning of the end step, return Viashino Sandstalker to its owner's han
 <Name>Blanchwood Armor</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2G (3)</ManaCost>
-<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+<CardText>Enchant creature
 Enchanted creature gets +1/+1 for each Forest you control.</CardText>
 <Artist>Paolo Parente</Artist>
 <Multiverseid>83004</Multiverseid>
@@ -4204,10 +4174,7 @@ Enchanted creature gets +1/+1 for each Forest you control.</CardText>
 <Type>Instant</Type>
 <ManaCost>1GG (3)</ManaCost>
 <CardText>Target player untaps all basic lands they control.</CardText>
-<Flavor>"Earth's increase, foison plenty,
-Barns and garners never empty:
-Vines with clust'ring bunches growing;
-Plants with goodly burden bowing."
+<Flavor>"Earth's increase, foison plenty, Barns and garners never empty: Vines with clust'ring bunches growing; Plants with goodly burden bowing."
 —William Shakespeare, The Tempest</Flavor>
 <Artist>Heather Hudson</Artist>
 <Multiverseid>84541</Multiverseid>
@@ -4259,8 +4226,7 @@ Plants with goodly burden bowing."
 <Type>Creature — Elf 2/2</Type>
 <ManaCost>1GG (3)</ManaCost>
 <CardText>Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)</CardText>
-<Flavor>"For what are leaves but countless blades
-To fight a countless foe on high."
+<Flavor>"For what are leaves but countless blades To fight a countless foe on high."
 —Elvish hymn</Flavor>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>83069</Multiverseid>
@@ -4368,9 +4334,7 @@ At the beginning of your upkeep, Force of Nature deals 8 damage to you unless yo
 <Type>Creature — Spider 2/4</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>Reach (This creature can block creatures with flying.)</CardText>
-<Flavor>Watching the spider's web
-—Llanowar expression meaning
-"focusing on the wrong thing"</Flavor>
+<Flavor>Watching the spider's web —Llanowar expression meaning "focusing on the wrong thing"</Flavor>
 <Artist>Randy Gallegos</Artist>
 <Multiverseid>83105</Multiverseid>
 <Rulings>2008/04/01: This card now uses the Reach keyword ability to enable the blocking of flying creatures. This works because a creature with flying can only be blocked by creatures with flying or reach.</Rulings>
@@ -5199,8 +5163,7 @@ When the chosen player draws a card with the chosen name, sacrifice Booby Trap. 
 <Type>Artifact</Type>
 <ManaCost>5 (5)</ManaCost>
 <CardText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</CardText>
-<Flavor>"Hup, two, three, four,
-Dunno how to count no more."</Flavor>
+<Flavor>"Hup, two, three, four, Dunno how to count no more."</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>83033</Multiverseid>
 <Rulings>2004/10/04: If a creature has more than one creature type, and one of those types matches the creature you are calculating for, then count that creature. Only one type needs to match in order to get counted.
@@ -5316,9 +5279,9 @@ Dunno how to count no more."</Flavor>
 —Mairsil, the Pretender</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>83489</Multiverseid>
-<Rulings>2004/10/04: It only produces one mana even if the land can produce more than one.
-2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
+<Rulings>2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
 2004/10/04: The ability can be activated if the opponent has no lands that produce mana, but the effect will not be able to generate any mana.
+2004/10/04: It only produces one mana even if the land can produce more than one.
 2009/10/01: The colors of mana are white, blue, black, red, and green. <Fellwar Stone> can't be tapped for colorless mana, even if a land an opponent controls could produce colorless mana.
 2009/10/01: <Fellwar Stone> checks the effects of all mana-producing abilities of lands your opponents control, but it doesn't check their costs. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If an opponent controls Vivid Crag and you control <Fellwar Stone>, you can tap <Fellwar Stone> for any color of mana. It doesn't matter whether Vivid Crag has a charge counter on it, and it doesn't matter whether it's untapped.
 2009/10/01: When determining what colors of mana your opponents' lands could produce, take into account any applicable replacement effects that would apply to those lands' mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
@@ -5491,10 +5454,7 @@ Equip {3}</CardText>
 <Name>Phyrexian Hulk</Name>
 <Type>Artifact Creature — Golem 5/4</Type>
 <ManaCost>6 (6)</ManaCost>
-<Flavor>It doesn't think. It doesn't feel.
-It doesn't laugh or cry.
-All it does from dusk till dawn
-Is make the soldiers die.
+<Flavor>It doesn't think. It doesn't feel. It doesn't laugh or cry. All it does from dusk till dawn Is make the soldiers die.
 —Onean children's rhyme</Flavor>
 <Artist>Matthew D. Wilson</Artist>
 <Multiverseid>83203</Multiverseid>

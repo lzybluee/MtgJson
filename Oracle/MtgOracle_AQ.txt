@@ -190,8 +190,7 @@ At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +
 <CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 Colossus of Sardia doesn't untap during your untap step.
 {9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.</CardText>
-<Flavor>From the Sardian mountains wakes ancient doom:
-Warrior born from a rocky womb.</Flavor>
+<Flavor>From the Sardian mountains wakes ancient doom: Warrior born from a rocky womb.</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>1002</Multiverseid>
 <Rulings>2008/05/01: The ability that untaps it during your upkeep has been returned to an activated ability. There is no restriction on how many times it can be untapped during your upkeep with this ability.</Rulings>
@@ -509,8 +508,7 @@ At the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unle
 <CardText>As Shapeshifter enters the battlefield, choose a number between 0 and 7.
 At the beginning of your upkeep, you may choose a number between 0 and 7.
 Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.</CardText>
-<Flavor>Born like a Phoenix from the Flame,
-But neither Bulk nor Shape the same.
+<Flavor>Born like a Phoenix from the Flame, But neither Bulk nor Shape the same.
 —Jonathan Swift, "Vanbrug's House"</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>1020</Multiverseid>
@@ -815,7 +813,8 @@ Whenever enchanted artifact becomes tapped or a player activates an ability of e
 <Type>Enchantment</Type>
 <ManaCost>BB (2)</ManaCost>
 <CardText>Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.</CardText>
-<Flavor>"The warm rain of grease on my face immediately made it clear I had entered Phyrexia." —Jarsyl, Diary</Flavor>
+<Flavor>"The warm rain of grease on my face immediately made it clear I had entered Phyrexia."
+—Jarsyl, Diary</Flavor>
 <Artist>Sandra Everingham</Artist>
 <Multiverseid>1039</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
@@ -1063,9 +1062,7 @@ Prevent all damage that would be dealt to Argothian Pixies by artifact creatures
 <Type>Creature — Treefolk 3/5</Type>
 <ManaCost>3GG (5)</ManaCost>
 <CardText>Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.</CardText>
-<Flavor>Haunting cries we hear in our dreams
-As the forest dies, a death from
-machines.</Flavor>
+<Flavor>Haunting cries we hear in our dreams As the forest dies, a death from machines.</Flavor>
 <Artist>Amy Weber</Artist>
 <Multiverseid>1051</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1163,12 +1160,13 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>66</No>
 <Name>Mishra's Factory</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
 {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
-<Artist>Kaja & Phil Foglio</Artist>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
 <Multiverseid>1072</Multiverseid>
 <Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
 2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -1178,17 +1176,18 @@ machines.</Flavor>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Antiquities</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Uncommon</Rarity>
 </Card>
 
 <Card>
 <SetId>AQ</SetId>
+<No>67</No>
 <Name>Mishra's Factory</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
 {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
-<Artist>Kaja & Phil Foglio</Artist>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
 <Multiverseid>1073</Multiverseid>
 <Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
 2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -1203,12 +1202,13 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>68</No>
 <Name>Mishra's Factory</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
 {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
-<Artist>Kaja & Phil Foglio</Artist>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
 <Multiverseid>1071</Multiverseid>
 <Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
 2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -1223,12 +1223,13 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>69</No>
 <Name>Mishra's Factory</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
 {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
-<Artist>Kaja & Phil Foglio</Artist>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
 <Multiverseid>1074</Multiverseid>
 <Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
 2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -1238,7 +1239,7 @@ machines.</Flavor>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Antiquities</Set>
-<Rarity>Uncommon</Rarity>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -1263,6 +1264,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>71</No>
 <Name>Strip Mine</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
@@ -1278,6 +1280,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>72</No>
 <Name>Strip Mine</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
@@ -1293,6 +1296,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>73</No>
 <Name>Strip Mine</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
@@ -1303,11 +1307,12 @@ machines.</Flavor>
 <Vintage>Restricted</Vintage>
 <Legacy>Banned</Legacy>
 <Set>Antiquities</Set>
-<Rarity>Uncommon</Rarity>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
 <SetId>AQ</SetId>
+<No>74</No>
 <Name>Strip Mine</Name>
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
@@ -1318,11 +1323,12 @@ machines.</Flavor>
 <Vintage>Restricted</Vintage>
 <Legacy>Banned</Legacy>
 <Set>Antiquities</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Uncommon</Rarity>
 </Card>
 
 <Card>
 <SetId>AQ</SetId>
+<No>75</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1339,6 +1345,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>76</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1355,6 +1362,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>77</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1371,6 +1379,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>78</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1387,10 +1396,11 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>79</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
-<Flavor>Artifact construction requires immense resources.</Flavor>
+<Flavor>Artifact construction required immense resources.</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>1086</Multiverseid>
 <Rulings>2004/10/04: If you have at least one of each of the three Urza's lands on the battlefield, you must take the 2 mana instead of just one.</Rulings>
@@ -1403,10 +1413,11 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>80</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
-<Flavor>Artifact construction requires immense resources.</Flavor>
+<Flavor>Artifact construction required immense resources.</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>1085</Multiverseid>
 <Rulings>2004/10/04: If you have at least one of each of the three Urza's lands on the battlefield, you must take the 2 mana instead of just one.</Rulings>
@@ -1414,15 +1425,16 @@ machines.</Flavor>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Antiquities</Set>
-<Rarity>Common</Rarity>
+<Rarity>Uncommon</Rarity>
 </Card>
 
 <Card>
 <SetId>AQ</SetId>
+<No>81</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
-<Flavor>Artifact construction requires immense resources.</Flavor>
+<Flavor>Artifact construction required immense resources.</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>1084</Multiverseid>
 <Rulings>2004/10/04: If you have at least one of each of the three Urza's lands on the battlefield, you must take the 2 mana instead of just one.</Rulings>
@@ -1435,10 +1447,11 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>82</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
-<Flavor>Artifact construction requires immense resources.</Flavor>
+<Flavor>Artifact construction required immense resources.</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>1087</Multiverseid>
 <Rulings>2004/10/04: If you have at least one of each of the three Urza's lands on the battlefield, you must take the 2 mana instead of just one.</Rulings>
@@ -1446,11 +1459,12 @@ machines.</Flavor>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Antiquities</Set>
-<Rarity>Uncommon</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
 <SetId>AQ</SetId>
+<No>83</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>
@@ -1466,6 +1480,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>84</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>
@@ -1481,6 +1496,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>85</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>
@@ -1496,6 +1512,7 @@ machines.</Flavor>
 
 <Card>
 <SetId>AQ</SetId>
+<No>86</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>

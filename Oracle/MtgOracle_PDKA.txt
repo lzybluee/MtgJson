@@ -1,0 +1,133 @@
+<Card>
+<SetId>PDKA</SetId>
+<No>*64</No>
+<Name>Gravecrawler</Name>
+<Type>Creature — Zombie 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Gravecrawler can't block.
+You may cast Gravecrawler from your graveyard as long as you control a Zombie.</CardText>
+<Flavor>"Innistrad's ghoulcallers are talented enough, but let me show you what someone with real power can create."
+—Liliana Vess</Flavor>
+<Artist>Dave Kendall</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2011/01/22: <Gravecrawler>'s ability doesn't change when you could cast it.
+2011/01/22: Once you've cast <Gravecrawler> and it's on the stack, it doesn't matter if you lose control of the other Zombie.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDKA</SetId>
+<No>71b</No>
+<Name>Archdemon of Greed</Name>
+<Type>Creature — Demon 9/9</Type>
+<ColorIndicator>Black</ColorIndicator>
+<CardText>Flying, trample
+At the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.</CardText>
+<Flavor>"The price is paid. The power is mine!"</Flavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Ravenous Demon</OtherPart>
+</Card>
+
+<Card>
+<SetId>PDKA</SetId>
+<No>71a</No>
+<Name>Ravenous Demon</Name>
+<Type>Creature — Demon 4/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>His twisted words entice the weak.</Flavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Archdemon of Greed</OtherPart>
+</Card>
+
+<Card>
+<SetId>PDKA</SetId>
+<No>80</No>
+<Name>Zombie Apocalypse</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2011/01/22: All Humans are destroyed, not just ones you control.
+2011/01/22: If a creature card in your graveyard is both a Zombie and a Human, it will be returned to the battlefield tapped, then be destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDKA</SetId>
+<No>98b</No>
+<Name>Tovolar's Magehunter</Name>
+<Type>Creature — Werewolf 5/5</Type>
+<ColorIndicator>Red</ColorIndicator>
+<CardText>Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.</CardText>
+<Artist>Anthony Palumbo</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2011/01/22: <Tovolar's Magehunter>'s first triggered ability will resolve before the spell that caused it to trigger. If this causes the player who cast that spell to lose the game, that spell won't resolve.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Mondronen Shaman</OtherPart>
+</Card>
+
+<Card>
+<SetId>PDKA</SetId>
+<No>98a</No>
+<Name>Mondronen Shaman</Name>
+<Type>Creature — Human Shaman Werewolf 3/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.</CardText>
+<Flavor>"Tovolar, my master. Gather the howlpack, for the Hunter's Moon is nigh and Thraben's walls grow weak."</Flavor>
+<Artist>Anthony Palumbo</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2011/01/22: Tovolar's Magehunter's first triggered ability will resolve before the spell that caused it to trigger. If this causes the player who cast that spell to lose the game, that spell won't resolve.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Tovolar's Magehunter</OtherPart>
+</Card>
+
+<Card>
+<SetId>PDKA</SetId>
+<No>127</No>
+<Name>Strangleroot Geist</Name>
+<Type>Creature — Spirit 2/1</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>Haste
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</CardText>
+<Artist>Erica Yang</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dark Ascension Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

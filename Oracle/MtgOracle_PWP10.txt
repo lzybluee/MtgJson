@@ -1,0 +1,193 @@
+<Card>
+<SetId>PWP10</SetId>
+<No>36</No>
+<Name>Kor Firewalker</Name>
+<Type>Creature — Kor Soldier 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from red
+Whenever a player casts a red spell, you may gain 1 life.</CardText>
+<Flavor>"A river of lava is just another river to cross."</Flavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2018/03/16: <Kor Firewalker>'s triggered ability resolves before the red spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>37</No>
+<Name>Leatherback Baloth</Name>
+<Type>Creature — Beast 4/5</Type>
+<ManaCost>GGG (3)</ManaCost>
+<Flavor>Heavy enough to withstand the Roil, leatherback skeletons are havens for travelers in storms and landshifts.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>40</No>
+<Name>Syphon Mind</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Each other player discards a card. You draw a card for each card discarded this way.</CardText>
+<Flavor>When tempers run high, it's easy to lose your head.</Flavor>
+<Artist>Jeff Easley</Artist>
+<Watermark>Wpn</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>46</No>
+<Name>Pathrazer of Ulamog</Name>
+<Type>Creature — Eldrazi 9/9</Type>
+<ManaCost>11 (11)</ManaCost>
+<CardText>Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)
+Pathrazer of Ulamog can't be blocked except by three or more creatures.</CardText>
+<Flavor>No thought but hunger. No strategy but destruction.</Flavor>
+<Artist>Goran Josic</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2010/06/15: Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before they declare blockers. Any creatures sacrificed this way won't be able to block.
+2010/06/15: If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>47</No>
+<Name>Curse of Wizardry</Name>
+<Type>Enchantment</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>As Curse of Wizardry enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, that player loses 1 life.</CardText>
+<Flavor>"We must all push through the pain to heal our world."
+—Ayli, Kamsa cleric</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2010/06/15: <Curse of Wizardry> affects all players, including you.
+2010/06/15: If a player casts a spell of the chosen color, <Curse of Wizardry>'s second ability triggers and goes on the stack on top of it. The ability will resolve before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>50</No>
+<Name>Fling</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to any target.</CardText>
+<Flavor>Sometimes the cannoneer must become the cannonball.</Flavor>
+<Artist>Daren Bader</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2010/08/15: The sacrificed creature's last known existence on the battlefield is checked to determine its power.
+2010/08/15: If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it.
+2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
+2013/04/15: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>51</No>
+<Name>Sylvan Ranger</Name>
+<Type>Creature — Elf Scout 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Flavor>"Not all paths are found on the forest floor."</Flavor>
+<Artist>Ciruelo</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>59</No>
+<Name>Plague Stinger</Name>
+<Type>Creature — Insect Horror 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>It leaves its victims one sting closer to phyresis.</Flavor>
+<Artist>Tomasz Jedruszek</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2011/01/01: A player who has ten or more poison counters loses the game. This is a state-based action.
+2011/01/01: Infect's effect applies to any damage, not just combat damage.
+2011/01/01: The -1/-1 counters remain on the creature indefinitely. They're not removed if the creature regenerates or the turn ends.
+2011/01/01: Damage from a source with infect is damage in all respects. If the source with infect also has lifelink, damage dealt by that source also causes its controller to gain that much life. Damage from a source with infect can be prevented or redirected. Abilities that trigger on damage being dealt will trigger if a source with infect deals damage, if appropriate.
+2011/01/01: If damage from a source with infect that would be dealt to a player is prevented, that player doesn't get poison counters. If damage from a source with infect that would be dealt to a creature is prevented, that creature doesn't get -1/-1 counters.
+2011/01/01: Damage from a source with infect affects planeswalkers normally.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>60</No>
+<Name>Golem's Heart</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever a player casts an artifact spell, you may gain 1 life.</CardText>
+<Flavor>The heart of a golem gives life to more than just the iron husk around it.</Flavor>
+<Artist>Alan Pollack</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/01/01: Unlike Golem Foundry and the Smith cycle, <Golem's Heart>'s ability triggers whenever any player casts an artifact spell, not just when you do.
+2011/01/01: Whenever a player casts an artifact spell, <Golem's Heart>'s ability triggers and goes on the stack on top of it. It will resolve before the artifact spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP10</SetId>
+<No>63</No>
+<Name>Skinrender</Name>
+<Type>Creature — Zombie 3/3</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>When Skinrender enters the battlefield, put three -1/-1 counters on target creature.</CardText>
+<Flavor>"Your creations are effective, Sheoldred, but we must unite the flesh, not merely flay it."
+—Elesh Norn, Grand Cenobite</Flavor>
+<Artist>Adrian Smith</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2011/01/01: This ability is mandatory. If there are no other creatures on the battlefield, you must target <Skinrender> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

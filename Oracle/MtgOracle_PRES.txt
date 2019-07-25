@@ -1,0 +1,453 @@
+<Card>
+<SetId>PRES</SetId>
+<No>A1</No>
+<Name>Jaya Ballard, Task Mage</Name>
+<Type>Legendary Creature — Human Spellshaper 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>{R}, {T}, Discard a card: Destroy target blue permanent.
+{1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+{5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A2</No>
+<Name>Brion Stoutarm</Name>
+<Type>Legendary Creature — Giant Warrior 4/4</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Lifelink
+{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player or planeswalker.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2018/03/16: If <Brion Stoutarm> leaves the battlefield after its ability has been activated but before it resolves, the game uses its last known information to determine that it had lifelink and you'll gain life for the damage it deals.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A3</No>
+<Name>Broodmate Dragon</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>3BRG (6)</ManaCost>
+<CardText>Flying
+When Broodmate Dragon enters the battlefield, create a 4/4 red Dragon creature token with flying.</CardText>
+<Flavor>Frozen in fear, the goblins stared upward at the circling hunter—and were promptly eaten by its diving mate.</Flavor>
+<Artist>Vance Kovacs</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A4</No>
+<Name>Retaliator Griffin</Name>
+<Type>Creature — Griffin 2/2</Type>
+<ManaCost>1RGW (4)</ManaCost>
+<CardText>Flying
+Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.</CardText>
+<Flavor>For every eye, an eye. For every tooth, a tooth. Griffins are nothing if not fair.</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2009/05/01: The source of combat damage is the creature that dealt it.
+2009/05/01: If a spell causes damage to be dealt, that spell will always identify the source of the damage. In most cases, the source is the spell itself. For example, Breath of Malfegor says "Breath of Malfegor deals 5 damage to each opponent."
+2009/05/01: If an ability causes damage to be dealt, that ability will always identify the source of the damage. The ability itself is never the source. However, the source of the ability is often the source of the damage. For example, Deathbringer Thoctar's ability says "Deathbringer Thoctar deals 1 damage to any target."
+2009/05/01: If the source of the damage is a permanent, <Retaliator Griffin> checks whether an opponent controls that permanent at the time that damage is dealt. If the permanent has left the battlefield by then, its last known information is used. If the source of the damage is a spell, whether it's controlled by an opponent is obvious. If the source of the damage is a card in some other zone (such as a cycled Jund Sojourners), <Retaliator Griffin> checks whether the card's owner, rather than its controller, is an opponent.
+2009/05/01: If <Retaliator Griffin> is dealt lethal damage at the same time that you're dealt damage by a source an opponent controls, <Retaliator Griffin> will be put into a graveyard before it would receive any counters. Its ability will still trigger, but it will do nothing when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A6</No>
+<Name>Terastodon</Name>
+<Type>Creature — Elephant 9/9</Type>
+<ManaCost>6GG (8)</ManaCost>
+<CardText>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.</CardText>
+<Artist>Lars Grant-West</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2010/03/01: The targeted permanents may be controlled by different players.
+2013/07/01: If a targeted permanent has indestructible or regenerates, its controller won't get an Elephant token for it. Similarly, if the targeted permanent is destroyed but a replacement effect moves it to a different zone instead of its owner's graveyard, its controller won't get an Elephant token for it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A7</No>
+<Name>Knight Exemplar</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)
+Other Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say "destroy" don't destroy them.)</CardText>
+<Flavor>"If you think you are brave enough to walk the path of honor, follow me into the dragon's den."</Flavor>
+<Artist>Jason Chan</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2010/08/15: If an effect would simultaneously destroy <Knight Exemplar> and another Knight creature you control, only <Knight Exemplar> is destroyed.
+2013/07/01: If another Knight creature you control is dealt lethal damage, the creature isn't destroyed, but the damage remains marked on it. If, at some point later in that turn, you no longer control <Knight Exemplar> or it loses its abilities, the other Knight creature will lose indestructible and will be destroyed.
+2013/07/01: If you control two <Knight Exemplar>s, each one causes the other to get +1/+1 and have indestructible.
+2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A8</No>
+<Name>Sunblast Angel</Name>
+<Type>Creature — Angel 4/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+When Sunblast Angel enters the battlefield, destroy all tapped creatures.</CardText>
+<Flavor>There may exist powers even greater than Phyrexia.</Flavor>
+<Artist>Jason Chan</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2011/01/01: The second ability destroys each creature that's tapped at the time it resolves, including creatures you control. If <Sunblast Angel> has become tapped by the time its ability resolves, it will be destroyed too.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A9</No>
+<Name>Angel of Glory's Rise</Name>
+<Type>Creature — Angel 4/6</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.</CardText>
+<Flavor>"Justice isn't done until undeath is undone."</Flavor>
+<Artist>James Ryman</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2012/05/01: Only Zombie permanents on the battlefield are exiled. Zombie cards in other zones are not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A10</No>
+<Name>Hamletback Goliath</Name>
+<Type>Creature — Giant Warrior 6/6</Type>
+<ManaCost>6R (7)</ManaCost>
+<CardText>Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power.</CardText>
+<Flavor>"If you live on a giant's back, there's only one individual you'll ever need to fear."
+—Gaddock Teeg</Flavor>
+<Artist>Paolo Parente & Brian Snõddy</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2012/07/01: The value of X is determined as the ability begins resolving. If the other creature is no longer on the battlefield, its last known existence on the battlefield is checked to determine its power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A11</No>
+<Name>Angelic Skirmisher</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.</CardText>
+<Flavor>"A keen mind wields an army as a deft hand wields a sword."</Flavor>
+<Artist>David Rapoza</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2013/01/24: You choose which ability creatures you control will gain when <Angelic Skirmisher>'s ability resolves. This happens before attacking creatures are declared.
+2013/01/24: Only creatures you control when the ability resolves will gain the chosen ability. Creatures that come under your control later in the turn will not gain the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>A12</No>
+<Name>Xathrid Necromancer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Whenever Xathrid Necromancer or another Human creature you control dies, create a tapped 2/2 black Zombie creature token.</CardText>
+<Flavor>"My commands shall echo forever in their dusty skulls."</Flavor>
+<Artist>Maciej Kuciara</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2013/07/01: If <Xathrid Necromancer> dies at the same time as another Human creature you control, its ability will trigger twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>13*</No>
+<Name>Loam Lion</Name>
+<Type>Creature — Cat 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Loam Lion gets +1/+2 as long as you control a Forest.</CardText>
+<Flavor>In Zendikar, today's grassland could be tomorrow's jungle, and hunting grounds change as quickly as the weather.</Flavor>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2010/03/01: <Loam Lion> either gets +1/+2 or it doesn't. It doesn't get the bonus for each Forest you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>26</No>
+<Name>Felidar Sovereign</Name>
+<Type>Creature — Cat Beast 4/6</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Vigilance, lifelink
+At the beginning of your upkeep, if you have 40 or more life, you win the game.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2015/08/25: <Felidar Sovereign>'s triggered ability checks to see if you have 40 or more life as your upkeep begins. If you don't, the ability won't trigger at all. If you do, the ability will check again as it tries to resolve. If you don't have 40 or more life at that time, the ability won't do anything.
+2015/08/25: In a Two-Headed Giant game, your life total is the same as your team's life total. As such, the ability triggers if your team has 40 or more life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>47</No>
+<Name>Thalia's Lancers</Name>
+<Type>Creature — Human Knight 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>First strike
+When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>David Palumbo</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>49*</No>
+<Name>Curator of Mysteries</Name>
+<Type>Creature — Sphinx 4/4</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+Whenever you cycle or discard another card, scry 1.
+Cycling {U} ({U}, Discard this card: Draw a card.)</CardText>
+<Flavor>To consult a sphinx is a test in patience. Perhaps that's the point.</Flavor>
+<Artist>Christine Choi</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2017/04/18: Some cards have an ability that triggers whenever you cycle any card. These triggered abilities resolve before you draw from the cycling ability.
+2017/04/18: An ability that triggers whenever you discard a card doesn't give you permission to discard cards. You'll need another effect that instructs or allows you to discard them.
+2017/04/18: An ability that triggers whenever you "cycle or discard" a card triggers only once if you cycle a card. The ability "Whenever you discard a card" is functionally identical to this ability; cycling is mentioned for clarity.
+2017/04/18: If a player discards a card during their cleanup step due to having too many cards in hand, any appropriate abilities that trigger on discarding that card trigger. If this happens, those triggered abilities are put onto the stack and players receive priority in that cleanup step to cast spells or activate abilities (normally, no players may take actions during a cleanup step). Another cleanup step is created following that one.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>100*</No>
+<Name>Etali, Primal Storm</Name>
+<Type>Legendary Creature — Elder Dinosaur 6/6</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of nonland cards exiled this way without paying their mana costs.</CardText>
+<Flavor>The storm rages and the earth breaks.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2018/01/19: If an exiled card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2018/01/19: If you cast any of the exiled cards, you do so as part of the resolution of the triggered ability. You can't wait to cast them later in the turn. Timing permissions based on a card's type are ignored, and the spells resolve before blockers are declared.
+2018/01/19: If you cast more than one of the exiled cards, you choose the order in which to cast them. A spell you cast this way can be the target of a later spell you cast this way. However, permanent spells cast this way won't resolve until you're done casting spells, so the permanents they become can't be the target of spells cast this way. For example, if you exile Twincast and Lightning Strike, you can cast Lightning Strike and then cast Twincast targeting it; but if you exile a creature card and an Aura card, you can't cast that Aura targeting that creature.
+2018/01/19: If you cast a card "without paying its mana cost," you can't pay any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Silvergill Adept, those must be paid to cast the card.
+2018/01/19: Any cards not cast, including land cards, remain in exile. They can't be cast on later turns, even if Etali attacks again.
+2018/01/19: Because all attacking creatures are chosen at once, a creature cast this way can't attack during the same combat as Etali, even if it has haste.
+2018/01/19: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any spells or permanents you control from Etali's ability are exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>141*</No>
+<Name>Goblin Chieftain</Name>
+<Type>Creature — Goblin 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
+Other Goblin creatures you control get +1/+1 and have haste.</CardText>
+<Flavor>"We are goblinkind, heirs to the mountain empires of chieftains past. Rest is death to us, and arson is our call to war."</Flavor>
+<Artist>Sam Wood</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>147</No>
+<Name>Bristling Hydra</Name>
+<Type>Creature — Hydra 4/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters).
+Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.</CardText>
+<Artist>Chris Rahn</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>149</No>
+<Name>Atarka, World Render</Name>
+<Type>Legendary Creature — Dragon 6/4</Type>
+<ManaCost>5RG (7)</ManaCost>
+<CardText>Flying, trample
+Whenever a Dragon you control attacks, it gains double strike until end of turn.</CardText>
+<Flavor>"Her hunger knows no limit. Left unchecked, she would feast on all of Tarkir."
+—Yasova Dragonclaw</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>149*</No>
+<Name>Lathliss, Dragon Queen</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying
+Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.</CardText>
+<Artist>Alex Konstad</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>176</No>
+<Name>Genesis Hydra</Name>
+<Type>Creature — Plant Hydra 0/0</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.
+Genesis Hydra enters the battlefield with X +1/+1 counters on it.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2017/11/17: <Genesis Hydra>'s first ability will resolve before <Genesis Hydra> does. Notably, if you put an Aura card onto the battlefield this way, it can't enchant <Genesis Hydra>.
+2017/11/17: If you have fewer than X cards in your library, you reveal all of them.
+2017/11/17: If a card in a player's library has {X} in its mana cost, X is considered to be 0.
+2017/11/17: A nonland permanent card is an artifact, creature, enchantment, or planeswalker card.
+2017/11/17: If you put an Aura onto the battlefield this way, you choose what it enchants as it enters the battlefield. This doesn't target any permanent or player, but it must be able to enchant that permanent or player. For example, you could put a green Aura onto the battlefield enchanting a creature with hexproof controlled by an opponent, but not one with protection from green.
+2017/11/17: If "the rest" is zero cards, either because X was 0 or because X was 1 and that card was put onto the battlefield, the library is still shuffled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>193</No>
+<Name>Outland Colossus</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.)
+Outland Colossus can't be blocked by more than one creature.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRES</SetId>
+<No>221*</No>
+<Name>Oran-Rief, the Vastwood</Name>
+<Type>Land</Type>
+<CardText>Oran-Rief, the Vastwood enters the battlefield tapped.
+{T}: Add {G}.
+{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.</CardText>
+<Artist>Mike Bierek</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2009/10/01: Oran-Rief's third ability cares about permanents' characteristics at the time the ability resolves, not their characteristics at the time they entered the battlefield. For example, if a blue creature enters the battlefield, then is turned green by a spell or ability, then Oran-Rief's second ability resolves, you'll put a +1/+1 counter on that creature.
+2009/10/01: Oran-Rief's second ability affects all permanents that are green creatures that entered the battlefield this turn, not just the ones you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Resale Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

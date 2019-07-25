@@ -1,0 +1,175 @@
+<Card>
+<SetId>OCM1</SetId>
+<No>1</No>
+<Name>Azusa, Lost but Seeking</Name>
+<Type>Legendary Creature — Human Monk 1/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>You may play two additional lands on each of your turns.</CardText>
+<Flavor>"I do not miss Jukai Forest. It is not my home. My home is Kamigawa, its people my family. Wherever I set my pack and rest my head, I am home."</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2018/03/16: Azusa's ability is cumulative with other effects that allow you to play additional lands, such as that of Wayward Swordtooth (from the Rivals of Ixalan set).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>2</No>
+<Name>Brion Stoutarm</Name>
+<Type>Legendary Creature — Giant Warrior 4/4</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Lifelink
+{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player or planeswalker.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2018/03/16: If <Brion Stoutarm> leaves the battlefield after its ability has been activated but before it resolves, the game uses its last known information to determine that it had lifelink and you'll gain life for the damage it deals.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>3</No>
+<Name>Glissa, the Traitor</Name>
+<Type>Legendary Creature — Zombie Elf 3/3</Type>
+<ManaCost>BGG (3)</ManaCost>
+<CardText>First strike, deathtouch
+Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.</CardText>
+<Artist>Chris Rahn</Artist>
+<Rulings>2011/06/01: If an artifact you own and a creature an opponent controls go to the graveyard at the same time, you may choose that artifact card as the target of <Glissa, the Traitor>'s ability (even if they're the same card: an artifact creature you own that an opponent controlled).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>4</No>
+<Name>Godo, Bandit Warlord</Name>
+<Type>Legendary Creature — Human Barbarian 3/3</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.
+Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.</CardText>
+<Artist>Paolo Parente</Artist>
+<Rulings>2004/12/01: Unlike other effects that grant additional combat phases, you don't get an additional main phase with <Godo, Bandit Warlord>. The additional combat phase happens immediately after the first combat phase.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>5</No>
+<Name>Grimgrin, Corpse-Born</Name>
+<Type>Legendary Creature — Zombie Warrior 5/5</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.
+Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
+Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Rulings>2011/09/22: If the targeted creature is an illegal target by the time Grimgrin's last ability resolves, the entire ability doesn't resolve and none of its effects will occur. You won't put a +1/+1 counter on Grimgrin.
+2011/09/22: If the defending player controls no creatures when Grimgrin attacks, the last ability will be removed from the stack and have no effect.
+2013/07/01: If Grimgrin's last ability resolves, but the targeted creature isn't destroyed (perhaps because it regenerated or has indestructible), you'll still put a +1/+1 on Grimgrin.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>6</No>
+<Name>Karn, Silver Golem</Name>
+<Type>Legendary Artifact Creature — Golem 4/4</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.
+{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2004/10/04: The blocking ability triggers only once no matter how many blockers are declared.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>7</No>
+<Name>Karrthus, Tyrant of Jund</Name>
+<Type>Legendary Creature — Dragon 7/7</Type>
+<ManaCost>4BRG (7)</ManaCost>
+<CardText>Flying, haste
+When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.
+Other Dragon creatures you control have haste.</CardText>
+<Artist>Dave Kendall</Artist>
+<Rulings>2009/05/01: The triggered ability's control-change effect has no duration. Each Dragon you gain control of this way will remain under your control until the game ends, that permanent leaves the battlefield, or some other effect changes its controller.
+2009/05/01: When the triggered ability resolves, you'll gain control of all Dragons, including the Dragons you already control (such as Karrthus itself). Usually this will have no appreciable effect, though it will override any previous control-change abilities (such as if you had gained control of one of those Dragons only for the rest of the turn). Then you'll untap all Dragons, including the ones you already controlled and Karrthus itself (if it had somehow managed to become tapped by then).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>8</No>
+<Name>Mayael the Anima</Name>
+<Type>Legendary Creature — Elf Shaman 2/3</Type>
+<ManaCost>RGW (3)</ManaCost>
+<CardText>{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order.</CardText>
+<Artist>Jason Chan</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>9</No>
+<Name>Sliver Queen</Name>
+<Type>Legendary Creature — Sliver 7/7</Type>
+<ManaCost>WUBRG (5)</ManaCost>
+<CardText>{2}: Create a 1/1 colorless Sliver creature token.</CardText>
+<Flavor>Her children are ever part of her.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCM1</SetId>
+<No>10</No>
+<Name>Zur the Enchanter</Name>
+<Type>Legendary Creature — Human Wizard 1/4</Type>
+<ManaCost>1WUB (4)</ManaCost>
+<CardText>Flying
+Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.</CardText>
+<Flavor>Zur remained aloof from Terisiare's suffering, intent only on his own perfection.</Flavor>
+<Artist>Pete Venters</Artist>
+<Rulings>2015/01/19: <Zur the Enchanter> is banned as a commander in Duel Commander format, but it may be part of your deck.
+2017/03/14: An Aura put onto the battlefield without being cast doesn't target anything, so it could be attached to a permanent with shroud or hexproof. However, the Aura's enchant ability restricts what it can be attached to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander's Arsenal Oversized</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

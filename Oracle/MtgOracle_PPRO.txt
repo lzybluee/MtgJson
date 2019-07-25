@@ -1,0 +1,198 @@
+<Card>
+<SetId>PPRO</SetId>
+<No>2007</No>
+<Name>Eternal Dragon</Name>
+<Type>Creature — Dragon Spirit 5/5</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Adam Rex</Artist>
+<Watermark>Protour</Watermark>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Plainscycling doesn't allow you to draw a card. Instead, it lets you search your library for a Plains card. After you find a Plains card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Plainscycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Plainscycling this card. Any ability that stops a cycling ability from being activated also stops Plainscycling from being activated.
+2009/02/01: Plainscycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Plainscycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Plains land type, including nonbasic lands. You can also choose not to find a card, even if there is a Plains card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Pro Tour Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2008</No>
+<Name>Mirari's Wake</Name>
+<Type>Enchantment</Type>
+<ManaCost>3GW (5)</ManaCost>
+<CardText>Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana of any type that land produced.</CardText>
+<Flavor>Even after a false god tore magic from Dominaria, power still radiated from the Mirari sword that slew her.</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Protour</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Pro Tour Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2009</No>
+<Name>Treva, the Renewer</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3GWU (6)</ManaCost>
+<CardText>Flying
+Whenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color.</CardText>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Watermark>Protour</Watermark>
+<Rulings>2004/10/04: You choose the color during resolution. This means your opponent does not get to react after knowing the color you chose.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Pro Tour Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2010</No>
+<Name>Avatar of Woe</Name>
+<Type>Creature — Avatar 6/5</Type>
+<ManaCost>6BB (8)</ManaCost>
+<CardText>If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can't be regenerated.</CardText>
+<Artist>rk post</Artist>
+<Watermark>Protour</Watermark>
+<Rulings>2004/10/04: The converted mana cost of this card is still 8, even if you only pay {B}{B} to cast it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2011</No>
+<Name>Ajani Goldmane</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>+1: You gain 2 life.
+-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+-6: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Protour</Watermark>
+<Rulings>2007/10/01: The vigilance granted to a creature by the second ability remains until the end of the turn even if the +1/+1 counter is removed.
+2007/10/01: The power and toughness of the Avatar created by the third ability will change as your life total changes.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2015</No>
+<Name>Liliana of the Veil</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>+1: Each player discards a card.
+-2: Target player sacrifices a creature.
+-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
+<Artist>Steve Argyle</Artist>
+<Rulings>2018/12/07: You can activate Liliana's first ability even if some or all players will be unable to discard a card.
+2018/12/07: When Liliana's first ability resolves, first the player whose turn it is chooses a card in hand without revealing it, then each other player in turn order does the same. Then all the chosen cards are discarded at the same time.
+2018/12/07: When Liliana's third ability resolves, you put each permanent the player controls into one of the two piles. For example, you could put a creature into one pile and an Aura enchanting that creature into the other pile.
+2018/12/07: A pile can be empty. If the player chooses an empty pile, no permanents will be sacrificed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2016</No>
+<Name>Snapcaster Mage</Name>
+<Type>Creature — Human Wizard 2/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flash
+When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Joseph Meehan</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2017/04/18: For split cards, the flashback cost you pay is determined by the half you cast
+2018/12/07: If you cast a spell from a graveyard using its flashback ability, you can't pay other alternative costs (such as that of Foil).
+2018/12/07: If you cast an instant or sorcery with {X} in its mana cost this way, you still choose the value of X as part of casting the spell and pay that cost.
+2018/12/07: If an instant or sorcery card in your graveyard already has flashback, you may use either flashback ability to cast it from your graveyard.
+2018/12/07: You may pay any optional additional costs the spell has, such as kicker costs. You must pay any mandatory additional costs the spell has, such as that of Tormenting Voice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2017</No>
+<Name>Emrakul, the Aeons Torn</Name>
+<Type>Legendary Creature — Eldrazi 15/15</Type>
+<ManaCost>15 (15)</ManaCost>
+<CardText>This spell can't be countered.
+When you cast this spell, take an extra turn after this one.
+Flying, protection from colored spells, annihilator 6
+When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.</CardText>
+<Artist>Vincent Proce</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2010/06/15: Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before they declare blockers. Any creatures sacrificed this way won't be able to block.
+2010/06/15: If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything.
+2018/12/07: Emrakul's second ability triggers as you cast it, and that ability resolves before the spell itself. It resolves even if that spell is somehow removed from the stack.
+2018/12/07: Emrakul can be targeted by spells that try to counter it (such as Countersquall). Those spells will resolve, but the part of their effect that would counter Emrakul won't do anything. Any other effects those spells have will work as normal.
+2018/12/07: "Colored spells" is not synonymous with "colored cards." For example, even though creatures are spells when they're cast, they're not spells when they're on the battlefield and can block Emrakul; and triggered abilities of permanents entering the battlefield (such as that of Banishing Light) can target it.
+2018/12/07: Emrakul can't be the target of colored Aura spells, but colored Auras can be put onto the battlefield enchanting it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2018</No>
+<Name>Noble Hierarch</Name>
+<Type>Creature — Human Druid 0/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {G}, {W}, or {U}.</CardText>
+<Flavor>She protects the sacred groves from blight, drought, and the Unbeholden.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PPRO</SetId>
+<No>2019</No>
+<Name>Arcbound Ravager</Name>
+<Type>Artifact Creature — Beast 0/0</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Chase Stone</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Pro Tour Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

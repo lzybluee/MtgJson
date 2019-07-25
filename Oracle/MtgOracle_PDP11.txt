@@ -1,0 +1,54 @@
+<Card>
+<SetId>PDP11</SetId>
+<No>1</No>
+<Name>Frost Titan</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.
+Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.</CardText>
+<Artist>Mike Sass</Artist>
+<Rulings>2010/08/15: <Frost Titan>'s first ability affects each spell (including Aura spells), activated ability, and triggered ability that's controlled by an opponent and that <Frost Titan> becomes a target of.
+2010/08/15: You may target any permanent with <Frost Titan>'s second ability. It's okay if that permanent is already tapped.
+2010/08/15: If the permanent affected by <Frost Titan>'s second ability is untapped at the time that permanent's controller's next untap step begins, the last part of <Frost Titan>'s second ability has no effect.
+2010/08/15: If the permanent affected by <Frost Titan>'s second ability changes controllers before its old controller's next untap step, <Frost Titan>'s second ability will prevent it from being untapped during its new controller's next untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2011</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDP11</SetId>
+<No>2</No>
+<Name>Grave Titan</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Deathtouch
+Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens.</CardText>
+<Flavor>Death in form and function.</Flavor>
+<Artist>Lucas Graciano</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2011</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDP11</SetId>
+<No>3</No>
+<Name>Inferno Titan</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>{R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.</CardText>
+<Artist>Sam Burley</Artist>
+<Rulings>2010/08/15: You divide the damage as you put <Inferno Titan>'s triggered ability on the stack, not as it resolves. Each target must be assigned at least 1 damage. (In other words, as you put the ability on the stack, you choose whether to have it deal 3 damage to a single target, 2 damage to one target and 1 damage to another target, or 1 damage to each of three targets.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2011</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

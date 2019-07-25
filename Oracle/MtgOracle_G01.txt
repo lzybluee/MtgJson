@@ -1,0 +1,35 @@
+<Card>
+<SetId>G01</SetId>
+<No>1</No>
+<Name>Ball Lightning</Name>
+<Type>Creature — Elemental 6/1</Type>
+<ManaCost>RRR (3)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.</CardText>
+<Flavor>"Life, struck sharp on death, Makes awful lightning." - Elizabeth Barrett Browning, "Aurora Leigh"</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2007/02/01: The creature is sacrificed at the end of every turn in which it is on the battlefield. There is no choice about what turn to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2001</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G01</SetId>
+<No>2</No>
+<Name>Oath of Druids</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>At the beginning of each player's upkeep, that player chooses target player who controls more creatures than they do and is their opponent. The first player may reveal cards from the top of their library until they reveal a creature card. If the first player does, that player puts that card onto the battlefield and all other cards revealed this way into their graveyard.</CardText>
+<Artist>Daren Bader</Artist>
+<Rulings>2009/10/01: The ability can only target an opponent of the current player.
+2009/10/01: The targeted player controlling more creatures than the current player is a part of the targeting requirement. A player can't be targeted by this ability unless it's true, and the ability doesn't resolve if it's no longer true at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2001</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

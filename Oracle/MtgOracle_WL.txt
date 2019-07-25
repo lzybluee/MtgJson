@@ -87,7 +87,7 @@
 <Name>Buried Alive</Name>
 <Type>Sorcery</Type>
 <ManaCost>2B (3)</ManaCost>
-<CardText>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.</CardText>
+<CardText>Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.</CardText>
 <Flavor>"Is it worse to walk while dead, or to be buried alive? I have witnessed both."
 —Crovax</Flavor>
 <Artist>Brian Horton</Artist>
@@ -674,8 +674,7 @@ At the beginning of the upkeep of enchanted creature's controller, that player m
 <ManaCost>5U (6)</ManaCost>
 <CardText>Flying
 Cloud Djinn can block only creatures with flying.</CardText>
-<Flavor>As elusive as the footprint of a djinn
-—Suq'Ata expression</Flavor>
+<Flavor>As elusive as the footprint of a djinn —Suq'Ata expression</Flavor>
 <Artist>Mike Dringenberg</Artist>
 <Multiverseid>4482</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1253,9 +1252,7 @@ Sacrifice Downdraft: It deals 2 damage to each creature with flying.</CardText>
 <Type>Creature — Wurm 4/4</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.</CardText>
-<Flavor>The wurm's wake
-—Elvish expression meaning
-"ruined crops"</Flavor>
+<Flavor>The wurm's wake —Elvish expression meaning "ruined crops"</Flavor>
 <Artist>Stephen L. Walsh</Artist>
 <Multiverseid>4514</Multiverseid>
 <Rulings>2008/04/01: When the ability resolves, you choose whether to sacrifice the creature or perform the other action. If you can't perform the other action, then you must sacrifice the creature.
@@ -1291,8 +1288,7 @@ Sacrifice Downdraft: It deals 2 damage to each creature with flying.</CardText>
 <Type>Creature — Fungus Elemental 3/3</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.</CardText>
-<Flavor>I rot growth and grow rot. What am I?
-—Elvish riddle</Flavor>
+<Flavor>I rot growth and grow rot. What am I? —Elvish riddle</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>4516</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
@@ -1329,9 +1325,7 @@ When Gaea's Blessing is put into your graveyard from your library, shuffle your 
 <Type>Creature — Wurm 3/2</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.</CardText>
-<Flavor>The wurm's weave
-—Elvish expression meaning
-"plowed fields"</Flavor>
+<Flavor>The wurm's weave —Elvish expression meaning "plowed fields"</Flavor>
 <Artist>Stephen L. Walsh</Artist>
 <Multiverseid>4518</Multiverseid>
 <Rulings>2008/04/01: When the ability resolves, you choose whether to sacrifice the creature or perform the other action. If you can't perform the other action, then you must sacrifice the creature.
@@ -1466,9 +1460,7 @@ Mwonvuli Ooze's power and toughness are each equal to 1 plus twice the number of
 <Type>Sorcery</Type>
 <ManaCost>2GG (4)</ManaCost>
 <CardText>Each player draws a card for each creature card in their graveyard.</CardText>
-<Flavor>Spring follows winter
-—Elvish expression meaning
-"all things pass"</Flavor>
+<Flavor>Spring follows winter —Elvish expression meaning "all things pass"</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>4525</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1659,8 +1651,7 @@ Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.
 <ManaCost>2R (3)</ManaCost>
 <CardText>Bloodrock Cyclops attacks each combat if able.</CardText>
 <Flavor>"He's big an' dumb an' ready to fight. A lot like ol' Hornhead here."
-—Squee, goblin cabin hand,
-scouting report</Flavor>
+—Squee, goblin cabin hand, scouting report</Flavor>
 <Artist>Tom Wänerstrand</Artist>
 <Multiverseid>4536</Multiverseid>
 <Rulings>2004/10/04: There is no penalty if it can't attack.</Rulings>
@@ -1699,7 +1690,7 @@ scouting report</Flavor>
 <CardText>Target creature attacks this turn if able.
 Draw a card.</CardText>
 <Flavor>Your father has no horns!
-Your mother wears a bell
+Your mother wears a bell!
 You drink the milk of goats!
 —Talruum taunts</Flavor>
 <Artist>Cliff Nielsen</Artist>
@@ -1736,8 +1727,7 @@ You drink the milk of goats!
 <CardText>Defender
 When Cinder Wall blocks, destroy it at end of combat.</CardText>
 <Flavor>"Easy. All ya gotta do is push somebody into it."
-—Squee, goblin cabin hand,
-scouting report</Flavor>
+—Squee, goblin cabin hand, scouting report</Flavor>
 <Artist>Randy Gallegos</Artist>
 <Multiverseid>4540</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1905,7 +1895,7 @@ Firestorm deals X damage to each of X targets.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>1R (2)</ManaCost>
 <CardText>At the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb.
-Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player or planeswalker.</CardText>
+Remove five fuse counters from Goblin Bomb and sacrifice it: It deals 20 damage to target player or planeswalker.</CardText>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>4549</Multiverseid>
 <Rulings>2004/10/04: Nothing happens if you are instructed to remove a fuse counter from an empty card.</Rulings>
@@ -2137,7 +2127,7 @@ As long as Roc Hatchling has no shell counters on it, it gets +3/+2 and has flyi
 <Name>Thundermare</Name>
 <Type>Creature — Elemental Horse 5/5</Type>
 <ManaCost>5R (6)</ManaCost>
-<CardText>Haste (This creature can attack the turn it comes under your control.)
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
 When Thundermare enters the battlefield, tap all other creatures.</CardText>
 <Flavor>Its hooves strike lightning and the thunder follows quickly after.</Flavor>
 <Artist>Bob Eggleton</Artist>
@@ -2220,10 +2210,11 @@ When Alabaster Dragon dies, shuffle it into its owner's library.</CardText>
 <CardText>Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.</CardText>
 <Artist>Rebecca Guay</Artist>
 <Multiverseid>4566</Multiverseid>
-<Rulings>2004/10/04: If multiple creatures go to the graveyard at once, <Angelic Renewal> triggers multiple times, but it can only be sacrificed once and only brings back one creature.
-2004/10/04: If this card goes to the graveyard at the same time as a creature or sometime between when the creature left the battlefield and when the triggered ability resolves, then you will not be able to sacrifice this card and the creature can't be returned to the battlefield.
-2008/04/01: If an animated permanent that's not normally a creature is put into your graveyard from the battlefield, <Angelic Renewal> can return that card to the battlefield.
-2008/04/01: If a token creature is put into your graveyard from the battlefield, you can sacrifice <Angelic Renewal>, but nothing will be returned to the battlefield.</Rulings>
+<Rulings>2018/12/07: <Angelic Renewal>'s ability triggers if a creature you own dies under another player's control.
+2018/12/07: If multiple creatures are put into your graveyard at once, <Angelic Renewal> triggers multiple times, but it can only be sacrificed once and only brings back one creature.
+2018/12/07: If <Angelic Renewal> leaves the battlefield before its triggered ability resolves, you won't be able to sacrifice it and the creature can't be returned to the battlefield.
+2018/12/07: If an animated permanent that's not normally a creature is put into your graveyard from the battlefield, <Angelic Renewal> can return that card to the battlefield.
+2018/12/07: If a token creature is put into your graveyard from the battlefield, you can sacrifice <Angelic Renewal>, but nothing will be returned to the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Weatherlight</Set>
@@ -2534,12 +2525,12 @@ When Mistmoon Griffin dies, exile Mistmoon Griffin, then return the top creature
 <Artist>David A. Cherry</Artist>
 <Multiverseid>4583</Multiverseid>
 <Rulings>2004/10/04: You still put the top creature card from your graveyard onto the battlefield even if this card is not in your graveyard when the triggered ability resolves.
+2008/04/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.
 2008/04/01: The "top" card of your graveyard is the card that was put there most recently.
 2008/04/01: Players may not rearrange the cards in their graveyards. This is a little-known rule because new cards that care about graveyard order haven't been printed in years.
-2008/04/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.
+2008/04/01: If you control <Mistmoon Griffin> when it goes to the graveyard, you exile the Griffin and return the top creature card from your graveyard to the battlefield. It doesn't matter whose graveyard the Griffin goes to.
 2008/04/01: The last thing that happens to a resolving instant or sorcery spell is that it's put into its owner's graveyard. —Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards.
-2008/04/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.
-2008/04/01: If you control <Mistmoon Griffin> when it goes to the graveyard, you exile the Griffin and return the top creature card from your graveyard to the battlefield. It doesn't matter whose graveyard the Griffin goes to.</Rulings>
+2008/04/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Weatherlight</Set>
@@ -2846,8 +2837,7 @@ Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on th
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Activated abilities of artifacts can't be activated.</CardText>
-<Flavor>Gerrard: "But it doesn't do anything!"
-Hanna: "No—it does nothing."</Flavor>
+<Flavor>Gerrard: "But it doesn't do anything!" Hanna: "No—it does nothing."</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>4437</Multiverseid>
 <Rulings>2008/04/01: This covers only artifacts that are on the battlefield.

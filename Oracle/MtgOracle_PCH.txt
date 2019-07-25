@@ -7,7 +7,7 @@
 <CardText>Destroy all artifacts, creatures, and enchantments.
 Cycling {3} ({3}, Discard this card: Draw a card.)</CardText>
 <Flavor>Ixidor had only to imagine their ruin and Akroma made it so.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>205366</Multiverseid>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
@@ -451,12 +451,13 @@ Consume Spirit deals X damage to any target and you gain X life.</CardText>
 <Name>Death Baron</Name>
 <Type>Creature — Zombie Wizard 2/2</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>Skeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch.</CardText>
+<CardText>Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.</CardText>
 <Flavor>For the necromancer barons, killing and recruitment are one and the same.</Flavor>
 <Artist>Nils Hamm</Artist>
 <Multiverseid>205322</Multiverseid>
-<Rulings>2008/10/01: A creature that's both a Skeleton and a Zombie will get the bonus only once.
-2008/10/01: <Death Baron> doesn't normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch.</Rulings>
+<Rulings>2018/07/13: A creature that's both a Skeleton and a Zombie will get the bonus only once.
+2018/07/13: <Death Baron> doesn't normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch.
+2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Skeleton or Zombie you control may become lethal if <Death Baron> leaves the battlefield during that turn.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -912,7 +913,7 @@ When Bogardan Rager enters the battlefield, target creature gets +4/+0 until end
 <Name>Cinder Elemental</Name>
 <Type>Creature — Elemental 2/2</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to any target.</CardText>
+<CardText>{X}{R}, {T}, Sacrifice Cinder Elemental: It deals X damage to any target.</CardText>
 <Flavor>Their rage can grow to such proportions that they explode in a cloud of fire.</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>205414</Multiverseid>
@@ -1261,7 +1262,7 @@ Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrif
 <Name>Explosive Vegetation</Name>
 <Type>Sorcery</Type>
 <ManaCost>3G (4)</ManaCost>
-<CardText>Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</CardText>
 <Flavor>Torching Krosa would be pointless. It grows faster than it burns.</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>205368</Multiverseid>
@@ -1296,7 +1297,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 <Type>Creature — Elemental 0/0</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Fertilid enters the battlefield with two +1/+1 counters on it.
-{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles their library.</CardText>
+{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Multiverseid>205403</Multiverseid>
 <Rulings>2008/04/01: Although the targeted player doesn't need to find a basic land card if they don't want to, that player must shuffle their library.</Rulings>
@@ -2535,7 +2536,7 @@ Leechridden Swamp enters the battlefield tapped.
 <No>139</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>205352</Multiverseid>
 <Vintage>Legal</Vintage>

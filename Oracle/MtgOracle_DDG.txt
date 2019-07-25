@@ -263,9 +263,9 @@ Other Knight creatures you control get +1/+1 and have indestructible. (Damage an
 <Artist>Jason Chan</Artist>
 <Multiverseid>243431</Multiverseid>
 <Rulings>2010/08/15: If an effect would simultaneously destroy <Knight Exemplar> and another Knight creature you control, only <Knight Exemplar> is destroyed.
-2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.
 2013/07/01: If another Knight creature you control is dealt lethal damage, the creature isn't destroyed, but the damage remains marked on it. If, at some point later in that turn, you no longer control <Knight Exemplar> or it loses its abilities, the other Knight creature will lose indestructible and will be destroyed.
-2013/07/01: If you control two <Knight Exemplar>s, each one causes the other to get +1/+1 and have indestructible.</Rulings>
+2013/07/01: If you control two <Knight Exemplar>s, each one causes the other to get +1/+1 and have indestructible.
+2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -491,7 +491,7 @@ Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)<
 —Brezard Skeinbow, captain of the guard</Flavor>
 <Artist>rk post</Artist>
 <Multiverseid>243443</Multiverseid>
-<Rulings>2017/04/18: Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast <Mighty Leap> during the declare attackers step at the latest.</Rulings>
+<Rulings>2018/07/13: Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast <Mighty Leap> during the declare attackers step at the latest.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -651,7 +651,7 @@ When Oblivion Ring leaves the battlefield, return the exiled card to the battlef
 <Name>Grasslands</Name>
 <Type>Land</Type>
 <CardText>Grasslands enters the battlefield tapped.
-{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.</CardText>
+{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.</CardText>
 <Artist>John Avon</Artist>
 <Multiverseid>243452</Multiverseid>
 <Rulings>2004/10/04: You do not have to find a plains or forest card if you do not want to.</Rulings>
@@ -703,7 +703,7 @@ When Selesnya Sanctuary enters the battlefield, return a land you control to its
 <Type>Land</Type>
 <CardText>Treetop Village enters the battlefield tapped.
 {T}: Add {G}.
-{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>243455</Multiverseid>
 <Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -887,6 +887,7 @@ When Cinder Wall blocks, destroy it at end of combat.</CardText>
 <Multiverseid>243465</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Duel Decks: Knights vs. Dragons</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -1147,7 +1148,7 @@ When Thunder Dragon enters the battlefield, it deals 3 damage to each creature w
 <ManaCost>1R (2)</ManaCost>
 <CardText>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Breath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>243482</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

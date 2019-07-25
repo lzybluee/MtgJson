@@ -16,14 +16,14 @@
 
 <Card>
 <SetId>AI</SetId>
+<No>2</No>
 <Name>Casting of Bones</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Enchant creature
 When enchanted creature dies, draw three cards, then discard one of them.</CardText>
 <Flavor>"Only a necromancer would create such a foul form of divination."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>3067</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -34,6 +34,7 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>3</No>
 <Name>Casting of Bones</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -109,8 +110,7 @@ At the beginning of each player's upkeep, that player sacrifices a green or whit
 • You draw three cards.
 • You destroy up to two target creatures that player controls. They can't be regenerated. That player draws up to three cards.</CardText>
 <Flavor>"All knowledge has its price."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Lawrence Snelly</Artist>
 <Multiverseid>3072</Multiverseid>
 <Rulings>2004/10/04: The opponent chooses which option they want (this is a mode choice). If they choose the "destroy" option, you choose the zero, one, or two targets after that.</Rulings>
@@ -123,6 +123,7 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>8</No>
 <Name>Feast or Famine</Name>
 <Type>Instant</Type>
 <ManaCost>3B (4)</ManaCost>
@@ -141,6 +142,7 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>9</No>
 <Name>Feast or Famine</Name>
 <Type>Instant</Type>
 <ManaCost>3B (4)</ManaCost>
@@ -159,6 +161,7 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>10</No>
 <Name>Fevered Strength</Name>
 <Type>Instant</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -176,6 +179,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>11</No>
 <Name>Fevered Strength</Name>
 <Type>Instant</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -193,6 +197,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>12</No>
 <Name>Insidious Bookworms</Name>
 <Type>Creature — Worm 1/1</Type>
 <ManaCost>B (1)</ManaCost>
@@ -207,6 +212,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>13</No>
 <Name>Insidious Bookworms</Name>
 <Type>Creature — Worm 1/1</Type>
 <ManaCost>B (1)</ManaCost>
@@ -226,7 +232,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Type>Creature — Avatar 6/6</Type>
 <ManaCost>5B (6)</ManaCost>
 <CardText>Whenever Keeper of Tresserhorn attacks and isn't blocked, it assigns no combat damage this turn and defending player loses 2 life.</CardText>
-<Artist>Z. Plucinski & D. Alexander Gregory</Artist>
+<Artist>Zak Plucinski & D. Alexander Gregory</Artist>
 <Multiverseid>3079</Multiverseid>
 <Rulings>2004/10/04: The ability triggers on declaration of blockers if the criteria is met.
 2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
@@ -274,6 +280,7 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 
 <Card>
 <SetId>AI</SetId>
+<No>17</No>
 <Name>Lim-Dûl's High Guard</Name>
 <Type>Creature — Skeleton 2/1</Type>
 <ManaCost>1BB (3)</ManaCost>
@@ -291,12 +298,14 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 
 <Card>
 <SetId>AI</SetId>
+<No>18</No>
 <Name>Lim-Dûl's High Guard</Name>
 <Type>Creature — Skeleton 2/1</Type>
 <ManaCost>1BB (3)</ManaCost>
 <CardText>First strike
 {1}{B}: Regenerate Lim-Dûl's High Guard.</CardText>
-<Flavor>"The Guard will forever stand ready. For them, death is merely an inconvenience, not an ending." —Chaeska, Keeper of Tresserhorn</Flavor>
+<Flavor>"The Guard will forever stand ready. For them, death is merely an inconvenience, not an ending."
+—Chaeska, Keeper of Tresserhorn</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>3083</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -312,7 +321,8 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 <Type>Instant</Type>
 <ManaCost>B (1)</ManaCost>
 <CardText>Put up to three target cards from an opponent's graveyard on top of their library in any order.</CardText>
-<Flavor>"When you cannot rely on your sources, trust your own senses. When you cannot trust those, you must follow your instincts." —Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Flavor>"When you cannot rely on your sources, trust your own senses. When you cannot trust those, you must follow your instincts."
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Richard Kane Ferguson</Artist>
 <Multiverseid>3084</Multiverseid>
 <Rulings>2008/10/01: You target the cards, but not the opponent.
@@ -325,6 +335,7 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 
 <Card>
 <SetId>AI</SetId>
+<No>20</No>
 <Name>Phantasmal Fiend</Name>
 <Type>Creature — Illusion 1/5</Type>
 <ManaCost>3B (4)</ManaCost>
@@ -344,6 +355,7 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 
 <Card>
 <SetId>AI</SetId>
+<No>21</No>
 <Name>Phantasmal Fiend</Name>
 <Type>Creature — Illusion 1/5</Type>
 <ManaCost>3B (4)</ManaCost>
@@ -363,14 +375,14 @@ Tap enchanted creature: Krovikan Plague deals 1 damage to any target. Put a -0/-
 
 <Card>
 <SetId>AI</SetId>
+<No>22</No>
 <Name>Phyrexian Boon</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.</CardText>
 <Flavor>"Phyrexia's touch is painful to all but the blackest of hearts."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>3088</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -381,6 +393,7 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>23</No>
 <Name>Phyrexian Boon</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -419,6 +432,7 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>25</No>
 <Name>Soldevi Adnate</Name>
 <Type>Creature — Human Cleric 1/2</Type>
 <ManaCost>1B (2)</ManaCost>
@@ -435,6 +449,7 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>26</No>
 <Name>Soldevi Adnate</Name>
 <Type>Creature — Human Cleric 1/2</Type>
 <ManaCost>1B (2)</ManaCost>
@@ -451,6 +466,7 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>27</No>
 <Name>Stench of Decay</Name>
 <Type>Instant</Type>
 <ManaCost>1BB (3)</ManaCost>
@@ -467,6 +483,7 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>28</No>
 <Name>Stench of Decay</Name>
 <Type>Instant</Type>
 <ManaCost>1BB (3)</ManaCost>
@@ -499,6 +516,7 @@ Gain control of target nonartifact, nonblack creature.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>30</No>
 <Name>Swamp Mosquito</Name>
 <Type>Creature — Insect 0/1</Type>
 <ManaCost>1B (2)</ManaCost>
@@ -517,6 +535,7 @@ Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poiso
 
 <Card>
 <SetId>AI</SetId>
+<No>31</No>
 <Name>Swamp Mosquito</Name>
 <Type>Creature — Insect 0/1</Type>
 <ManaCost>1B (2)</ManaCost>
@@ -535,6 +554,7 @@ Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poiso
 
 <Card>
 <SetId>AI</SetId>
+<No>32</No>
 <Name>Arcane Denial</Name>
 <Type>Instant</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -551,6 +571,7 @@ You draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>33</No>
 <Name>Arcane Denial</Name>
 <Type>Instant</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -567,13 +588,13 @@ You draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>34</No>
 <Name>Awesome Presence</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>U (1)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature can't be blocked unless defending player pays {3} for each creature they control that's blocking it.</CardText>
-<Flavor>"At the core of all power is raw passion."Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+<Flavor>"At the core of all power is raw passion."Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Lawrence Snelly</Artist>
 <Multiverseid>3099</Multiverseid>
 <Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.</Rulings>
@@ -585,6 +606,7 @@ Archmage of the Unseen</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>35</No>
 <Name>Awesome Presence</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>U (1)</ManaCost>
@@ -603,6 +625,7 @@ Enchanted creature can't be blocked unless defending player pays {3} for each cr
 
 <Card>
 <SetId>AI</SetId>
+<No>36</No>
 <Name>Benthic Explorers</Name>
 <Type>Creature — Merfolk Scout 2/4</Type>
 <ManaCost>3U (4)</ManaCost>
@@ -624,6 +647,7 @@ Enchanted creature can't be blocked unless defending player pays {3} for each cr
 
 <Card>
 <SetId>AI</SetId>
+<No>37</No>
 <Name>Benthic Explorers</Name>
 <Type>Creature — Merfolk Scout 2/4</Type>
 <ManaCost>3U (4)</ManaCost>
@@ -667,7 +691,7 @@ Enchanted creature can't be blocked unless defending player pays {3} for each cr
 <Type>Sorcery</Type>
 <ManaCost>2UU (4)</ManaCost>
 <CardText>Each player shuffles their hand and graveyard into their library. You exile the top ten cards of your library. Then each player draws up to seven cards.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>3104</Multiverseid>
 <Rulings>2016/06/08: Each player chooses to draw any number of cards from zero to seven. First the player whose turn it is chooses how many cards to draw, then draws those cards, then each other player in turn order does the same.
 2016/06/08: <Diminishing Returns> won't be put into your graveyard until after it's finished resolving, which means it won't be shuffled into your library as part of its own effect.
@@ -680,6 +704,7 @@ Enchanted creature can't be blocked unless defending player pays {3} for each cr
 
 <Card>
 <SetId>AI</SetId>
+<No>40</No>
 <Name>False Demise</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2U (3)</ManaCost>
@@ -697,6 +722,7 @@ When enchanted creature dies, return that card to the battlefield under your con
 
 <Card>
 <SetId>AI</SetId>
+<No>41</No>
 <Name>False Demise</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2U (3)</ManaCost>
@@ -731,6 +757,7 @@ Counter target spell.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>43</No>
 <Name>Foresight</Name>
 <Type>Sorcery</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -746,6 +773,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>44</No>
 <Name>Foresight</Name>
 <Type>Sorcery</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -761,11 +789,13 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>45</No>
 <Name>Lat-Nam's Legacy</Name>
 <Type>Instant</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"All the knowledge of Lat-Nam could not protect its sages from the Brothers' War." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
+<Flavor>"All the knowledge of Lat-Nam could not protect its sages from the Brothers' War."
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Tom Wänerstrand</Artist>
 <Multiverseid>3111</Multiverseid>
 <Rulings>2008/10/01: Shuffling a card from your hand into your library is mandatory. The effect says "if you do" because performing that action might have been impossible. If you fail to shuffle a card into your library because your hand was empty, you won't draw any cards.</Rulings>
@@ -777,11 +807,13 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>46</No>
 <Name>Lat-Nam's Legacy</Name>
 <Type>Instant</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"Lat-Nam has bequeathed us its secrets. With them we shall attain true enlightenment." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
+<Flavor>"Lat-Nam has bequeathed us its secrets. With them we shall attain true enlightenment."
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Tom Wänerstrand</Artist>
 <Multiverseid>3110</Multiverseid>
 <Rulings>2008/10/01: Shuffling a card from your hand into your library is mandatory. The effect says "if you do" because performing that action might have been impossible. If you fail to shuffle a card into your library because your hand was empty, you won't draw any cards.</Rulings>
@@ -828,6 +860,7 @@ When Phantasmal Sphere leaves the battlefield, target opponent creates an X/X bl
 
 <Card>
 <SetId>AI</SetId>
+<No>49</No>
 <Name>Soldevi Heretic</Name>
 <Type>Creature — Human Cleric 2/2</Type>
 <ManaCost>2U (3)</ManaCost>
@@ -844,6 +877,7 @@ When Phantasmal Sphere leaves the battlefield, target opponent creates an X/X bl
 
 <Card>
 <SetId>AI</SetId>
+<No>50</No>
 <Name>Soldevi Heretic</Name>
 <Type>Creature — Human Cleric 2/2</Type>
 <ManaCost>2U (3)</ManaCost>
@@ -860,6 +894,7 @@ When Phantasmal Sphere leaves the battlefield, target opponent creates an X/X bl
 
 <Card>
 <SetId>AI</SetId>
+<No>51</No>
 <Name>Soldevi Sage</Name>
 <Type>Creature — Human Wizard 1/1</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -876,13 +911,13 @@ When Phantasmal Sphere leaves the battlefield, target opponent creates an X/X bl
 
 <Card>
 <SetId>AI</SetId>
+<No>52</No>
 <Name>Soldevi Sage</Name>
 <Type>Creature — Human Wizard 1/1</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>{T}, Sacrifice two lands: Draw three cards, then discard one of them.</CardText>
 <Flavor>"Our underground archives grow daily, as our excavators and sages alike dig to uncover hidden wonders."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Carol Heyer</Artist>
 <Multiverseid>3116</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -913,13 +948,13 @@ At the beginning of each end step, if Spiny Starfish regenerated this turn, crea
 
 <Card>
 <SetId>AI</SetId>
+<No>54</No>
 <Name>Storm Crow</Name>
 <Type>Creature — Bird 1/2</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
-<Flavor>"It tells you that the worst is coming. Do you listen?
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+<Flavor>"It tells you that the worst is coming. Do you listen?"
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Sandra Everingham</Artist>
 <Multiverseid>3119</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -931,11 +966,12 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>55</No>
 <Name>Storm Crow</Name>
 <Type>Creature — Bird 1/2</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
-<Flavor>"Watch for it Right on its tailfeathers will be a storm from your nightmares."
+<Flavor>"Watch for it! Right on its tailfeathers will be a storm from your nightmares."
 —Arna Kennerüd, Skycaptain</Flavor>
 <Artist>Sandra Everingham</Artist>
 <Multiverseid>3120</Multiverseid>
@@ -974,7 +1010,7 @@ Balduvian Chieftain</Flavor>
 <CardText>Cast this spell only if you were dealt damage this turn by a red instant or sorcery spell.
 Suffocation deals 4 damage to the controller of the last red instant or sorcery spell that dealt damage to you this turn.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>3122</Multiverseid>
 <Rulings>2004/10/04: It means "red instant or red sorcery" not "red instant or any sorcery".</Rulings>
 <Vintage>Legal</Vintage>
@@ -1022,6 +1058,7 @@ Pay 2 life or {2}: Counter target red or green spell. Any player may activate th
 
 <Card>
 <SetId>AI</SetId>
+<No>60</No>
 <Name>Viscerid Armor</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -1039,6 +1076,7 @@ Enchanted creature gets +1/+1.
 
 <Card>
 <SetId>AI</SetId>
+<No>61</No>
 <Name>Viscerid Armor</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -1089,13 +1127,13 @@ Distribute three +1/+1 counters among one, two, or three target creatures. For e
 
 <Card>
 <SetId>AI</SetId>
+<No>64</No>
 <Name>Deadly Insect</Name>
 <Type>Creature — Insect 6/1</Type>
 <ManaCost>4G (5)</ManaCost>
 <CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
 <Flavor>"Beautiful, indeed—but one sting could fell a Giant in a heartbeat."
-—Taaveti of Kelsinko,
-Elvish Hunter</Flavor>
+—Taaveti of Kelsinko, Elvish Hunter</Flavor>
 <Artist>Scott Kirschner</Artist>
 <Multiverseid>3129</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1106,13 +1144,13 @@ Elvish Hunter</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>65</No>
 <Name>Deadly Insect</Name>
 <Type>Creature — Insect 6/1</Type>
 <ManaCost>4G (5)</ManaCost>
 <CardText>Shroud (This creature can't be the target of spells or abilities.)</CardText>
 <Flavor>"There is no time for pain when this beast leaves its terrible sting."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
+—Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
 <Artist>Scott Kirschner</Artist>
 <Multiverseid>3130</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1139,6 +1177,7 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>67</No>
 <Name>Elvish Ranger</Name>
 <Type>Creature — Elf 4/1</Type>
 <ManaCost>2G (3)</ManaCost>
@@ -1154,12 +1193,12 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>68</No>
 <Name>Elvish Ranger</Name>
 <Type>Creature — Elf 4/1</Type>
 <ManaCost>2G (3)</ManaCost>
 <Flavor>"How can any Human hope to match our skills? We are children of Fyndhorn, and its sap runs in our veins."
-—Taaveti of Kelsinko,
-Elvish Hunter</Flavor>
+—Taaveti of Kelsinko, Elvish Hunter</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>3132</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1188,13 +1227,13 @@ Elvish Hunter</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>70</No>
 <Name>Fyndhorn Druid</Name>
 <Type>Creature — Elf Druid 2/2</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.</CardText>
 <Flavor>"All struggles ultimately require sacrifice. It's just that some sacrifices are dearer than others."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
+—Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>3136</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1205,6 +1244,7 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>71</No>
 <Name>Fyndhorn Druid</Name>
 <Type>Creature — Elf Druid 2/2</Type>
 <ManaCost>2G (3)</ManaCost>
@@ -1240,6 +1280,7 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>73</No>
 <Name>Gift of the Woods</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1255,6 +1296,7 @@ Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end o
 
 <Card>
 <SetId>AI</SetId>
+<No>74</No>
 <Name>Gift of the Woods</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1270,6 +1312,7 @@ Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end o
 
 <Card>
 <SetId>AI</SetId>
+<No>75</No>
 <Name>Gorilla Berserkers</Name>
 <Type>Creature — Ape Berserker 2/3</Type>
 <ManaCost>3GG (5)</ManaCost>
@@ -1287,15 +1330,14 @@ Gorilla Berserkers can't be blocked except by three or more creatures.</CardText
 
 <Card>
 <SetId>AI</SetId>
+<No>76</No>
 <Name>Gorilla Berserkers</Name>
 <Type>Creature — Ape Berserker 2/3</Type>
 <ManaCost>3GG (5)</ManaCost>
 <CardText>Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
 Gorilla Berserkers can't be blocked except by three or more creatures.</CardText>
-<Flavor>"Beneath serenity may lie
-a hidden rage."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
+<Flavor>"Beneath serenity may lie a hidden rage."
+—Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
 <Artist>John Matson</Artist>
 <Multiverseid>3141</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1306,6 +1348,7 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>77</No>
 <Name>Gorilla Chieftain</Name>
 <Type>Creature — Ape 3/3</Type>
 <ManaCost>2GG (4)</ManaCost>
@@ -1322,6 +1365,7 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>78</No>
 <Name>Gorilla Chieftain</Name>
 <Type>Creature — Ape 3/3</Type>
 <ManaCost>2GG (4)</ManaCost>
@@ -1428,6 +1472,7 @@ Whenever a player puts a Swamp or black permanent onto the battlefield, that pla
 
 <Card>
 <SetId>AI</SetId>
+<No>84</No>
 <Name>Taste of Paradise</Name>
 <Type>Sorcery</Type>
 <ManaCost>3G (4)</ManaCost>
@@ -1445,6 +1490,7 @@ You gain 3 life plus an additional 3 life for each additional {1}{G} you paid.</
 
 <Card>
 <SetId>AI</SetId>
+<No>85</No>
 <Name>Taste of Paradise</Name>
 <Type>Sorcery</Type>
 <ManaCost>3G (4)</ManaCost>
@@ -1479,12 +1525,14 @@ You gain 3 life plus an additional 3 life for each additional {1}{G} you paid.</
 
 <Card>
 <SetId>AI</SetId>
+<No>87</No>
 <Name>Undergrowth</Name>
 <Type>Instant</Type>
 <ManaCost>G (1)</ManaCost>
 <CardText>As an additional cost to cast this spell, you may pay {2}{R}.
 Prevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.</CardText>
-<Flavor>"It is the work of sorcery. Burn it!" —Taaveti of Kelsinko, Elvish Hunter</Flavor>
+<Flavor>"It is the work of sorcery. Burn it!"
+—Taaveti of Kelsinko, Elvish Hunter</Flavor>
 <Artist>Pat Morrissey</Artist>
 <Multiverseid>3152</Multiverseid>
 <Rulings>2004/10/04: It means that red creatures still deal damage if you pay the additional cost.</Rulings>
@@ -1496,12 +1544,14 @@ Prevent all combat damage that would be dealt this turn. If this spell's additio
 
 <Card>
 <SetId>AI</SetId>
+<No>88</No>
 <Name>Undergrowth</Name>
 <Type>Instant</Type>
 <ManaCost>G (1)</ManaCost>
 <CardText>As an additional cost to cast this spell, you may pay {2}{R}.
 Prevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.</CardText>
-<Flavor>"The art of war is turning obstacle to advantage." —Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
+<Flavor>"The art of war is turning obstacle to advantage."
+—Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
 <Artist>Pat Morrissey</Artist>
 <Multiverseid>3153</Multiverseid>
 <Rulings>2004/10/04: It means that red creatures still deal damage if you pay the additional cost.</Rulings>
@@ -1513,13 +1563,14 @@ Prevent all combat damage that would be dealt this turn. If this spell's additio
 
 <Card>
 <SetId>AI</SetId>
+<No>89</No>
 <Name>Whip Vine</Name>
 <Type>Creature — Plant Wall 1/4</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Defender; reach (This creature can block creatures with flying.)
 You may choose not to untap Whip Vine during your untap step.
 {T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>3154</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1529,13 +1580,14 @@ You may choose not to untap Whip Vine during your untap step.
 
 <Card>
 <SetId>AI</SetId>
+<No>90</No>
 <Name>Whip Vine</Name>
 <Type>Creature — Plant Wall 1/4</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Defender; reach (This creature can block creatures with flying.)
 You may choose not to untap Whip Vine during your untap step.
 {T}: Tap target creature with flying blocked by Whip Vine. That creature doesn't untap during its controller's untap step for as long as Whip Vine remains tapped.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>3155</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1545,6 +1597,7 @@ You may choose not to untap Whip Vine during your untap step.
 
 <Card>
 <SetId>AI</SetId>
+<No>91</No>
 <Name>Yavimaya Ancients</Name>
 <Type>Creature — Treefolk 2/7</Type>
 <ManaCost>3GG (5)</ManaCost>
@@ -1561,6 +1614,7 @@ You may choose not to untap Whip Vine during your untap step.
 
 <Card>
 <SetId>AI</SetId>
+<No>92</No>
 <Name>Yavimaya Ancients</Name>
 <Type>Creature — Treefolk 2/7</Type>
 <ManaCost>3GG (5)</ManaCost>
@@ -1596,6 +1650,7 @@ Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on
 
 <Card>
 <SetId>AI</SetId>
+<No>94</No>
 <Name>Agent of Stromgald</Name>
 <Type>Creature — Human Knight 1/1</Type>
 <ManaCost>R (1)</ManaCost>
@@ -1612,6 +1667,7 @@ Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on
 
 <Card>
 <SetId>AI</SetId>
+<No>95</No>
 <Name>Agent of Stromgald</Name>
 <Type>Creature — Human Knight 1/1</Type>
 <ManaCost>R (1)</ManaCost>
@@ -1634,8 +1690,7 @@ Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on
 <ManaCost>2RR (4)</ManaCost>
 <CardText>When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.</CardText>
 <Flavor>"Peace will come only when we have taken Varchild's head."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Brian Snõddy</Artist>
 <Multiverseid>3161</Multiverseid>
 <Rulings>2004/10/04: You choose whether to discard or not on resolution. If not, then you sacrifice this card. You can choose to not discard even if you no longer control this card on resolution.</Rulings>
@@ -1647,6 +1702,7 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>97</No>
 <Name>Balduvian War-Makers</Name>
 <Type>Creature — Human Barbarian 3/3</Type>
 <ManaCost>4R (5)</ManaCost>
@@ -1664,12 +1720,14 @@ Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of tu
 
 <Card>
 <SetId>AI</SetId>
+<No>98</No>
 <Name>Balduvian War-Makers</Name>
 <Type>Creature — Human Barbarian 3/3</Type>
 <ManaCost>4R (5)</ManaCost>
 <CardText>Haste
 Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</CardText>
-<Flavor>"We send our best to battle, but every man, woman, and child will stand against Varchild's butchers." —Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Flavor>"We send our best to battle, but every man, woman, and child will stand against Varchild's butchers."
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Mike Kimble</Artist>
 <Multiverseid>3163</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1680,6 +1738,7 @@ Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of tu
 
 <Card>
 <SetId>AI</SetId>
+<No>99</No>
 <Name>Bestial Fury</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2R (3)</ManaCost>
@@ -1696,6 +1755,7 @@ Whenever enchanted creature becomes blocked, it gets +4/+0 and gains trample unt
 
 <Card>
 <SetId>AI</SetId>
+<No>100</No>
 <Name>Bestial Fury</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2R (3)</ManaCost>
@@ -1768,6 +1828,7 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 
 <Card>
 <SetId>AI</SetId>
+<No>104</No>
 <Name>Enslaved Scout</Name>
 <Type>Creature — Goblin Scout 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
@@ -1784,6 +1845,7 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 
 <Card>
 <SetId>AI</SetId>
+<No>105</No>
 <Name>Enslaved Scout</Name>
 <Type>Creature — Goblin Scout 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
@@ -1800,13 +1862,14 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 
 <Card>
 <SetId>AI</SetId>
+<No>106</No>
 <Name>Gorilla Shaman</Name>
 <Type>Creature — Ape Shaman 1/1</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</CardText>
 <Flavor>"Frankly, destruction is best left to professionals."
 —Jaya Ballard, Task Mage</Flavor>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>3171</Multiverseid>
 <Rulings>2008/10/01: A tip on how this math works: The cost to destroy a noncreature artifact with converted mana cost 0 is {0} + {0} + {1} = {1}. The cost to destroy a noncreature artifact with converted mana cost 1 is {1} + {1} + {1} = {3}. The cost to destroy a noncreature artifact with converted mana cost 2 is {2} + {2} + {1} = {5}. And so on.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1817,13 +1880,14 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 
 <Card>
 <SetId>AI</SetId>
+<No>107</No>
 <Name>Gorilla Shaman</Name>
 <Type>Creature — Ape Shaman 1/1</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</CardText>
 <Flavor>"Each generation teaches the next that artifice is the enemy of natural order."
 —Kaysa, Elder Druid of the Juniper Order</Flavor>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>3172</Multiverseid>
 <Rulings>2008/10/01: A tip on how this math works: The cost to destroy a noncreature artifact with converted mana cost 0 is {0} + {0} + {1} = {1}. The cost to destroy a noncreature artifact with converted mana cost 1 is {1} + {1} + {1} = {3}. The cost to destroy a noncreature artifact with converted mana cost 2 is {2} + {2} + {1} = {5}. And so on.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1834,13 +1898,15 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 
 <Card>
 <SetId>AI</SetId>
+<No>108</No>
 <Name>Gorilla War Cry</Name>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
 <CardText>Cast this spell only during combat before blockers are declared.
 All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
 Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"The only 'art' these beasts possess is the art of noise!" —Jaya Ballard</Flavor>
+<Flavor>"The only 'art' these beasts possess is the art of noise!"
+—Jaya Ballard</Flavor>
 <Artist>Bryon Wackwitz</Artist>
 <Multiverseid>3173</Multiverseid>
 <Rulings>2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's before the beginning of that phase's Declare Blockers Step.</Rulings>
@@ -1852,13 +1918,15 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>109</No>
 <Name>Gorilla War Cry</Name>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
 <CardText>Cast this spell only during combat before blockers are declared.
 All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)
 Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"Theirs is the art of blood." —Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
+<Flavor>"Theirs is the art of blood."
+—Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
 <Artist>Bryon Wackwitz</Artist>
 <Multiverseid>3174</Multiverseid>
 <Rulings>2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's before the beginning of that phase's Declare Blockers Step.</Rulings>
@@ -1870,6 +1938,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>AI</SetId>
+<No>110</No>
 <Name>Guerrilla Tactics</Name>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
@@ -1889,6 +1958,7 @@ When a spell or ability an opponent controls causes you to discard Guerrilla Tac
 
 <Card>
 <SetId>AI</SetId>
+<No>111</No>
 <Name>Guerrilla Tactics</Name>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
@@ -1932,8 +2002,7 @@ When a spell or ability an opponent controls causes you to discard Guerrilla Tac
 <ManaCost>1RR (3)</ManaCost>
 <CardText>Destroy target artifact or land. It can't be regenerated.</CardText>
 <Flavor>"Were they to reduce us to ash, we would clog their throats and sting their eyes in payment."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Richard Kane Ferguson</Artist>
 <Multiverseid>3178</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1950,7 +2019,7 @@ Balduvian Chieftain</Flavor>
 <ManaCost>1R (2)</ManaCost>
 <CardText>As an additional cost to cast this spell, you may pay {1}{R} and/or {1}{G} any number of times.
 Destroy target artifact. For each additional {1}{R} you paid, destroy another target artifact. For each additional {1}{G} you paid, destroy another target artifact, and you gain 1 life.</CardText>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>3179</Multiverseid>
 <Rulings>2004/10/04: <Primitive Justice> can't target the same artifact more than once.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2018,13 +2087,13 @@ At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may
 
 <Card>
 <SetId>AI</SetId>
+<No>118</No>
 <Name>Storm Shaman</Name>
 <Type>Creature — Human Cleric Shaman 0/4</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>{R}: Storm Shaman gets +1/+0 until end of turn.</CardText>
 <Flavor>"Let the lightning be your warning, and the thunder your battle cry."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Carol Heyer</Artist>
 <Multiverseid>3184</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2035,13 +2104,13 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>119</No>
 <Name>Storm Shaman</Name>
 <Type>Creature — Human Cleric Shaman 0/4</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>{R}: Storm Shaman gets +1/+0 until end of turn.</CardText>
 <Flavor>"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch"
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Carol Heyer</Artist>
 <Multiverseid>3183</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2052,11 +2121,13 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>120</No>
 <Name>Varchild's Crusader</Name>
 <Type>Creature — Human Knight 3/2</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.</CardText>
-<Flavor>"We could have peace, but Varchild would rather have the maps of the new Kjeldor drawn in Balduvian blood." —King Darien of Kjeldor</Flavor>
+<Flavor>"We could have peace, but Varchild would rather have the maps of the new Kjeldor drawn in Balduvian blood."
+—King Darien of Kjeldor</Flavor>
 <Artist>Mark Poole</Artist>
 <Multiverseid>3186</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2067,6 +2138,7 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>121</No>
 <Name>Varchild's Crusader</Name>
 <Type>Creature — Human Knight 3/2</Type>
 <ManaCost>3R (4)</ManaCost>
@@ -2089,7 +2161,8 @@ Balduvian Chieftain</Flavor>
 <ManaCost>1R (2)</ManaCost>
 <CardText>Cumulative upkeep—Have an opponent create a 1/1 red Survivor creature token. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 Trample; rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</CardText>
-<Flavor>"What tries to crush our spirit only strengthens our resolve." —Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Flavor>"What tries to crush our spirit only strengthens our resolve."
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Susan Van Camp</Artist>
 <Multiverseid>3187</Multiverseid>
 <Rulings>2004/10/04: In a multiplayer game, you can put the Survivor tokens onto the battlefield under the control of different players.
@@ -2103,12 +2176,14 @@ Trample; rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until 
 
 <Card>
 <SetId>AI</SetId>
+<No>123</No>
 <Name>Veteran's Voice</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>Enchant creature you control
 Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.</CardText>
-<Flavor>"Good soldiers rely first upon their training, then upon their instincts." —King Darien of Kjeldor</Flavor>
+<Flavor>"Good soldiers rely first upon their training, then upon their instincts."
+—King Darien of Kjeldor</Flavor>
 <Artist>Andi Rusu</Artist>
 <Multiverseid>3189</Multiverseid>
 <Rulings>2004/10/04: Is put into its owner's graveyard if you lose control of the creature.</Rulings>
@@ -2120,6 +2195,7 @@ Tap enchanted creature: Target creature other than the creature tapped this way 
 
 <Card>
 <SetId>AI</SetId>
+<No>124</No>
 <Name>Veteran's Voice</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>R (1)</ManaCost>
@@ -2138,6 +2214,7 @@ Tap enchanted creature: Target creature other than the creature tapped this way 
 
 <Card>
 <SetId>AI</SetId>
+<No>125</No>
 <Name>Carrier Pigeons</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>3W (4)</ManaCost>
@@ -2155,12 +2232,14 @@ When Carrier Pigeons enters the battlefield, draw a card at the beginning of the
 
 <Card>
 <SetId>AI</SetId>
+<No>126</No>
 <Name>Carrier Pigeons</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Flying
 When Carrier Pigeons enters the battlefield, draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>"It's true I ask no fealty of the flocks—but surely we are more than mere beasts." —King Darien of Kjeldor, in a missive to General Varchild</Flavor>
+<Flavor>"It's true I ask no fealty of the flocks—but surely we are more than mere beasts."
+—King Darien of Kjeldor, in a missive to General Varchild</Flavor>
 <Artist>Pat Morrissey</Artist>
 <Multiverseid>3190</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2171,6 +2250,7 @@ When Carrier Pigeons enters the battlefield, draw a card at the beginning of the
 
 <Card>
 <SetId>AI</SetId>
+<No>127</No>
 <Name>Errand of Duty</Name>
 <Type>Instant</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2191,6 +2271,7 @@ When Carrier Pigeons enters the battlefield, draw a card at the beginning of the
 
 <Card>
 <SetId>AI</SetId>
+<No>128</No>
 <Name>Errand of Duty</Name>
 <Type>Instant</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2270,8 +2351,7 @@ When Ivory Gargoyle dies, return it to the battlefield under its owner's control
 <ManaCost>2W (3)</ManaCost>
 <CardText>As long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.</CardText>
 <Flavor>"In these troubled times, we alone carry the hope of reconciliation between Elf and Human."
-—Jaeuhl Carthalion,
-Juniper Order Advocate</Flavor>
+—Jaeuhl Carthalion, Juniper Order Advocate</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>3197</Multiverseid>
 <Rulings>2008/10/01: If <Juniper Order Advocate> somehow becomes green, its ability will affect itself.</Rulings>
@@ -2283,13 +2363,13 @@ Juniper Order Advocate</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>133</No>
 <Name>Kjeldoran Escort</Name>
 <Type>Creature — Human Soldier 2/3</Type>
 <ManaCost>2WW (4)</ManaCost>
 <CardText>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
 <Flavor>"We willingly trade with Kjeldor, but the peace we build must come from both our lands."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Bryon Wackwitz</Artist>
 <Multiverseid>3199</Multiverseid>
 <Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
@@ -2304,6 +2384,7 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>134</No>
 <Name>Kjeldoran Escort</Name>
 <Type>Creature — Human Soldier 2/3</Type>
 <ManaCost>2WW (4)</ManaCost>
@@ -2341,6 +2422,7 @@ Balduvian Chieftain</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>136</No>
 <Name>Kjeldoran Pride</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2358,6 +2440,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>137</No>
 <Name>Kjeldoran Pride</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2375,6 +2458,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>138</No>
 <Name>Martyrdom</Name>
 <Type>Instant</Type>
 <ManaCost>1WW (3)</ManaCost>
@@ -2394,6 +2478,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>139</No>
 <Name>Martyrdom</Name>
 <Type>Instant</Type>
 <ManaCost>1WW (3)</ManaCost>
@@ -2413,6 +2498,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>140</No>
 <Name>Noble Steeds</Name>
 <Type>Enchantment</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -2429,6 +2515,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>141</No>
 <Name>Noble Steeds</Name>
 <Type>Enchantment</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -2445,6 +2532,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>142</No>
 <Name>Reinforcements</Name>
 <Type>Instant</Type>
 <ManaCost>W (1)</ManaCost>
@@ -2462,6 +2550,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>143</No>
 <Name>Reinforcements</Name>
 <Type>Instant</Type>
 <ManaCost>W (1)</ManaCost>
@@ -2479,6 +2568,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>144</No>
 <Name>Reprisal</Name>
 <Type>Instant</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2496,6 +2586,7 @@ Enchanted creature gets +1/+2.
 
 <Card>
 <SetId>AI</SetId>
+<No>145</No>
 <Name>Reprisal</Name>
 <Type>Instant</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2531,6 +2622,7 @@ Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Ro
 
 <Card>
 <SetId>AI</SetId>
+<No>147</No>
 <Name>Royal Herbalist</Name>
 <Type>Creature — Human Cleric 1/1</Type>
 <ManaCost>W (1)</ManaCost>
@@ -2547,6 +2639,7 @@ Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Ro
 
 <Card>
 <SetId>AI</SetId>
+<No>148</No>
 <Name>Royal Herbalist</Name>
 <Type>Creature — Human Cleric 1/1</Type>
 <ManaCost>W (1)</ManaCost>
@@ -2607,12 +2700,12 @@ Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 <Artist>Rebecca Guay</Artist>
 <Multiverseid>3216</Multiverseid>
 <Rulings>2004/10/04: Does not affect damage if you are already at zero or negative life. You still take it all.
-2008/10/01: Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with "cumulative upkeep {1}" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent.
-2008/10/01: The second ability applies only if your life total is being reduced by damage. Other effects or costs (such as "lose 1 life" or "pay 1 life") can reduce your life total below 1 as normal.
-2008/10/01: If an effect asks you to pay life, you can't pay more life than you have.
+2008/10/01: <Sustaining Spirit> won't prevent you from losing the game if your life total is 0 or less or some other effect causes you to lose the game.
 2008/10/01: The second ability is not a prevention effect. It stops unpreventable damage from reducing your life total below 1.
 2008/10/01: The ability doesn't change how much damage is dealt; it just changes how much life that damage makes you lose. An effect such as Spirit Link will see the full amount of damage being dealt.
-2008/10/01: <Sustaining Spirit> won't prevent you from losing the game if your life total is 0 or less or some other effect causes you to lose the game.</Rulings>
+2008/10/01: If an effect asks you to pay life, you can't pay more life than you have.
+2008/10/01: The second ability applies only if your life total is being reduced by damage. Other effects or costs (such as "lose 1 life" or "pay 1 life") can reduce your life total below 1 as normal.
+2008/10/01: Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with "cumulative upkeep {1}" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2657,6 +2750,7 @@ Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 
 <Card>
 <SetId>AI</SetId>
+<No>154</No>
 <Name>Wild Aesthir</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -2674,6 +2768,7 @@ Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 
 <Card>
 <SetId>AI</SetId>
+<No>155</No>
 <Name>Wild Aesthir</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -2691,6 +2786,7 @@ Damage that would reduce your life total to less than 1 reduces it to 1 instead.
 
 <Card>
 <SetId>AI</SetId>
+<No>156</No>
 <Name>Aesthir Glider</Name>
 <Type>Artifact Creature — Bird Construct 2/1</Type>
 <ManaCost>3 (3)</ManaCost>
@@ -2702,24 +2798,26 @@ Aesthir Glider can't block.</CardText>
 <Multiverseid>3040</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Alliances</Set>
 <Rarity>Common</Rarity>
 </Card>
 
 <Card>
 <SetId>AI</SetId>
+<No>157</No>
 <Name>Aesthir Glider</Name>
 <Type>Artifact Creature — Bird Construct 2/1</Type>
 <ManaCost>3 (3)</ManaCost>
 <CardText>Flying
 Aesthir Glider can't block.</CardText>
 <Flavor>"A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Ruth Thompson</Artist>
 <Multiverseid>3041</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Alliances</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -2744,6 +2842,7 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>159</No>
 <Name>Astrolabe</Name>
 <Type>Artifact</Type>
 <ManaCost>3 (3)</ManaCost>
@@ -2758,6 +2857,7 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>160</No>
 <Name>Astrolabe</Name>
 <Type>Artifact</Type>
 <ManaCost>3 (3)</ManaCost>
@@ -2913,13 +3013,13 @@ Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, 
 
 <Card>
 <SetId>AI</SetId>
+<No>169</No>
 <Name>Phyrexian War Beast</Name>
 <Type>Artifact Creature — Beast 3/4</Type>
 <ManaCost>3 (3)</ManaCost>
 <CardText>When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.</CardText>
 <Flavor>"Deal with the spawn of Phyrexia cautiously; only with time may we control them."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Bill Sienkiewicz</Artist>
 <Multiverseid>3053</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2930,6 +3030,7 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>170</No>
 <Name>Phyrexian War Beast</Name>
 <Type>Artifact Creature — Beast 3/4</Type>
 <ManaCost>3 (3)</ManaCost>
@@ -2985,7 +3086,8 @@ Whenever Shield Sphere blocks, put a -0/-1 counter on it.</CardText>
 <ManaCost>3 (3)</ManaCost>
 <CardText>As Sol Grail enters the battlefield, choose a color.
 {T}: Add one mana of the chosen color.</CardText>
-<Flavor>"Look deep into the Grail, and see there what you desire most." —Gerda Äagesdotter, Archmage of the Unseen</Flavor>
+<Flavor>"Look deep into the Grail, and see there what you desire most."
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>3057</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3002,8 +3104,7 @@ Whenever Shield Sphere blocks, put a -0/-1 counter on it.</CardText>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{2}: Put the top card of your graveyard on the bottom of your library.</CardText>
 <Flavor>"This ceaseless device has helped uncover marvels unreachable by mere flesh."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Amy Weber</Artist>
 <Multiverseid>3058</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
@@ -3015,6 +3116,7 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>175</No>
 <Name>Soldevi Sentry</Name>
 <Type>Artifact Creature — Soldier 1/1</Type>
 <ManaCost>1 (1)</ManaCost>
@@ -3031,13 +3133,13 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>176</No>
 <Name>Soldevi Sentry</Name>
 <Type>Artifact Creature — Soldier 1/1</Type>
 <ManaCost>1 (1)</ManaCost>
 <CardText>{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.</CardText>
 <Flavor>"Our newfound security enables us to turn more of our attentions to the wonders that lie deep within the soil."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Alan Rabinowitz</Artist>
 <Multiverseid>3059</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3048,6 +3150,7 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>177</No>
 <Name>Soldevi Steam Beast</Name>
 <Type>Artifact Creature — Beast 4/2</Type>
 <ManaCost>5 (5)</ManaCost>
@@ -3065,6 +3168,7 @@ Soldevi Machinist</Flavor>
 
 <Card>
 <SetId>AI</SetId>
+<No>178</No>
 <Name>Soldevi Steam Beast</Name>
 <Type>Artifact Creature — Beast 4/2</Type>
 <ManaCost>5 (5)</ManaCost>
@@ -3107,7 +3211,8 @@ Whenever a land is tapped for mana, return it to its owner's hand.</CardText>
 <CardText>Trample
 {3}: Urza's Engine gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
 {3}: Attacking creatures banded with Urza's Engine gain trample until end of turn.</CardText>
-<Flavor>"Humans and machines working together can be fearsome indeed!" —Arcum Dagsson</Flavor>
+<Flavor>"Humans and machines working together can be fearsome indeed!"
+—Arcum Dagsson</Flavor>
 <Artist>Greg Simanson</Artist>
 <Multiverseid>3064</Multiverseid>
 <Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
@@ -3289,8 +3394,7 @@ At the beginning of your upkeep, if you control three or fewer lands, you gain 1
 <ManaCost>WU (2)</ManaCost>
 <CardText>Untap any number of target creatures. Prevent all combat damage that would be dealt to and dealt by those creatures this turn.</CardText>
 <Flavor>"Relent, and you may transcend your situation."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>3221</Multiverseid>
 <Rulings>2007/09/16: <Energy Arc> can target untapped creatures. The second part of the effect will still affect them.
@@ -3329,9 +3433,9 @@ Whenever Lim-Dûl's Paladin attacks and isn't blocked, it assigns no combat dama
 <CardText>Look at the top five cards of your library. As many times as you choose, you may pay 1 life, put those cards on the bottom of your library in any order, then look at the top five cards of your library. Then shuffle your library and put the last cards you looked at this way on top of it in any order.</CardText>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>3223</Multiverseid>
-<Rulings>2007/09/16: In other words: — Step 1: Look at the top five cards of your library. — Step 2: If you like them, proceed to step 3a. If you don't like them, proceed to step 3b. — Step 3a: Shuffle the rest of your library, then put those five cards back on top of your library in the order you want. The spell has finished resolving. — Step 3b: Put those five cards on the bottom of your library in the order you want. Pay 1 life. Return to step 1.
-2007/09/16: If you pay no life, you shuffle the rest of your library and then put the top five cards back on top in any order.
-2007/09/16: If you have five or fewer cards in your library, you can pay 1 life as many times as you like, but you'll keep seeing the same cards.</Rulings>
+<Rulings>2007/09/16: If you have five or fewer cards in your library, you can pay 1 life as many times as you like, but you'll keep seeing the same cards.
+2007/09/16: In other words: — Step 1: Look at the top five cards of your library. — Step 2: If you like them, proceed to step 3a. If you don't like them, proceed to step 3b. — Step 3a: Shuffle the rest of your library, then put those five cards back on top of your library in the order you want. The spell has finished resolving. — Step 3b: Put those five cards on the bottom of your library in the order you want. Pay 1 life. Return to step 1.
+2007/09/16: If you pay no life, you shuffle the rest of your library and then put the top five cards back on top in any order.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Alliances</Set>

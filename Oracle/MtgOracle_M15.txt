@@ -27,15 +27,16 @@
 <Name>Ajani's Pridemate</Name>
 <Type>Creature — Cat Soldier 2/2</Type>
 <ManaCost>1W (2)</ManaCost>
-<CardText>Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.</CardText>
+<CardText>Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.</CardText>
 <Flavor>"When one of us prospers, the pride prospers."
 —Jazal Goldmane</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>383181</Multiverseid>
-<Rulings>2017/11/17: The ability of <Ajani's Pridemate> triggers just once for each life-gaining event, whether it's 1 life from Auriok Champion or 6 life from Tavern Swindler.
-2017/11/17: If <Ajani's Pridemate> is dealt lethal damage at the same time that you gain life, it won't receive a counter from its ability in time to save it.
-2017/11/17: Each creature with lifelink dealing combat damage causes a separate life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, <Ajani's Pridemate>'s ability will trigger twice. However, if a single creature you control with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
-2017/11/17: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase.</Rulings>
+<Rulings>2019/05/03: The ability of <Ajani's Pridemate> triggers just once for each life-gaining event, whether it's 1 life from Ajani's Welcome or 2 life from Battlefield Promotion.
+2019/05/03: If <Ajani's Pridemate> is dealt lethal damage at the same time that you gain life, it won't receive a counter from its ability in time to save it.
+2019/05/03: Each creature with lifelink dealing combat damage causes a separate life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, <Ajani's Pridemate>'s ability will trigger twice. However, if a single creature you control with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
+2019/05/03: If you gain an amount of life "for each" of something, that life is gained as one event and the ability of <Ajani's Pridemate> triggers only once.
+2019/05/03: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it caused your team's life total to increase.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -183,15 +184,15 @@ Exile target attacking or blocking creature.</CardText>
 <Flavor>"Even your shadow is too foul to tolerate."</Flavor>
 <Artist>Slawomir Maniak</Artist>
 <Multiverseid>383224</Multiverseid>
-<Rulings>2014/07/18: You can tap untapped attacking or blocking creatures you control to help cast <Devouring Light>. This doesn't remove those creatures from combat.
-2014/07/18: The declare blockers step is the last chance to cast <Devouring Light> before creatures deal their combat damage. However, a creature remains an attacking or blocking creature during the combat damage step and end of combat step. <Devouring Light> may be cast targeting such a creature during those steps, after the creature has dealt combat damage.
-2014/07/18: The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay.
-2014/07/18: Convoke doesn't change a spell's mana cost or converted mana cost.
-2014/07/18: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
-2014/07/18: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
-2014/07/18: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
-2014/07/18: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}.
-2014/07/18: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Rulings>2014/07/18: The declare blockers step is the last chance to cast <Devouring Light> before creatures deal their combat damage. However, a creature remains an attacking or blocking creature during the combat damage step and end of combat step. <Devouring Light> may be cast targeting such a creature during those steps, after the creature has dealt combat damage.
+2014/07/18: You can tap untapped attacking or blocking creatures you control to help cast <Devouring Light>. This doesn't remove those creatures from combat.
+2018/10/05: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.
+2018/10/05: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2018/10/05: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}.
+2018/10/05: You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell.
+2018/10/05: Convoke doesn't change a spell's mana cost or converted mana cost.
+2018/10/05: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2018/10/05: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -663,8 +664,7 @@ Seraph of the Masses's power and toughness are each equal to the number of creat
 <Type>Sorcery</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Destroy target artifact or enchantment. You gain 4 life.</CardText>
-<Flavor>"You will be reimbursed for your donation."
-"The reimbursement is spiritual."
+<Flavor>"You will be reimbursed for your donation." "The reimbursement is spiritual."
 —Temple signs</Flavor>
 <Artist>Sam Wood</Artist>
 <Multiverseid>383386</Multiverseid>
@@ -839,8 +839,7 @@ Whenever Wall of Essence is dealt combat damage, you gain that much life.</CardT
 <ManaCost>2W (3)</ManaCost>
 <CardText>Vigilance (Attacking doesn't cause this creature to tap.)
 Warden of the Beyond gets +2/+2 as long as an opponent owns a card in exile.</CardText>
-<Flavor>He draws strength from a vast source few mortals can fathom.
-Designed by Isaiah Cartwright</Flavor>
+<Flavor>He draws strength from a vast source few mortals can fathom. Designed by Isaiah Cartwright</Flavor>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>383435</Multiverseid>
 <Rulings>2014/07/18: <Warden of the Beyond> can't get more than +2/+2 from its last ability, no matter how many opponents own a card in exile or how many exiled cards they own.</Rulings>
@@ -1081,7 +1080,7 @@ Enchanted artifact is a creature with base power and toughness 5/5 in addition t
 <Multiverseid>383232</Multiverseid>
 <Rulings>2014/07/18: The artifact retains any types, subtypes, or supertypes it has. Notably, if an Equipment becomes an artifact creature, it can't be attached to another creature. If it was attached to a creature, it becomes unattached.
 2014/07/18: If the artifact was already a creature, its base power and toughness will each become 5. This overwrites any previous effects that set the creature's base power and toughness to specific values. Any power- or toughness-setting effects that start to apply after <Ensoul Artifact> becomes attached to the artifact will overwrite this effect.
-2014/07/18: Effects that modify a creature's power and/or toughness, such as the ones created by Titanic Growth or a +/1+1 counter, will apply to the creature no matter when they started to take effect. The same is true for any counters that change its power and/or toughness and effects that switch power and toughness.
+2014/07/18: Effects that modify a creature's power and/or toughness, such as the ones created by Titanic Growth or a +1/+1 counter, will apply to the creature no matter when they started to take effect. The same is true for any counters that change its power and/or toughness and effects that switch power and toughness.
 2014/07/18: The resulting artifact creature will be able to attack on your turn if it's been under your control continuously since the turn began. That is, it doesn't matter how long it's been a creature, just how long it's been on the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1174,7 +1173,7 @@ Flying</CardText>
 —Letter from a soldier</Flavor>
 <Artist>Allen Williams</Artist>
 <Multiverseid>383274</Multiverseid>
-<Rulings>2017/11/17: It doesn't matter whether the other spell resolved. It could have been countered or, if you've somehow cast <Illusory Angel> as though it had flash, it could still be on the stack.</Rulings>
+<Rulings>2014/07/18: It doesn't matter whether the other spell resolved. It could have been countered or, if you've somehow cast <Illusory Angel> as though it had flash, it could still be on the stack.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1322,12 +1321,12 @@ Whenever Master of Predicaments deals combat damage to a player, choose a card i
 <Flavor>Designed by David Sirlin</Flavor>
 <Artist>Matt Stewart</Artist>
 <Multiverseid>383305</Multiverseid>
-<Rulings>2014/07/18: To choose a card in your hand, clearly separate it from the rest of your hand without revealing it.
-2014/07/18: Although you may choose a land card in your hand, you won't be able to play it even if the player guessed wrong.
+<Rulings>2014/07/18: Although you may choose a land card in your hand, you won't be able to play it even if the player guessed wrong.
 2014/07/18: If you don't cast the card, either because the player guessed right or because you choose not to cast it, you don't have to reveal it. Your opponent won't know the reason you didn't cast the card.
-2014/07/18: If the card has {X} in its mana cost, X is 0.
+2014/07/18: To choose a card in your hand, clearly separate it from the rest of your hand without revealing it.
 2014/07/18: You cast the card in your hand as part of the resolution of the triggered ability. Timing restrictions based on the card's type (such as creature or sorcery) are ignored. Other restrictions, such as "Cast [this card] only during combat," are not.
 2014/07/18: If you cast a card "without paying its mana cost," you can't pay any alternative costs. Notably, you can't cast a card with bestow as an Aura this way. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, you must pay those.
+2014/07/18: If the card has {X} in its mana cost, X is 0.
 2017/04/18: If the card is a split card, its converted mana cost is determined by the combined mana cost of its two halves. If the player guesses wrong and you cast a split card this way, you may cast either half (or both halves if the card has fuse), no matter what its converted mana cost is.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1342,7 +1341,7 @@ Whenever Master of Predicaments deals combat damage to a player, choose a card i
 <Name>Mercurial Pretender</Name>
 <Type>Creature — Shapeshifter 0/0</Type>
 <ManaCost>4U (5)</ManaCost>
-<CardText>You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it gains "{2}{U}{U}: Return this creature to its owner's hand."</CardText>
+<CardText>You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it has "{2}{U}{U}: Return this creature to its owner's hand."</CardText>
 <Flavor>The king went off to find himself. Imagine his terror when he succeeded.</Flavor>
 <Artist>Izzy</Artist>
 <Multiverseid>383307</Multiverseid>
@@ -1766,7 +1765,7 @@ Enchanted land has "{T}: Target player loses 3 life."</CardText>
 <Name>Child of Night</Name>
 <Type>Creature — Vampire 2/1</Type>
 <ManaCost>1B (2)</ManaCost>
-<CardText>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</CardText>
+<CardText>Lifelink</CardText>
 <Flavor>Sins that would be too gruesome in the light of day are made more pleasing in the dark of night.</Flavor>
 <Artist>Ash Wood</Artist>
 <Multiverseid>383208</Multiverseid>
@@ -1828,9 +1827,8 @@ Enchanted creature gets -1/-1 and can't block.</CardText>
 <Type>Creature — Human Assassin 1/1</Type>
 <ManaCost>B (1)</ManaCost>
 <CardText>{B}, {T}, Pay 1 life: Put a +1/+1 counter on Cruel Sadist.
-{2}{B}, {T}, Remove X +1/+1 counters from Cruel Sadist: Cruel Sadist deals X damage to target creature.</CardText>
-<Flavor>Face of innocence. Hand of death.
-Designed by Edmund McMillen</Flavor>
+{2}{B}, {T}, Remove X +1/+1 counters from Cruel Sadist: It deals X damage to target creature.</CardText>
+<Flavor>Face of innocence. Hand of death. Designed by Edmund McMillen</Flavor>
 <Artist>Min Yum</Artist>
 <Multiverseid>383221</Multiverseid>
 <Rulings>2014/07/18: You can remove any +1/+1 counters from <Cruel Sadist> to activate its second ability, not just those put on <Cruel Sadist> by its first ability.</Rulings>
@@ -2655,8 +2653,7 @@ Enchanted creature has "{T}: This creature deals damage equal to its power to an
 <Type>Sorcery</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>Destroy target creature with defender.</CardText>
-<Flavor>"Why do guards always look surprised when we bash them?" asked Ruric.
-"I think they expect a bribe," said Thar.</Flavor>
+<Flavor>"Why do guards always look surprised when we bash them?" asked Ruric. "I think they expect a bribe," said Thar.</Flavor>
 <Artist>Karl Kopinski</Artist>
 <Multiverseid>383212</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2788,9 +2785,10 @@ Target creature gets +1/+0 and gains first strike until end of turn. (It deals c
 <CardText>{T}, Sacrifice Generator Servant: Add {C}{C}. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)</CardText>
 <Artist>Mathias Kollros</Artist>
 <Multiverseid>383254</Multiverseid>
-<Rulings>2014/07/18: If the mana is spent on two different creature spells, each of those spells (and resulting creatures) will gain haste until end of turn.
-2014/07/18: If the mana is spent on additional or alternative costs of a creature spell, the creature will still gain haste.
-2014/07/18: An instant or sorcery spell is not a creature spell, even if that spell creates creature tokens.</Rulings>
+<Rulings>2018/12/07: If the mana is spent on two different creature spells, each of those spells (and resulting creatures) will gain haste until end of turn.
+2018/12/07: If a creature spell has generic mana only in its alternative or additional cost, the creature will still gain haste.
+2018/12/07: An instant or sorcery spell is not a creature spell, even if that spell creates creature tokens.
+2018/12/07: If the mana is spent on a noncreature spell that becomes a creature later in the turn, that creature won't have haste.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2939,7 +2937,7 @@ Enchanted creature gets +2/+0.
 <Type>Creature — Ape 3/3</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>Kird Chieftain gets +1/+1 as long as you control a Forest.
-{4}{G}: Target creature gets +2/+2 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+{4}{G}: Target creature gets +2/+2 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Lars Grant-West</Artist>
 <Multiverseid>383293</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3051,7 +3049,7 @@ Enchanted creature gets +2/+0.
 <Name>Miner's Bane</Name>
 <Type>Creature — Elemental 6/3</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>{2}{R}: Miner's Bane gets +1/+0 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+<CardText>{2}{R}: Miner's Bane gets +1/+0 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Flavor>There are certain stones even dwarves know to leave in the earth.</Flavor>
 <Artist>Adam Paquette</Artist>
 <Multiverseid>383314</Multiverseid>
@@ -3103,7 +3101,7 @@ Enchanted creature gets +2/+0.
 <Name>Scrapyard Mongrel</Name>
 <Type>Creature — Hound 3/3</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>As long as you control an artifact, Scrapyard Mongrel gets +2/+0 and has trample. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+<CardText>As long as you control an artifact, Scrapyard Mongrel gets +2/+0 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Flavor>Trespassers are welcome to try.</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>383372</Multiverseid>
@@ -3393,13 +3391,13 @@ Create three 3/3 green Beast creature tokens.</CardText>
 Target creature gets +2/+2 until end of turn.</CardText>
 <Artist>Brian Despain</Artist>
 <Multiverseid>383252</Multiverseid>
-<Rulings>2014/07/18: The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay.
-2014/07/18: Convoke doesn't change a spell's mana cost or converted mana cost.
-2014/07/18: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
-2014/07/18: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
-2014/07/18: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
-2014/07/18: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}.
-2014/07/18: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Rulings>2018/10/05: You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell.
+2018/10/05: Convoke doesn't change a spell's mana cost or converted mana cost.
+2018/10/05: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2018/10/05: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2018/10/05: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2018/10/05: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}.
+2018/10/05: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3698,7 +3696,7 @@ Creatures you control get +3/+3 until end of turn.</CardText>
 <Type>Creature — Human Druid 2/2</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>Other green creatures you control get +1/+1.
-{G}, {T}: Another target green creature you control gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+{G}, {T}: Another target green creature you control gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Winona Nelson</Artist>
 <Multiverseid>383336</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3876,13 +3874,13 @@ Creatures you control get +3/+3 until end of turn.</CardText>
 Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Carl Critchlow</Artist>
 <Multiverseid>383382</Multiverseid>
-<Rulings>2014/07/18: The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay.
-2014/07/18: Convoke doesn't change a spell's mana cost or converted mana cost.
-2014/07/18: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
-2014/07/18: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
-2014/07/18: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
-2014/07/18: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}.
-2014/07/18: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Rulings>2018/10/05: You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell.
+2018/10/05: Convoke doesn't change a spell's mana cost or converted mana cost.
+2018/10/05: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2018/10/05: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2018/10/05: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2018/10/05: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}.
+2018/10/05: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4166,7 +4164,7 @@ Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 <ManaCost>4 (4)</ManaCost>
 <CardText>At the beginning of your end step, if you didn't activate a loyalty ability of a planeswalker this turn, you lose 2 life.
 {4}, {T}: For each planeswalker you control, you may activate one of its loyalty abilities once this turn as though none of its loyalty abilities have been activated this turn.</CardText>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>383412</Multiverseid>
 <Rulings>2014/07/18: For the first ability, it doesn't matter whether the planeswalker is still on the battlefield as your end step begins. If you activated one of its loyalty abilities that turn, <The Chain Veil>'s triggered ability won't trigger.
 2014/07/18: Because the last ability modifies the rules of the game, it affects not only planeswalkers you control when it resolves, but also planeswalkers that come under your control later in the turn.
@@ -4247,8 +4245,7 @@ Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 <CardText>Equipped creature can't be blocked.
 Whenever equipped creature is dealt damage, destroy it.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</CardText>
-<Flavor>"Comin' through!"
-Designed by James Ernest</Flavor>
+<Flavor>"Comin' through!" Designed by James Ernest</Flavor>
 <Artist>David Palumbo</Artist>
 <Multiverseid>383269</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4460,9 +4457,8 @@ When Scuttling Doom Engine dies, it deals 6 damage to target opponent or planesw
 <ManaCost>1 (1)</ManaCost>
 <CardText>If a source would deal damage to equipped creature, prevent X of that damage, where X is the number of creatures you control.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</CardText>
-<Flavor>We are made stronger by those we fight for.
-Designed by Richard Garriott</Flavor>
-<Artist>Volkan Baga</Artist>
+<Flavor>We are made stronger by those we fight for. Designed by Richard Garriott</Flavor>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>383378</Multiverseid>
 <Rulings>2014/07/18: To determine how much damage to prevent, use the number of creatures you control when damage would be dealt, including the equipped creature. Notably, if damage would be dealt to multiple creatures at the same time, you'll count the number of creatures you control before any of that damage is dealt.
 2014/07/18: If multiple effects modify how damage is dealt, the player being dealt damage or the controller of the permanent being dealt damage chooses the order to apply the effects. For example, Dictate of the Twin Gods says, "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead." Suppose the equipped creature would be dealt 3 damage while Dictate of the Twin Gods is on the battlefield and you control two creatures. You can either (a) prevent 2 damage first and then let Dictate of the Twin Gods's effect apply, for a result of the equipped creature being dealt 2 damage, or (b) double the damage to 6 and then prevent 2 damage, for a result of the creature being dealt 4 damage.</Rulings>
@@ -4804,10 +4800,9 @@ Designed by Richard Garriott</Flavor>
 —Lord Windgrace</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>383425</Multiverseid>
-<Rulings>2008/04/01: If <Urborg, Tomb of Yawgmoth> and either Blood Moon or Magus of the Moon are on the battlefield, all nonbasic lands will be Mountains, not Swamps. <Urborg, Tomb of Yawgmoth> will be a Mountain as well. It will have "{T}: Add {R}" and no other abilities.
-2014/07/18: <Urborg, Tomb of Yawgmoth> isn't a Swamp while it's not on the battlefield.
-2014/07/18: Urborg's ability causes each land on the battlefield to have the land type Swamp. Each land thus has the ability "{T}: Add {B}." Nothing else changes about those lands, including their names, other subtypes, other abilities, and whether they're legendary or basic.
-2014/07/18: If Urborg loses its abilities (for example, if it becomes a creature and then Turn to Frog targets it), all lands on the battlefield, including Urborg, will still be Swamps, but Urborg won't have the ability "Each land is a Swamp in addition to its other land types." Urborg also won't be able to tap to produce {B}, but other lands (including those that enter the battlefield later in the turn) will. The way continuous effects work, Urborg's type-changing ability is applied before the effect that removes both the type-changing ability and its own mana ability.</Rulings>
+<Rulings>2018/12/07: <Urborg, Tomb of Yawgmoth> isn't a Swamp while it's not on the battlefield.
+2018/12/07: Land cards not on the battlefield aren't Swamps while Urborg is on the battlefield.
+2018/12/07: Urborg's ability causes each land on the battlefield to have the land type Swamp. Any land that's a Swamp has the ability "{T}: Add {B}." Nothing else changes about those lands, including their names, other subtypes, other abilities, and whether they're legendary, basic, or snow.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5402,7 +5397,7 @@ Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 c
 <Type>Creature — Beast 8/8</Type>
 <ManaCost>3GGG (6)</ManaCost>
 <CardText>This spell can't be countered.
-Trample  (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Flavor>Its footfalls cause violent earthquakes, hurtling boulders, and unseasonable dust storms.</Flavor>
 <Artist>Goran Josic</Artist>
 <Multiverseid>383173</Multiverseid>

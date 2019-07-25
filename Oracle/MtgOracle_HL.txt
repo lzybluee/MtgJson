@@ -7,7 +7,8 @@
 <CardText>Flying
 Whenever a creature dealt damage by Baron Sengir this turn dies, put a +2/+2 counter on Baron Sengir.
 {T}: Regenerate another target Vampire.</CardText>
-<Flavor>"Beast. Defiler. The source of all my pain." —Ihsan's Shade</Flavor>
+<Flavor>"Beast. Defiler. The source of all my pain."
+—Ihsan's Shade</Flavor>
 <Artist>Pete Venters</Artist>
 <Multiverseid>2910</Multiverseid>
 <Rulings>2004/10/04: The Baron's ability will only regenerate creatures with type "Vampire," regardless of whether the creature has "Vampire" in its name.
@@ -59,6 +60,7 @@ Sacrifice a creature: Untap Black Carriage. Activate this ability only during yo
 
 <Card>
 <SetId>HL</SetId>
+<No>4</No>
 <Name>Cemetery Gate</Name>
 <Type>Creature — Wall 0/5</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -76,6 +78,7 @@ Protection from black</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>5</No>
 <Name>Cemetery Gate</Name>
 <Type>Creature — Wall 0/5</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -112,6 +115,7 @@ When Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can'
 
 <Card>
 <SetId>HL</SetId>
+<No>7</No>
 <Name>Dry Spell</Name>
 <Type>Sorcery</Type>
 <ManaCost>1B (2)</ManaCost>
@@ -128,6 +132,7 @@ When Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can'
 
 <Card>
 <SetId>HL</SetId>
+<No>8</No>
 <Name>Dry Spell</Name>
 <Type>Sorcery</Type>
 <ManaCost>1B (2)</ManaCost>
@@ -144,6 +149,7 @@ When Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can'
 
 <Card>
 <SetId>HL</SetId>
+<No>9</No>
 <Name>Feast of the Unicorn</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>3B (4)</ManaCost>
@@ -161,6 +167,7 @@ Enchanted creature gets +4/+0.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>10</No>
 <Name>Feast of the Unicorn</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>3B (4)</ManaCost>
@@ -340,6 +347,7 @@ When Sengir Autocrat leaves the battlefield, exile all Serf tokens.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>20</No>
 <Name>Sengir Bats</Name>
 <Type>Creature — Bat 1/2</Type>
 <ManaCost>1BB (3)</ManaCost>
@@ -357,6 +365,7 @@ Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 coun
 
 <Card>
 <SetId>HL</SetId>
+<No>21</No>
 <Name>Sengir Bats</Name>
 <Type>Creature — Bat 1/2</Type>
 <ManaCost>1BB (3)</ManaCost>
@@ -392,6 +401,7 @@ Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 coun
 
 <Card>
 <SetId>HL</SetId>
+<No>23</No>
 <Name>Torture</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>B (1)</ManaCost>
@@ -411,6 +421,7 @@ Whenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 coun
 
 <Card>
 <SetId>HL</SetId>
+<No>24</No>
 <Name>Torture</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>B (1)</ManaCost>
@@ -526,6 +537,7 @@ Sacrifice an Island: Put two polyp counters on Coral Reef.
 
 <Card>
 <SetId>HL</SetId>
+<No>30</No>
 <Name>Dark Maze</Name>
 <Type>Creature — Wall 4/5</Type>
 <ManaCost>4U (5)</ManaCost>
@@ -543,6 +555,7 @@ Sacrifice an Island: Put two polyp counters on Coral Reef.
 
 <Card>
 <SetId>HL</SetId>
+<No>31</No>
 <Name>Dark Maze</Name>
 <Type>Creature — Wall 4/5</Type>
 <ManaCost>4U (5)</ManaCost>
@@ -575,6 +588,7 @@ Sacrifice an Island: Put two polyp counters on Coral Reef.
 
 <Card>
 <SetId>HL</SetId>
+<No>33</No>
 <Name>Giant Albatross</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -593,6 +607,7 @@ When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that
 
 <Card>
 <SetId>HL</SetId>
+<No>34</No>
 <Name>Giant Albatross</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -650,6 +665,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>37</No>
 <Name>Labyrinth Minotaur</Name>
 <Type>Creature — Minotaur 1/4</Type>
 <ManaCost>3U (4)</ManaCost>
@@ -668,6 +684,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>38</No>
 <Name>Labyrinth Minotaur</Name>
 <Type>Creature — Minotaur 1/4</Type>
 <ManaCost>3U (4)</ManaCost>
@@ -707,6 +724,7 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>40</No>
 <Name>Memory Lapse</Name>
 <Type>Instant</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -724,6 +742,7 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>41</No>
 <Name>Memory Lapse</Name>
 <Type>Instant</Type>
 <ManaCost>1U (2)</ManaCost>
@@ -797,6 +816,7 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>45</No>
 <Name>Reef Pirates</Name>
 <Type>Creature — Zombie Pirate 2/2</Type>
 <ManaCost>1UU (3)</ManaCost>
@@ -813,6 +833,7 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>46</No>
 <Name>Reef Pirates</Name>
 <Type>Creature — Zombie Pirate 2/2</Type>
 <ManaCost>1UU (3)</ManaCost>
@@ -955,6 +976,7 @@ When you control no Islands, sacrifice Marjhan.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>54</No>
 <Name>Carapace</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>G (1)</ManaCost>
@@ -974,6 +996,7 @@ Sacrifice Carapace: Regenerate enchanted creature.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>55</No>
 <Name>Carapace</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1031,6 +1054,7 @@ Other Faerie creatures you control get +0/+1.
 
 <Card>
 <SetId>HL</SetId>
+<No>58</No>
 <Name>Folk of An-Havva</Name>
 <Type>Creature — Human 1/1</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1047,6 +1071,7 @@ Other Faerie creatures you control get +0/+1.
 
 <Card>
 <SetId>HL</SetId>
+<No>59</No>
 <Name>Folk of An-Havva</Name>
 <Type>Creature — Human 1/1</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1063,6 +1088,7 @@ Other Faerie creatures you control get +0/+1.
 
 <Card>
 <SetId>HL</SetId>
+<No>60</No>
 <Name>Hungry Mist</Name>
 <Type>Creature — Elemental 6/2</Type>
 <ManaCost>2GG (4)</ManaCost>
@@ -1079,6 +1105,7 @@ Other Faerie creatures you control get +0/+1.
 
 <Card>
 <SetId>HL</SetId>
+<No>61</No>
 <Name>Hungry Mist</Name>
 <Type>Creature — Elemental 6/2</Type>
 <ManaCost>2GG (4)</ManaCost>
@@ -1237,6 +1264,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>70</No>
 <Name>Shrink</Name>
 <Type>Instant</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1253,6 +1281,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>71</No>
 <Name>Shrink</Name>
 <Type>Instant</Type>
 <ManaCost>G (1)</ManaCost>
@@ -1274,7 +1303,8 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 <Type>Creature — Bear Spirit 3/3</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.</CardText>
-<Flavor>"I hear there are Bears—or spirits—that guard caravans passing through the forest." —Gulsen, Abbey Matron</Flavor>
+<Flavor>"I hear there are Bears—or spirits—that guard caravans passing through the forest."
+—Gulsen, Abbey Matron</Flavor>
 <Artist>Pat Morrissey</Artist>
 <Multiverseid>2981</Multiverseid>
 <Rulings>2008/08/01: The checks for black cards is made both at the time you declare attackers and as the ability resolves. If there are any at the time attackers are declared, it won't trigger at all. If there are any at the time it resolves, the ability will do nothing.</Rulings>
@@ -1286,6 +1316,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>73</No>
 <Name>Willow Faerie</Name>
 <Type>Creature — Faerie 1/2</Type>
 <ManaCost>1G (2)</ManaCost>
@@ -1302,6 +1333,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>74</No>
 <Name>Willow Faerie</Name>
 <Type>Creature — Faerie 1/2</Type>
 <ManaCost>1G (2)</ManaCost>
@@ -1338,6 +1370,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>76</No>
 <Name>Aliban's Tower</Name>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
@@ -1354,6 +1387,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>77</No>
 <Name>Aliban's Tower</Name>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
@@ -1387,6 +1421,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>79</No>
 <Name>Ambush Party</Name>
 <Type>Creature — Human Rogue 3/1</Type>
 <ManaCost>4R (5)</ManaCost>
@@ -1403,6 +1438,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>80</No>
 <Name>Ambush Party</Name>
 <Type>Creature — Human Rogue 3/1</Type>
 <ManaCost>4R (5)</ManaCost>
@@ -1437,6 +1473,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>82</No>
 <Name>Anaba Bodyguard</Name>
 <Type>Creature — Minotaur 2/3</Type>
 <ManaCost>3R (4)</ManaCost>
@@ -1454,6 +1491,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>83</No>
 <Name>Anaba Bodyguard</Name>
 <Type>Creature — Minotaur 2/3</Type>
 <ManaCost>3R (4)</ManaCost>
@@ -1471,6 +1509,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>84</No>
 <Name>Anaba Shaman</Name>
 <Type>Creature — Minotaur Shaman 2/2</Type>
 <ManaCost>3R (4)</ManaCost>
@@ -1488,6 +1527,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 
 <Card>
 <SetId>HL</SetId>
+<No>85</No>
 <Name>Anaba Shaman</Name>
 <Type>Creature — Minotaur Shaman 2/2</Type>
 <ManaCost>3R (4)</ManaCost>
@@ -1598,6 +1638,7 @@ Creatures of the chosen type don't untap during their controllers' untap steps.<
 
 <Card>
 <SetId>HL</SetId>
+<No>91</No>
 <Name>Dwarven Trader</Name>
 <Type>Creature — Dwarf 1/1</Type>
 <ManaCost>R (1)</ManaCost>
@@ -1613,6 +1654,7 @@ Creatures of the chosen type don't untap during their controllers' untap steps.<
 
 <Card>
 <SetId>HL</SetId>
+<No>92</No>
 <Name>Dwarven Trader</Name>
 <Type>Creature — Dwarf 1/1</Type>
 <ManaCost>R (1)</ManaCost>
@@ -1783,6 +1825,7 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<No>102</No>
 <Name>Abbey Matron</Name>
 <Type>Creature — Human Cleric 1/3</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -1799,6 +1842,7 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<No>103</No>
 <Name>Abbey Matron</Name>
 <Type>Creature — Human Cleric 1/3</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -1815,6 +1859,7 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<No>104</No>
 <Name>Aysen Bureaucrats</Name>
 <Type>Creature — Human Advisor 1/1</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -1832,6 +1877,7 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<No>105</No>
 <Name>Aysen Bureaucrats</Name>
 <Type>Creature — Human Advisor 1/1</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -1961,6 +2007,7 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<No>112</No>
 <Name>Mesa Falcon</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -1978,6 +2025,7 @@ When the last ore counter is removed from Orcish Mine, destroy enchanted land an
 
 <Card>
 <SetId>HL</SetId>
+<No>113</No>
 <Name>Mesa Falcon</Name>
 <Type>Creature — Bird 1/1</Type>
 <ManaCost>1W (2)</ManaCost>
@@ -2032,6 +2080,7 @@ Whenever Rashka the Slayer blocks one or more black creatures, Rashka gets +1/+2
 
 <Card>
 <SetId>HL</SetId>
+<No>116</No>
 <Name>Samite Alchemist</Name>
 <Type>Creature — Human Cleric 0/2</Type>
 <ManaCost>3W (4)</ManaCost>
@@ -2048,6 +2097,7 @@ Whenever Rashka the Slayer blocks one or more black creatures, Rashka gets +1/+2
 
 <Card>
 <SetId>HL</SetId>
+<No>117</No>
 <Name>Samite Alchemist</Name>
 <Type>Creature — Human Cleric 0/2</Type>
 <ManaCost>3W (4)</ManaCost>
@@ -2158,6 +2208,7 @@ Enchanted creature can't attack or block, and its activated abilities with {T} i
 
 <Card>
 <SetId>HL</SetId>
+<No>123</No>
 <Name>Trade Caravan</Name>
 <Type>Creature — Human Nomad 1/1</Type>
 <ManaCost>W (1)</ManaCost>
@@ -2173,6 +2224,7 @@ Remove two currency counters from Trade Caravan: Untap target basic land. Activa
 
 <Card>
 <SetId>HL</SetId>
+<No>124</No>
 <Name>Trade Caravan</Name>
 <Type>Creature — Human Nomad 1/1</Type>
 <ManaCost>W (1)</ManaCost>
@@ -2360,7 +2412,8 @@ At end of combat, if Clockwork Swarm attacked or blocked this combat, remove a +
 <ManaCost>1 (1)</ManaCost>
 <CardText>Flying
 {2}: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</CardText>
-<Flavor>"The Roterothopter is as insidious as it is ingenious. It is one of the few creations of our school that I take no pride in." —Baki, Wizard Attendant</Flavor>
+<Flavor>"The Roterothopter is as insidious as it is ingenious. It is one of the few creations of our school that I take no pride in."
+—Baki, Wizard Attendant</Flavor>
 <Artist>Amy Weber</Artist>
 <Multiverseid>2908</Multiverseid>
 <Vintage>Legal</Vintage>

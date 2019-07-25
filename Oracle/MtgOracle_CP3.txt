@@ -1,0 +1,113 @@
+<Card>
+<SetId>CP3</SetId>
+<No>1</No>
+<Name>Honored Hierarch</Name>
+<Type>Creature — Human Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+As long as Honored Hierarch is renowned, it has vigilance and "{T}: Add one mana of any color."</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Clash Pack</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CP3</SetId>
+<No>2</No>
+<Name>Seeker of the Way</Name>
+<Type>Creature — Human Warrior 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.</CardText>
+<Flavor>"I don't know where my destiny lies, but I know it isn't here."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2014/09/20: Any spell you cast that doesn't have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause prowess to trigger. Playing a land also won't cause prowess to trigger.
+2014/09/20: Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell.
+2014/09/20: Once it triggers, prowess isn't connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve.
+2017/11/17: Multiple instances of lifelink on the same creature are redundant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Clash Pack</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CP3</SetId>
+<No>3</No>
+<Name>Valorous Stance</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Choose one —
+• Target creature gains indestructible until end of turn.
+• Destroy target creature with toughness 4 or greater.</CardText>
+<Flavor>"Every choice alters the path of fate."
+— Sarkhan Vol</Flavor>
+<Artist>Victor Adame Minguez</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Clash Pack</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CP3</SetId>
+<No>4</No>
+<Name>Dromoka, the Eternal</Name>
+<Type>Legendary Creature — Dragon 5/5</Type>
+<ManaCost>3GW (5)</ManaCost>
+<CardText>Flying
+Whenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)</CardText>
+<Flavor>"The bane of countless shattered weapons, each a failure to slay her."
+— Daghatar the Adamant</Flavor>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2014/11/24: Each Dragon you attack with will cause Dromoka's triggered ability to trigger. For each instance of the ability, you'll determine which creature to put +1/+1 counters on as it resolves. Specifically, the creature you control with the lowest toughness as the first such ability resolves may not have the lowest toughness as the second such ability resolves.
+2014/11/24: Bolster itself doesn't target any creature, though some spells and abilities that bolster may have other effects that target creatures. For example, you could put counters on a creature with protection from white with Abzan Skycaptain's bolster ability.
+2014/11/24: You determine which creature to put counters on as the spell or ability that instructs you to bolster resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Clash Pack</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CP3</SetId>
+<No>5</No>
+<Name>Siege Rhino</Name>
+<Type>Creature — Rhino 4/5</Type>
+<ManaCost>1WBG (4)</ManaCost>
+<CardText>Trample
+When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.</CardText>
+<Flavor>The mere approach of an Abzan war beast is enough to send enemies fleeing in panic.</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Clash Pack</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CP3</SetId>
+<No>6</No>
+<Name>Sandsteppe Citadel</Name>
+<Type>Land</Type>
+<CardText>Sandsteppe Citadel enters the battlefield tapped.
+{T}: Add {W}, {B}, or {G}.</CardText>
+<Flavor>That which endures, survives.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Clash Pack</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

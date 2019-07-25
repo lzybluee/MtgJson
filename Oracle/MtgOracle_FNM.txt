@@ -1,0 +1,175 @@
+<Card>
+<SetId>FNM</SetId>
+<No>1</No>
+<Name>River Boa</Name>
+<Type>Creature — Snake 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{G}: Regenerate River Boa.</CardText>
+<Flavor>But no one heard the snake's gentle hiss for peace over the elephant's trumpeting of war.
+—Afari, Tales</Flavor>
+<Artist>Steve White</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>2</No>
+<Name>Terror</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>3</No>
+<Name>Longbow Archer</Name>
+<Type>Creature — Human Soldier Archer 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>First strike; reach (This creature can block creatures with flying.)</CardText>
+<Flavor>If it bears wings, I will pin it to the skies over Tefemburu.
+—Roya, Zhalfirin archer</Flavor>
+<Artist>Eric Peterson</Artist>
+<Rulings>2008/04/01: This card now uses the Reach keyword ability to enable the blocking of flying creatures. This works because a creature with flying can only be blocked by creatures with flying or reach.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>4</No>
+<Name>Volcanic Geyser</Name>
+<Type>Instant</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Volcanic Geyser deals X damage to any target.</CardText>
+<Flavor>My thunder comes before the lightning; my lightning comes before the clouds; my rain dries all the land it touches. What am I? —Femeref riddle</Flavor>
+<Artist>David O'Connor</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>5</No>
+<Name>Mind Warp</Name>
+<Type>Sorcery</Type>
+<ManaCost>X3B (4)</ManaCost>
+<CardText>Look at target player's hand and choose X cards from it. That player discards those cards.</CardText>
+<Flavor>The hardest of wizards can have the softest of minds.</Flavor>
+<Artist>Liz Danforth</Artist>
+<Rulings>2004/10/04: The target player decides what order to put the cards in the graveyard. You decide which cards, but they do the discarding.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>6</No>
+<Name>Shock</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Shock deals 2 damage to any target.</CardText>
+<Flavor>Lightning tethers souls to the world.
+—Kor saying</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>8</No>
+<Name>Giant Growth</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Target creature gets +3/+3 until end of turn.</CardText>
+<Artist>Sandra Everingham</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>9</No>
+<Name>Prodigal Sorcerer</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>{T}: Prodigal Sorcerer deals 1 damage to any target.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>10</No>
+<Name>Stone Rain</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Destroy target land.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>11</No>
+<Name>Llanowar Elves</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G}.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>FNM</SetId>
+<No>12</No>
+<Name>Staunch Defenders</Name>
+<Type>Creature — Human Soldier 3/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>When Staunch Defenders enters the battlefield, you gain 4 life.</CardText>
+<Flavor>Hold your position! Leave doubt for the dying! —Tahngarth of the Weatherlight</Flavor>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

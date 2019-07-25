@@ -1,0 +1,4695 @@
+<Card>
+<SetId>TPR</SetId>
+<No>1</No>
+<Name>Angelic Blessing</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</CardText>
+<Flavor>Only the warrior who can admit mortal weakness will be bolstered by immortal strength.</Flavor>
+<Artist>Mark Zug</Artist>
+<Multiverseid>397647</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>2</No>
+<Name>Angelic Protector</Name>
+<Type>Creature — Angel 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</CardText>
+<Flavor>"My family sheltered in her light, the dark was content to wait."
+—Crovax</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397598</Multiverseid>
+<Rulings>2009/10/01: The ability triggers when <Angelic Protector> is chosen as a target for a spell or ability. The Protectors ability will be put on the stack above that spell or ability, and so resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>3</No>
+<Name>Anoint</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Prevent the next 3 damage that would be dealt to target creature this turn.</CardText>
+<Artist>Eric David Anderson</Artist>
+<Multiverseid>397397</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>4</No>
+<Name>Armor Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</CardText>
+<Flavor>Hanna: "We must learn how they protect each other." Mirri: "After they're done trying to kill us, all right?"</Flavor>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>397515</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>5</No>
+<Name>Armored Pegasus</Name>
+<Type>Creature — Pegasus 1/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits."
+—Tahli en-Dal, bounty hunter</Flavor>
+<Artist>Una Fricker</Artist>
+<Multiverseid>397411</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>6</No>
+<Name>Avenging Angel</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying
+When Avenging Angel dies, you may put it on top of its owner's library.</CardText>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397621</Multiverseid>
+<Rulings>2008/04/01: This has been restored as a triggered ability that triggers when it is put into a graveyard from the battlefield, rather than a replacement effect. The Angel does go to the graveyard, and will trigger any other abilities that look for this event.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>7</No>
+<Name>Bandage</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Prevent the next 1 damage that would be dealt to any target this turn.
+Draw a card.</CardText>
+<Flavor>Takara shook with guilt. She knew the last image her father had seen was her sword flashing toward him.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>397620</Multiverseid>
+<Rulings>2007/07/15: You draw the card when <Bandage> resolves, not when the damage is actually prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>8</No>
+<Name>Cataclysm</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest.</CardText>
+<Flavor>The Weatherlight dragged the Predator behind it, the cradle hauling the casket.</Flavor>
+<Artist>Jim Nelson</Artist>
+<Multiverseid>397399</Multiverseid>
+<Rulings>2004/10/04: If you control a permanent with more than one type, you can choose that same permanent for more than one of the choices if you want to. This makes it possible to select an artifact creature as both your artifact and creature, and then select a land and thereby keep only two cards.
+2004/10/04: If you control a permanent with more than one type, you can choose that permanent to be the representative of either type. This makes it possible to have more than one creature (or other permanent type) on the battlefield. For example, if you select a creature for your creature and an artifact creature for your artifact, you get to keep both of these creatures.
+2004/10/04: The permanents to save are chosen on resolution. You do not choose them when casting the spell.
+2004/10/04: The current player makes their choices before the other player. After both players make choices, all the sacrifices are done simultaneously.
+2014/02/01: Each permanent not chosen by a player will be sacrificed. If a permanent has none of the listed types (for example, a Planeswalker with no other types), it can't be chosen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>9</No>
+<Name>Charging Paladin</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</CardText>
+<Flavor>"Hope shall be the blade that severs our bonds."</Flavor>
+<Artist>Ciruelo</Artist>
+<Multiverseid>397634</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>10</No>
+<Name>Conviction</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return Conviction to its owner's hand.</CardText>
+<Flavor>It was not the minotaur's shoulders but his soul that bore the heaviest weight.</Flavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>397603</Multiverseid>
+<Rulings>2018/12/07: Players don't have priority to cast spells and activate abilities between combat damage being assigned and being dealt. This means that if you want to return <Conviction> to its owner's hand before combat damage is dealt, you must do so before combat damage is assigned (and the creature will no longer get +1/+3).
+2018/12/07: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to the enchanted creature may become lethal if you return <Conviction> to its owner's hand during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>11</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Flavor>The swarm seemed unmoved by the artificial slivers' destruction. "They clearly were not the leaders," Hanna cursed. "I guess we'll have to do this the hard way."</Flavor>
+<Artist>Allen Williams</Artist>
+<Multiverseid>397544</Multiverseid>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>12</No>
+<Name>Exalted Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+Exalted Dragon can't attack unless you sacrifice a land. (This cost is paid as attackers are declared.)</CardText>
+<Flavor>If dragons excel at anything more than vanity, it is greed.</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397601</Multiverseid>
+<Rulings>2004/10/04: You have to sacrifice a land at the time you declare this creature as an attacker if you want it to attack. This is additive with any other attack costs.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>13</No>
+<Name>Field of Souls</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Whenever a nontoken creature is put into your graveyard from the battlefield, create a 1/1 white Spirit creature token with flying.</CardText>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>397645</Multiverseid>
+<Rulings>2016/06/08: A creature card that you own but don't control will be put into your graveyard if that creature dies, and <Field of Souls>'s ability will trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>14</No>
+<Name>Gallantry</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Target blocking creature gets +4/+4 until end of turn.
+Draw a card.</CardText>
+<Flavor>"Forgive me," Mirri whispered. "I thought you a burden, and you saved my life." Hanna quietly accepted the apology.</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>397554</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>15</No>
+<Name>Gerrard's Battle Cry</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{2}{W}: Creatures you control get +1/+1 until end of turn.</CardText>
+<Flavor>Gerrard grinned and drew his sword. "This won't be a fair fight," he called to his crew. "They should have brought a second ship!"</Flavor>
+<Artist>Val Mayerik</Artist>
+<Multiverseid>397481</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>16</No>
+<Name>Humility</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>All creatures lose all abilities and have base power and toughness 1/1.</CardText>
+<Flavor>"One cannot cleanse the wounds of failure."
+—Karn, silver golem</Flavor>
+<Artist>Phil Foglio</Artist>
+<Multiverseid>397614</Multiverseid>
+<Rulings>2006/02/01: With a <Humility> and two Opalescences on the battlefield, if <Humility> has the latest timestamp, then all creatures are 1/1 with no abilities. If the timestamp order is Opalescence, <Humility>, Opalescence, the second Opalescence is 1/1, and the <Humility> and first Opalescence are 4/4. If <Humility> has the earliest timestamp, then everything is 4/4.
+2007/02/01: Removes all creature abilities. This includes mana abilities. Animated lands will also lose the ability to tap for mana.
+2009/10/01: This is the current interaction between <Humility> and Opalescence: The type-changing effect applies at layer 4, but the rest happens in the applicable layers. The rest of it will apply even if the permanent loses its ability before it's finished applying. So if Opalescence, <Humility>, and Worship are on the battlefield and Opalescence entered the battlefield before <Humility>, the following is true: Layer 4: <Humility> and Worship each become creatures that are still enchantments. (Opalescence). Layer 6: <Humility> and Worship each lose their abilities. (<Humility>) Layer 7b: <Humility> becomes 4/4 and Worship becomes 4/4. (Opalescence). <Humility> becomes 1/1 and Worship becomes 1/1 (<Humility>). But if <Humility> entered the battlefield before Opalescence, the following is true: Layer 4: <Humility> and Worship each become creatures that are still enchantments (Opalescence). Layer 6: <Humility> and Worship each lose their abilities (<Humility>). Layer 7b: <Humility> becomes 1/1 and Worship becomes 1/1 (<Humility>). <Humility> becomes 4/4 and Worship becomes 4/4 (Opalescence).
+2009/10/01: You apply power/toughness changing effects in a series of sublayers in the following order: (a) effects from characteristic-defining abilities; (b) effects that set power and/or toughness to a specific number or value; (c) effects that modify power and/or toughness but don't set power and/or toughness to a specific number or value; (d) changes from counters; (e) effects that switch a creature's power and toughness. This card's effect is always applied in (b), which means that effects applied in sublayer (c), (d), or (e) will not be overwritten; they will be applied to the new value.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>17</No>
+<Name>Kor Chant</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.</CardText>
+<Flavor>The true treasure no thief can touch.</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397541</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>18</No>
+<Name>Master Decoy</Name>
+<Type>Creature — Human Soldier 1/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{W}, {T}: Tap target creature.</CardText>
+<Flavor>"A skilled decoy can throw your enemies off your trail. A master decoy can survive to do it again."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Phil Foglio</Artist>
+<Multiverseid>397588</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>19</No>
+<Name>Mounted Archers</Name>
+<Type>Creature — Human Soldier Archer 2/3</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Reach (This creature can block creatures with flying.)
+{W}: Mounted Archers can block an additional creature this turn.</CardText>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397510</Multiverseid>
+<Rulings>2004/10/04: You can use the ability multiple times so it can block more than two creatures.
+2008/04/01: This card now uses the Reach keyword ability to enable the blocking of flying creatures. This works because a creature with flying can only be blocked by creatures with flying or reach.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>20</No>
+<Name>Nomads en-Kor</Name>
+<Type>Creature — Kor Nomad Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.</CardText>
+<Flavor>The kor forsake roots for the winding of the path, forsake voices for the silence of the mind, forsake all else for the poverty of isolation.</Flavor>
+<Artist>Val Mayerik</Artist>
+<Multiverseid>397520</Multiverseid>
+<Rulings>2004/10/04: The ability of this card does not do anything to stop Trample damage from being assigned to the defending player.
+2004/10/04: It can redirect damage to itself.
+2004/10/04: It is possible to redirect more damage to a creature than that creature's toughness.
+2004/10/04: You can use this ability as much as you want prior to damage being dealt.
+2013/07/01: When you redirect combat damage it is still combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>21</No>
+<Name>Orim, Samite Healer</Name>
+<Type>Legendary Creature — Human Cleric 1/3</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>{T}: Prevent the next 3 damage that would be dealt to any target this turn.</CardText>
+<Flavor>"The silkworm spins itself a new existence. So the healer weaves the threads of life."
+—Orim, Samite healer</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>397460</Multiverseid>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>22</No>
+<Name>Pacifism</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block.</CardText>
+<Flavor>Frozen by conscience, Karn did not resist as the moggs carried him to the Predator.</Flavor>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397528</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>23</No>
+<Name>Paladin en-Vec</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)</CardText>
+<Flavor>"Our belief shall be the lance that pierces Volrath's heart."</Flavor>
+<Artist>Randy Elliott</Artist>
+<Multiverseid>397600</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>24</No>
+<Name>Pegasus Stampede</Name>
+<Type>Sorcery</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Create a 1/1 white Pegasus creature token with flying.</CardText>
+<Artist>Mark Zug</Artist>
+<Multiverseid>397430</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>25</No>
+<Name>Repentance</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Target creature deals damage to itself equal to its power.</CardText>
+<Flavor>"The cannon wasn't aimed at you!" pleaded Vhati. "I'm not sure which is more pathetic," replied Greven, "your judgment or your aim."</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397644</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>26</No>
+<Name>Shackles</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+{W}: Return Shackles to its owner's hand.</CardText>
+<Flavor>Shackles of gold are still shackles.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>397403</Multiverseid>
+<Rulings>2004/10/04: <Shackles> does not tap the creature when it enters the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>27</No>
+<Name>Shaman en-Kor</Name>
+<Type>Creature — Kor Cleric Shaman 1/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.
+{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.</CardText>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>397648</Multiverseid>
+<Rulings>2004/10/04: The ability of this card does not do anything to stop Trample damage from being assigned to the defending player.
+2004/10/04: It can redirect damage to itself.
+2004/10/04: It is possible to redirect more damage to a creature than that creature's toughness.
+2004/10/04: You can use this ability as much as you want prior to damage being dealt.
+2013/07/01: When you redirect combat damage it is still combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>28</No>
+<Name>Smite</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Destroy target blocked creature.</CardText>
+<Flavor>"You've got your childhood wish at last. Now you get to die."
+—Gerrard, to Volrath</Flavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397527</Multiverseid>
+<Rulings>2010/06/15: A "blocked creature" is an attacking creature that has been blocked by a creature this combat, or has become blocked as the result of a spell or ability this combat. Unless the attacking creature leaves combat, it continues to be a blocked creature through the end of combat step, even if the creature or creatures that blocked it are no longer on the battlefield or have otherwise left combat by then.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>29</No>
+<Name>Soltari Champion</Name>
+<Type>Creature — Soltari Soldier 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Soltari Champion attacks, other creatures you control get +1/+1 until end of turn.</CardText>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397487</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>30</No>
+<Name>Soltari Lancer</Name>
+<Type>Creature — Soltari Knight 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Soltari Lancer has first strike as long as it's attacking.</CardText>
+<Flavor>"In times of war the victors rarely save their best for last."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397483</Multiverseid>
+<Rulings>2008/04/01: For a time, the ability that granted it first strike was a triggered ability. It has been restored to a static ability that applies continuously while the Lancer is attacking. There is never a time when the Lancer is attacking but doesn't have first strike.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>31</No>
+<Name>Soltari Monk</Name>
+<Type>Creature — Soltari Monk Cleric 2/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from black
+Shadow (This creature can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>"Prayer rarely explains."
+—Orim, Samite healer</Flavor>
+<Artist>Janet Aulisio</Artist>
+<Multiverseid>397592</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>32</No>
+<Name>Soltari Priest</Name>
+<Type>Creature — Soltari Cleric 2/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from red
+Shadow (This creature can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>"In Rath," the priest said, "there is even greater need for prayer."</Flavor>
+<Artist>Janet Aulisio</Artist>
+<Multiverseid>397657</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>33</No>
+<Name>Soltari Trooper</Name>
+<Type>Creature — Soltari Soldier 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn.</CardText>
+<Flavor>"Dauthi blood is soltari wine."
+—Soltari Tales of Life</Flavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397452</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>34</No>
+<Name>Spirit en-Kor</Name>
+<Type>Creature — Kor Spirit 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.</CardText>
+<Flavor>Death free throat from thirst, mouth from speech, feet from earth.
+—Kor requiem</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397638</Multiverseid>
+<Rulings>2004/10/04: The ability of this card does not do anything to stop Trample damage from being assigned to the defending player.
+2004/10/04: It can redirect damage to itself.
+2004/10/04: It is possible to redirect more damage to a creature than that creature's toughness.
+2004/10/04: You can use this ability as much as you want prior to damage being dealt.
+2013/07/01: When you redirect combat damage it is still combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>35</No>
+<Name>Spirit Mirror</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, create a 2/2 white Reflection creature token.
+{0}: Destroy target Reflection.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>397646</Multiverseid>
+<Rulings>2004/10/04: It checks if there are any Reflection tokens on the battlefield at the beginning of upkeep, and if there are it will not trigger at all. It will check again on resolution and will do nothing if a Reflection is on the battlefield at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>36</No>
+<Name>Standing Troops</Name>
+<Type>Creature — Human Soldier 1/4</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Vigilance</CardText>
+<Flavor>The less you have, the harder you fight for it.</Flavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397627</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>37</No>
+<Name>Staunch Defenders</Name>
+<Type>Creature — Human Soldier 3/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>When Staunch Defenders enters the battlefield, you gain 4 life.</CardText>
+<Flavor>"Hold your position! Leave doubt for the dying!"
+—Tahngarth of the Weatherlight</Flavor>
+<Artist>Mark Poole</Artist>
+<Multiverseid>397552</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>38</No>
+<Name>Wall of Essence</Name>
+<Type>Creature — Wall 0/4</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Whenever Wall of Essence is dealt combat damage, you gain that much life.</CardText>
+<Flavor>The ceiling and the floor fell in love, but only the wall knew.
+—Dal saying</Flavor>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397439</Multiverseid>
+<Rulings>2014/07/18: <Wall of Essence>'s triggered ability will trigger even if it's dealt lethal damage. For example, if it's dealt 7 combat damage, its ability will trigger and you'll gain 7 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>39</No>
+<Name>Warrior en-Kor</Name>
+<Type>Creature — Kor Warrior Knight 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.</CardText>
+<Flavor>Only a matter as vital as destroying Volrath could bring together the reclusive kor people.</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397402</Multiverseid>
+<Rulings>2004/10/04: The ability of this card does not do anything to stop Trample damage from being assigned to the defending player.
+2004/10/04: It can redirect damage to itself.
+2004/10/04: It is possible to redirect more damage to a creature than that creature's toughness.
+2004/10/04: You can use this ability as much as you want prior to damage being dealt.
+2013/07/01: When you redirect combat damage it is still combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>40</No>
+<Name>Winds of Rath</Name>
+<Type>Sorcery</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Destroy all creatures that aren't enchanted. They can't be regenerated.</CardText>
+<Flavor>"There shall be a vast shout and then a vaster silence."
+—Oracle en-Vec</Flavor>
+<Artist>Drew Tucker</Artist>
+<Multiverseid>397606</Multiverseid>
+<Rulings>2005/08/01: A creature is "enchanted" if it has any Auras attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>41</No>
+<Name>Youthful Knight</Name>
+<Type>Creature — Human Knight 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>First strike</CardText>
+<Flavor>"Let no child be without a sword. We will all fight, for if we fail, we will certainly all die."
+—Oracle en-Vec</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>397413</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>42</No>
+<Name>Capsize</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Return target permanent to its owner's hand.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>397492</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>43</No>
+<Name>Counterspell</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Flavor>"It was probably a lousy spell in the first place."
+—Ertai, wizard adept</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397612</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>44</No>
+<Name>Curiosity</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</CardText>
+<Flavor>All Mirri wanted to do was rest, but she couldn't ignore a nagging suspicion as she followed Crovax's skulking form.</Flavor>
+<Artist>Val Mayerik</Artist>
+<Multiverseid>397447</Multiverseid>
+<Rulings>2011/09/22: "You" refers to the controller of <Curiosity>, which may be different from the controller of the enchanted creature. "An opponent" refers to an opponent of <Curiosity>'s controller.
+2011/09/22: Any damage dealt by the enchanted creature to an opponent will cause <Curiosity> to trigger, not just combat damage.
+2011/09/22: <Curiosity> doesn't trigger if the enchanted creature deals damage to a planeswalker controlled by an opponent.
+2018/03/16: You draw one card each time the enchanted creature deals damage to an opponent, no matter how much damage it deals or whether it was dealt in combat.
+2018/03/16: If this Aura enchants an opponent's creature, you won't draw a card when that creature damages you. The creature has to deal damage to one of your opponents for the ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>45</No>
+<Name>Dismiss</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Counter target spell.
+Draw a card.</CardText>
+<Flavor>"There is nothing you can do that I cannot simply deny."
+—Ertai, wizard adept</Flavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>397545</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>46</No>
+<Name>Dream Halls</Name>
+<Type>Enchantment</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.</CardText>
+<Flavor>Within without.</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397553</Multiverseid>
+<Rulings>2004/10/04: This only replaces the mana cost (the mana in the upper right hand corner of the card). It will not pay additional costs from the card text (such as Buyback) or from other effects. It does not prevent you from paying those additional costs if you want or need to.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>47</No>
+<Name>Dream Prowler</Name>
+<Type>Creature — Illusion 1/5</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Dream Prowler can't be blocked as long as it's attacking alone.</CardText>
+<Flavor>"To think that some find sleep a restful state."
+—Volrath</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>397558</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>48</No>
+<Name>Ephemeron</Name>
+<Type>Creature — Illusion 4/4</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Flying
+Discard a card: Return Ephemeron to its owner's hand.</CardText>
+<Flavor>From nothing came teeth.</Flavor>
+<Artist>Keith Parkinson</Artist>
+<Multiverseid>397565</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>49</No>
+<Name>Fighting Drake</Name>
+<Type>Creature — Drake 2/4</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Two things are needed to survive the harsh skies of Rath: a thick hide and a thicker skull.</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397491</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>50</No>
+<Name>Forbid</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Counter target spell.</CardText>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>397532</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>51</No>
+<Name>Gaseous Form</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.</CardText>
+<Flavor>"It's hard to hurt anyone when you're as transparent as your motives."
+—Ertai, wizard adept</Flavor>
+<Artist>Roger Raupp</Artist>
+<Multiverseid>397497</Multiverseid>
+<Rulings>2016/06/08: The enchanted creature can still attack and block.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>52</No>
+<Name>Hammerhead Shark</Name>
+<Type>Creature — Fish 2/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Hammerhead Shark can't attack unless defending player controls an Island.</CardText>
+<Flavor>Cross the eyes of a hammerhead and you'll dot its teeth.</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397472</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>53</No>
+<Name>Horned Turtle</Name>
+<Type>Creature — Turtle 1/4</Type>
+<ManaCost>2U (3)</ManaCost>
+<Flavor>"So like men are they: a hardened shell with fragile flesh beneath."
+—Selenia, dark angel</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397526</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>54</No>
+<Name>Intuition</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.</CardText>
+<Artist>April Lee</Artist>
+<Multiverseid>397633</Multiverseid>
+<Rulings>2006/07/15: Targets an opponent. You choose an opponent during announcement. If you can't target an opponent, you can't cast this card.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>55</No>
+<Name>Killer Whale</Name>
+<Type>Creature — Whale 3/5</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>{U}: Killer Whale gains flying until end of turn.</CardText>
+<Flavor>Hunger is like the sea: deep, endless, and unforgiving.</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397618</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>56</No>
+<Name>Legacy's Allure</Name>
+<Type>Enchantment</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>At the beginning of your upkeep, you may put a treasure counter on Legacy's Allure.
+Sacrifice Legacy's Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy's Allure. (This effect lasts indefinitely.)</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397409</Multiverseid>
+<Rulings>2004/10/04: The "power less than or equal to the number of treasure counters on this card" restriction is a targeting restriction and will be checked on resolution in addition to on announcement. If the creature's power changes to be greater than this before the effect resolves, then the <Legacy's Allure> triggered ability doesn't resolve, but the card stays in the graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>57</No>
+<Name>Legerdemain</Name>
+<Type>Sorcery</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Exchange control of target artifact or creature and another target permanent that shares one of those types with it. (This effect lasts indefinitely.)</CardText>
+<Flavor>Squee tucked the warm ball in his pocket and slipped a pebble in its place. "Glok," he mumbled, and hid.</Flavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397503</Multiverseid>
+<Rulings>2008/04/01: You can't cast <Legerdemain> unless both targets share a type at that time. It will also check to make sure they share a type as it resolves. If they no longer do so, the exchange will not occur.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>58</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>"The fatal flaw in every plan is the assumption that you know more than your enemy."
+—Volrath</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>397471</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>59</No>
+<Name>Mawcor</Name>
+<Type>Creature — Beast 3/3</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying
+{T}: Mawcor deals 1 damage to any target.</CardText>
+<Flavor>From its maw comes neither word nor whisper—only wind.</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397511</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>60</No>
+<Name>Meditate</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Draw four cards. You skip your next turn.</CardText>
+<Flavor>"Part of me believes that Barrin taught me meditation simply to shut me up."
+—Ertai, wizard adept</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>397394</Multiverseid>
+<Rulings>2004/10/04: You skip one turn as part of the effect.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>61</No>
+<Name>Merfolk Looter</Name>
+<Type>Creature — Merfolk Rogue 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{T}: Draw a card, then discard a card.</CardText>
+<Flavor>In the depths of Rootwater, salvage and sewage differ only in texture.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397427</Multiverseid>
+<Rulings>2018/03/16: You can't do anything in between drawing a card and discarding a card, including casting or cycling the card you drew.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>62</No>
+<Name>Mnemonic Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>All Slivers have "{2}, Sacrifice this permanent: Draw a card."</CardText>
+<Flavor>"A jigsaw puzzle that lives, breeds, and thinks."
+—Hanna, Weatherlight navigator</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397643</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>63</No>
+<Name>Rootwater Hunter</Name>
+<Type>Creature — Merfolk 1/1</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>{T}: Rootwater Hunter deals 1 damage to any target.</CardText>
+<Flavor>"Bitter water, vicious wave; Shadow-cold shallows, root-made maze. Home's angry embrace."
+—Rootwater Saga</Flavor>
+<Artist>Brom</Artist>
+<Multiverseid>397607</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>64</No>
+<Name>Scrivener</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.</CardText>
+<Flavor>"History is a potent weapon."
+—Karn, silver golem</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>397587</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>65</No>
+<Name>Sea Monster</Name>
+<Type>Creature — Serpent 6/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Sea Monster can't attack unless defending player controls an Island.</CardText>
+<Flavor>Water is life. Or perhaps it is just something to wash it down with.</Flavor>
+<Artist>Daniel Gelon</Artist>
+<Multiverseid>397516</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>66</No>
+<Name>Shadow Rift</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Draw a card.</CardText>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397405</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>67</No>
+<Name>Sift</Name>
+<Type>Sorcery</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Draw three cards, then discard a card.</CardText>
+<Flavor>"Twice I have let the Legacy slip away. Never again."
+—Karn, silver golem</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397514</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>68</No>
+<Name>Silver Wyvern</Name>
+<Type>Creature — Drake 4/3</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying
+{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.</CardText>
+<Artist>Colin MacNeil</Artist>
+<Multiverseid>397484</Multiverseid>
+<Rulings>2004/10/04: You must pick a legal target when redirecting the spell or ability.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>69</No>
+<Name>Spell Blast</Name>
+<Type>Instant</Type>
+<ManaCost>XU (1)</ManaCost>
+<CardText>Counter target spell with converted mana cost X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)</CardText>
+<Flavor>Call it the thinking mage's version of brute force.</Flavor>
+<Artist>Steve Luke</Artist>
+<Multiverseid>397501</Multiverseid>
+<Rulings>2013/07/01: Alternative costs, additional costs, cost increases, and cost reductions don't affect a spell's converted mana cost.
+2013/07/01: If the target spell has {X} in its mana cost, include the value chosen for that X when determining the value of the {X} in <Spell Blast>'s mana cost. For example, if you wish to counter Volcanic Geyser (a spell with mana cost {X}{R}{R}) whose X is 7, you'll need to choose 9 for <Spell Blast>'s X and pay {9}{U}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>70</No>
+<Name>Thalakos Drifters</Name>
+<Type>Creature — Thalakos 3/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Discard a card: Thalakos Drifters gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>They drift in and out of shadow and ever on toward madness.</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Multiverseid>397630</Multiverseid>
+<Rulings>2004/10/04: The reminder text is only accurate when this card has Shadow.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>71</No>
+<Name>Thalakos Scout</Name>
+<Type>Creature — Thalakos Soldier Scout 2/1</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Discard a card: Return Thalakos Scout to its owner's hand.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397474</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>72</No>
+<Name>Thalakos Seer</Name>
+<Type>Creature — Thalakos Wizard 1/1</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+When Thalakos Seer leaves the battlefield, draw a card.</CardText>
+<Flavor>"You see our world when you shut your eyes so tightly that tiny shapes float before them."
+—Lyna, to Ertai</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397525</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>73</No>
+<Name>Time Ebb</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Put target creature on top of its owner's library.</CardText>
+<Flavor>"Gone today, here tomorrow."
+—Ertai, wizard adept</Flavor>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>397608</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>74</No>
+<Name>Time Warp</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Target player takes an extra turn after this one.</CardText>
+<Flavor>"Let's do it again!"
+—Squee, goblin cabin hand</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397391</Multiverseid>
+<Rulings>2004/10/04: If multiple "extra turn" effects resolve in the same turn, take them in the reverse of the order that the effects resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>75</No>
+<Name>Tradewind Rider</Name>
+<Type>Creature — Spirit 1/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying
+{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand.</CardText>
+<Flavor>It is said that the wind will blow the world past if you wait long enough.</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397576</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>76</No>
+<Name>Twitch</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>You may tap or untap target artifact, creature, or land.
+Draw a card.</CardText>
+<Flavor>Battles are won in nuance.</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397420</Multiverseid>
+<Rulings>2010/03/01: If the targeted permanent is an illegal target by the time <Twitch> resolves, the entire spell doesn't resolve. You don't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>77</No>
+<Name>Volrath's Curse</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated. That creature's controller may sacrifice a permanent for that player to ignore this effect until end of turn.
+{1}{U}: Return Volrath's Curse to its owner's hand.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397637</Multiverseid>
+<Rulings>2004/10/04: If the creature this card is on is sacrificed to this card, this card is put into the graveyard before the ability to unsummon it can be used.
+2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>78</No>
+<Name>Wayward Soul</Name>
+<Type>Creature — Spirit 3/2</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+{U}: Put Wayward Soul on top of its owner's library.</CardText>
+<Flavor>"No home, no heart, no hope."
+—Stronghold graffito</Flavor>
+<Artist>M. W. Kaluta & DiTerlizzi</Artist>
+<Multiverseid>397593</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>79</No>
+<Name>Whispers of the Muse</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Draw a card.</CardText>
+<Flavor>"I followed her song only to find it was a dirge."
+—Crovax</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>397548</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>80</No>
+<Name>Wind Dancer</Name>
+<Type>Creature — Faerie 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+{T}: Target creature gains flying until end of turn.</CardText>
+<Flavor>"Flying like a bird does not make you as free as one."
+—Volrath</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Multiverseid>397478</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>81</No>
+<Name>Wind Drake</Name>
+<Type>Creature — Drake 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Orim regarded Gerrard coolly. "You are like the drake," she said, her expression unchanging. "It works hard to maintain its position, but to us it seems to glide along effortlessly. You must do the same."</Flavor>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>397626</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>82</No>
+<Name>Winged Sliver</Name>
+<Type>Creature — Sliver 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>All Sliver creatures have flying.</CardText>
+<Flavor>"Everything around here has cut a deal with gravity."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Anthony S. Waters</Artist>
+<Multiverseid>397579</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>83</No>
+<Name>Cannibalize</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.</CardText>
+<Flavor>"Mine."</Flavor>
+<Artist>Robert Bliss</Artist>
+<Multiverseid>397631</Multiverseid>
+<Rulings>2008/05/01: You choose the two target creatures during announcement. You choose which gets the counters and which is to get exiled on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>84</No>
+<Name>Carnophage</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>At the beginning of your upkeep, tap Carnophage unless you pay 1 life.</CardText>
+<Flavor>Eating is all it knows.</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397570</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>85</No>
+<Name>Clot Sliver</Name>
+<Type>Creature — Sliver 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>All Slivers have "{2}: Regenerate this permanent."</CardText>
+<Flavor>"One would think I would be accustomed to unexpected returns."
+—Hanna, Weatherlight navigator</Flavor>
+<Artist>Jeff Laubenstein</Artist>
+<Multiverseid>397636</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>86</No>
+<Name>Coercion</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Target opponent reveals their hand. You choose a card from it. That player discards that card.</CardText>
+<Flavor>"There's very little that escapes me, Greven. And you will escape very little if you fail."
+—Volrath</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397509</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>87</No>
+<Name>Coffin Queen</Name>
+<Type>Creature — Zombie Wizard 1/1</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>You may choose not to untap Coffin Queen during your untap step.
+{2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>397562</Multiverseid>
+<Rulings>2004/10/04: If the creature put onto the battlefield leaves the battlefield, the tracking effect ends and the creature will no longer be exiled if something happens to the <Coffin Queen>.
+2004/10/04: If the creature put onto the battlefield phases out, the tracking effect continues when it phases back in if the <Coffin Queen> is still on the battlefield. If the Queen left the battlefield while the creature was phased out, the creature phases in as normal.
+2014/02/01: If <Coffin Queen> leaves the battlefield before its ability resolves, the delayed trigger condition can never be fulfilled, so the creature will not be exiled. If <Coffin Queen> is untapped when its ability resolves, the creature will not be exiled until the next time <Coffin Queen> becomes untapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>88</No>
+<Name>Commander Greven il-Vec</Name>
+<Type>Legendary Creature — Human Warrior 7/5</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Commander Greven il-Vec enters the battlefield, sacrifice a creature.</CardText>
+<Flavor>"Rage is the only freedom left to me."</Flavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397539</Multiverseid>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>89</No>
+<Name>Corpse Dance</Name>
+<Type>Instant</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>397625</Multiverseid>
+<Rulings>2004/10/04: <Corpse Dance> only exiles the card if the card is still on the battlefield at the beginning of the end step.
+2008/04/01: The effect only grants Haste until the end of the current turn. If the creature somehow manages to stick around until a later turn, it will no longer have Haste.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>90</No>
+<Name>Crovax the Cursed</Name>
+<Type>Legendary Creature — Vampire 0/0</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Crovax the Cursed enters the battlefield with four +1/+1 counters on it.
+At the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax.
+{B}: Crovax gains flying until end of turn.</CardText>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397613</Multiverseid>
+<Rulings>2004/10/04: Crovax can sacrifice itself to its upkeep triggered ability.
+2004/10/04: You can only sacrifice one creature to it each turn.
+2004/10/04: If you choose not to sacrifice a creature and he has no +1/+1 counters, then nothing bad happens. Note that some other effect must be keeping him alive if he has no counters.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>91</No>
+<Name>Cursed Flesh</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets -1/-1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</CardText>
+<Flavor>A farewell to arms . . . and feet . . . and legs . . .</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397412</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>92</No>
+<Name>Dark Banishing</Name>
+<Type>Instant</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Destroy target nonblack creature. It can't be regenerated.</CardText>
+<Flavor>"It is the way of most wizards to begin by exiling themselves and to end by exiling everyone else."
+—Hanna, Weatherlight navigator</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397458</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>93</No>
+<Name>Dark Ritual</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Add {B}{B}{B}.</CardText>
+<Flavor>"If there is such a thing as too much power, I have not discovered it."
+—Volrath</Flavor>
+<Artist>Ken Meyer, Jr.</Artist>
+<Multiverseid>397401</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>94</No>
+<Name>Dauthi Horror</Name>
+<Type>Creature — Dauthi Horror 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Horror can't be blocked by white creatures.</CardText>
+<Artist>Jeff Laubenstein</Artist>
+<Multiverseid>397594</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>95</No>
+<Name>Dauthi Jackal</Name>
+<Type>Creature — Dauthi Jackal 2/1</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.</CardText>
+<Flavor>"All dauthi are jackals, regardless of breed."
+—Lyna, soltari emissary</Flavor>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397473</Multiverseid>
+<Rulings>2004/10/04: This creature does not have to be an attacker or blocker to use its ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>96</No>
+<Name>Dauthi Marauder</Name>
+<Type>Creature — Dauthi Minion 3/1</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>"The dauthi came from beneath the ruins one night, and the darkness cast them in the best possible light."
+—Soltari Tales of Life</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Multiverseid>397395</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>97</No>
+<Name>Dauthi Slayer</Name>
+<Type>Creature — Dauthi Soldier 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Slayer attacks each combat if able.</CardText>
+<Flavor>"They have knives for every soul."
+—Lyna, soltari emissary</Flavor>
+<Artist>Dermot Power</Artist>
+<Multiverseid>397417</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>98</No>
+<Name>Dauthi Warlord</Name>
+<Type>Creature — Dauthi Soldier */1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.</CardText>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397508</Multiverseid>
+<Rulings>2004/10/04: <Dauthi Warlord> counts creatures with the Shadow ability controlled by all players.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>99</No>
+<Name>Death Pits of Rath</Name>
+<Type>Enchantment</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Whenever a creature is dealt damage, destroy it. It can't be regenerated.</CardText>
+<Flavor>As the sludge below began to shift and take shapes, Gerrard turned from the railing to Orim. "I suppose," he said, "it's a little too late for prayer, isn't it?"</Flavor>
+<Artist>Joel Biske</Artist>
+<Multiverseid>397493</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>100</No>
+<Name>Death Stroke</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Destroy target tapped creature.</CardText>
+<Flavor>For a sharp second, Selenia froze, and Crovax's blade found home. As the angel shattered like glass, Crovax felt his mind collapse—the curse had been fulfilled.</Flavor>
+<Artist>Colin MacNeil</Artist>
+<Multiverseid>397559</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>101</No>
+<Name>Death's Duet</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Return two target creature cards from your graveyard to your hand.</CardText>
+<Flavor>Life has always been a dance. It is only fitting that death sing the tune.</Flavor>
+<Artist>Keith Parkinson</Artist>
+<Multiverseid>397632</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>102</No>
+<Name>Diabolic Edict</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Target player sacrifices a creature.</CardText>
+<Flavor>Greven il-Vec lifted Vhati off his feet. "The fall will give you time to think on your failure."</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397522</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>103</No>
+<Name>Dungeon Shade</Name>
+<Type>Creature — Shade Spirit 1/1</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Flying
+{B}: Dungeon Shade gets +1/+1 until end of turn.</CardText>
+<Flavor>A sickness stirs in its eyes, a nightmare born in darkened wails.</Flavor>
+<Artist>Jason Alexander Behnke</Artist>
+<Multiverseid>397500</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>104</No>
+<Name>Evincar's Justice</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Evincar's Justice deals 2 damage to each creature and each player.</CardText>
+<Artist>Hannibal King</Artist>
+<Multiverseid>397615</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>105</No>
+<Name>Fugue</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Target player discards three cards.</CardText>
+<Flavor>"My ship . . . ," Sisay mumbled. "Intact," Gerrard reassured her, "which is more than I can say for you, my friend." Sisay laughed despite the pain.</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397502</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>106</No>
+<Name>Gravedigger</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</CardText>
+<Flavor>A full coffin is like a full coffer—both are attractive to thieves.</Flavor>
+<Artist>Dermot Power</Artist>
+<Multiverseid>397518</Multiverseid>
+<Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>107</No>
+<Name>Kezzerdrix</Name>
+<Type>Creature — Rabbit Beast 4/4</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>First strike
+At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.</CardText>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397470</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>108</No>
+<Name>Lab Rats</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Create a 1/1 black Rat creature token.</CardText>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397640</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>109</No>
+<Name>Living Death</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.</CardText>
+<Artist>Charles Gillespie</Artist>
+<Multiverseid>397523</Multiverseid>
+<Rulings>2018/03/16: As <Living Death> resolves, all players exile their creature cards from graveyards at the same time. Then all players sacrifice all creatures they control at the same time. Then all players put all creatures they exiled onto the battlefield at the same time.
+2018/03/16: Only cards exiled by <Living Death>'s first instruction are put onto the battlefield. If a replacement effect (such as that of Leyline of the Void) causes any of the sacrificed creatures to be exiled instead of put into a graveyard, those cards aren't returned to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>110</No>
+<Name>Necrologia</Name>
+<Type>Instant</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Cast this spell only during your end step.
+As an additional cost to cast this spell, pay X life.
+Draw X cards.</CardText>
+<Flavor>"My enemies' death yields threefold benefit: removal, reuse, and research."
+—Volrath</Flavor>
+<Artist>Brom</Artist>
+<Multiverseid>397595</Multiverseid>
+<Rulings>2004/10/04: This spell is cast during the End step. Since you discard down to 7 cards in the cleanup step, this card is used before the discard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>111</No>
+<Name>Rats of Rath</Name>
+<Type>Creature — Rat 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{B}: Destroy target artifact, creature, or land you control.</CardText>
+<Flavor>"These creatures offer new challenges in the scrutiny of entrails."
+—Oracle en-Vec</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397611</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>112</No>
+<Name>Reanimate</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</CardText>
+<Flavor>"You will learn to earn death."
+—Volrath</Flavor>
+<Artist>Robert Bliss</Artist>
+<Multiverseid>397423</Multiverseid>
+<Rulings>2018/12/07: If a card in a player's graveyard has {X} in its mana cost, X is considered to be 0.
+2018/12/07: The amount of life you lose is determined by the converted mana cost of the card in your graveyard, not the creature once it's on the battlefield.
+2018/12/07: You lose life after the creature is already on the battlefield. Any abilities it has that interact with loss of life, such as that of Platinum Emperion, apply to that loss of life.
+2018/12/07: If any abilities trigger on the creature entering the battlefield, those abilities resolve after you lose life. If losing life results in you losing the game, those abilities won't resolve.
+2018/12/07: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, the creature you control from <Reanimate> is exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>113</No>
+<Name>Recurring Nightmare</Name>
+<Type>Enchantment</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>"I am confined by sleep and defined by nightmare."
+—Crovax</Flavor>
+<Artist>Jeff Laubenstein</Artist>
+<Multiverseid>397441</Multiverseid>
+<Rulings>2013/04/15: If you cast this as normal during your main phase, it will enter the battlefield and you'll receive priority. If no abilities trigger because of this, you can activate its ability immediately, before any other player has a chance to remove it from the battlefield.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>114</No>
+<Name>Revenant</Name>
+<Type>Creature — Spirit */*</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Flying
+Revenant's power and toughness are each equal to the number of creature cards in your graveyard.</CardText>
+<Flavor>"Not again."
+—Hans</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397475</Multiverseid>
+<Rulings>2015/06/22: The ability that defines <Revenant>'s power and toughness applies in all zones, not just the battlefield. If <Revenant> is in your graveyard, its ability will count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>115</No>
+<Name>Sarcomancy</Name>
+<Type>Enchantment</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>When Sarcomancy enters the battlefield, create a 2/2 black Zombie creature token.
+At the beginning of your upkeep, if there are no Zombies on the battlefield, Sarcomancy deals 1 damage to you.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397586</Multiverseid>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>116</No>
+<Name>Screeching Harpy</Name>
+<Type>Creature — Harpy Beast 2/2</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Flying
+{1}{B}: Regenerate Screeching Harpy.</CardText>
+<Flavor>"They are called 'fowl' for a reason."
+—Mirri of the Weatherlight</Flavor>
+<Artist>Una Fricker</Artist>
+<Multiverseid>397507</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>117</No>
+<Name>Serpent Warrior</Name>
+<Type>Creature — Snake Warrior 3/3</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>When Serpent Warrior enters the battlefield, you lose 3 life.</CardText>
+<Flavor>A hiss before dying.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397652</Multiverseid>
+<Rulings>2004/10/04: You can cast this if you have less than 3 life, since the life is lost as an effect and not a payment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>118</No>
+<Name>Skyshroud Vampire</Name>
+<Type>Creature — Vampire 3/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying
+Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.</CardText>
+<Flavor>"If it tastes one drop of elvish blood I will cast it from the shroud to see it burn."
+—Eladamri, Lord of Leaves</Flavor>
+<Artist>Gary Leach</Artist>
+<Multiverseid>397655</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>119</No>
+<Name>Spinal Graft</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature becomes the target of a spell or ability, destroy that creature. It can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397609</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>120</No>
+<Name>Stronghold Assassin</Name>
+<Type>Creature — Zombie Assassin 2/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>{T}, Sacrifice a creature: Destroy target nonblack creature.</CardText>
+<Flavor>The assassin sees only throats and hears only heartbeats.</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397450</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>121</No>
+<Name>Thrull Surgeon</Name>
+<Type>Creature — Thrull 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>"Just take a little off the top."</Flavor>
+<Artist>rk post</Artist>
+<Multiverseid>397393</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>122</No>
+<Name>Vampire Hounds</Name>
+<Type>Creature — Vampire Hound 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.</CardText>
+<Flavor>The hounds' barks are a horrifying chorus of screams, moans, and whispers.</Flavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397477</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>123</No>
+<Name>Wall of Souls</Name>
+<Type>Creature — Wall 0/4</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent or planeswalker.</CardText>
+<Flavor>"It is the nature of evil to turn you against yourself."
+—Starke</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397551</Multiverseid>
+<Rulings>2004/10/04: Redirected damage is still combat damage, so it will trigger on combat damage that is redirected to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>124</No>
+<Name>Aftershock</Name>
+<Type>Sorcery</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Destroy target artifact, creature, or land. Aftershock deals 3 damage to you.</CardText>
+<Flavor>"Every act of destruction has a repercussion."
+—Karn, silver golem</Flavor>
+<Artist>Hannibal King</Artist>
+<Multiverseid>397641</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>125</No>
+<Name>Anarchist</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.</CardText>
+<Flavor>"I'll take that. You won't need it when the revolution comes."</Flavor>
+<Artist>Brom</Artist>
+<Multiverseid>397533</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>126</No>
+<Name>Barbed Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."</CardText>
+<Flavor>Spans of spines leapt from one sliver to the next, forming a deadly hedge around the Weatherlight.</Flavor>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>397524</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>127</No>
+<Name>Canyon Wildcat</Name>
+<Type>Creature — Cat 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)</CardText>
+<Flavor>"Relative of yours?" Ertai teased. Mirri simply sneered.</Flavor>
+<Artist>Gary Leach</Artist>
+<Multiverseid>397566</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>128</No>
+<Name>Craven Giant</Name>
+<Type>Creature — Giant 4/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Craven Giant can't block.</CardText>
+<Flavor>What is high as a mountain and low as a snake? —Dal riddle</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>397583</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>129</No>
+<Name>Deadshot</Name>
+<Type>Sorcery</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Tap target creature. It deals damage equal to its power to another target creature.</CardText>
+<Flavor>"Carrion! Keep your distance. My blade will come to you!"
+—Crovax</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>397549</Multiverseid>
+<Rulings>2004/10/04: <Deadshot> can target a creature which is already tapped as its first target, and it will still damage the second target. This is because it taps that creature as an effect, not as a cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>130</No>
+<Name>Fanning the Flames</Name>
+<Type>Sorcery</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Fanning the Flames deals X damage to any target.</CardText>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397555</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>131</No>
+<Name>Flame Wave</Name>
+<Type>Sorcery</Type>
+<ManaCost>3RRRR (7)</ManaCost>
+<CardText>Flame Wave deals 4 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</CardText>
+<Flavor>"I hear the roaring of a wave whose waters are red and whose mists are black."
+—Oracle en-Vec</Flavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>397629</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>132</No>
+<Name>Flowstone Blade</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Enchant creature
+{R}: Enchanted creature gets +1/-1 until end of turn.</CardText>
+<Flavor>"Remember the fable of the elf who came upon a cave of gold. In trying to free the largest piece, she was crushed by its weight."
+—Karn, silver golem</Flavor>
+<Artist>Allen Williams</Artist>
+<Multiverseid>397494</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>133</No>
+<Name>Flowstone Mauler</Name>
+<Type>Creature — Beast 4/5</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Trample
+{R}: Flowstone Mauler gets +1/-1 until end of turn.</CardText>
+<Flavor>Once these horrifying creatures were perfected, there was no need for armodons.</Flavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>397617</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>134</No>
+<Name>Flowstone Wyvern</Name>
+<Type>Creature — Drake 3/3</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Flying
+{R}: Flowstone Wyvern gets +2/-2 until end of turn.</CardText>
+<Flavor>"Where I come from, stone stays on the ground."
+—Tahngarth of the Weatherlight</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397581</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>135</No>
+<Name>Furnace Brood</Name>
+<Type>Creature — Elemental 3/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{R}: Target creature can't be regenerated this turn.</CardText>
+<Flavor>Furnace air crackles with magmatic cackles.</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>397436</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>136</No>
+<Name>Goblin Bombardment</Name>
+<Type>Enchantment</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.</CardText>
+<Flavor>One mogg to aim the catapult, one mogg to steer the rock.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>397584</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>137</No>
+<Name>Kindle</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Kindle deals X damage to any target, where X is 2 plus the number of cards named Kindle in all graveyards.</CardText>
+<Flavor>Hope of deliverance is scorched by the fire of futility.</Flavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>397431</Multiverseid>
+<Rulings>2018/03/16: Because <Kindle> is still on the stack as you perform its instructions, it isn't in your graveyard and won't add to the amount of damage dealt.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>138</No>
+<Name>Lightning Blast</Name>
+<Type>Instant</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Lightning Blast deals 4 damage to any target.</CardText>
+<Flavor>"Those who fear the darkness have never seen what the light can do."
+—Selenia, dark angel</Flavor>
+<Artist>Richard Thomas</Artist>
+<Multiverseid>397444</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>139</No>
+<Name>Lowland Giant</Name>
+<Type>Creature — Giant 4/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<Flavor>"Faugh!" snorted Tahngarth. "Why would it make a meal of something like you?" Squee looked relieved. "No," he continued, "you'd make a much better toothpick."</Flavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>397572</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>140</No>
+<Name>Mage il-Vec</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{T}, Discard a card at random: Mage il-Vec deals 1 damage to any target.</CardText>
+<Flavor>Living below a flowstone foundry produces a disproportionate number of fire mages among the il.</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397599</Multiverseid>
+<Rulings>2004/10/04: You must discard a card as part of the activation cost. You can't announce the ability unless you have a card in hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>141</No>
+<Name>Magmasaur</Name>
+<Type>Creature — Elemental Dinosaur 0/0</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Magmasaur enters the battlefield with five +1/+1 counters on it.
+At the beginning of your upkeep, you may remove a +1/+1 counter from Magmasaur. If you don't, sacrifice Magmasaur and it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Multiverseid>397434</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>142</No>
+<Name>Maniacal Rage</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2 and can't block.</CardText>
+<Flavor>Only by sacrificing any semblance of defense could Gerrard best Greven.</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397568</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>143</No>
+<Name>Mogg Conscripts</Name>
+<Type>Creature — Goblin 2/2</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Mogg Conscripts can't attack unless you've cast a creature spell this turn.</CardText>
+<Flavor>"Torahn's horns! They've seen us. Now, statue, you must fight to save yourself!"
+—Tahngarth, aboard the Predator</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397404</Multiverseid>
+<Rulings>2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>144</No>
+<Name>Mogg Fanatic</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Sacrifice Mogg Fanatic: It deals 1 damage to any target.</CardText>
+<Flavor>"I got it! I got it! I—"</Flavor>
+<Artist>Brom</Artist>
+<Multiverseid>397498</Multiverseid>
+<Rulings>2016/06/08: Once <Mogg Fanatic> has dealt and been dealt combat damage, it's too late to activate its ability before it's destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>145</No>
+<Name>Mogg Flunkies</Name>
+<Type>Creature — Goblin 3/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Mogg Flunkies can't attack or block alone.</CardText>
+<Flavor>They'll attack whatever's in front of them—as long as you tell them where that is.</Flavor>
+<Artist>Brom</Artist>
+<Multiverseid>397534</Multiverseid>
+<Rulings>2018/03/16: If you control more than one <Mogg Flunkies>, they can attack or block together, even if no other creatures attack or block.
+2018/03/16: Although <Mogg Flunkies> can't attack alone, other attacking creatures don't have to attack the same player or planeswalker. For example, <Mogg Flunkies> could attack an opponent and another creature could attack a planeswalker that opponent controls. Similarly, other blocking creatures don't have to block the same creature that <Mogg Flunkies> blocks.
+2018/03/16: Once <Mogg Flunkies> has attacked or blocked, it will remain in combat even if you no longer control another attacking or blocking creature.
+2018/03/16: If an effect says that <Mogg Flunkies> attacks or blocks if able and you control another creature able to attack or block, you must attack or block with <Mogg Flunkies> and that creature.
+2018/03/16: In a Two-Headed Giant game, <Mogg Flunkies> can attack or block with a creature controlled by your teammate, even if no other creatures you control are attacking or blocking.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>146</No>
+<Name>Mogg Infestation</Name>
+<Type>Sorcery</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Destroy all creatures target player controls. For each creature that died this way, that player creates two 1/1 red Goblin creature tokens.</CardText>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397418</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>147</No>
+<Name>Mogg Maniac</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent or planeswalker.</CardText>
+<Flavor>Stand clear if he gets an itch.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>397480</Multiverseid>
+<Rulings>2004/10/04: If it blocks a trample creature, it only gets dealt damage equal to what is assigned to it. This means it will likely only get to deal 1 damage to the opponent.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>148</No>
+<Name>Ogre Shaman</Name>
+<Type>Creature — Ogre Shaman 3/3</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>{2}, Discard a card at random: Ogre Shaman deals 2 damage to any target.</CardText>
+<Flavor>Ogre shamans must be bright enough to learn their invocations and dim enough to use them.</Flavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>397465</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>149</No>
+<Name>Pandemonium</Name>
+<Type>Enchantment</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to any target of their choice.</CardText>
+<Flavor>"If we cannot live proudly, we die so!"
+—Eladamri, Lord of Leaves</Flavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397575</Multiverseid>
+<Rulings>2004/10/04: The triggered ability does not check the creature's power until the ability resolves. If the creature is not on the battlefield when the ability resolves, it does damage equal to the power of the creature right before it left the battlefield. This means that if a creature enters the battlefield which can destroy itself as a "enters the battlefield" ability, the order of resolution of the triggered abilities does not matter.
+2006/09/25: If player A controls <Pandemonium> when a creature enters the battlefield under player B's control, player A controls the triggered ability even though player B chooses the target and chooses whether to have the creature deal damage, which could be important if multiple abilities controlled by multiple players trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>150</No>
+<Name>Rathi Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.</CardText>
+<Flavor>Wrap the flame as twine, Kingdoms will be thine.</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>397602</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>151</No>
+<Name>Renegade Warlord</Name>
+<Type>Creature — Human Soldier 3/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>First strike
+Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.</CardText>
+<Flavor>"His tongue must be honey, the way he gathers ants to fight with him."
+—Volrath</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397463</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>152</No>
+<Name>Rolling Thunder</Name>
+<Type>Sorcery</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Rolling Thunder deals X damage divided as you choose among any number of targets.</CardText>
+<Flavor>"Such rage," thought Vhati, gazing up at the thunderhead from the Predator. "It is Greven's mind manifest."</Flavor>
+<Artist>Richard Thomas</Artist>
+<Multiverseid>397419</Multiverseid>
+<Rulings>2004/10/04: If X is greater than 0, you can't choose zero targets. You must choose between one and X targets. If X is 0, you can't choose any targets.
+2015/08/25: You choose how many targets <Rolling Thunder> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2015/08/25: If some, but not all, of the targets become illegal by the time <Rolling Thunder> tries to resolve, the original division of damage still applies, but no damage is dealt to illegal targets. If all the targets are illegal, the spell won't resolve.
+2015/08/25: If <Rolling Thunder> is copied, the copy will retain the original damage divsion. The spell or ability will likely allow you to choose new targets, but you can't change the way damage is divided.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>153</No>
+<Name>Sabertooth Wyvern</Name>
+<Type>Creature — Drake 3/2</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Flying, first strike</CardText>
+<Flavor>Most creatures grow out of their baby teeth, but sabertooth wyverns grow into theirs.</Flavor>
+<Artist>Keith Parkinson</Artist>
+<Multiverseid>397628</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>154</No>
+<Name>Sandstone Warrior</Name>
+<Type>Creature — Human Soldier Warrior 1/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)
+{R}: Sandstone Warrior gets +1/+0 until end of turn.</CardText>
+<Flavor>"I used to describe something stable as 'rock solid.' So much for that expression."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397464</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>155</No>
+<Name>Searing Touch</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Searing Touch deals 1 damage to any target.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>397530</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>156</No>
+<Name>Seething Anger</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature gets +3/+0 until end of turn.</CardText>
+<Artist>Val Mayerik</Artist>
+<Multiverseid>397651</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>157</No>
+<Name>Shadowstorm</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Shadowstorm deals 2 damage to each creature with shadow.</CardText>
+<Flavor>"You've not seen a storm until you've seen the kind that roars between worlds."
+—Lyna, soltari emissary</Flavor>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397537</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>158</No>
+<Name>Shard Phoenix</Name>
+<Type>Creature — Phoenix 2/2</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.</CardText>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>397414</Multiverseid>
+<Rulings>2005/08/01: You can return <Shard Phoenix> any time during your upkeep; this is not a beginning of upkeep triggered ability.
+2005/08/01: <Shard Phoenix> uses Last Known Information. If, for example, it was blue when it was sacrificed, the damage will come from a blue source.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>159</No>
+<Name>Shatter</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Destroy target artifact.</CardText>
+<Flavor>"Such fuss over machines, Gerrard. Remember that you are the prize of the Legacy. Throw away your toys!"
+—Orim, Samite healer</Flavor>
+<Artist>Jason Alexander Behnke</Artist>
+<Multiverseid>397429</Multiverseid>
+<Rulings>2004/10/04: Regenerating artifacts can regenerate from this.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>160</No>
+<Name>Spellshock</Name>
+<Type>Enchantment</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Whenever a player casts a spell, Spellshock deals 2 damage to that player.</CardText>
+<Flavor>A snap of fingers, a snap of teeth.</Flavor>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>397489</Multiverseid>
+<Rulings>2004/10/04: It affects all players, including you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>161</No>
+<Name>Spitting Hydra</Name>
+<Type>Creature — Hydra 0/0</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Spitting Hydra enters the battlefield with four +1/+1 counters on it.
+{1}{R}, Remove a +1/+1 counter from Spitting Hydra: It deals 1 damage to target creature.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397642</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>162</No>
+<Name>Starke of Rath</Name>
+<Type>Legendary Creature — Human Rogue 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>{T}: Destroy target artifact or creature. That permanent's controller gains control of Starke of Rath. (This effect lasts indefinitely.)</CardText>
+<Flavor>"I know to whom I owe the most loyalty, and I see him in the mirror every day."
+—Starke</Flavor>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>397432</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>163</No>
+<Name>Stun</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Target creature can't block this turn.
+Draw a card.</CardText>
+<Flavor>"I concede it was a cheap shot, but it was the only one I could afford."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397466</Multiverseid>
+<Rulings>2004/10/04: Must be used before blockers are declared in order to affect blocking decisions. You can't wait to see what your opponent declares and then try to stop them.
+2004/10/04: You can use it after combat or even on a creature which can't possibly block this turn because it's that player's turn to attack, but it generally has no effect other than to let you draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>164</No>
+<Name>Wall of Diffusion</Name>
+<Type>Creature — Wall 0/5</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.</CardText>
+<Flavor>"The injury was being caught between this world and our own; the insult was to find walls within."
+—Lyna, soltari emissary</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397560</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>165</No>
+<Name>Aluren</Name>
+<Type>Enchantment</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Any player may cast creature spells with converted mana cost 3 or less without paying their mana cost and as though they had flash.</CardText>
+<Flavor>Squee bounced up and down. "I sees a horsey, an' a piggy, an' a—" "If you don't shut up," hissed Mirri, "you'll see a kidney and a spleeny."</Flavor>
+<Artist>April Lee</Artist>
+<Multiverseid>397389</Multiverseid>
+<Rulings>2004/10/04: The mana cost of the creatures being cast is still the stated cost on the card, even though you did not pay the cost.
+2004/10/04: <Aluren> checks the actual printed cost on the creature card, and is not affected by things which allow you to cast the spell for less.
+2004/10/04: You can't choose to cast a creature as though it had flash via <Aluren> and still pay the mana cost. You either cast the creature normally, or via <Aluren> without paying the mana cost.
+2004/10/04: You can't use <Aluren> when casting a creature using another alternate means, such as the Morph ability.
+2008/08/01: If creature with X in its cost is cast this way, X can only be 0.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>166</No>
+<Name>Canopy Spider</Name>
+<Type>Creature — Spider 1/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Reach (This creature can block creatures with flying.)</CardText>
+<Flavor>"We know our place in the cycle of life—and it is not as flies."
+—Eladamri, Lord of Leaves</Flavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>397437</Multiverseid>
+<Rulings>2008/04/01: This card now uses the Reach keyword ability to enable the blocking of flying creatures. This works because a creature with flying can only be blocked by creatures with flying or reach.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>167</No>
+<Name>Carnassid</Name>
+<Type>Creature — Beast 5/4</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Trample
+{1}{G}: Regenerate Carnassid.</CardText>
+<Flavor>The hunter would never forget the time or place where he first met the carnassid, for they buried him there.</Flavor>
+<Artist>Brom</Artist>
+<Multiverseid>397506</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>168</No>
+<Name>Crashing Boars</Name>
+<Type>Creature — Boar 4/4</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Whenever Crashing Boars attacks, defending player chooses an untapped creature they control. That creature blocks Crashing Boars this turn if able.</CardText>
+<Flavor>Bores ruin a party. Boars are party to ruin.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397512</Multiverseid>
+<Rulings>2004/10/04: If the chosen creature is not still untapped at the time blockers are declared, it does not have to block.
+2004/10/04: The ability is not optional. If there are no untapped creatures to choose, then the ability does nothing.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>169</No>
+<Name>Elven Rite</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Distribute two +1/+1 counters among one or two target creatures.</CardText>
+<Flavor>As the bough stretches, so shall you grow. As the roots spread, so shall you thrive.</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>397428</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>170</No>
+<Name>Elvish Fury</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature gets +2/+2 until end of turn.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Multiverseid>397622</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>171</No>
+<Name>Endangered Armodon</Name>
+<Type>Creature — Elephant 4/5</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.</CardText>
+<Flavor>These are its last days. It is doomed to be remembered only until the hunters hunger again.</Flavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397407</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>172</No>
+<Name>Harrow</Name>
+<Type>Instant</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a land.
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.</CardText>
+<Flavor>Changing Rath's landscape is like tearing the scab from a wound.</Flavor>
+<Artist>Eric David Anderson</Artist>
+<Multiverseid>397415</Multiverseid>
+<Rulings>2004/10/04: The sacrifice of a land is part of the cost of casting <Harrow>. You can't pay this cost more than once to get a multiple effect.
+2004/10/04: The two lands do not count toward your normal one land you can play each turn.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>173</No>
+<Name>Heartwood Dryad</Name>
+<Type>Creature — Dryad 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.</CardText>
+<Flavor>To snare what lies between worlds takes the patient reach of trees.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>397488</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>174</No>
+<Name>Heartwood Giant</Name>
+<Type>Creature — Giant 4/4</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player or planeswalker.</CardText>
+<Flavor>Wind in the trees is soothing, but the same can't be said for trees on the wind.</Flavor>
+<Artist>Randy Elliott</Artist>
+<Multiverseid>397440</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>175</No>
+<Name>Hermit Druid</Name>
+<Type>Creature — Human Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.</CardText>
+<Flavor>Seeking the company of plants ensures that your wits will go to seed.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>397556</Multiverseid>
+<Rulings>2004/10/04: You can put the cards from your library into your graveyard in any order.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>176</No>
+<Name>Horned Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>All Sliver creatures have trample.</CardText>
+<Flavor>A bristling wave of slivers broke against the Weatherlight's timbers.</Flavor>
+<Artist>Allen Williams</Artist>
+<Multiverseid>397390</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>177</No>
+<Name>Krakilin</Name>
+<Type>Creature — Beast 0/0</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>Krakilin enters the battlefield with X +1/+1 counters on it.
+{1}{G}: Regenerate Krakilin.</CardText>
+<Flavor>"A perfect reflection of its world: brutal, fetal, and lacking truth."
+—Oracle en-Vec</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>397521</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>178</No>
+<Name>Lowland Basilisk</Name>
+<Type>Creature — Basilisk 1/3</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.</CardText>
+<Flavor>Unlike their cousins, Rathi basilisks turn their victims into puddles of flowstone.</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397398</Multiverseid>
+<Rulings>2004/10/04: If a creature leaves the battlefield before the end of combat, then the <Lowland Basilisk> effect on it will end.
+2004/10/04: If it damages a creature outside of combat, its effect will destroy the creature at the end of the next combat.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>179</No>
+<Name>Manabond</Name>
+<Type>Enchantment</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.</CardText>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397461</Multiverseid>
+<Rulings>2004/10/04: The lands are put onto the battlefield during the resolution of the ability.
+2004/10/04: You discard all the cards still in your hand after you put the lands onto the battlefield.
+2004/10/04: Putting a land onto the battlefield does not count as playing a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>180</No>
+<Name>Mirri, Cat Warrior</Name>
+<Type>Legendary Creature — Cat Warrior 2/3</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)</CardText>
+<Flavor>"Full of beauty and grace, with a predator's instincts . . . Although she wanders, I have always thought Mirri belongs in Llanowar most of all."
+—Rofellos, Llanowar emissary</Flavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397392</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>181</No>
+<Name>Mulch</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.</CardText>
+<Flavor>Hope is the one crop that can grow in any climate.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>397563</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>182</No>
+<Name>Muscle Sliver</Name>
+<Type>Creature — Sliver 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>All Sliver creatures get +1/+1.</CardText>
+<Flavor>The air was filled with the cracks and snaps of flesh hardening as the new sliver joined the battle.</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>397442</Multiverseid>
+<Rulings>2004/10/04: Yes, it does give the +1/+1 bonus to itself.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>183</No>
+<Name>Needle Storm</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Needle Storm deals 4 damage to each creature with flying.</CardText>
+<Flavor>The rain is driven like nails.</Flavor>
+<Artist>Val Mayerik</Artist>
+<Multiverseid>397499</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>184</No>
+<Name>Oath of Druids</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>At the beginning of each player's upkeep, that player chooses target player who controls more creatures than they do and is their opponent. The first player may reveal cards from the top of their library until they reveal a creature card. If the first player does, that player puts that card onto the battlefield and all other cards revealed this way into their graveyard.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>397400</Multiverseid>
+<Rulings>2009/10/01: The ability can only target an opponent of the current player.
+2009/10/01: The targeted player controlling more creatures than the current player is a part of the targeting requirement. A player can't be targeted by this ability unless it's true, and the ability doesn't resolve if it's no longer true at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>185</No>
+<Name>Overrun</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GGG (5)</ManaCost>
+<CardText>Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
+<Flavor>"You want to know your enemy? Look at your feet while you trample him."
+—Tahngarth of the Weatherlight</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>397574</Multiverseid>
+<Rulings>2009/10/01: <Overrun> affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>186</No>
+<Name>Provoke</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Untap target creature you don't control. That creature blocks this turn if able.
+Draw a card.</CardText>
+<Flavor>Mirri did not have time to think, only to react.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397604</Multiverseid>
+<Rulings>2004/10/04: You can target an untapped creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>187</No>
+<Name>Rampant Growth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>Rath forces plants from its surface as one presses whey from cheese.</Flavor>
+<Artist>Tom Kyffin</Artist>
+<Multiverseid>397623</Multiverseid>
+<Rulings>2004/10/04: The land does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>188</No>
+<Name>Reality Anchor</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Target creature loses shadow until end of turn.
+Draw a card.</CardText>
+<Flavor>"See how you like it."
+—Ertai, wizard adept</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397421</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>189</No>
+<Name>Recycle</Name>
+<Type>Enchantment</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Skip your draw step.
+Whenever you play a card, draw a card.
+Your maximum hand size is two.</CardText>
+<Artist>Phil Foglio</Artist>
+<Multiverseid>397573</Multiverseid>
+<Rulings>2007/02/01: Your maximum hand size is checked only during the cleanup step of your turn. At any other time, you may have any number of cards in hand.
+2007/02/01: Countering a spell that has been cast will not prevent you from drawing the card.
+2009/10/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Spellbook (an artifact that says you have no maximum hand size) onto the battlefield and then put <Recycle> onto the battlefield, your maximum hand size will be two. However, if those permanents entered the battlefield in the opposite order, you would have no maximum hand size.
+2018/07/13: To play a card means to play a land or to cast a spell that's a card (and not a copy of a card).</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>190</No>
+<Name>Rootbreaker Wurm</Name>
+<Type>Creature — Wurm 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
+<Flavor>As Gerrard made his escape, the wurm covered his flight by helping itself to three great mouthfuls of merfolk.</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Multiverseid>397567</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>191</No>
+<Name>Rootwalla</Name>
+<Type>Creature — Lizard 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.</CardText>
+<Flavor>If you try to sneak up on a rootwalla, you'll suddenly find yourself dealing with twice the lizard.</Flavor>
+<Artist>Roger Raupp</Artist>
+<Multiverseid>397580</Multiverseid>
+<Rulings>2006/02/01: If this card's ability is activated by one player, then another player takes control of it on the same turn, the second player can't activate its ability that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>192</No>
+<Name>Skyshroud Elf</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add {G}.
+{1}: Add {R} or {W}.</CardText>
+<Flavor>"It is our duty to endure."
+—Eladamri, Lord of Leaves</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>397435</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>193</No>
+<Name>Skyshroud Troll</Name>
+<Type>Creature — Troll Giant 3/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>{1}{G}: Regenerate Skyshroud Troll.</CardText>
+<Flavor>The elves and merfolk have nothing but bitterness for each other. The trolls, however, find them both rather tasty.</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397589</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>194</No>
+<Name>Spike Breeder</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Spike Breeder enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.
+{2}, Remove a +1/+1 counter from Spike Breeder: Create a 1/1 green Spike creature token.</CardText>
+<Artist>Adam Rex</Artist>
+<Multiverseid>397406</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>195</No>
+<Name>Spike Colony</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Spike Colony enters the battlefield with four +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>397457</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>196</No>
+<Name>Spike Feeder</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Spike Feeder enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</CardText>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>397486</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>197</No>
+<Name>Spike Hatcher</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>6G (7)</ManaCost>
+<CardText>Spike Hatcher enters the battlefield with six +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.</CardText>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397591</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>198</No>
+<Name>Spined Wurm</Name>
+<Type>Creature — Wurm 5/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<Flavor>"As it moved, the wurm's spines gathered up bits of flowstone, which took the shapes of dead villagers' heads. Each head spoke a single sound, but if taken together, they said, 'Alas for the living.'"
+—Dal myth of the wurm</Flavor>
+<Artist>Keith Parkinson</Artist>
+<Multiverseid>397454</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>199</No>
+<Name>Survival of the Fittest</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</CardText>
+<Artist>Pete Venters</Artist>
+<Multiverseid>397535</Multiverseid>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>200</No>
+<Name>Trained Armodon</Name>
+<Type>Creature — Elephant 3/3</Type>
+<ManaCost>1GG (3)</ManaCost>
+<Flavor>These are its last days. Better to grow broad and heavy. Better that the enemy is crushed beneath its carcass.</Flavor>
+<Artist>Gary Leach</Artist>
+<Multiverseid>397448</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>201</No>
+<Name>Tranquility</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Destroy all enchantments.</CardText>
+<Flavor>"Peace will come, but whether born of harmony or entropy I cannot say."
+—Oracle en-Vec</Flavor>
+<Artist>Margaret Organ-Kean</Artist>
+<Multiverseid>397519</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>202</No>
+<Name>Verdant Force</Name>
+<Type>Creature — Elemental 7/7</Type>
+<ManaCost>5GGG (8)</ManaCost>
+<CardText>At the beginning of each upkeep, create a 1/1 green Saproling creature token.</CardText>
+<Flavor>Burl, scurf, and bower Birth fern and flower.</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Multiverseid>397577</Multiverseid>
+<Rulings>2006/05/01: In Two-Headed Giant, triggers only once per upkeep, not once for each player.
+2018/04/27: <Verdant Force>'s ability triggers at the beginning of each upkeep, not just each of your upkeeps.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>203</No>
+<Name>Verdant Touch</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target land becomes a 2/2 creature that's still a land. (This effect lasts indefinitely.)</CardText>
+<Artist>M. W. Kaluta & DiTerlizzi</Artist>
+<Multiverseid>397496</Multiverseid>
+<Rulings>2004/10/04: The land is still a land and retains all its abilities, plus any other characteristics.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>204</No>
+<Name>Verdigris</Name>
+<Type>Instant</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Destroy target artifact.</CardText>
+<Flavor>"Only the most sophisticated inventions can survive nature's unsophisticated motivations."
+—Hanna, Weatherlight navigator</Flavor>
+<Artist>Zina Saunders</Artist>
+<Multiverseid>397538</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>205</No>
+<Name>Wall of Blossoms</Name>
+<Type>Creature — Plant Wall 0/4</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Defender
+When Wall of Blossoms enters the battlefield, draw a card.</CardText>
+<Flavor>Each flower identical, every leaf and petal disturbingly exact.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>397479</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>206</No>
+<Name>Acidic Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>BR (2)</ManaCost>
+<CardText>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to any target."</CardText>
+<Flavor>The first sliver burst against the cave wall, and others piled in behind to deepen the new tunnel.</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>397564</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>207</No>
+<Name>Crystalline Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>WU (2)</ManaCost>
+<CardText>All Slivers have shroud. (They can't be the targets of spells or abilities.)</CardText>
+<Flavor>Bred as living shields, these slivers have proven unruly—they know they cannot be caught.</Flavor>
+<Artist>Allen Williams</Artist>
+<Multiverseid>397513</Multiverseid>
+<Rulings>2004/10/04: The ability only applies while this card is on the battlefield.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>208</No>
+<Name>Dracoplasm</Name>
+<Type>Creature — Shapeshifter 0/0</Type>
+<ManaCost>UR (2)</ManaCost>
+<CardText>Flying
+As Dracoplasm enters the battlefield, sacrifice any number of creatures. Dracoplasm's power becomes the total power of those creatures and its toughness becomes their total toughness.
+{R}: Dracoplasm gets +1/+0 until end of turn.</CardText>
+<Artist>Andrew Robinson</Artist>
+<Multiverseid>397485</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>209</No>
+<Name>Hibernation Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>UB (2)</ManaCost>
+<CardText>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."</CardText>
+<Flavor>Mogglings have been known to play ball with hibernating slivers, completely unaware of their true nature.</Flavor>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>397495</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>210</No>
+<Name>Selenia, Dark Angel</Name>
+<Type>Legendary Creature — Angel 3/3</Type>
+<ManaCost>3WB (5)</ManaCost>
+<CardText>Flying
+Pay 2 life: Return Selenia, Dark Angel to its owner's hand.</CardText>
+<Flavor>"I am light. I am dark. I must give my life to serve; not even death can release me."</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397639</Multiverseid>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>211</No>
+<Name>Sliver Queen</Name>
+<Type>Legendary Creature — Sliver 7/7</Type>
+<ManaCost>WUBRG (5)</ManaCost>
+<CardText>{2}: Create a 1/1 colorless Sliver creature token.</CardText>
+<Flavor>Her children are ever part of her.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397585</Multiverseid>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>212</No>
+<Name>Soltari Guerrillas</Name>
+<Type>Creature — Soltari Soldier 3/2</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+{0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead.</CardText>
+<Artist>Val Mayerik</Artist>
+<Multiverseid>397650</Multiverseid>
+<Rulings>2008/08/01: Regardless of when the ability is activated, it will apply to the defending player at the time <Soltari Guerrillas> tries to deal combat damage to them.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>213</No>
+<Name>Spined Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>RG (2)</ManaCost>
+<CardText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</CardText>
+<Flavor>"Slivers are evil and slivers are sly; And if you get eaten, then no one will cry."
+—Mogg children's rhyme</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397578</Multiverseid>
+<Rulings>2004/10/04: If two <Spined Sliver>s are on the battlefield then each blocked sliver gets +2/+2 for each creature blocking it.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>214</No>
+<Name>Vhati il-Dal</Name>
+<Type>Legendary Creature — Human Warrior 3/3</Type>
+<ManaCost>2BG (4)</ManaCost>
+<CardText>{T}: Until end of turn, target creature has base power 1 or base toughness 1.</CardText>
+<Flavor>"Sir, I just thought . . . ," explained Vhati. "Don't think," interrupted Greven. "It doesn't suit you."</Flavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>397504</Multiverseid>
+<Rulings>2006/09/25: You don't choose whether to affect the targeted creature's power or its toughness until the ability resolves.
+2009/10/01: You apply power/toughness changing effects in a series of sublayers in the following order: (a) effects from characteristic-defining abilities; (b) effects that set power and/or toughness to a specific number or value; (c) effects that modify power and/or toughness but don't set power and/or toughness to a specific number or value; (d) changes from counters; (e) effects that switch a creature's power and toughness. This card's effect is always applied in (b), which means that effects applied in sublayer (c), (d), or (e) will not be overwritten; they will be applied to the new value.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>215</No>
+<Name>Victual Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."</CardText>
+<Flavor>"We are kinfolk," explained Karn to the sliver queen. "Just as you need your progeny to complete you, so do I need the pieces of the Legacy to make me whole."</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397416</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>216</No>
+<Name>Wood Sage</Name>
+<Type>Creature — Human Druid 1/1</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>{T}: Choose a creature card name. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.</CardText>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>397455</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>217</No>
+<Name>Bottle Gnomes</Name>
+<Type>Artifact Creature — Gnome 1/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Sacrifice Bottle Gnomes: You gain 3 life.</CardText>
+<Flavor>"I am reminded of the fable of the silver egg. Its owner cracks it open to see what jewels it holds, only to discover a simple yellow yolk."
+—Karn, silver golem</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>397557</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>218</No>
+<Name>Coat of Arms</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</CardText>
+<Flavor>"Hup, two, three, four, Dunno how to count no more."
+—Mogg march</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Multiverseid>397422</Multiverseid>
+<Rulings>2004/10/04: If a creature has more than one creature type, and one of those types matches the creature you are calculating for, then count that creature. Only one type needs to match in order to get counted.
+2004/10/04: If you have a creature with more than one creature type, count all creatures which have either creature type.
+2009/10/01: Sharing multiple creature types doesn't give an additional bonus. <Coat of Arms> counts creatures, not creature types.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>219</No>
+<Name>Coiled Tinviper</Name>
+<Type>Artifact Creature — Snake 2/1</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>First strike</CardText>
+<Flavor>The bite of the tinviper feels most like a razor drawn across the tongue.</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397396</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>220</No>
+<Name>Cursed Scroll</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>397653</Multiverseid>
+<Rulings>2008/08/01: If you have no cards in hand, you still have to name a card. Then you fail to reveal one (since there aren't any). Since the named card wasn't revealed, no damage is dealt.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>221</No>
+<Name>Emmessi Tome</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{5}, {T}: Draw two cards, then discard a card.</CardText>
+<Flavor>It is like life and destiny: we think we know the story, but we have read only half the tale.</Flavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>397542</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>222</No>
+<Name>Erratic Portal</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.</CardText>
+<Flavor>"In Barrin's name!" cried Lyna as Hanna's sword passed through her, "Ertai sends word that the portal is open—but not for long!"</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397649</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>223</No>
+<Name>Grindstone</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{3}, {T}: Target player puts the top two cards of their library into their graveyard. If both cards share a color, repeat this process.</CardText>
+<Flavor>"Memory is a burden that wears at the soul as weather wears at stone."
+—Crovax</Flavor>
+<Artist>Greg Simanson</Artist>
+<Multiverseid>397443</Multiverseid>
+<Rulings>2004/10/04: If the two cards are both colorless, then the effect does not repeat. It only repeats if both cards have at least one color and at least one color is shared between them.
+2004/10/04: The effect repeats as many times as it takes to meet the end condition.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>224</No>
+<Name>Jinxed Idol</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.
+Sacrifice a creature: Target opponent gains control of Jinxed Idol.</CardText>
+<Flavor>"Here."</Flavor>
+<Artist>John Matson</Artist>
+<Multiverseid>397505</Multiverseid>
+<Rulings>2004/10/04: Your opponent can use the ability to give this card back to you.
+2010/08/15: The control-change effect has no duration. The targeted player retains control of <Jinxed Idol> until the game ends, <Jinxed Idol> leaves the battlefield, or an effect causes someone else to gain control of it (perhaps because <Jinxed Idol>'s ability is activated again).
+2010/08/15: If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>225</No>
+<Name>Lotus Petal</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>{T}, Sacrifice Lotus Petal: Add one mana of any color.</CardText>
+<Flavor>"Hard to imagine," mused Hanna, stroking the petal, "such a lovely flower inspiring such greed."</Flavor>
+<Artist>April Lee</Artist>
+<Multiverseid>397468</Multiverseid>
+<Vintage>Restricted</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>226</No>
+<Name>Metallic Sliver</Name>
+<Type>Artifact Creature — Sliver 1/1</Type>
+<ManaCost>1 (1)</ManaCost>
+<Flavor>When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.</Flavor>
+<Artist>Allen Williams</Artist>
+<Multiverseid>397569</Multiverseid>
+<Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>227</No>
+<Name>Mindless Automaton</Name>
+<Type>Artifact Creature — Construct 0/0</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Mindless Automaton enters the battlefield with two +1/+1 counters on it.
+{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton.
+Remove two +1/+1 counters from Mindless Automaton: Draw a card.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>397449</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>228</No>
+<Name>Mox Diamond</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add one mana of any color.</CardText>
+<Artist>Dan Frazier</Artist>
+<Multiverseid>397482</Multiverseid>
+<Rulings>2008/05/01: If you don't discard a land card, <Mox Diamond> never enters the battlefield. It won't trigger abilities that look for something entering the battlefield, and you won't get the opportunity to tap it for mana.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>229</No>
+<Name>Patchwork Gnomes</Name>
+<Type>Artifact Creature — Gnome 2/1</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Discard a card: Regenerate Patchwork Gnomes.</CardText>
+<Flavor>"Just when I get them working, they always start fighting and tearing at each other for spare parts."
+—Hanna, Weatherlight navigator</Flavor>
+<Artist>Mike Raabe</Artist>
+<Multiverseid>397408</Multiverseid>
+<Rulings>2018/12/07: You can activate the ability of <Patchwork Gnomes> more than once in a turn, even if nothing is about to destroy <Patchwork Gnomes> and even if <Patchwork Gnomes> is already tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>230</No>
+<Name>Phyrexian Hulk</Name>
+<Type>Artifact Creature — Golem 5/4</Type>
+<ManaCost>6 (6)</ManaCost>
+<Flavor>"They are convenient in having no souls, but less so in having no spirit."
+—Volrath</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>397571</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>231</No>
+<Name>Skyshaper</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Sacrifice Skyshaper: Creatures you control gain flying until end of turn.</CardText>
+<Flavor>"It'll get us to the portal, but I can't guarantee what it'll do to the ship."
+—Hanna, Weatherlight navigator</Flavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>397424</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>232</No>
+<Name>Telethopter</Name>
+<Type>Artifact Creature — Thopter 3/1</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Tap an untapped creature you control: Telethopter gains flying until end of turn.</CardText>
+<Flavor>After losing several of the devices to midair collisions, Greven forbade moggs from operating telethopters.</Flavor>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>397462</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>233</No>
+<Name>Thopter Squadron</Name>
+<Type>Artifact Creature — Thopter 0/0</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Flying
+Thopter Squadron enters the battlefield with three +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 colorless Thopter artifact creature token with flying. Activate this ability only any time you could cast a sorcery.
+{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Doug Chaffee</Artist>
+<Multiverseid>397624</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>234</No>
+<Name>Volrath's Laboratory</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>As Volrath's Laboratory enters the battlefield, choose a color and a creature type.
+{5}, {T}: Create a 2/2 creature token of the chosen color and type.</CardText>
+<Artist>Brom</Artist>
+<Multiverseid>397656</Multiverseid>
+<Rulings>2004/10/04: The token has the same name as the creature type.
+2004/10/04: The token does not have any built-in abilities. For example, choosing creature type Bird does not give the token Flying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>235</No>
+<Name>Caldera Lake</Name>
+<Type>Land</Type>
+<CardText>Caldera Lake enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {U} or {R}. Caldera Lake deals 1 damage to you.</CardText>
+<Artist>Allen Williams</Artist>
+<Multiverseid>397490</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>236</No>
+<Name>Cinder Marsh</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {B} or {R}. Cinder Marsh doesn't untap during your next untap step.</CardText>
+<Artist>John Matson</Artist>
+<Multiverseid>397547</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>237</No>
+<Name>City of Traitors</Name>
+<Type>Land</Type>
+<CardText>When you play another land, sacrifice City of Traitors.
+{T}: Add {C}{C}.</CardText>
+<Flavor>"While we fought, the il surrendered."
+—Oracle en-Vec</Flavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397543</Multiverseid>
+<Rulings>2004/10/04: <City of Traitors> does not trigger on lands that are put onto the battlefield without playing them.
+2004/10/04: <City of Traitors> does not trigger on itself being played.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>238</No>
+<Name>Maze of Shadows</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>397445</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>239</No>
+<Name>Mogg Hollows</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {R} or {G}. Mogg Hollows doesn't untap during your next untap step.</CardText>
+<Artist>Jeff Laubenstein</Artist>
+<Multiverseid>397459</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>240</No>
+<Name>Pine Barrens</Name>
+<Type>Land</Type>
+<CardText>Pine Barrens enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {B} or {G}. Pine Barrens deals 1 damage to you.</CardText>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>397425</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>241</No>
+<Name>Rootwater Depths</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {U} or {B}. Rootwater Depths doesn't untap during your next untap step.</CardText>
+<Artist>Roger Raupp</Artist>
+<Multiverseid>397536</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>242</No>
+<Name>Salt Flats</Name>
+<Type>Land</Type>
+<CardText>Salt Flats enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {W} or {B}. Salt Flats deals 1 damage to you.</CardText>
+<Artist>Scott Kirschner</Artist>
+<Multiverseid>397590</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>243</No>
+<Name>Scabland</Name>
+<Type>Land</Type>
+<CardText>Scabland enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {R} or {W}. Scabland deals 1 damage to you.</CardText>
+<Artist>Andrew Robinson</Artist>
+<Multiverseid>397438</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>244</No>
+<Name>Skyshroud Forest</Name>
+<Type>Land</Type>
+<CardText>Skyshroud Forest enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {G} or {U}. Skyshroud Forest deals 1 damage to you.</CardText>
+<Artist>Roger Raupp</Artist>
+<Multiverseid>397616</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>245</No>
+<Name>Stalking Stones</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)</CardText>
+<Artist>Stephen Daniele</Artist>
+<Multiverseid>397410</Multiverseid>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>246</No>
+<Name>Thalakos Lowlands</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {W} or {U}. Thalakos Lowlands doesn't untap during your next untap step.</CardText>
+<Artist>Jeff A. Menges</Artist>
+<Multiverseid>397446</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>247</No>
+<Name>Vec Townships</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {G} or {W}. Vec Townships doesn't untap during your next untap step.</CardText>
+<Artist>Eric David Anderson</Artist>
+<Multiverseid>397451</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>248</No>
+<Name>Volrath's Stronghold</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {C}.
+{1}{B}, {T}: Put target creature card from your graveyard on top of your library.</CardText>
+<Flavor>The seed of a world's evil.</Flavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>397619</Multiverseid>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>249</No>
+<Name>Wasteland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.</CardText>
+<Flavor>"The land promises nothing and keeps its promise."
+—Oracle en-Vec</Flavor>
+<Artist>Una Fricker</Artist>
+<Multiverseid>397531</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Tempest Remastered</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>250</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397550</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>251</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397469</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>252</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397610</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>253</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>397433</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>254</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397456</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>255</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397476</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>256</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397596</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>257</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>397654</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>258</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Brom</Artist>
+<Multiverseid>397529</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>259</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Brom</Artist>
+<Multiverseid>397635</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>260</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Brom</Artist>
+<Multiverseid>397426</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>261</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Brom</Artist>
+<Multiverseid>397467</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>262</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Multiverseid>397605</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>263</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Multiverseid>397561</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>264</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Multiverseid>397546</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>265</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Multiverseid>397597</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>266</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>397540</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>267</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>397453</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>268</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>397582</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TPR</SetId>
+<No>269</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Multiverseid>397517</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Tempest Remastered</Set>
+<Rarity>Land</Rarity>
+</Card>
+

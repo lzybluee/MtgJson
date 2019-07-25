@@ -1,0 +1,234 @@
+<Card>
+<SetId>F09</SetId>
+<No>1</No>
+<Name>Magma Jet</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Magma Jet deals 2 damage to any target. Scry 2.</CardText>
+<Artist>Darrell Riche</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/09/15: When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom.
+2013/09/15: You choose how to order cards returned to your library after scrying no matter where you put them.
+2013/09/15: You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions.
+2013/09/15: Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>2</No>
+<Name>Myr Enforcer</Name>
+<Type>Artifact Creature — Myr 4/4</Type>
+<ManaCost>7 (7)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)</CardText>
+<Flavor>Most myr monitor other species. Some myr monitor other myr.</Flavor>
+<Artist>Jim Murray</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>3</No>
+<Name>Kitchen Finks</Name>
+<Type>Creature — Ouphe 3/2</Type>
+<ManaCost>1{G/W}{G/W} (3)</ManaCost>
+<CardText>When Kitchen Finks enters the battlefield, you gain 2 life.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</CardText>
+<Artist>Larry MacDougall</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/06/07: If a creature with persist stops being a creature, persist will still work.
+2013/06/07: The persist ability triggers when the permanent is put into a graveyard. Its last known information (that is, how the creature last existed on the battlefield) is used to determine whether it had a -1/-1 counter on it.
+2013/06/07: If a permanent has multiple instances of persist, they'll each trigger separately, but the redundant instances will have no effect. If one instance returns the card to the battlefield, the next to resolve will do nothing.
+2013/06/07: If a token with no -1/-1 counters on it has persist, the ability will trigger when the token is put into the graveyard. However, the token will cease to exist and can't return to the battlefield.
+2013/06/07: When a permanent with persist returns to the battlefield, it's a new object with no memory of or connection to its previous existence.
+2013/06/07: If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of their persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time.
+2013/06/07: If a creature with persist that has +1/+1 counters on it receives enough -1/-1 counters to cause it to be destroyed by lethal damage or put into its owner's graveyard for having 0 or less toughness, persist won't trigger and the card won't return to the battlefield. That's because persist checks the creature's existence just before it leaves the battlefield, and it still has all those counters on it at that point.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>4</No>
+<Name>Merrow Reejerey</Name>
+<Type>Creature — Merfolk Soldier 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Other Merfolk creatures you control get +1/+1.
+Whenever you cast a Merfolk spell, you may tap or untap target permanent.</CardText>
+<Flavor>Steady and silent as the deep current, the reejerey guides the course of the school.</Flavor>
+<Artist>Thomas M. Baxa</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>5</No>
+<Name>Wren's Run Vanquisher</Name>
+<Type>Creature — Elf Warrior 3/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}.
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>6</No>
+<Name>Mulldrifter</Name>
+<Type>Creature — Elemental 2/2</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Flying
+When Mulldrifter enters the battlefield, draw two cards.
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</CardText>
+<Artist>Wayne England</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/07/13: Evoke is an alternative cost to cast the spell with evoke. It can't be combined with other alternative costs, such as casting a spell "without paying its mana cost."
+2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost (such as an evoke cost) you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/07/13: If a creature with evoke enters the battlefield without being cast, you won't have to sacrifice it.
+2018/07/13: The ability that causes you to sacrifice an evoked creature is a triggered ability. Players may respond to this triggered ability while the creature is still on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>7</No>
+<Name>Murderous Redcap</Name>
+<Type>Creature — Goblin Assassin 2/2</Type>
+<ManaCost>2{B/R}{B/R} (4)</ManaCost>
+<CardText>When Murderous Redcap enters the battlefield, it deals damage equal to its power to any target.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</CardText>
+<Artist>Mark Hyzer</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/05/01: <Murderous Redcap>'s power is checked at the time the ability resolves. If it's left the battlefield by then, its last known information is used.
+2013/06/07: If a creature with persist that has +1/+1 counters on it receives enough -1/-1 counters to cause it to be destroyed by lethal damage or put into its owner's graveyard for having 0 or less toughness, persist won't trigger and the card won't return to the battlefield. That's because persist checks the creature's existence just before it leaves the battlefield, and it still has all those counters on it at that point.
+2013/06/07: If a creature with persist stops being a creature, persist will still work.
+2013/06/07: The persist ability triggers when the permanent is put into a graveyard. Its last known information (that is, how the creature last existed on the battlefield) is used to determine whether it had a -1/-1 counter on it.
+2013/06/07: If a permanent has multiple instances of persist, they'll each trigger separately, but the redundant instances will have no effect. If one instance returns the card to the battlefield, the next to resolve will do nothing.
+2013/06/07: If a token with no -1/-1 counters on it has persist, the ability will trigger when the token is put into the graveyard. However, the token will cease to exist and can't return to the battlefield.
+2013/06/07: When a permanent with persist returns to the battlefield, it's a new object with no memory of or connection to its previous existence.
+2013/06/07: If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of their persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>8</No>
+<Name>Lightning Greaves</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}</CardText>
+<Flavor>After lightning struck the cliffs, the ore became iron, the iron became steel, and the steel became greaves. The lightning never left.</Flavor>
+<Artist>Michael Komarck</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/04/15: You are not allowed to "unequip" equipment from a creature. If <Lightning Greaves> is attached to the only creature you control, you won't be able to attach other equipment to it (or target it with anything else) until you have another creature onto which you can move <Lightning Greaves>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>9</No>
+<Name>Watchwolf</Name>
+<Type>Creature — Wolf 3/3</Type>
+<ManaCost>GW (2)</ManaCost>
+<Flavor>Only in Ravnica do the wolves watch the flock.</Flavor>
+<Artist>Dave Kendall</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>10</No>
+<Name>Browbeat</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Any player may have Browbeat deal 5 damage to them. If no one does, target player draws three cards.</CardText>
+<Flavor>Even the threat of power has power.
+—Jeska, warrior adept</Flavor>
+<Artist>Kieran Yanner</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>11</No>
+<Name>Oblivion Ring</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</CardText>
+<Artist>Chuck Lukacs</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2007/10/01: If <Oblivion Ring> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted nonland permanent forever.
+2007/10/01: If there are no nonland permanents on the battlefield other than an <Oblivion Ring>, and the card it exiled was another <Oblivion Ring>, casting a third <Oblivion Ring> will result in an involuntary infinite loop that will end the game in a draw (unless someone chooses to break it by putting another nonland permanent onto the battlefield or destroying one of the <Oblivion Ring>s, for example).
+2008/10/01: If the exiled card is an Aura, that card's owner chooses what it will enchant as it comes back onto the battlefield. An Aura put onto the battlefield this way doesn't target anything, but the Aura's enchant ability restricts what it can be attached to. If the Aura can't legally be attached to anything, it remains exiled forever.
+2012/07/01: Auras attached to the exiled permanent will be put into their owners' graveyards. Equipment attached to the exiled permanent will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F09</SetId>
+<No>12</No>
+<Name>Sakura-Tribe Elder</Name>
+<Type>Creature — Snake Shaman 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.</CardText>
+<Flavor>Slain orochi warriors were buried with a tree sapling so they would become part of the forest after death.</Flavor>
+<Artist>Ted Galaday</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

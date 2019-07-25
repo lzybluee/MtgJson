@@ -1,0 +1,450 @@
+<Card>
+<SetId>PMEI</SetId>
+<No>4</No>
+<Name>Fireball</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>This spell costs {1} more to cast for each target beyond the first.
+Fireball deals X damage divided evenly, rounded down, among any number of targets.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2017/11/17: For example, if X is 5 and you choose three target creatures, <Fireball> has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as <Fireball> resolves, it deals 1 damage to each of them.
+2017/11/17: You may cast <Fireball> with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves.
+2017/11/17: <Fireball>'s damage is divided as <Fireball> resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as <Fireball> resolves.
+2017/11/17: You can target more than X creatures. However, if the number of legal targets at the time <Fireball> resolves is greater than X, none of them will be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>5</No>
+<Name>Blue Elemental Blast</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Choose one —
+• Counter target red spell.
+• Destroy target red permanent.</CardText>
+<Artist>Richard Thomas</Artist>
+<Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>9</No>
+<Name>Scent of Cinder</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Reveal any number of red cards in your hand. Scent of Cinder deals X damage to any target, where X is the number of cards revealed this way.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2004/10/04: You reveal cards, and thereby set the value of X, on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>10</No>
+<Name>Lightning Hounds</Name>
+<Type>Creature — Hound 3/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>First strike</CardText>
+<Flavor>Quick enough to avoid jhovalls when alone and fierce enough to attack them in packs, the hounds were as at home in the mountains as the Mercadians were atop theirs.</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>10*</No>
+<Name>Jamuraan Lion</Name>
+<Type>Creature — Cat 3/1</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>{W}, {T}: Target creature can't block this turn.</CardText>
+<Flavor>Der Löwe zwinkerte
+—Ausdruck der Femeref für "noch einmal davongekommen</Flavor>
+<Artist>Stuart Griffin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>11</No>
+<Name>Spined Wurm</Name>
+<Type>Creature — Wurm 5/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<Flavor>"As it moved, the wurm's spines gathered up bits of flowstone, which took the shapes of dead villagers' heads. Each head spoke a single sound, but if taken together, they said, 'Alas for the living.'"
+—Dal myth of the wurm</Flavor>
+<Artist>Keith Parkinson</Artist>
+<Multiverseid>25496</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>12</No>
+<Name>Warmonger</Name>
+<Type>Creature — Minotaur Monger 3/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{2}: Warmonger deals 1 damage to each creature without flying and each player. Any player may activate this ability.</CardText>
+<Flavor>Funny how money and war travel so well together.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>13</No>
+<Name>Silver Drake</Name>
+<Type>Creature — Drake 3/3</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>Flying
+When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.</CardText>
+<Artist>Alan Pollack</Artist>
+<Rulings>2004/10/04: You choose the creature to return on resolution of the triggered ability. This is not targeted.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>14</No>
+<Name>Phyrexian Rager</Name>
+<Type>Creature — Horror 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.</CardText>
+<Flavor>It takes no prisoners, but it keeps the choicest bits for Phyrexia.</Flavor>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>15</No>
+<Name>Shivan Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.</CardText>
+<Flavor>The undisputed master of the mountains of Shiv.</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>16</No>
+<Name>Darksteel Juggernaut</Name>
+<Type>Artifact Creature — Juggernaut */*</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Indestructible
+Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+Darksteel Juggernaut attacks each combat if able.</CardText>
+<Flavor>One part unstoppable force, one part immovable object.</Flavor>
+<Artist>Randis Albion</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/01/01: Since <Darksteel Juggernaut> is itself an artifact, its power and toughness will always be at least 1 while it's on the battlefield (unless a spell or ability somehow changes its card type).
+2011/01/01: Lethal damage and effects that say "destroy" won't cause <Darksteel Juggernaut> to be put into the graveyard. However, it can be put into the graveyard for a number of other reasons. The most likely reasons are if its toughness is 0 or less or it's sacrificed.
+2011/01/01: If, during your declare attackers step, <Darksteel Juggernaut> is tapped, is affected by a spell or ability that says it can't attack, or is affected by "summoning sickness," then it doesn't attack. If there's a cost associated with having <Darksteel Juggernaut> attack, you aren't forced to pay that cost, so it doesn't have to attack in that case either.
+2011/01/01: The first ability works in all zones.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>17</No>
+<Name>Cunning Sparkmage</Name>
+<Type>Creature — Human Shaman 0/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Haste
+{T}: Cunning Sparkmage deals 1 damage to any target.</CardText>
+<Flavor>"I see the weaknesses you hide even from yourself."</Flavor>
+<Artist>Wayne Reynolds</Artist>
+<Watermark>Dengekimaoh</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>18</No>
+<Name>Chandra's Outrage</Name>
+<Type>Instant</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.</CardText>
+<Flavor>"Her mind is an incredible mix of emotion and power. Even if I could grasp it, I couldn't hold it for long."
+—Jace Beleren, on Chandra Nalaar</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Dengekimaoh</Watermark>
+<Rulings>2018/03/16: If the target creature is an illegal target by the time <Chandra's Outrage> resolves, the spell doesn't resolve. No player is dealt damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>19</No>
+<Name>Chandra's Spitfire</Name>
+<Type>Creature — Elemental 1/3</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flying
+Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn.</CardText>
+<Flavor>"I've lit most everything on fire—trees, rocks, even the water. Now it's time to burn the clouds."</Flavor>
+<Artist>Justin Sweet</Artist>
+<Watermark>Dengekimaoh</Watermark>
+<Rulings>2010/08/15: Combat damage is the damage that's dealt automatically by attacking and blocking creatures, even if it's redirected (by Harm's Way, perhaps). Noncombat damage is any other damage (generally, it's damage dealt as the result of a spell or ability).
+2010/08/15: The ability triggers just once for each event in which an opponent is dealt noncombat damage, regardless of how much damage that player is dealt. For example, if Lava Axe deals 5 damage to an opponent, <Chandra's Spitfire> gets just +3/+0.
+2010/08/15: In a multiplayer game, if a source such as Earthquake deals damage to multiple opponents at the same time, the ability will trigger that many times.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>20</No>
+<Name>Kuldotha Phoenix</Name>
+<Type>Creature — Phoenix 4/4</Type>
+<ManaCost>2RRR (5)</ManaCost>
+<CardText>Flying, haste
+Metalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.</CardText>
+<Artist>Mike Bierek</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/01/01: You can activate <Kuldotha Phoenix>'s ability only if it's in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>21</No>
+<Name>Phantasmal Dragon</Name>
+<Type>Creature — Dragon Illusion 5/5</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.</CardText>
+<Flavor>Its hunger and ire are no less for being wrought of lies and mist.</Flavor>
+<Artist>Wayne Reynolds</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>22</No>
+<Name>Sandbar Crocodile</Name>
+<Type>Creature — Crocodile 6/5</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</CardText>
+<Flavor>"We've run aground sandbars before, but today, a sandbar ran aground us."
+—Kipkemboi, Kukemssa pirate</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>23</No>
+<Name>Zhalfirin Knight</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{W}{W}: Zhalfirin Knight gains first strike until end of turn.</CardText>
+<Flavor>"You returned a warrior. . . . Your hair was cut, your eye tattooed with the red triangle of war."
+—"Love Song of Night and Day"</Flavor>
+<Artist>John Bolton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>24</No>
+<Name>Shrieking Drake</Name>
+<Type>Creature — Drake 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Flying
+When Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.</CardText>
+<Flavor>"Kaervek believes the drakes' cries herald his victory; in truth, they mourn aloud for his impending demise."
+—Teferi</Flavor>
+<Artist>Ian Miller</Artist>
+<Rulings>2004/10/04: You choose the creature to return on resolution of the triggered ability. This is not targeted.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>25</No>
+<Name>Stream of Life</Name>
+<Type>Sorcery</Type>
+<ManaCost>XG (1)</ManaCost>
+<CardText>Target player gains X life.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>26</No>
+<Name>Thorn Elemental</Name>
+<Type>Creature — Elemental 7/7</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>You may have Thorn Elemental assign its combat damage as though it weren't blocked.</CardText>
+<Flavor>Rain from this storm leaves you pinned to the ground like an insect.</Flavor>
+<Artist>rk post</Artist>
+<Rulings>2018/04/27: You can decide to assign damage to the defending player or planeswalker even if the blocking creature has protection from green or damage preventing effects on it.
+2018/04/27: When assigning combat damage, you choose whether you want to assign all damage to blocking creatures, or if you want to assign all of it to the player or planeswalker this creature is attacking. You can't split the damage assignment between them.
+2018/04/27: If blocked by a creature with banding, the defending player decides whether or not the damage is assigned "as though it weren't blocked".</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>27</No>
+<Name>Parallax Dementia</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Enchant creature
+Fading 1 (This enchantment enters the battlefield with one fade counter on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Enchanted creature gets +3/+2.
+When Parallax Dementia leaves the battlefield, destroy enchanted creature. That creature can't be regenerated.</CardText>
+<Artist>Eric Peterson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>28</No>
+<Name>Ascendant Evincar</Name>
+<Type>Legendary Creature — Vampire 3/3</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Other black creatures get +1/+1.
+Nonblack creatures get -1/-1.</CardText>
+<Flavor>"Things are going to change around here."
+—Crovax</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2007/07/15: If <Ascendant Evincar> stops being black, it gives itself -1/-1.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>29</No>
+<Name>Archangel</Name>
+<Type>Creature — Angel 5/5</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying, vigilance</CardText>
+<Flavor>"My mother once told me angels sing their swords' names with each strike."
+—Sisay, Captain of the Weatherlight</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>30</No>
+<Name>Cast Down</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonlegendary creature.</CardText>
+<Flavor>「誰でも死後に思い出してもらえるかは心配なもの。でも心配ないわ、死は名も無き者のものよ。あなたに名前がある限リ、それを堂々と掲げなさい。」
+――リリアナ</Flavor>
+<Artist>Ittoku</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>31</No>
+<Name>Diabolic Edict</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Target player sacrifices a creature.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

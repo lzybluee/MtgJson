@@ -275,13 +275,13 @@ Enchanted creature is a Treefolk with base power and toughness 0/4 and loses all
 <Flavor>Bulgo paused, puzzled. What was that rustling sound, and why did he feel so stiff? And how could his feet be so thirsty?</Flavor>
 <Artist>Jesper Ejsing</Artist>
 <Multiverseid>201837</Multiverseid>
-<Rulings>2007/10/01: <Lignify> overwrites characteristic-defining abilities that specify the enchanted creature's power or toughness (such as the one Dauntless Dourbark has) or that specify its creature types (such as changeling does).
-2007/10/01: <Lignify> will overwrite static abilities that come from the creature itself (such as the one on Verduran Enchantress) because <Lignify> causes the creature to lose that ability before it gets a chance to apply.
-2007/10/01: <Lignify> overwrites previous effects that changed the enchanted creature's creature types. Any such effects that apply after <Lignify> enters the battlefield will work normally.
+<Rulings>2007/10/01: <Lignify> overwrites previous effects that changed the enchanted creature's creature types. Any such effects that apply after <Lignify> enters the battlefield will work normally.
 2007/10/01: <Lignify> causes the enchanted creature to lose all abilities it had at the time it became enchanted. Any abilities granted to the creature after <Lignify> entered the battlefield will work normally.
-2007/10/01: If a previous effect switched the creature's power and toughness, that effect still applies (though it will apply to the creature's new power and toughness).
+2007/10/01: <Lignify> overwrites characteristic-defining abilities that specify the enchanted creature's power or toughness (such as the one Dauntless Dourbark has) or that specify its creature types (such as changeling does).
 2007/10/01: If the enchanted creature has a characteristic-defining ability that specifies its color, that ability will still have its effect because it's applied before the creature loses the ability.
 2007/10/01: If <Lignify> leaves the battlefield, the creature goes back to being what it was before. Any effects that applied while the <Lignify> was on the battlefield, such as Giant Growth or Lace with Moonglove, will continue to apply.
+2007/10/01: If a previous effect switched the creature's power and toughness, that effect still applies (though it will apply to the creature's new power and toughness).
+2007/10/01: <Lignify> will overwrite static abilities that come from the creature itself (such as the one on Verduran Enchantress) because <Lignify> causes the creature to lose that ability before it gets a chance to apply.
 2009/10/01: <Lignify> will overwrite any previous effects that set the enchanted creature's power or toughness (such as Serendib Sorcerer does). Any such effects that apply after <Lignify> entered the battlefield will work normally.
 2009/10/01: <Lignify> will not overwrite effects such as those from Glorious Anthem, counters, or Giant Growth that change the enchanted creature's power or toughness without setting it to a specific value. Apply such effects after applying <Lignify>.</Rulings>
 <Vintage>Legal</Vintage>
@@ -480,7 +480,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <Type>Land</Type>
 <CardText>Treetop Village enters the battlefield tapped.
 {T}: Add {G}.
-{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>202279</Multiverseid>
 <Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -1001,10 +1001,9 @@ Destroy target nonblack creature. It can't be regenerated.</CardText>
 —Liliana Vess</Flavor>
 <Artist>Vance Kovacs</Artist>
 <Multiverseid>201800</Multiverseid>
-<Rulings>2009/10/01: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
-2009/10/01: If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless.
-2009/10/01: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave> effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes.
-2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

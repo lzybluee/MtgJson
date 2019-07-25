@@ -1,0 +1,105 @@
+<Card>
+<SetId>PMBS</SetId>
+<No>8</No>
+<Name>Hero of Bladehold</Name>
+<Type>Creature — Human Knight 3/4</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Whenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.</CardText>
+<Artist>Scott Chou</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/06/01: Whenever <Hero of Bladehold> attacks, both abilities will trigger. You can put them onto the stack in any order. If the token-creating ability resolves first, the tokens each get +1/+0 until end of turn from the battle cry ability.
+2011/06/01: You choose which opponent or planeswalker an opponent controls that each token is attacking when it is put onto the battlefield.
+2011/06/01: Although the tokens are attacking, they never were declared as attacking creatures (for purposes of abilities that trigger whenever a creature attacks, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Mirrodin Besieged Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMBS</SetId>
+<No>*14</No>
+<Name>Mirran Crusader</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Double strike, protection from black and from green</CardText>
+<Flavor>A symbol of what Mirrodin once was and hope for what it will be again.</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Mirran</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Mirrodin Besieged Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMBS</SetId>
+<No>34</No>
+<Name>Treasure Mage</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Greg Staples</Artist>
+<Rulings>2011/06/01: If a card in your library has X in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Mirrodin Besieged Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PMBS</SetId>
+<No>39</No>
+<Name>Black Sun's Zenith</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBB (2)</ManaCost>
+<CardText>Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.</CardText>
+<Artist>James Paick</Artist>
+<Rulings>2011/06/01: If this spell doesn't resolve, none of its effects occur. In particular, it will go to the graveyard rather than to its owner's library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Mirrodin Besieged Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMBS</SetId>
+<No>96</No>
+<Name>Glissa, the Traitor</Name>
+<Type>Legendary Creature — Zombie Elf 3/3</Type>
+<ManaCost>BGG (3)</ManaCost>
+<CardText>First strike, deathtouch
+Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.</CardText>
+<Artist>Steve Argyle</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2011/06/01: If an artifact you own and a creature an opponent controls go to the graveyard at the same time, you may choose that artifact card as the target of <Glissa, the Traitor>'s ability (even if they're the same card: an artifact creature you own that an opponent controlled).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Mirrodin Besieged Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMBS</SetId>
+<No>140</No>
+<Name>Thopter Assembly</Name>
+<Type>Artifact Creature — Thopter 5/5</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Flying
+At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and create five 1/1 colorless Thopter artifact creature tokens with flying.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/06/01: The triggered ability looks for any permanent you control with the creature type Thopter, not just the Thopter tokens previously created by a <Thopter Assembly>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Mirrodin Besieged Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,281 @@
+<Card>
+<SetId>OC13</SetId>
+<No>186</No>
+<Name>Derevi, Empyrial Tactician</Name>
+<Type>Legendary Creature — Bird Wizard 2/3</Type>
+<ManaCost>GWU (3)</ManaCost>
+<CardText>Flying
+Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.
+{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.</CardText>
+<Artist>Michael Komarck</Artist>
+<Rulings>2013/10/17: You can activate Derevi's last ability only when it is in the command zone.
+2013/10/17: When you activate Derevi's last ability, you're not casting Derevi as a spell. The ability can't be countered by something that counters only spells. The ability isn't subject to the additional cost of casting commanders from the command zone.
+2015/01/19: <Derevi, Empyrial Tactician> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>191</No>
+<Name>Gahiji, Honored One</Name>
+<Type>Legendary Creature — Beast 4/4</Type>
+<ManaCost>2RGW (5)</ManaCost>
+<CardText>Whenever a creature attacks one of your opponents or a planeswalker an opponent controls, that creature gets +2/+0 until end of turn.</CardText>
+<Flavor>He can stir the gentlest spirit to wild ferocity.</Flavor>
+<Artist>Brynn Metheney</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>194</No>
+<Name>Jeleva, Nephalia's Scourge</Name>
+<Type>Legendary Creature — Vampire Wizard 1/3</Type>
+<ManaCost>1UBR (4)</ManaCost>
+<CardText>Flying
+When Jeleva, Nephalia's Scourge enters the battlefield, each player exiles the top X cards of their library, where X is the amount of mana spent to cast Jeleva.
+Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it without paying its mana cost.</CardText>
+<Artist>Cynthia Sheppard</Artist>
+<Rulings>2013/10/17: If you cast a card "without paying its mana cost," you can't pay alternative costs such as overload costs. However, you can pay additional costs such as kicker costs. If the card has mandatory additional costs, you must pay those.
+2013/10/17: If Jeleva leaves the battlefield, the exiled cards will remain exiled indefinitely. If Jeleva enters the battlefield again, it won't be associated with the cards the "other" Jeleva exiled. The new Jeleva will exile a new set of cards. Only those cards can be cast using Jeleva's last ability.
+2013/10/17: The card is cast before blocking creatures are declared.
+2013/10/17: If the card has {X} in its mana cost, you must choose 0 as its value.
+2013/10/17: If you cast an instant or sorcery card using Jeleva's last ability, you do so while that ability is resolving. If you choose not to (or you can't), you won't get a chance to cast it later unless the ability triggers again.
+2013/10/17: When casting an instant or sorcery card this way, ignore all timing restrictions based on the card's type. Other timing restrictions, such as "Cast [this spell] only during combat," must be followed.
+2014/02/01: The amount of mana you spent to cast this creature is usually equal to its converted mana cost. However, you also include any additional costs you pay, including the cost imposed for casting your commander from the command zone.
+2014/02/01: You can't choose to pay extra mana to cast a creature spell unless something instructs you to.
+2014/02/01: If Jeleva enters the battlefield without being cast, then no mana was spent to cast it. This means X will be 0, so no cards will be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>198</No>
+<Name>Marath, Will of the Wild</Name>
+<Type>Legendary Creature — Elemental Beast 0/0</Type>
+<ManaCost>RGW (3)</ManaCost>
+<CardText>Marath, Will of the Wild enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+{X}, Remove X +1/+1 counters from Marath: Choose one —
+• Put X +1/+1 counters on target creature. X can't be 0.
+• Marath deals X damage to any target. X can't be 0.
+• Create an X/X green Elemental creature token. X can't be 0.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2013/10/17: You announce the value of X as you activate the ability, and all instances of X in the activation cost are equal to the announced value. For example, if you choose 2 as the value of X, then you pay {2} and remove two +1/+1 counters to pay the cost.
+2014/02/01: The amount of mana you spent to cast this creature is usually equal to its converted mana cost. However, you also include any additional costs you pay, including the cost imposed for casting your commander from the command zone.
+2014/02/01: You can't choose to pay extra mana to cast a creature spell unless something instructs you to.
+2014/02/01: If Marath enters the battlefield without being cast, then no mana was spent to cast it. It will therefore enter the battlefield without any +1/+1 counters. If no other effects are increasing its toughness at that time, it will subsequently be put into its owner's graveyard as a state-based action.
+2015/01/19: <Marath, Will of the Wild> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>199</No>
+<Name>Mayael the Anima</Name>
+<Type>Legendary Creature — Elf Shaman 2/3</Type>
+<ManaCost>RGW (3)</ManaCost>
+<CardText>{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order.</CardText>
+<Flavor>The sacred Anima's eyes are blind to all but the grandest truths.</Flavor>
+<Artist>Jason Chan</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>201</No>
+<Name>Nekusar, the Mindrazer</Name>
+<Type>Legendary Creature — Zombie Wizard 2/4</Type>
+<ManaCost>2UBR (5)</ManaCost>
+<CardText>At the beginning of each player's draw step, that player draws an additional card.
+Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.</CardText>
+<Flavor>His enemies wondered if the lich king's brutal death and unnatural rebirth had been his plan all along.</Flavor>
+<Artist>Mark Winters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>203</No>
+<Name>Oloro, Ageless Ascetic</Name>
+<Type>Legendary Creature — Giant Soldier 4/5</Type>
+<ManaCost>3WUB (6)</ManaCost>
+<CardText>At the beginning of your upkeep, you gain 2 life.
+Whenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.
+At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2013/10/17: If Oloro is your commander, its last ability will trigger at the beginning of the upkeep step on your first turn.
+2013/10/17: Oloro's second ability triggers just once for each life-gaining event, no matter how much life is gained.
+2013/10/17: You decide whether to pay {1} as the second ability resolves. If you do, you'll draw a card and each opponent will lose 1 life.
+2013/10/17: Oloro's first ability works only if Oloro is on the battlefield.
+2013/10/17: In some unusual cases, you can gain life even though your life total actually decreases. For example, if you are being attacked by two 3/3 creatures and you block one with a 2/2 creature with lifelink, your life total will decrease by 1 even though you've gained 2 life. Oloro's second ability would trigger.
+2013/10/17: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase.
+2013/10/17: If two creatures you control with lifelink deal combat damage at the same time, Oloro's ability will trigger twice. However, if a single creature with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
+2015/01/19: <Oloro, Ageless Ascetic> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>204</No>
+<Name>Prossh, Skyraider of Kher</Name>
+<Type>Legendary Creature — Dragon 5/5</Type>
+<ManaCost>3BRG (6)</ManaCost>
+<CardText>When you cast this spell, create X 0/1 red Kobold creature tokens named Kobolds of Kher Keep, where X is the amount of mana spent to cast Prossh.
+Flying
+Sacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end of turn.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2014/02/01: The amount of mana you spent to cast this creature is usually equal to its converted mana cost. However, you also include any additional costs you pay, including the cost imposed for casting your commander from the command zone.
+2014/02/01: You can't choose to pay extra mana to cast a creature spell unless something instructs you to.
+2014/02/01: The first ability triggers when you cast Prossh, not when it enters the battlefield. This means that it will resolve before Prossh, so any Kobold tokens it creates will be put onto the battlefield before Prossh. If Prossh enters the battlefield without being cast, the ability will not trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>206</No>
+<Name>Roon of the Hidden Realm</Name>
+<Type>Legendary Creature — Rhino Soldier 4/4</Type>
+<ManaCost>2GWU (5)</ManaCost>
+<CardText>Vigilance, trample
+{2}, {T}: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Flavor>"Time and space are just new battlefields to be mastered."</Flavor>
+<Artist>Steve Prescott</Artist>
+<Rulings>2013/10/17: If <Roon of the Hidden Realm>'s ability targets a commander, that card's owner may choose to have it go to the command zone rather than being exiled. The delayed triggered ability will return it to the battlefield no matter which of the two zones it went to, as long as it's still in that zone when that triggered ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>207</No>
+<Name>Rubinia Soulsinger</Name>
+<Type>Legendary Creature — Faerie 2/3</Type>
+<ManaCost>2GWU (5)</ManaCost>
+<CardText>You may choose not to untap Rubinia Soulsinger during your untap step.
+{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.</CardText>
+<Flavor>"Take up the quill, and feel your future flow into the runes."</Flavor>
+<Artist>Cynthia Sheppard</Artist>
+<Rulings>2009/10/01: If <Rubinia Soulsinger> leaves the battlefield, you no longer control it, so the duration of its control-change effect ends.
+2009/10/01: If <Rubinia Soulsinger> stops being tapped before its ability resolves — even if it becomes tapped again right away — you won't gain control of the targeted creature at all. The same is true if you lose control of <Rubinia Soulsinger> before the ability resolves.
+2009/10/01: Once the ability resolves, it doesn't care whether the targeted permanent remains a legal target for the ability, only that it's on the battlefield. The effect will continue to apply to it even if it gains shroud, stops being a creature, or would no longer be a legal target for any other reason.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>210</No>
+<Name>Sek'Kuar, Deathkeeper</Name>
+<Type>Legendary Creature — Orc Shaman 4/3</Type>
+<ManaCost>2BRG (5)</ManaCost>
+<CardText>Whenever another nontoken creature you control dies, create a 3/1 black and red Graveborn creature token with haste.</CardText>
+<Flavor>The orcs believe Sek'Kuar still lives in the Karplusan Mountains, gathering his dead army, intent on revenge.</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>212</No>
+<Name>Sharuum the Hegemon</Name>
+<Type>Legendary Artifact Creature — Sphinx 5/5</Type>
+<ManaCost>3WUB (6)</ManaCost>
+<CardText>Flying
+When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.</CardText>
+<Flavor>To gain audience with the hegemon, one must bring a riddle she has not heard.</Flavor>
+<Artist>Izzy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>213</No>
+<Name>Shattergang Brothers</Name>
+<Type>Legendary Creature — Goblin Artificer 3/3</Type>
+<ManaCost>1BRG (4)</ManaCost>
+<CardText>{2}{B}, Sacrifice a creature: Each other player sacrifices a creature.
+{2}{R}, Sacrifice an artifact: Each other player sacrifices an artifact.
+{2}{G}, Sacrifice an enchantment: Each other player sacrifices an enchantment.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>220</No>
+<Name>Sydri, Galvanic Genius</Name>
+<Type>Legendary Creature — Human Artificer 2/2</Type>
+<ManaCost>WUB (3)</ManaCost>
+<CardText>{U}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
+{W}{B}: Target artifact creature gains deathtouch and lifelink until end of turn.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2013/10/17: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2013/10/17: If the noncreature artifact had any other supertypes, types, or subtypes, it will keep those. In most cases, the artifact creature won't have any creature types.
+2013/10/17: If an Equipment attached to a creature becomes a creature, it becomes unattached. An Equipment that is also a creature can't equip another creature.
+2013/10/17: Multiple instances of deathtouch or lifelink on the same creature are redundant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC13</SetId>
+<No>221</No>
+<Name>Thraximundar</Name>
+<Type>Legendary Creature — Zombie Assassin 6/6</Type>
+<ManaCost>4UBR (7)</ManaCost>
+<CardText>Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</CardText>
+<Flavor>His name means "he who paints the earth red."</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2009/05/01: <Thraximundar>'s middle ability resolves during the declare attackers step. The defending player sacrifices a creature before it would get a chance to block.
+2009/05/01: <Thraximundar>'s last ability triggers whenever any player (including you) sacrifices a creature for any reason. It doesn't trigger only when a creature is sacrificed due to its middle ability. Note that <Thraximundar> itself doesn't allow you to sacrifice any creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2013 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

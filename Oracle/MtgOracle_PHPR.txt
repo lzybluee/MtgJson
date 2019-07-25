@@ -1,0 +1,86 @@
+<Card>
+<SetId>PHPR</SetId>
+<No>1</No>
+<Name>Arena</Name>
+<Type>Land</Type>
+<CardText>{3}, {T}: Tap target creature you control and target creature of an opponent's choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>97042</Multiverseid>
+<Rulings>2004/10/04: The power of the creatures when the effect resolves is used to determine how much damage is done.
+2004/10/04: In multiplayer games, you can choose a different opposing player each time it the ability is activated.
+2004/10/04: Either or both creatures can be tapped prior to using the ability and it still works.
+2006/09/25: If either target is illegal at the time the ability resolves (whether because it has left the battlefield, because it has gained Shroud or Protection, or for any other reason), the ability taps the remaining target, but no damage is dealt. If both targets are illegal, the ability doesn't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>HarperPrism Book Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHPR</SetId>
+<No>2</No>
+<Name>Sewers of Estark</Name>
+<Type>Instant</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking.</CardText>
+<Artist>Melissa A. Benson</Artist>
+<Multiverseid>97054</Multiverseid>
+<Rulings>2008/08/01: This spell can target any creature. The check for whether that creature is attacking or blocking made on resolution, and it will have the appropriate effect at that time.
+2008/08/01: If the creature is neither an attacking creature nor a blocking creature at the time the spell resolves, it will have no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>HarperPrism Book Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHPR</SetId>
+<No>3</No>
+<Name>Windseeker Centaur</Name>
+<Type>Creature — Centaur 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Vigilance</CardText>
+<Flavor>Loyal and passionate in battle, the Windseeker tribe roams the Green Lands near the Honeyed Sea.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Multiverseid>97057</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>HarperPrism Book Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHPR</SetId>
+<No>4</No>
+<Name>Giant Badger</Name>
+<Type>Creature — Badger 2/2</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Whenever Giant Badger blocks, it gets +2/+2 until end of turn.</CardText>
+<Flavor>The wizard Greensleeves called a Giant Badger to her aid in an battle with the desert mage Karli.</Flavor>
+<Artist>Liz Danforth</Artist>
+<Multiverseid>97045</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>HarperPrism Book Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHPR</SetId>
+<No>5</No>
+<Name>Mana Crypt</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+{T}: Add {C}{C}.</CardText>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>97048</Multiverseid>
+<Rulings>2016/06/08: No player may choose to take actions between determining the result of the flip and damage being dealt if you lost the flip.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>HarperPrism Book Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

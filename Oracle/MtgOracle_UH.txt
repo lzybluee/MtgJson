@@ -44,10 +44,10 @@ Enwhay ouyay eakspay ay onnay-igpay-atinlay ordway, acrificesay Atinlay Igpay.</
 <SetId>UH</SetId>
 <No>4</No>
 <Name>Cardpecker</Name>
-<Type>Creature — Bird 1½/1</Type>
+<Type>Creature — Bird 1.5/1</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>Flying
-Gotcha — If an opponent touches the table with their hand, you may say "Gotcha" When you do, return Cardpecker from your graveyard to your hand.</CardText>
+Gotcha — If an opponent touches the table with their hand, you may say "Gotcha!" When you do, return Cardpecker from your graveyard to your hand.</CardText>
 <Artist>Richard Sardinha</Artist>
 <Multiverseid>74244</Multiverseid>
 <Set>Unhinged</Set>
@@ -58,9 +58,9 @@ Gotcha — If an opponent touches the table with their hand, you may say "Gotcha
 <SetId>UH</SetId>
 <No>5</No>
 <Name>Cheap Ass</Name>
-<Type>Creature — Donkey Townsfolk 1/3½</Type>
+<Type>Creature — Donkey Townsfolk 1/3.5</Type>
 <ManaCost>1W (2)</ManaCost>
-<CardText>Spells you play cost {½} less to play.</CardText>
+<CardText>Spells you cast cost {½} less to cast.</CardText>
 <Flavor>And you thought Yawgmoth drove a hard bargain.</Flavor>
 <Artist>Randy Gallegos</Artist>
 <Multiverseid>74220</Multiverseid>
@@ -135,9 +135,10 @@ Creatures with art by the chosen artist get +2/+2.</CardText>
 <ManaCost>2W (3)</ManaCost>
 <CardText>If you control two or more white permanents that share an artist, you may cast Erase (Not the Urza's Legacy One) without paying its mana cost.
 Exile target enchantment.</CardText>
-<Flavor>Synonyms for "erase" we haven't used: ablate, , chafe, fray, , scuff, and scrub.</Flavor>
+<Flavor>Synonyms for "erase" we haven't used: ablate, a̶b̶r̶a̶d̶e̶, chafe, fray, f̶r̶a̶z̶z̶l̶e̶, scuff, and scrub.</Flavor>
 <Artist>Pete "Yes the Urza's Legacy One" Venters</Artist>
 <Multiverseid>74275</Multiverseid>
+<Rulings>2017/01/11: This card recieved errata for its flavor text on Gatherer: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74275</Rulings>
 <Set>Unhinged</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -149,8 +150,7 @@ Exile target enchantment.</CardText>
 <Type>Creature — Human Horror 2/2</Type>
 <ManaCost>1WW (3)</ManaCost>
 <CardText>{W}{W}: Fascist Art Director gains protection from the artist of your choice until end of turn.</CardText>
-<Flavor>Dear Mr. and Mrs. Cranford,
-After careful analysis of Jeremy's vocational testing, I feel that he is best suited for a career in either torture or art direction.</Flavor>
+<Flavor>Dear Mr. and Mrs. Cranford, After careful analysis of Jeremy's vocational testing, I feel that he is best suited for a career in either torture or art direction.</Flavor>
 <Artist>Edward P. "Feed Me" Beard, Jr.</Artist>
 <Multiverseid>74348</Multiverseid>
 <Set>Unhinged</Set>
@@ -218,9 +218,8 @@ Spells cast by players wearing at least one item of women's clothing cost {1} le
 <SetId>UH</SetId>
 <No>16</No>
 <Name>Little Girl</Name>
-<Type>Creature — Human Child ½/½</Type>
-<ManaCost>{hw} (0)</ManaCost>
-<ColorIndicator>White Blue</ColorIndicator>
+<Type>Creature — Human Child .5/.5</Type>
+<ManaCost>{HW} (0)</ManaCost>
 <Flavor>In the future, she may be a distinguished leader, a great scholar, or a decorated hero. These days all she does is pee the bed.</Flavor>
 <Artist>Rebecca Guay</Artist>
 <Multiverseid>74257</Multiverseid>
@@ -266,7 +265,7 @@ As long as you're taller than an opponent, Man of Measure gets +1/+0.</CardText>
 <CardText>Choose one —
 • Target player gains 2½ life.
 • Prevent the next 2½ damage that would be dealt to target creature this turn.
-Gotcha — If an opponent says "save" or "life," you may say "Gotcha" When you do, return Save Life from your graveyard to your hand.</CardText>
+Gotcha — If an opponent says "save" or "life," you may say "Gotcha!" When you do, return Save Life from your graveyard to your hand.</CardText>
 <Flavor>Who consistently managed to win.</Flavor>
 <Artist>Ray Lago</Artist>
 <Multiverseid>74277</Multiverseid>
@@ -353,9 +352,7 @@ Enchanted creature gets +1/+1 for each word in its name.</CardText>
 <ManaCost>2U (3)</ManaCost>
 <CardText>{T}: Draw a card, then discard a card.
 Whenever a permanent that shares an artist with another permanent you control enters the battlefield, untap Artful Looter.</CardText>
-<Flavor>PRICELESS PIC PILFERED
-Painting Found Abandoned in Graveyard
-Merfolk Decry Wizards' Treatment</Flavor>
+<Flavor>PRICELESS PIC PILFERED Painting Found Abandoned in Graveyard Merfolk Decry Wizards' Treatment</Flavor>
 <Artist>Heather "Erica Gassalasca-Jape" Hudson</Artist>
 <Multiverseid>74356</Multiverseid>
 <Set>Unhinged</Set>
@@ -534,7 +531,7 @@ Whenever enchanted creature deals damage to an opponent, that player may say the
 <Type>Creature — Human Gamer 1/2</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>{U}: Change the text of target spell or permanent by replacing all instances of + with -, and vice versa, until end of turn.</CardText>
-<Flavor>1|= y()u (4|\| r3@d 7#5, y0|_| /\r3 @ IVI0/\/$+3|2 &33|<</Flavor>
+<Flavor>1|= y()u (4|\| r3@d 7#][5, y0|_| /\r3 @ IVI0/\/$+3|2 &33|<</Flavor>
 <Artist>Doug Chaffee</Artist>
 <Multiverseid>74256</Multiverseid>
 <Set>Unhinged</Set>
@@ -604,7 +601,7 @@ Whenever enchanted creature deals damage to an opponent, that player may say the
 <Type>Instant</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Return target permanent to its owner's hand.
-Gotcha — If an opponent says a number, you may say "Gotcha" When you do, return Number Crunch from your graveyard to your hand.</CardText>
+Gotcha — If an opponent says a number, you may say "Gotcha!" When you do, return Number Crunch from your graveyard to your hand.</CardText>
 <Flavor>Can you digit?</Flavor>
 <Artist>Stephen Daniele</Artist>
 <Multiverseid>74337</Multiverseid>
@@ -645,7 +642,7 @@ Are you aware that any time you say something that isn't a question, when a play
 <SetId>UH</SetId>
 <No>45</No>
 <Name>Smart Ass</Name>
-<Type>Creature — Donkey Wizard 2½/1</Type>
+<Type>Creature — Donkey Wizard 2.5/1</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Whenever Smart Ass attacks, choose a card name. If defending player has no cards with the chosen name in their hand, they may reveal their hand. If they don't reveal their hand, Smart Ass can't be blocked this turn.</CardText>
 <Flavor>"I don't get it. Why doesn't anybody like me?"</Flavor>
@@ -662,7 +659,7 @@ Are you aware that any time you say something that isn't a question, when a play
 <Type>Instant</Type>
 <ManaCost>2UU (4)</ManaCost>
 <CardText>Counter target spell.
-Gotcha — If an opponent says "spell" or "counter," you may say "Gotcha" When you do, return Spell Counter from your graveyard to your hand.</CardText>
+Gotcha — If an opponent says "spell" or "counter," you may say "Gotcha!" When you do, return Spell Counter from your graveyard to your hand.</CardText>
 <Flavor>Playing Unhinged, . . .</Flavor>
 <Artist>Doug Chaffee</Artist>
 <Multiverseid>74339</Multiverseid>
@@ -681,6 +678,7 @@ As long as there are more than two players in the game, the turn order is revers
 <Flavor>"Here on going is heck the what?"</Flavor>
 <Artist>Jeff Miracola</Artist>
 <Multiverseid>74321</Multiverseid>
+<Rulings>2017/08/14: <Topsy Turvy> was printed upside down relative to the Magic card back on the other side. <Topsy Turvy> is "upright" when the artwork is oriented at the bottom. That's the joke! For more information, see http://magic.wizards.com/en/articles/archive/making-magic/get-it-unhinged-edition-part-1-2017-08-14</Rulings>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -702,7 +700,7 @@ As long as there are more than two players in the game, the turn order is revers
 <SetId>UH</SetId>
 <No>49</No>
 <Name>Bad Ass</Name>
-<Type>Creature — Donkey Zombie 3½/1</Type>
+<Type>Creature — Donkey Zombie 3.5/1</Type>
 <ManaCost>2BB (4)</ManaCost>
 <CardText>{1}{B}, Growl: Regenerate Bad Ass.</CardText>
 <Flavor>He wanders the land in search of Good Ass.</Flavor>
@@ -720,9 +718,10 @@ As long as there are more than two players in the game, the turn order is revers
 <ManaCost>2B (3)</ManaCost>
 <CardText>When the names of three or more nonland permanents begin with the same letter, sacrifice Bloodletter. If you do, it deals 2 damage to each creature and each player.</CardText>
 <Flavor>"That's not really an A. It's an Æ. They changed it! Wait, don't—"
-—Hœbrus Væm, Aerathi librarian, last words</Flavor>
+—Hæbrus Væm, Ærathi librarian, last words</Flavor>
 <Artist>Daren Bader</Artist>
 <Multiverseid>73979</Multiverseid>
+<Rulings>2017/01/11: This card recieved errata for its flavor text on Gatherer: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=73979</Rulings>
 <Set>Unhinged</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -748,8 +747,7 @@ As long as there are more than two players in the game, the turn order is revers
 <Type>Instant</Type>
 <ManaCost>B (1)</ManaCost>
 <CardText>Destroy target creature with reminder text. (Reminder text is any italicized text in parentheses that explains rules you already know.)</CardText>
-<Flavor>Will players understand that the creature is being crushed by two parentheses?
-Not a chance.</Flavor>
+<Flavor>Will players understand that the creature is being crushed by two parentheses? Not a chance.</Flavor>
 <Artist>Dave Dorman</Artist>
 <Multiverseid>73943</Multiverseid>
 <Set>Unhinged</Set>
@@ -833,7 +831,7 @@ Once each turn, while you're searching your library, you may pay {1}{B}, reveal 
 <Type>Instant</Type>
 <ManaCost>1BB (3)</ManaCost>
 <CardText>Destroy target nonblack creature.
-Gotcha — If an opponent says "kill" or "destroy," you may say "Gotcha" When you do, return Kill Destroy from your graveyard to your hand.</CardText>
+Gotcha — If an opponent says "kill" or "destroy," you may say "Gotcha!" When you do, return Kill Destroy from your graveyard to your hand.</CardText>
 <Flavor>Getting "Gotcha'ed" again and again.</Flavor>
 <Artist>Corey D. Macourek</Artist>
 <Multiverseid>74322</Multiverseid>
@@ -906,7 +904,7 @@ When a balanced card falls or touches another balanced card, sacrifice Phyrexian
 <Type>Instant</Type>
 <ManaCost>B (1)</ManaCost>
 <CardText>Target player discards a card.
-Gotcha — If an opponent audibly flicks the cards in their hand, you may say "Gotcha" When you do, return Stop That from your graveyard to your hand.</CardText>
+Gotcha — If an opponent audibly flicks the cards in their hand, you may say "Gotcha!" When you do, return Stop That from your graveyard to your hand.</CardText>
 <Flavor>Now for a squirt of lemon juice.</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>74346</Multiverseid>
@@ -932,7 +930,7 @@ Gotcha — If an opponent audibly flicks the cards in their hand, you may say "G
 <SetId>UH</SetId>
 <No>65</No>
 <Name>Vile Bile</Name>
-<Type>Creature — Ooze 2½/2½</Type>
+<Type>Creature — Ooze 2.5/2.5</Type>
 <ManaCost>1B (2)</ManaCost>
 <CardText>Whenever a player's skin or fingernail touches Vile Bile, that player loses 2 life.</CardText>
 <Artist>Tony Szczudlo</Artist>
@@ -1018,7 +1016,7 @@ Whenever a permanent with art by the chosen artist is put into a graveyard, put 
 <SetId>UH</SetId>
 <No>71</No>
 <Name>Assquatch</Name>
-<Type>Creature — Donkey 3½/3½</Type>
+<Type>Creature — Donkey 3.5/3.5</Type>
 <ManaCost>4R (5)</ManaCost>
 <CardText>Each other Donkey gets +1½/+1½.
 Whenever another Donkey enters the battlefield, untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.</CardText>
@@ -1045,26 +1043,12 @@ Blast from the Past deals 2 damage to any target. If this spell was kicked, crea
 
 <Card>
 <SetId>UH</SetId>
-<No>73</No>
-<Name>Curse of the Fire Penguin Creature</Name>
-<Type>Creature — Penguin 6/5</Type>
-<ManaCost>4RR (6)</ManaCost>
-<CardText>Trample
-When this creature dies, return Curse of the Fire Penguin to the battlefield.</CardText>
-<Artist>Matt Thompson</Artist>
-<Multiverseid>73956</Multiverseid>
-<Set>Unhinged</Set>
-<Rarity>Rare</Rarity>
-</Card>
-
-<Card>
-<SetId>UH</SetId>
 <No>74</No>
 <Name>Deal Damage</Name>
 <Type>Instant</Type>
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Deal Damage deals 4 damage to any target.
-Gotcha — If an opponent says "deal" or "damage," you may say "Gotcha" When you do, return Deal Damage from your graveyard to your hand.</CardText>
+Gotcha — If an opponent says "deal" or "damage," you may say "Gotcha!" When you do, return Deal Damage from your graveyard to your hand.</CardText>
 <Flavor>Until he got singed . . .</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>74359</Multiverseid>
@@ -1076,7 +1060,7 @@ Gotcha — If an opponent says "deal" or "damage," you may say "Gotcha" When you
 <SetId>UH</SetId>
 <No>75</No>
 <Name>Dumb Ass</Name>
-<Type>Creature — Donkey Barbarian 3½/2</Type>
+<Type>Creature — Donkey Barbarian 3.5/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>At the beginning of your upkeep, flip a coin. If you lose the flip, target opponent chooses whether Dumb Ass attacks this turn.</CardText>
 <Flavor>Envying the intelligence of goblins is a bad place to be.</Flavor>
@@ -1136,9 +1120,7 @@ Gotcha — If an opponent says "deal" or "damage," you may say "Gotcha" When you
 <ManaCost>2R (3)</ManaCost>
 <CardText>First strike
 At the beginning of your upkeep, reveal a card from your hand at random.</CardText>
-<Flavor>SECRET AGENT
-PD042198
-LICENSE TO BE KILLED</Flavor>
+<Flavor>SECRET AGENT PD042198 LICENSE TO BE KILLED</Flavor>
 <Artist>Tony Szczudlo</Artist>
 <Multiverseid>74295</Multiverseid>
 <Set>Unhinged</Set>
@@ -1166,9 +1148,7 @@ LICENSE TO BE KILLED</Flavor>
 <Type>Instant</Type>
 <ManaCost>1R (2)</ManaCost>
 <CardText>Add {R} for each nonland permanent with art by the artist of your choice.</CardText>
-<Flavor>What began as black
-Has slowly shifted to red.
-Fickle color pie.</Flavor>
+<Flavor>What began as black Has slowly shifted to red. Fickle color pie.</Flavor>
 <Artist>Paolo "That's Actually Me" Parente</Artist>
 <Multiverseid>74266</Multiverseid>
 <Set>Unhinged</Set>
@@ -1181,12 +1161,8 @@ Fickle color pie.</Flavor>
 <Name>Mons's Goblin Waiters</Name>
 <Type>Creature — Goblin Waiter 1/1</Type>
 <ManaCost>R (1)</ManaCost>
-<CardText>Sacrifice a creature or land: Add {hr}.</CardText>
-<Flavor>Poached Rukh Eggs
-Rock
-Cooked Rock
-Unicorn-on-the-Cob
-Wormfang Turtle Soup</Flavor>
+<CardText>Sacrifice a creature or land: Add {HR}.</CardText>
+<Flavor>Poached Rukh Eggs Rock Cooked Rock Unicorn-on-the-Cob Wormfang Turtle Soup</Flavor>
 <Artist>Pete Venters</Artist>
 <Multiverseid>73957</Multiverseid>
 <Set>Unhinged</Set>
@@ -1200,8 +1176,7 @@ Wormfang Turtle Soup</Flavor>
 <Type>Creature — Orc Paratrooper 4/4</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>When Orcish Paratroopers enters the battlefield, flip it from a height of at least one foot. Sacrifice Orcish Paratroopers unless it turns over completely at least once during the flip and lands face up.</CardText>
-<Flavor>IOU one parashoot
-—Urk, mogg fanatic</Flavor>
+<Flavor>IOU one parashoot —Urk, mogg fanatic</Flavor>
 <Artist>Matt Thompson</Artist>
 <Multiverseid>73960</Multiverseid>
 <Set>Unhinged</Set>
@@ -1214,7 +1189,7 @@ Wormfang Turtle Soup</Flavor>
 <Name>Punctuate</Name>
 <Type>Instant</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. (The punctuation marks are  ? , ; : - — ( ) / " " ' '  & .)</CardText>
+<CardText>Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. (The punctuation marks are ? , ; : - — ( ) / " " ' ' &amp; .)</CardText>
 <Flavor>"Ooh—right in the colon."</Flavor>
 <Artist>Jim Pavelec</Artist>
 <Multiverseid>74248</Multiverseid>
@@ -1260,6 +1235,7 @@ Wormfang Turtle Soup</Flavor>
 <CardText>Super haste (This may attack the turn before you cast it. (You may put this card from your hand onto the battlefield tapped and attacking during your declare attackers step. If you do, you lose the game at the beginning of your next turn's end step unless you pay this card's mana cost during that turn.))</CardText>
 <Artist>Franz Vohwinkel</Artist>
 <Multiverseid>74324</Multiverseid>
+<Rulings>2018/01/15: The flavor text unscrambles to "Did you go through all the trouble to unscramble this?"</Rulings>
 <Set>Unhinged</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -1272,8 +1248,7 @@ Wormfang Turtle Soup</Flavor>
 <ManaCost>1RR (3)</ManaCost>
 <CardText>Sauté deals 3½ damage to any target.</CardText>
 <Flavor>"Selecting the proper beeble is the key to a good sauté. The pinker the fur and the heartier the yelp, the more succulent the beeble will be when you pop it in your mouth."
-—Asmoranomardicadaistinaculdacar,
-The Underworld Cookbook,</Flavor>
+—Asmoranomardicadaistinaculdacar, The Underworld Cookbook,</Flavor>
 <Artist>Jeff Miracola</Artist>
 <Multiverseid>74242</Multiverseid>
 <Set>Unhinged</Set>
@@ -1301,7 +1276,7 @@ The Underworld Cookbook,</Flavor>
 <Type>Sorcery</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>Destroy target land.
-Gotcha — If an opponent touches their face, you may say "Gotcha" When you do, return Touch and Go from your graveyard to your hand.</CardText>
+Gotcha — If an opponent touches their face, you may say "Gotcha!" When you do, return Touch and Go from your graveyard to your hand.</CardText>
 <Flavor>Judge's ruling: The interior of the face still counts as the face, so a nose-pick is legitimate grounds for saying "Gotcha"</Flavor>
 <Artist>Ben Thompson</Artist>
 <Multiverseid>74349</Multiverseid>
@@ -1347,7 +1322,7 @@ B-I-N-G-O gets +9/+9 for each set of three numbers in a row with chip counters o
 <Name>Creature Guy</Name>
 <Type>Creature — Beast 3/3</Type>
 <ManaCost>3G (4)</ManaCost>
-<CardText>Gotcha — If an opponent says "creature" or "guy," you may say "Gotcha" When you do, return Creature Guy from your graveyard to your hand.</CardText>
+<CardText>Gotcha — If an opponent says "creature" or "guy," you may say "Gotcha!" When you do, return Creature Guy from your graveyard to your hand.</CardText>
 <Flavor>There once was a player named Quinn, . . .</Flavor>
 <Artist>Jeff Easley</Artist>
 <Multiverseid>74303</Multiverseid>
@@ -1373,7 +1348,7 @@ B-I-N-G-O gets +9/+9 for each set of three numbers in a row with chip counters o
 <SetId>UH</SetId>
 <No>95</No>
 <Name>Fat Ass</Name>
-<Type>Creature — Donkey Shaman 2/3½</Type>
+<Type>Creature — Donkey Shaman 2/3.5</Type>
 <ManaCost>4G (5)</ManaCost>
 <CardText>Fat Ass gets +2/+2 and has trample as long as you're eating. (Gum isn't food. We checked.)</CardText>
 <Flavor>Our lawyers say no matter how funny it would be, we can't encourage players to eat the cards. Hear that? Whatever you do, don't eat the delicious cards.</Flavor>
@@ -1403,7 +1378,7 @@ You can't cast spells.</CardText>
 <SetId>UH</SetId>
 <No>97</No>
 <Name>Fraction Jackson</Name>
-<Type>Creature — Human Hero 1/1½</Type>
+<Type>Creature — Human Hero 1/1.5</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>{G}, {T}: Return target card with a ½ on it from your graveyard to your hand.</CardText>
 <Flavor>Bitten by radioactive beebles in a freak algebra accident, young Ricky Robertson discovered he'd gained the ability to harness the awesome power of fractions</Flavor>
@@ -1434,9 +1409,7 @@ When the chosen finger isn't touching Gluetius Maximus, sacrifice Gluetius Maxim
 <Type>Sorcery</Type>
 <ManaCost>7G (8)</ManaCost>
 <CardText>You gain life equal to your age.</CardText>
-<Flavor>R&D Comments
-BB 10/10: Why does a life-gaining card show an old lady killing people?
-MR (10/10/03): We'll fix it in the flavor text.</Flavor>
+<Flavor>R&D Comments BB 10/10: Why does a life-gaining card show an old lady killing people? MR (10/10/03): We'll fix it in the flavor text.</Flavor>
 <Artist>Joel Thomas</Artist>
 <Multiverseid>74281</Multiverseid>
 <Set>Unhinged</Set>
@@ -1491,7 +1464,7 @@ Whenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 
 <Name>Laughing Hyena</Name>
 <Type>Creature — Hyena 2/2</Type>
 <ManaCost>1G (2)</ManaCost>
-<CardText>Gotcha — If an opponent laughs, you may say "Gotcha" When you do, return Laughing Hyena from your graveyard to your hand.</CardText>
+<CardText>Gotcha — If an opponent laughs, you may say "Gotcha!" When you do, return Laughing Hyena from your graveyard to your hand.</CardText>
 <Flavor>"Two muffins are baking in an oven. One muffin says to the other muffin, 'It's getting hot in here, huh?' The other muffin says, 'Aagh A talking muffin'"</Flavor>
 <Artist>Mark Poole</Artist>
 <Multiverseid>74293</Multiverseid>
@@ -1520,7 +1493,7 @@ Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins wit
 <Name>Name Dropping</Name>
 <Type>Enchantment</Type>
 <ManaCost>1G (2)</ManaCost>
-<CardText>Gotcha — If an opponent says a word that's in the name of a card in your graveyard, you may say "Gotcha" When you do, return that card to your hand.</CardText>
+<CardText>Gotcha — If an opponent says a word that's in the name of a card in your graveyard, you may say "Gotcha!" When you do, return that card to your hand.</CardText>
 <Flavor>Gemini (May 21–June 21) This week is a good time to branch out and meet others, but don't forget your roots. Avoid commitments and open flame.</Flavor>
 <Artist>Tony Szczudlo</Artist>
 <Multiverseid>74286</Multiverseid>
@@ -1564,8 +1537,7 @@ Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins wit
 <ManaCost>2G (3)</ManaCost>
 <CardText>If you control two or more green permanents that share an artist, you may cast this spell without paying its mana cost.
 Exile target artifact.</CardText>
-<Flavor>6 PM (23) This Old Grove 98055
-A rusted masticore makes a beautiful addition to any garden.</Flavor>
+<Flavor>6 PM (23) This Old Grove 98055 A rusted masticore makes a beautiful addition to any garden.</Flavor>
 <Artist>Lars Grant-"Wild Wild"-West</Artist>
 <Multiverseid>74310</Multiverseid>
 <Set>Unhinged</Set>
@@ -1619,7 +1591,7 @@ S.N.O.T.'s power and toughness are each equal to the square of the number of car
 <SetId>UH</SetId>
 <No>112</No>
 <Name>Stone-Cold Basilisk</Name>
-<Type>Creature — Basilisk 2½/5</Type>
+<Type>Creature — Basilisk 2.5/5</Type>
 <ManaCost>4G (5)</ManaCost>
 <CardText>Whenever Stone-Cold Basilisk blocks or becomes blocked by a creature with fewer letters in its name, destroy that creature at end of combat. (Punctuation and spaces aren't letters.)
 Whenever an opponent reads Stone-Cold Basilisk, that player is turned to stone until end of turn. Stoned players can't attack, block, cast spells, or activate abilities.</CardText>
@@ -1680,7 +1652,7 @@ Tap two untapped Apes you control: Create a 1/1 green Ape creature token.</CardT
 <Name>"Ach! Hans, Run!"</Name>
 <Type>Enchantment</Type>
 <ManaCost>2RRGG (6)</ManaCost>
-<CardText>At the beginning of your upkeep, you may say "Ach! Hans, run! It's the . . ." and name a creature card. If you do, search your library for the named card, put it into play, then shuffle your library. That creature has haste. Remove it from the game at end of turn.</CardText>
+<CardText>At the beginning of your upkeep, you may say "Ach Hans, run It's the . . ." and the name of a creature card. If you do, search your library for a card with that name, put it onto the battlefield, then shuffle your library. That creature gains haste. Exile it at the beginning of the next end step.</CardText>
 <Artist>Quinton Hoover</Artist>
 <Multiverseid>73935</Multiverseid>
 <Set>Unhinged</Set>
@@ -1694,8 +1666,7 @@ Tap two untapped Apes you control: Create a 1/1 green Ape creature token.</CardT
 <Type>Sorcery</Type>
 <ManaCost>1WB (3)</ManaCost>
 <CardText>Destroy target silver-bordered permanent in any game you can see from your seat.</CardText>
-<Flavor>Asses to ashes,
-Donkeys to dust.</Flavor>
+<Flavor>Asses to ashes, Donkeys to dust.</Flavor>
 <Artist>Don Hazeltine</Artist>
 <Multiverseid>74329</Multiverseid>
 <Set>Unhinged</Set>
@@ -1738,7 +1709,6 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>XW (1)</ManaCost>
 <CardText>Target player gains X life.</CardText>
-<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1752,7 +1722,6 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Destroy target artifact.</CardText>
-<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1766,7 +1735,6 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Counter target creature spell.</CardText>
-<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1780,7 +1748,6 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Destroy target land.</CardText>
-<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1794,7 +1761,6 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Destroy target enchantment.</CardText>
-<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1850,7 +1816,7 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Artifact</Type>
 <ManaCost>15 (15)</ManaCost>
 <CardText>{T}: Add {∞}.
-{1}00: Add one mana of any color.</CardText>
+{100}: Add one mana of any color.</CardText>
 <Artist>Kevin Dobler</Artist>
 <Multiverseid>74323</Multiverseid>
 <Set>Unhinged</Set>
@@ -2005,8 +1971,7 @@ Whenever a player's pop counter hits 5, that player creates a 5/5 pink Giant Ted
 <Type>Legendary Land</Type>
 <CardText>Play cards as written. Ignore all errata.
 {T}: Add {C} to your mana pool. (This mana is still added to your mana pool.)</CardText>
-<Flavor>"Let them complain. As long as the addictive ink is working, we can do anything we want."
-PLAY AT YOUR OWN RISK</Flavor>
+<Flavor>"Let them complain. As long as the addictive ink is working, we can do anything we want." PLAY AT YOUR OWN RISK</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>73967</Multiverseid>
 <Set>Unhinged</Set>
@@ -2096,7 +2061,7 @@ PLAY AT YOUR OWN RISK</Flavor>
 <ManaCost>3 (3)</ManaCost>
 <CardText>Premium spells cost {1} less to cast.
 Premium creatures get +1/+1.</CardText>
-<Flavor>"Ooh . . . shiny"</Flavor>
+<Flavor>"Ooh . . . shiny!"</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>74272</Multiverseid>
 <Set>Unhinged</Set>

@@ -1,0 +1,182 @@
+<Card>
+<SetId>J14</SetId>
+<No>1</No>
+<Name>Karador, Ghost Chieftain</Name>
+<Type>Legendary Creature — Centaur Spirit 3/4</Type>
+<ManaCost>5WBG (8)</ManaCost>
+<CardText>This spell costs {1} less to cast for each creature card in your graveyard.
+During each of your turns, you may cast one creature card from your graveyard.</CardText>
+<Flavor>"Death tried to uncrown me. But now I return, king of a greater realm."</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/09/22: If Karador is your commander, calculate any cost increases, including the one based on the number of times you've cast Karador from the command zone, before considering Karador's cost-reduction ability.
+2011/09/22: If you somehow cast Karador from a graveyard, its cost-reduction ability won't count itself.
+2011/09/22: Although Karador's second ability allows you to cast one creature card from your graveyard on each of your turns, it doesn't change when you can cast that card. Unless it has flash, the creature card must be cast during one of your main phases when the stack is empty.
+2011/09/22: Karador's second ability doesn't affect the costs you need to pay to cast that creature spell.
+2011/09/22: Karador's first ability functions on the stack. Karador's second ability functions only on the battlefield.
+2011/09/22: If you cast a creature card from your graveyard, then Karador leaves the battlefield, then returns to the battlefield, you may cast another creature card from your graveyard that turn. If you didn't cast a creature card from your graveyard while Karador was on the battlefield the first time, you may still cast only one creature card from your graveyard when it returns to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>2</No>
+<Name>Greater Good</Name>
+<Type>Enchantment</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.</CardText>
+<Flavor>"To examine the causes of life, we must first have recourse to death."
+—Mary Shelley, Frankenstein</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2005/08/01: You must discard three cards regardless of how many cards you drew. If you have less than three cards in hand, you discard your hand.
+2005/08/01: You draw cards equal to the creature's power when you sacrificed it. This includes any bonuses from effects like Giant Growth.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>3</No>
+<Name>Riku of Two Reflections</Name>
+<Type>Legendary Creature — Human Wizard 2/2</Type>
+<ManaCost>2GUR (5)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.
+Whenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, create a token that's a copy of that creature.</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/09/22: Each time the first ability triggers, you can pay {U}{R} only one time to get one copy of the spell. Each time the second ability triggers, you can pay {G}{U} only one time to get one token.
+2011/09/22: If the spell that caused Riku's first ability to trigger has left the stack by the time the ability resolves, you can still pay {U}{R}. If you do, you'll copy the spell as it last existed on the stack.
+2011/09/22: Riku's first ability triggers whenever you cast any instant or sorcery spell, regardless of whether that spell has targets.
+2011/09/22: If the copied spell has {X} in its mana cost, the value of X is copied.
+2011/09/22: If the copied spell is modal (that is, it says "Choose one —" or the like), the copy has the same mode as the original spell. You can't choose a different one.
+2011/09/22: You can't pay any additional costs for the copy. However, effects based on any additional costs paid for the original spell are copied as though those same costs were paid for the copy. Notably, if the original spell was kicked (or kicked a certain number of times), the copy will also be kicked (or kicked that many times).
+2011/09/22: If the creature that caused Riku's second ability to trigger has already left the battlefield by the time the ability resolves, you can still pay {G}{U}. If you do, you'll still put a token onto the battlefield. That token has the copiable values of the characteristics of that creature as it last existed on the battlefield.
+2011/09/22: As the token is created, it checks the printed values of the creature it's copying, as well as any copy effects that have been applied to it.
+2011/09/22: The copiable values of the token's characteristics are the same as the copiable values of the characteristics of the creature it's copying.
+2011/09/22: If the creature had {X} in its mana cost, X must be 0. Note this is different from an {X} found in the mana cost of a copied spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>4</No>
+<Name>Force of Will</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.
+Counter target spell.</CardText>
+<Artist>Matt Stewart</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2016/06/08: If another effect causes <Force of Will> to cost more, you must pay that additional cost even if you pay its alternative cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>5</No>
+<Name>Hanna, Ship's Navigator</Name>
+<Type>Legendary Creature — Human Artificer 1/2</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand.</CardText>
+<Flavor>"I never thought I'd spend my life fighting. I'm a maker, not a destroyer."</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>6</No>
+<Name>Sword of Feast and Famine</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from black and from green.
+Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.
+Equip {2}</CardText>
+<Artist>Chris Rahn</Artist>
+<Rulings>2011/06/01: You'll untap all lands you control even if the player doesn't discard a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>7</No>
+<Name>Nekusar, the Mindrazer</Name>
+<Type>Legendary Creature — Zombie Wizard 2/4</Type>
+<ManaCost>2UBR (5)</ManaCost>
+<CardText>At the beginning of each player's draw step, that player draws an additional card.
+Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.</CardText>
+<Flavor>His enemies wondered if the lich king's brutal death and unnatural rebirth had been his plan all along.</Flavor>
+<Artist>Mark Winters</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>8</No>
+<Name>Elesh Norn, Grand Cenobite</Name>
+<Type>Legendary Creature — Praetor 4/7</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Vigilance
+Other creatures you control get +2/+2.
+Creatures your opponents control get -2/-2.</CardText>
+<Flavor>"The Gitaxians whisper among themselves of other worlds. If they exist, we must bring Phyrexia's magnificence to them."</Flavor>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2017/11/17: If a second <Elesh Norn, Grand Cenobite> comes under your control, you'll put one into its owner's graveyard due to the "legend rule" at the same time that any of your opponents' creatures getting -4/-4 are put into their owner's graveyard for having 0 or less toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J14</SetId>
+<No>9</No>
+<Name>Oloro, Ageless Ascetic</Name>
+<Type>Legendary Creature — Giant Soldier 4/5</Type>
+<ManaCost>3WUB (6)</ManaCost>
+<CardText>At the beginning of your upkeep, you gain 2 life.
+Whenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.
+At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2013/10/17: If Oloro is your commander, its last ability will trigger at the beginning of the upkeep step on your first turn.
+2013/10/17: Oloro's second ability triggers just once for each life-gaining event, no matter how much life is gained.
+2013/10/17: You decide whether to pay {1} as the second ability resolves. If you do, you'll draw a card and each opponent will lose 1 life.
+2013/10/17: Oloro's first ability works only if Oloro is on the battlefield.
+2013/10/17: In some unusual cases, you can gain life even though your life total actually decreases. For example, if you are being attacked by two 3/3 creatures and you block one with a 2/2 creature with lifelink, your life total will decrease by 1 even though you've gained 2 life. Oloro's second ability would trigger.
+2013/10/17: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase.
+2013/10/17: If two creatures you control with lifelink deal combat damage at the same time, Oloro's ability will trigger twice. However, if a single creature with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
+2015/01/19: <Oloro, Ageless Ascetic> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

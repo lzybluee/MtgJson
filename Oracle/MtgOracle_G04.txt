@@ -1,0 +1,109 @@
+<Card>
+<SetId>G04</SetId>
+<No>1</No>
+<Name>Armageddon</Name>
+<Type>Sorcery</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Destroy all lands.</CardText>
+<Flavor>"'O miserable of happy! Is this the end/ Of this new glorious world... ?'"
+—John Milton, Paradise Lost</Flavor>
+<Artist>John Avon</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G04</SetId>
+<No>2</No>
+<Name>Balance</Name>
+<Type>Sorcery</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2016/06/08: First the player whose turn it is chooses which lands (if any) to keep, then each other player in turn order does the same. Each player will know the choices made by the players who chose before them. All of the unchosen lands are then sacrificed simultaneously. Then the process is repeated for cards in hand, except that no cards are revealed until all players have chosen what to discard, at which point those cards are all discarded simultaneously. Lastly, the process is repeated for creatures, and players will again know earlier choices made when deciding what to sacrifice. All of the unchosen creatures are then sacrificed simultaneously.
+2016/06/08: <Balance> doesn't have targets, so permanents that can't be targeted, such as a creature with shroud or protection from white, are valid choices to be sacrificed.
+2016/06/08: Each type of object is counted during the corresponding part of the process. Cards in hand are counted after lands have been sacrificed, and creatures on the battlefield are counted after cards have been discarded. Thus, a land creature sacrificed to the first part of the spell would not be counted when determining how many creatures are on the battlefield for the last part.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G04</SetId>
+<No>3</No>
+<Name>Time Warp</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Target player takes an extra turn after this one.</CardText>
+<Flavor>"Let's do it again!"
+—Squee, goblin cabin hand</Flavor>
+<Artist>Pete Venters</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: If multiple "extra turn" effects resolve in the same turn, take them in the reverse of the order that the effects resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G04</SetId>
+<No>4</No>
+<Name>Phyrexian Negator</Name>
+<Type>Creature — Horror 5/5</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Trample
+Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents.</CardText>
+<Flavor>They exist to cease.</Flavor>
+<Artist>John Zeleznik</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: Sacrificing this card does not prevent you from having to make the other sacrifices.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G04</SetId>
+<No>5</No>
+<Name>Deranged Hermit</Name>
+<Type>Creature — Elf 1/1</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Deranged Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens.
+Squirrel creatures get +1/+1.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: The Squirrel tokens get the bonus, so they are effectively 2/2 creatures until the Hermit leaves the battlefield. And they get bigger if multiple Hermits are on the battlefield.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G04</SetId>
+<No>6</No>
+<Name>Hermit Druid</Name>
+<Type>Creature — Human Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.</CardText>
+<Flavor>Seeking the company of plants ensures that your wits will go to seed.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: You can put the cards from your library into your graveyard in any order.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,109 @@
+<Card>
+<SetId>PWWK</SetId>
+<No>38</No>
+<Name>Hada Freeblade</Name>
+<Type>Creature — Human Soldier Ally 0/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.</CardText>
+<Artist>Cyril Van Der Haegen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Worldwake Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWWK</SetId>
+<No>39</No>
+<Name>Kalastria Highborn</Name>
+<Type>Creature — Vampire Shaman 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Whenever Kalastria Highborn or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2010/03/01: If multiple Vampires you control (possibly including <Kalastria Highborn> itself) are put into their owners' graveyards at the same time, <Kalastria Highborn>'s ability triggers that many times.
+2010/03/01: You target a player when the ability triggers. You choose whether to pay {B} as the ability resolves. You may pay {B} only once per resolution.
+2010/03/01: If the targeted player is an illegal target by the time the ability resolves (for example, if that player has left a multiplayer game), the entire ability doesn't resolve. You can't pay {B} and you don't gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Worldwake Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWWK</SetId>
+<No>65*</No>
+<Name>Ruthless Cullblade</Name>
+<Type>Creature — Vampire Warrior 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.</CardText>
+<Flavor>She wields a blade as bloodthirsty and elegant as herself.</Flavor>
+<Artist>rk post</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Worldwake Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PWWK</SetId>
+<No>76</No>
+<Name>Comet Storm</Name>
+<Type>Instant</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose any target, then choose another target for each time this spell was kicked. Comet Storm deals X damage to each of them.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Rulings>2010/03/01: The number of targets you choose for <Comet Storm> is one more than the number of times it's kicked. First you declare how many times you're going to kick the spell (at the same time you declare the value of X), then you choose the targets accordingly, then you pay the costs. No player can respond between the time you declare how many times you'll kick the spell and the time you choose the targets.
+2010/03/01: Each target you choose must be different.
+2010/03/01: For example, if you want <Comet Storm> to deal 4 damage to each of three different targets, that means X is 4 and you're kicking the spell twice. You'll pay a mana cost of {4}{R}{R}, plus a kicker cost of {1}, plus another kicker cost of {1}, for a total of {6}{R}{R}.
+2010/03/01: As long as any of its targets are legal at the time <Comet Storm> resolves, <Comet Storm> will deal X damage to each of those legal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Worldwake Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWWK</SetId>
+<No>106</No>
+<Name>Joraga Warcaller</Name>
+<Type>Creature — Elf Warrior 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2010/03/01: The last ability counts the total number of +1/+1 counters on <Joraga Warcaller>, not just the ones placed on it as a result of its enters-the-battlefield ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Worldwake Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWWK</SetId>
+<No>133</No>
+<Name>Celestial Colonnade</Name>
+<Type>Land</Type>
+<CardText>Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U}.
+{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.</CardText>
+<Artist>Kekai Kotaki</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2010/03/01: A land that becomes a creature may be affected by "summoning sickness." You can't attack with it or use any of its {T} abilities (including its mana abilities) unless it began your most recent turn on the battlefield under your control. Note that summoning sickness cares about when that permanent came under your control, not when it became a creature.
+2010/03/01: When a land becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2018/12/07: Once <Celestial Colonnade> has attacked, tapping it for mana won't remove it from combat.
+2018/12/07: If <Celestial Colonnade> can't attack unless you pay a cost that includes a mana payment, you may attack with it and tap it to pay for that cost. It will still attack in this case.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Worldwake Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

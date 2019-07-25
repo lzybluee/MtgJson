@@ -151,7 +151,8 @@ Destroy target nonblack attacking creature.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Black creatures you control can't be blocked this turn except by black creatures.</CardText>
-<Flavor>"As equal were their souls, so equal was their fate." —John Dryden, "Ode to Mrs. Anne Killigrew"</Flavor>
+<Flavor>"As equal were their souls, so equal was their fate."
+—John Dryden, "Ode to Mrs. Anne Killigrew"</Flavor>
 <Artist>Ted Naifeh</Artist>
 <Multiverseid>4216</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -276,6 +277,7 @@ Final Strike deals damage to target opponent or planeswalker equal to the sacrif
 
 <Card>
 <SetId>PO</SetId>
+<No>18</No>
 <Name>Hand of Death</Name>
 <Type>Sorcery</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -291,6 +293,7 @@ Final Strike deals damage to target opponent or planeswalker equal to the sacrif
 
 <Card>
 <SetId>PO</SetId>
+<No>19</No>
 <Name>Hand of Death</Name>
 <Type>Sorcery</Type>
 <ManaCost>2B (3)</ManaCost>
@@ -1117,7 +1120,7 @@ Draw a card.</CardText>
 <Type>Creature — Bird 1/2</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
-<Flavor>Storm crow descending, winter unending.  Storm crow departing, summer is starting.</Flavor>
+<Flavor>Storm crow descending, winter unending. Storm crow departing, summer is starting.</Flavor>
 <Artist>Una Fricker</Artist>
 <Multiverseid>4276</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1199,8 +1202,7 @@ Draw a card.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>Tap up to three target creatures without flying.</CardText>
-<Flavor>"'Twas  when the seas were roaring
-With hollow blasts of wind . . . ."
+<Flavor>"'Twas when the seas were roaring With hollow blasts of wind . . . ."
 —John Gay, "The What D'Ye Call It"</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>4281</Multiverseid>
@@ -1250,7 +1252,8 @@ With hollow blasts of wind . . . ."
 <Type>Creature — Drake 2/2</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>"No bird soars too high, if he soars with his own wings." —William Blake, The Marriage of Heaven and Hell</Flavor>
+<Flavor>"No bird soars too high, if he soars with his own wings."
+—William Blake, The Marriage of Heaven and Hell</Flavor>
 <Artist>Zina Saunders</Artist>
 <Multiverseid>4284</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1294,6 +1297,7 @@ With hollow blasts of wind . . . ."
 
 <Card>
 <SetId>PO</SetId>
+<No>81</No>
 <Name>Anaconda</Name>
 <Type>Creature — Snake 3/3</Type>
 <ManaCost>3G (4)</ManaCost>
@@ -1310,6 +1314,7 @@ With hollow blasts of wind . . . ."
 
 <Card>
 <SetId>PO</SetId>
+<No>82</No>
 <Name>Anaconda</Name>
 <Type>Creature — Snake 3/3</Type>
 <ManaCost>3G (4)</ManaCost>
@@ -1390,6 +1395,7 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 
 <Card>
 <SetId>PO</SetId>
+<No>87</No>
 <Name>Elite Cat Warrior</Name>
 <Type>Creature — Cat Warrior 2/3</Type>
 <ManaCost>2G (3)</ManaCost>
@@ -1404,6 +1410,7 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 
 <Card>
 <SetId>PO</SetId>
+<No>88</No>
 <Name>Elite Cat Warrior</Name>
 <Type>Creature — Cat Warrior 2/3</Type>
 <ManaCost>2G (3)</ManaCost>
@@ -1564,6 +1571,7 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 
 <Card>
 <SetId>PO</SetId>
+<No>98</No>
 <Name>Monstrous Growth</Name>
 <Type>Sorcery</Type>
 <ManaCost>1G (2)</ManaCost>
@@ -1579,6 +1587,7 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 
 <Card>
 <SetId>PO</SetId>
+<No>99</No>
 <Name>Monstrous Growth</Name>
 <Type>Sorcery</Type>
 <ManaCost>1G (2)</ManaCost>
@@ -1601,8 +1610,7 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 <ManaCost>1G (2)</ManaCost>
 <CardText>Flying</CardText>
 <Flavor>"I am that merry wanderer of the night."
-—William Shakespeare,
-A Midsummer Night's Dream</Flavor>
+—William Shakespeare, A Midsummer Night's Dream</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>4306</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1952,6 +1960,7 @@ Creatures you control gain reach until end of turn. (They can block creatures wi
 
 <Card>
 <SetId>PO</SetId>
+<No>122</No>
 <Name>Blaze</Name>
 <Type>Sorcery</Type>
 <ManaCost>XR (1)</ManaCost>
@@ -1968,6 +1977,7 @@ Creatures you control gain reach until end of turn. (They can block creatures wi
 
 <Card>
 <SetId>PO</SetId>
+<No>123</No>
 <Name>Blaze</Name>
 <Type>Sorcery</Type>
 <ManaCost>XR (1)</ManaCost>
@@ -2398,6 +2408,7 @@ When Fire Dragon enters the battlefield, it deals damage to target creature equa
 
 <Card>
 <SetId>PO</SetId>
+<No>150</No>
 <Name>Raging Goblin</Name>
 <Type>Creature — Goblin Berserker 1/1</Type>
 <ManaCost>R (1)</ManaCost>
@@ -2413,6 +2424,7 @@ When Fire Dragon enters the battlefield, it deals damage to target creature equa
 
 <Card>
 <SetId>PO</SetId>
+<No>151</No>
 <Name>Raging Goblin</Name>
 <Type>Creature — Goblin Berserker 1/1</Type>
 <ManaCost>R (1)</ManaCost>
@@ -2450,8 +2462,7 @@ When Fire Dragon enters the battlefield, it deals damage to target creature equa
 <Type>Sorcery</Type>
 <ManaCost>4RR (6)</ManaCost>
 <CardText>Destroy two target lands.</CardText>
-<Flavor>It pelts the land with its fury,
-spoiling what was once sweet.</Flavor>
+<Flavor>It pelts the land with its fury, spoiling what was once sweet.</Flavor>
 <Artist>Charles Gillespie</Artist>
 <Multiverseid>4359</Multiverseid>
 <Rulings>2004/10/04: You must target two different lands. You can't choose to target just one.</Rulings>
@@ -2516,8 +2527,7 @@ Scorching Winds deals 1 damage to each attacking creature.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Destroy target land.</CardText>
-<Flavor>I cast a thousand tiny suns—
-Beware my many dawns.</Flavor>
+<Flavor>I cast a thousand tiny suns— Beware my many dawns.</Flavor>
 <Artist>John Matson</Artist>
 <Multiverseid>4363</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2533,7 +2543,7 @@ Beware my many dawns.</Flavor>
 <Name>Thundermare</Name>
 <Type>Creature — Elemental Horse 5/5</Type>
 <ManaCost>5R (6)</ManaCost>
-<CardText>Haste (This creature can attack the turn it comes under your control.)
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
 When Thundermare enters the battlefield, tap all other creatures.</CardText>
 <Artist>Bob Eggleton</Artist>
 <Multiverseid>4364</Multiverseid>
@@ -2684,8 +2694,7 @@ When Alabaster Dragon dies, shuffle it into its owner's library.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Destroy all lands.</CardText>
-<Flavor>"'O miserable of happy! Is this the end
-Of this new glorious world . . . ?'"
+<Flavor>"'O miserable of happy! Is this the end Of this new glorious world . . . ?'"
 —John Milton, Paradise Lost</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>4373</Multiverseid>
@@ -3008,8 +3017,7 @@ This turn, whenever an attacking creature deals combat damage to you, it deals t
 <Type>Sorcery</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>You gain 4 life.</CardText>
-<Flavor>"For he on honey-dew hath fed,
-And drunk the milk of Paradise."
+<Flavor>"For he on honey-dew hath fed, And drunk the milk of Paradise."
 —Samuel Taylor Coleridge, "Kubla Khan"</Flavor>
 <Artist>Janine Johnston</Artist>
 <Multiverseid>4393</Multiverseid>
@@ -3218,6 +3226,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>200</No>
 <Name>Warrior's Charge</Name>
 <Type>Sorcery</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -3232,6 +3241,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>201</No>
 <Name>Warrior's Charge</Name>
 <Type>Sorcery</Type>
 <ManaCost>2W (3)</ManaCost>
@@ -3265,6 +3275,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>203</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3279,6 +3290,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>204</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3293,6 +3305,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>205</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3307,6 +3320,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>206</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3321,6 +3335,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>207</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3335,6 +3350,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>208</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3349,6 +3365,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>209</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3363,6 +3380,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>210</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3377,6 +3395,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>211</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3391,6 +3410,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>212</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3405,6 +3425,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>213</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3419,6 +3440,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>214</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3433,6 +3455,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>215</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3447,6 +3470,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>216</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3461,6 +3485,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>217</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3475,6 +3500,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>218</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3489,6 +3515,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>219</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -3503,6 +3530,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>220</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -3517,6 +3545,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>221</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -3531,6 +3560,7 @@ Flying</CardText>
 
 <Card>
 <SetId>PO</SetId>
+<No>222</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>

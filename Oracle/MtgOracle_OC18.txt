@@ -1,0 +1,103 @@
+<Card>
+<SetId>OC18</SetId>
+<No>37</No>
+<Name>Aminatou, the Fateshifter</Name>
+<Type>Legendary Planeswalker — Aminatou (Loyalty: 3)</Type>
+<ManaCost>WUB (3)</ManaCost>
+<CardText>+1: Draw a card, then put a card from your hand on top of your library.
+-1: Exile another target permanent you own, then return it to the battlefield under your control.
+-6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
+Aminatou, the Fateshifter can be your commander.</CardText>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2018/07/13: You draw a card and put one back all while Aminatou's first ability is resolving. Nothing can happen between the two, and no player may choose to take actions.
+2018/07/13: Aminatou's second ability can target any permanent you own, including those another player controls.
+2018/07/13: Once the exiled permanent returns, it's considered a new object with no relation to the object that it was. Auras attached to the exiled permanent will be put into their owners' graveyards. Equipment attached to the exiled permanent will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.
+2018/07/13: If a token is exiled this way, it will cease to exist and won't return to the battlefield.
+2018/07/13: As Aminatou's third ability resolves, you choose a direction, then each player takes control of their new permanents at the same time.
+2018/07/13: The effect of Aminatou's third ability lasts indefinitely. It continues to apply after Aminatou (or her controller) leaves the game.
+2018/07/13: In a two-player game, each player gains control of each permanent the other controls (aside from Aminatou) no matter which direction you choose.
+2018/07/13: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. The effect of Aminatou's third ability stops applying to all permanents that player controlled and control of them reverts to their previous controller.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2018 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC18</SetId>
+<No>40</No>
+<Name>Estrid, the Masked</Name>
+<Type>Legendary Planeswalker — Estrid (Loyalty: 3)</Type>
+<ManaCost>1GWU (4)</ManaCost>
+<CardText>+2: Untap each enchanted permanent you control.
+-1: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
+-7: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
+Estrid, the Masked can be your commander.</CardText>
+<Artist>Johannes Voss</Artist>
+<Rulings>2018/07/13: An enchanted permanent is one with an Aura attached to it. Enchantment permanents you control that don't have Auras attached to them aren't enchanted.
+2018/07/13: If an Aura with totem armor is itself enchanted by another Aura with totem armor, destroying either the first Aura or the permanent it enchants will result in only the second Aura being destroyed instead.
+2018/07/13: Estrid's second ability might target a permanent that can't have the Aura token attached to it. In this case, the token isn't created at all.
+2018/07/13: Estrid's second ability can't target Estrid, but the Mask token may legally enchant Estrid if you find a way to move it onto her.
+2018/07/13: All of the non-Aura enchantments put onto the battlefield with Estrid's third ability enter at the same time. If any have triggered abilities that trigger on something else entering the battlefield, they'll see each other.
+2018/07/13: Aura cards returned with Estrid's third ability may enchant non-Aura enchantments put onto the battlefield with that ability.
+2018/07/13: You choose what each returning Aura will enchant just before that Aura enters the battlefield. The chosen recipient must be able to legally be enchanted by the Aura. This doesn't target the player or permanent it will enchant, so an opponent's permanent with hexproof may be chosen this way.
+2018/07/13: If an Aura card can't enchant anything, it remains in your graveyard.
+2018/07/13: Totem armor's effect is mandatory. If the enchanted permanent would be destroyed, you must remove all damage from it (if it has any) and destroy the Aura that has totem armor instead.
+2018/07/13: Totem armor's effect is applied no matter why the enchanted permanent would be destroyed: because it's been dealt lethal damage, or because it's being affected by an effect that says to "destroy" it (such as Putrefy). In either case, all damage is removed from the permanent and the Aura is destroyed instead.
+2018/07/13: If a permanent you control is enchanted with multiple Auras that have totem armor, and the enchanted permanent would be destroyed, one of those Auras is destroyed instead — but only one of them. You choose which one because you control the enchanted permanent.
+2018/07/13: If a permanent enchanted with an Aura that has totem armor would be destroyed by multiple state-based actions at the same time (most likely because a creature with deathtouch has dealt damage to that creature greater than or equal to its toughness) totem armor's effect will replace all of them and save the creature.
+2018/07/13: If a spell or ability (such as Akroma's Vengeance) would destroy both an Aura with totem armor and the permanent it's enchanting at the same time, totem armor's effect will save the enchanted permanent from being destroyed. Instead, the spell or ability will destroy the Aura in two different ways at the same time, but the result is the same as destroying it once.
+2018/07/13: Totem armor's effect is not regeneration. Specifically, if totem armor's effect is applied, the enchanted permanent does not become tapped and is not removed from combat as a result. Effects that say the enchanted permanent can't be regenerated (as Putrefy does) won't prevent totem armor's effect from being applied.
+2018/07/13: If a spell or ability says that it would "destroy" a permanent enchanted with an Aura that has totem armor, that spell or ability is what causes the Aura to be destroyed instead. Totem armor doesn't destroy the Aura; rather, it changes the effects of the spell or ability. On the other hand, if a spell or ability deals lethal damage to a creature enchanted with an Aura that has totem armor, the game rules regarding lethal damage cause the Aura to be destroyed, not that spell or ability.
+2018/07/13: Totem armor has no effect if the enchanted permanent is put into a graveyard for any other reason, such as if it's sacrificed, if the "legend rule" applies to it, or if its toughness is 0 or less.
+2018/07/13: If a permanent enchanted with an Aura that has totem armor has indestructible, lethal damage and effects that try to destroy it simply have no effect. Totem armor won't do anything because it won't have to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2018 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC18</SetId>
+<No>43</No>
+<Name>Lord Windgrace</Name>
+<Type>Legendary Planeswalker — Windgrace (Loyalty: 5)</Type>
+<ManaCost>2BRG (5)</ManaCost>
+<CardText>+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
+-3: Return up to two target land cards from your graveyard to the battlefield.
+-11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
+Lord Windgrace can be your commander.</CardText>
+<Artist>Bram Sels</Artist>
+<Rulings>2018/07/13: If you have no cards in hand as <Lord Windgrace>'s first ability resolves, you'll discard nothing then you'll draw one card.
+2018/07/13: While resolving <Lord Windgrace>'s last ability, you create six Cat Warrior tokens even if fewer than six nonland permanents are destroyed. However, if you choose any targets for the ability and each of them becomes an illegal target, the ability doesn't resolve and you don't create any tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2018 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC18</SetId>
+<No>44</No>
+<Name>Saheeli, the Gifted</Name>
+<Type>Legendary Planeswalker — Saheeli (Loyalty: 4)</Type>
+<ManaCost>2UR (4)</ManaCost>
+<CardText>+1: Create a 1/1 colorless Servo artifact creature token.
++1: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
+-7: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
+Saheeli, the Gifted can be your commander.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions (such as that of Saheeli's second ability). The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/07/13: The total cost to cast a spell is locked in before you pay that cost. For example, if you control three artifacts, including one you can sacrifice to add {C}, Saheeli's second ability will reduce the cost of a spell you cast by {3}. Then you can sacrifice the artifact when you activate mana abilities just before paying the cost, and it remains reduced by {3}.
+2018/07/13: Saheeli's second ability reduces only generic mana in the cost of the next spell you cast.
+2018/07/13: While resolving Saheeli's third ability, each token copies exactly what was printed on the original artifact and nothing else (unless that artifact is copying something else or is a token; see below). It doesn't copy whether that artifact is tapped or untapped, whether it has any counters on it or Auras attached to it, or any non-copy effects that have changed its types, color, or so on.
+2018/07/13: If a copied artifact has {X} in its mana cost, X is considered to be 0.
+2018/07/13: If a copied artifact is a token, the token that's created copies the original characteristics of that token as stated by the effect that created the token.
+2018/07/13: If a copied artifact is copying something else (for example, if the copied artifact is a Sculpting Steel), then the token enters the battlefield as whatever that artifact copied.
+2018/07/13: Any enters-the-battlefield abilities of a copied artifact will trigger when the token enters the battlefield. Any "as [this artifact] enters the battlefield" or "[this artifact] enters the battlefield with" abilities of the artifact will also work.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2018 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

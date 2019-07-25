@@ -1,0 +1,254 @@
+<Card>
+<SetId>F06</SetId>
+<No>1</No>
+<Name>Elves of Deep Shadow</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.</CardText>
+<Flavor>They are aberrations who have turned on everything we hold sacred. Let them be cast out.
+—Ailheen, Speaker of the Council</Flavor>
+<Artist>Jesper Myrfors</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>2</No>
+<Name>Armadillo Cloak</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1GW (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature deals damage, you gain that much life.</CardText>
+<Flavor>Don't laugh. It works.
+—Yavimaya ranger</Flavor>
+<Artist>Paolo Parente</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2016/06/08: While <Armadillo Cloak>'s last ability is similar to lifelink, it isn't lifelink—it's a normal triggered ability. If a creature you control with lifelink wears an <Armadillo Cloak> and deals damage, first you'll gain that much life for lifelink, and then <Armadillo Cloak>'s triggered ability is put onto the stack. This also means that multiple instances of <Armadillo Cloak>'s triggered ability do trigger separately.
+2016/06/08: If <Armadillo Cloak> enchants a creature you don't control, you'll gain life when it deals damage, as long as that damage hasn't already caused you to lose the game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>3</No>
+<Name>Terminate</Name>
+<Type>Instant</Type>
+<ManaCost>BR (2)</ManaCost>
+<CardText>Destroy target creature. It can't be regenerated.</CardText>
+<Flavor>Like his mother before him, Darigaaz gave his life defending Dominaria from the tyranny of self-styled "gods."</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>4</No>
+<Name>Lobotomy</Name>
+<Type>Sorcery</Type>
+<ManaCost>2UB (4)</ManaCost>
+<CardText>Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: You only get to pick one card from the player's hand.
+2004/10/04: If the player has no cards in their hand, you still get to look through their deck, but you do not get to exile any cards.
+2004/10/04: It exiles the chosen card plus all others in the hand, library, and graveyard. Some people thought the chosen card was not exiled due to some vague wording.
+2004/10/04: Does not affect cards on the battlefield.
+2005/02/01: The copies must be found if they are in publicly viewable zones. Finding copies while searching private zones is optional.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>5</No>
+<Name>Goblin Warchief</Name>
+<Type>Creature — Goblin Warrior 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Goblin spells you cast cost {1} less to cast.
+Goblins you control have haste.</CardText>
+<Flavor>They poured from the Skirk Ridge like lava, burning and devouring everything in their path.</Flavor>
+<Artist>Tim Hildebrandt</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/04/27: <Goblin Warchief>'s effect reduces only generic mana in the cost of Goblin spells you cast. For example, it doesn't reduce the cost of Skirk Prospector below {R}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>6</No>
+<Name>Wild Mongrel</Name>
+<Type>Creature — Hound 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.</CardText>
+<Flavor>It teaches you to play dead.</Flavor>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>7</No>
+<Name>Chainer's Edict</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>The pits have their own form of mercy.</Flavor>
+<Artist>Ben Thompson</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>8</No>
+<Name>Circular Logic</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1} for each card in your graveyard.
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/12/07: <Circular Logic> is still on the stack while you count the number of cards in your graveyard. It doesn't count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>9</No>
+<Name>Astral Slide</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Flavor>The hum of the universe is never off-key.
+—Mystic elder</Flavor>
+<Artist>Ron Spears</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: If a player cycles a card during the end step, the creature that is exiled won't come back until the end of the next turn.
+2008/08/01: If a face-down card is exiled, it turns face-up and remains face-up when it returns to the battlefield. This does not trigger any abilities that would trigger on it being turned face-up.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>10</No>
+<Name>Arrogant Wurm</Name>
+<Type>Creature — Wurm 4/4</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Trample
+Madness {2}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Flavor>It's hard to be humble when the whole world is bite size.</Flavor>
+<Artist>John Avon</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>11aa</No>
+<Name>Life (Life/Death)</Name>
+<Type>Sorcery</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>All lands you control become 1/1 creatures until end of turn. They're still lands.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Death (Life/Death)</OtherPart>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>11ab</No>
+<Name>Death (Life/Death)</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Life (Life/Death)</OtherPart>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>12aa</No>
+<Name>Fire (Fire/Ice)</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Fire deals 2 damage divided as you choose among one or two targets.</CardText>
+<Artist>David Martin</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/12/07: You divide the damage as you cast <Fire>, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast <Fire>, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2018/12/07: If <Fire> targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2.
+2018/12/07: If the target permanent becomes an illegal target for Ice, the spell doesn't resolve. You don't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Ice (Fire/Ice)</OtherPart>
+</Card>
+
+<Card>
+<SetId>F06</SetId>
+<No>12ab</No>
+<Name>Ice (Fire/Ice)</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Tap target permanent.
+Draw a card.</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/12/07: You divide the damage as you cast Fire, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast Fire, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2018/12/07: If Fire targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2.
+2018/12/07: If the target permanent becomes an illegal target for <Ice>, the spell doesn't resolve. You don't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2006</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Fire (Fire/Ice)</OtherPart>
+</Card>
+

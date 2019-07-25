@@ -1,0 +1,175 @@
+<Card>
+<SetId>PBNG</SetId>
+<No>26</No>
+<Name>Silent Sentinel</Name>
+<Type>Creature — Archon 4/6</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.</CardText>
+<Flavor>It serves a justice higher than the whims of the gods.</Flavor>
+<Artist>Kev Walker</Artist>
+<Rulings>2014/02/01: If you return an enchantment creature card with bestow to the battlefield, you can't pay its bestow cost. It won't be an Aura and can't be attached to a creature.
+2014/02/01: If the enchantment card is an Aura, you choose a legal player or object for that Aura to enchant as it enters the battlefield. This doesn't target the player or object, so it's possible to enchant an opposing creature with hexproof this way, for example. If there's no player or object the Aura can legally enchant, it stays in the graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>31</No>
+<Name>Arbiter of the Ideal</Name>
+<Type>Creature — Sphinx 4/5</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Flying
+Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2014/02/01: The manifestation counter is a memory aid only. The permanent will continue to be an enchantment in addition to its other types even if that counter is removed.
+2014/02/01: If you choose to not put the card onto the battlefield, or if the card isn't one of the listed types, it will remain on top of your library. (Note that revealing the card is not optional.)
+2014/02/01: The permanent will be an enchantment as it enters the battlefield and will cause constellation abilities of permanents you control to trigger.
+2014/02/01: Inspired abilities trigger no matter how the creature becomes untapped: by the turn-based action at the beginning of the untap step or by a spell or ability.
+2014/02/01: If an inspired ability triggers during your untap step, the ability will be put on the stack at the beginning of your upkeep. If the ability creates one or more token creatures, those creatures won't be able to attack that turn (unless they gain haste).
+2014/02/01: Inspired abilities don't trigger when the creature enters the battlefield.
+2014/02/01: If the inspired ability includes an optional cost, you decide whether to pay that cost as the ability resolves. You can do this even if the creature leaves the battlefield in response to the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>55</No>
+<Name>Tromokratis</Name>
+<Type>Legendary Creature — Kraken 8/8</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Tromokratis has hexproof unless it's attacking or blocking.
+Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2014/02/01: The defending player may block <Tromokratis> with each creature they control. If that player can't, perhaps because one of those creatures is tapped, or chooses not to, <Tromokratis> can't be blocked.
+2014/02/01: <Tromokratis> (like all attacking and blocking creatures) remains an attacking or blocking creature until the end of combat step is over. Notably, it will still be an attacking or blocking creature during the combat damage step, so any abilities an opponent controls that trigger when a creature dies as a result of combat damage could target <Tromokratis>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>66</No>
+<Name>Eater of Hope</Name>
+<Type>Creature — Demon 6/4</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Flying
+{B}, Sacrifice another creature: Regenerate Eater of Hope.
+{2}{B}, Sacrifice two other creatures: Destroy target creature.</CardText>
+<Flavor>Gods can be appeased. Demons, however . . .</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>80</No>
+<Name>Pain Seer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.</CardText>
+<Artist>Mark Winters</Artist>
+<Rulings>2014/02/01: If the mana cost of the revealed card includes {X}, X is considered to be 0.
+2014/02/01: If the revealed card doesn't have a mana cost (because it's a land card, for example), its converted mana cost is 0.
+2014/02/01: Inspired abilities trigger no matter how the creature becomes untapped: by the turn-based action at the beginning of the untap step or by a spell or ability.
+2014/02/01: If an inspired ability triggers during your untap step, the ability will be put on the stack at the beginning of your upkeep. If the ability creates one or more token creatures, those creatures won't be able to attack that turn (unless they gain haste).
+2014/02/01: Inspired abilities don't trigger when the creature enters the battlefield.
+2014/02/01: If the inspired ability includes an optional cost, you decide whether to pay that cost as the ability resolves. You can do this even if the creature leaves the battlefield in response to the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>*94</No>
+<Name>Fated Conflagration</Name>
+<Type>Instant</Type>
+<ManaCost>1RRR (4)</ManaCost>
+<CardText>Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</CardText>
+<Artist>Clint Cearley</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2013/09/15: When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom.
+2013/09/15: You choose how to order cards returned to your library after scrying no matter where you put them.
+2013/09/15: You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions.
+2013/09/15: Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>98</No>
+<Name>Forgestoker Dragon</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying
+{1}{R}: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.</CardText>
+<Flavor>The Akroans fashion their helms to honor the dragons, not to protect against them, as that would be of little help.</Flavor>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2014/02/01: <Forgestoker Dragon>'s activated ability can target any creature, not just creatures controlled by the defending player or ones that could block.
+2014/02/01: If you don't want the target creature to be able to block, <Forgestoker Dragon>'s activated ability must be activated during the declare attackers step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>129</No>
+<Name>Nessian Wilds Ravager</Name>
+<Type>Creature — Hydra 6/6</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Tribute 6 (As this creature enters the battlefield, an opponent of your choice may put six +1/+1 counters on it.)
+When Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid, you may have Nessian Wilds Ravager fight another target creature. (Each deals damage equal to its power to the other.)</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2014/02/01: If the opponent pays tribute, the creature will enter the battlefield with the specified number of +1/+1 counters on it. It won't enter the battlefield and then have the +1/+1 counters placed on it.
+2014/02/01: The choice of whether to pay tribute is made as the creature with tribute is entering the battlefield. At that point, it's too late to respond to the creature spell. For example, in a multiplayer game, opponents won't know whether tribute will be paid or which opponent will be chosen to pay tribute or not when deciding whether to counter the creature spell.
+2014/02/01: If the triggered ability has a target, that target will not be known while the creature spell with tribute is on the stack.
+2014/02/01: Players can't respond to the tribute decision before the creature enters the battlefield. That is, if the opponent doesn't pay tribute, the triggered ability will trigger before any player has a chance to remove the creature.
+2014/02/01: The triggered ability will resolve even if the creature with tribute isn't on the battlefield at that time.
+2017/04/18: For effects that check which player put counters on the entering creature, the player chosen to pay tribute puts those counters on it, not the creature's controller.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PBNG</SetId>
+<No>150</No>
+<Name>Kiora's Follower</Name>
+<Type>Creature — Merfolk 2/2</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>{T}: Untap another target permanent.</CardText>
+<Artist>Steve Prescott</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Born of the Gods Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

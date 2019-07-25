@@ -1,0 +1,116 @@
+<Card>
+<SetId>P08</SetId>
+<No>1</No>
+<Name>Damnation</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Wrath of God.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P08</SetId>
+<No>2</No>
+<Name>Tidings</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Draw four cards.</CardText>
+<Artist>Michael Komarck</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P08</SetId>
+<No>3</No>
+<Name>Incinerate</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2007/07/15: Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than <Incinerate> would deal lethal damage to it or otherwise destroy it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P08</SetId>
+<No>4</No>
+<Name>Mana Tithe</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1}.</CardText>
+<Artist>Donato Giancola</Artist>
+<Rulings>2004/10/04: The payment is optional.
+2007/02/01: This is the timeshifted version of Force Spike.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P08</SetId>
+<No>5</No>
+<Name>Harmonize</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Draw three cards.</CardText>
+<Artist>Vance Kovacs</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Concentrate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P08</SetId>
+<No>6</No>
+<Name>Ponder</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.</CardText>
+<Artist>Steve Argyle</Artist>
+<Rulings>2007/10/01: If you choose to shuffle your library, that includes the three cards you just looked at and put back on top of it.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P08</SetId>
+<No>7</No>
+<Name>Corrupt</Name>
+<Type>Sorcery</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.</CardText>
+<Artist>Philip Straub</Artist>
+<Rulings>2004/10/04: The swamps are counted on resolution.
+2010/08/15: The life you gain is equal to the damage dealt by <Corrupt>, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example).
+2010/08/15: The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if <Corrupt> deals 6 damage to a 2/2 creature, you'll gain 6 life.
+2013/07/01: <Corrupt> counts any land you control with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

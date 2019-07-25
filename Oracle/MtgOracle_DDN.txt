@@ -160,11 +160,12 @@ Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+
 <CardText>Goblin spells you cast cost {1} less to cast.
 Goblins you control have haste.</CardText>
 <Flavor>They poured from the Skirk Ridge like lava, burning and devouring everything in their path.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Tim Hildebrandt</Artist>
 <Multiverseid>386325</Multiverseid>
 <Rulings>2018/04/27: <Goblin Warchief>'s effect reduces only generic mana in the cost of Goblin spells you cast. For example, it doesn't reduce the cost of Skirk Prospector below {R}.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Duel Decks: Speed vs. Cunning</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -473,14 +474,13 @@ Destroy target creature.</CardText>
 <Name>Act of Treason</Name>
 <Type>Sorcery</Type>
 <ManaCost>2R (3)</ManaCost>
-<CardText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</CardText>
+<CardText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</CardText>
 <Flavor>"Rage courses in every heart, yearning to betray its rational prison."
 —Sarkhan Vol</Flavor>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>386299</Multiverseid>
-<Rulings>2009/10/01: <Act of Treason> can target any creature, even one that's untapped or one you already control.
-2010/08/15: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.
-2013/07/01: If you control a legendary creature and gain control of another legendary creature with the same name, you'll choose one to remain on the battlefield and put the other into its owner's graveyard.</Rulings>
+<Rulings>2019/01/25: <Act of Treason> can target any creature, even one that's untapped or one you already control.
+2019/01/25: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -580,8 +580,9 @@ If X is 5 or more, this spell can't be countered and the damage can't be prevent
 <Flavor>For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.</Flavor>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>386304</Multiverseid>
-<Rulings>2009/02/01: <Banefire> checks the number you chose for X, not the amount of mana you actually spent.
-2009/02/01: <Banefire> can be targeted by spells that try to counter it (such as Countersquall) regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.</Rulings>
+<Rulings>2018/07/13: To determine whether it can be countered and its damage can be prevented, <Banefire> checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal.
+2018/07/13: <Banefire> can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.
+2018/07/13: If its target is illegal by the time <Banefire> tries to resolve, the spell isn't countered, but it doesn't resolve. The target won't be dealt damage.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1366,7 +1367,7 @@ Draw a card.</CardText>
 <No>74</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Flavor>Take two steps north into the unsettled future, south into the unquiet past, east into the present day, or west into the great unknown.</Flavor>
 <Artist>Dan Scott</Artist>
 <Multiverseid>386375</Multiverseid>

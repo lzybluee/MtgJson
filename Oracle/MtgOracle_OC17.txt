@@ -1,0 +1,87 @@
+<Card>
+<SetId>OC17</SetId>
+<No>35</No>
+<Name>Arahbo, Roar of the World</Name>
+<Type>Legendary Creature — Cat Avatar 5/5</Type>
+<ManaCost>3GW (5)</ManaCost>
+<CardText>Eminence — At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn.
+Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2017/08/25: Once either of Arahbo's triggered abilities has resolved, the affected Cat keeps its bonus even if Arahbo changes zones later in the turn.
+2017/08/25: The value of X is determined only as Arahbo's last ability resolves. If the attacking Cat's power is negative at that time, X is 0.
+2017/08/25: If multiple Cats attack, Arahbo's last ability triggers that many times. You may pay {1}{G}{W} each time one resolves.
+2017/08/25: While resolving Arahbo's last ability, you can't pay {1}{G}{W} multiple times to multiply the effect for one Cat.
+2017/08/25: If a Cat you control enters the battlefield attacking, it won't cause Arahbo's last ability to trigger.
+2017/08/25: Three eminence abilities are triggered abilities. That creature must be on the battlefield or in the command zone as the trigger event occurs and also as the triggered ability resolves. If the creature is in an appropriate zone as the trigger event occurs but leaves that zone, the ability won't do anything as it resolves.
+2017/08/25: Notably, if your commander is on the battlefield and its eminence ability triggers, but it's put into the command zone before that ability resolves, that ability won't do anything as it resolves. This is because an object that changes zones is considered a new object.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2017 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC17</SetId>
+<No>36</No>
+<Name>Edgar Markov</Name>
+<Type>Legendary Creature — Vampire Knight 4/4</Type>
+<ManaCost>3RWB (6)</ManaCost>
+<CardText>Eminence — Whenever you cast another Vampire spell, if Edgar Markov is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.
+First strike, haste
+Whenever Edgar Markov attacks, put a +1/+1 counter on each Vampire you control.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2017/08/25: <Edgar Markov>'s last ability puts a +1/+1 counter on each Vampire you control, including itself and Vampires you control that aren't attacking.
+2017/08/25: Three eminence abilities are triggered abilities. That creature must be on the battlefield or in the command zone as the trigger event occurs and also as the triggered ability resolves. If the creature is in an appropriate zone as the trigger event occurs but leaves that zone, the ability won't do anything as it resolves.
+2017/08/25: Notably, if your commander is on the battlefield and its eminence ability triggers, but it's put into the command zone before that ability resolves, that ability won't do anything as it resolves. This is because an object that changes zones is considered a new object.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2017 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC17</SetId>
+<No>38</No>
+<Name>Inalla, Archmage Ritualist</Name>
+<Type>Legendary Creature — Human Wizard 4/5</Type>
+<ManaCost>2UBR (5)</ManaCost>
+<CardText>Eminence — Whenever another nontoken Wizard enters the battlefield under your control, if Inalla, Archmage Ritualist is in the command zone or on the battlefield, you may pay {1}. If you do, create a token that's a copy of that Wizard. The token gains haste. Exile it at the beginning of the next end step.
+Tap five untapped Wizards you control: Target player loses 7 life.</CardText>
+<Artist>Yongjae Choi</Artist>
+<Rulings>2017/08/25: You can pay {1} only once each time Inalla's first ability resolves. You can't pay more to get more than one token.
+2017/08/25: If Inalla enters the battlefield at the same time as other Wizards you control, its ability will trigger for each of those other Wizards.
+2017/08/25: The token copies exactly what was printed on the creature and nothing else (unless that creature was copying something else; see below). It doesn't copy whether that creature was tapped or untapped, whether it had any counters on it or Auras and/or Equipment attached to it, or any non-copy effects that changed its power, toughness, types, color, and so on.
+2017/08/25: If the copied creature had {X} in its mana cost, X is 0.
+2017/08/25: If the copied creature was copying something else, the token enters the battlefield as whatever that permanent was copying.
+2017/08/25: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "As [this creature] enters the battlefield" or "[This creature] enters the battlefield with" abilities of the copied creature will also work.
+2017/08/25: If the creature that caused Inalla's ability to trigger has already left the battlefield by the time the ability resolves, you can still pay {1}. If you do, you'll create a token with the copiable values of the characteristics of that creature as it last existed on the battlefield.
+2017/08/25: If a copied creature is legendary, any triggered abilities it has will trigger if appropriate before the "legend rule" causes one of those legendary creatures to be put into its owner's graveyard. Those abilities will be put on the stack after the "legend rule" is applied.
+2017/08/25: To activate Inalla's last ability, you may tap any untapped Wizards you control, including ones you haven't controlled continuously since the beginning of your most recent turn, such as Inalla itself. (Note that tapping the creature doesn't use {T} [the tap symbol].)
+2017/08/25: Three eminence abilities are triggered abilities. That creature must be on the battlefield or in the command zone as the trigger event occurs and also as the triggered ability resolves. If the creature is in an appropriate zone as the trigger event occurs but leaves that zone, the ability won't do anything as it resolves.
+2017/08/25: Notably, if your commander is on the battlefield and its eminence ability triggers, but it's put into the command zone before that ability resolves, that ability won't do anything as it resolves. This is because an object that changes zones is considered a new object.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2017 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC17</SetId>
+<No>48</No>
+<Name>The Ur-Dragon</Name>
+<Type>Legendary Creature — Dragon Avatar 10/10</Type>
+<ManaCost>4WUBRG (9)</ManaCost>
+<CardText>Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.
+Flying
+Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2017/08/25: You draw one card for each Dragon you controlled that attacked, even if some of them left the battlefield before <The Ur-Dragon>'s triggered ability resolves.
+2017/08/25: You may only put one permanent card from your hand onto the battlefield, no matter how many Dragons you attacked with or how many players they attacked.
+2017/08/25: If a Dragon you control enters the battlefield attacking, it won't cause <The Ur-Dragon>'s last ability to trigger.
+2017/08/25: <The Ur-Dragon>'s triggered ability resolves after all attackers have been chosen. You can't attack with some Dragons, put a creature card with haste onto the battlefield, and then attack with that creature. Similarly, any "whenever a creature attacks" abilities of the permanent card you put onto the battlefield won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2017 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

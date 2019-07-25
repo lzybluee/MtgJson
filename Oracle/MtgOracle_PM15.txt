@@ -1,0 +1,179 @@
+<Card>
+<SetId>PM15</SetId>
+<No>28</No>
+<Name>Resolute Archangel</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+When Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total.</CardText>
+<Flavor>Cut it down, bury it in snow, put it to the torch. The rose will still bloom again.</Flavor>
+<Artist>Winona Nelson</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2014/07/18: Your starting life total is the life total you began the game with. For most two-player formats, this is 20. For Two-Headed Giant, it's the life total your team started with, usually 30. In Commander games, your starting life total is 40.
+2014/07/18: If your life total is less than your starting life total, you actually gain the appropriate amount of life. Other effects that interact with life gain will interact with <Resolute Archangel>'s ability accordingly.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>47</No>
+<Name>Chief Engineer</Name>
+<Type>Creature — Vedalken Artificer 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for {1} or one mana of that creature's color.)</CardText>
+<Flavor>An eye for detail, a mind for numbers, a soul of clockwork.</Flavor>
+<Artist>Ryan Barger</Artist>
+<Rulings>2014/07/18: Multiple instances of convoke on a single spell are redundant.
+2014/07/18: The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay.
+2014/07/18: Convoke doesn't change a spell's mana cost or converted mana cost.
+2014/07/18: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2014/07/18: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2014/07/18: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2014/07/18: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}.
+2014/07/18: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>68</No>
+<Name>Mercurial Pretender</Name>
+<Type>Creature — Shapeshifter 0/0</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it has "{2}{U}{U}: Return this creature to its owner's hand."</CardText>
+<Flavor>The king went off to find himself. Imagine his terror when he succeeded.</Flavor>
+<Artist>Karla Ortiz</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2014/07/18: <Mercurial Pretender>'s ability doesn't target the chosen creature.
+2014/07/18: The activated ability <Mercurial Pretender> gives itself becomes part of its copiable values. Unless the ability is overwritten by another copy effect, a creature that's a copy of <Mercurial Pretender> will have that ability.
+2014/07/18: <Mercurial Pretender> copies exactly what was printed on the original creature and nothing more (unless that creature is copying something else or is a token; see below). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras attached to it, or any non-copy effects that have changed its power, toughness, types, color, etc. For example, if <Mercurial Pretender> enters the battlefield as a copy of a Profane Memento with Ensoul Artifact attached to it, <Mercurial Pretender> will be a noncreature Profane Memento with <Mercurial Pretender>'s added activated ability.
+2014/07/18: If the chosen creature has {X} in its mana cost (such as Genesis Hydra), X is 0.
+2014/07/18: If the chosen creature is copying something else (for example, if the chosen creature is another <Mercurial Pretender>), then <Mercurial Pretender> enters the battlefield as whatever the chosen creature is copying (plus any abilities it gained as part of the copying process, if applicable).
+2014/07/18: If the chosen creature is a token, <Mercurial Pretender> copies the original characteristics of that token as stated by the effect that put the token onto the battlefield. <Mercurial Pretender> is not a token, even when copying one.
+2014/07/18: Any enters-the-battlefield abilities of the copied creature will trigger when <Mercurial Pretender> enters the battlefield. Any "as [this creature] enters the battlefield" or "[this creature] enters the battlefield with" abilities of the chosen creature will also work.
+2014/07/18: If <Mercurial Pretender> somehow enters the battlefield at the same time as another creature, <Mercurial Pretender> can't become a copy of that creature. You may choose only a creature that's already on the battlefield.
+2014/07/18: You can choose not to copy anything. In that case, <Mercurial Pretender> enters the battlefield as a 0/0 Shapeshifter creature, and is probably put into the graveyard immediately.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>100</No>
+<Name>In Garruk's Wake</Name>
+<Type>Sorcery</Type>
+<ManaCost>7BB (9)</ManaCost>
+<CardText>Destroy all creatures you don't control and all planeswalkers you don't control.</CardText>
+<Flavor>Beyond pain, beyond obsession and wild despair, there lies a place of twisted power only the most tormented souls can reach.</Flavor>
+<Artist>Brad Rigney</Artist>
+<Watermark>Set</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>101</No>
+<Name>Indulgent Tormentor</Name>
+<Type>Creature — Demon 5/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying
+At the beginning of your upkeep, draw a card unless target opponent sacrifices a creature or pays 3 life.</CardText>
+<Flavor>The promise of anguish is payment enough for services rendered.</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2017/11/17: The opponent chooses whether they sacrifice a creature, pays 3 life, or allows you to draw a card. That player can't make an impossible choice, such as sacrificing a creature while they control no creatures.
+2017/11/17: If there are no legal targets to choose, perhaps because all your opponents have hexproof, the ability is removed from the stack with no effect. You won't draw a card. This is also true if the target opponent becomes an illegal target in response to the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>145</No>
+<Name>Goblin Rabblemaster</Name>
+<Type>Creature — Goblin Warrior 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Other Goblin creatures you control attack each combat if able.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.
+Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.</CardText>
+<Artist>Zoltan Boros</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2014/07/18: Although <Goblin Rabblemaster> doesn't force itself to attack, if you control two of them, they'll force each other to attack if able.
+2014/07/18: If, during your declare attackers step, a creature that must attack if able is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under your control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, you're not forced to pay that cost, so it doesn't have to attack in that case either.
+2014/07/18: The number of attacking Goblins is counted as the last ability resolves, and the bonus is locked in at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>162</No>
+<Name>Siege Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Flying
+When Siege Dragon enters the battlefield, destroy all Walls your opponents control.
+Whenever Siege Dragon attacks, if defending player controls no Walls, it deals 2 damage to each creature without flying that player controls.</CardText>
+<Artist>Steve Prescott</Artist>
+<Watermark>Set</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>191</No>
+<Name>Phytotitan</Name>
+<Type>Creature — Plant Elemental 7/2</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>When Phytotitan dies, return it to the battlefield tapped under its owner's control at the beginning of their next upkeep.</CardText>
+<Flavor>Its root system spans the entire floor of the jungle, making eradication impossible.</Flavor>
+<Artist>Marco Nelor</Artist>
+<Rulings>2014/07/18: <Phytotitan>'s ability will return it to the battlefield only if it's still in the graveyard when the delayed triggered ability resolves. If it's not, it won't return to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM15</SetId>
+<No>194</No>
+<Name>Reclamation Sage</Name>
+<Type>Creature — Elf Shaman 2/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.</CardText>
+<Flavor>"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth."</Flavor>
+<Artist>Clint Cearley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2015 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

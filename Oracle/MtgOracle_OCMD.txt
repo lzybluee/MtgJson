@@ -1,0 +1,281 @@
+<Card>
+<SetId>OCMD</SetId>
+<No>174</No>
+<Name>Intet, the Dreamer</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3GUR (6)</ManaCost>
+<CardText>Flying
+Whenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2007/02/01: After Intet leaves the battlefield, if a card exiled this way is still exiled, you may still look at it. You won't be able to play it, though.
+2007/02/01: Once you play a card this way, it leaves the Exile zone and goes to the stack. You won't be able to play it again.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>181</No>
+<Name>Animar, Soul of Elements</Name>
+<Type>Legendary Creature — Elemental 1/1</Type>
+<ManaCost>GUR (3)</ManaCost>
+<CardText>Protection from white and from black
+Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements.
+Creature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Rulings>2018/03/16: Animar's triggered ability triggers only when a creature spell is cast, after costs are paid. The counter put on Animar for a creature spell won't affect the cost of that creature spell, only future ones.
+2018/03/16: Animar's triggered ability resolves before the creature spell that causes it to trigger. The ability will resolve even if that spell is countered.
+2018/03/16: To determine the total cost of a creature spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the creature remains unchanged, no matter what the total cost to cast it was.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>191</No>
+<Name>Damia, Sage of Stone</Name>
+<Type>Legendary Creature — Gorgon Wizard 4/4</Type>
+<ManaCost>4BGU (7)</ManaCost>
+<CardText>Deathtouch
+Skip your draw step.
+At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.</CardText>
+<Flavor>Ask your query and be on your way. Just don't look her in the eye.</Flavor>
+<Artist>Steve Argyle</Artist>
+<Rulings>2011/09/22: The number of cards in your hand is checked at the beginning of your upkeep before you have the opportunity to cast spells and activate abilities. If you have seven or more cards in your hand at that time, Damia's last ability won't trigger.
+2011/09/22: After the ability has triggered but before it resolves, you have the opportunity to cast spells and activate abilities.
+2011/09/22: When Damia's triggered ability tries to resolve, if you have seven or more cards in your hand, it will have no effect. If you have fewer than seven cards in your hand, you'll determine the difference and draw that many cards.
+2011/09/22: Effects can modify the number of cards you'll draw. For example, if you have four cards in your hand and control Thought Reflection ("If you would draw a card, draw two cards instead."), you'll draw six cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>200</No>
+<Name>Ghave, Guru of Spores</Name>
+<Type>Legendary Creature — Fungus Shaman 0/0</Type>
+<ManaCost>2WBG (5)</ManaCost>
+<CardText>Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from a creature you control: Create a 1/1 green Saproling creature token.
+{1}, Sacrifice a creature: Put a +1/+1 counter on target creature.</CardText>
+<Artist>James Paick</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>206</No>
+<Name>Kaalia of the Vast</Name>
+<Type>Legendary Creature — Human Cleric 2/2</Type>
+<ManaCost>1RWB (4)</ManaCost>
+<CardText>Flying
+Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.</CardText>
+<Flavor>"I'll have my revenge if I have to call on every force from above and below."</Flavor>
+<Artist>Michael Komarck</Artist>
+<Rulings>2011/09/22: Kaalia's ability doesn't trigger if it attacks a planeswalker.
+2011/09/22: The creature card is already tapped and attacking as it's put onto the battlefield. Any abilities that trigger when a creature becomes tapped or when a creature attacks won't trigger for that card.
+2011/09/22: If the opponent Kaalia attacked is no longer in the game when its ability resolves, you may put an Angel, Demon, or Dragon creature card onto the battlefield tapped, but it won't be attacking anyone and it won't be an attacking creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>207</No>
+<Name>Karador, Ghost Chieftain</Name>
+<Type>Legendary Creature — Centaur Spirit 3/4</Type>
+<ManaCost>5WBG (8)</ManaCost>
+<CardText>This spell costs {1} less to cast for each creature card in your graveyard.
+During each of your turns, you may cast one creature card from your graveyard.</CardText>
+<Flavor>"Death tried to uncrown me. But now I return, king of a greater realm."</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2011/09/22: If Karador is your commander, calculate any cost increases, including the one based on the number of times you've cast Karador from the command zone, before considering Karador's cost-reduction ability.
+2011/09/22: If you somehow cast Karador from a graveyard, its cost-reduction ability won't count itself.
+2011/09/22: Although Karador's second ability allows you to cast one creature card from your graveyard on each of your turns, it doesn't change when you can cast that card. Unless it has flash, the creature card must be cast during one of your main phases when the stack is empty.
+2011/09/22: Karador's second ability doesn't affect the costs you need to pay to cast that creature spell.
+2011/09/22: Karador's first ability functions on the stack. Karador's second ability functions only on the battlefield.
+2011/09/22: If you cast a creature card from your graveyard, then Karador leaves the battlefield, then returns to the battlefield, you may cast another creature card from your graveyard that turn. If you didn't cast a creature card from your graveyard while Karador was on the battlefield the first time, you may still cast only one creature card from your graveyard when it returns to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>210</No>
+<Name>The Mimeoplasm</Name>
+<Type>Legendary Creature — Ooze 0/0</Type>
+<ManaCost>2BGU (5)</ManaCost>
+<CardText>As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2011/09/22: You can't choose to exile just one creature card.
+2011/09/22: The two creature cards may come from the same graveyard or different graveyards.
+2011/09/22: You choose which one <The Mimeoplasm> is copying and which one determines how many +1/+1 counters are placed on <The Mimeoplasm> as <The Mimeoplasm> enters the battlefield.
+2011/09/22: Treat <The Mimeoplasm> as though it were the creature card it's copying entering the battlefield. Any "As [this card] enters the battlefield," "[This card] enters the battlefield with," and "When [this card] enters the battlefield" abilities of that creature card will work.
+2011/09/22: Specifically, if <The Mimeoplasm> enters the battlefield as a copy of a creature card that enters the battlefield with a number of +1/+1 counters, <The Mimeoplasm> will enter the battlefield with those +1/+1 counters and +1/+1 counters equal to the power of the other exiled card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>215</No>
+<Name>Numot, the Devastator</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3URW (6)</ManaCost>
+<CardText>Flying
+Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.</CardText>
+<Artist>Dan Dos Santos</Artist>
+<Rulings>2007/02/01: You choose the targets when the ability is put on the stack, and you choose whether to pay when it resolves. You may choose zero targets. You can pay the mana even if you chose zero targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>216</No>
+<Name>Oros, the Avenger</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3RWB (6)</ManaCost>
+<CardText>Flying
+Whenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature.</CardText>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>220</No>
+<Name>Riku of Two Reflections</Name>
+<Type>Legendary Creature — Human Wizard 2/2</Type>
+<ManaCost>2GUR (5)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.
+Whenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, create a token that's a copy of that creature.</CardText>
+<Artist>Izzy</Artist>
+<Rulings>2011/09/22: Each time the first ability triggers, you can pay {U}{R} only one time to get one copy of the spell. Each time the second ability triggers, you can pay {G}{U} only one time to get one token.
+2011/09/22: If the spell that caused Riku's first ability to trigger has left the stack by the time the ability resolves, you can still pay {U}{R}. If you do, you'll copy the spell as it last existed on the stack.
+2011/09/22: Riku's first ability triggers whenever you cast any instant or sorcery spell, regardless of whether that spell has targets.
+2011/09/22: If the copied spell has {X} in its mana cost, the value of X is copied.
+2011/09/22: If the copied spell is modal (that is, it says "Choose one —" or the like), the copy has the same mode as the original spell. You can't choose a different one.
+2011/09/22: You can't pay any additional costs for the copy. However, effects based on any additional costs paid for the original spell are copied as though those same costs were paid for the copy. Notably, if the original spell was kicked (or kicked a certain number of times), the copy will also be kicked (or kicked that many times).
+2011/09/22: If the creature that caused Riku's second ability to trigger has already left the battlefield by the time the ability resolves, you can still pay {G}{U}. If you do, you'll still put a token onto the battlefield. That token has the copiable values of the characteristics of that creature as it last existed on the battlefield.
+2011/09/22: As the token is created, it checks the printed values of the creature it's copying, as well as any copy effects that have been applied to it.
+2011/09/22: The copiable values of the token's characteristics are the same as the copiable values of the characteristics of the creature it's copying.
+2011/09/22: If the creature had {X} in its mana cost, X must be 0. Note this is different from an {X} found in the mana cost of a copied spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>221</No>
+<Name>Ruhan of the Fomori</Name>
+<Type>Legendary Creature — Giant Warrior 7/7</Type>
+<ManaCost>1URW (4)</ManaCost>
+<CardText>At the beginning of combat on your turn, choose an opponent at random. Ruhan of the Fomori attacks that player this combat if able.</CardText>
+<Flavor>Unfettered by allegiance, driven by war.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2011/09/22: Ruhan must attack the chosen player if able, not a planeswalker controlled by the chosen player.
+2011/09/22: If, during your declare attackers step, Ruhan is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under your control continuously since your turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having Ruhan attack the chosen player, you aren't forced to pay that cost, so it doesn't have to attack that player in that case either.
+2011/09/22: If Ruhan isn't forced to attack the chosen player for one of the above reasons but can still attack, you may choose to have Ruhan attack another player, attack a planeswalker, or not attack at all.
+2011/09/22: If your turn has multiple combat phases, Ruhan's ability triggers at the beginning of each of them. Ignore any choices made during previous combat phases.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>229</No>
+<Name>Tariel, Reckoner of Souls</Name>
+<Type>Legendary Creature — Angel 4/7</Type>
+<ManaCost>4RWB (7)</ManaCost>
+<CardText>Flying, vigilance
+{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.</CardText>
+<Flavor>"After death you face paradise, damnation, or Tariel."
+—Priest's teaching</Flavor>
+<Artist>Wayne Reynolds</Artist>
+<Rulings>2011/09/22: The only target of this ability is the opponent.
+2011/09/22: The creature card is chosen at random from among creature cards in the target opponent's graveyard as the ability resolves. Players can respond to the ability knowing the targeted player, but they won't know which creature card is about to enter the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>230</No>
+<Name>Teneb, the Harvester</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3WBG (6)</ManaCost>
+<CardText>Flying
+Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2007/02/01: You choose the target when the ability is put on the stack, and you choose whether to pay when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>235</No>
+<Name>Vorosh, the Hunter</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>3BGU (6)</ManaCost>
+<CardText>Flying
+Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh.</CardText>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OCMD</SetId>
+<No>240</No>
+<Name>Zedruu the Greathearted</Name>
+<Type>Legendary Creature — Minotaur Monk 2/4</Type>
+<ManaCost>1URW (4)</ManaCost>
+<CardText>At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control.
+{U}{R}{W}: Target opponent gains control of target permanent you control.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2011/09/22: The owner of a card is the player who started the game with that card in their deck.
+2011/09/22: The owner of a token is the player under whose control the token was put onto the battlefield.
+2011/09/22: If either the opponent or the permanent you control becomes an illegal target by the time Zedruu's last ability tries to resolve, the ability does nothing.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

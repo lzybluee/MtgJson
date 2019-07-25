@@ -1,0 +1,151 @@
+<Card>
+<SetId>P10</SetId>
+<No>1</No>
+<Name>Lightning Bolt</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Lightning Bolt deals 3 damage to any target.</CardText>
+<Artist>Véronique Meignaud</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>2</No>
+<Name>Cancel</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Artist>Izzy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>3</No>
+<Name>Sign in Blood</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Target player draws two cards and loses 2 life.</CardText>
+<Artist>Alan Pollack</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>4</No>
+<Name>Infest</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>All creatures get -2/-2 until end of turn.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>5</No>
+<Name>Volcanic Fallout</Name>
+<Type>Instant</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>This spell can't be countered.
+Volcanic Fallout deals 2 damage to each creature and each player.</CardText>
+<Artist>Jim Pavelec</Artist>
+<Rulings>2009/02/01: <Volcanic Fallout> can be targeted by spells that try to counter it (such as Countersquall). Those spells will still resolve, but the part of their effect that would counter <Volcanic Fallout> won't do anything. Any other effects those spells have will work as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>6</No>
+<Name>Celestial Purge</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Exile target black or red permanent.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2009/10/01: Lands are colorless (even if their frames have some colored elements to them). You can't target a Swamp, a Mountain, or any other land with <Celestial Purge> (unless some other effect has turned that land black or red).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>7</No>
+<Name>Bituminous Blast</Name>
+<Type>Instant</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+Bituminous Blast deals 4 damage to target creature.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2009/05/01: When the cascade ability resolves, you must exile cards. The only optional part of the ability is whether or not you cast the last card exiled.
+2009/05/01: If a spell with cascade is countered, the cascade ability will still resolve normally.
+2009/05/01: Cascade triggers when you cast the spell, meaning that it resolves before that spell. If you end up casting the exiled card, it will go on the stack above the spell with cascade.
+2009/05/01: If you cast the last exiled card, you're casting it as a spell. It can be countered. If that card has cascade, the new spell's cascade ability will trigger, and you'll repeat the process for the new spell.
+2009/05/01: After you're done exiling cards and casting the last one if you chose to do so, the remaining exiled cards are randomly placed on the bottom of your library. Neither you nor any other player is allowed to know the order of those cards.
+2009/05/01: You exile the cards face-up. All players will be able to see them.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If cascade allows you to cast a split card, you may cast either half but not both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>8</No>
+<Name>Burst Lightning</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage to that permanent or player instead.</CardText>
+<Artist>Jung Park</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P10</SetId>
+<No>9</No>
+<Name>Harrow</Name>
+<Type>Instant</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a land.
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.</CardText>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2004/10/04: The sacrifice of a land is part of the cost of casting <Harrow>. You can't pay this cost more than once to get a multiple effect.
+2004/10/04: The two lands do not count toward your normal one land you can play each turn.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

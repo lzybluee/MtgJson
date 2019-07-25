@@ -1,0 +1,1477 @@
+<Card>
+<SetId>PM19</SetId>
+<No>3s</No>
+<Name>Ajani, Adversary of Tyrants</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>+1: Put a +1/+1 counter on each of up to two target creatures.
+-2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+-7: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2018/07/13: If a card in your graveyard has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>4s</No>
+<Name>Ajani's Last Stand</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Whenever a creature or planeswalker you control dies, you may sacrifice Ajani's Last Stand. If you do, create a 4/4 white Avatar creature token with flying.
+When a spell or ability an opponent controls causes you to discard this card, if you control a Plains, create a 4/4 white Avatar creature token with flying.</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2018/07/13: If multiple creatures and/or planeswalkers you control die at the same time, the first ability of <Ajani's Last Stand> triggers that many times. However, you can sacrifice it only once, so you'll get only one token.
+2018/07/13: In a Magic game, cards are discarded only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded.
+2018/07/13: If a spell or ability an opponent controls causes you to make a choice and you choose to discard <Ajani's Last Stand>, its last ability will trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>9s</No>
+<Name>Cleansing Nova</Name>
+<Type>Sorcery</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Choose one —
+• Destroy all creatures.
+• Destroy all artifacts and enchantments.</CardText>
+<Flavor>In their final moments, the demons gazed upon grace in its purest form.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>17s</No>
+<Name>Isolate</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target permanent with converted mana cost 1.</CardText>
+<Flavor>Threefold were his crimes, doubled were his pleas, singular was his fate.</Flavor>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2018/07/13: If a permanent has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>21s</No>
+<Name>Lena, Selfless Champion</Name>
+<Type>Legendary Creature — Human Knight 3/3</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>When Lena, Selfless Champion enters the battlefield, create a 1/1 white Soldier creature token for each nontoken creature you control.
+Sacrifice Lena: Creatures you control with power less than Lena's power gain indestructible until end of turn.</CardText>
+<Flavor>"Those who do evil and those who do nothing are equally worthy of contempt."</Flavor>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2018/07/13: The number of nontoken creatures you control is counted only as Lena's first ability resolves. If Lena is still on the battlefield (and not somehow a token), it will count itself.
+2018/07/13: To determine which creatures gain indestructible while resolving Lena's last ability, use Lena's power as it last existed on the battlefield.
+2018/07/13: Lena's last ability affects only creatures you control with the appropriate power at the time it resolves. Creatures you begin to control later in the turn won't gain indestructible, and a creature you control whose power increases later in the turn won't lose indestructible.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>23s</No>
+<Name>Leonin Warleader</Name>
+<Type>Creature — Cat Soldier 4/4</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.</CardText>
+<Flavor>When one leonin hunts, many more are surely nearby.</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Rulings>2018/07/13: You choose which players or planeswalkers the two tokens are attacking. They don't have to be attacking the same player or planeswalker that <Leonin Warleader> is attacking, and they can each be attacking different players and/or planeswalkers.
+2018/07/13: Although the tokens are attacking, they were never declared as attacking creatures (for the purposes of abilities that trigger whenever a creature attacks, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>27s</No>
+<Name>Mentor of the Meek</Name>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.</CardText>
+<Flavor>"In these halls there is no pass or fail. Your true test comes with the first full moon."</Flavor>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Rulings>2018/07/13: <Mentor of the Meek>'s ability checks the power of the other creature only as it enters the battlefield. If that creature's power is 2 or less, the ability will trigger. Once the ability triggers, raising that creature's power above 2 won't affect that ability. Similarly, reducing the creature's power to 2 or less after it enters the battlefield won't cause the ability to trigger.
+2018/07/13: Apply power bonuses from counters the creature enters the battlefield with and continuous effects such as that of Valiant Knight before checking to see if <Mentor of the Meek>'s ability will trigger.
+2018/07/13: While resolving the triggered ability of <Mentor of the Meek>, you can't pay {1} multiple times to draw more than one card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>29</No>
+<Name>Militia Bugler</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Vigilance (Attacking doesn't cause this creature to tap.)
+When Militia Bugler enters the battlefield, look at the top four cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>David Gaillet</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>33s</No>
+<Name>Remorseful Cleric</Name>
+<Type>Creature — Spirit Cleric 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard.</CardText>
+<Flavor>A lifetime of keeping up appearances is not enough to earn an eternity of rest.</Flavor>
+<Artist>Grzegorz Rutkowski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>34s</No>
+<Name>Resplendent Angel</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2018/07/13: <Resplendent Angel>'s triggered ability checks if you gained 5 or more life total during the turn. It doesn't matter if you also lost life or whether your life total is greater than it was at the beginning of the turn. It also doesn't matter whether <Resplendent Angel> was on the battlefield when any of the life gain happened.
+2018/07/13: You don't need to have gained 5 life all at once to satisfy <Resplendent Angel>'s triggered ability.
+2018/07/13: If you didn't gain life during the turn before the end step begins, <Resplendent Angel>'s triggered ability won't trigger at all. Gaining life during the end step won't cause the ability to trigger.
+2018/07/13: You create only one Angel token, no matter how many times you gained 5 or more life.
+2018/07/13: In a Two-Headed Giant game, life gained by your teammate won't satisfy <Resplendent Angel>'s triggered ability, even though it caused your team's life total to increase.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>39s</No>
+<Name>Suncleanser</Name>
+<Type>Creature — Human Cleric 1/4</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>When Suncleanser enters the battlefield, choose one —
+• Remove all counters from target creature. It can't have counters put on it for as long as Suncleanser remains on the battlefield.
+• Target opponent loses all counters. That player can't get counters for as long as Suncleanser remains on the battlefield.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2018/07/13: If the cost of an ability or an additional cost of a spell requires putting counters on a creature or player affected by <Suncleanser>, that cost can't be paid. If a resolving spell or ability says that a player may give counters to that creature or player, that player can't choose to do so.
+2018/07/13: If a replacement effect allows a player to modify or replace an event by putting counters on a creature or player affected by <Suncleanser>, that player may apply that replacement effect, but they won't get counters. If the original event is entirely replaced (such as by applying Soul-Scar Mage's replacement effect), the original event won't happen.
+2018/07/13: Damage from a source with wither has no effect on an affected creature. No -1/-1 counters are put on them, and no damage is marked on them. The damage is still dealt for purposes of effects that care about damage, such as lifelink.
+2018/07/13: Damage from a source with infect has no effect on an affected creature or player. No -1/-1 counters are put on creatures, and no damage is marked on them. Players don't get poison counters and they don't lose life. The damage is still dealt for purposes of effects that care about damage, such as lifelink.
+2018/07/13: While resolving a cumulative upkeep trigger of an affected creature, you'll fail to put a counter on that permanent, then you may pay for the age counters already on it. If it has no age counters on it, you may pay {0}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>42s</No>
+<Name>Valiant Knight</Name>
+<Type>Creature — Human Knight 3/4</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Other Knights you control get +1/+1.
+{3}{W}{W}: Knights you control gain double strike until end of turn.</CardText>
+<Flavor>"Defeat is no reason for retreat. It is a sign we must redouble our efforts to win this fight."</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Rulings>2018/07/13: Multiple instances of double strike on the same creature are redundant.
+2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Knight you control may become lethal if <Valiant Knight> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>52s</No>
+<Name>Djinn of Wishes</Name>
+<Type>Creature — Djinn 4/4</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying
+Djinn of Wishes enters the battlefield with three wish counters on it.
+{2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2018/07/13: If you wish to play the exiled card, you must play it while the last ability of <Djinn of Wishes> is resolving. You can't play it later in the turn. A spell cast this way may be cast at a time you normally wouldn't be able to cast a spell of that type, but other restrictions (such as "Cast this spell only during combat") are enforced.
+2018/07/13: If the revealed card is a land, you can play it only if it's your turn and you haven't yet played a land this turn.
+2018/07/13: If you cast a spell "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card.
+2018/07/13: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>60s</No>
+<Name>Metamorphic Alteration</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature
+As Metamorphic Alteration enters the battlefield, choose a creature.
+Enchanted creature is a copy of the chosen creature.</CardText>
+<Artist>Livia Prima</Artist>
+<Rulings>2018/07/13: You can choose only a creature on the battlefield.
+2018/07/13: <Metamorphic Alteration> copies exactly what is printed on the chosen creature (unless that creature is copying something else or is a token; see below). It doesn't copy whether that creature is tapped or untapped, whether it as any counters on it or any Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
+2018/07/13: The characteristics that will be copied are determined as <Metamorphic Alteration>'s effect first begins to apply. If the copiable values of the chosen creature change later, or if that creature leaves the battlefield, the enchanted creature's characteristics are unaffected.
+2018/07/13: If the chosen creature isn't normally a creature (for example, if the chosen creature is an animated Treetop Village), the enchanted creature becomes a copy of that noncreature permanent. This causes <Metamorphic Alteration> to be illegally attached, and it's put into its owner's graveyard. The previously enchanted creature returns to being itself.
+2018/07/13: If the chosen creature is copying something else (for example, if the chosen creature is enchanted by another <Metamorphic Alteration>), then the enchanted creature becomes a copy of whatever the chosen creature copied.
+2018/07/13: If the chosen creature is a token, <Metamorphic Alteration> copies the original characteristics of that token as stated by the effect that put the token onto the battlefield. The enchanted creature doesn't become a token in this case.
+2018/07/13: The enchanted creature will be a copy of the chosen creature as it dies, so any "when this creature dies" abilities it gains from the copy effect will trigger. Any "when this creature dies" abilities it normally has will not trigger.
+2018/07/13: If <Metamorphic Alteration> somehow enters the battlefield at the same time as another creature, it can't have the enchanted creature become a copy of that creature. You may choose only a creature that's already on the battlefield.
+2018/07/13: <Metamorphic Alteration> can cause a creature to become a copy of itself. This generally has no effect, but if that creature has a pair of linked abilities, the new abilities it has from the copy effect aren't linked to the abilities it had before.
+2018/07/13: The copiable values granted by <Metamorphic Alteration> are locked in as the creature is chosen. The enchanted creature won't change if the chosen creature's copiable values change.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>62s</No>
+<Name>Mistcaller</Name>
+<Type>Creature — Merfolk Wizard 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Sacrifice Mistcaller: Until end of turn, if a nontoken creature would enter the battlefield and it wasn't cast, exile it instead.</CardText>
+<Flavor>Hospitality is of little concern to those who do not wish to be disturbed.</Flavor>
+<Artist>Ryan Yee</Artist>
+<Rulings>2018/07/13: <Mistcaller>'s ability won't affect any nontoken creatures that were cast, including ones cast from unusual zones such as your graveyard.
+2018/07/13: <Mistcaller>'s ability doesn't stop creature tokens from entering the battlefield. It also doesn't affect creatures that are already on the battlefield.
+2018/07/13: If <Mistcaller> enters the battlefield at the same time as other creatures, its ability can't be activated in time to affect those creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>63s</No>
+<Name>Mystic Archaeologist</Name>
+<Type>Creature — Human Wizard 2/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{3}{U}{U}: Draw two cards.</CardText>
+<Flavor>The delight of discovery drives the pursuit of knowledge.</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>65s</No>
+<Name>Omniscience</Name>
+<Type>Enchantment</Type>
+<ManaCost>7UUU (10)</ManaCost>
+<CardText>You may cast spells from your hand without paying their mana costs.</CardText>
+<Flavor>"The things I once imagined would be my greatest achievements were only the first steps toward a future I can only begin to fathom."
+— Jace Beleren</Flavor>
+<Artist>Jason Chan</Artist>
+<Rulings>2018/07/13: You must follow the normal timing permissions and restrictions of each spell you cast.
+2018/07/13: If you cast a spell "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card.
+2018/07/13: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2018/07/13: Once you cast <Omniscience>, if it's your turn, you'll have priority immediately after it resolves. You can cast another spell before any player can attempt to remove <Omniscience> with spells or abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>66s</No>
+<Name>One with the Machine</Name>
+<Type>Sorcery</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Draw cards equal to the highest converted mana cost among artifacts you control.</CardText>
+<Flavor>"When I grafted the Planar Bridge into myself, I felt my Planeswalker spark flare beyond my body. The Multiverse was my plaything. It felt . . . incredible."
+—Tezzeret</Flavor>
+<Artist>Chase Stone</Artist>
+<Rulings>2018/07/13: If a permanent has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>67s</No>
+<Name>Patient Rebuilding</Name>
+<Type>Enchantment</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>At the beginning of your upkeep, target opponent puts the top three cards of their library into their graveyard, then you draw a card for each land card put into that graveyard this way.</CardText>
+<Flavor>Nicol Bolas would not rest until he was restored to his former glory.</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2018/07/13: Each time <Patient Rebuilding>'s triggered ability resolves, it counts only the land cards put into that graveyard during that ability's resolution. For example, if your opponent puts two land cards into their graveyard during one upkeep and three land cards the next, you'll draw two and three cards, respectively, not two and five.
+2018/07/13: If your opponent moves cards from their library but they aren't put into their graveyard (perhaps because you control Rest in Peace), you won't draw any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>69s</No>
+<Name>Sai, Master Thopterist</Name>
+<Type>Legendary Creature — Human Artificer 1/4</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
+{1}{U}, Sacrifice two artifacts: Draw a card.</CardText>
+<Flavor>"Industry without artistry is just a fancy way to fill the junkyard."</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2018/07/13: Sai's triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>76s</No>
+<Name>Supreme Phantom</Name>
+<Type>Creature — Spirit 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+Other Spirits you control get +1/+1.</CardText>
+<Flavor>A king's knowledge does not vanish when the heart stops beating.</Flavor>
+<Artist>Robbie Trevino</Artist>
+<Rulings>2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Spirit you control may become lethal if <Supreme Phantom> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>79s</No>
+<Name>Tezzeret, Artifice Master</Name>
+<Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>+1: Create a 1/1 colorless Thopter artifact creature token with flying.
+0: Draw a card. If you control three or more artifacts, draw two cards instead.
+-9: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library."</CardText>
+<Artist>Josh Hass</Artist>
+<Rulings>2018/07/13: If you put a permanent onto the battlefield with Tezzeret's emblem's ability, any triggered abilities of that permanent that trigger during your end step won't trigger during that same end step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>84s</No>
+<Name>Windreader Sphinx</Name>
+<Type>Creature — Sphinx 3/7</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Flying
+Whenever a creature with flying attacks, you may draw a card.</CardText>
+<Flavor>"Your mind is too filled with foolish concerns to hear the subtle whispers that the breeze brings."</Flavor>
+<Artist>Min Yum</Artist>
+<Rulings>2018/07/13: It doesn't matter who controls the creature with flying or which player or planeswalker that creature is attacking. <Windreader Sphinx>'s controller is the player who may draw a card.
+2018/07/13: <Windreader Sphinx>'s ability will trigger when it itself attacks.
+2018/07/13: The creature must have flying immediately after being declared as an attacking creature in order for <Windreader Sphinx>'s ability to trigger. For example, attacking with Kitesail Corsair will cause the ability to trigger, and attacking with Pegasus Courser and a creature without flying will cause the ability to trigger only once.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>88s</No>
+<Name>Bone Dragon</Name>
+<Type>Creature — Dragon Skeleton 5/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying
+{3}{B}{B}, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.</CardText>
+<Flavor>Its roar is the clatter of a thousand bones.</Flavor>
+<Artist>Jason A. Engle</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>90</No>
+<Name>Death Baron</Name>
+<Type>Creature — Zombie Wizard 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2018/07/13: A creature that's both a Skeleton and a Zombie will get the bonus only once.
+2018/07/13: <Death Baron> doesn't normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch.
+2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Skeleton or Zombie you control may become lethal if <Death Baron> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>90s</No>
+<Name>Death Baron</Name>
+<Type>Creature — Zombie Wizard 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.</CardText>
+<Flavor>For the necromancer barons, killing and recruitment are one and the same.</Flavor>
+<Artist>Nils Hamm</Artist>
+<Rulings>2018/07/13: A creature that's both a Skeleton and a Zombie will get the bonus only once.
+2018/07/13: <Death Baron> doesn't normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch.
+2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Skeleton or Zombie you control may become lethal if <Death Baron> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>91</No>
+<Name>Demon of Catastrophes</Name>
+<Type>Creature — Demon 6/6</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a creature.
+Flying, trample</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2018/07/13: You must sacrifice exactly one creature to cast <Demon of Catastrophes>; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures.
+2018/07/13: Players can respond only after <Demon of Catastrophes> has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>91s</No>
+<Name>Demon of Catastrophes</Name>
+<Type>Creature — Demon 6/6</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a creature.
+Flying, trample</CardText>
+<Flavor>A pit yawned open, a column of oily smoke arose, and a towering form hissed, "I accept this offering."</Flavor>
+<Artist>Sidharth Chaturvedi</Artist>
+<Rulings>2018/07/13: You must sacrifice exactly one creature to cast <Demon of Catastrophes>; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures.
+2018/07/13: Players can respond only after <Demon of Catastrophes> has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>97s</No>
+<Name>Fraying Omnipotence</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player loses half their life, then discards half the cards in their hand, then sacrifices half the creatures they control. Round up each time.</CardText>
+<Flavor>The Great Mending that healed the Multiverse also unraveled the threads of Nicol Bolas's power.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: The amounts that are lost are rounded up, not the amounts kept. For example, a player with 5 life, five cards in hand, and five creatures would lose 3 life, discard three cards, and sacrifice three creatures.
+2018/07/13: Because the instructions are followed in order, abilities of the creatures a player will sacrifice may modify or trigger on losing life, discarding cards, and/or sacrificing creatures. Abilities that trigger this way will resolve after <Fraying Omnipotence> is done resolving.
+2018/07/13: When <Fraying Omnipotence> resolves, first each player loses the appropriate amount of life at once. Next, the player whose turn it is chooses an appropriate number of cards in hand without revealing them, then each other player in turn order does the same, and then those cards are all discarded simultaneously. Then, the player whose turn it is chooses an appropriate number of creatures they control. Each other player in turn order does the same, knowing choices made by previous players. Finally, all of the chosen creatures are sacrificed simultaneously.
+2018/07/13: In a Two-Headed Giant game, <Fraying Omnipotence> causes each player to lose half of their team's life, rounded up. This means that teams at an even life total will have 0 life, and teams at an odd life total will have -1 life. The game then ends in a draw.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>99s</No>
+<Name>Graveyard Marshal</Name>
+<Type>Creature — Zombie Soldier 3/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>{2}{B}, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.</CardText>
+<Flavor>"Rise and shine, my dears. We have work to do."
+—Isareth the Awakener</Flavor>
+<Artist>Mark Behm</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>102s</No>
+<Name>Infernal Reckoning</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Exile target colorless creature. You gain life equal to its power.</CardText>
+<Flavor>"When these intruders are gone, Zendikar will be my throne, my palace, my playground."</Flavor>
+<Artist>Bram Sels</Artist>
+<Rulings>2018/07/13: The amount of life gained is equal to the power of the creature as it last existed on the battlefield.
+2018/07/13: If the creature's power is negative, you don't lose or gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>104s</No>
+<Name>Isareth the Awakener</Name>
+<Type>Legendary Creature — Human Wizard 3/3</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Deathtouch
+Whenever Isareth the Awakener attacks, you may pay {X}. When you do, return target creature card with converted mana cost X from your graveyard to the battlefield with a corpse counter on it. If that creature would leave the battlefield, exile it instead of putting it anywhere else.</CardText>
+<Artist>Jason Rainville</Artist>
+<Rulings>2018/07/13: Isareth's triggered ability goes on the stack without a target. While that ability is resolving, you may pay {X}. When you do, a second ability triggers and you pick a target creature card to return. This is different from abilities that say "If you do . . ." in that players may cast spells and activate abilities after mana is paid and the target creature card is chosen, but before that card is returned.
+2018/07/13: Because all attacking creatures are chosen at once, a creature returned this way can't attack during the same combat as it returns, even if it has haste.
+2018/07/13: If a card in your graveyard has {X} in its mana cost, X is considered to be 0.
+2018/07/13: If you somehow remove a corpse counter from a creature Isareth has returned to the battlefield, the replacement effect that will exile it continues to apply. The counter is only to help remind you which creatures will be exiled if they would leave the battlefield.
+2018/07/13: If Isareth leaves the battlefield, the replacement effect continues to apply. If one of the creatures it returned would leave the battlefield, it'll be exiled instead.
+2018/07/13: Because to die means to be put into a graveyard from the battlefield, a creature that is exiled instead doesn't "die." Abilities that would trigger when it dies won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>106s</No>
+<Name>Liliana, Untouched by Death</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 4)</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>+1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
+-2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
+-3: You may cast Zombie cards from your graveyard this turn.</CardText>
+<Artist>Bastien L. Deharme</Artist>
+<Rulings>2018/07/13: Once Liliana's third ability has resolved, any Zombie cards in your graveyard may be cast this turn, including Zombie cards that enter your graveyard later in the turn.
+2018/07/13: In a Two-Headed Giant game, Liliana's first ability causes the opposing team to lose 4 life and you gain 2 life.
+2018/07/13: The value of X is determined only as Liliana's second ability resolves. If the number of Zombies you control changes later, the target creature's power and toughness won't change.
+2018/07/13: Casting a Zombie card from your graveyard once Liliana's third ability has resolved follows the normal rules for casting that card. You must pay its costs, and you must follow all applicable timing rules.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>107s</No>
+<Name>Liliana's Contract</Name>
+<Type>Enchantment</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>When Liliana's Contract enters the battlefield, you draw four cards and you lose 4 life.
+At the beginning of your upkeep, if you control four or more Demons with different names, you win the game.</CardText>
+<Flavor>Immortality is worth any price.</Flavor>
+<Artist>Bastien L. Deharme</Artist>
+<Rulings>2018/07/13: If you don't control four Demons with different names as your upkeep begins, the second ability of <Liliana's Contract> won't trigger. You can't take any actions during your turn before your upkeep begins.
+2018/07/13: If the second ability does trigger, but you no longer control four Demons with different names as the ability resolves, you won't win the game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>110</No>
+<Name>Murder</Name>
+<Type>Instant</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Destroy target creature.</CardText>
+<Flavor>"It's not work if you enjoy it."</Flavor>
+<Artist>Tyler Jacobson</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>112s</No>
+<Name>Open the Graves</Name>
+<Type>Enchantment</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Whenever a nontoken creature you control dies, create a 2/2 black Zombie creature token.</CardText>
+<Flavor>It was a night like any other. It would soon become a night no one would ever forget.</Flavor>
+<Artist>Vincent Proce</Artist>
+<Rulings>2018/07/13: If another creature you control dies at the same time that <Open the Graves> leaves the battlefield, you'll get a Zombie token.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>113s</No>
+<Name>Phylactery Lich</Name>
+<Type>Creature — Zombie 5/5</Type>
+<ManaCost>BBB (3)</ManaCost>
+<CardText>Indestructible
+As Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control.
+When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.</CardText>
+<Artist>Michael Komarck</Artist>
+<Rulings>2018/07/13: <Phylactery Lich>'s first ability doesn't target the artifact. No player may take actions between the time you choose an artifact and the time you put a phylactery counter on it.
+2018/07/13: If you control no artifacts as <Phylactery Lich> enters the battlefield, its first ability won't do anything. As soon as it enters the battlefield, its last ability will trigger (unless you control some other permanent with a phylactery counter on it) and you'll have to sacrifice it.
+2018/07/13: If <Phylactery Lich> and an artifact are entering the battlefield under your control at the same time, you can't put a phylactery counter on that artifact. You must choose an artifact you control that's already on the battlefield.
+2018/07/13: <Phylactery Lich>'s last ability is a "state trigger." Once a state trigger triggers, it won't trigger again as long as the ability is on the stack. If the ability is countered and the trigger condition is still true, it will immediately trigger again.
+2018/07/13: <Phylactery Lich>'s last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, if you control two <Phylactery Lich>es and two different artifacts with phylactery counters, neither <Phylactery Lich> will be sacrificed if one of those artifacts leaves the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>128s</No>
+<Name>Alpine Moon</Name>
+<Type>Enchantment</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>As Alpine Moon enters the battlefield, choose a nonbasic land card name.
+Lands your opponents control with the chosen name lose all land types and abilities, and they gain "{T}: Add one mana of any color."</CardText>
+<Flavor>"A rare and fascinating phenomenon."
+—Tamiyo</Flavor>
+<Artist>Alayna Danner</Artist>
+<Rulings>2018/07/13: <Alpine Moon>'s effect doesn't affect supertypes or other card types. It won't remove the artifact card type from an artifact land or remove the legendary supertype from a legendary land.
+2018/07/13: If an affected land has an ability that triggers "when" it enters the battlefield, it will lose that ability before it triggers.
+2018/07/13: If an affected land has an ability that causes it to enter the battlefield tapped, it will lose that ability before it applies. The same is also true of any other abilities that modify how a land enters the battlefield or apply "as" a land enters the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>129s</No>
+<Name>Apex of Power</Name>
+<Type>Sorcery</Type>
+<ManaCost>7RRR (10)</ManaCost>
+<CardText>Exile the top seven cards of your library. Until end of turn, you may cast nonland cards exiled this way.
+If this spell was cast from your hand, add ten mana of any one color.</CardText>
+<Flavor>"As I desire, so it shall be."
+—Nicol Bolas</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: <Apex of Power> doesn't change when you can cast the exiled cards. For example, if you exile a sorcery card, you can cast it only during your main phase when the stack is empty.
+2018/07/13: Casting an exiled card causes it to leave exile. You can't cast it multiple times.
+2018/07/13: Any cards not cast, including land cards, remain in exile.
+2018/07/13: If an effect copies <Apex of Power>, the copy wasn't cast at all, so you won't add ten mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>130s</No>
+<Name>Banefire</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Banefire deals X damage to any target.
+If X is 5 or more, this spell can't be countered and the damage can't be prevented.</CardText>
+<Flavor>For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2018/07/13: To determine whether it can be countered and its damage can be prevented, <Banefire> checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal.
+2018/07/13: <Banefire> can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.
+2018/07/13: If its target is illegal by the time <Banefire> tries to resolve, the spell isn't countered, but it doesn't resolve. The target won't be dealt damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>134s</No>
+<Name>Dark-Dweller Oracle</Name>
+<Type>Creature — Goblin Shaman 2/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn. (You still pay its costs. You can play a land this way only if you have an available land play remaining.)</CardText>
+<Flavor>Eyes are unnecessary for seeing the future.</Flavor>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2018/07/13: <Dark-Dweller Oracle> doesn't change when you can cast the exiled card. For example, if you exile a sorcery card, you can cast it only during your main phase when the stack is empty. If you exile a land card, you can play it only during your main phase and only if you have an available land play remaining.
+2018/07/13: Casting an exiled card causes it to leave exile. You can't cast it multiple times.
+2018/07/13: If you don't cast the exiled card, it remains in exile.
+2018/07/13: You can sacrifice <Dark-Dweller Oracle> to pay the cost for its own ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>135s</No>
+<Name>Demanding Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Flying
+When Demanding Dragon enters the battlefield, it deals 5 damage to target opponent unless that player sacrifices a creature.</CardText>
+<Flavor>A knight's devotion to their steed goes only so far.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>136s</No>
+<Name>Dismissive Pyromancer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{R}, {T}, Discard a card: Draw a card.
+{2}{R}, {T}, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature.</CardText>
+<Flavor>"Burn. Burn. Keep. Burn".</Flavor>
+<Artist>Bram Sels</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>144s</No>
+<Name>Goblin Trashmaster</Name>
+<Type>Creature — Goblin Warrior 3/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Other Goblins you control get +1/+1.
+Sacrifice a Goblin: Destroy target artifact.</CardText>
+<Flavor>"Folks 'round here are too in love with their contraptions. Does them some good if we smash every one so often."</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Rulings>2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Goblin you control may become lethal if <Goblin Trashmaster> leaves the battlefield during that turn.
+2018/07/13: You can sacrifice <Goblin Trashmaster> to pay the cost for its own ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>145</No>
+<Name>Guttersnipe</Name>
+<Type>Creature — Goblin Shaman 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.</CardText>
+<Artist>Izzy</Artist>
+<Rulings>2018/07/13: <Guttersnipe>'s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/07/13: In a Two-Headed Giant game, <Guttersnipe>'s ability causes the opposing team to lose 4 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>149s</No>
+<Name>Lathliss, Dragon Queen</Name>
+<Type>Legendary Creature — Dragon 6/6</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying
+Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.</CardText>
+<Artist>Alex Konstad</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>154s</No>
+<Name>Sarkhan, Fireblood</Name>
+<Type>Legendary Planeswalker — Sarkhan (Loyalty: 3)</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>+1: You may discard a card. If you do, draw a card.
++1: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
+-7: Create four 5/5 red Dragon creature tokens with flying.</CardText>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2018/07/13: Because it's a loyalty ability, Sarkhan's second ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.
+2018/07/13: A "Dragon spell" refers only to a spell that has the Dragon subtype, regardless of its name. For example, Dragon's Hoard isn't a Dragon spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>155s</No>
+<Name>Sarkhan's Unsealing</Name>
+<Type>Enchantment</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Whenever you cast a creature spell with power 4, 5, or 6, Sarkhan's Unsealing deals 4 damage to any target.
+Whenever you cast a creature spell with power 7 or greater, Sarkhan's Unsealing deals 4 damage to each opponent and each creature and planeswalker they control.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2018/07/13: If you cast a creature spell that will enter the battlefield with a number of +1/+1 counters, such as Hungering Hydra, those counters aren't considered when determining whether either ability of <Sarkhan's Unsealing> triggers. Similarly, effects that will raise the creature's power once it has entered the battlefield won't apply.
+2018/07/13: Each of the triggered abilities of <Sarkhan's Unsealing> resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/07/13: If a creature card's power is written as * and an ability defines its power, that ability applies while the creature spell is on the stack. Sarkhan's unsealing checks its power only as you finish paying costs; it doesn't matter what the spell's power is as you begin to cast it or when the triggered ability resolves.
+2018/07/13: In a Two-Headed Giant game, the last ability of <Sarkhan's Unsealing> causes the opposing team to lose 8 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>160s</No>
+<Name>Spit Flame</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Spit Flame deals 4 damage to target creature.
+Whenever a Dragon enters the battlefield under your control, you may pay {R}. If you do, return Spit Flame from your graveyard to your hand.</CardText>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>179s</No>
+<Name>Elvish Clancaller</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>Other Elves you control get +1/+1.
+{4}{G}{G}, {T}: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.</CardText>
+<Flavor>No single root feeds the forest.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>180</No>
+<Name>Elvish Rejuvenator</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>Winona Nelson</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>185s</No>
+<Name>Gigantosaurus</Name>
+<Type>Creature — Dinosaur 10/10</Type>
+<ManaCost>GGGGG (5)</ManaCost>
+<Flavor>"Each tooth is the length of a horse, and new ones grow in every sixteen days. Let's get a closer look!"
+—Vivien Reid</Flavor>
+<Artist>Jonathan Kuo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>186s</No>
+<Name>Goreclaw, Terror of Qal Sisma</Name>
+<Type>Legendary Creature — Bear 4/3</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Creature spells you cast with power 4 or greater cost {2} less to cast.
+Whenever Goreclaw, Terror of Qal Sisma attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.</CardText>
+<Flavor>You don't want to know how she got that name.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: If you cast a creature spell that will enter the battlefield with a number of +1/+1 counters, such as Hungering Hydra, those counters aren't considered when determining whether Goreclaw reduces that spell's cost. Similarly, effects that will raise the creature's power once it has entered the battlefield won't apply.
+2018/07/13: If another creature has an ability that changes its power when it attacks, such as Brawl-Bash Ogre, you may have that ability resolve before Goreclaw's last ability.
+2018/07/13: Goreclaw's last ability affects only creatures you control with the appropriate power at the time it resolves. Creatures you begin to control later in the turn won't get either bonus, and a creature you control whose power decreases later in the turn won't lose either bonus.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>189s</No>
+<Name>Hungering Hydra</Name>
+<Type>Creature — Hydra 0/0</Type>
+<ManaCost>XG (1)</ManaCost>
+<CardText>Hungering Hydra enters the battlefield with X +1/+1 counters on it.
+Hungering Hydra can't be blocked by more than one creature.
+Whenever Hungering Hydra is dealt damage, put that many +1/+1 counters on it. (It must survive the damage to get the counters.)</CardText>
+<Artist>Daarken</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>192s</No>
+<Name>Pelakka Wurm</Name>
+<Type>Creature — Wurm 7/7</Type>
+<ManaCost>4GGG (7)</ManaCost>
+<CardText>Trample
+When Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm dies, draw a card.</CardText>
+<Flavor>It eats what it wants to eat—which is anything that moves.</Flavor>
+<Artist>Daniel Ljunggren</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>194s</No>
+<Name>Prodigious Growth</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +7/+7 and has trample.</CardText>
+<Flavor>"Look at how cute it is now!"
+—Vivien Reid</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>200s</No>
+<Name>Runic Armasaur</Name>
+<Type>Creature — Dinosaur 2/5</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Whenever an opponent activates an ability of a creature or land that isn't a mana ability, you may draw a card.</CardText>
+<Flavor>The Sun Empire's most sacred sites are protected by more than prayers.</Flavor>
+<Artist>Randy Vargas</Artist>
+<Rulings>2018/07/13: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text. An activated mana ability is one that produces mana as it resolves, not one that costs mana to activate.
+2018/07/13: <Runic Armasaur>'s ability doesn't trigger when an opponent activates an ability of a card in hand (such as a cycling ability from the Amonkhet block) or a card in a graveyard (such as that of Bone Dragon), even if that causes a card to be put onto the battlefield.
+2018/07/13: <Runic Armasaur>'s ability doesn't trigger when an opponent activates an ability of a noncreature, nonland permanent that causes it to become a creature (such as a crew ability of a Vehicle).
+2018/07/13: <Runic Armasaur>'s ability resolves before the ability that caused it to trigger. Players can cast spells and activate abilities after the triggered ability resolves but before the activated ability that caused it to trigger does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>201s</No>
+<Name>Scapeshift</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.</CardText>
+<Flavor>"Whether we like it or not, our arrival has altered the landscape."
+—Malcolm, navigator of the Belligerent</Flavor>
+<Artist>Daniel Ljunggren</Artist>
+<Rulings>2018/07/13: You sacrifice the lands as part of the resolution of <Scapeshift>. It isn't an additional cost. If <Scapeshift> is countered, you won't sacrifice any lands.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>203s</No>
+<Name>Thorn Lieutenant</Name>
+<Type>Creature — Elf Warrior 2/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
+{5}{G}: Thorn Lieutenant gets +4/+4 until end of turn.</CardText>
+<Artist>Uriah Voth</Artist>
+<Rulings>2018/07/13: <Thorn Lieutenant>'s triggered ability resolves before the spell or ability that caused it to trigger. It resolves even if that spell or ability is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>208s</No>
+<Name>Vivien Reid</Name>
+<Type>Legendary Planeswalker — Vivien (Loyalty: 5)</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+-3: Destroy target artifact, enchantment, or creature with flying.
+-8: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>209s</No>
+<Name>Vivien's Invocation</Name>
+<Type>Sorcery</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When a creature is put onto the battlefield this way, it deals damage equal to its power to target creature an opponent controls.</CardText>
+<Artist>Johannes Voss</Artist>
+<Rulings>2018/07/13: You don't choose any targets as you cast <Vivien's Invocation>. While that spell is resolving, you may put a creature card from among the cards you look at onto the battlefield. If you do, a separate ability triggers and you pick a target creature an opponent controls to be dealt damage.
+2018/07/13: If the creature you put onto the battlefield leaves the battlefield before damage is dealt, its last known existence on the battlefield is used to determine how much damage it deals to the target creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>212s</No>
+<Name>Arcades, the Strategist</Name>
+<Type>Legendary Creature — Elder Dragon 3/5</Type>
+<ManaCost>1GWU (4)</ManaCost>
+<CardText>Flying, vigilance
+Whenever a creature with defender enters the battlefield under your control, draw a card.
+Each creature you control with defender assigns combat damage equal to its toughness rather than its power and can attack as though it didn't have defender.</CardText>
+<Artist>Even Amundsen</Artist>
+<Rulings>2018/07/13: Arcades's last ability doesn't actually change any creature's power. It changes only the amount of combat damage it assigns. All other rules and effects that check power or toughness use the real values. For example, Rabid Bite won't cause a creature to deal damage equal to its toughness.
+2018/07/13: If Arcades leaves the battlefield after a creature with defender has attacked, that creature remains an attacking creature, although it will assign damage equal to its power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>214s</No>
+<Name>Chromium, the Mutable</Name>
+<Type>Legendary Creature — Elder Dragon 7/7</Type>
+<ManaCost>4WUB (7)</ManaCost>
+<CardText>Flash
+This spell can't be countered.
+Flying
+Discard a card: Until end of turn, Chromium, the Mutable becomes a Human with base power and toughness 1/1, loses all abilities, and gains hexproof. It can't be blocked this turn.</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2018/07/13: Chromium stops being an Elder Dragon for the turn once its last ability has resolved. It's still a legendary creature named <Chromium, the Mutable>.
+2018/07/13: Chromium's activated ability overwrites all previous effects that set its base power and toughness to specific values. Any power- or toughness-setting effects that start to apply after that ability resolves will overwrite this effect.
+2018/07/13: Effects that raise or lower a creature's power and/or toughness, such as the effect of Titanic Growth, will apply to the creature no matter when they started to take effect. The same is true for any counters that change its power and/or toughness and effects that switch its power and toughness.
+2018/07/13: If Chromium gains an ability after its activated ability resolves, it will keep that ability.
+2018/07/13: Activating Chromium's last ability after it has become blocked won't cause Chromium to become unblocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>218sb</No>
+<Name>Nicol Bolas, the Arisen</Name>
+<Type>Legendary Planeswalker — Bolas (Loyalty: 7)</Type>
+<ColorIndicator>Blue Black Red</ColorIndicator>
+<CardText>+2: Draw two cards.
+-3: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.
+-4: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+-12: Exile all but the bottom card of target player's library.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: When Nicol Bolas's enters-the-battlefield triggered ability resolves, first the next opponent in turn order (or, if it's an opponent's turn, that opponent) chooses a card in their hand without revealing it, then each other opponent in turn order does the same. Then all the chosen cards are discarded at the same time.
+2018/07/13: If Nicol Bolas leaves the battlefield after his creature face's activated ability has been activated but before it resolves, the card remains in whichever zone it moves to. It won't be exiled or return transformed.
+2018/07/13: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored.
+2018/07/13: While a double-faced card isn't on the battlefield, consider only the characteristics of its front face. For example, Nicol Bolas has the characteristics of its creature face in the graveyard, even if it was a planeswalker on the battlefield before it was put into the graveyard.
+2018/07/13: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up. The back face of a double-faced card can't be played.
+2018/07/13: If another permanent that isn't a double-faced card (such as Mirror Image) becomes a copy of Nicol Bolas, the Ravager, activating the ability to exile it and return it transformed will only exile it. It won't return to the battlefield at all.
+2018/07/13: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any permanents you control from Nicol Bolas's third loyalty ability that came from other players' graveyards are exiled.
+2018/07/13: The converted mana cost of a double-faced card is the converted mana cost of its front face, even while it's on the battlefield with its back face up. For example, the converted mana cost of <Nicol Bolas, the Arisen> is 4.
+2018/07/13: <Nicol Bolas, the Arisen> has a color indicator on its typeline. This color indicator means that it's a blue, black, and red permanent.
+2018/07/13: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield.
+2018/07/13: In some rare cases, a spell or ability may cause Nicol Bolas to transform while it's a creature on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Nicol Bolas, the Ravager</OtherPart>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>218sa</No>
+<Name>Nicol Bolas, the Ravager</Name>
+<Type>Legendary Creature — Elder Dragon 4/4</Type>
+<ManaCost>1UBR (4)</ManaCost>
+<CardText>Flying
+When Nicol Bolas, the Ravager enters the battlefield, each opponent discards a card.
+{4}{U}{B}{R}: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: When Nicol Bolas's enters-the-battlefield triggered ability resolves, first the next opponent in turn order (or, if it's an opponent's turn, that opponent) chooses a card in their hand without revealing it, then each other opponent in turn order does the same. Then all the chosen cards are discarded at the same time.
+2018/07/13: If Nicol Bolas leaves the battlefield after his creature face's activated ability has been activated but before it resolves, the card remains in whichever zone it moves to. It won't be exiled or return transformed.
+2018/07/13: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored.
+2018/07/13: While a double-faced card isn't on the battlefield, consider only the characteristics of its front face. For example, Nicol Bolas has the characteristics of its creature face in the graveyard, even if it was a planeswalker on the battlefield before it was put into the graveyard.
+2018/07/13: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up. The back face of a double-faced card can't be played.
+2018/07/13: If another permanent that isn't a double-faced card (such as Mirror Image) becomes a copy of <Nicol Bolas, the Ravager>, activating the ability to exile it and return it transformed will only exile it. It won't return to the battlefield at all.
+2018/07/13: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any permanents you control from Nicol Bolas's third loyalty ability that came from other players' graveyards are exiled.
+2018/07/13: The converted mana cost of a double-faced card is the converted mana cost of its front face, even while it's on the battlefield with its back face up. For example, the converted mana cost of Nicol Bolas, the Arisen is 4.
+2018/07/13: Nicol Bolas, the Arisen has a color indicator on its typeline. This color indicator means that it's a blue, black, and red permanent.
+2018/07/13: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield.
+2018/07/13: In some rare cases, a spell or ability may cause Nicol Bolas to transform while it's a creature on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Nicol Bolas, the Arisen</OtherPart>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>219s</No>
+<Name>Palladia-Mors, the Ruiner</Name>
+<Type>Legendary Creature — Elder Dragon 6/6</Type>
+<ManaCost>3RGW (6)</ManaCost>
+<CardText>Flying, vigilance, trample
+Palladia-Mors, the Ruiner has hexproof if it hasn't dealt damage yet.</CardText>
+<Flavor>Sister of Nicol Bolas. Survivor of the Elder Dragon War. The most vicious of her kin.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: If Palladia-Mors leaves the battlefield and returns, it's considered a new object, even if it's represented by the same card. It has hexproof again until it deals damage.
+2018/07/13: If a triggered ability triggers at the same time that Paladia-Mors deals damage for the first time, targets are chosen for that ability after Palladia-Mors no longer has hexproof.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>225s</No>
+<Name>Vaevictis Asmadi, the Dire</Name>
+<Type>Legendary Creature — Elder Dragon 6/6</Type>
+<ManaCost>3BRG (6)</ManaCost>
+<CardText>Flying
+Whenever Vaevictis Asmadi, the Dire attacks, for each player, choose target permanent that player controls. Those players sacrifice those permanents. Each player who sacrificed a permanent this way reveals the top card of their library, then puts it onto the battlefield if it's a permanent card.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2018/07/13: You must target one of your permanents to sacrifice as well.
+2018/07/13: Vaevictis's triggered ability resolves during the declare attackers step, before blockers are chosen. A creature targeted by its ability won't be around to block, and creatures put onto the battlefield with its ability may be able to do so.
+2018/07/13: If any of the target permanents aren't sacrificed (most likely because one of them became an illegal target, such as by gaining hexproof), that permanent's controller won't reveal the top card of their library or put it onto the battlefield.
+2018/07/13: If any player controls no permanents, Vaevictis's ability won't have sufficient legal targets, so it's removed from the stack without any effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>226s</No>
+<Name>Amulet of Safekeeping</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever you become the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
+Creature tokens get -1/-0.</CardText>
+<Flavor>Whether it is magical, lucky, or merely old, it is cherished, and that gives it power.</Flavor>
+<Artist>Aaron Miller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>228s</No>
+<Name>Chaos Wand</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.</CardText>
+<Artist>Kari Christensen</Artist>
+<Rulings>2018/07/13: The opponent stops exiling cards as soon as they exile any instant or sorcery card. You don't choose which card type to look for.
+2018/07/13: If the opponent exiles their entire library without exiling an instant or sorcery card, that player stops exiling cards, and the exiled cards are put into their library in a random order.
+2018/07/13: If you don't cast the exiled instant or sorcery card, it's put on the bottom of that library with the other cards.
+2018/07/13: If you wish to cast the exiled card, you must cast it while <Chaos Wand>'s ability is resolving. You can't cast it later in the turn. A spell cast this way may be cast at a time you normally wouldn't be able to cast a spell of that type, but other restrictions (such as "Cast this spell only during combat") are enforced.
+2018/07/13: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card.
+2018/07/13: If the exiled card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>229s</No>
+<Name>Crucible of Worlds</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>You may play land cards from your graveyard.</CardText>
+<Flavor>Amidst the darkest ashes grow the strongest seeds.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Rulings>2018/07/13: <Crucible of Worlds> doesn't change the times when you can play those land cards. You can still play only one land per turn, and only during your main phase when you have priority and the stack is empty.
+2018/07/13: <Crucible of Worlds> doesn't allow you to activate abilities (such as cycling) of land cards in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>230</No>
+<Name>Desecrated Tomb</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.</CardText>
+<Flavor>The grave robbers were started, for the door the mausoleum was already open.</Flavor>
+<Artist>Mark Poole</Artist>
+<Rulings>2018/07/13: You create one Bat token each time <Desecrated Tomb>'s ability triggers, no matter how many cards left your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>230s</No>
+<Name>Desecrated Tomb</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.</CardText>
+<Flavor>The grave robbers were startled, for the door to the mausoleum was already open.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Rulings>2018/07/13: You create one Bat token each time <Desecrated Tomb>'s ability triggers, no matter how many cards left your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>232s</No>
+<Name>Dragon's Hoard</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Whenever a Dragon enters the battlefield under your control, put a gold counter on Dragon's Hoard.
+{T}, Remove a gold counter from Dragon's Hoard: Draw a card.
+{T}: Add one mana of any color.</CardText>
+<Artist>Adam Paquette</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>238s</No>
+<Name>Magistrate's Scepter</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{4}, {T}: Put a charge counter on Magistrate's Scepter.
+{T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2018/07/13: If multiple extra turns would be taken after this one, perhaps because more than one player has activated the last ability of their <Magistrate's Scepter>, the most recently created one is taken first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>244s</No>
+<Name>Sigiled Sword of Valeron</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +2/+0, has vigilance, and is a Knight in addition to its other types.
+Whenever equipped creature attacks, create a 2/2 white Knight creature token with vigilance that's attacking.
+Equip {3}</CardText>
+<Artist>John Stanko</Artist>
+<Rulings>2018/07/13: You choose which player or planeswalker the token is attacking. It doesn't have to be attacking the same player or planeswalker that the equipped creature is attacking.
+2018/07/13: Although the token is attacking, it was never declared as an attacking creature (for the purposes of abilities that trigger whenever a creature attacks, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>247s</No>
+<Name>Transmogrifying Wand</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Transmogrifying Wand enters the battlefield with three charge counters on it.
+{1}, {T}, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Aaron Miller</Artist>
+<Rulings>2018/07/13: If the target creature is an illegal target by the time <Transmogrifying Wand>'s ability tries to resolve, the ability doesn't resolve. No player creates an Ox token.
+2018/07/13: If the target creature is a legal target but can't be destroyed, most likely because it has indestructible, its controller gets an Ox token and gets to keep that creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>249s</No>
+<Name>Detection Tower</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}: Until end of turn, your opponents and creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.</CardText>
+<Flavor>Its light exposes enemies and lays secrets bare.</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2018/07/13: Your opponents and creatures your opponents control don't actually lose hexproof, although you will ignore hexproof for purposes of choosing targets of spells and abilities you control.
+2018/07/13: Creatures your opponents control with "hexproof from [quality]" abilities can be targeted as though they didn't have those abilities as well.
+2018/07/13: Because <Detection Tower>'s last ability doesn't change the characteristics of any permanents, the set of creatures affected by it is constantly updated. Creatures that come under your opponents' control later in the turn can be targeted as though they didn't have hexproof.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>254</No>
+<Name>Reliquary Tower</Name>
+<Type>Land</Type>
+<CardText>You have no maximum hand size.
+{T}: Add {C}.</CardText>
+<Flavor>The most holy treasures are kept far from unclean soil.</Flavor>
+<Artist>Mark Poole</Artist>
+<Rulings>2009/02/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put <Reliquary Tower> onto the battlefield, you'll have no maximum hand size. However, if those permanents enter the battlefield in the opposite order, your maximum hand size would be two.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

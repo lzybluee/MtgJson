@@ -1,0 +1,105 @@
+<Card>
+<SetId>PSDC</SetId>
+<No>1</No>
+<Name>Ajani, Caller of the Pride</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>+1: Put a +1/+1 counter on up to one target creature.
+-3: Target creature gains flying and double strike until end of turn.
+-8: Create X 2/2 white Cat creature tokens, where X is your life total.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2012/07/01: You can activate the first ability without a target. You'll still put one loyalty counter on Ajani when you activate the ability.
+2012/07/01: The number of Cat tokens you put onto the battlefield is equal to your life total when the third ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2013</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSDC</SetId>
+<No>60</No>
+<Name>Jace, Memory Adept</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>+1: Draw a card. Target player puts the top card of their library into their graveyard.
+0: Target player puts the top ten cards of their library into their graveyard.
+-7: Any number of target players each draw twenty cards.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2011/09/22: If you target yourself with Jace's first ability, you'll draw a card first, then put the top card of your library into your graveyard.
+2011/09/22: If you activate Jace's first ability, and the player is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card.
+2011/09/22: If Jace's third ability causes a player to draw more cards than are left in their library, that player loses the game as a state-based action. If this ability causes all players to do this, the game is a draw.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2013</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSDC</SetId>
+<No>102</No>
+<Name>Liliana of the Dark Realms</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
+-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
+-6: You get an emblem with "Swamps you control have '{T}: Add {B}{B}{B}{B}.'"</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2012/07/01: You can activate Liliana's first ability even if your library contains no Swamp cards (or you don't want to find one). You'll still search your library and shuffle it.
+2012/07/01: When you activate Liliana's second ability, you choose only the target creature. You choose whether that creature gets +X/+X or -X/-X when the ability resolves. The value of X is determined by the number of Swamps you control when the ability resolves.
+2012/07/01: Liliana's emblem doesn't remove any other abilities of Swamps you control.
+2013/07/01: Each of Liliana's abilities refers to lands (or land cards) with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2013</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSDC</SetId>
+<No>131</No>
+<Name>Chandra, Pyromaster</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
+2014/07/18: If the first ability resolves but the damage is prevented or redirected, the target creature still won't be able to block that turn.
+2014/07/18: The card exiled by the second ability is exiled face up. Playing it follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if it's a creature card, you can cast it only during your main phase while the stack is empty.
+2014/07/18: If you exile a land card using the second ability, you may play that land only if you have any available land plays. Normally, this means you can play the land only if you haven't played a land yet that turn.
+2014/07/18: In the third ability, "exiled this way" means the cards you just exiled because of that ability resolving. Cards exiled with the second ability or with previous activations of the third ability don't count.
+2014/07/18: While resolving the third ability, you create the copies of the card in exile and cast them from exile. You can cast zero, one, two, or all three copies. The card itself isn't cast. It remains exiled.
+2014/07/18: While casting the copies created by the third ability, timing restrictions based on the card's type (such as creature or sorcery) are ignored. Other restrictions, such as "Cast [this spell] only during combat," are not.
+2014/07/18: Because you're casting the copies "without paying their mana costs," you can't pay any alternative costs for the copies. You can pay additional costs, such as kicker costs. If the copies have any mandatory additional costs, you must pay those.
+2014/07/18: If the copied card has {X} in its mana cost, you must choose 0 as its value when casting the copies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2013</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSDC</SetId>
+<No>172</No>
+<Name>Garruk, Caller of Beasts</Name>
+<Type>Legendary Planeswalker — Garruk (Loyalty: 4)</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+-3: You may put a green creature card from your hand onto the battlefield.
+-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2013/07/01: You choose what green creature card to put onto the battlefield, if any, when the second ability resolves.
+2013/07/01: If you have Garruk's emblem, the creature card you search for will be put onto the battlefield before the creature spell you cast resolves. The creature card you put onto the battlefield isn't cast, so the ability of the emblem won't retrigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2013</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

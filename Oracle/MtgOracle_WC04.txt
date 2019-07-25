@@ -1,0 +1,1541 @@
+<Card>
+<SetId>WC04</SetId>
+<No>gn2</No>
+<Name>Akroma's Vengeance</Name>
+<Type>Sorcery</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Destroy all artifacts, creatures, and enchantments.
+Cycling {3} ({3}, Discard this card: Draw a card.)</CardText>
+<Flavor>Ixidor had only to imagine their ruin and Akroma made it so.</Flavor>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn2</No>
+<Name>Akroma's Vengeance</Name>
+<Type>Sorcery</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Destroy all artifacts, creatures, and enchantments.
+Cycling {3} ({3}, Discard this card: Draw a card.)</CardText>
+<Flavor>Ixidor had only to imagine their ruin and Akroma made it so.</Flavor>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn4</No>
+<Name>Astral Slide</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Flavor>"The hum of the universe is never off-key."
+—Mystic elder</Flavor>
+<Artist>Ron Spears</Artist>
+<Rulings>2004/10/04: If a player cycles a card during the end step, the creature that is exiled won't come back until the end of the next turn.
+2008/08/01: If a face-down card is exiled, it turns face-up and remains face-up when it returns to the battlefield. This does not trigger any abilities that would trigger on it being turned face-up.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn8</No>
+<Name>Decree of Justice</Name>
+<Type>Sorcery</Type>
+<ManaCost>XX2WW (4)</ManaCost>
+<CardText>Create X 4/4 white Angel creature tokens with flying.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2018/03/16: A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {8}{W}{W} to cast <Decree of Justice>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn8</No>
+<Name>Decree of Justice</Name>
+<Type>Sorcery</Type>
+<ManaCost>XX2WW (4)</ManaCost>
+<CardText>Create X 4/4 white Angel creature tokens with flying.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2018/03/16: A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {8}{W}{W} to cast <Decree of Justice>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn12a</No>
+<Name>Eternal Dragon</Name>
+<Type>Creature — Dragon Spirit 5/5</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Justin Sweet</Artist>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Plainscycling doesn't allow you to draw a card. Instead, it lets you search your library for a Plains card. After you find a Plains card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Plainscycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Plainscycling this card. Any ability that stops a cycling ability from being activated also stops Plainscycling from being activated.
+2009/02/01: Plainscycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Plainscycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Plains land type, including nonbasic lands. You can also choose not to find a card, even if there is a Plains card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn12sbb</No>
+<Name>Purge</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact creature or black creature. It can't be regenerated.</CardText>
+<Flavor>For the first and last time, the horrific creature experienced terror.</Flavor>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn12</No>
+<Name>Eternal Dragon</Name>
+<Type>Creature — Dragon Spirit 5/5</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Justin Sweet</Artist>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Plainscycling doesn't allow you to draw a card. Instead, it lets you search your library for a Plains card. After you find a Plains card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Plainscycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Plainscycling this card. Any ability that stops a cycling ability from being activated also stops Plainscycling from being activated.
+2009/02/01: Plainscycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Plainscycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Plains land type, including nonbasic lands. You can also choose not to find a card, even if there is a Plains card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn13sb</No>
+<Name>Circle of Protection: Red</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</CardText>
+<Artist>Gary Ruddell</Artist>
+<Rulings>2004/10/04: A source of damage is a permanent, a spell on the stack (including one that creates a permanent), or any object referred to by an object on the stack. A source doesn't need to be capable of dealing damage to be a legal choice.
+2004/10/04: Can be used even when there is no damage to prevent. It prevents the next damage (if any) from the source this turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn25</No>
+<Name>Wing Shards</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Target player sacrifices an attacking creature.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</CardText>
+<Artist>Daren Bader</Artist>
+<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
+2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
+2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
+2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.
+2013/06/07: You may choose new targets for any of the copies. You can choose differently for each copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn27</No>
+<Name>Condescend</Name>
+<Type>Instant</Type>
+<ManaCost>XU (1)</ManaCost>
+<CardText>Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</CardText>
+<Artist>Ron Spears</Artist>
+<Rulings>2017/11/17: You must be able to target another spell to cast <Condescend>. <Condescend> can't target itself.
+2017/11/17: You scry 2 even if the spell's controller pays {X}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb27</No>
+<Name>Condescend</Name>
+<Type>Instant</Type>
+<ManaCost>XU (1)</ManaCost>
+<CardText>Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</CardText>
+<Artist>Ron Spears</Artist>
+<Rulings>2017/11/17: You must be able to target another spell to cast <Condescend>. <Condescend> can't target itself.
+2017/11/17: You scry 2 even if the spell's controller pays {X}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn28</No>
+<Name>Exalted Angel</Name>
+<Type>Creature — Angel 4/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+Whenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Artist>Michael Sutfin</Artist>
+<Rulings>2004/10/04: You only gain the life when the triggered ability resolves. If you are reduced to zero life before the ability resolves, you will lose before gaining the life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap29sb</No>
+<Name>Annul</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target artifact or enchantment spell.</CardText>
+<Flavor>"Murder of the living is tragic, but murder of the idea is unforgivable."
+—Janus, speaker of the synod</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn29</No>
+<Name>Annul</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target artifact or enchantment spell.</CardText>
+<Flavor>"Murder of the living is tragic, but murder of the idea is unforgivable."
+—Janus, speaker of the synod</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn33</No>
+<Name>Pacifism</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block.</CardText>
+<Flavor>For the first time in his life, Grakk felt a little warm and fuzzy inside.</Flavor>
+<Artist>Robert Bliss</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb35</No>
+<Name>Fabricate</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.</CardText>
+<Flavor>"The secret to invention is to see something in your mind, then find where it hides in the world."</Flavor>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap36sb</No>
+<Name>Serum Visions</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw a card. Scry 2.</CardText>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb36</No>
+<Name>Serum Visions</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw a card. Scry 2.</CardText>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn50</No>
+<Name>Renewed Faith</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>You gain 6 life.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Renewed Faith, you may gain 2 life.</CardText>
+<Artist>Dave Dorman</Artist>
+<Rulings>2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2017/04/18: Some cards with cycling have an ability that triggers when you cycle them. These triggered abilities resolve before you draw from the cycling ability.
+2017/04/18: Triggered abilities from cycling a card and the cycling ability itself aren't spells. Effects that interact with spells (such as that of Cancel) won't affect them.
+2017/04/18: You can cycle a card even if it has a triggered ability from cycling that won't have a legal target. This is because the cycling ability and the triggered ability are separate. This also means that if either ability doesn't resolve (due to being countered with Disallow, for example, or if the triggered ability's targets have become illegal), the other ability will still resolve.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap51</No>
+<Name>Somber Hoverguard</Name>
+<Type>Creature — Drone 3/2</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying</CardText>
+<Flavor>The vedalken interrogate all intruders—once the hoverguards are done with them.</Flavor>
+<Artist>Adam Rex</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn52sb</No>
+<Name>Stifle</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target activated or triggered ability. (Mana abilities can't be targeted.)</CardText>
+<Flavor>"If I wanted your opinion, I'd have told you what it was."
+—Pemmin, Riptide survivor</Flavor>
+<Artist>Dany Orizio</Artist>
+<Rulings>2004/10/04: An activated ability has a "Cost: Effect" format. Look for the colon. A triggered ability starts with "when", "whenever", or "at".
+2004/10/04: Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can't be targeted.
+2004/10/04: It can target delayed triggered abilities. For example, a card that says "Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step." triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the "at the beginning of the end step" trigger when it is placed on the stack at end of turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn53</No>
+<Name>Thirst for Knowledge</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Draw three cards. Then discard two cards unless you discard an artifact card.</CardText>
+<Flavor>Lymph, the fluid essence of blinkmoths, is prized by wizards for the rush of intellect it provides.</Flavor>
+<Artist>Ben Thompson</Artist>
+<Rulings>2004/12/01: You can discard either one artifact card or two cards which may or may not be artifacts. If you really want to, you can discard two artifact cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb53</No>
+<Name>Thirst for Knowledge</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Draw three cards. Then discard two cards unless you discard an artifact card.</CardText>
+<Flavor>Lymph, the fluid essence of blinkmoths, is prized by wizards for the rush of intellect it provides.</Flavor>
+<Artist>Ben Thompson</Artist>
+<Rulings>2004/12/01: You can discard either one artifact card or two cards which may or may not be artifacts. If you really want to, you can discard two artifact cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap54</No>
+<Name>Thoughtcast</Name>
+<Type>Sorcery</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.</CardText>
+<Flavor>Vedalken eyes don't see the beauty in things. They see only what those things can teach.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb54</No>
+<Name>Thoughtcast</Name>
+<Type>Sorcery</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.</CardText>
+<Flavor>Vedalken eyes don't see the beauty in things. They see only what those things can teach.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn58</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn58</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb60</No>
+<Name>Fireball</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>This spell costs {1} more to cast for each target beyond the first.
+Fireball deals X damage divided evenly, rounded down, among any number of targets.</CardText>
+<Flavor>The spell fell upon the crowd like a dragon, ancient and full of death.</Flavor>
+<Artist>Dave Dorman</Artist>
+<Rulings>2017/11/17: For example, if X is 5 and you choose three target creatures, <Fireball> has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as <Fireball> resolves, it deals 1 damage to each of them.
+2017/11/17: You may cast <Fireball> with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves.
+2017/11/17: <Fireball>'s damage is divided as <Fireball> resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as <Fireball> resolves.
+2017/11/17: You can target more than X creatures. However, if the number of legal targets at the time <Fireball> resolves is greater than X, none of them will be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap62a</No>
+<Name>Disciple of the Vault</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.</CardText>
+<Flavor>He stands in the shadow of his lord, Geth, drinking in the dark energies of the Vault.</Flavor>
+<Artist>Matt Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap62sbb</No>
+<Name>Furnace Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>6RRR (9)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.</CardText>
+<Artist>Matthew D. Wilson</Artist>
+<Rulings>2013/09/20: If a creature (such as Clone) enters the battlefield as a copy of this creature, the copy's "enters-the-battlefield" ability will still trigger as long as you cast that creature spell from your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb62sb</No>
+<Name>Furnace Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>6RRR (9)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.</CardText>
+<Artist>Matthew D. Wilson</Artist>
+<Rulings>2013/09/20: If a creature (such as Clone) enters the battlefield as a copy of this creature, the copy's "enters-the-battlefield" ability will still trigger as long as you cast that creature spell from your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn79sb</No>
+<Name>Oxidize</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Destroy target artifact. It can't be regenerated.</CardText>
+<Flavor>"Ashes to ashes, rust to rust."
+—Viridian shaman</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn86</No>
+<Name>Eternal Witness</Name>
+<Type>Creature — Human Shaman 2/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.</CardText>
+<Flavor>She remembers every word spoken, from the hero's oath to the baby's cry.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2018/12/07: If an instant or sorcery spell puts <Eternal Witness> onto the battlefield, its ability can target that card in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn89</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>The fatal flaw in every plan is the assumption that you know more than your enemy.</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb89sb</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>The fatal flaw in every plan is the assumption that you know more than your enemy.</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn92</No>
+<Name>Rude Awakening</Name>
+<Type>Sorcery</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Choose one —
+• Untap all lands you control.
+• Until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Ittoku</Artist>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2013/06/07: Lands that enter the battlefield or otehrwise come under your control after <Rude Awakening> resolves won't be affected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn96</No>
+<Name>Rewind</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Counter target spell. Untap up to four lands.</CardText>
+<Artist>Dermot Power</Artist>
+<Rulings>2017/03/14: <Rewind> targets only a spell. It doesn't target any lands. The lands are chosen as <Rewind> resolves.
+2017/03/14: You can choose up to four lands, no matter who controls any of them. Those lands untap once. You can't choose one land and have it untap four times, for example.
+2017/03/14: If the spell is an illegal target when <Rewind> tries to resolve, perhaps because it was countered by another spell or ability, <Rewind> won't resolve and none of its effects will happen. You won't untap any lands.
+2017/03/14: If <Rewind> resolves but the target spell can't be countered, you'll still untap lands.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap100</No>
+<Name>Arcbound Ravager</Name>
+<Type>Artifact Creature — Beast 0/0</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap104a</No>
+<Name>Arcbound Worker</Name>
+<Type>Artifact Creature — Construct 0/0</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Flavor>The parts are as strong as the whole.</Flavor>
+<Artist>Darrell Riche</Artist>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap104sbb</No>
+<Name>Seething Song</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Add {R}{R}{R}{R}{R}.</CardText>
+<Flavor>Vulshok mana rituals echo the day when the red sun burst through Mirrodin's surface to take its place in the heavens.</Flavor>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb104sb</No>
+<Name>Seething Song</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Add {R}{R}{R}{R}{R}.</CardText>
+<Flavor>Vulshok mana rituals echo the day when the red sun burst through Mirrodin's surface to take its place in the heavens.</Flavor>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap106</No>
+<Name>Shrapnel Blast</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice an artifact.
+Shrapnel Blast deals 5 damage to any target.</CardText>
+<Flavor>From trinket to trauma.</Flavor>
+<Artist>Dave Dorman</Artist>
+<Rulings>2014/07/18: You must sacrifice exactly one artifact to cast this spell; you can't cast it without sacrificing an artifact, and you can't sacrifice additional artifacts.
+2014/07/18: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the artifact you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap113</No>
+<Name>Cranial Plating</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Equipped creature gets +1/+0 for each artifact you control.
+{B}{B}: Attach Cranial Plating to target creature you control.
+Equip {1}</CardText>
+<Artist>Adam Rex</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb134</No>
+<Name>Krark-Clan Ironworks</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Sacrifice an artifact: Add {C}{C}.</CardText>
+<Flavor>All the junk, refuse, and offal of the Krark Clan is diligently collected, melted down, and made into more junk, refuse, and offal.</Flavor>
+<Artist>Tim Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn139</No>
+<Name>Viridian Shaman</Name>
+<Type>Creature — Elf Shaman 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Viridian Shaman enters the battlefield, destroy target artifact.</CardText>
+<Flavor>Because the elves are so in touch with Mirrodin's nature, they understand best how to dismantle it.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn143</No>
+<Name>Temple of the False God</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}{C}. Activate this ability only if you control five or more lands.</CardText>
+<Flavor>Those who bring nothing to the temple take nothing away.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb143</No>
+<Name>Pentad Prism</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Remove a charge counter from Pentad Prism: Add one mana of any color.</CardText>
+<Artist>David Martin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn147</No>
+<Name>Relic Barrier</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Tap target artifact.</CardText>
+<Flavor>Its transmissions are the word of Memnarch. It speaks, and metal bows.</Flavor>
+<Artist>Nottsuo</Artist>
+<Rulings>2004/10/04: Can target a tapped artifact.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap152</No>
+<Name>Chrome Mox</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.
+{T}: Add one mana of any of the exiled card's colors.</CardText>
+<Artist>Donato Giancola</Artist>
+<Rulings>2016/06/08: If no card is imprinted on <Chrome Mox>, it can't add mana. It can never add colorless mana, even if the imprinted card has a colorless mana symbol in its mana cost.
+2016/06/08: If you imprinted a multicolored card, you choose one of that card's colors each time <Chrome Mox>'s ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb154</No>
+<Name>Chrome Mox</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.
+{T}: Add one mana of any of the exiled card's colors.</CardText>
+<Artist>Donato Giancola</Artist>
+<Rulings>2016/06/08: If no card is imprinted on <Chrome Mox>, it can't add mana. It can never add colorless mana, even if the imprinted card has a colorless mana symbol in its mana cost.
+2016/06/08: If you imprinted a multicolored card, you choose one of that card's colors each time <Chrome Mox>'s ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap163</No>
+<Name>Blinkmoth Nexus</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.
+{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Rulings>2004/12/01: <Blinkmoth Nexus> gains the creature type "Blinkmoth" when it becomes a creature. This means that it ends up with three types (land, artifact, and creature), plus one creature subtype (Blinkmoth).
+2004/12/01: The "target Blinkmoth gets +1/+1" ability can target any creature with the creature type Blinkmoth.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb164</No>
+<Name>Darksteel Citadel</Name>
+<Type>Artifact Land</Type>
+<CardText>Indestructible
+{T}: Add {C}.</CardText>
+<Flavor>Panopticon, forge of the Darksteel Eye, home of Mirrodin's keeper.</Flavor>
+<Artist>John Avon</Artist>
+<Rulings>2014/07/18: Although <Darksteel Citadel> is an artifact, it can't be cast as a spell. Playing it follows the normal rules for playing a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn165</No>
+<Name>Wayfarer's Bauble</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>It is the forest beyond the horizon, the mountain waiting to be climbed, the new land across the endless sea.</Flavor>
+<Artist>Darrell Riche</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap172</No>
+<Name>Frogmite</Name>
+<Type>Artifact Creature — Frog 2/2</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)</CardText>
+<Flavor>At first, vedalken observers thought blinkmoths naturally avoided certain places. Then they realized those places were frogmite feeding grounds.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb176</No>
+<Name>Goblin Charbelcher</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.</CardText>
+<Artist>Stephen Tappin</Artist>
+<Rulings>2016/06/08: You must choose a target for <Goblin Charbelcher>'s ability as you activate it, before you reveal any cards.
+2016/06/08: If you reveal no land cards, <Goblin Charbelcher> deals damage equal to the number of cards revealed, and then you may order your library as you like.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb210sb</No>
+<Name>Pyroclasm</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Pyroclasm deals 2 damage to each creature.</CardText>
+<Flavor>"When the air burns, only death breathes deep."
+—Bogardan mage</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb212</No>
+<Name>Myr Incubator</Name>
+<Type>Artifact</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle your library.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap224</No>
+<Name>Ornithopter</Name>
+<Type>Artifact Creature — Thopter 0/2</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Regardless of the century, plane, or species, developing artificers never fail to invent the ornithopter.</Flavor>
+<Artist>Dana Knutson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn237sb</No>
+<Name>Scrabbling Claws</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Target player exiles a card from their graveyard.
+{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn237</No>
+<Name>Scrabbling Claws</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Target player exiles a card from their graveyard.
+{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb253</No>
+<Name>Talisman of Dominance</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Add {C}.
+{T}: Add {U} or {B}. Talisman of Dominance deals 1 damage to you.</CardText>
+<Artist>Mike Dringenberg</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb256</No>
+<Name>Talisman of Progress</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Add {C}.
+{T}: Add {W} or {U}. Talisman of Progress deals 1 damage to you.</CardText>
+<Artist>Mike Dringenberg</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn272</No>
+<Name>Plow Under</Name>
+<Type>Sorcery</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Put two target lands on top of their owners' libraries.</CardText>
+<Flavor>To renew the land, plow the land. To destroy the land, do nothing.
+—Druids' saying</Flavor>
+<Artist>Rob Alexander</Artist>
+<Rulings>2004/10/04: The owner decides the order the two lands are stacked there.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn272sb</No>
+<Name>Plow Under</Name>
+<Type>Sorcery</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Put two target lands on top of their owners' libraries.</CardText>
+<Flavor>To renew the land, plow the land. To destroy the land, do nothing.
+—Druids' saying</Flavor>
+<Artist>Rob Alexander</Artist>
+<Rulings>2004/10/04: The owner decides the order the two lands are stacked there.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap274</No>
+<Name>Welding Jar</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>Sacrifice Welding Jar: Regenerate target artifact.</CardText>
+<Flavor>The wires crawl over broken metal and heat themselves to melting, filling cracks quickly and efficiently.</Flavor>
+<Artist>Mark Brill</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn274</No>
+<Name>Rampant Growth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>Nature grows solutions to her problems.</Flavor>
+<Artist>Tom Kyffin</Artist>
+<Rulings>2004/10/04: The land does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb278</No>
+<Name>Ancient Den</Name>
+<Type>Artifact Land</Type>
+<CardText>(Ancient Den isn't a spell.)
+{T}: Add {W}.</CardText>
+<Flavor>Taj-Nar, throne of Raksha Golden Cub, destined leader of the leonin prides.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn280</No>
+<Name>Cloudpost</Name>
+<Type>Land — Locus</Type>
+<CardText>Cloudpost enters the battlefield tapped.
+{T}: Add {C} for each Locus on the battlefield.</CardText>
+<Flavor>"He watches from above. He watches from below. He watches from within."
+—Inscription on Tel-Jilad, the Tree of Tales</Flavor>
+<Artist>Martina Pilcerova</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap281</No>
+<Name>Glimmervoid</Name>
+<Type>Land</Type>
+<CardText>At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.
+{T}: Add one mana of any color.</CardText>
+<Flavor>An empty canvas holds infinite possibilities.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap282</No>
+<Name>Great Furnace</Name>
+<Type>Artifact Land</Type>
+<CardText>{T}: Add {R}.</CardText>
+<Flavor>Kuldotha, wellspring of molten metal, temple of the goblin horde.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb282</No>
+<Name>Great Furnace</Name>
+<Type>Artifact Land</Type>
+<CardText>{T}: Add {R}.</CardText>
+<Flavor>Kuldotha, wellspring of molten metal, temple of the goblin horde.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap283</No>
+<Name>Seat of the Synod</Name>
+<Type>Artifact Land</Type>
+<CardText>(Seat of the Synod isn't a spell.)
+{T}: Add {U}.</CardText>
+<Flavor>Lumengrid, site of the Knowledge Pool, source of vedalken arcana.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb283</No>
+<Name>Seat of the Synod</Name>
+<Type>Artifact Land</Type>
+<CardText>(Seat of the Synod isn't a spell.)
+{T}: Add {U}.</CardText>
+<Flavor>Lumengrid, site of the Knowledge Pool, source of vedalken arcana.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb285</No>
+<Name>Tree of Tales</Name>
+<Type>Artifact Land</Type>
+<CardText>(Tree of Tales isn't a spell.)
+{T}: Add {G}.</CardText>
+<Flavor>Tel-Jilad, sanctum of the ancient trolls, keepers of the secret of Mirrodin's origin.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>ap286</No>
+<Name>Vault of Whispers</Name>
+<Type>Artifact Land</Type>
+<CardText>(Vault of Whispers isn't a spell.)
+{T}: Add {B}.</CardText>
+<Flavor>Ish Sah, den of the warlord Geth, commander of countless nim.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>mb286</No>
+<Name>Vault of Whispers</Name>
+<Type>Artifact Land</Type>
+<CardText>(Vault of Whispers isn't a spell.)
+{T}: Add {B}.</CardText>
+<Flavor>Ish Sah, den of the warlord Geth, commander of countless nim.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn316</No>
+<Name>Flooded Strand</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn324</No>
+<Name>Secluded Steppe</Name>
+<Type>Land</Type>
+<CardText>Secluded Steppe enters the battlefield tapped.
+{T}: Add {W}.
+Cycling {W} ({W}, Discard this card: Draw a card.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn326</No>
+<Name>Tranquil Thicket</Name>
+<Type>Land</Type>
+<CardText>Tranquil Thicket enters the battlefield tapped.
+{T}: Add {G}.
+Cycling {G} ({G}, Discard this card: Draw a card.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn328</No>
+<Name>Windswept Heath</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn331</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn332</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Matthew Mitchell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn332</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Matthew Mitchell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn333</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn333</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn334</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Fred Fields</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn335</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn336</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>gn337</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn347</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn348</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC04</SetId>
+<No>jn350</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2004</Set>
+<Rarity>Land</Rarity>
+</Card>
+

@@ -1,0 +1,146 @@
+<Card>
+<SetId>PWP09</SetId>
+<No>24</No>
+<Name>Path to Exile</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.</CardText>
+<Artist>Rebecca Guay</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2017/03/14: If the targeted creature becomes an illegal target by the time <Path to Exile> would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card.
+2017/03/14: The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>25</No>
+<Name>Hellspark Elemental</Name>
+<Type>Creature — Elemental 3/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Trample, haste
+At the beginning of the end step, sacrifice Hellspark Elemental.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Nils Hamm</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>26</No>
+<Name>Marisi's Twinclaws</Name>
+<Type>Creature — Cat Warrior 2/4</Type>
+<ManaCost>2{R/W}G (4)</ManaCost>
+<CardText>Double strike</CardText>
+<Flavor>"Looks like we're completely outnumbered." "Lucky for us. I thought we'd be bored."</Flavor>
+<Artist>Dominick Domingo</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>27</No>
+<Name>Slave of Bolas</Name>
+<Type>Sorcery</Type>
+<ManaCost>3{U/R}B (5)</ManaCost>
+<CardText>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</CardText>
+<Flavor>Nicol Bolas doesn't distinguish between servants and victims.</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2009/05/01: You may target a creature you already control.
+2009/05/01: If you don't control the targeted creature when the "at end of turn" ability resolves, it won't be sacrificed. If it's still on the battlefield but under another player's control, the ability won't try to have you sacrifice it again at the end of the turn after that.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>30</No>
+<Name>Mind Control</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Enchant creature
+You control enchanted creature.</CardText>
+<Flavor>"Why fight the body when you can dominate the mind that rules it?"
+—Jace Beleren</Flavor>
+<Artist>Keith Garletts</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2010/08/15: Gaining control of a creature doesn't cause you gain control of any Auras or Equipment attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>31</No>
+<Name>Rise from the Grave</Name>
+<Type>Sorcery</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</CardText>
+<Flavor>"Death is no excuse for disobedience."
+—Liliana Vess</Flavor>
+<Artist>Thomas M. Baxa</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>32</No>
+<Name>Kor Duelist</Name>
+<Type>Creature — Kor Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)</CardText>
+<Flavor>"Swords cannot reach far enough. Chains cannot strike hard enough. An eternal dilemma, but a simple one."</Flavor>
+<Artist>Kekai Kotaki</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWP09</SetId>
+<No>33</No>
+<Name>Vampire Nighthawk</Name>
+<Type>Creature — Vampire Shaman 2/3</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying, deathtouch, lifelink</CardText>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Wizards Play Network 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

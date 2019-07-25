@@ -1,0 +1,80 @@
+<Card>
+<SetId>PHJ</SetId>
+<No>1</No>
+<Name>Goblin Mutant</Name>
+<Type>Creature — Goblin Mutant 5/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Trample
+Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.
+Goblin Mutant can't block creatures with power 3 or greater.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hobby Japan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHJ</SetId>
+<No>2</No>
+<Name>Ihsan's Shade</Name>
+<Type>Legendary Creature — Shade Knight 5/5</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Protection from white</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hobby Japan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHJ</SetId>
+<No>3</No>
+<Name>Krovikan Vampire</Name>
+<Type>Creature — Vampire 3/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2004/10/04: At the beginning of each end step, the game checks all creatures that died that turn to see if <Krovikan Vampire> had dealt damage to them during the turn. It doesn't matter whether the damage was combat damage, and it doesn't matter whether the damage was what caused the creatures to die.
+2004/10/04: If a creature <Krovikan Vampire> dealt damage to dies, then leaves the graveyard by some means, the game loses track of it. <Krovikan Vampire>'s ability won't be able to return it to the battlefield, even if it's put back into the graveyard before the end step.
+2008/08/01: Whoever controls <Krovikan Vampire> when the ability triggers will return the applicable cards to the battlefield under their control. It doesn't matter who controlled it at the time the damage was dealt.
+2008/08/01: If <Krovikan Vampire> isn't on the battlefield at the beginning of the end step, its ability won't trigger. No cards will be returned to the battlefield, even if <Krovikan Vampire> dealt damage to some creatures that died that turn.
+2008/10/01: If a creature that <Krovikan Vampire> dealt damage to that turn dies in response to the triggered ability, that creature card will be put onto the battlefield. Note that an appropriate creature must have died prior to the beginning of the end step in order for the ability to trigger in the first place.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hobby Japan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHJ</SetId>
+<No>4</No>
+<Name>Surge of Strength</Name>
+<Type>Instant</Type>
+<ManaCost>RG (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard a red or green card.
+Target creature gains trample and gets +X/+0 until end of turn, where X is that creature's converted mana cost.</CardText>
+<Artist>Ruth Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hobby Japan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHJ</SetId>
+<No>5</No>
+<Name>Yavimaya Ants</Name>
+<Type>Creature — Insect 5/1</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Trample, haste
+Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</CardText>
+<Artist>Pat Lewis</Artist>
+<Rulings>2008/10/01: Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with "cumulative upkeep {1}" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hobby Japan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

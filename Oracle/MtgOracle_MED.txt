@@ -306,8 +306,7 @@ When Elder Land Wurm blocks, it loses defender.</CardText>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Protection from red; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
 <Flavor>"With a great cry, the goblin host broke and ran as the first wave of knights penetrated its ranks."
-—Tivadar of Thorn,
-History of the Goblin Wars</Flavor>
+—Tivadar of Thorn, History of the Goblin Wars</Flavor>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>159149</Multiverseid>
 <Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
@@ -539,7 +538,7 @@ You draw a card at the beginning of the next turn's upkeep.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>2UU (4)</ManaCost>
 <CardText>Each player shuffles their hand and graveyard into their library. You exile the top ten cards of your library. Then each player draws up to seven cards.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>159090</Multiverseid>
 <Rulings>2016/06/08: Each player chooses to draw any number of cards from zero to seven. First the player whose turn it is chooses how many cards to draw, then draws those cards, then each other player in turn order does the same.
 2016/06/08: <Diminishing Returns> won't be put into your graveyard until after it's finished resolving, which means it won't be shuffled into your library as part of its own effect.
@@ -626,8 +625,7 @@ Counter target spell.</CardText>
 • Counter target spell if it's red.
 • Destroy target permanent if it's red.</CardText>
 <Flavor>"Heed the lessons of our time: the forms of water may move the land itself and hold captive the fires within."
-—Gustha Ebbasdotter,
-Kjeldoran royal mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran royal mage</Flavor>
 <Artist>Kaja Foglio</Artist>
 <Multiverseid>159231</Multiverseid>
 <Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.
@@ -647,8 +645,7 @@ Kjeldoran royal mage</Flavor>
 <CardText>Flying
 Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</CardText>
 <Flavor>"This school was founded in secret, operates in secret, and exists for the teaching of secrets. Those who would alter reality must first escape it."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Justin Hampton</Artist>
 <Multiverseid>159232</Multiverseid>
 <Rulings>2008/10/01: Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with "cumulative upkeep {1}" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent.</Rulings>
@@ -667,8 +664,7 @@ Archmage of the Unseen</Flavor>
 <CardText>Defender, flying, first strike
 Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</CardText>
 <Flavor>"Let them see what is not there and feel what does not touch them. When they no longer trust their senses, that is the time to strike."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Mark Poole</Artist>
 <Multiverseid>159233</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -739,10 +735,7 @@ Whenever an opponent casts a noncreature spell, you may draw a card unless that 
 <Type>Creature — Illusion 3/3</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>"While, like a ghastly rapid river,
-Through the pale door
-A hideous throng rush out forever,
-And laugh—but smile no more."
+<Flavor>"While, like a ghastly rapid river, Through the pale door A hideous throng rush out forever, And laugh—but smile no more."
 —Edgar Allan Poe, "The Haunted Palace"</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>159268</Multiverseid>
@@ -937,7 +930,7 @@ Blue creatures get +1/+1.</CardText>
 <Name>Vesuvan Doppelganger</Name>
 <Type>Creature — Shapeshifter 0/0</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."</CardText>
+<CardText>You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has "At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability."</CardText>
 <Artist>Quinton Hoover</Artist>
 <Multiverseid>159820</Multiverseid>
 <Rulings>2004/10/04: When the Doppelganger switches creatures, the creature it used to be is not considered to have left the battlefield. Such effects will consider the creature to have left the battlefield when the Doppelganger leaves the battlefield.
@@ -946,12 +939,12 @@ Blue creatures get +1/+1.</CardText>
 2004/10/04: When it takes on the characteristics of the other card, it is no longer of creature type Shapeshifter.
 2004/10/04: When changing forms, any text changes that exist on the Doppelganger are applied to the new text, if appropriate.
 2004/12/01: If a Doppelganger is flipped, and it copies a flip card in any state, it will copy both "sides" of that card but use the flipped side. If a Doppelganger is unflipped, and it copies a flip card in any state, it will copy both "sides" of that card but use the unflipped side. In the second case, if it ever meets the flip conditions of its new ability, it will flip and used the flipped side of what it is copying.
+2007/09/16: Although <Vesuvan Doppelganger>'s triggered ability is targeted, its "as enters the battlefield" ability is not.
 2007/09/16: When <Vesuvan Doppelganger>'s triggered ability triggers, you must choose a target for it. You determine whether to have the Doppelganger become a copy of that target when the ability resolves.
 2007/09/16: <Vesuvan Doppelganger> copies the mana cost of the creature it's copying but doesn't copy its color.
 2007/09/16: If another creature copies <Vesuvan Doppelganger>, the new creature will become a copy of whatever <Vesuvan Doppelganger> is copying except for its color, will copy <Vesuvan Doppelganger>'s color, and will gain <Vesuvan Doppelganger>'s triggered ability.
 2007/09/16: <Vesuvan Doppelganger>'s triggered ability may cause it to become a copy of itself. A <Vesuvan Doppelganger> that becomes a copy of a <Vesuvan Doppelganger> (either itself or a different one) will gain another instance of its triggered ability. Each instance of that ability will trigger during its controller's upkeep. They'll all be put on the stack and resolve one at a time. The last one to resolve determines the Doppelganger's characteristics for the rest of the turn.
-2007/09/16: <Vesuvan Doppelganger> copies a face-down creature, it becomes a face-up 2/2 blue creature with no name and no abilities other than the one it gives itself.
-2007/09/16: Although <Vesuvan Doppelganger>'s triggered ability is targeted, its "as enters the battlefield" ability is not.</Rulings>
+2007/09/16: <Vesuvan Doppelganger> copies a face-down creature, it becomes a face-up 2/2 blue creature with no name and no abilities other than the one it gives itself.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1173,8 +1166,7 @@ Distribute two -2/-1 counters among one or two target creatures.</CardText>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Black spells you cast cost {B} more to cast.</CardText>
 <Flavor>"Strength it has, but at the cost of a continuous supply of energy. Such failure can bear only one result."
-—Execution order of Endrek Sahr,
-master breeder</Flavor>
+—Execution order of Endrek Sahr, master breeder</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>159171</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1370,13 +1362,13 @@ Tap an untapped Swamp you control: Hecatomb deals 1 damage to any target.</CardT
 At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>159265</Multiverseid>
-<Rulings>2004/10/04: Note that bringing the Shadow back onto the battlefield from the graveyard is not a spell, it is an ability. It can't be countered with something that counters spells.
-2004/10/04: Since it enters the battlefield due to triggering at the beginning of upkeep, it is not possible to get an infinite loop with four <Nether Shadow>s.
-2008/10/01: A card is "above" another card in your graveyard if it was put into that graveyard later.
+<Rulings>2004/10/04: Since it enters the battlefield due to triggering at the beginning of upkeep, it is not possible to get an infinite loop with four <Nether Shadow>s.
+2004/10/04: Note that bringing the Shadow back onto the battlefield from the graveyard is not a spell, it is an ability. It can't be countered with something that counters spells.
 2008/10/01: Players may not rearrange the cards in their graveyards.
-2008/10/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.
 2008/10/01: The last thing that happens to a resolving instant or sorcery spell is that it's put into its owner's graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards.
-2008/10/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.</Rulings>
+2008/10/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.
+2008/10/01: A card is "above" another card in your graveyard if it was put into that graveyard later.
+2008/10/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>MTGO Masters Edition</Set>
@@ -1451,8 +1443,7 @@ At the beginning of the upkeep of enchanted creature's controller, that player m
 <CardText>Enchant creature
 Enchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.</CardText>
 <Flavor>"Phyrexia's touch is painful to all but the blackest of hearts."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>159741</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1780,8 +1771,7 @@ When you control a Dwarf, sacrifice Goblins of the Flarg.</CardText>
 <CardText>Flying
 {R}: Granite Gargoyle gets +0/+1 until end of turn.</CardText>
 <Flavor>"While most overworlders fortunately don't realize this, gargoyles can be most delicious, providing you have the appropriate tools to carve them."
-—Asmoranomardicadaistinaculdacar,
-The Underworld Cookbook</Flavor>
+—Asmoranomardicadaistinaculdacar, The Underworld Cookbook</Flavor>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>159259</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
@@ -1849,12 +1839,12 @@ The Underworld Cookbook</Flavor>
 <CardText>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>159264</Multiverseid>
-<Rulings>2004/10/04: If the land produces more than one color of mana at a single time, its controller chooses which of those types is produced by <Mana Flare>'s ability.
-2004/10/04: The types of mana are white, blue, black, red, green, and colorless.
-2004/10/04: When used with lands that can produce multiple colors, <Mana Flare> produces one additional mana of the same color that was produced. It can't give a mana of a color that wasn't produced.
+<Rulings>2004/10/04: When used with lands that can produce multiple colors, <Mana Flare> produces one additional mana of the same color that was produced. It can't give a mana of a color that wasn't produced.
 2004/10/04: Only produces extra mana when land is tapped for mana, not when tapped by some other effect.
-2004/10/04: <Mana Flare> adds one of whatever color the land produces after applying any land type or color changing effects.
+2004/10/04: If the land produces more than one color of mana at a single time, its controller chooses which of those types is produced by <Mana Flare>'s ability.
 2004/10/04: This is a triggered mana ability.
+2004/10/04: <Mana Flare> adds one of whatever color the land produces after applying any land type or color changing effects.
+2004/10/04: The types of mana are white, blue, black, red, green, and colorless.
 2007/09/16: Does not copy any restrictions on the mana, such as with Mishra's Workshop or Pillar of the Paruns.
 2007/09/16: Produces only one additional mana, regardless of how much was produced by tapping the land.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1940,8 +1930,7 @@ Protection from white</CardText>
 <Type>Creature — Beast 1/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>{T}: Destroy target blue creature.</CardText>
-<Flavor>"Striking silent as a dream,
-Cutting short the strangled scream . . ."
+<Flavor>"Striking silent as a dream, Cutting short the strangled scream . . ."
 —Tobrian, "Watchdragon"</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>159315</Multiverseid>
@@ -2001,8 +1990,7 @@ Trample; rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until 
 <Type>Sorcery</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>Each player shuffles the cards from their hand into their library, then draws that many cards.</CardText>
-<Flavor>"'Tis the set of sails and not the gales
-Which tells us the way to go."
+<Flavor>"'Tis the set of sails and not the gales Which tells us the way to go."
 —Ella Wheeler Wilcox, "Winds of Fate"</Flavor>
 <Artist>Justin Hampton</Artist>
 <Multiverseid>159320</Multiverseid>
@@ -2090,10 +2078,7 @@ Target creature gains trample and gets +X/+0 until end of turn, where X is its p
 <Type>Creature — Frog 1/1</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn.</CardText>
-<Flavor>"Chub toad, chub toad
-At the door.
-Run away quick
-Or you'll run no more."
+<Flavor>"Chub toad, chub toad At the door. Run away quick Or you'll run no more."
 —Traditional children's rhyme</Flavor>
 <Artist>Daniel Gelon</Artist>
 <Multiverseid>159226</Multiverseid>
@@ -2426,7 +2411,7 @@ Enchanted creature doesn't untap during its controller's untap step.</CardText>
 <Type>Creature — Fungus 2/2</Type>
 <ManaCost>1GG (3)</ManaCost>
 <CardText>At the beginning of your upkeep, put a spore counter on Thorn Thallid.
-Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to any target.</CardText>
+Remove three spore counters from Thorn Thallid: It deals 1 damage to any target.</CardText>
 <Flavor>"The danger in cultivating massive plants caught the elves by surprise."
 —Sarpadian Empires, vol. III</Flavor>
 <Artist>Mark Tedin</Artist>
@@ -2585,8 +2570,7 @@ Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on
 <ManaCost>WU (2)</ManaCost>
 <CardText>Untap any number of target creatures. Prevent all combat damage that would be dealt to and dealt by those creatures this turn.</CardText>
 <Flavor>"Relent, and you may transcend your situation."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>159830</Multiverseid>
 <Rulings>2007/09/16: <Energy Arc> can target untapped creatures. The second part of the effect will still affect them.
@@ -2659,9 +2643,9 @@ Fire Covenant deals X damage divided as you choose among any number of target cr
 <CardText>Look at the top five cards of your library. As many times as you choose, you may pay 1 life, put those cards on the bottom of your library in any order, then look at the top five cards of your library. Then shuffle your library and put the last cards you looked at this way on top of it in any order.</CardText>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>159832</Multiverseid>
-<Rulings>2007/09/16: In other words: — Step 1: Look at the top five cards of your library. — Step 2: If you like them, proceed to step 3a. If you don't like them, proceed to step 3b. — Step 3a: Shuffle the rest of your library, then put those five cards back on top of your library in the order you want. The spell has finished resolving. — Step 3b: Put those five cards on the bottom of your library in the order you want. Pay 1 life. Return to step 1.
-2007/09/16: If you pay no life, you shuffle the rest of your library and then put the top five cards back on top in any order.
-2007/09/16: If you have five or fewer cards in your library, you can pay 1 life as many times as you like, but you'll keep seeing the same cards.</Rulings>
+<Rulings>2007/09/16: If you have five or fewer cards in your library, you can pay 1 life as many times as you like, but you'll keep seeing the same cards.
+2007/09/16: In other words: — Step 1: Look at the top five cards of your library. — Step 2: If you like them, proceed to step 3a. If you don't like them, proceed to step 3b. — Step 3a: Shuffle the rest of your library, then put those five cards back on top of your library in the order you want. The spell has finished resolving. — Step 3b: Put those five cards on the bottom of your library in the order you want. Pay 1 life. Return to step 1.
+2007/09/16: If you pay no life, you shuffle the rest of your library and then put the top five cards back on top in any order.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>MTGO Masters Edition</Set>
@@ -3084,7 +3068,7 @@ Whenever Shield Sphere blocks, put a -0/-1 counter on it.</CardText>
 {3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.</CardText>
 <Flavor>"The fortress is not what it seems."
 —Arcum Dagsson, Soldevi machinist</Flavor>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>159248</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3187,7 +3171,7 @@ Whenever Shield Sphere blocks, put a -0/-1 counter on it.</CardText>
 <CardText>{T}: Add {C}.
 {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
 {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
-<Artist>Kaja & Phil Foglio</Artist>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
 <Multiverseid>159114</Multiverseid>
 <Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
 2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.

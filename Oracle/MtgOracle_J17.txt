@@ -1,0 +1,197 @@
+<Card>
+<SetId>J17</SetId>
+<No>1</No>
+<Name>Avacyn, Angel of Hope</Name>
+<Type>Legendary Creature — Angel 8/8</Type>
+<ManaCost>5WWW (8)</ManaCost>
+<CardText>Flying, vigilance, indestructible
+Other permanents you control have indestructible.</CardText>
+<Flavor>A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.</Flavor>
+<Artist>Howard Lyon</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2017/11/17: A permanent with indestructible can't be destroyed, but it can still be sacrificed, exiled, put into a graveyard, and so on. Notably, a permanent with indestructible can be put into its owner's graveyard due to the "legend rule."
+2017/11/17: Creatures with indestructible still have damage marked on them, even though that damage won't destroy them. If Avacyn leaves the battlefield, creatures that lose indestructible and have lethal damage marked on them will be destroyed.
+2017/11/17: A creature with 0 toughness is put into its owner's graveyard even if it has indestructible.
+2017/11/17: A planeswalker with indestructible still loses loyalty as it's dealt damage. It is put into its owner's graveyard if its loyalty becomes 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>2</No>
+<Name>Capture of Jingzhou</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Take an extra turn after this one.</CardText>
+<Flavor>The province of Jingzhou was the fulcrum of the three kingdoms. At separate times it was coveted and controlled by the Wu, the Shu, and the Wei.</Flavor>
+<Artist>Jack Wei</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>3</No>
+<Name>Gaddock Teeg</Name>
+<Type>Legendary Creature — Kithkin Advisor 2/2</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Noncreature spells with converted mana cost 4 or greater can't be cast.
+Noncreature spells with {X} in their mana costs can't be cast.</CardText>
+<Flavor>So great is his wisdom and spirit that many who have met him say that they stood before a giant of a man and talked to the wisest of the four winds.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2007/10/01: If one half of a split card has a converted mana cost of 3 or less and doesn't have an {X} in its mana cost, <Gaddock Teeg> lets you cast that half.
+2018/12/07: A spell's converted mana cost is determined only by its mana cost. Alternative costs (including casting a spell "without paying its mana cost"), additional costs, and cost reductions don't affect a spell's converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>4</No>
+<Name>Homeward Path</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Each player gains control of all creatures they own.</CardText>
+<Flavor>"Let your heels point you home."—Ancient blessing</Flavor>
+<Artist>Tomasz Jedruszek</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/09/22: The owner of a card is the player who started the game with that card in their deck.
+2011/09/22: The owner of a token is the player under whose control the token was put onto the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>5</No>
+<Name>Doran, the Siege Tower</Name>
+<Type>Legendary Creature — Treefolk Shaman 0/5</Type>
+<ManaCost>WBG (3)</ManaCost>
+<CardText>Each creature assigns combat damage equal to its toughness rather than its power.</CardText>
+<Flavor>"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble."</Flavor>
+<Artist>Rob Alexander</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2007/10/01: Doran's ability means, for example, that a 2/3 creature will assign 3 damage in combat instead of 2.
+2007/10/01: Doran's ability doesn't actually change creatures' power; it changes only the value of the combat damage they assign. All other rules and effects that check power or toughness use the real values.
+2007/10/01: This effect is mandatory and affects all creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>6</No>
+<Name>Prismatic Geoscope</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Prismatic Geoscope enters the battlefield tapped.
+Domain — {T}: Add X mana in any combination of colors, where X is the number of basic land types among lands you control.</CardText>
+<Artist>Steven Belledin</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2016/11/08: The colors of mana that <Prismatic Geoscope> can produce aren't related to the specific basic land types among lands you control. For example, if you control a Plains and an Island, you can activate <Prismatic Geoscope>'s ability to add {R}{G}.
+2016/11/08: You can activate <Prismatic Geoscope>'s mana ability if you have no basic land types among lands you control, but it won't produce any mana.
+2016/11/08: <Prismatic Geoscope> can't produce colorless mana.
+2016/11/08: To determine the number of basic land types among lands you control, look for the Plains, Island, Swamp, Mountain, and Forest subtypes among the lands you control. Count each subtype that appears one or more times toward the number of basic land types among lands you control. This number can't exceed five.
+2016/11/08: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests are the same as one Forest.
+2016/11/08: Most nonbasic lands don't have basic land types, even if they produce colored mana. For example, Caves of Koilos is neither a Plains nor a Swamp.
+2016/11/08: Some nonbasic lands do have basic land types. Domain abilities don't count the number of lands you control—they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, a Blood Crypt, and a Forest, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>7</No>
+<Name>Spellskite</Name>
+<Type>Artifact Creature — Horror 0/4</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{UP}: Change a target of target spell or ability to Spellskite. ({UP} can be paid with either {U} or 2 life.)</CardText>
+<Flavor>"Let's show Vorinclex that progress doesn't always need teeth or claws."
+—Malcator, Executor of Synthesis</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/06/01: You can activate <Spellskite>'s ability even if <Spellskite> wouldn't be a legal target for the spell or ability. However, the target of that spell or ability will remain unchanged.
+2011/06/01: If changing one target of a spell or ability to <Spellskite> would make other targets of that spell or ability illegal, the targets remain unchanged.
+2011/06/01: If the spell or ability has multiple instances of the word "target," you choose which target you're changing to <Spellskite> when <Spellskite>'s ability resolves.
+2011/06/01: By activating <Spellskite>'s ability multiple times, you can change each target of a spell or ability with multiple instances of the word "target" to <Spellskite>, one at a time.
+2011/06/01: The target of the spell or ability won't change unless <Spellskite> fulfills all the targeting criteria, even if multiple instances of the word "target" are used. For example, you can't change both targets of Arc Trail to <Spellskite>.
+2011/06/01: If a spell or ability has multiple targets but doesn't use the word "target" multiple times, such as Fulgent Distraction, you can only successfully change one of the targets to <Spellskite>.
+2011/06/01: If a spell or ability has a variable number of targets, you can't change the number of targets.
+2011/06/01: If <Spellskite> leaves the battlefield before its ability resolves, the targets remain unchanged.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>8</No>
+<Name>Pendelhaven</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {G}.
+{T}: Target 1/1 creature gets +1/+2 until end of turn.</CardText>
+<Flavor>The limbs of Pendelhaven extend as far as the meek roam, and reach as high as they strive.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2004/10/04: The current power/toughness being 1/1 is a targeting requirement so it is checked when announcing and again right before resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J17</SetId>
+<No>9</No>
+<Name>Rules Lawyer</Name>
+<Type>Artifact Creature — Cyborg Advisor 1/1</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>State-based actions don't apply to you or other permanents you control. (You don't lose the game due to having 0 or less life or drawing from an empty library. Your creatures aren't destroyed due to damage or deathtouch and aren't put into a graveyard due to having 0 or less toughness. Your planeswalkers aren't put into a graveyard if they have 0 loyalty. You don't put a legendary permanent into a graveyard if you control two with the same name. Counters aren't removed from your permanents due to game rules. Permanents you control attached or combined illegally remain on the battlefield. For complete rules and regulations, see rule 704.)</CardText>
+<Artist>Dmitry Burmak</Artist>
+<Watermark>Order of the Widget</Watermark>
+<Rulings>2018/01/19: While you control <Rules Lawyer>, the following is true, with the exception of not affecting <Rules Lawyer> itself (Comprehensive Rules references in parentheses):
+2018/01/19: You don't lose the game if you're at or below 0 life. (704.5a)
+2018/01/19: If you try to draw from an empty library, nothing happens. (704.5b)
+2018/01/19: You could hit up an all-you-can-eat poison counter buffet no problem. (704.5c)
+2018/01/19: Creatures you control with toughness of 0 or less remain on the battlefield. (704.5f)
+2018/01/19: Creatures you control that have been dealt lethal damage remain on the battlefield. (704.5g)
+2018/01/19: Creatures you control shrug off opposing creatures with deathtouch. (704.5h)
+2018/01/19: Your planeswalkers remain on the battlefield even if they have no loyalty counters. (704.5i)
+2018/01/19: You can control as many legendary permanents (including planeswalkers) with the same name as you want. It's like your own personal Mirror Gallery! (704.5j)
+2018/01/19: You can control multiple permanents with the supertype world. So, that opens up some deck ideas, I'd imagine. (704.5k)
+2018/01/19: Auras you control stay on the battlefield if they're attached to an illegal permanent or if they aren't attached to a permanent (but should be). They may not do much because there probably won't be an "enchanted [whatever]," but they'll stay on the battlefield! (704.5m) Similarly, thanks to an un-documented silver-bordered state-based action no longer applying, your creatures with augment can now survive even if not attached to a host. If this happens, its power and toughness are 0/0. (704.5m)
+2018/01/19: Equipment and Fortifications you control can stay attached to an illegal permanent. (704.5n)
+2018/01/19: If you somehow control a creature that's attached to another permanent, that creature can stay attached. It can attack and block, even if another creature is carrying it. Similarly, if you control a permanent that isn't an Aura, an Equipment, or a Fortification, it can stay attached to whatever you manage to get it attached to. Strange. (704.5p)
+2018/01/19: +1/+1 counters and -1/-1 counters on permanents you control no longer annihilate each other. (704.5q)
+2018/01/19: Good news for Rasputin Dreamweaver fans: you can ignore abilities of permanents you control that say it can't have more than a certain number of a certain kind of counter. (704.5r)
+2018/01/19: Your Two-Headed Giant team can no longer lose because you have 0 or less life or fifteen or more poison counters. (704.5s and 704.5t)
+2018/01/19: In Commander, you're immune to the "commander damage rule" that says you lose if a single commander deals 21 or more combat damage to you. (704.5u)
+2018/01/19: Because <Rules Lawyer> applies only to you and other permanents you control, tokens that leave the battlefield will continue to cease to exist. This is also true for copies of cards that might exist off the battlefield.
+2018/01/19: Any ability that says a player wins or loses the game still works.
+2018/01/19: <Rules Lawyer>'s ability doesn't apply to itself. It can die for any number of reasons. If you're at 0 or less life and you lose control of <Rules Lawyer>, you'll immediately lose the game.
+2018/01/19: A creature with toughness 0 or less can still attack and block. It blocks an attacking creature with trample, treat its toughness as 0 when determining how to assign combat damage.</Rulings>
+<Set>Judge Gift Cards 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

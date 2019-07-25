@@ -1,0 +1,163 @@
+<Card>
+<SetId>G09</SetId>
+<No>1</No>
+<Name>Dark Ritual</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Add {B}{B}{B}.</CardText>
+<Artist>Mark Hyzer</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>2</No>
+<Name>Maze of Ith</Name>
+<Type>Land</Type>
+<CardText>{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2016/06/08: <Maze of Ith> can target an untapped attacking creature. It will still prevent damage in that case.
+2016/06/08: The creature isn't removed from combat; it just has its damage prevented. It's still an attacking creature until the combat phase is complete.
+2016/06/08: You can activate <Maze of Ith>'s ability targeting an attacking creature you control during the combat damage step or the end of combat step. It'll be untapped and the damage it had already dealt won't be undone.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>3</No>
+<Name>Stifle</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target activated or triggered ability. (Mana abilities can't be targeted.)</CardText>
+<Artist>Eric Fortune</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: An activated ability has a "Cost: Effect" format. Look for the colon. A triggered ability starts with "when", "whenever", or "at".
+2004/10/04: Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can't be targeted.
+2004/10/04: It can target delayed triggered abilities. For example, a card that says "Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step." triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the "at the beginning of the end step" trigger when it is placed on the stack at end of turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>4</No>
+<Name>Survival of the Fittest</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</CardText>
+<Artist>Shelly Wan</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>5</No>
+<Name>Burning Wish</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.</CardText>
+<Artist>Ariel Olivetti</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: Can't acquire the Ante cards. They are considered still "in the game" as are cards in the library and the graveyard.
+2007/05/01: The choice is optional.
+2007/05/01: If you fail to find something, you still exile this.
+2007/09/16: Can't acquire cards that are phased out.
+2009/10/01: You can't acquire exiled cards because those cards are still in one of the game's zones.
+2009/10/01: In a sanctioned event, a card that's "outside the game" is one that's in your sideboard. In an unsanctioned event, you may choose any card from your collection.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>6</No>
+<Name>Bloodstained Mire</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>7</No>
+<Name>Flooded Strand</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>8</No>
+<Name>Polluted Delta</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>9</No>
+<Name>Windswept Heath</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G09</SetId>
+<No>10</No>
+<Name>Wooded Foothills</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,1222 @@
+<Card>
+<SetId>POGW</SetId>
+<No>1s</No>
+<Name>Deceiver of Form</Name>
+<Type>Creature — Eldrazi 8/8</Type>
+<ManaCost>6C (7)</ManaCost>
+<CardText>({C} represents colorless mana.)
+At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.</CardText>
+<Artist>Viktor Titov</Artist>
+<Rulings>2016/01/22: You may put the card on the bottom of your library in any of the possible scenarios that could occur with this card. It doesn't matter whether the card is a creature card or not. If it is a creature card, it doesn't matter whether you chose to have the copy effect apply.
+2016/01/22: If applicable, creatures you control copy the printed values of the revealed creature card. They will retain any counters they had on them. Any Auras and/or Equipment that were attached with them will remain so.
+2016/01/22: Any noncopy effects that affected a creature you control, including ones that modified its power and/or toughness, will continue to apply.
+2016/01/22: If a creature you control becomes a copy of the revealed creature card, it's neither entering nor leaving the battlefield. Any enters-the-battlefield or leaves-the-battlefield abilities won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>2s</No>
+<Name>Eldrazi Mimic</Name>
+<Type>Creature — Eldrazi 2/1</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.</CardText>
+<Flavor>It is consistently inconsistent.</Flavor>
+<Artist>Craig J Spearing</Artist>
+<Rulings>2016/01/22: Use the new creature's power and toughness at the time the ability resolves to determine the base power and toughness of <Eldrazi Mimic>. If that creature is no longer on the battlefield at that time, use its power and toughness when it left the battlefield. (Keep in mind that those values may be negative, for example if a spell like Spatial Contortion giving it +3/-3 is what caused it to leave the battlefield.)
+2016/01/22: <Eldrazi Mimic>'s ability will overwrite any other effect setting its base power and toughness. Such effects that begin to apply after that ability resolves will similarly overwrite the ability. Effects that modify <Eldrazi Mimic>'s power and/or toughness but don't set its base power and/or toughness to specific values will apply no matter when they started to apply. The same is true for any +1/+1 counters it may have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>3</No>
+<Name>Endbringer</Name>
+<Type>Creature — Eldrazi 5/5</Type>
+<ManaCost>5C (6)</ManaCost>
+<CardText>Untap Endbringer during each other player's untap step.
+{T}: Endbringer deals 1 damage to any target.
+{C}, {T}: Target creature can't attack or block this turn.
+{C}{C}, {T}: Draw a card.</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2016/01/22: <Endbringer> untaps at the same time as the active player's permanents. You can't choose to not untap it at that time.
+2016/01/22: If an effect states that <Endbringer> doesn't untap during your untap step, that effect won't apply during another player's untap step.
+2016/01/22: Activating the second activated ability after a creature has legally been declared as an attacker or blocker won't change or undo that attack or block.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>3s</No>
+<Name>Endbringer</Name>
+<Type>Creature — Eldrazi 5/5</Type>
+<ManaCost>5C (6)</ManaCost>
+<CardText>Untap Endbringer during each other player's untap step.
+{T}: Endbringer deals 1 damage to any target.
+{C}, {T}: Target creature can't attack or block this turn.
+{C}{C}, {T}: Draw a card.</CardText>
+<Artist>Vincent Proce</Artist>
+<Rulings>2016/01/22: <Endbringer> untaps at the same time as the active player's permanents. You can't choose to not untap it at that time.
+2016/01/22: If an effect states that <Endbringer> doesn't untap during your untap step, that effect won't apply during another player's untap step.
+2016/01/22: Activating the second activated ability after a creature has legally been declared as an attacker or blocker won't change or undo that attack or block.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>4s</No>
+<Name>Kozilek, the Great Distortion</Name>
+<Type>Legendary Creature — Eldrazi 12/12</Type>
+<ManaCost>8CC (10)</ManaCost>
+<CardText>When you cast this spell, if you have fewer than seven cards in hand, draw cards equal to the difference.
+Menace
+Discard a card with converted mana cost X: Counter target spell with converted mana cost X.</CardText>
+<Flavor>A void as cryptic as reality itself.</Flavor>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2016/01/22: Kozilek's triggered ability checks to see if you have fewer than seven cards in hand when you cast it. Kozilek is on the stack at this time and not in your hand. If you don't, the ability won't trigger at all. If the ability does trigger, it will check again as it tries to resolve. If you have seven or more cards in hand at that time, the ability won't do anything.
+2016/01/22: To activate the last ability, there must be a legal target: a spell on the stack. That target will determine the value of X and the converted mana cost of the card you discard. You can't activate the ability unless you can match the converted mana cost of a spell on the stack to that of a card in your hand.
+2016/01/22: The converted mana cost of a spell doesn't change, even if it's been cast using an alternative cost (such as an awaken cost). For example, the converted mana cost of a Sheer Drop (a spell with mana cost {2}{W}) that's been cast for its awaken cost of {5}{W} is 3.
+2016/01/22: If there's an {X} in the mana cost of the card you discard, that X is 0. Any {X} in the mana cost of the target spell will have whatever value was determined for it as the spell was cast.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>6s</No>
+<Name>Matter Reshaper</Name>
+<Type>Creature — Eldrazi 3/2</Type>
+<ManaCost>2C (3)</ManaCost>
+<CardText>({C} represents colorless mana.)
+When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.</CardText>
+<Artist>Chris Rahn</Artist>
+<Rulings>2016/01/22: If you put an Aura card onto the battlefield this way, you choose what it enchants as it enters the battlefield. You must be able to choose a legal player or permanent or you can't put the Aura onto the battlefield.
+2016/01/22: If you don't put the card onto the battlefield for any reason, you put the card into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>7s</No>
+<Name>Reality Smasher</Name>
+<Type>Creature — Eldrazi 5/5</Type>
+<ManaCost>4C (5)</ManaCost>
+<CardText>({C} represents colorless mana.)
+Trample, haste
+Whenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.</CardText>
+<Flavor>As easy to stop as it is to comprehend.</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2016/01/22: The last ability will trigger due to any spell controlled by an opponent (including an Aura spell) that targets <Reality Smasher>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>9s</No>
+<Name>Thought-Knot Seer</Name>
+<Type>Creature — Eldrazi 4/4</Type>
+<ManaCost>3C (4)</ManaCost>
+<CardText>({C} represents colorless mana.)
+When Thought-Knot Seer enters the battlefield, target opponent reveals their hand. You choose a nonland card from it and exile that card.
+When Thought-Knot Seer leaves the battlefield, target opponent draws a card.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>13s</No>
+<Name>Eldrazi Displacer</Name>
+<Type>Creature — Eldrazi 3/3</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Devoid (This card has no color.)
+{2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. ({C} represents colorless mana.)</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/01/22: If a creature token is exiled this way, it will cease to exist and will not return to the battlefield.
+2016/01/22: After the creature returns to the battlefield, it will be a new object with no connection to the creature that was exiled. It won't be in combat or have any additional abilities it may have had when it was exiled. Any +1/+1 counters on it or Auras attached to it are removed, and any Equipment will no longer be attached.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>16s</No>
+<Name>Call the Gatewatch</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.</CardText>
+<Flavor>"I've heard it said that a Planeswalker is someone who can always run from danger. But Gideon's right: we're also the ones who can choose to stay."
+—Jace Beleren</Flavor>
+<Artist>Yefim Kligerman</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>19s</No>
+<Name>General Tazri</Name>
+<Type>Legendary Creature — Human Ally 3/4</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.
+{W}{U}{B}{R}{G}: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.</CardText>
+<Artist>Chris Rahn</Artist>
+<Rulings>2016/01/22: The last ability checks only Ally creatures you control as the ability resolves. The value of X will be between 0 and 5. Colorless is not a color.
+2016/01/22: Once the last ability resolves, the bonus given doesn't change, even if the number of colors among your Allies does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>20</No>
+<Name>Immolating Glare</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target attacking creature.</CardText>
+<Artist>Ryan Alexander Lee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>25s</No>
+<Name>Linvala, the Preserver</Name>
+<Type>Legendary Creature — Angel 5/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+When Linvala, the Preserver enters the battlefield, if an opponent has more life than you, you gain 5 life.
+When Linvala enters the battlefield, if an opponent controls more creatures than you, create a 3/3 white Angel creature token with flying.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/01/22: For each triggered ability, the game checks to see if the condition is true at the moment the ability would trigger. If the condition isn't true, the ability won't trigger. If the ability does trigger, the game will check again to see if the condition is true as the ability tries to resolve. If it's not true at that time, the ability won't do anything.
+2016/01/22: In a multiplayer game, it's possible for the condition to be true at both times but with respect to two different opponents.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>29</No>
+<Name>Munda's Vanguard</Name>
+<Type>Creature — Kor Knight Ally 3/3</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</CardText>
+<Flavor>"Do not let yourselves fall now. Zendikar is depending on us—on you!"</Flavor>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2016/01/22: To activate a cohort ability, the Ally with that ability must have been under your control continuously since the beginning of your most recent turn. Informally, it can't have "summoning sickness." However, the other Ally you tap can be one that just came under your control. (Note that tapping the second Ally doesn't use {T} [the tap symbol].)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>29s</No>
+<Name>Munda's Vanguard</Name>
+<Type>Creature — Kor Knight Ally 3/3</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</CardText>
+<Flavor>"Do not let yourselves fall now. Zendikar is depending on us—on you!"</Flavor>
+<Artist>Steve Prescott</Artist>
+<Rulings>2016/01/22: To activate a cohort ability, the Ally with that ability must have been under your control continuously since the beginning of your most recent turn. Informally, it can't have "summoning sickness." However, the other Ally you tap can be one that just came under your control. (Note that tapping the second Ally doesn't use {T} [the tap symbol].)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>30s</No>
+<Name>Oath of Gideon</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Oath of Gideon enters the battlefield, create two 1/1 white Kor Ally creature tokens.
+Each planeswalker you control enters the battlefield with an additional loyalty counter on it.</CardText>
+<Flavor>"For justice and peace, I will keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/01/22: Each of the Oaths is legendary: if you control more than one of any particular Oath, you choose one to remain on the battlefield and the others are put into your graveyard.
+2016/01/22: The "legend rule" checks the full names of legendary permanents. You can control <Oath of Gideon> and Oath of Chandra at the same time, for example.
+2016/01/22: Even if you control a particular Oath, you can cast another of that Oath to take advantage of its enters-the-battlefield ability. It will enter the battlefield, causing its first ability to trigger. You will then choose one to keep, as detailed above, and then its enters-the-battlefield ability will resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>37s</No>
+<Name>Stone Haven Outfitter</Name>
+<Type>Creature — Kor Artificer Ally 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Equipped creatures you control get +1/+1.
+Whenever an equipped creature you control dies, draw a card.</CardText>
+<Flavor>The makers and menders are the first called to battle and the last to leave.</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2016/01/22: The bonuses gained from <Stone Haven Outfitter>'s abilities are in addition to any bonuses given by the Equipment.
+2016/01/22: Equipped creatures will get just +1/+1 from <Stone Haven Outfitter>, no matter how many Equipment are attached to them. Similarly, the last ability will trigger just once per equipped creature.
+2016/01/22: In this context, "equipped creatures you control" and "equipped creature you control" refer to any creatures you control with Equipment attached to them. In the highly unusual case that <Stone Haven Outfitter> becomes an Equipment, the meaning of its abilities doesn't change. The bonuses continue to refer to any equipped creature you control. They aren't bonuses applied solely to the creature <Stone Haven Outfitter> is attached to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>43</No>
+<Name>Deepfathom Skulker</Name>
+<Type>Creature — Eldrazi 4/4</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+{3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2016/01/22: Activating <Deepfathom Skulker>'s last ability after it's been legally blocked won't change or undo that block. The declare attackers step is the last time you can activate the ability and have it be effective.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>43s</No>
+<Name>Deepfathom Skulker</Name>
+<Type>Creature — Eldrazi 4/4</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+{3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)</CardText>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2016/01/22: Activating <Deepfathom Skulker>'s last ability after it's been legally blocked won't change or undo that block. The declare attackers step is the last time you can activate the ability and have it be effective.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>44s</No>
+<Name>Dimensional Infiltrator</Name>
+<Type>Creature — Eldrazi 2/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Flash
+Flying
+{1}{C}: Target opponent exiles the top card of their library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. ({C} represents colorless mana.)</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2016/01/22: You choose whether to return <Dimensional Infiltrator> to its owner's hand as its ability resolves. If the exiled card is a land card, you can't wait and return <Dimensional Infiltrator> at a later time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>53s</No>
+<Name>Crush of Tentacles</Name>
+<Type>Sorcery</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Surge {3}{U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Return all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, create an 8/8 blue Octopus creature token.</CardText>
+<Artist>Jama Jurabaev</Artist>
+<Rulings>2016/01/22: All other nonland permanents will already be in their owners' hands by the time the Octopus token is created. Any triggered abilities or abilities that would have otherwise affected that Octopus won't be around to matter.
+2016/01/22: For some cards, surge represents only an alternative cost, a discount that applies if you or a teammate has cast another spell this turn. Other cards, like Reckless Bushwhacker, have additional abilities or effects if you paid the surge cost to cast the spell.
+2016/01/22: The other spell that you or a teammate cast can be one that's resolved, one that was countered, or (for instants with surge) one that's still on the stack.
+2016/01/22: If an instant or sorcery spell cast for its surge cost is copied, the copy is also considered to have had its surge cost paid.
+2016/01/22: Casting a spell for its surge cost doesn't change its mana cost or its converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>57s</No>
+<Name>Hedron Alignment</Name>
+<Type>Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Hexproof
+At the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.
+{1}{U}: Scry 1.</CardText>
+<Artist>Craig J Spearing</Artist>
+<Rulings>2016/01/22: The <Hedron Alignment> in exile must be face up. If it's face down, it won't count, even if you are allowed to look at it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>60s</No>
+<Name>Oath of Jace</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Oath of Jace enters the battlefield, draw three cards, then discard two cards.
+At the beginning of your upkeep, scry X, where X is the number of planeswalkers you control.</CardText>
+<Flavor>"For the sake of the Multiverse, I will keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/01/22: If you control no planeswalkers as the last ability resolves, you won't scry at all. Abilities that trigger whenever you scry won't trigger.
+2016/01/22: Each of the Oaths is legendary: if you control more than one of any particular Oath, you choose one to remain on the battlefield and the others are put into your graveyard.
+2016/01/22: The "legend rule" checks the full names of legendary permanents. You can control Oath of Gideon and Oath of Chandra at the same time, for example.
+2016/01/22: Even if you control a particular Oath, you can cast another of that Oath to take advantage of its enters-the-battlefield ability. It will enter the battlefield, causing its first ability to trigger. You will then choose one to keep, as detailed above, and then its enters-the-battlefield ability will resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>61s</No>
+<Name>Overwhelming Denial</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Surge {U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+This spell can't be countered.
+Counter target spell.</CardText>
+<Artist>Jama Jurabaev</Artist>
+<Rulings>2016/01/22: For some cards, surge represents only an alternative cost, a discount that applies if you or a teammate has cast another spell this turn. Other cards, like Reckless Bushwhacker, have additional abilities or effects if you paid the surge cost to cast the spell.
+2016/01/22: The other spell that you or a teammate cast can be one that's resolved, one that was countered, or (for instants with surge) one that's still on the stack.
+2016/01/22: If an instant or sorcery spell cast for its surge cost is copied, the copy is also considered to have had its surge cost paid.
+2016/01/22: Casting a spell for its surge cost doesn't change its mana cost or its converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>63s</No>
+<Name>Sphinx of the Final Word</Name>
+<Type>Creature — Sphinx 5/5</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>This spell can't be countered.
+Flying, hexproof
+Instant and sorcery spells you control can't be countered.</CardText>
+<Flavor>He answers questions as readily as he asks them, but his answer is always "no."</Flavor>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2016/01/22: A spell that can't be countered can still be targeted by spells or abilities that would counter it. The part of their effect that would counter the spell won't do anything, but any other effects those spells or abilities may have will still happen, if applicable.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>67s</No>
+<Name>Bearer of Silence</Name>
+<Type>Creature — Eldrazi 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Devoid (This card has no color.)
+When you cast this spell, you may pay {1}{C}. If you do, target opponent sacrifices a creature. ({C} represents colorless mana.)
+Flying
+Bearer of Silence can't block.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2016/01/22: <Bearer of Silence>'s triggered ability targets only the player, not any creature. For example, the player may sacrifice a creature with hexproof.
+2016/01/22: Players can respond to the triggered ability, but once it starts resolving and you decide whether to pay {1}{C}, it's too late for anyone to respond.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>68</No>
+<Name>Dread Defiler</Name>
+<Type>Creature — Eldrazi 6/8</Type>
+<ManaCost>6B (7)</ManaCost>
+<CardText>Devoid (This card has no color.)
+{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)</CardText>
+<Flavor>It left behind an echoing emptiness more horrible than the grave.</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2016/01/22: Use the card's power as it last existed in your graveyard to determine how much life is lost.
+2016/01/22: A creature token is not a creature card. Although a token does go to the graveyard briefly if it dies, it ceases to exist before you have the opportunity to do anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>68s</No>
+<Name>Dread Defiler</Name>
+<Type>Creature — Eldrazi 6/8</Type>
+<ManaCost>6B (7)</ManaCost>
+<CardText>Devoid (This card has no color.)
+{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)</CardText>
+<Flavor>It left behind an echoing emptiness more horrible than the grave.</Flavor>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2016/01/22: Use the card's power as it last existed in your graveyard to determine how much life is lost.
+2016/01/22: A creature token is not a creature card. Although a token does go to the graveyard briefly if it dies, it ceases to exist before you have the opportunity to do anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>72s</No>
+<Name>Inverter of Truth</Name>
+<Type>Creature — Eldrazi 6/6</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Flying
+When Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.</CardText>
+<Flavor>In its shadow, everything changed.</Flavor>
+<Artist>Chase Stone</Artist>
+<Rulings>2016/01/22: No player can look at the cards once they're exiled.
+2016/01/22: If your opponent puts one of the face-down exiled cards into your graveyard (for example, to activate an ability of an Eldrazi Processor), choose one of the cards at random. The card is revealed only after the cost is fully paid. That is, your opponent can't learn what card was chosen and decide to back up (not cast the spell, activate the ability, or so on, as applicable).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>77s</No>
+<Name>Sifter of Skulls</Name>
+<Type>Creature — Eldrazi 4/3</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Whenever another nontoken creature you control dies, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add {C}." ({C} represents colorless mana.)</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>84s</No>
+<Name>Drana's Chosen</Name>
+<Type>Creature — Vampire Shaman Ally 2/2</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Cohort — {T}, Tap an untapped Ally you control: Create a tapped 2/2 black Zombie creature token.</CardText>
+<Flavor>"Drana commands me. I command my nulls. And so her bidding is done."</Flavor>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2016/01/22: To activate a cohort ability, the Ally with that ability must have been under your control continuously since the beginning of your most recent turn. Informally, it can't have "summoning sickness." However, the other Ally you tap can be one that just came under your control. (Note that tapping the second Ally doesn't use {T} [the tap symbol].)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>86s</No>
+<Name>Kalitas, Traitor of Ghet</Name>
+<Type>Legendary Creature — Vampire Warrior 3/4</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Lifelink
+If a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.
+{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2016/01/22: Abilities that trigger whenever a creature an opponent controls dies won't trigger unless that creature is a token (see below).
+2016/01/22: If a creature token an opponent controls dies, it goes to that player's graveyard as normal before ceasing to exist.
+2016/01/22: If Kalitas dies at the same time as creatures your opponents control, those creature cards will be exiled and you'll get that many Zombies.
+2016/01/22: You can't sacrifice Kalitas to activate the last ability, even if it's somehow become a Zombie.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>89s</No>
+<Name>Remorseless Punishment</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Target opponent loses 5 life unless that player discards two cards or sacrifices a creature or planeswalker. Repeat this process once.</CardText>
+<Flavor>"I have suffered a thousand lifetimes of agony on this wretched world. I've far less time to share with you, but I assure you, no less pain."
+—Ob Nixilis</Flavor>
+<Artist>Ryan Barger</Artist>
+<Rulings>2016/01/22: The player can't choose to discard two cards unless they have at least two cards in hand. Similarly, that player can't choose to sacrifice a creature or planeswalker unless they control one. This means that if the target opponent doesn't have two cards in hand and doesn't control a creature or planeswalker, that player will lose 5 life and then lose 5 life again.
+2016/01/22: No player may take any actions between the two times the player goes through the process.
+2016/01/22: Any abilities that trigger while <Remorseless Punishment> is resolving will be put on the stack after it has completely resolved.
+2016/04/08: The same player chooses both times. In a multiplayer game, you can't choose a different opponent to repeat the process.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>96s</No>
+<Name>Eldrazi Obligator</Name>
+<Type>Creature — Eldrazi 3/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Devoid (This card has no color.)
+When you cast this spell, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. ({C} represents colorless mana.)
+Haste</CardText>
+<Artist>Jason Felix</Artist>
+<Rulings>2016/01/22: You may choose any creature as the target of <Eldrazi Obligator>'s triggered ability, including one that's untapped or one you already control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>98s</No>
+<Name>Kozilek's Return</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Kozilek's Return deals 2 damage to each creature.
+Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2016/01/22: The last ability triggers only if <Kozilek's Return> is in your graveyard as you cast the Eldrazi creature spell. That ability will resolve before the Eldrazi creature spell does. In other words, that Eldrazi won't be on the battlefield yet and won't be dealt damage by <Kozilek's Return>.
+2016/01/22: Exiling <Kozilek's Return> due to the last ability isn't the same as casting it as a spell. Cards that say "Counter target spell" won't work.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>104s</No>
+<Name>Chandra, Flamecaller</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+0: Discard all the cards in your hand, then draw that many cards plus one.
+-X: Chandra, Flamecaller deals X damage to each creature.</CardText>
+<Artist>Jason Rainville</Artist>
+<Rulings>2016/01/22: You can activate Chandra's second ability while you have an empty hand. If you do, you'll draw one card.
+2016/04/08: For Chandra's second ability, it doesn't matter if the cards don't go to your graveyard because of a replacement effect. For example, cards with madness discarded this way will still count toward the number of cards you discarded.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>109s</No>
+<Name>Fall of the Titans</Name>
+<Type>Instant</Type>
+<ManaCost>XXR (1)</ManaCost>
+<CardText>Surge {X}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Fall of the Titans deals X damage to each of up to two targets.</CardText>
+<Flavor>As Gideon kept the brood lineages at bay, Chandra incinerated the bound Eldrazi titans.</Flavor>
+<Artist>Chris Rallis</Artist>
+<Rulings>2016/01/22: Fall of the Titan's converted mana cost is based on its mana cost of {X}{X}{R}, even if you're casting it for its surge cost. For example, if you cast <Fall of the Titans> for its surge cost and choose 4 for X, its converted mana cost will be 9.
+2016/01/22: For some cards, surge represents only an alternative cost, a discount that applies if you or a teammate has cast another spell this turn. Other cards, like Reckless Bushwhacker, have additional abilities or effects if you paid the surge cost to cast the spell.
+2016/01/22: The other spell that you or a teammate cast can be one that's resolved, one that was countered, or (for instants with surge) one that's still on the stack.
+2016/01/22: If an instant or sorcery spell cast for its surge cost is copied, the copy is also considered to have had its surge cost paid.
+2016/01/22: Casting a spell for its surge cost doesn't change its mana cost or its converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>110</No>
+<Name>Goblin Dark-Dwellers</Name>
+<Type>Creature — Goblin 4/4</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Menace
+When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2016/01/22: You cast the card during the resolution of the enters-the-battlefield ability, not later in the turn. If it's a sorcery card, ignore the timing restrictions based on it being a sorcery card. Other timing restrictions, such as "Cast [this card] only during combat," must be followed.
+2016/01/22: If you can't cast the target instant or sorcery card, perhaps because there are no legal targets available, or if you choose not to cast it, it will remain in your graveyard.
+2016/01/22: If you cast a card "without paying its mana cost," you can't pay alternative costs such as surge costs. You can pay additional costs. If the card has mandatory additional costs, you must pay those.
+2016/01/22: If the instant or sorcery card has {X} in its mana cost, you must choose 0 as its value.
+2016/01/22: If an instant or sorcery card you cast this way is countered, it will be exiled.
+2016/01/22: If an instant or sorcery card you cast this way goes to a zone other than exile or a graveyard, perhaps because one of its abilities says to put it into its owner's hand, it won't be exiled. This is true even if the card would be put into a graveyard later that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>110s</No>
+<Name>Goblin Dark-Dwellers</Name>
+<Type>Creature — Goblin 4/4</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Menace
+When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2016/01/22: You cast the card during the resolution of the enters-the-battlefield ability, not later in the turn. If it's a sorcery card, ignore the timing restrictions based on it being a sorcery card. Other timing restrictions, such as "Cast [this card] only during combat," must be followed.
+2016/01/22: If you can't cast the target instant or sorcery card, perhaps because there are no legal targets available, or if you choose not to cast it, it will remain in your graveyard.
+2016/01/22: If you cast a card "without paying its mana cost," you can't pay alternative costs such as surge costs. You can pay additional costs. If the card has mandatory additional costs, you must pay those.
+2016/01/22: If the instant or sorcery card has {X} in its mana cost, you must choose 0 as its value.
+2016/01/22: If an instant or sorcery card you cast this way is countered, it will be exiled.
+2016/01/22: If an instant or sorcery card you cast this way goes to a zone other than exile or a graveyard, perhaps because one of its abilities says to put it into its owner's hand, it won't be exiled. This is true even if the card would be put into a graveyard later that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>113s</No>
+<Name>Oath of Chandra</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>When Oath of Chandra enters the battlefield, it deals 3 damage to target creature an opponent controls.
+At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, Oath of Chandra deals 2 damage to each opponent.</CardText>
+<Flavor>"If it means that people can live in freedom, yeah, I'll keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/01/22: <Oath of Chandra>'s last ability will trigger even if the planeswalker that entered the battlefield under your control is no longer on the battlefield, no longer under your control, or no longer a planeswalker. This is also true if <Oath of Chandra> wasn't on the battlefield when the planeswalker entered.
+2016/01/22: The last ability triggers only once per turn, even if more than one planeswalker entered the battlefield under your control.
+2016/01/22: Each of the Oaths is legendary: if you control more than one of any particular Oath, you choose one to remain on the battlefield and the others are put into your graveyard.
+2016/01/22: The "legend rule" checks the full names of legendary permanents. You can control Oath of Gideon and <Oath of Chandra> at the same time, for example.
+2016/01/22: Even if you control a particular Oath, you can cast another of that Oath to take advantage of its enters-the-battlefield ability. It will enter the battlefield, causing its first ability to trigger. You will then choose one to keep, as detailed above, and then its enters-the-battlefield ability will resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>119</No>
+<Name>Tyrant of Valakut</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying
+When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to any target.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2016/01/22: For some cards, surge represents only an alternative cost, a discount that applies if you or a teammate has cast another spell this turn. Other cards, like Reckless Bushwhacker, have additional abilities or effects if you paid the surge cost to cast the spell.
+2016/01/22: The other spell that you or a teammate cast can be one that's resolved, one that was countered, or (for instants with surge) one that's still on the stack.
+2016/01/22: If an instant or sorcery spell cast for its surge cost is copied, the copy is also considered to have had its surge cost paid.
+2016/01/22: Casting a spell for its surge cost doesn't change its mana cost or its converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>119s</No>
+<Name>Tyrant of Valakut</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying
+When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to any target.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2016/01/22: For some cards, surge represents only an alternative cost, a discount that applies if you or a teammate has cast another spell this turn. Other cards, like Reckless Bushwhacker, have additional abilities or effects if you paid the surge cost to cast the spell.
+2016/01/22: The other spell that you or a teammate cast can be one that's resolved, one that was countered, or (for instants with surge) one that's still on the stack.
+2016/01/22: If an instant or sorcery spell cast for its surge cost is copied, the copy is also considered to have had its surge cost paid.
+2016/01/22: Casting a spell for its surge cost doesn't change its mana cost or its converted mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>125s</No>
+<Name>Vile Redeemer</Name>
+<Type>Creature — Eldrazi 3/3</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Devoid (This card has no color.)
+Flash
+When you cast this spell, you may pay {C}. If you do, create a 1/1 colorless Eldrazi Scion creature token for each nontoken creature that died under your control this turn. Those tokens have "Sacrifice this creature: Add {C}."</CardText>
+<Artist>Jason Rainville</Artist>
+<Rulings>2016/01/22: <Vile Redeemer>'s last ability will count any nontoken creature that died while under your control, even if you weren't the creature's owner. It doesn't matter where the card is as the ability resolves. It doesn't have to still be in a graveyard.
+2016/01/22: <Vile Redeemer>'s last ability won't count nontoken creatures that didn't go to a graveyard because of a replacement effect (for example, a creature that was exiled or went to the command zone instead).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>126s</No>
+<Name>World Breaker</Name>
+<Type>Creature — Eldrazi 5/7</Type>
+<ManaCost>6G (7)</ManaCost>
+<CardText>Devoid (This card has no color.)
+When you cast this spell, exile target artifact, enchantment, or land.
+Reach
+{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2016/01/22: You can activate the last ability only if <World Breaker> is in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>132</No>
+<Name>Gladehart Cavalry</Name>
+<Type>Creature — Elf Knight 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)
+Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2016/01/22: If <Gladehart Cavalry> dies at the same time as a creature you control with a +1/+1 counter on it, its ability will trigger.
+2016/01/22: If <Gladehart Cavalry> somehow gets a +1/+1 counter, it dying will cause its own ability to trigger.
+2016/01/22: You gain 2 life per creature, not per +1/+1 counter.
+2016/01/22: You can't put more than one +1/+1 counter on any one target using the support action.
+2016/01/22: Support can target a creature you don't control.
+2016/01/22: If a spell with support has other abilities that target creatures, those abilities and the support ability can target the same creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>132s</No>
+<Name>Gladehart Cavalry</Name>
+<Type>Creature — Elf Knight 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)
+Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2016/01/22: If <Gladehart Cavalry> dies at the same time as a creature you control with a +1/+1 counter on it, its ability will trigger.
+2016/01/22: If <Gladehart Cavalry> somehow gets a +1/+1 counter, it dying will cause its own ability to trigger.
+2016/01/22: You gain 2 life per creature, not per +1/+1 counter.
+2016/01/22: You can't put more than one +1/+1 counter on any one target using the support action.
+2016/01/22: Support can target a creature you don't control.
+2016/01/22: If a spell with support has other abilities that target creatures, those abilities and the support ability can target the same creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>138s</No>
+<Name>Nissa, Voice of Zendikar</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>+1: Create a 0/1 green Plant creature token.
+-2: Put a +1/+1 counter on each creature you control.
+-7: You gain X life and draw X cards, where X is the number of lands you control.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>140s</No>
+<Name>Oath of Nissa</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>When Oath of Nissa enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+You may spend mana as though it were mana of any color to cast planeswalker spells.</CardText>
+<Flavor>"For the life of every plane, I will keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/01/22: Each of the Oaths is legendary: if you control more than one of any particular Oath, you choose one to remain on the battlefield and the others are put into your graveyard.
+2016/01/22: The "legend rule" checks the full names of legendary permanents. You can control Oath of Gideon and Oath of Chandra at the same time, for example.
+2016/01/22: Even if you control a particular Oath, you can cast another of that Oath to take advantage of its enters-the-battlefield ability. It will enter the battlefield, causing its first ability to trigger. You will then choose one to keep, as detailed above, and then its enters-the-battlefield ability will resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>144s</No>
+<Name>Sylvan Advocate</Name>
+<Type>Creature — Elf Druid Ally 2/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Vigilance
+As long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.</CardText>
+<Flavor>"The land gives of itself. Its abundance provides, even in times of chaos."</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2016/01/22: A "land creature" is a permanent that's both a land and a creature.
+2016/01/22: Damage remains marked on creatures until the turn ends. If <Sylvan Advocate>'s ability stops applying (because <Sylvan Advocate> leaves the battlefield or you no longer control six or more lands), then any land creatures that needed the toughness bonus to stay alive will be destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>147s</No>
+<Name>Zendikar Resurgent</Name>
+<Type>Enchantment</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Whenever you tap a land for mana, add one mana of any type that land produced. (The types of mana are white, blue, black, red, green, and colorless.)
+Whenever you cast a creature spell, draw a card.</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2016/01/22: If the land's mana ability produces more than one type of mana, choose one of those types to determine what mana <Zendikar Resurgent> produces.
+2016/01/22: The last ability will resolve before the creature spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>151s</No>
+<Name>Ayli, Eternal Pilgrim</Name>
+<Type>Legendary Creature — Kor Cleric 2/3</Type>
+<ManaCost>WB (2)</ManaCost>
+<CardText>Deathtouch
+{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.</CardText>
+<Artist>Cynthia Sheppard</Artist>
+<Rulings>2016/01/22: Once you've announced either activated ability, it's too late for anyone to interrupt you by trying to remove the creature you sacrifice.
+2016/01/22: Once you've legally activated the last ability, it doesn't matter what happens to your life total.
+2016/01/22: Your starting life total is the life total you began the game with. For most two-player formats, this is 20. For Two-Headed Giant, it's the life total your team started with, usually 30. In Commander games, your starting life total is 40.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>155</No>
+<Name>Jori En, Ruin Diver</Name>
+<Type>Legendary Creature — Merfolk Wizard 2/3</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Whenever you cast your second spell each turn, draw a card.</CardText>
+<Artist>Matt Stewart</Artist>
+<Rulings>2016/01/22: Jori En's ability can trigger only once each turn. The ability will resolve before the second spell resolves. It doesn't matter if the first spell you cast that turn has resolved, was countered, or is still on the stack.
+2016/01/22: Jori En must be on the battlefield in order for the ability to function. Notably, the ability won't trigger if Jori En is the second spell you cast in a turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>155s</No>
+<Name>Jori En, Ruin Diver</Name>
+<Type>Legendary Creature — Merfolk Wizard 2/3</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Whenever you cast your second spell each turn, draw a card.</CardText>
+<Flavor>"Some relic hunters have given up exploring and gone to fight the Eldrazi. But I know our work is more important than ever. The secrets we uncover could lead to the world's salvation."</Flavor>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2016/01/22: Jori En's ability can trigger only once each turn. The ability will resolve before the second spell resolves. It doesn't matter if the first spell you cast that turn has resolved, was countered, or is still on the stack.
+2016/01/22: Jori En must be on the battlefield in order for the ability to function. Notably, the ability won't trigger if Jori En is the second spell you cast in a turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>156s</No>
+<Name>Mina and Denn, Wildborn</Name>
+<Type>Legendary Creature — Elf Ally 4/4</Type>
+<ManaCost>2RG (4)</ManaCost>
+<CardText>You may play an additional land on each of your turns.
+{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.</CardText>
+<Flavor>Greenweaver Mina and her twin brother Denn lead the last of the Mul Daya into an uncertain future.</Flavor>
+<Artist>Izzy</Artist>
+<Rulings>2016/01/22: Once you announce that you're activating the last ability, it's too late for anyone to interrupt you by trying to remove the land you returned.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>162s</No>
+<Name>Captain's Claws</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Equipped creature gets +1/+0.
+Whenever equipped creature attacks, create a 1/1 white Kor Ally creature token that's tapped and attacking.
+Equip {1}</CardText>
+<Flavor>Forged for victory in a time of despair.</Flavor>
+<Artist>Anthony Palumbo</Artist>
+<Rulings>2016/01/22: You choose which opponent or planeswalker controlled by an opponent the token is attacking as it enters the battlefield. It doesn't have to be the same opponent or planeswalker that the equipped creature is attacking.
+2016/01/22: The token is never declared as an attacking creature. It simply enters the battlefield attacking. This won't cause any abilities that trigger "whenever a creature attacks" to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>166s</No>
+<Name>Stoneforge Masterwork</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.
+Equip {2}</CardText>
+<Flavor>The nomadic kor carry only necessities on their long treks. The coming of the Eldrazi redefined "necessities."</Flavor>
+<Artist>Ben Maier</Artist>
+<Rulings>2016/01/22: The bonus is only +1/+1 per applicable creature, even if it shares more than one creature type with the equipped creature. For example, if the equipped creature is a Human Shaman and you control a Human Warrior, a Goblin Shaman, and another Human Shaman, the equipped creature will get +3/+3.
+2016/01/22: The bonus will change as the creatures you control change. This may cause the equipped creature to lose toughness and die because of damage dealt earlier in the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>169s</No>
+<Name>Corrupted Crossroads</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}. ({C} represents colorless mana.)
+{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a spell with devoid.</CardText>
+<Flavor>"Look, and see the future."
+—Ayli, high priest of the Eternal Pilgrims</Flavor>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2016/01/22: The mana produced by the last ability can't be spent on a colorless spell unless that spell specifically has the devoid ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>171s</No>
+<Name>Hissing Quagmire</Name>
+<Type>Land</Type>
+<CardText>Hissing Quagmire enters the battlefield tapped.
+{T}: Add {B} or {G}.
+{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.</CardText>
+<Artist>Cliff Childs</Artist>
+<Rulings>2016/01/22: A land that becomes a creature may be affected by "summoning sickness." You can't attack with it or use any of its {T} abilities (including its mana abilities) unless it began your most recent turn on the battlefield under your control. Note that summoning sickness cares about when that permanent came under your control, not when it became a creature nor when it entered the battlefield.
+2016/01/22: This land is colorless until the last ability gives it colors.
+2016/01/22: When a land becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2016/01/22: An ability that turns a land into a creature also sets that creature's power and toughness. If the land was already a creature (for example, if it was the target of a spell with awaken), this will overwrite the previous effect that set its power and toughness. Effects that modify its power or toughness will continue to apply no matter when they started to take effect. The same is true for counters that change its power or toughness (such as +1/+1 counters) and effects that switch its power and toughness. For example, if <Hissing Quagmire> has been made a 0/0 creature with three +1/+1 counters on it, activating its last ability will turn it into a 5/5 creature that's still a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>174s</No>
+<Name>Mirrorpool</Name>
+<Type>Land</Type>
+<CardText>Mirrorpool enters the battlefield tapped.
+{T}: Add {C}.
+{2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+{4}{C}, {T}, Sacrifice Mirrorpool: Create a token that's a copy of target creature you control.</CardText>
+<Artist>Cliff Childs</Artist>
+<Rulings>2016/01/22: <Mirrorpool>'s third ability can target (and copy) any instant or sorcery spell, not just one with targets.
+2016/01/22: The copy is created on the stack, so it's not cast. Abilities that trigger when a player casts a spell won't trigger. The copy will then resolve like a normal spell, after players get a chance to cast spells and activate abilities.
+2016/01/22: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2016/01/22: If the copied spell is modal (that is, it says "Choose one —" or the like), the copy will have the same modes. You can't choose different ones.
+2016/01/22: If the copied spell has an X whose value was determined as it was cast (like Fall of the Titans does), the copy has the same value of X.
+2016/01/22: You can't choose to pay any additional costs for the copy. However, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy, too. For example, if a player sacrifices a 3/3 creature to cast Fling, and you copy it, the copy of Fling will also deal 3 damage to its target.
+2016/01/22: For <Mirrorpool>'s last ability, the token copies exactly what's printed on the original creature and nothing else (unless that creature is copying something else; see below). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, and so on.
+2016/01/22: For example, if a token copies a Plains that's been affected by a spell with awaken, the token will be just a land, even though the object being copied is currently a land creature. The same is true if the land has an ability that animates it.
+2016/01/22: If the copied creature has {X} in its mana cost, X is 0.
+2016/01/22: If the copied creature is copying something else when the ability resolves, then the token enters the battlefield as a copy of whatever that creature is copying.
+2016/01/22: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the copied creature will also work.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>175s</No>
+<Name>Needle Spires</Name>
+<Type>Land</Type>
+<CardText>Needle Spires enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.</CardText>
+<Artist>Jonas De Ro</Artist>
+<Rulings>2016/01/22: A land that becomes a creature may be affected by "summoning sickness." You can't attack with it or use any of its {T} abilities (including its mana abilities) unless it began your most recent turn on the battlefield under your control. Note that summoning sickness cares about when that permanent came under your control, not when it became a creature nor when it entered the battlefield.
+2016/01/22: This land is colorless until the last ability gives it colors.
+2016/01/22: When a land becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2016/01/22: An ability that turns a land into a creature also sets that creature's power and toughness. If the land was already a creature (for example, if it was the target of a spell with awaken), this will overwrite the previous effect that set its power and toughness. Effects that modify its power or toughness will continue to apply no matter when they started to take effect. The same is true for counters that change its power or toughness (such as +1/+1 counters) and effects that switch its power and toughness. For example, if <Needle Spires> has been made a 0/0 creature with three +1/+1 counters on it, activating its last ability will turn it into a 5/4 creature that's still a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>176s</No>
+<Name>Ruins of Oran-Rief</Name>
+<Type>Land</Type>
+<CardText>Ruins of Oran-Rief enters the battlefield tapped.
+{T}: Add {C}. ({C} represents colorless mana.)
+{T}: Put a +1/+1 counter on target colorless creature that entered the battlefield this turn.</CardText>
+<Artist>Jason Felix</Artist>
+<Rulings>2016/01/22: The target of the last ability didn't necessarily have to be a colorless creature as it entered the battlefield, provided it entered the battlefield during that turn. However, it does have to be a colorless creature to be a legal target of the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>177s</No>
+<Name>Sea Gate Wreckage</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}. ({C} represents colorless mana.)
+{2}{C}, {T}: Draw a card. Activate this ability only if you have no cards in hand.</CardText>
+<Flavor>Once a center for knowledge, Sea Gate now serves as a reminder of what was lost.</Flavor>
+<Artist>Zack Stella</Artist>
+<Rulings>2016/01/22: It doesn't matter how many cards are in your hand as the last ability resolves. For example, if you have no cards in hand and control two <Sea Gate Wreckage>s, you can activate the last ability of each of them. You'll draw a card as each ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>POGW</SetId>
+<No>182s</No>
+<Name>Wandering Fumarole</Name>
+<Type>Land</Type>
+<CardText>Wandering Fumarole enters the battlefield tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with "{0}: Switch this creature's power and toughness until end of turn." It's still a land.</CardText>
+<Artist>Florian de Gesincourt</Artist>
+<Rulings>2016/01/22: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
+2016/01/22: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.
+2016/01/22: A land that becomes a creature may be affected by "summoning sickness." You can't attack with it or use any of its {T} abilities (including its mana abilities) unless it began your most recent turn on the battlefield under your control. Note that summoning sickness cares about when that permanent came under your control, not when it became a creature nor when it entered the battlefield.
+2016/01/22: This land is colorless until the last ability gives it colors.
+2016/01/22: When a land becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2016/01/22: An ability that turns a land into a creature also sets that creature's power and toughness. If the land was already a creature (for example, if it was the target of a spell with awaken), this will overwrite the previous effect that set its power and toughness. Effects that modify its power or toughness will continue to apply no matter when they started to take effect. The same is true for counters that change its power or toughness (such as +1/+1 counters) and effects that switch its power and toughness. For example, if <Wandering Fumarole> has been made a 0/0 creature with three +1/+1 counters on it, activating its last ability will turn it into a 4/7 creature that's still a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Oath of the Gatewatch Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

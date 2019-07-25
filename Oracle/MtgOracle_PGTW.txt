@@ -1,0 +1,61 @@
+<Card>
+<SetId>PGTW</SetId>
+<No>1</No>
+<Name>Wood Elves</Name>
+<Type>Creature — Elf Scout 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.</CardText>
+<Flavor>Every branch a crossroads, every vine a swift steed.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Watermark>Mtg</Watermark>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTW</SetId>
+<No>2</No>
+<Name>Icatian Javelineers</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Icatian Javelineers enters the battlefield with a javelin counter on it.
+{T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target.</CardText>
+<Artist>Michael Phillippi</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTW</SetId>
+<No>3</No>
+<Name>Fiery Temper</Name>
+<Type>Instant</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Fiery Temper deals 3 damage to any target.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Ben Wootten</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2016/04/08: Cards are discarded in a Magic game only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded.
+2016/04/08: A spell cast for its madness cost is put onto the stack like any other spell. It can be countered, copied, and so on. As it resolves, it's put onto the battlefield if it's a permanent card or into its owner's graveyard if it's an instant or sorcery card.
+2016/04/08: Casting a spell for its madness cost doesn't change its mana cost or its converted mana cost. You just pay the madness cost instead.
+2016/04/08: Effects that cause you to pay more or less for a spell will cause you to pay that much more or less for its madness cost, too.
+2016/04/08: Madness works independently of why you're discarding the card. You could discard it to pay a cost, because a spell or ability tells you to, or even because you have too many cards in your hand at the end of your turn. You can't discard a card with madness just because you want to, though.
+2016/04/08: When you cast a card with madness, it was still discarded. If it was discarded to pay a cost, that cost is still paid. Abilities that trigger when a card is discarded will still trigger.
+2016/04/08: If you choose not to cast a card with madness when the madness triggered ability resolves, it's put into your graveyard. You don't get another chance to cast it later.
+2016/04/08: If you discard a card with madness to pay the cost of a spell or activated ability, that card's madness trigger (and the spell that card becomes, if you choose to cast it) will resolve before the spell or ability the discard paid for.
+2016/04/08: If you discard a card with madness while resolving a spell or ability, it moves immediately to exile. Continue resolving that spell or ability—the card is not in your graveyard at this time. Its madness trigger will be placed onto the stack once that spell or ability has completely resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gateway 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

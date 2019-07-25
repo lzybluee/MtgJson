@@ -1,0 +1,3360 @@
+<Card>
+<SetId>TD0</SetId>
+<No>A1</No>
+<Name>Auramancer</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</CardText>
+<Flavor>Beauty stirs the memory like a sweet perfume excites the air.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B1</No>
+<Name>Aura of Silence</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Artifact and enchantment spells your opponents cast cost {2} more to cast.
+Sacrifice Aura of Silence: Destroy target artifact or enchantment.</CardText>
+<Flavor>Not all silences are easily broken.</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: <Aura of Silence> affects all opponents in a multiplayer game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A2</No>
+<Name>Condemn</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.</CardText>
+<Flavor>"No doubt the arbiters would put you away, after all the documents are signed. But I will have justice now."
+—Alovnek, Boros guildmage</Flavor>
+<Artist>Daren Bader</Artist>
+<Rulings>2010/08/15: The affected creature's last known existence on the battlefield is checked to determine its toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B2</No>
+<Name>Benevolent Bodyguard</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.</CardText>
+<Flavor>"My destiny is to save others so their destinies may be achieved."</Flavor>
+<Artist>Roger Raupp</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A3</No>
+<Name>Decree of Justice</Name>
+<Type>Sorcery</Type>
+<ManaCost>XX2WW (4)</ManaCost>
+<CardText>Create X 4/4 white Angel creature tokens with flying.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2018/03/16: A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {8}{W}{W} to cast <Decree of Justice>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B3</No>
+<Name>Ethersworn Canonist</Name>
+<Type>Artifact Creature — Human Cleric 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.</CardText>
+<Flavor>"The noble work of our order is to infuse all life on Esper with etherium. Our goal will be reached more rapidly if new life is . . . suppressed."</Flavor>
+<Artist>Izzy</Artist>
+<Rulings>2008/10/01: The only difference between a colored artifact and a colorless artifact is, obviously, its color. Unlike most artifacts, a colored artifact requires colored mana to cast. Also unlike most artifacts, a colored artifact has a color in all zones. It will interact with cards that care about color. Other than that, a colored artifact behaves just like any other artifact. It will interact as normal with any card that cares about artifacts, such as Shatter or Arcbound Ravager.
+2008/10/01: In other words: Each turn, each player can cast any number of artifact spells plus a maximum of one nonartifact spell.
+2008/10/01: This effect counts all nonartifact spells that are cast, even those that are countered.
+2008/10/01: This effect takes into account spells that were cast earlier in the turn that <Ethersworn Canonist> entered the battlefield, including any spells still on the stack. However, any spells on the stack as <Ethersworn Canonist> enters the battlefield have already been cast by that point, so they're not affected by it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A4</No>
+<Name>Dismantling Blow</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
+Destroy target artifact or enchantment. If this spell was kicked, draw two cards.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: If the target is not legal on resolution, the spell doesn't resolve and you do not get to draw the two cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B4</No>
+<Name>Flickerwisp</Name>
+<Type>Creature — Elemental 3/1</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Flying
+When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Flavor>Its wings disturb more than air.</Flavor>
+<Artist>Jeremy Enecio</Artist>
+<Rulings>2008/08/01: The exiled card will return to the battlefield at the beginning of the end step even if <Flickerwisp> is no longer on the battlefield.
+2008/08/01: If the permanent that returns to the battlefield has any abilities that trigger at the beginning of the end step, those abilities won't trigger that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A5</No>
+<Name>Empyrial Armor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1 for each card in your hand.</CardText>
+<Flavor>"An angel appeared in the smoldering skies above the fray, her clothes as flames, her armor as fire."
+—"Hymn of Angelfire"</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: The value of X is recalculated constantly, so this card's bonus varies as the number of cards in your hand varies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B5</No>
+<Name>Jötun Grunt</Name>
+<Type>Creature — Giant Soldier 4/4</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Rulings>2006/07/15: When paying <Jötun Grunt>'s cumulative upkeep, you may choose a different graveyard for each age counter. For example, if it has three age counters on it, you may put four cards from your graveyard on the bottom of your library and two cards from your opponent's graveyard on the bottom of their library. However, you can't put five cards from your graveyard on the bottom of your library and one card from your opponent's graveyard on the bottom of their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A6</No>
+<Name>Enlightened Tutor</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</CardText>
+<Flavor>"I do not teach. I simply reveal."
+—Daudi, Femeref tutor</Flavor>
+<Artist>Dan Frazier</Artist>
+<Rulings>2016/06/08: The "shuffle and put the card on top" is a single action. If an effect causes the top card of the library to be face up, the second card down is not revealed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B6</No>
+<Name>Kor Firewalker</Name>
+<Type>Creature — Kor Soldier 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from red
+Whenever a player casts a red spell, you may gain 1 life.</CardText>
+<Flavor>"A river of lava is just another river to cross."</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2018/03/16: <Kor Firewalker>'s triggered ability resolves before the red spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A7</No>
+<Name>Faith's Fetters</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Enchant permanent
+When Faith's Fetters enters the battlefield, you gain 4 life.
+Enchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities.</CardText>
+<Artist>Chippy</Artist>
+<Rulings>2018/12/07: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords (such as equip) are activated abilities and will have colons in their reminder text.
+2018/12/07: <Faith's Fetters> doesn't stop static abilities, triggered abilities, or mana abilities from working. A mana ability is an ability that produces mana, not an ability that costs mana.
+2018/12/07: If the target permanent is an illegal target by the time <Faith's Fetters> tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so its enters-the-battlefield ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B7</No>
+<Name>Mangara of Corondor</Name>
+<Type>Legendary Creature — Human Wizard 1/1</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>{T}: Exile Mangara of Corondor and target permanent.</CardText>
+<Flavor>"I have been brought to this place and I cannot leave. I may be free of the amber, but I am still in prison."</Flavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2006/09/25: If <Mangara of Corondor> leaves the battlefield before the ability resolves, the targeted permanent will still be exiled.
+2006/09/25: If the target permanent becomes an illegal target, the ability won't resolve and Mangara will remain on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A8</No>
+<Name>Ghostly Prison</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.</CardText>
+<Flavor>Destroyed in one of the first battles of the Kami War, the town of Reito still grieved.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.
+2014/02/01: Unless some effect explicitly says otherwise, a creature that can't attack you can still attack a planeswalker you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B8</No>
+<Name>Oblivion Ring</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Rulings>2007/10/01: If <Oblivion Ring> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted nonland permanent forever.
+2007/10/01: If there are no nonland permanents on the battlefield other than an <Oblivion Ring>, and the card it exiled was another <Oblivion Ring>, casting a third <Oblivion Ring> will result in an involuntary infinite loop that will end the game in a draw (unless someone chooses to break it by putting another nonland permanent onto the battlefield or destroying one of the <Oblivion Ring>s, for example).
+2008/10/01: If the exiled card is an Aura, that card's owner chooses what it will enchant as it comes back onto the battlefield. An Aura put onto the battlefield this way doesn't target anything, but the Aura's enchant ability restricts what it can be attached to. If the Aura can't legally be attached to anything, it remains exiled forever.
+2012/07/01: Auras attached to the exiled permanent will be put into their owners' graveyards. Equipment attached to the exiled permanent will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A9</No>
+<Name>Kami of Ancient Law</Name>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Sacrifice Kami of Ancient Law: Destroy target enchantment.</CardText>
+<Flavor>"Duty and law are the foundation on which civilization stands. They must not fall, for when they do, they take everything with them."
+—Lord Konda</Flavor>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B9</No>
+<Name>Serra Avenger</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>You can't cast this spell during your first, second, or third turns of the game.
+Flying
+Vigilance (Attacking doesn't cause this creature to tap.)</CardText>
+<Flavor>"Those who endure in the face of suffering, those whose faith shines long in evil days, they shall see salvation."
+—Song of All, canto 904</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Rulings>2006/09/25: You can cast <Serra Avenger> during another player's first, second, or third turns of the game if some other effect (such as Vedalken Orrery) enables that.
+2012/07/01: <Serra Avenger> cares about how many turns you have taken, not necessarily how many turns the game has had, in case you take an extra turn.
+2012/07/01: If the game is restarted (by Karn Liberated), you can't cast <Serra Avenger> in your first, second, or third turn in the new game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A10</No>
+<Name>Momentary Blink</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Exile target creature you control, then return it to the battlefield under its owner's control.
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Rulings>2006/09/25: When <Momentary Blink> resolves, the creature is exiled, then immediately returned to the battlefield. The game sees the returning card as a different permanent from the one that left the battlefield. Any counters, Auras, and so on are removed. Any spells or abilities targeting the creature no longer target it.
+2006/09/25: Any "as this enters the battlefield" choices for the affected creature are made by its owner, not its old controller.
+2007/02/01: If <Momentary Blink> is cast on a token creature, the token will not return to the battlefield, because of the rule that says a token that leaves the battlefield can't come back.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B10</No>
+<Name>Silence</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)</CardText>
+<Flavor>"Take a quiet moment to reflect on your sins."
+—Cleph, Order of Redeemed Souls</Flavor>
+<Artist>Wayne Reynolds</Artist>
+<Rulings>2009/10/01: <Silence> won't affect spells that your opponents cast before you cast <Silence>. (In other words, it can't be used as a retroactive Cancel.) <Silence> also won't stop your opponents from casting spells after you cast <Silence> but before <Silence> resolves.
+2009/10/01: The only thing <Silence> does is prevent your opponents from casting spells. They can still activate abilities, including abilities of cards in their hands (like cycling). Their triggered abilities work as normal, they can still play lands, and so on.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A11</No>
+<Name>Noble Templar</Name>
+<Type>Creature — Human Cleric Soldier 3/6</Type>
+<ManaCost>5W (6)</ManaCost>
+<CardText>Vigilance
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B11</No>
+<Name>Stoneforge Mystic</Name>
+<Type>Creature — Kor Artificer 1/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.</CardText>
+<Artist>Mike Bierek</Artist>
+<Rulings>2010/03/01: When <Stoneforge Mystic>'s second ability resolves, you may put any Equipment card from your hand onto the battlefield, not just the one you searched for with its first ability. The Equipment is put onto the battlefield unattached.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A12</No>
+<Name>Oblivion Ring</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</CardText>
+<Flavor>A circle of sugar and a word of forbiddance.</Flavor>
+<Artist>Franz Vohwinkel</Artist>
+<Rulings>2007/10/01: If <Oblivion Ring> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted nonland permanent forever.
+2007/10/01: If there are no nonland permanents on the battlefield other than an <Oblivion Ring>, and the card it exiled was another <Oblivion Ring>, casting a third <Oblivion Ring> will result in an involuntary infinite loop that will end the game in a draw (unless someone chooses to break it by putting another nonland permanent onto the battlefield or destroying one of the <Oblivion Ring>s, for example).
+2008/10/01: If the exiled card is an Aura, that card's owner chooses what it will enchant as it comes back onto the battlefield. An Aura put onto the battlefield this way doesn't target anything, but the Aura's enchant ability restricts what it can be attached to. If the Aura can't legally be attached to anything, it remains exiled forever.
+2012/07/01: Auras attached to the exiled permanent will be put into their owners' graveyards. Equipment attached to the exiled permanent will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B12</No>
+<Name>Swords to Plowshares</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller gains life equal to its power.</CardText>
+<Flavor>The smallest seed of regret can bloom into redemption.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2018/03/16: The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield.
+2018/03/16: If the creature's power is negative, its controller doesn't lose or gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A13</No>
+<Name>Prison Term</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Whenever a creature enters the battlefield under an opponent's control, you may attach Prison Term to that creature.</CardText>
+<Flavor>Clear out the cell. Bring in the next prisoner.</Flavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2008/05/01: The last ability works only if <Prison Term> is already on the battlefield. You may move it from the creature it's currently enchanting onto the new creature.
+2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B13</No>
+<Name>Weathered Wayfarer</Name>
+<Type>Creature — Human Nomad Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{W}, {T}: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.</CardText>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A14</No>
+<Name>Resurrection</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Return target creature card from your graveyard to the battlefield.</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B14</No>
+<Name>Chain Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Chain Lightning deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.</CardText>
+<Artist>Sandra Everingham</Artist>
+<Rulings>2004/10/04: The player putting the copy spell on the stack controls that spell.
+2004/10/04: The spell copy has all the text and can result in itself being copied.
+2004/10/04: The copy is a spell, so it can be targeted by other spells and abilities that target a spell.
+2016/06/08: As <Chain Lightning> resolves, the targeted player or the controller of the targeted creature may copy it. The copy has the same text, target, and color of the resolving spell, though the player who's copying it may choose a new target for it. Once that copy is created (or not), the first <Chain Lightning> has finished resolving and leaves the stack.
+2016/06/08: The player putting the copy of the spell on the stack controls that copy.
+2016/06/08: The copy of <Chain Lightning> is created on the stack, so it's not cast. Abilities that trigger when a player casts a spell won't trigger. Players may respond to that spell before it resolves.
+2016/06/08: If the targeted permanent or player is an illegal target when <Chain Lightning> tries to resolve, the spell doesn't resolve. It can't be copied.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A15</No>
+<Name>Seal of Cleansing</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</CardText>
+<Flavor>"I am the purifier, the light that clears all shadows."
+—Seal inscription</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B15</No>
+<Name>Fireblast</Name>
+<Type>Instant</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>You may sacrifice two Mountains rather than pay this spell's mana cost.
+Fireblast deals 4 damage to any target.</CardText>
+<Flavor>Embermages aren't well known for their diplomatic skills.</Flavor>
+<Artist>Michael Danza</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A16</No>
+<Name>Stonecloaker</Name>
+<Type>Creature — Gargoyle 3/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.
+When Stonecloaker enters the battlefield, exile target card from a graveyard.</CardText>
+<Artist>Tomas Giorello</Artist>
+<Rulings>2007/02/01: Both triggered abilities trigger when <Stonecloaker> enters the battlefield. They can be put on the stack in either order.
+2016/06/08: You may return this creature itself to its owner's hand as its triggered ability resolves. If you don't control enough other creatures, you must return it.
+2016/06/08: The ability doesn't target any creature. You don't choose what to return until the ability resolves. Once the ability has started to resolve, no one can respond to the choice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B16</No>
+<Name>Flames of the Blood Hand</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flames of the Blood Hand deals 4 damage to target player or planeswalker. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.</CardText>
+<Flavor>Many ogres extracted blood oaths from the oni they summoned. Others simply extracted blood.</Flavor>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2005/02/01: The damage is unpreventable, and the targeted player's life gain that turn is replaced with nothing.
+2005/02/01: The replacement effect applies only to the target player, not to a permanent or player the damage might be redirected to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A17</No>
+<Name>Swords to Plowshares</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller gains life equal to its power.</CardText>
+<Flavor>"The so-called barbarians will not respect us for our military might —they will respect us for our honor."
+—Lucilde Fiksdotter, leader of the Order of the White Shield</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2018/03/16: The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield.
+2018/03/16: If the creature's power is negative, its controller doesn't lose or gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B17</No>
+<Name>Goblin Guide</Name>
+<Type>Creature — Goblin Scout 2/2</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Haste
+Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand.</CardText>
+<Flavor>"I've been all over this world. I even remember some of those places."</Flavor>
+<Artist>Warren Mahy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A18</No>
+<Name>Capsize</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Return target permanent to its owner's hand.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B18</No>
+<Name>Hellspark Elemental</Name>
+<Type>Creature — Elemental 3/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Trample, haste
+At the beginning of the end step, sacrifice Hellspark Elemental.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Justin Sweet</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A19</No>
+<Name>Compulsive Research</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Target player draws three cards. Then that player discards two cards unless they discard a land card.</CardText>
+<Flavor>"Four parts molten bronze, yes . . . one part frozen mercury, yes, yes . . . but then what?"</Flavor>
+<Artist>Michael Sutfin</Artist>
+<Rulings>2017/03/14: The target player can discard either one land card or two cards which may or may not be lands. The player can discard one land and one other card or two land cards if they choose.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B19</No>
+<Name>Keldon Marauders</Name>
+<Type>Creature — Human Warrior 3/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player or planeswalker.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A20</No>
+<Name>Confiscate</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Enchant permanent (Target a permanent as you cast this. This card enters the battlefield attached to that permanent.)
+You control enchanted permanent.</CardText>
+<Flavor>"I don't understand why he works so hard on a device to duplicate a sound so easily made with hand and armpit."
+—Barrin, progress report</Flavor>
+<Artist>Adam Rex</Artist>
+<Rulings>2004/10/04: If you take control of an Aura, you do not get to move it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B20</No>
+<Name>Lava Spike</Name>
+<Type>Sorcery — Arcane</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Lava Spike deals 3 damage to target player or planeswalker.</CardText>
+<Flavor>Some kami attacks during the war were rife with trickery, subterfuge, and subtlety, draining hope and pride from the mortal world. Other attacks were a lot more straightforward.</Flavor>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A21</No>
+<Name>Copy Enchantment</Name>
+<Type>Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>You may have Copy Enchantment enter the battlefield as a copy of any enchantment on the battlefield.</CardText>
+<Flavor>Simic mages create redundant backups of their experiments to reduce the consequences of catastrophe.</Flavor>
+<Artist>Joel Thomas</Artist>
+<Rulings>2005/10/01: If you choose an Aura, you also choose a legal permanent for the <Copy Enchantment> copy of it to enchant. <Copy Enchantment> doesn't target that permanent, however, so it can enter the battlefield attached to an untargetable creature.
+2005/10/01: If you choose an Aura and there isn't a legal permanent for it to enchant, you put <Copy Enchantment> into your graveyard. It never enters the battlefield.
+2005/10/01: If you don't choose an enchantment, <Copy Enchantment> enters the battlefield without copying anything, and it sits there with a useless ability.
+2006/04/01: If this is copying a Genju, such as Genju of the Fields, and the land this enchants goes to the graveyard, you will return the <Copy Enchantment> to your hand.
+2006/07/01: Copies all copiable values, to include mana cost, so if you copy Dream Leash, for example, the converted mana cost of <Copy Enchantment> will be 5.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B21</No>
+<Name>Lightning Bolt</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Lightning Bolt deals 3 damage to any target.</CardText>
+<Artist>Christopher Moeller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A22</No>
+<Name>Court Hussar</Name>
+<Type>Creature — Vedalken Knight 1/3</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Vigilance
+When Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.
+When Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.</CardText>
+<Artist>Ron Spears</Artist>
+<Rulings>2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B22</No>
+<Name>Magma Jet</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Magma Jet deals 2 damage to any target. Scry 2.</CardText>
+<Artist>Maciej Kuciara</Artist>
+<Rulings>2013/09/15: When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom.
+2013/09/15: You choose how to order cards returned to your library after scrying no matter where you put them.
+2013/09/15: You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions.
+2013/09/15: Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A23</No>
+<Name>Fact or Fiction</Name>
+<Type>Instant</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2016/06/08: You choose which pile to put into your hand.
+2016/06/08: Each pile may contain from zero to five cards; they don't have to be split "evenly."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B23</No>
+<Name>Price of Progress</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.</CardText>
+<Flavor>Man versus nature is not a fair fight.</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A24</No>
+<Name>Hinder</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.</CardText>
+<Flavor>"Do not react to force in kind. Turn it aside. Direct it to where it can do no harm."
+—Meloku the Clouded Mirror</Flavor>
+<Artist>Wayne Reynolds</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B24</No>
+<Name>Pyroblast</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Choose one —
+• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.</CardText>
+<Flavor>"Just the thing for those pesky water mages."
+—Jaya Ballard, Task Mage</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.
+2016/06/08: <Pyroblast> can target any spell or permanent, not just a blue one. It checks the color of the target only on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A25</No>
+<Name>Looter il-Kor</Name>
+<Type>Creature — Kor Rogue 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Looter il-Kor deals damage to an opponent, draw a card, then discard a card.</CardText>
+<Flavor>Unable to touch items of value, he goes forth to steal secrets instead.</Flavor>
+<Artist>Mike Dringenberg</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B25</No>
+<Name>Pyrostatic Pillar</Name>
+<Type>Enchantment</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever a player casts a spell with converted mana cost 3 or less, Pyrostatic Pillar deals 2 damage to that player.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A26</No>
+<Name>Man-o'-War</Name>
+<Type>Creature — Jellyfish 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</CardText>
+<Flavor>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philosopher</Flavor>
+<Artist>Jon J Muth</Artist>
+<Rulings>2016/06/08: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B26</No>
+<Name>Rift Bolt</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Rift Bolt deals 3 damage to any target.
+Suspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</CardText>
+<Artist>Michael Sutfin</Artist>
+<Rulings>2013/06/07: You can exile a card in your hand using suspend any time you could cast that card. Consider its card type, any effect that affects when you could cast it (such as flash) and any other effects that could stop you from casting it (such as Meddling Mage's effect) to determine if and when you can do this. Whether or not you could actually complete all steps in casting the card is irrelevant. For example, you can exile a card with suspend that has no mana cost or requires a target even if no legal targets are available at that time.
+2013/06/07: Exiling a card with suspend isn't casting that card. This action doesn't use the stack and can't be responded to.
+2013/06/07: If the spell requires any targets, those targets are chosen when the spell is finally cast, not when it's exiled.
+2013/06/07: If the first triggered ability of suspend (the one that removes time counters) is countered, no time counter is removed. The ability will trigger again during the card's owner's next upkeep.
+2013/06/07: When the last time counter is removed, the second triggered ability of suspend will trigger. It doesn't matter why the last time counter was removed or what effect removed it.
+2013/06/07: If the second triggered ability of suspend (the one that lets you cast the card) is countered, the card can't be cast. It remains exiled with no time counters on it, and it's no longer suspended.
+2013/06/07: As the second triggered ability resolves, you must cast the card if able. Timing restrictions based on the card's type are ignored.
+2013/06/07: If you can't cast the card, perhaps because there are no legal targets available, it remains exiled with no time counters on it, and it's no longer suspended.
+2013/06/07: If the spell has any mandatory additional costs, you must pay those if able. However, if an additional cost includes a mana payment, you are forced to pay that cost only if there's enough mana in your mana pool at the time you cast the spell. You aren't forced to activate any mana abilities, although you may do so if you wish.
+2013/06/07: A creature cast using suspend will enter the battlefield with haste. It will have haste until another player gains control of it (or, in some rare cases, gains control of the creature spell itself).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A27</No>
+<Name>Merfolk Looter</Name>
+<Type>Creature — Merfolk Rogue 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{T}: Draw a card, then discard a card.</CardText>
+<Flavor>In the depths of Rootwater, salvage and sewage differ only in texture.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Rulings>2018/03/16: You can't do anything in between drawing a card and discarding a card, including casting or cycling the card you drew.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B27</No>
+<Name>Aether Vial</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>At the beginning of your upkeep, you may put a charge counter on Aether Vial.
+{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.</CardText>
+<Artist>Greg Hildebrandt</Artist>
+<Rulings>2017/11/17: If <Aether Vial> leaves the battlefield while its second ability is on the stack, use its last known number of charge counters to determine what you may put from your hand onto the battlefield.
+2017/11/17: If a card in a player's hand has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A28</No>
+<Name>Mulldrifter</Name>
+<Type>Creature — Elemental 2/2</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Flying
+When Mulldrifter enters the battlefield, draw two cards.
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</CardText>
+<Artist>Eric Fortune</Artist>
+<Rulings>2018/07/13: Evoke is an alternative cost to cast the spell with evoke. It can't be combined with other alternative costs, such as casting a spell "without paying its mana cost."
+2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost (such as an evoke cost) you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/07/13: If a creature with evoke enters the battlefield without being cast, you won't have to sacrifice it.
+2018/07/13: The ability that causes you to sacrifice an evoked creature is a triggered ability. Players may respond to this triggered ability while the creature is still on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B28</No>
+<Name>Bonesplitter</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +2/+0.
+Equip {1}</CardText>
+<Artist>Darrell Riche</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A29</No>
+<Name>Overwhelming Intellect</Name>
+<Type>Instant</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Counter target creature spell. Draw cards equal to that spell's converted mana cost.</CardText>
+<Flavor>"My brain hurts."</Flavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B29</No>
+<Name>Relic of Progenitus</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Target player exiles a card from their graveyard.
+{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.</CardText>
+<Flavor>Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.</Flavor>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Rulings>2016/06/08: If you activate <Relic of Progenitus>'s first ability, the targeted player chooses which card to exile. The choice is made as the ability resolves.
+2016/06/08: You can activate <Relic of Progenitus>'s second ability even if no players have any cards in their graveyards. You'll still draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A30</No>
+<Name>Raven Familiar</Name>
+<Type>Creature — Bird 1/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Flying
+Echo {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Rulings>2004/10/04: This is not a draw.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B30</No>
+<Name>Umezawa's Jitte</Name>
+<Type>Legendary Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
+Remove a charge counter from Umezawa's Jitte: Choose one —
+• Equipped creature gets +2/+2 until end of turn.
+• Target creature gets -1/-1 until end of turn.
+• You gain 2 life.
+Equip {2}</CardText>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2005/02/01: <Umezawa's Jitte>'s activated ability generates a modal choice. The choice is made when the ability is activated.
+2005/02/01: If the "target creature gets -1/-1 until end of turn" mode is chosen, the target creature must also be announced.
+2005/02/01: The ability can be used any time <Umezawa's Jitte>'s controller has priority — only the "target creature" choice has additional requirements. Choosing the "Equipped creature gets +2/+2 until end of turn" mode does nothing if the Jitte isn't equipped to a creature when the ability resolves.
+2005/02/01: If the Jitte is moved after the "+2/+2" mode is announced but before it resolves, the bonus is given to the creature that is equipped when the ability resolves.
+2005/02/01: If the Jitte leaves the battlefield after the "+2/+2" mode is announced but before it resolves, the bonus is given to the creature that was most recently equipped once the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A31</No>
+<Name>Rhystic Study</Name>
+<Type>Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.</CardText>
+<Flavor>Friends teach what you want to know. Enemies teach what you need to know.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2004/10/04: The player gets the option to pay when this triggered ability resolves. This will be after the spell is announced, but before it resolves.
+2004/10/04: You don't have to decide whether or not you are drawing until after the player decides whether or not to pay.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B31</No>
+<Name>Flagstones of Trokair</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {W}.
+When Flagstones of Trokair is put into a graveyard from the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.</CardText>
+<Flavor>Dust-spiked winds eroded the stones, but the ground where they had stood still holds power.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A32</No>
+<Name>Shoreline Ranger</Name>
+<Type>Creature — Bird Soldier 3/4</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Flying
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Michael Sutfin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B32</No>
+<Name>Karakas</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {W}.
+{T}: Return target legendary creature to its owner's hand.</CardText>
+<Flavor>"To make a prairie it takes a clover and one bee,/ One clover, and a bee,/ And revery."
+—Emily Dickinson</Flavor>
+<Artist>Nicola Leonard</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A33</No>
+<Name>Willbender</Name>
+<Type>Creature — Human Wizard 1/2</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Willbender is turned face up, change the target of target spell or ability with a single target.</CardText>
+<Artist>Eric Peterson</Artist>
+<Rulings>2004/10/04: The trigger occurs when you use the Morph ability to turn the card face up, or when an effect turns it face up. It will not trigger on being revealed or on leaving the battlefield.
+2013/04/15: If a spell with split second is on the stack, you can still respond by turning this creature face up and targeting that spell with the trigger. This is because split second only stops players from casting spells or activating abilities, while turning a creature face up is a special action.
+2018/03/16: You don't choose the new target for the spell until <Willbender>'s triggered ability resolves. You must change the target if possible. However, you can't change the target to an illegal target. If there are no legal targets to choose from, the target isn't changed. It doesn't matter if the original target of that spell has somehow become illegal itself.
+2018/03/16: If a spell or ability targets multiple things, you can't target it with <Willbender>'s triggered ability, even if all but one of those targets have become illegal.
+2018/03/16: If a spell or ability targets the same player or object multiple times, you can't target it with <Willbender>'s ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B33</No>
+<Name>Mishra's Factory</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
+<Artist>Scott Chou</Artist>
+<Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.
+2016/06/08: Once turned into a creature, <Mishra's Factory>'s last ability can target itself. If it's already blocking, this won't remove it from combat.
+2016/06/08: If you turn <Mishra's Factory> into a creature but haven't controlled it continuously since your most recent turn began, you won't be able to activate its first or last ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A34</No>
+<Name>Abyssal Gatekeeper</Name>
+<Type>Creature — Horror 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Abyssal Gatekeeper dies, each player sacrifices a creature.</CardText>
+<Flavor>"There are two ways for me to pass this gate. One involves you remaining conscious."
+—Gerrard of the Weatherlight</Flavor>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: The "sacrifice a creature" effect is not targeted. It can affect creatures with protection from black, for example.
+2008/04/01: The player whose turn it is chooses a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all chosen creatures are sacrificed at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B34</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A35</No>
+<Name>All Hallow's Eve</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Exile All Hallow's Eve with two scream counters on it.
+At the beginning of your upkeep, if All Hallow's Eve is exiled with a scream counter on it, remove a scream counter from it. If there are no more scream counters on it, put it into your graveyard and each player returns all creature cards from their graveyard to the battlefield.</CardText>
+<Artist>Christopher Rush</Artist>
+<Rulings>2004/10/04: Since you can respond to triggered abilities, it is legal to sacrifice creatures using some spell or ability prior to resolving the ability that removes the final counter from <All Hallow's Eve>.
+2009/10/01: The only thing that happens when <All Hallow's Eve> resolves is that it's exiled with two scream counters on it.
+2009/10/01: <All Hallow's Eve>'s triggered ability functions from the exile zone. This ability has an "intervening 'if' clause." It won't trigger at all unless <All Hallow's Eve> is exiled and has a scream counter on it (which can happen only if it resolves as a spell).
+2009/10/01: Each creature returned to the battlefield by <All Hallow's Eve> enters the battlefield under its owner's control.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B35</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A36</No>
+<Name>Animate Dead</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Enchant creature card in a graveyard
+When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.
+Enchanted creature gets -1/-0.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Rulings>2016/06/08: <Animate Dead> is an Aura, albeit with an unusual enchant ability. You target a creature card in a graveyard when you cast it. It enters the battlefield attached to that card. Then it returns that card to the battlefield, and attaches itself to the card again (since the card is a new object on the battlefield). <Animate Dead> itself never moves into a graveyard during this process.
+2016/06/08: If <Animate Dead> isn't on the battlefield as its triggered ability resolves, none of its effects happen. The creature card won't be returned to the battlefield.
+2016/06/08: Abilities such as shroud and protection function only on the battlefield unless otherwise specified. A creature card with shroud may be targeted by <Animate Dead>, and <Animate Dead> will become attached to the creature that enters the battlefield.
+2016/06/08: If the creature put onto the battlefield has protection from black—or if the creature can't legally be enchanted by <Animate Dead> for another reason—<Animate Dead> won't be able to attach to it. It will be put into the graveyard as a state-based action, causing its delayed triggered ability to trigger. When the trigger resolves, if the creature's still on the battlefield, its controller will sacrifice it.
+2016/06/08: Once the creature is returned to the battlefield, <Animate Dead> can't be attached to anything other than it (unless <Animate Dead> somehow manages to put a different creature onto the battlefield). Attempting to move <Animate Dead> to another creature won't work.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B36</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>D. J. Cleland-Hura</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A37</No>
+<Name>Ashes to Ashes</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.</CardText>
+<Flavor>"All rivers eventually run to the sea. My job is to sort out who goes first."
+—Maeveen O'Donagh, Memoirs of a Soldier</Flavor>
+<Artist>Drew Tucker</Artist>
+<Rulings>2009/10/01: If one of the targeted creatures is an illegal target by the time <Ashes to Ashes> resolves, it still exiles the other one and deals 5 damage to you.
+2009/10/01: If both of the targeted creatures are illegal targets by the time <Ashes to Ashes> resolves, it's countered. It doesn't deal 5 damage to you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B37</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Don Hazeltine</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A38</No>
+<Name>Avatar of Woe</Name>
+<Type>Creature — Avatar 6/5</Type>
+<ManaCost>6BB (8)</ManaCost>
+<CardText>If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can't be regenerated.</CardText>
+<Artist>rk post</Artist>
+<Rulings>2004/10/04: The converted mana cost of this card is still 8, even if you only pay {B}{B} to cast it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B38</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Nils Hamm</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A39</No>
+<Name>Buried Alive</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.</CardText>
+<Flavor>"Is it worse to walk while dead, or to be buried alive? I have witnessed both."
+—Crovax</Flavor>
+<Artist>Brian Horton</Artist>
+<Rulings>2004/10/04: You can look in your library and then choose to find any number from zero to three creatures after you look at it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B39</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Karl Kopinski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A40</No>
+<Name>Carrion Feeder</Name>
+<Type>Creature — Zombie 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Carrion Feeder can't block.
+Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.</CardText>
+<Flavor>Stinking of rot, it leaps between gravestones in search of its next meal.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Rulings>2016/06/08: You can sacrifice <Carrion Feeder> to activate its own ability. The ability will have no effect as it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B40</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A41</No>
+<Name>Dread Return</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Return target creature card from your graveyard to the battlefield.
+Flashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>Those who forget the horrors of the past are doomed to re-meet them.</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>B41</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A42</No>
+<Name>Golgari Thug</Name>
+<Type>Creature — Human Warrior 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Golgari Thug dies, put target creature card from your graveyard on top of your library.
+Dredge 4 (If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2013/06/07: Dredge lets you replace any card draw, not just the one during your draw step.
+2013/06/07: Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard "in response." (Replacement effects don't use the stack.)
+2013/06/07: You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A43</No>
+<Name>Grim Harvest</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Return target creature card from your graveyard to your hand.
+Recover {2}{B} (When a creature is put into your graveyard from the battlefield, you may pay {2}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A44</No>
+<Name>Massacre</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>If an opponent controls a Plains and you control a Swamp, you may cast this spell without paying its mana cost.
+All creatures get -2/-2 until end of turn.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A45b</No>
+<Name>Nighteyes the Desecrator</Name>
+<Type>Legendary Creature — Rat Wizard 4/2</Type>
+<ColorIndicator>Black</ColorIndicator>
+<CardText>{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Nezumi Graverobber</OtherPart>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A45a</No>
+<Name>Nezumi Graverobber</Name>
+<Type>Creature — Rat Rogue 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Nighteyes the Desecrator</OtherPart>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A46</No>
+<Name>Phyrexian Arena</Name>
+<Type>Enchantment</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>At the beginning of your upkeep, you draw a card and you lose 1 life.</CardText>
+<Flavor>An audience of one with the malice of thousands.</Flavor>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A47</No>
+<Name>Reaping the Graves</Name>
+<Type>Instant</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Return target creature card from your graveyard to your hand.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
+2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
+2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
+2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.
+2013/06/07: You may choose new targets for any of the copies. You can choose differently for each copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A48</No>
+<Name>Shriekmaw</Name>
+<Type>Creature — Elemental 3/2</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</CardText>
+<Artist>Steve Prescott</Artist>
+<Rulings>2013/04/15: If you cast this card for its evoke cost, you may put the sacrifice trigger and the regular enters-the-battlefield trigger on the stack in either order. The one put on the stack last will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A49</No>
+<Name>Stinkweed Imp</Name>
+<Type>Creature — Imp 1/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Flying
+Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.
+Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Rulings>2013/06/07: Dredge lets you replace any card draw, not just the one during your draw step.
+2013/06/07: Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard "in response." (Replacement effects don't use the stack.)
+2013/06/07: You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard.
+2013/06/07: Notably, <Stinkweed Imp>'s ability isn't deathtouch. It's a triggered ability that triggers only on combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A50</No>
+<Name>Terror</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A51</No>
+<Name>Twisted Abomination</Name>
+<Type>Creature — Zombie Mutant 5/3</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>{B}: Regenerate Twisted Abomination.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Daren Bader</Artist>
+<Rulings>2016/06/08: Unlike the normal cycling ability, Swampcycling doesn't allow you to draw a card. Instead, it lets you search your library for a Swamp card. After you find a Swamp card in your library, you reveal it, put it into your hand, then shuffle your library.
+2016/06/08: Swampcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Swampcycling this card. Any ability that stops a cycling ability from being activated also stops Swampcycling from being activated.
+2016/06/08: Swampcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Swampcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2016/06/08: You can choose to find any card with the Swamp land type, including nonbasic lands. You can also choose not to find a card, even if there is a Swamp card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A52</No>
+<Name>Anarchist</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.</CardText>
+<Flavor>Those who will not follow are doomed to lead.</Flavor>
+<Artist>Brom</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A53</No>
+<Name>Ancient Grudge</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Destroy target artifact.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>The time rifts remind Yavimaya of the enemies of its past and provide fresh fuel for its fires.</Flavor>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A54</No>
+<Name>Anger</Name>
+<Type>Creature — Incarnation 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Haste
+As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.</CardText>
+<Flavor>"For its time as a mortal, Anger chose a shell of boiling rock."
+—Scroll of Beginnings</Flavor>
+<Artist>John Avon</Artist>
+<Rulings>2004/10/04: The timestamp for the "in your graveyard" ability is set at the time that this card goes to your graveyard, regardless of whether you control a Mountain at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A55</No>
+<Name>Chain Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Chain Lightning deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.</CardText>
+<Artist>Sandra Everingham</Artist>
+<Rulings>2004/10/04: The player putting the copy spell on the stack controls that spell.
+2004/10/04: The spell copy has all the text and can result in itself being copied.
+2004/10/04: The copy is a spell, so it can be targeted by other spells and abilities that target a spell.
+2016/06/08: As <Chain Lightning> resolves, the targeted player or the controller of the targeted creature may copy it. The copy has the same text, target, and color of the resolving spell, though the player who's copying it may choose a new target for it. Once that copy is created (or not), the first <Chain Lightning> has finished resolving and leaves the stack.
+2016/06/08: The player putting the copy of the spell on the stack controls that copy.
+2016/06/08: The copy of <Chain Lightning> is created on the stack, so it's not cast. Abilities that trigger when a player casts a spell won't trigger. Players may respond to that spell before it resolves.
+2016/06/08: If the targeted permanent or player is an illegal target when <Chain Lightning> tries to resolve, the spell doesn't resolve. It can't be copied.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A56</No>
+<Name>Chartooth Cougar</Name>
+<Type>Creature — Cat Beast 4/4</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>{R}: Chartooth Cougar gets +1/+0 until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Mountaincycling doesn't allow you to draw a card. Instead, it lets you search your library for a Mountain card. After you find a Mountain card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Mountaincycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Mountaincycling this card. Any ability that stops a cycling ability from being activated also stops Mountaincycling from being activated.
+2009/02/01: Mountaincycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Mountaincycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Mountain land type, including nonbasic lands. You can also choose not to find a card, even if there is a Mountain card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A57</No>
+<Name>Flametongue Kavu</Name>
+<Type>Creature — Kavu 4/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.</CardText>
+<Flavor>"For dim-witted, thick-skulled genetic mutants, they have pretty good aim."
+—Sisay, captain of the Weatherlight</Flavor>
+<Artist>Pete Venters</Artist>
+<Rulings>2004/10/04: If it enters the battlefield as the only targetable creature, it must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A58</No>
+<Name>Hissing Iguanar</Name>
+<Type>Creature — Lizard 3/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player or planeswalker.</CardText>
+<Flavor>Viashino thrashes keep iguanars as hunting companions, giving them wounded captives as playthings.</Flavor>
+<Artist>Brandon Kitkouski</Artist>
+<Rulings>2018/12/07: If <Hissing Iguanar> dies at the same time as another creature, <Hissing Iguanar>'s ability triggers.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A59</No>
+<Name>Keldon Vandals</Name>
+<Type>Creature — Human Rogue 4/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Keldon Vandals enters the battlefield, destroy target artifact.</CardText>
+<Flavor>Keldons divide all their spoils into two groups: trophies and catapult ammunition.</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A60</No>
+<Name>Lightning Bolt</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Lightning Bolt deals 3 damage to any target.</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A61</No>
+<Name>Resounding Thunder</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Resounding Thunder deals 3 damage to any target.
+Cycling {5}{B}{R}{G} ({5}{B}{R}{G}, Discard this card: Draw a card.)
+When you cycle Resounding Thunder, it deals 6 damage to any target.</CardText>
+<Artist>Jon Foster</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2008/10/01: You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A62</No>
+<Name>Borderland Ranger</Name>
+<Type>Creature — Human Scout 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</CardText>
+<Flavor>"Only fools and bandits use roads."</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A63</No>
+<Name>Brawn</Name>
+<Type>Creature — Incarnation 3/3</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Trample
+As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.</CardText>
+<Flavor>"'I have arrived,' bellowed Brawn, and the plane shuddered."
+—Scroll of Beginnings</Flavor>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A64</No>
+<Name>Civic Wayfinder</Name>
+<Type>Creature — Elf Druid Warrior 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</CardText>
+<Flavor>"These alleys are not safe. Come, I can guide you back to the market square."</Flavor>
+<Artist>Cyril Van Der Haegen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A65</No>
+<Name>Concordant Crossroads</Name>
+<Type>World Enchantment</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>All creatures have haste.</CardText>
+<Artist>Amy Weber</Artist>
+<Rulings>2008/10/01: This has the supertype world. When a world permanent enters the battlefield, any world permanents that were already on the battlefield are put into their owners' graveyards. This is a state-based action called the "world rule." The new world permanent stays on the battlefield. If two world permanents enter the battlefield at the same time, they're both put into their owners' graveyards.
+2009/10/01: This ability affects all creatures, not just the ones you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A66</No>
+<Name>Constant Mists</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Prevent all combat damage that would be dealt this turn.</CardText>
+<Artist>Dermot Power</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A67</No>
+<Name>Edge of Autumn</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)</CardText>
+<Flavor>"At harvest are seeds of next year sown."</Flavor>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A68</No>
+<Name>Elven Cache</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Return target card from your graveyard to your hand.</CardText>
+<Flavor>"The elves can hide better than most can look."
+—Mwani, Mtenda herder</Flavor>
+<Artist>John Matson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A69</No>
+<Name>Elvish Visionary</Name>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>When Elvish Visionary enters the battlefield, draw a card.</CardText>
+<Flavor>"From a tiny sprout, the greatest trees grow and flourish. May the seeds of your mind be equally fruitful."</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A70</No>
+<Name>Eternal Witness</Name>
+<Type>Creature — Human Shaman 2/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.</CardText>
+<Flavor>She remembers every word spoken, from the hero's oath to the baby's cry.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2018/12/07: If an instant or sorcery spell puts <Eternal Witness> onto the battlefield, its ability can target that card in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A71</No>
+<Name>Explosive Vegetation</Name>
+<Type>Sorcery</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</CardText>
+<Flavor>Torching Krosa would be pointless. It grows faster than it burns.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A72</No>
+<Name>Fertile Ground</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.</CardText>
+<Flavor>The forest was too lush for the brothers to despoil —almost.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A73</No>
+<Name>Genesis</Name>
+<Type>Creature — Incarnation 4/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.</CardText>
+<Flavor>"First through the Riftstone was Genesis —and the world was lifeless no more."
+—Scroll of Beginnings</Flavor>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A74</No>
+<Name>Golgari Grave-Troll</Name>
+<Type>Creature — Troll Skeleton 0/0</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.
+{1}, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll.
+Dredge 6 (If you would draw a card, instead you may put exactly six cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</CardText>
+<Artist>Greg Hildebrandt</Artist>
+<Rulings>2013/06/07: Dredge lets you replace any card draw, not just the one during your draw step.
+2013/06/07: Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard "in response." (Replacement effects don't use the stack.)
+2013/06/07: You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard.
+2018/12/07: If you return <Golgari Grave-Troll> from your graveyard directly to the battlefield, its first ability counts itself.
+2018/12/07: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to <Golgari Grave-Troll> may become lethal if you return remove +1/+1 counters from it during that turn. In this case, it dies before you can resolve the activated ability that will regenerate it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A75</No>
+<Name>Harmonize</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Draw three cards.</CardText>
+<Flavor>"Life's greatest lessons don't come from focus or concentration. They come from breathing and simply noticing."
+—Seton, centaur druid</Flavor>
+<Artist>Rob Alexander</Artist>
+<Rulings>2007/02/01: This is the timeshifted version of Concentrate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A76</No>
+<Name>Jungle Lion</Name>
+<Type>Creature — Cat 2/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Jungle Lion can't block.</CardText>
+<Flavor>The lion's only loyalty is to its hunger.</Flavor>
+<Artist>Janine Johnston</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A77</No>
+<Name>Kodama's Reach</Name>
+<Type>Sorcery — Arcane</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.</CardText>
+<Flavor>"The land grows only where the kami will it."
+—Dosan the Falling Leaf</Flavor>
+<Artist>Heather Hudson</Artist>
+<Rulings>2004/12/01: You can get just one basic land card if you wish (or even none at all). If you get only one land card, you put it onto the battlefield tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A78</No>
+<Name>Krosan Tusker</Name>
+<Type>Creature — Boar Beast 6/5</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A79</No>
+<Name>Life from the Loam</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Return up to three target land cards from your graveyard to your hand.
+Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2013/06/07: Dredge lets you replace any card draw, not just the one during your draw step.
+2013/06/07: Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard "in response." (Replacement effects don't use the stack.)
+2013/06/07: You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A80</No>
+<Name>Moment's Peace</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Prevent all combat damage that would be dealt this turn.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A81</No>
+<Name>Penumbra Bobcat</Name>
+<Type>Creature — Cat 2/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Penumbra Bobcat dies, create a 2/1 black Cat creature token.</CardText>
+<Flavor>This cat has two lives and it's hunting for more.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A82</No>
+<Name>Phantom Centaur</Name>
+<Type>Creature — Centaur Spirit 2/0</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Protection from black
+Phantom Centaur enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2004/10/04: If this card is going to take damage from a black source, you can choose to apply Protection from Black's damage prevention ability prior to applying this card's built-in ability. This means you don't have to remove a counter.
+2004/10/04: If this card takes damage from multiple sources at once (for example if it is blocked by multiple creatures in combat), it only loses one counter.
+2004/10/04: If unpreventable damage is applied to this card, you still remove a counter even though the prevention fails.
+2004/10/04: Remove one counter each time it would be damaged. If it was going to take more than one point of damage, you prevent all the damage and still only remove one counter.
+2004/10/04: The damage prevention ability works even if it has no counters, as long as some effect keeps its toughness above zero.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A83</No>
+<Name>Rampant Growth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>Rath forces plants from its surface as one presses whey from cheese.</Flavor>
+<Artist>Tom Kyffin</Artist>
+<Rulings>2004/10/04: The land does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A84</No>
+<Name>Recollect</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Return target card from your graveyard to your hand.</CardText>
+<Flavor>"The bones of the past will tell their tales —if you know how to speak their language."
+—Savra</Flavor>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A85</No>
+<Name>Rootbreaker Wurm</Name>
+<Type>Creature — Wurm 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
+<Flavor>As Gerrard made his escape, the wurm covered his flight by helping itself to three great mouthfuls of merfolk.</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A86</No>
+<Name>Sakura-Tribe Elder</Name>
+<Type>Creature — Snake Shaman 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.</CardText>
+<Flavor>There were no tombstones in orochi territory. Slain warriors were buried with a tree sapling, so they would become a part of the forest after death.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A87</No>
+<Name>Werebear</Name>
+<Type>Creature — Human Bear Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add {G}.
+Threshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.</CardText>
+<Flavor>He exercises his right to bear arms.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A88</No>
+<Name>Wickerbough Elder</Name>
+<Type>Creature — Treefolk Shaman 4/4</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Wickerbough Elder enters the battlefield with a -1/-1 counter on it.
+{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.</CardText>
+<Flavor>"Living scarecrows make a mockery of the natural order. Dead ones make fine hats."</Flavor>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2018/12/07: You must choose a target artifact or enchantment to activate <Wickerbough Elder>'s last ability. You can't pay {G} just to remove a -1/-1 counter from it without a legal target.
+2018/12/07: If an effect puts <Wickerbough Elder> onto the battlefield with one or more +1/+1 counters, its -1/-1 counter and one of those +1/+1 counters are removed as a state-based action before you can activate its ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A89</No>
+<Name>Wild Mongrel</Name>
+<Type>Creature — Hound 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.</CardText>
+<Flavor>It teaches you to play dead.</Flavor>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A90</No>
+<Name>Wirewood Guardian</Name>
+<Type>Creature — Elf Mutant 6/6</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)</CardText>
+<Flavor>Tall as a tree and probably related.</Flavor>
+<Artist>Mark Tedin</Artist>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Forestcycling doesn't allow you to draw a card. Instead, it lets you search your library for a Forest card. After you find a Forest card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Forestcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Forestcycling this card. Any ability that stops a cycling ability from being activated also stops Forestcycling from being activated.
+2009/02/01: Forestcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Forestcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Forest land type, including nonbasic lands. You can also choose not to find a card, even if there is a Forest card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A91</No>
+<Name>Wood Elves</Name>
+<Type>Creature — Elf Scout 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.</CardText>
+<Flavor>Secure in the embrace of wood, they want no part of Eladamri's war.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A92</No>
+<Name>Yavimaya Elder</Name>
+<Type>Creature — Human Druid 2/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+{2}, Sacrifice Yavimaya Elder: Draw a card.</CardText>
+<Artist>Ray Lago</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A93</No>
+<Name>Yavimaya Enchantress</Name>
+<Type>Creature — Human Druid 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.</CardText>
+<Flavor>From each seed, a world. From each world, a thousand seeds.</Flavor>
+<Artist>Matthew D. Wilson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A94</No>
+<Name>Armadillo Cloak</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1GW (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature deals damage, you gain that much life.</CardText>
+<Flavor>"Don't laugh. It works."
+—Yavimaya ranger</Flavor>
+<Artist>Paolo Parente</Artist>
+<Rulings>2016/06/08: While <Armadillo Cloak>'s last ability is similar to lifelink, it isn't lifelink—it's a normal triggered ability. If a creature you control with lifelink wears an <Armadillo Cloak> and deals damage, first you'll gain that much life for lifelink, and then <Armadillo Cloak>'s triggered ability is put onto the stack. This also means that multiple instances of <Armadillo Cloak>'s triggered ability do trigger separately.
+2016/06/08: If <Armadillo Cloak> enchants a creature you don't control, you'll gain life when it deals damage, as long as that damage hasn't already caused you to lose the game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A95</No>
+<Name>Azorius Guildmage</Name>
+<Type>Creature — Vedalken Wizard 2/2</Type>
+<ManaCost>{W/U}{W/U} (2)</ManaCost>
+<CardText>{2}{W}: Tap target creature.
+{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)</CardText>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A96</No>
+<Name>Cauldron Dance</Name>
+<Type>Instant</Type>
+<ManaCost>4BR (6)</ManaCost>
+<CardText>Cast this spell only during combat.
+Return target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
+You may put a creature card from your hand onto the battlefield. That creature gains haste. Its controller sacrifices it at the beginning of the next end step.</CardText>
+<Artist>Donato Giancola</Artist>
+<Rulings>2004/10/04: If the targeted creature card in the graveyard is removed before resolution, this spell won't resolve since its only target will be invalid.
+2004/10/04: You can cast this spell when you have no creature card in your hand. If this happens, simply ignore that part of the spell. You still put the graveyard creature onto the battlefield and still return it to your hand at the beginning of the end step.
+2004/10/04: You must have a creature in your graveyard to cast this spell since it requires a valid target.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A97</No>
+<Name>Coiling Oracle</Name>
+<Type>Creature — Snake Elf Druid 1/1</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.</CardText>
+<Flavor>Snaking remnants of nature directed by a body of thought and progress, the oracles embody all that is Simic.</Flavor>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A98</No>
+<Name>Fires of Yavimaya</Name>
+<Type>Enchantment</Type>
+<ManaCost>1RG (3)</ManaCost>
+<CardText>Creatures you control have haste.
+Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</CardText>
+<Artist>Val Mayerik</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A99</No>
+<Name>Jungle Barrier</Name>
+<Type>Creature — Plant Wall 2/6</Type>
+<ManaCost>2GU (4)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+When Jungle Barrier enters the battlefield, draw a card.</CardText>
+<Flavor>A massive pull of mana caused all of Dominaria to pause —Multani had transplanted Yavimaya to Urborg's edge.</Flavor>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A100</No>
+<Name>Mirari's Wake</Name>
+<Type>Enchantment</Type>
+<ManaCost>3GW (5)</ManaCost>
+<CardText>Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana of any type that land produced.</CardText>
+<Flavor>The land drank power from the Mirari as though it had thirsted forever.</Flavor>
+<Artist>David Martin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A101</No>
+<Name>Mistmeadow Witch</Name>
+<Type>Creature — Kithkin Wizard 1/1</Type>
+<ManaCost>1{W/U} (2)</ManaCost>
+<CardText>{2}{W}{U}: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Flavor>Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A102</No>
+<Name>Putrefy</Name>
+<Type>Instant</Type>
+<ManaCost>1BG (3)</ManaCost>
+<CardText>Destroy target artifact or creature. It can't be regenerated.</CardText>
+<Flavor>"All matter, animate or not, rots when exposed to time. We merely speed up the process."
+—Ezoc, Golgari rot farmer</Flavor>
+<Artist>Jim Nelson</Artist>
+<Rulings>2006/02/01: This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an artifact, even if it changed from one to the other between targeting and resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A103</No>
+<Name>Questing Phelddagrif</Name>
+<Type>Creature — Phelddagrif 4/4</Type>
+<ManaCost>1GWU (4)</ManaCost>
+<CardText>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent creates a 1/1 green Hippo creature token.
+{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.
+{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A104</No>
+<Name>Rubinia Soulsinger</Name>
+<Type>Legendary Creature — Faerie 2/3</Type>
+<ManaCost>2GWU (5)</ManaCost>
+<CardText>You may choose not to untap Rubinia Soulsinger during your untap step.
+{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.</CardText>
+<Artist>Rob Alexander</Artist>
+<Rulings>2009/10/01: If <Rubinia Soulsinger> leaves the battlefield, you no longer control it, so the duration of its control-change effect ends.
+2009/10/01: If <Rubinia Soulsinger> stops being tapped before its ability resolves — even if it becomes tapped again right away — you won't gain control of the targeted creature at all. The same is true if you lose control of <Rubinia Soulsinger> before the ability resolves.
+2009/10/01: Once the ability resolves, it doesn't care whether the targeted permanent remains a legal target for the ability, only that it's on the battlefield. The effect will continue to apply to it even if it gains shroud, stops being a creature, or would no longer be a legal target for any other reason.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A105</No>
+<Name>Shambling Shell</Name>
+<Type>Creature — Plant Zombie 3/1</Type>
+<ManaCost>1BG (3)</ManaCost>
+<CardText>Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.
+Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</CardText>
+<Artist>Joel Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A106</No>
+<Name>Sterling Grove</Name>
+<Type>Enchantment</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Other enchantments you control have shroud. (They can't be the targets of spells or abilities.)
+{1}, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</CardText>
+<Artist>Jeff Miracola</Artist>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A107</No>
+<Name>Temporal Spring</Name>
+<Type>Sorcery</Type>
+<ManaCost>1GU (3)</ManaCost>
+<CardText>Put target permanent on top of its owner's library.</CardText>
+<Flavor>One splash of the spring's water knocks you clear into last week.</Flavor>
+<Artist>John Matson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A108</No>
+<Name>Terminate</Name>
+<Type>Instant</Type>
+<ManaCost>BR (2)</ManaCost>
+<CardText>Destroy target creature. It can't be regenerated.</CardText>
+<Flavor>Like his mother before him, Darigaaz gave his life defending Dominaria from the tyranny of self-styled "gods."</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A109</No>
+<Name>Vampiric Dragon</Name>
+<Type>Creature — Vampire Dragon 5/5</Type>
+<ManaCost>6BR (8)</ManaCost>
+<CardText>Flying
+Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.
+{1}{R}: Vampiric Dragon deals 1 damage to target creature.</CardText>
+<Artist>Gary Ruddell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A110</No>
+<Name>Xira Arien</Name>
+<Type>Legendary Creature — Insect Wizard 1/2</Type>
+<ManaCost>BRG (3)</ManaCost>
+<CardText>Flying
+{B}{R}{G}, {T}: Target player draws a card.</CardText>
+<Flavor>A regular guest at the Royal Masquerade, Arien is the envy of the Court. She appears in a new costume every hour.</Flavor>
+<Artist>Melissa A. Benson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A111</No>
+<Name>Azorius Signet</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Add {W}{U}.</CardText>
+<Flavor>The maze-like design embodies the core of Azorius law —strict structure designed to test wills and stall change.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A112</No>
+<Name>Golgari Signet</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Add {B}{G}.</CardText>
+<Flavor>Depending on your point of view, the seal represents a proud guardian of the natural cycle or one who has sold her soul to darkness for eternal life.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A113</No>
+<Name>Gruul Signet</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Add {R}{G}.</CardText>
+<Flavor>Gruul territorial markings need not be legible. The blood, snot, and muck used to smear them are unmistakably Gruul.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A114</No>
+<Name>Illusionary Mask</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Amy Weber</Artist>
+<Rulings>2004/10/04: The creature's "enters the battlefield" abilities (and any other abilities relating to the creature entering the battlefield) do not trigger when it turns face up.
+2004/10/04: Only the controller of the face down creature can look at it.
+2004/10/04: The creature enters the battlefield face down, so none of its "enters the battlefield" abilities will trigger or have any effect. Also none of its "As this enters the battlefield" abilities apply.
+2009/10/01: <Illusionary Mask>'s ability will continue to apply to creatures cast face down with it, even if <Illusionary Mask> has left the battlefield.
+2009/10/01: While the creature card is face down, it's a 2/2 creature with no name, mana cost, color, creature type, abilities, or expansion symbol. Since it has no mana cost, its converted mana cost is 0.
+2009/10/01: You may look at a face-down spell or permanent you control at any time.
+2009/10/01: You can turn a face-down permanent face up if it would have morph while face up. This applies to creatures you cast face down as a result of <Illusionary Mask>'s effect. The rest of <Illusionary Mask>'s effect applies to it as well.
+2009/10/01: If you use the ability to cast a creature card face down, you must keep track of the amount and types of mana you spent on {X}. If that creature spell is moved from the stack to anywhere other than the battlefield, the resulting creature leaves the battlefield, or the game ends, the face-down card is revealed. If its mana cost couldn't be paid by some amount of, or all of, the mana you spent on {X}, all applicable penalties for casting a card illegally are assessed.
+2009/10/01: You actually cast the card face-down, much as when playing a spell with Morph. It can be responded to and countered.
+2009/10/01: The effect that turns it face-up is a replacement effect. It doesn't use the stack and can't be responded to.
+2009/10/01: You may not turn a face-down spell face up. You may not turn a face-down permanent face up unless it would have morph while face up or an effect specifically allows you to turn it face up. <Illusionary Mask>'s ability has you turn a face-down creature face up if it would assign damage, deal damage, be dealt damage, or become tapped, but not for any other reason. For example, if you use <Illusionary Mask>'s ability to cast a black creature face down, you can't turn it face up just because it's being targeted by Terror.
+2009/10/01: Both the amount and types of mana you spend on {X} are taken into account while you're choosing a creature card from your hand. For example, if you spent {U}{U} on {X}, you can choose a creature card with mana cost {U}{U}, {1}{U}, {2}, or {W/U}{W/U}, among other possibilities, but not one that costs {2}{U} or one that costs {G}.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A115</No>
+<Name>Lightning Greaves</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Rulings>2013/04/15: You are not allowed to "unequip" equipment from a creature. If <Lightning Greaves> is attached to the only creature you control, you won't be able to attach other equipment to it (or target it with anything else) until you have another creature onto which you can move <Lightning Greaves>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A116</No>
+<Name>Rakdos Signet</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Add {B}{R}.</CardText>
+<Flavor>Made of bone and boiled in blood, a Rakdos signet is not considered finished until it has been used as a murder weapon.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A117</No>
+<Name>Relic of Progenitus</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Target player exiles a card from their graveyard.
+{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.</CardText>
+<Flavor>Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.</Flavor>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Rulings>2016/06/08: If you activate <Relic of Progenitus>'s first ability, the targeted player chooses which card to exile. The choice is made as the ability resolves.
+2016/06/08: You can activate <Relic of Progenitus>'s second ability even if no players have any cards in their graveyards. You'll still draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A118</No>
+<Name>Selesnya Signet</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Add {G}{W}.</CardText>
+<Flavor>The symbol of the Conclave is one of unity, with tree supporting sun and sun feeding tree.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A119</No>
+<Name>Simic Signet</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Add {G}{U}.</CardText>
+<Flavor>For the Simic Combine, its sigil serves not as an emblem of honor but as a trademark. Its familiar image on any biological commodity attests to superb craftsmanship, ingenious innovation, and higher cost.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A120</No>
+<Name>Skullclamp</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}</CardText>
+<Flavor>The mind is a beautiful bounty encased in an annoying bone container.</Flavor>
+<Artist>Luca Zontini</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Modern>Banned</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A121</No>
+<Name>Azorius Chancery</Name>
+<Type>Land</Type>
+<CardText>Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{U}.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A122</No>
+<Name>Bant Panorama</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>Bant's hearts are as pure as its air and as bright as its skies.</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A123</No>
+<Name>Barren Moor</Name>
+<Type>Land</Type>
+<CardText>Barren Moor enters the battlefield tapped.
+{T}: Add {B}.
+Cycling {B} ({B}, Discard this card: Draw a card.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A124</No>
+<Name>Coastal Tower</Name>
+<Type>Land</Type>
+<CardText>Coastal Tower enters the battlefield tapped.
+{T}: Add {W} or {U}.</CardText>
+<Flavor>The Capashen built the highest towers in Benalia to afford themselves the best view.</Flavor>
+<Artist>Don Hazeltine</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A125</No>
+<Name>Darigaaz's Caldera</Name>
+<Type>Land — Lair</Type>
+<CardText>When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {B}, {R}, or {G}.</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Rulings>2004/10/04: If you don't want to unsummon a land, you can play this card then tap it for mana before the enters the battlefield ability resolves. You may then choose to sacrifice it instead of unsummoning a land.
+2005/08/01: This land is of type "Lair" only; other subtypes have been removed. It is not a basic land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A126</No>
+<Name>Elfhame Palace</Name>
+<Type>Land</Type>
+<CardText>Elfhame Palace enters the battlefield tapped.
+{T}: Add {G} or {W}.</CardText>
+<Flavor>Llanowar has seven elfhames, or kingdoms, each with its own ruler. Their palaces are objects of awe, wonder, and envy.</Flavor>
+<Artist>Jerry Tiritilli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A127</No>
+<Name>Forgotten Cave</Name>
+<Type>Land</Type>
+<CardText>Forgotten Cave enters the battlefield tapped.
+{T}: Add {R}.
+Cycling {R} ({R}, Discard this card: Draw a card.)</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A128</No>
+<Name>Ghost Quarter</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.</CardText>
+<Flavor>Where wasted life cries out to be reborn.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Rulings>2006/05/01: If you target <Ghost Quarter> with its own ability, the ability won't resolve because its target is no longer on the battlefield. You won't get to search for a land card.
+2011/09/22: If the targeted land is an illegal target by the time <Ghost Quarter>'s ability resolves, it won't resolve and none of its effects will happen. The land's controller won't get to search for a basic land card.
+2013/07/01: The target land's controller gets to search for a basic land card even if that land wasn't destroyed by <Ghost Quarter>'s ability. This may happen because the land has indestructible or because it was regenerated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A129</No>
+<Name>Golgari Rot Farm</Name>
+<Type>Land</Type>
+<CardText>Golgari Rot Farm enters the battlefield tapped.
+When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {B}{G}.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A130</No>
+<Name>Gruul Turf</Name>
+<Type>Land</Type>
+<CardText>Gruul Turf enters the battlefield tapped.
+When Gruul Turf enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{G}.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A131</No>
+<Name>Jund Panorama</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<Flavor>The sky is the dragon's throne, the seat from which it issues its fiery decrees.</Flavor>
+<Artist>Jaime Jones</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A132</No>
+<Name>Miren, the Moaning Well</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {C}.
+{3}, {T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A133</No>
+<Name>Rakdos Carnarium</Name>
+<Type>Land</Type>
+<CardText>Rakdos Carnarium enters the battlefield tapped.
+When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {B}{R}.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A134</No>
+<Name>Rupture Spire</Name>
+<Type>Land</Type>
+<CardText>Rupture Spire enters the battlefield tapped.
+When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.</CardText>
+<Artist>Jaime Jones</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A135</No>
+<Name>Savage Lands</Name>
+<Type>Land</Type>
+<CardText>Savage Lands enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}.</CardText>
+<Flavor>Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.</Flavor>
+<Artist>Vance Kovacs</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A136</No>
+<Name>Seaside Citadel</Name>
+<Type>Land</Type>
+<CardText>Seaside Citadel enters the battlefield tapped.
+{T}: Add {G}, {W}, or {U}.</CardText>
+<Flavor>For wisdom's sake, it was built high to gaze on all things. For glory's sake, it was built high as a testament of power. For strength's sake, it was built high to repel all attacks.</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A137</No>
+<Name>Selesnya Sanctuary</Name>
+<Type>Land</Type>
+<CardText>Selesnya Sanctuary enters the battlefield tapped.
+When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{W}.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A138</No>
+<Name>Simic Growth Chamber</Name>
+<Type>Land</Type>
+<CardText>Simic Growth Chamber enters the battlefield tapped.
+When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{U}.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A139</No>
+<Name>Terramorphic Expanse</Name>
+<Type>Land</Type>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
+<Artist>Dan Scott</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A140</No>
+<Name>Tranquil Thicket</Name>
+<Type>Land</Type>
+<CardText>Tranquil Thicket enters the battlefield tapped.
+{T}: Add {G}.
+Cycling {G} ({G}, Discard this card: Draw a card.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A141</No>
+<Name>Treva's Ruins</Name>
+<Type>Land — Lair</Type>
+<CardText>When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {G}, {W}, or {U}.</CardText>
+<Artist>Jerry Tiritilli</Artist>
+<Rulings>2004/10/04: If you don't want to unsummon a land, you can play this card then tap it for mana before the enters the battlefield ability resolves. You may then choose to sacrifice it instead of unsummoning a land.
+2005/08/01: This land is of type "Lair" only; other subtypes have been removed. It is not a basic land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A142</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>He Jiancheng</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A143</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>He Jiancheng</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A144</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>He Jiancheng</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A145</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Ku Xueming</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A146</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Ku Xueming</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A147</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Ku Xueming</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A148</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Wang Chuxiong</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A149</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Wang Chuxiong</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A150</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Wang Chuxiong</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A151</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Qin Jun</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A152</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Qin Jun</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A153</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Qin Jun</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A154</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Ji Yong</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A155</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Ji Yong</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>TD0</SetId>
+<No>A156</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Ji Yong</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Online Theme Decks</Set>
+<Rarity>Land</Rarity>
+</Card>
+

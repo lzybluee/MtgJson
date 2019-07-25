@@ -77,7 +77,7 @@ When Citanul Woodreaders enters the battlefield, if it was kicked, draw two card
 <SetId>DDR</SetId>
 <No>5</No>
 <Name>Civic Wayfinder</Name>
-<Type>Creature — Elf Warrior Druid 2/2</Type>
+<Type>Creature — Elf Druid Warrior 2/2</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</CardText>
 <Flavor>"These alleys are not safe. Come, I can guide you back to the market square."</Flavor>
@@ -151,7 +151,7 @@ Search your library for a land card and put that card onto the battlefield. Then
 <Type>Creature — Elemental 0/0</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Fertilid enters the battlefield with two +1/+1 counters on it.
-{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles their library.</CardText>
+{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Multiverseid>417432</Multiverseid>
 <Rulings>2008/04/01: Although the targeted player doesn't need to find a basic land card if they don't want to, that player must shuffle their library.</Rulings>
@@ -465,7 +465,7 @@ Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrif
 <Name>Woodborn Behemoth</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+<CardText>As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Flavor>It carries the hopes of Zendikar's embattled wilds on its mighty boughs.</Flavor>
 <Artist>Matt Stewart</Artist>
 <Multiverseid>417449</Multiverseid>
@@ -535,7 +535,7 @@ When Khalni Garden enters the battlefield, create a 0/1 green Plant creature tok
 <Type>Land</Type>
 <CardText>Treetop Village enters the battlefield tapped.
 {T}: Add {G}.
-{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>417453</Multiverseid>
 <Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -1147,7 +1147,7 @@ Remove three quest counters from Quest for the Gravelord and sacrifice it: Creat
 <CardText>Enchant creature
 When enchanted creature dies, return that card to the battlefield under your control.</CardText>
 <Flavor>Agreements with demons seldom end at the grave.</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>417487</Multiverseid>
 <Rulings>2012/05/01: The card will return to the battlefield under your control only if it's still in the graveyard when <Unhallowed Pact>'s ability resolves. If it's not (perhaps because an ability like undying has already returned it to the battlefield), nothing happens.
 2012/05/01: If <Unhallowed Pact> is enchanting a token creature, that creature can't return to the battlefield.</Rulings>

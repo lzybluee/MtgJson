@@ -1,0 +1,60 @@
+<Card>
+<SetId>PDP12</SetId>
+<No>1</No>
+<Name>Primordial Hydra</Name>
+<Type>Creature — Hydra 0/0</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>Primordial Hydra enters the battlefield with X +1/+1 counters on it.
+At the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.
+Primordial Hydra has trample as long as it has ten or more +1/+1 counters on it.</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2011/09/22: Consider only the number of +1/+1 counters on <Primordial Hydra> when determining if it has trample, not its power and toughness. For example, a <Primordial Hydra> with six +1/+1 counters on it that's been the target of Titanic Growth (giving it +4/+4) would not have trample.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2012</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDP12</SetId>
+<No>2</No>
+<Name>Serra Avatar</Name>
+<Type>Creature — Avatar */*</Type>
+<ManaCost>4WWW (7)</ManaCost>
+<CardText>Serra Avatar's power and toughness are each equal to your life total.
+When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2008/10/01: Whether or not the ability triggers depends on if the Avatar has the ability while in the graveyard. If it doesn't (thanks to Yixlid Jailer, for instance), then the ability won't trigger. It doesn't matter whether the Avatar had the ability in its previous zone (it will trigger even if it had been on the battlefield with Humility).
+2012/07/01: <Serra Avatar>'s power and toughness are constantly updated as your life total changes.
+2012/07/01: The ability that defines <Serra Avatar>'s power and toughness works in all zones, not just the battlefield.
+2012/07/01: If <Serra Avatar> is no longer in your graveyard when its triggered ability resolves, you won't shuffle your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2012</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDP12</SetId>
+<No>3</No>
+<Name>Vampire Nocturnus</Name>
+<Type>Creature — Vampire 3/3</Type>
+<ManaCost>1BBB (4)</ManaCost>
+<CardText>Play with the top card of your library revealed.
+As long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.</CardText>
+<Flavor>"Your life will set with the sun."</Flavor>
+<Artist>Jason Felix</Artist>
+<Rulings>2009/10/01: To work as an evasion ability, an attacking creature must already have flying when the declare blockers step begins. Once a creature has become blocked, giving it flying won't change that.
+2013/04/15: The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities.
+2013/04/15: If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability.
+2013/04/15: When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it.
+2013/07/01: If the top card of your library is black, <Vampire Nocturnus> will give itself +2/+1 and flying even if it's somehow not a Vampire.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2012</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

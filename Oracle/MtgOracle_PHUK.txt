@@ -1,0 +1,924 @@
+<Card>
+<SetId>PHUK</SetId>
+<No>1</No>
+<Name>Marrow-Gnawer</Name>
+<Type>Legendary Creature — Rat Rogue 2/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Rat creatures have fear. (They can't be blocked except by artifact creatures and/or black creatures.)
+{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control.</CardText>
+<Artist>Wayne Reynolds</Artist>
+<Rulings>2004/12/01: <Marrow-Gnawer>'s ability counts the number of Rats on the battlefield when it resolves, so you don't count the sacrificed Rat.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>2</No>
+<Name>Swarm of Rats</Name>
+<Type>Creature — Rat */1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Swarm of Rats's power is equal to the number of Rats you control.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>3</No>
+<Name>Nocturnal Raid</Name>
+<Type>Instant</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Black creatures get +2/+0 until end of turn.</CardText>
+<Artist>Pete Venters</Artist>
+<Rulings>2004/10/04: On resolution, all black creatures on the battlefield get the bonus. Ones that enter the battlefield later in the turn do not get it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>4</No>
+<Name>Skullsnatcher</Name>
+<Type>Creature — Rat Ninja 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2005/02/01: <Skullsnatcher>'s ability can target zero, one, or two cards in that player's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>5</No>
+<Name>Chittering Rats</Name>
+<Type>Creature — Rat 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>6</No>
+<Name>Crippling Fatigue</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Target creature gets -2/-2 until end of turn.
+Flashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>7</No>
+<Name>Dirty Wererat</Name>
+<Type>Creature — Human Rat Minion 2/3</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>{B}, Discard a card: Regenerate Dirty Wererat.
+Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.</CardText>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>8</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>9</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>10</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>11</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>12</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>13</No>
+<Name>Infernal Contract</Name>
+<Type>Sorcery</Type>
+<ManaCost>BBB (3)</ManaCost>
+<CardText>Draw four cards. You lose half your life, rounded up.</CardText>
+<Artist>Pete Venters</Artist>
+<Rulings>2007/02/01: If you attempt to halve a negative life total, you halve 0. This means that the life total stays the same. A life total of -10 would remain -10.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>14</No>
+<Name>Swarm of Rats</Name>
+<Type>Creature — Rat */1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Swarm of Rats's power is equal to the number of Rats you control.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>15</No>
+<Name>Sever Soul</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.</CardText>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>16</No>
+<Name>Sever Soul</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.</CardText>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>17</No>
+<Name>Nezumi Cutthroat</Name>
+<Type>Creature — Rat Warrior 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can't block.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>18</No>
+<Name>Dirge of Dread</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2008/10/01: You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>19</No>
+<Name>Chittering Rats</Name>
+<Type>Creature — Rat 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>20</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>21</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>22</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>23</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>24</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>25</No>
+<Name>Patron of the Nezumi</Name>
+<Type>Legendary Creature — Spirit 6/6</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
+Whenever a permanent is put into an opponent's graveyard, that player loses 1 life.</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2005/02/01: <Patron of the Nezumi>'s ability triggers even if an event puts this and multiple other permanents into the graveyard at the same time (Wrath of God, gang blocks, etc.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>26</No>
+<Name>Suppress</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Target player exiles all cards from their hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to their hand.</CardText>
+<Artist>Terese Nielsen & Thomas M. Baxa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>27</No>
+<Name>Swarm of Rats</Name>
+<Type>Creature — Rat */1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Swarm of Rats's power is equal to the number of Rats you control.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>28</No>
+<Name>Crypt Rats</Name>
+<Type>Creature — Rat 1/1</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>29</No>
+<Name>Nezumi Cutthroat</Name>
+<Type>Creature — Rat Warrior 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can't block.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>30</No>
+<Name>Crippling Fatigue</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Target creature gets -2/-2 until end of turn.
+Flashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>31</No>
+<Name>Dirty Wererat</Name>
+<Type>Creature — Human Rat Minion 2/3</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>{B}, Discard a card: Regenerate Dirty Wererat.
+Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.</CardText>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>32</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>33</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>34</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>35</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>36</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>37</No>
+<Name>Gravestorm</Name>
+<Type>Enchantment</Type>
+<ManaCost>BBB (3)</ManaCost>
+<CardText>At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn't, you may draw a card.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>38b</No>
+<Name>Nighteyes the Desecrator</Name>
+<Type>Legendary Creature — Rat Wizard 4/2</Type>
+<ColorIndicator>Black</ColorIndicator>
+<CardText>{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Nezumi Graverobber</OtherPart>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>38a</No>
+<Name>Nezumi Graverobber</Name>
+<Type>Creature — Rat Rogue 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Nighteyes the Desecrator</OtherPart>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>39b</No>
+<Name>Nighteyes the Desecrator</Name>
+<Type>Legendary Creature — Rat Wizard 4/2</Type>
+<ColorIndicator>Black</ColorIndicator>
+<CardText>{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Nezumi Graverobber</OtherPart>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>39a</No>
+<Name>Nezumi Graverobber</Name>
+<Type>Creature — Rat Rogue 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.</CardText>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Nighteyes the Desecrator</OtherPart>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>40</No>
+<Name>Carrion Rats</Name>
+<Type>Creature — Rat 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>41</No>
+<Name>Carrion Rats</Name>
+<Type>Creature — Rat 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>42</No>
+<Name>Skullsnatcher</Name>
+<Type>Creature — Rat Ninja 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2005/02/01: <Skullsnatcher>'s ability can target zero, one, or two cards in that player's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>43</No>
+<Name>Skullsnatcher</Name>
+<Type>Creature — Rat Ninja 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2005/02/01: <Skullsnatcher>'s ability can target zero, one, or two cards in that player's graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>44</No>
+<Name>Rats' Feast</Name>
+<Type>Sorcery</Type>
+<ManaCost>XB (1)</ManaCost>
+<CardText>Exile X target cards from a single graveyard.</CardText>
+<Artist>Bob Petillo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>45</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>46</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>47</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>48</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>49</No>
+<Name>Larceny</Name>
+<Type>Enchantment</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Whenever a creature you control deals combat damage to a player, that player discards a card.</CardText>
+<Artist>Dave Dorman</Artist>
+<Rulings>2004/10/04: Triggers once per creature, not once per point of damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>50</No>
+<Name>Nezumi Bone-Reader</Name>
+<Type>Creature — Rat Shaman 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2013/04/15: If you cast this as normal during your main phase, it will enter the battlefield and you'll receive priority. If no abilities trigger because of this, you can activate its ability immediately, before any other player has a chance to remove it from the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>51</No>
+<Name>Diabolic Tutor</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Search your library for a card and put that card into your hand. Then shuffle your library.</CardText>
+<Artist>Rick Farrell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>52</No>
+<Name>Betrayal of Flesh</Name>
+<Type>Instant</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>Choose one —
+• Destroy target creature.
+• Return target creature card from your graveyard to the battlefield.
+Entwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Wayne England</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>53</No>
+<Name>Carrion Rats</Name>
+<Type>Creature — Rat 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>54</No>
+<Name>Chittering Rats</Name>
+<Type>Creature — Rat 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>55</No>
+<Name>Rats' Feast</Name>
+<Type>Sorcery</Type>
+<ManaCost>XB (1)</ManaCost>
+<CardText>Exile X target cards from a single graveyard.</CardText>
+<Artist>Bob Petillo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Hachette UK</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>56</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>57</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>58</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>59</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PHUK</SetId>
+<No>60</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Hachette UK</Set>
+<Rarity>Land</Rarity>
+</Card>
+

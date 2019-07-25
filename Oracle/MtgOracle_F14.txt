@@ -1,0 +1,246 @@
+<Card>
+<SetId>F14</SetId>
+<No>1</No>
+<Name>Warleader's Helix</Name>
+<Type>Instant</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Warleader's Helix deals 4 damage to any target and you gain 4 life.</CardText>
+<Flavor>There is no time to remedy our enemies' ignorance. Blast it out of them.
+—Aurelia</Flavor>
+<Artist>Wesley Burt</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/12/07: If the chosen target becomes an illegal target for <Warleader's Helix>, the spell doesn't resolve. You don't gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>2</No>
+<Name>Elvish Mystic</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G}.</CardText>
+<Flavor>Life grows everywhere. My kin merely find those places where it grows strongest.
+—Nissa Revane</Flavor>
+<Artist>Winona Nelson</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>3</No>
+<Name>Banisher Priest</Name>
+<Type>Creature — Human Cleric 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Flavor>Oathbreaker, I cast you out!</Flavor>
+<Artist>James Zapata</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2013/07/01: <Banisher Priest>'s ability causes a zone change with a duration, a new style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like <Banisher Priest> have a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after <Banisher Priest> leaves the battlefield.
+2013/07/01: If <Banisher Priest> leaves the battlefield before its enters-the-battlefield ability resolves, the target creature won't be exiled.
+2013/07/01: Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist.
+2013/07/01: If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2013/07/01: The exiled card returns to the battlefield immediately after <Banisher Priest> leaves the battlefield. Nothing happens between the two events, including state-based actions. The two creatures aren't on the battlefield at the same time. For example, if the returning creature is a Clone, it can't enter the battlefield as a copy of <Banisher Priest>.
+2013/07/01: In a multiplayer game, if <Banisher Priest>'s owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>4</No>
+<Name>Encroaching Wastes</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.</CardText>
+<Flavor>Every world is a work in progress, constantly reshaped by time, disasters, and even the powerful magic of Planeswalkers.</Flavor>
+<Artist>Richard Wright</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>5</No>
+<Name>Tormented Hero</Name>
+<Type>Creature — Human Warrior 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Tormented Hero enters the battlefield tapped.
+Heroic — Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way.</CardText>
+<Artist>Wesley Burt</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2013/09/15: Heroic abilities will resolve before the spell that caused them to trigger.
+2013/09/15: Heroic abilities will trigger only once per spell, even if that spell targets the creature with the heroic ability multiple times.
+2013/09/15: Heroic abilities won't trigger when a copy of a spell is created on the stack or when a spell's targets are changed to include a creature with a heroic ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>6</No>
+<Name>Dissolve</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</CardText>
+<Flavor>You thought only the gods could stop you?</Flavor>
+<Artist>Jeff Simpson</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2013/09/15: When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom.
+2013/09/15: You choose how to order cards returned to your library after scrying no matter where you put them.
+2013/09/15: You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions.
+2013/09/15: Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>7</No>
+<Name>Magma Spray</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.</CardText>
+<Flavor>A stone hurled at an enemy is deadlier in liquid form.</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2017/04/18: <Magma Spray>'s replacement effect will exile the target creature if it would die this turn for any reason, not just due to lethal damage. It applies to the target creature even if <Magma Spray> deals no damage to it (due to a prevention effect) or <Magma Spray> deals damage to a different creature (due to a redirection effect).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>8</No>
+<Name>Bile Blight</Name>
+<Type>Instant</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn.</CardText>
+<Flavor>Not an arrow loosed, javelin thrown, nor sword raised. None were needed.</Flavor>
+<Artist>Nils Hamm</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/02/01: <Bile Blight> has only one target. Other creatures with that name are not targeted. For example, a creature with hexproof will still get -3/-3 if it has the same name as the target creature.
+2014/02/01: If the target creature is an illegal target as <Bile Blight> tries to resolve, it won't resolve and none of its effects will happen. No creature will get -3/-3.
+2014/02/01: The name of a creature token is the same as its creature types, unless the token is a copy of another creature or the effect that created the token specifically gives it a different name. For example, a 1/1 Cat Soldier creature token is named "Cat Soldier."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>9</No>
+<Name>Banishing Light</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (That permanent returns under its owner's control.)</CardText>
+<Artist>Wesley Burt</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/04/26: <Banishing Light>'s ability causes a zone change with a duration, a new style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like <Banishing Light> have a single ability that creates two one-shot effects: one that exiles the permanent when the ability resolves, and another that returns the exiled card to the battlefield immediately after <Banishing Light> leaves the battlefield.
+2014/04/26: If <Banishing Light> leaves the battlefield before its enters-the-battlefield ability resolves, the target nonland permanent won't be exiled.
+2014/04/26: Auras attached to the exiled permanent will be put into their owners' graveyards. Equipment attached to the exiled permanent will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.
+2014/04/26: If a token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2014/04/26: The exiled card returns to the battlefield immediately after <Banishing Light> leaves the battlefield. Nothing happens between the two events, including state-based actions. <Banishing Light> and the returned card aren't on the battlefield at the same time.
+2014/04/26: In a multiplayer game, if <Banishing Light>'s owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>10</No>
+<Name>Fanatic of Xenagos</Name>
+<Type>Creature — Centaur Warrior 3/3</Type>
+<ManaCost>1RG (3)</ManaCost>
+<CardText>Trample
+Tribute 1 (As this creature enters the battlefield, an opponent of your choice may put a +1/+1 counter on it.)
+When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn.</CardText>
+<Artist>Zoltan Boros</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/02/01: If the opponent pays tribute, the creature will enter the battlefield with the specified number of +1/+1 counters on it. It won't enter the battlefield and then have the +1/+1 counters placed on it.
+2014/02/01: The choice of whether to pay tribute is made as the creature with tribute is entering the battlefield. At that point, it's too late to respond to the creature spell. For example, in a multiplayer game, opponents won't know whether tribute will be paid or which opponent will be chosen to pay tribute or not when deciding whether to counter the creature spell.
+2014/02/01: If the triggered ability has a target, that target will not be known while the creature spell with tribute is on the stack.
+2014/02/01: Players can't respond to the tribute decision before the creature enters the battlefield. That is, if the opponent doesn't pay tribute, the triggered ability will trigger before any player has a chance to remove the creature.
+2014/02/01: The triggered ability will resolve even if the creature with tribute isn't on the battlefield at that time.
+2017/04/18: For effects that check which player put counters on the entering creature, the player chosen to pay tribute puts those counters on it, not the creature's controller.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>11</No>
+<Name>Brain Maggot</Name>
+<Type>Enchantment Creature — Insect 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Brain Maggot enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.</CardText>
+<Artist>Dave Kendall</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/04/26: <Brain Maggot>'s ability causes a zone change with a duration, a new style of ability that's somewhat reminiscent of older cards like Tidehollow Sculler. However, unlike Tidehollow Sculler, <Brain Maggot> has a single ability that creates two one-shot effects: one that exiles the nonland card when the ability resolves, and another that returns the exiled card to its owner's hand immediately after <Brain Maggot> leaves the battlefield.
+2014/04/26: If <Brain Maggot> leaves the battlefield before its enters-the-battlefield ability resolves, the opponent will reveal their hand, but no card will be exiled.
+2014/04/26: The exiled card returns to its owner's hand immediately after <Brain Maggot> leaves the battlefield. Nothing happens between the two events, including state-based actions.
+2014/04/26: In a multiplayer game, if <Brain Maggot>'s owner leaves the game, the exiled card will return to its owner's hand. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F14</SetId>
+<No>12</No>
+<Name>Stoke the Flames</Name>
+<Type>Instant</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Stoke the Flames deals 4 damage to any target.</CardText>
+<Artist>Mathias Kollros</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/07/18: The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay.
+2014/07/18: Convoke doesn't change a spell's mana cost or converted mana cost.
+2014/07/18: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2014/07/18: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2014/07/18: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2014/07/18: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}.
+2014/07/18: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2014</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,1021 @@
+<Card>
+<SetId>PDTK</SetId>
+<No>2s</No>
+<Name>Anafenza, Kin-Tree Spirit</Name>
+<Type>Legendary Creature — Spirit Soldier 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)</CardText>
+<Flavor>Martyred for worshipping her ancestors, she now walks among them.</Flavor>
+<Artist>Ryan Yee</Artist>
+<Watermark>Dromoka</Watermark>
+<Rulings>2015/02/25: Bolster itself doesn't target any creature, though some spells and abilities that bolster may have other effects that target creatures. For example, you could put counters on a creature with protection from white with Aven Tactician's bolster ability.
+2015/02/25: You determine which creature to put counters on as the spell or ability that instructs you to bolster resolves. That could be the creature with the bolster ability, if it's still under your control and has the least toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>3s</No>
+<Name>Arashin Foremost</Name>
+<Type>Creature — Human Warrior 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Double strike
+Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.</CardText>
+<Flavor>"I would gladly give my life if it would inspire my clan to victory."</Flavor>
+<Artist>David Palumbo</Artist>
+<Watermark>Dromoka</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>23s</No>
+<Name>Hidden Dragonslayer</Name>
+<Type>Creature — Human Warrior 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Lifelink
+Megamorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls.</CardText>
+<Artist>Anastasia Ovchinnikova</Artist>
+<Watermark>Dromoka</Watermark>
+<Rulings>2015/02/25: Turning a face-down creature with megamorph face up and putting a +1/+1 counter on it is a special action. It doesn't use the stack and can't be responded to.
+2015/02/25: If a face-down creature with megamorph is turned face up some other way (for example, if you manifest a card with megamorph and then pay its mana cost to turn it face up), you won't put a +1/+1 counter on it.
+2015/02/25: Megamorph is a variant of the morph ability. You can find more information on morph on cards with morph from the Khans of Tarkir set.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>26s</No>
+<Name>Myth Realized</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Whenever you cast a noncreature spell, put a lore counter on Myth Realized.
+{2}{W}: Put a lore counter on Myth Realized.
+{W}: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains "This creature's power and toughness are each equal to the number of lore counters on it."</CardText>
+<Artist>Jason Rainville</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2015/02/25: <Myth Realized> can't attack the turn it enters the battlefield.
+2015/02/25: Activating the ability that turns <Myth Realized> into a creature while it's already a creature will override any effects that set its power or toughness to a specific value. Effects that modify power or toughness without directly setting them to a specific value will continue to apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>41s</No>
+<Name>Sunscorch Regent</Name>
+<Type>Creature — Dragon 4/3</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying
+Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life.</CardText>
+<Flavor>"We trust in the scalelords, bringers of justice that none can escape."
+—Urdnan, Dromoka warrior</Flavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Dromoka</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>47s</No>
+<Name>Blessed Reincarnation</Name>
+<Type>Instant</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Exile target creature an opponent controls. That player reveals cards from the top of their library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into their library.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2015/02/25: If there are no creature cards in the library, it will be revealed and shuffled. The target creature will remain exiled.
+2015/02/25: Casting the card again due to the delayed triggered ability is optional. If you choose not to cast the card, or if you can't (perhaps because there are no legal targets available), the card will stay exiled. You won't get another chance to cast it on a future turn.
+2015/02/25: If a spell with rebound that you cast from your hand doesn't resolve for any reason (either because another spell or ability counters it or because all its targets are illegal as it tries to resolve), none of its effects will happen, including rebound. The spell will be put into its owner's graveyard and you won't get to cast it again on your next turn.
+2015/02/25: At the beginning of your upkeep, all delayed triggered abilities created by rebound effects trigger. You may handle them in any order. If you want to cast a card this way, you do so as part of the resolution of its delayed triggered ability. Timing restrictions based on the card's type (if it's a sorcery) are ignored. Other restrictions, such as "Cast [this spell] only during combat," must be followed.
+2015/02/25: As long as you cast a spell with rebound from your hand, rebound will work regardless of whether you paid its mana cost or an alternative cost you were permitted to pay.
+2015/02/25: If you cast a spell with rebound from any zone other than your hand (including your opponent's hand), rebound will have no effect.
+2015/02/25: If a replacement effect (such as the one created by Rest in Peace) would cause a spell with rebound that you cast from your hand to be put somewhere other than into your graveyard as it resolves, you can choose whether to apply the rebound effect or the other effect as the spell resolves.
+2015/02/25: Rebound will have no effect on copies of spells because you don't cast them from your hand.
+2015/02/25: If you cast a card from exile this way, it will go to its owner's graveyard when it resolves, fails to resolve, or is countered. It won't go back to exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>58s</No>
+<Name>Icefall Regent</Name>
+<Type>Creature — Dragon 4/3</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying
+When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent.
+Spells your opponents cast that target Icefall Regent cost {2} more to cast.</CardText>
+<Artist>David Gaillet</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2015/02/25: <Icefall Regent>'s triggered ability can target any creature controlled by an opponent, including one that is already tapped. In that case, the creature stays tapped and won't untap during its controller's untap step.
+2015/02/25: If another player gains control of <Icefall Regent>, the creature will no longer be affected by the ability stopping it from untapping, even if you later regain control of <Icefall Regent>.
+2015/02/25: The ability stopping the creature from untapping will continue to apply to it even if the creature changes controllers.
+2015/02/25: <Icefall Regent>'s last ability affects all spells cast by your opponents that target it, including Aura spells and spells with multiple targets. It doesn't affect abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>61s</No>
+<Name>Living Lore</Name>
+<Type>Creature — Avatar */*</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.
+Living Lore's power and toughness are each equal to the exiled card's converted mana cost.
+Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2018/12/07: If there are no instant or sorcery cards in your graveyard as <Living Lore> enters the battlefield, it will enter the battlefield as a 0/0 creature and be put into its owner's graveyard due to having 0 toughness.
+2018/12/07: If an instant or sorcery spell puts <Living Lore> onto the battlefield, that spell is still on the stack while you choose a card to exile. You can't exile it with <Living Lore>.
+2018/12/07: If <Living Lore> leaves the battlefield, the ability that defines its power and toughness will lose track of the exiled card. Its power and toughness are 0 in other zones.
+2018/12/07: Similarly, if the exiled card somehow leaves exile while <Living Lore> is on the battlefield, it will become a 0/0 creature.
+2018/12/07: <Living Lore>'s last ability will trigger whenever it deals combat damage, no matter if that damage is dealt to an opponent, an opposing planeswalker, or a creature it's blocking or being blocked by. You choose whether to sacrifice <Living Lore> as that ability resolves. If <Living Lore> has already left the battlefield, perhaps because it was dealt lethal damage at the same time it dealt damage, you can't sacrifice it.
+2018/12/07: You may cast a sorcery this way even if it's not your turn.
+2018/12/07: If you cast a spell "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card.
+2018/12/07: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>70s</No>
+<Name>Profaner of the Dead</Name>
+<Type>Creature — Naga Wizard 3/3</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness.</CardText>
+<Artist>Vincent Proce</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: Use the toughness of the exploited creature as it last existed on the battlefield to determine which creatures to return to their owners' hands.
+2015/02/25: A creature with exploit "exploits a creature" when the controller of the exploit ability sacrifices a creature as that ability resolves.
+2015/02/25: You choose whether to sacrifice a creature and which creature to sacrifice as the exploit ability resolves.
+2015/02/25: You can sacrifice the creature with exploit if it's still on the battlefield. This will cause its other ability to trigger.
+2015/02/25: If the creature with exploit isn't on the battlefield as the exploit ability resolves, you won't get any bonus from the creature with exploit, even if you sacrifice a creature. Because the creature with exploit isn't on the battlefield, its other triggered ability won't trigger.
+2015/02/25: You can't sacrifice more than one creature to any one exploit ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>80s</No>
+<Name>Stratus Dancer</Name>
+<Type>Creature — Djinn Monk 2/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+Megamorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Stratus Dancer is turned face up, counter target instant or sorcery spell.</CardText>
+<Artist>Anastasia Ovchinnikova</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2015/02/25: Turning a face-down creature with megamorph face up and putting a +1/+1 counter on it is a special action. It doesn't use the stack and can't be responded to.
+2015/02/25: If a face-down creature with megamorph is turned face up some other way (for example, if you manifest a card with megamorph and then pay its mana cost to turn it face up), you won't put a +1/+1 counter on it.
+2015/02/25: Megamorph is a variant of the morph ability. You can find more information on morph on cards with morph from the Khans of Tarkir set.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>88s</No>
+<Name>Blood-Chin Fanatic</Name>
+<Type>Creature — Orc Warrior 3/3</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.</CardText>
+<Flavor>"We are as brutal as our dragonlord. We strike like wild lightning and feast on human flesh."</Flavor>
+<Artist>David Palumbo</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: Use the creature's power as it last existed on the battlefield, including any +1/+1 counters it had, when determining the value of X.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>93s</No>
+<Name>Damnable Pact</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBB (2)</ManaCost>
+<CardText>Target player draws X cards and loses X life.</CardText>
+<Flavor>"Silumgar's mind is a dark labyrinth, full of grim secrets and subtle traps."
+—Siara, the Dragon's Mouth</Flavor>
+<Artist>Zack Stella</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>96</No>
+<Name>Deathbringer Regent</Name>
+<Type>Creature — Dragon 5/6</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Flying
+When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.</CardText>
+<Artist>Chris Rallis</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: If you cast a creature spell that enters the battlefield as a copy of <Deathbringer Regent>, the enters-the-battlefield ability will trigger (assuming the "five or more other creatures" requirement is also met).
+2015/02/25: <Deathbringer Regent>'s last ability destroys all creatures except <Deathbringer Regent>, including the five other creatures required for the ability to have an effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>96s</No>
+<Name>Deathbringer Regent</Name>
+<Type>Creature — Dragon 5/6</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Flying
+When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.</CardText>
+<Artist>Adam Paquette</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: If you cast a creature spell that enters the battlefield as a copy of <Deathbringer Regent>, the enters-the-battlefield ability will trigger (assuming the "five or more other creatures" requirement is also met).
+2015/02/25: <Deathbringer Regent>'s last ability destroys all creatures except <Deathbringer Regent>, including the five other creatures required for the ability to have an effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>112s</No>
+<Name>Pitiless Horde</Name>
+<Type>Creature — Orc Berserker 5/3</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>At the beginning of your upkeep, you lose 2 life.
+Dash {2}{B}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)</CardText>
+<Artist>Viktor Titov</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: If you choose to pay the dash cost rather than the mana cost, you're still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its dash cost only when you otherwise could cast that creature spell. Most of the time, this means during your main phase when the stack is empty.
+2015/02/25: If you pay the dash cost to cast a creature spell, that card will be returned to its owner's hand only if it's still on the battlefield when its triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is.
+2015/02/25: You don't have to attack with the creature with dash unless another ability says you do.
+2015/02/25: If a creature enters the battlefield as a copy of or becomes a copy of a creature whose dash cost was paid, the copy won't have haste and won't be returned to its owner's hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>120s</No>
+<Name>Sidisi, Undead Vizier</Name>
+<Type>Legendary Creature — Zombie Naga 4/6</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Deathtouch
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.</CardText>
+<Artist>Min Yum</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: A creature with exploit "exploits a creature" when the controller of the exploit ability sacrifices a creature as that ability resolves.
+2015/02/25: You choose whether to sacrifice a creature and which creature to sacrifice as the exploit ability resolves.
+2015/02/25: You can sacrifice the creature with exploit if it's still on the battlefield. This will cause its other ability to trigger.
+2015/02/25: If the creature with exploit isn't on the battlefield as the exploit ability resolves, you won't get any bonus from the creature with exploit, even if you sacrifice a creature. Because the creature with exploit isn't on the battlefield, its other triggered ability won't trigger.
+2015/02/25: You can't sacrifice more than one creature to any one exploit ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>121s</No>
+<Name>Silumgar Assassin</Name>
+<Type>Creature — Human Assassin 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Creatures with power greater than Silumgar Assassin's power can't block it.
+Megamorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls.</CardText>
+<Artist>Yohann Schepacz</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: The powers of <Silumgar Assassin> and the creature trying to block it are checked only as blockers are declared. Changing the powers of either of those creatures after <Silumgar Assassin> is legally blocked won't change or undo the block.
+2015/02/25: Turning a face-down creature with megamorph face up and putting a +1/+1 counter on it is a special action. It doesn't use the stack and can't be responded to.
+2015/02/25: If a face-down creature with megamorph is turned face up some other way (for example, if you manifest a card with megamorph and then pay its mana cost to turn it face up), you won't put a +1/+1 counter on it.
+2015/02/25: Megamorph is a variant of the morph ability. You can find more information on morph on cards with morph from the Khans of Tarkir set.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>132s</No>
+<Name>Crater Elemental</Name>
+<Type>Creature — Elemental 0/6</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{R}, {T}, Sacrifice Crater Elemental: It deals 4 damage to target creature.
+Formidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: <Crater Elemental>'s last ability overrides all previous effects that set its power to a specific value. Other effects that set its power to a specific value that start to apply after the ability resolves will override this effect.
+2015/02/25: Effects that modify <Crater Elemental>'s power, such as the effects of Giant Growth or Hall of Triumph, will apply to it no matter when they started to take effect. The same is true for counters that change its power (such as +1/+1 counters) and effects that switch its power and toughness.
+2015/02/25: If you control a creature with power less than 0, use its actual power when calculating the total power of creatures you control. For example, if you control three creatures with powers 4, 5, and -2, the total power of creatures you control is 7.
+2015/02/25: Some formidable abilities are activated abilities that require creatures you control to have total power 8 or greater. Once you activate these abilities, it doesn't matter what happens to the total power of creatures you control.
+2015/02/25: Other formidable abilities are triggered abilities with an "intervening 'if'" clause. Such abilities check the total power of creatures you control twice: once at the appropriate time to see if the ability will trigger, and again as the ability tries to resolve. If, at that time, the total power of creatures you control is no longer 8 or greater, the ability will have no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>141s</No>
+<Name>Ire Shaman</Name>
+<Type>Creature — Orc Shaman 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Menace (This creature can't be blocked except by two or more creatures.)
+Megamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Ire Shaman is turned face up, exile the top card of your library. Until end of turn, you may play that card.</CardText>
+<Artist>Jack Wang</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: If a face-down <Ire Shaman> attacks and is blocked by one creature, turning it face up won't cause it to become unblocked.
+2015/02/25: The card exiled with <Ire Shaman>'s last ability is exiled face up.
+2015/02/25: Playing the card exiled with <Ire Shaman>'s last ability follows the normal rules for playing the card. You must pay its costs, and you must follow all applicable timing rules. For example, if the card is a creature card, you can cast that card only during your main phase while the stack is empty.
+2015/02/25: Under normal circumstances, you can play a land card exiled with <Ire Shaman> only if you haven't played a land yet that turn.
+2015/02/25: If you don't play the card, it will remain exiled.
+2015/02/25: Turning a face-down creature with megamorph face up and putting a +1/+1 counter on it is a special action. It doesn't use the stack and can't be responded to.
+2015/02/25: If a face-down creature with megamorph is turned face up some other way (for example, if you manifest a card with megamorph and then pay its mana cost to turn it face up), you won't put a +1/+1 counter on it.
+2015/02/25: Megamorph is a variant of the morph ability. You can find more information on morph on cards with morph from the Khans of Tarkir set.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>162</No>
+<Name>Thunderbreak Regent</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.</CardText>
+<Flavor>Attracting a dragon's attention may be the last mistake you make.</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2015/02/25: <Thunderbreak Regent>'s ability will resolve before the spell or ability that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>162s</No>
+<Name>Thunderbreak Regent</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.</CardText>
+<Flavor>Attracting a dragon's attention may be the last mistake you make.</Flavor>
+<Artist>Ryan Pancoast</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: <Thunderbreak Regent>'s ability will resolve before the spell or ability that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>167s</No>
+<Name>Volcanic Vision</Name>
+<Type>Sorcery</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision.</CardText>
+<Artist>Noah Bradley</Artist>
+<Rulings>2015/02/25: If the target instant or sorcery card becomes an illegal target before <Volcanic Vision> resolves, the spell won't resolve and none of its effects will happen. No damage will be dealt and <Volcanic Vision> won't be exiled.
+2015/02/25: If the target has {X} in its mana cost, X is 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>169s</No>
+<Name>Zurgo Bellstriker</Name>
+<Type>Legendary Creature — Orc Warrior 2/2</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Zurgo Bellstriker can't block creatures with power 2 or greater.
+Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)</CardText>
+<Artist>Jason Rainville</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: Once <Zurgo Bellstriker> has legally blocked a creature, raising that creature's power to 2 or greater won't undo the block.
+2015/02/25: Even though both cards portray the same character, <Zurgo Bellstriker> and Zurgo Helmsmasher have different names. Controlling both of them won't invoke the "legend rule."
+2015/02/25: If you choose to pay the dash cost rather than the mana cost, you're still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its dash cost only when you otherwise could cast that creature spell. Most of the time, this means during your main phase when the stack is empty.
+2015/02/25: If you pay the dash cost to cast a creature spell, that card will be returned to its owner's hand only if it's still on the battlefield when its triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is.
+2015/02/25: You don't have to attack with the creature with dash unless another ability says you do.
+2015/02/25: If a creature enters the battlefield as a copy of or becomes a copy of a creature whose dash cost was paid, the copy won't have haste and won't be returned to its owner's hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>175s</No>
+<Name>Avatar of the Resolute</Name>
+<Type>Creature — Avatar 3/2</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>Reach, trample
+Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it.</CardText>
+<Flavor>It exemplifies the ideals of the Dromoka: strength, unity, and honor.</Flavor>
+<Artist>Jeff Simpson</Artist>
+<Watermark>Dromoka</Watermark>
+<Rulings>2015/02/25: When determining how many +1/+1 counters <Avatar of the Resolute> enters the battlefield with, don't count any creatures entering the battlefield at the same time, even if those creatures enter the battlefield with +1/+1 counters on them.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>181s</No>
+<Name>Den Protector</Name>
+<Type>Creature — Human Warrior 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Creatures with power less than Den Protector's power can't block it.
+Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Den Protector is turned face up, return target card from your graveyard to your hand.</CardText>
+<Artist>Viktor Titov</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: You compare <Den Protector>'s power to the power of any creature trying to block it only as blockers are assigned. Once <Den Protector> has been legally blocked by a creature, changing the power of either creature won't change or undo the block.
+2015/02/25: Turning a face-down creature with megamorph face up and putting a +1/+1 counter on it is a special action. It doesn't use the stack and can't be responded to.
+2015/02/25: If a face-down creature with megamorph is turned face up some other way (for example, if you manifest a card with megamorph and then pay its mana cost to turn it face up), you won't put a +1/+1 counter on it.
+2015/02/25: Megamorph is a variant of the morph ability. You can find more information on morph on cards with morph from the Khans of Tarkir set.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>187s</No>
+<Name>Foe-Razer Regent</Name>
+<Type>Creature — Dragon 4/5</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Flying
+When Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.
+Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.</CardText>
+<Artist>Lucas Graciano</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: You choose the target of the first triggered ability as it goes on the stack, but you choose whether or not to fight as that ability resolves.
+2015/02/25: If the target creature you don't control becomes an illegal target of the first triggered ability before it resolves, <Foe-Razer Regent> won't fight and its last ability won't trigger.
+2015/02/25: If a creature you control fights during an end step, the delayed triggered ability that puts +1/+1 counters on that creature won't trigger until the beginning of the following turn's end step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>201</No>
+<Name>Scaleguard Sentinels</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may reveal a Dragon card from your hand.
+Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast this spell.</CardText>
+<Artist>David Gaillet</Artist>
+<Rulings>2015/02/25: If one of these spells is copied, the controller of the copy will get the "Dragon bonus" only if a Dragon card was revealed as an additional cost. The copy wasn't cast, so whether you controlled a Dragon won't matter.
+2015/02/25: You can't reveal more than one Dragon card to multiply the bonus. There is also no additional benefit for both revealing a Dragon card as an additional cost and controlling a Dragon as you cast the spell.
+2015/02/25: If you don't reveal a Dragon card from your hand, you must control a Dragon as you are finished casting the spell to get the bonus. For example, if you lose control of your only Dragon while casting the spell (because, for example, you sacrificed it to activate a mana ability), you won't get the bonus.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>210s</No>
+<Name>Surrak, the Hunt Caller</Name>
+<Type>Legendary Creature — Human Warrior 5/4</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn.</CardText>
+<Flavor>"The greatest honor is to feed Atarka."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: If you control a creature with power less than 0, use its actual power when calculating the total power of creatures you control. For example, if you control three creatures with powers 4, 5, and -2, the total power of creatures you control is 7.
+2015/02/25: Some formidable abilities are activated abilities that require creatures you control to have total power 8 or greater. Once you activate these abilities, it doesn't matter what happens to the total power of creatures you control.
+2015/02/25: Other formidable abilities are triggered abilities with an "intervening 'if'" clause. Such abilities check the total power of creatures you control twice: once at the appropriate time to see if the ability will trigger, and again as the ability tries to resolve. If, at that time, the total power of creatures you control is no longer 8 or greater, the ability will have no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>212</No>
+<Name>Arashin Sovereign</Name>
+<Type>Creature — Dragon 6/6</Type>
+<ManaCost>5GW (7)</ManaCost>
+<CardText>Flying
+When Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.</CardText>
+<Flavor>Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion.</Flavor>
+<Artist>David Palumbo</Artist>
+<Watermark>Dromoka</Watermark>
+<Rulings>2015/02/25: The player who controlled <Arashin Sovereign> when it died chooses whether to put it on the top or bottom of its owner's library. The player may also choose to leave <Arashin Sovereign> in the graveyard. This choice is made as the ability resolves.
+2015/02/25: <Arashin Sovereign> will be put on the top or bottom of that library only if it's still in the graveyard when its ability resolves. If it leaves the graveyard before that point, it will stay in whatever zone it's in, even if it's returned to the graveyard before the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>212s</No>
+<Name>Arashin Sovereign</Name>
+<Type>Creature — Dragon 6/6</Type>
+<ManaCost>5GW (7)</ManaCost>
+<CardText>Flying
+When Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.</CardText>
+<Flavor>Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion.</Flavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Dromoka</Watermark>
+<Rulings>2015/02/25: The player who controlled <Arashin Sovereign> when it died chooses whether to put it on the top or bottom of its owner's library. The player may also choose to leave <Arashin Sovereign> in the graveyard. This choice is made as the ability resolves.
+2015/02/25: <Arashin Sovereign> will be put on the top or bottom of that library only if it's still in the graveyard when its ability resolves. If it leaves the graveyard before that point, it will stay in whatever zone it's in, even if it's returned to the graveyard before the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>213s</No>
+<Name>Atarka's Command</Name>
+<Type>Instant</Type>
+<ManaCost>RG (2)</ManaCost>
+<CardText>Choose two —
+• Your opponents can't gain life this turn.
+• Atarka's Command deals 3 damage to each opponent.
+• You may put a land card from your hand onto the battlefield.
+• Creatures you control get +1/+1 and gain reach until end of turn.</CardText>
+<Artist>Chris Rahn</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: The first mode won't affect life that was gained earlier in the turn.
+2015/02/25: If you choose the third mode and put a land card onto the battlefield, that doesn't count as playing a land. For example, you can both play a land and put a land onto the battlefield this way during your turn.
+2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast Ojutai's Command without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of Ojutai's Command, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>214</No>
+<Name>Boltwing Marauder</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Flying
+Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.</CardText>
+<Flavor>When battling the Kolaghan, consider yourself lucky if lightning strikes the same place only twice.</Flavor>
+<Artist>Daarken</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: Any creature on the battlefield can be the target of <Boltwing Marauder>'s triggered ability, including the one that entered the battlefield and caused the ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>214s</No>
+<Name>Boltwing Marauder</Name>
+<Type>Creature — Dragon 5/4</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Flying
+Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.</CardText>
+<Flavor>When battling the Kolaghan, consider yourself lucky if lightning strikes the same place only twice.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: Any creature on the battlefield can be the target of <Boltwing Marauder>'s triggered ability, including the one that entered the battlefield and caused the ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>216s</No>
+<Name>Dragonlord Atarka</Name>
+<Type>Legendary Creature — Elder Dragon 8/8</Type>
+<ManaCost>5RG (7)</ManaCost>
+<CardText>Flying, trample
+When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: You choose how many targets the ability has and how the damage is divided as you put the ability on the stack. Each target must receive at least 1 damage.
+2015/02/25: If some of the targets are illegal targets as the ability tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, the ability doesn't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>217s</No>
+<Name>Dragonlord Dromoka</Name>
+<Type>Legendary Creature — Elder Dragon 5/7</Type>
+<ManaCost>4GW (6)</ManaCost>
+<CardText>This spell can't be countered.
+Flying, lifelink
+Your opponents can't cast spells during your turn.</CardText>
+<Flavor>Dromoka's followers forsake blood ties so that they may join a greater family.</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Dromoka</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>218s</No>
+<Name>Dragonlord Kolaghan</Name>
+<Type>Legendary Creature — Elder Dragon 6/5</Type>
+<ManaCost>4BR (6)</ManaCost>
+<CardText>Flying, haste
+Other creatures you control have haste.
+Whenever an opponent casts a creature or planeswalker spell with the same name as a card in their graveyard, that player loses 10 life.</CardText>
+<Artist>Jaime Jones</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: Casting a spell face down won't cause <Dragonlord Kolaghan>'s last ability to trigger. A spell with no name can't have the same name as any other card.
+2015/02/25: If an opponent casts a creature spell with delve and exiles all cards from their graveyard with the same name to help pay its cost, <Dragonlord Kolaghan>'s ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>219s</No>
+<Name>Dragonlord Ojutai</Name>
+<Type>Legendary Creature — Elder Dragon 5/4</Type>
+<ManaCost>3WU (5)</ManaCost>
+<CardText>Flying
+Dragonlord Ojutai has hexproof as long as it's untapped.
+Whenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</CardText>
+<Artist>Chase Stone</Artist>
+<Watermark>Ojutai</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>220s</No>
+<Name>Dragonlord Silumgar</Name>
+<Type>Legendary Creature — Elder Dragon 3/5</Type>
+<ManaCost>4UB (6)</ManaCost>
+<CardText>Flying, deathtouch
+When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar.</CardText>
+<Flavor>Silumgar never passes up an opportunity to add to his opulence.</Flavor>
+<Artist>Steven Belledin</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: If <Dragonlord Silumgar> leaves the battlefield, you no longer control it, and its control-change effect ends.
+2015/02/25: If <Dragonlord Silumgar> ceases to be under your control before its ability resolves, you won't gain control of the creature or planeswalker at all.
+2015/02/25: If another player gains control of <Dragonlord Silumgar>, its control-change effect ends. Regaining control of <Dragonlord Silumgar> won't cause you to regain control of the creature or planeswalker.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>221s</No>
+<Name>Dromoka's Command</Name>
+<Type>Instant</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Choose two —
+• Prevent all damage target instant or sorcery spell would deal this turn.
+• Target player sacrifices an enchantment.
+• Put a +1/+1 counter on target creature.
+• Target creature you control fights target creature you don't control.</CardText>
+<Artist>James Ryman</Artist>
+<Watermark>Dromoka</Watermark>
+<Rulings>2015/02/25: Although most instants and sorceries that cause damage to be dealt are the sources of that damage, a few cause other objects to deal damage (for example, spells that cause creatures to fight). The first ability of <Dromoka's Command> won't prevent damage caused by those other sources.
+2015/02/25: You can target any player with the second ability, including one that doesn't control an enchantment.
+2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast Ojutai's Command without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of Ojutai's Command, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>223</No>
+<Name>Harbinger of the Hunt</Name>
+<Type>Creature — Dragon 5/3</Type>
+<ManaCost>3RG (5)</ManaCost>
+<CardText>Flying
+{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
+{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.</CardText>
+<Flavor>An Atarka dragon's exhale cooks what its inhale consumes.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: If <Harbinger of the Hunt> loses flying, its first activated ability will cause it to deal damage to itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>223s</No>
+<Name>Harbinger of the Hunt</Name>
+<Type>Creature — Dragon 5/3</Type>
+<ManaCost>3RG (5)</ManaCost>
+<CardText>Flying
+{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
+{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.</CardText>
+<Flavor>An Atarka dragon's exhale cooks what its inhale consumes.</Flavor>
+<Artist>Aaron Miller</Artist>
+<Watermark>Atarka</Watermark>
+<Rulings>2015/02/25: If <Harbinger of the Hunt> loses flying, its first activated ability will cause it to deal damage to itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>224s</No>
+<Name>Kolaghan's Command</Name>
+<Type>Instant</Type>
+<ManaCost>1BR (3)</ManaCost>
+<CardText>Choose two —
+• Return target creature card from your graveyard to your hand.
+• Target player discards a card.
+• Destroy target artifact.
+• Kolaghan's Command deals 2 damage to any target.</CardText>
+<Artist>Daarken</Artist>
+<Watermark>Kolaghan</Watermark>
+<Rulings>2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast Ojutai's Command without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of Ojutai's Command, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>226</No>
+<Name>Necromaster Dragon</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Flying
+Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent puts the top two cards of their library into their graveyard.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: <Necromaster Dragon>'s last ability will trigger once for each player it deals combat damage to. For each of these abilities, you may pay {2} only once.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>226s</No>
+<Name>Necromaster Dragon</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Flying
+Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent puts the top two cards of their library into their graveyard.</CardText>
+<Artist>Mark Zug</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: <Necromaster Dragon>'s last ability will trigger once for each player it deals combat damage to. For each of these abilities, you may pay {2} only once.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>227</No>
+<Name>Ojutai's Command</Name>
+<Type>Instant</Type>
+<ManaCost>2WU (4)</ManaCost>
+<CardText>Choose two —
+• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+• You gain 4 life.
+• Counter target creature spell.
+• Draw a card.</CardText>
+<Artist>Craig J Spearing</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast <Ojutai's Command> without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of <Ojutai's Command>, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>227s</No>
+<Name>Ojutai's Command</Name>
+<Type>Instant</Type>
+<ManaCost>2WU (4)</ManaCost>
+<CardText>Choose two —
+• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+• You gain 4 life.
+• Counter target creature spell.
+• Draw a card.</CardText>
+<Artist>Willian Murai</Artist>
+<Watermark>Ojutai</Watermark>
+<Rulings>2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast <Ojutai's Command> without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of <Ojutai's Command>, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>228</No>
+<Name>Pristine Skywise</Name>
+<Type>Creature — Dragon 6/4</Type>
+<ManaCost>4WU (6)</ManaCost>
+<CardText>Flying
+Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.</CardText>
+<Flavor>The elite of Ojutai's brood, the skywise see their enemies as puzzles to be solved.</Flavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Ojutai</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>228s</No>
+<Name>Pristine Skywise</Name>
+<Type>Creature — Dragon 6/4</Type>
+<ManaCost>4WU (6)</ManaCost>
+<CardText>Flying
+Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.</CardText>
+<Flavor>The elite of Ojutai's brood, the skywise see their enemies as puzzles to be solved.</Flavor>
+<Artist>Adam Paquette</Artist>
+<Watermark>Ojutai</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDTK</SetId>
+<No>232s</No>
+<Name>Silumgar's Command</Name>
+<Type>Instant</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Choose two —
+• Counter target noncreature spell.
+• Return target permanent to its owner's hand.
+• Target creature gets -3/-3 until end of turn.
+• Destroy target planeswalker.</CardText>
+<Artist>Nils Hamm</Artist>
+<Watermark>Silumgar</Watermark>
+<Rulings>2015/02/25: You choose the two modes as you cast the spell. You must choose two different modes. Once modes are chosen, they can't be changed.
+2015/02/25: You can choose a mode only if you can choose legal targets for that mode. Ignore the targeting requirements for modes that aren't chosen. For example, you can cast Ojutai's Command without targeting a creature spell provided you don't choose the third mode.
+2015/02/25: As the spell resolves, follow the instructions of the modes you chose in the order they are printed on the card. For example, if you chose the second and fourth modes of Ojutai's Command, you would gain 4 life and then draw a card. (The order won't matter in most cases.)
+2015/02/25: If a Command is copied, the effect that creates the copy will usually allow you to choose new targets for the copy, but you can't choose new modes.
+2015/02/25: If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragons of Tarkir Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

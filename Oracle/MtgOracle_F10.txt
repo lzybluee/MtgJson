@@ -1,0 +1,238 @@
+<Card>
+<SetId>F10</SetId>
+<No>1</No>
+<Name>Tidehollow Sculler</Name>
+<Type>Artifact Creature — Zombie 2/2</Type>
+<ManaCost>WB (2)</ManaCost>
+<CardText>When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.
+When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/06/07: If <Tidehollow Sculler> leaves the battlefield before its first ability has resolved, its second ability will trigger. This ability will do nothing when it resolves. Then its first ability will resolve and exile the chosen card forever.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>2</No>
+<Name>Ghostly Prison</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.</CardText>
+<Flavor>May the memory of our fallen heroes ensnare the violent hearts of lesser men.
+—Great Threshold of Monserkat inscription</Flavor>
+<Artist>Wayne England</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2007/02/01: In the Two-Headed Giant format, you still only have to pay once per creature.
+2014/02/01: Unless some effect explicitly says otherwise, a creature that can't attack you can still attack a planeswalker you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>3</No>
+<Name>Ancient Ziggurat</Name>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any color. Spend this mana only to cast a creature spell.</CardText>
+<Flavor>Leylines branch out from its foundation like roots from a tree. These draw mana from every region and welcome all living things into its verdant chambers.</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2009/02/01: Mana produced by <Ancient Ziggurat> can be spent on any part of a creature spell's total cost. This includes additional costs (such as kicker) and alternative costs (such as evoke or Worldheart Phoenix's alternative cost).
+2009/02/01: Mana produced by <Ancient Ziggurat> can't be spent on activated abilities that put a creature card directly onto the battlefield, such as unearth or ninjutsu.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>4</No>
+<Name>Bloodbraid Elf</Name>
+<Type>Creature — Elf Berserker 3/2</Type>
+<ManaCost>2RG (4)</ManaCost>
+<CardText>Haste
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)</CardText>
+<Artist>Steve Argyle</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2009/05/01: When the cascade ability resolves, you must exile cards. The only optional part of the ability is whether or not you cast the last card exiled.
+2009/05/01: If a spell with cascade is countered, the cascade ability will still resolve normally.
+2009/05/01: Cascade triggers when you cast the spell, meaning that it resolves before that spell. If you end up casting the exiled card, it will go on the stack above the spell with cascade.
+2009/05/01: If you cast the last exiled card, you're casting it as a spell. It can be countered. If that card has cascade, the new spell's cascade ability will trigger, and you'll repeat the process for the new spell.
+2009/05/01: After you're done exiling cards and casting the last one if you chose to do so, the remaining exiled cards are randomly placed on the bottom of your library. Neither you nor any other player is allowed to know the order of those cards.
+2009/05/01: You exile the cards face-up. All players will be able to see them.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If cascade allows you to cast a split card, you may cast either half but not both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>5</No>
+<Name>Cloudpost</Name>
+<Type>Land — Locus</Type>
+<CardText>Cloudpost enters the battlefield tapped.
+{T}: Add {C} for each Locus on the battlefield.</CardText>
+<Flavor>He watches from above. He watches from below. He watches from within. -Inscription on Tel-Jilad, the Tree of Tales</Flavor>
+<Artist>Jim Nelson</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>6</No>
+<Name>Elvish Visionary</Name>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>When Elvish Visionary enters the battlefield, draw a card.</CardText>
+<Flavor>Before any major undertaking, a Cylian elf seeks the guidance of a visionary to learn the will of the gargantuan ancients.</Flavor>
+<Artist>Lucio Parrillo</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>7</No>
+<Name>Anathemancer</Name>
+<Type>Creature — Zombie Wizard 2/2</Type>
+<ManaCost>1BR (3)</ManaCost>
+<CardText>When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.
+Unearth {5}{B}{R} ({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Mark Hyzer</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>8</No>
+<Name>Krosan Grip</Name>
+<Type>Instant</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Destroy target artifact or enchantment.</CardText>
+<Flavor>Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.
+—Zyd, Kamahlite druid</Flavor>
+<Artist>Franz Vohwinkel</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/06/07: Players still get priority while a card with split second is on the stack.
+2013/06/07: Split second doesn't prevent players from activating mana abilities.
+2013/06/07: Split second doesn't prevent triggered abilities from triggering. If one does, its controller puts it on the stack and chooses targets for it, if any. Those abilities will resolve as normal.
+2013/06/07: Split second doesn't prevent players from performing special actions. Notably, players may turn face-down creatures face up while a spell with split second is on the stack.
+2013/06/07: Casting a spell with split second won't affect spells and abilities that are already on the stack.
+2013/06/07: If the resolution of a triggered ability involves casting a spell, that spell can't be cast if a spell with split second is on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>9</No>
+<Name>Qasali Pridemage</Name>
+<Type>Creature — Cat Wizard 2/2</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.</CardText>
+<Flavor>An elder in one pride, of the Sigiled caste in another.</Flavor>
+<Artist>Dave Allsop</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>10</No>
+<Name>Rift Bolt</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Rift Bolt deals 3 damage to any target.
+Suspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/06/07: You can exile a card in your hand using suspend any time you could cast that card. Consider its card type, any effect that affects when you could cast it (such as flash) and any other effects that could stop you from casting it (such as Meddling Mage's effect) to determine if and when you can do this. Whether or not you could actually complete all steps in casting the card is irrelevant. For example, you can exile a card with suspend that has no mana cost or requires a target even if no legal targets are available at that time.
+2013/06/07: Exiling a card with suspend isn't casting that card. This action doesn't use the stack and can't be responded to.
+2013/06/07: If the spell requires any targets, those targets are chosen when the spell is finally cast, not when it's exiled.
+2013/06/07: If the first triggered ability of suspend (the one that removes time counters) is countered, no time counter is removed. The ability will trigger again during the card's owner's next upkeep.
+2013/06/07: When the last time counter is removed, the second triggered ability of suspend will trigger. It doesn't matter why the last time counter was removed or what effect removed it.
+2013/06/07: If the second triggered ability of suspend (the one that lets you cast the card) is countered, the card can't be cast. It remains exiled with no time counters on it, and it's no longer suspended.
+2013/06/07: As the second triggered ability resolves, you must cast the card if able. Timing restrictions based on the card's type are ignored.
+2013/06/07: If you can't cast the card, perhaps because there are no legal targets available, it remains exiled with no time counters on it, and it's no longer suspended.
+2013/06/07: If the spell has any mandatory additional costs, you must pay those if able. However, if an additional cost includes a mana payment, you are forced to pay that cost only if there's enough mana in your mana pool at the time you cast the spell. You aren't forced to activate any mana abilities, although you may do so if you wish.
+2013/06/07: A creature cast using suspend will enter the battlefield with haste. It will have haste until another player gains control of it (or, in some rare cases, gains control of the creature spell itself).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>11</No>
+<Name>Gatekeeper of Malakir</Name>
+<Type>Creature — Vampire Warrior 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.</CardText>
+<Flavor>You may enter the city—once the toll is paid.</Flavor>
+<Artist>Jason Felix</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F10</SetId>
+<No>12</No>
+<Name>Wild Nacatl</Name>
+<Type>Creature — Cat Warrior 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Wild Nacatl gets +1/+1 as long as you control a Mountain.
+Wild Nacatl gets +1/+1 as long as you control a Plains.</CardText>
+<Flavor>The Cloud Nacatl sit and think, a bunch of soft paws. We are the Claws of Marisi, stalking, pouncing, drawing blood.</Flavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/10/01: <Wild Nacatl>'s abilities check for lands with the subtypes Mountain and Plains. Those lands don't need to be named Mountain and Plains. <Wild Nacatl> will get both bonuses if those two subtypes are contained among the lands you control, even if they're from the same land (such as Plateau or Sacred Foundry).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

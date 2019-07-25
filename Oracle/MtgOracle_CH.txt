@@ -188,9 +188,9 @@ When enchanted creature dies, that creature's controller chooses a creature that
 <CardText>At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>2818</Multiverseid>
-<Rulings>2009/05/01: The ability grants you control of all creatures that are blocking it as the ability resolves. This will include any creatures that were put onto the battlefield blocking it.
-2009/05/01: Any blocking creatures that regenerated during combat will have been removed from combat. Since such creatures are no longer in combat, they cannot be blocking <The Wretched>, which means you won't be able to gain control of them.
+<Rulings>2009/05/01: Any blocking creatures that regenerated during combat will have been removed from combat. Since such creatures are no longer in combat, they cannot be blocking <The Wretched>, which means you won't be able to gain control of them.
 2009/05/01: If <The Wretched> itself regenerated during combat, then it will have been removed from combat. Since it is no longer in combat, there cannot be any creatures blocking it, which means you won't be able to gain control of any creatures.
+2009/05/01: The ability grants you control of all creatures that are blocking it as the ability resolves. This will include any creatures that were put onto the battlefield blocking it.
 2009/10/01: <The Wretched>'s ability triggers only if it's still on the battlefield when the end of combat step begins (after the combat damage step). For example, if it's blocked by a 7/7 creature and is destroyed, its ability won't trigger at all.
 2009/10/01: If <The Wretched> leaves the battlefield, you no longer control it, so the duration of its control-change effect ends.
 2009/10/01: If you lose control of <The Wretched> before its ability resolves, you won't gain control of the creatures blocking it at all.
@@ -282,7 +282,8 @@ At the beginning of your upkeep, you may sacrifice an artifact. If you don't, ta
 <Type>Instant</Type>
 <ManaCost>UU (2)</ManaCost>
 <CardText>Return target permanent to its owner's hand.</CardText>
-<Flavor>"O! call back yesterday, bid time return." —William Shakespeare, King Richard the Second</Flavor>
+<Flavor>"O! call back yesterday, bid time return."
+—William Shakespeare, King Richard the Second</Flavor>
 <Artist>Brian Snõddy</Artist>
 <Multiverseid>2799</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -480,7 +481,8 @@ Target creature can't be blocked this turn.</CardText>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Defender (This creature can't attack.)
 Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.</CardText>
-<Flavor>"Walls of a castle are made out of stone,/ Walls of a house out of bricks or of wood./ My walls are made out of magic alone,/ Stronger than any that ever have stood." —Chrysoberyl Earthsdaughter, Incantations</Flavor>
+<Flavor>"Walls of a castle are made out of stone,/ Walls of a house out of bricks or of wood./ My walls are made out of magic alone,/ Stronger than any that ever have stood."
+—Chrysoberyl Earthsdaughter, Incantations</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>2821</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -619,8 +621,8 @@ Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of tu
 <ManaCost>1G (2)</ManaCost>
 <CardText>Flying
 {G}{G}: Emerald Dragonfly gains first strike until end of turn.</CardText>
-<Flavor>"Flittering, wheeling,/ darting in to strike, and then/ gone just as you blink."
-—"Dragonfly Haiku," poet unkown</Flavor>
+<Flavor>"Flittering, wheeling, / darting in to strike, and then / gone just as you blink."
+— "Dragonfly Haiku," poet unknown</Flavor>
 <Artist>Quinton Hoover</Artist>
 <Multiverseid>2830</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -705,7 +707,8 @@ Rabid Wombat gets +2/+2 for each Aura attached to it.</CardText>
 <Type>World Enchantment</Type>
 <ManaCost>G (1)</ManaCost>
 <CardText>Players play with their hands revealed.</CardText>
-<Flavor>"Many are in high place, and of renown: but mysteries are revealed unto the meek." —Ecclesiasticus 3:19</Flavor>
+<Flavor>"Many are in high place, and of renown: but mysteries are revealed unto the meek."
+—Ecclesiasticus 3:19</Flavor>
 <Artist>Kaja Foglio</Artist>
 <Multiverseid>2835</Multiverseid>
 <Rulings>2008/10/01: This has the supertype world. When a world permanent enters the battlefield, any world permanents that were already on the battlefield are put into their owners' graveyards. This is a state-based action called the "world rule." The new world permanent stays on the battlefield. If two world permanents enter the battlefield at the same time, they're both put into their owners' graveyards.</Rulings>
@@ -874,7 +877,8 @@ Beasts of Bogardan gets +1/+1 as long as an opponent controls a nontoken white p
 <CardText>Enchant land
 As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.
 When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.</CardText>
-<Flavor>"I knew it weren't no ordinary pile of—you know." —Norin the Wary</Flavor>
+<Flavor>"I knew it weren't no ordinary pile of—you know."
+—Norin the Wary</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>2846</Multiverseid>
 <Rulings>2004/10/04: Works even if placed on one of your opponent's Mountains.</Rulings>
@@ -1156,8 +1160,7 @@ Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nont
 <Type>Creature — Human 1/2</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>Protection from red</CardText>
-<Flavor>"For my confession they burned me with fire
-And found that I was for endurance made."
+<Flavor>"For my confession they burned me with fire And found that I was for endurance made."
 —The Arabian Nights, trans. Haddawy</Flavor>
 <Artist>Drew Tucker</Artist>
 <Multiverseid>2862</Multiverseid>
@@ -1617,6 +1620,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>94</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1633,6 +1637,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>95</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1649,6 +1654,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>96</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1665,6 +1671,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>97</No>
 <Name>Urza's Mine</Name>
 <Type>Land — Urza's Mine</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1681,6 +1688,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>98</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1697,6 +1705,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>99</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1713,6 +1722,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>100</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1729,6 +1739,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>101</No>
 <Name>Urza's Power Plant</Name>
 <Type>Land — Urza's Power-Plant</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</CardText>
@@ -1745,6 +1756,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>102</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>
@@ -1760,6 +1772,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>103</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>
@@ -1775,6 +1788,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>104</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>
@@ -1790,6 +1804,7 @@ At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return
 
 <Card>
 <SetId>CH</SetId>
+<No>105</No>
 <Name>Urza's Tower</Name>
 <Type>Land — Urza's Tower</Type>
 <CardText>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</CardText>

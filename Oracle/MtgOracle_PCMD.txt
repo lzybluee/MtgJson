@@ -1,0 +1,98 @@
+<Card>
+<SetId>PCMD</SetId>
+<No>184</No>
+<Name>Basandra, Battle Seraph</Name>
+<Type>Legendary Creature — Angel 4/4</Type>
+<ManaCost>3RW (5)</ManaCost>
+<CardText>Flying
+Players can't cast spells during combat.
+{R}: Target creature attacks this turn if able.</CardText>
+<Flavor>"Why listen to the mumblings of wizards when the lash speaks true?"</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2011/09/22: While <Basandra, Battle Seraph> is on the battlefield, players can't cast any spells during the combat phase, including permanent spells with flash.
+2011/09/22: Players may still activate abilities during combat.
+2011/09/22: If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Launch Party Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PCMD</SetId>
+<No>196</No>
+<Name>Edric, Spymaster of Trest</Name>
+<Type>Legendary Creature — Elf Rogue 2/2</Type>
+<ManaCost>1GU (3)</ManaCost>
+<CardText>Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.</CardText>
+<Flavor>"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high."</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2011/09/22: A creature controlled by an opponent that deals combat damage to another opponent will cause Edric's ability to trigger. The creature's controller chooses whether to draw a card.
+2011/09/22: When a creature you control deals combat damage to one of your opponents, you may draw a card.
+2015/01/19: <Edric, Spymaster of Trest> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Launch Party Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PCMD</SetId>
+<No>213</No>
+<Name>Nin, the Pain Artist</Name>
+<Type>Legendary Creature — Vedalken Wizard 1/1</Type>
+<ManaCost>UR (2)</ManaCost>
+<CardText>{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.</CardText>
+<Flavor>"Your body is a delicate instrument that tells me truths. These devices help me 'tune' that instrument."</Flavor>
+<Artist>Brad Rigney</Artist>
+<Rulings>2011/09/22: You may choose a value for X that's greater than the creature's toughness. Its controller will draw that many cards.
+2011/09/22: The effect is not optional. The creature's controller can't choose to draw fewer than X cards.
+2011/09/22: If the creature is an illegal target when Nin's ability tries to resolve, it won't resolve and none of its effects will happen. No player will draw cards.
+2011/09/22: If the ability resolves, but the damage is prevented or redirected, the controller of the targeted creature will draw X cards, regardless of how much damage was dealt or what the damage was ultimately dealt to.
+2011/09/22: If the damage is lethal, the cards are drawn before the creature is destroyed (the next time state-based actions are checked).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Launch Party Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PCMD</SetId>
+<No>227</No>
+<Name>Skullbriar, the Walking Grave</Name>
+<Type>Legendary Creature — Zombie Elemental 1/1</Type>
+<ManaCost>BG (2)</ManaCost>
+<CardText>Haste
+Whenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it.
+Counters remain on Skullbriar as it moves to any zone other than a player's hand or library.</CardText>
+<Artist>Nils Hamm</Artist>
+<Rulings>2011/09/22: Skullbriar will get one +1/+1 counter each time it deals combat damage to a player (including you if its combat damage gets redirected), regardless of how much damage is dealt.
+2011/09/22: Skullbriar retains all counters, not just +1/+1 counters.
+2011/09/22: The counters that remain on Skullbriar as it changes zones aren't "placed" on Skullbriar. Effects like Doubling Season's and Melira, Sylvok Outcast's won't affect those counters.
+2011/09/22: Counters that adjust power and/or toughness affect Skullbriar's power and/or toughness in zones other than the battlefield. For example, a Skullbriar in the command zone with a +1/+1 counter on it will be 2/2.
+2011/09/22: Effects that last "for as long as that creature has a [kind of] counter on it," such as Aven Mimeomancer's, stop applying to Skullbriar once it leaves the battlefield. Even though Skullbriar retains the counters, it becomes a new object with no relation to its last existence in its previous zone.
+2011/09/22: Skullbriar's last ability only works if it has that ability in the zone it's moving from. For example, with Yixlid Jailer ("Cards in graveyards lose all abilities") on the battlefield, a Skullbriar with a counter on it in a graveyard loses that counter when it's put onto the battlefield. Conversely, that Skullbriar moving from the graveyard to the battlefield would retain that counter if Humility ("All creatures lose all abilities and are 1/1") were on the battlefield; if Skullbriar then left the battlefield with Humility still on the battlefield, it would lose the counter.
+2011/09/22: If a card becomes a copy of Skullbriar, counters will remain on that card when it leaves the battlefield (unless it goes to your hand or library). Once it does so, it stops being a copy of Skullbriar, so those counters will cease to exist when that card next changes zones.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Launch Party Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PCMD</SetId>
+<No>234</No>
+<Name>Vish Kal, Blood Arbiter</Name>
+<Type>Legendary Creature — Vampire 5/5</Type>
+<ManaCost>4WBB (7)</ManaCost>
+<CardText>Flying, lifelink
+Sacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature's power.
+Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.</CardText>
+<Artist>Michael C. Hayes</Artist>
+<Rulings>2011/09/22: Vish Kal's last ability doesn't deal damage. It doesn't cause you to gain any life from its lifelink ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2011 Launch Party Edition</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

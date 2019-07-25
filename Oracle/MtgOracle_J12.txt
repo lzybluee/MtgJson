@@ -1,0 +1,143 @@
+<Card>
+<SetId>J12</SetId>
+<No>1</No>
+<Name>Xiahou Dun, the One-Eyed</Name>
+<Type>Legendary Creature — Human Soldier 3/2</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared.</CardText>
+<Artist>Junko Taguchi</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2009/10/01: Despite the similarities between horsemanship and flying, horsemanship doesn't interact with flying or reach.
+2009/10/01: You can't activate Xiahou Dun's ability to return Xiahou Dun itself to your hand. You must choose a target before you sacrifice Xiahou Dun, so it's not a black card in your graveyard yet.
+2013/09/20: If a turn has multiple combat phases, the ability can only be activated before the beginning of the declare attackers step of the first combat phase in that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>2</No>
+<Name>Flusterstorm</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target instant or sorcery spell unless its controller pays {1}.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</CardText>
+<Artist>Erica Yang</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
+2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
+2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
+2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.
+2013/06/07: You may choose new targets for any of the copies. You can choose differently for each copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>3</No>
+<Name>Noble Hierarch</Name>
+<Type>Creature — Human Druid 0/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {G}, {W}, or {U}.</CardText>
+<Flavor>She protects the sacred groves from blight, drought, and the Unbeholden.</Flavor>
+<Artist>Mark Zug</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>4</No>
+<Name>Karmic Guide</Name>
+<Type>Creature — Angel Spirit 2/2</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying, protection from black
+Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.</CardText>
+<Artist>Allen Williams</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>5</No>
+<Name>Sneak Attack</Name>
+<Type>Enchantment</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2007/05/01: Putting the card onto the battlefield is optional. When the ability resolves, you can choose not to.
+2016/06/08: You only sacrifice the creature if you still control it at end of turn. If that creature has left the battlefield, even if it came back, you don't sacrifice it. Likewise, if an opponent has gained control of it, it won't be sacrificed and will remain on the battlefield indefinitely.
+2016/06/08: Putting a card onto the battlefield is optional. When the ability resolves, you can choose not to, even if you have one in your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>6</No>
+<Name>Karakas</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {W}.
+{T}: Return target legendary creature to its owner's hand.</CardText>
+<Artist>Drew Baker</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>7</No>
+<Name>Sword of Light and Shadow</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from white and from black.
+Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.
+Equip {2}</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2013/06/07: You may put the triggered ability with no targets. However, If you choose a target creature in your graveyard, and that card is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J12</SetId>
+<No>8</No>
+<Name>Command Tower</Name>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any color in your commander's color identity.</CardText>
+<Flavor>When defeat is near and guidance is scarce, all eyes look in one direction.</Flavor>
+<Artist>Ryan Yee</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/09/22: The color identity of your commander is set before the game begins and doesn't change during the game, even your commander is in a hidden zone (like the hand or library) or an effect changes your commander's color.
+2011/09/22: If your commander is a card like Kozilek, Butcher of Truth that has no colors in its color identity, <Command Tower>'s ability produces no mana.
+2011/09/22: In formats other than Commander, <Command Tower>'s ability produces no mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

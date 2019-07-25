@@ -1,0 +1,1583 @@
+<Card>
+<SetId>PKLD</SetId>
+<No>3s</No>
+<Name>Aetherstorm Roc</Name>
+<Type>Creature — Bird 3/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Flying
+Whenever Aetherstorm Roc or another creature enters the battlefield under your control, you get {E} (an energy counter).
+Whenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it and tap up to one target creature defending player controls.</CardText>
+<Artist>Scott Murphy</Artist>
+<Rulings>2016/09/20: <Aetherstorm Roc>'s second triggered ability resolves before blockers are chosen. A creature tapped this way won't be able to block.
+2016/09/20: You don't have to target a creature with <Aetherstorm Roc>'s last ability. If you do choose a target, and that target becomes illegal, the ability doesn't resolve and you won't be able to pay {E}{E} to put a counter on <Aetherstorm Roc>.
+2016/09/20: A creature entering the battlefield at the same time as <Aetherstorm Roc> causes its first triggered ability to trigger.
+2017/02/09: If a triggered ability with one or more targets states that you "may pay" some amount of {E}, and each permanent that it targets has become an illegal target, the ability doesn't resolve. You can't pay {E} even if you want to.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: Some triggered abilities state that you "may pay" a certain amount of {E}. You can't pay that amount multiple times to multiply the effect. You simply choose whether or not to pay that amount of {E} as the ability resolves, and no player may take actions to try to stop the ability's effect after you make your choice.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>4s</No>
+<Name>Angel of Invention</Name>
+<Type>Creature — Angel 2/1</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying, vigilance, lifelink
+Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)
+Other creatures you control get +1/+1.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2016/09/20: You choose whether to put +1/+1 counters on the creature or create Servo tokens as the fabricate ability is resolving. No player may take actions between the time you choose and the time that counters are added or tokens are created.
+2016/09/20: Fabricate doesn't cause the creature with the ability to enter the battlefield with +1/+1 counters already on it. For example, Weaponcraft Enthusiast will enter the battlefield as a 0/1 creature, then its fabricate ability goes on the stack. Players may take actions (such as casting instants) while the ability is waiting to resolve.
+2016/09/20: If you can't put +1/+1 counters on the creature for any reason as fabricate resolves (for instance, if it's no longer on the battlefield), you just create Servo tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>5s</No>
+<Name>Authority of the Consuls</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Creatures your opponents control enter the battlefield tapped.
+Whenever a creature enters the battlefield under an opponent's control, you gain 1 life.</CardText>
+<Flavor>Citizens are free to do as they wish, within the confines of the Consulate's laws.</Flavor>
+<Artist>Lake Hurwitz</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>8s</No>
+<Name>Captured by the Consulate</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Enchant creature you don't control
+Enchanted creature can't attack.
+Whenever an opponent casts a spell, if it has a single target, change the target to enchanted creature if able.</CardText>
+<Flavor>"At last, the infamous Pia Nalaar."
+—Tezzeret</Flavor>
+<Artist>Tyler Jacobson</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2016/09/20: When you attach <Captured by the Consulate> to an opponent's creature, you still control <Captured by the Consulate>. Its last ability triggers whenever your opponents cast a spell with a single target, not when an opponent of the creature's controller casts a spell with a single target.
+2016/09/20: When a player casts an Aura spell, it targets the creature that it will enchant and may cause <Captured by the Consulate>'s last ability to trigger.
+2016/09/20: If a spell has multiple targets, it doesn't have a single target even if the same object is chosen for each of those targets.
+2016/09/20: If the spell can't target the enchanted creature, its target remains unchanged.
+2016/09/20: If there is more than one <Captured by the Consulate> on the battlefield, the triggered ability of each one will change the target if able. The last one to resolve determines what that spell finally targets. If one player controls more than one Capture by the Consulate, they choose the order in which they resolve. If multiple players control those Auras, the first player among them in turn order (starting with the player whose turn it is now) is the one whose triggered ability resolves last.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>9s</No>
+<Name>Cataclysmic Gearhulk</Name>
+<Type>Artifact Creature — Construct 4/5</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Vigilance
+When Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest.</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2016/09/20: First the player whose turn it is chooses permanents they control, then each other player in turn order does the same. Each player will know the choices made by players who chose before them. All of the unchosen nonland permanents are then sacrificed simultaneously.
+2016/09/20: A permanent with more than one type may be chosen as either of the types or both. For example, an artifact creature may be chosen as the artifact, the creature, or both. Choosing the same permanent twice this way has the same result as choosing it once.
+2016/09/20: <Cataclysmic Gearhulk> will be sacrificed to its own ability if you don't choose it as your artifact or your creature.
+2016/09/20: Lands can't be chosen and won't be sacrificed, even if they have other types (such as an artifact land).
+2016/09/20: If you don't control any permanents of one of the types, you'll still choose the permanents of the types you do control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>15s</No>
+<Name>Fumigate</Name>
+<Type>Sorcery</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Destroy all creatures. You gain 1 life for each creature destroyed this way.</CardText>
+<Flavor>"Ghirapur's gremlin population poses a threat to the infrastructure of the fairgrounds. Threats must be eliminated."
+—Sram, senior edificer</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2016/09/20: Creatures destroyed this way count toward the life gained even if they're put into a zone other than a graveyard.
+2016/09/20: Creatures with indestructible aren't destroyed this way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>21s</No>
+<Name>Master Trinketeer</Name>
+<Type>Creature — Dwarf Artificer 3/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Servos and Thopters you control get +1/+1.
+{3}{W}: Create a 1/1 colorless Servo artifact creature token.</CardText>
+<Flavor>"Let us never forget the joy that lies at the heart of invention."</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2016/09/20: A creature that is both a Servo and a Thopter gets +1/+1, not +2/+2.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>32s</No>
+<Name>Toolcraft Exemplar</Name>
+<Type>Creature — Dwarf Artificer 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At the beginning of combat on your turn, if you control an artifact, Toolcraft Exemplar gets +2/+1 until end of turn. If you control three or more artifacts, it also gains first strike until end of turn.</CardText>
+<Flavor>"If you wish to produce the finest work, you must start with the finest tools."</Flavor>
+<Artist>Zezhou Chen</Artist>
+<Rulings>2016/09/20: If you control no artifacts as your combat phase begins, <Toolcraft Exemplar>'s triggered ability doesn't trigger at all. If you control no artifacts as the triggered ability resolves, it has no effect.
+2016/09/20: Whether or not you control three or more artifacts is checked only as the triggered ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>39s</No>
+<Name>Aethersquall Ancient</Name>
+<Type>Creature — Leviathan 6/6</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Flying
+At the beginning of your upkeep, you get {E}{E}{E} (three energy counters).
+Pay {E}{E}{E}{E}{E}{E}{E}{E}: Return all other creatures to their owners' hands. Activate this ability only any time you could cast a sorcery.</CardText>
+<Artist>Sam Burley</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>41s</No>
+<Name>Confiscation Coup</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Choose target artifact or creature. You get {E}{E}{E}{E} (four energy counters), then you may pay an amount of {E} equal to that permanent's converted mana cost. If you do, gain control of it.</CardText>
+<Flavor>"Citizens, do not resist. This is for your safety. Tezzeret bids you to surrender your inventions. Now."</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2016/09/20: If a permanent has {X} in its mana cost, X is considered to be 0.
+2016/09/20: The converted mana cost of a token that isn't a copy of another object is 0. A token that is a copy of another object has the same mana cost as that object.
+2016/09/20: In a multiplayer game, if a permanent's owner leaves the game after you've gained control of it, the permanent leaves with that player. If you leave the game before that player, the control-change effect ends.
+2016/09/20: If the target artifact or creature has a converted mana cost of 0, you may choose to pay zero energy and gain control of it.
+2016/09/20: You choose the target artifact or creature as you cast <Confiscation Coup>. You don't choose whether or not to pay an amount of {E} until <Confiscation Coup> resolves. If the target becomes an illegal target, <Confiscation Coup> won't resolve and you won't get {E}{E}{E}{E}.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>52s</No>
+<Name>Insidious Will</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Choose one —
+• Counter target spell.
+• You may choose new targets for target spell.
+• Copy target instant or sorcery spell. You may choose new targets for the copy.</CardText>
+<Flavor>"We meet again, pyromancer."
+—Baral, Chief of Compliance</Flavor>
+<Artist>Anthony Palumbo</Artist>
+<Rulings>2016/09/20: If you choose new targets for the target spell or for the copy, the new targets must be legal.
+2016/09/20: If you copy a spell, you control the copy.
+2016/09/20: The third mode can copy any instant or sorcery spell, not just one with targets.
+2016/09/20: The copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2016/09/20: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2016/09/20: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. A different mode cannot be chosen.
+2016/09/20: If the spell that's copied has an X whose value was determined as it was cast (like Eliminate the Competition does), the copy will have the same value of X.
+2016/09/20: If the spell has damage divided as it was cast (like Chandra's Pyrohelix), the division can't be changed (although the targets receiving that damage still can).
+2016/09/20: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>56s</No>
+<Name>Metallurgic Summonings</Name>
+<Type>Enchantment</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, create an X/X colorless Construct artifact creature token, where X is that spell's converted mana cost.
+{3}{U}{U}, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate this ability only if you control six or more artifacts.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2016/09/20: For a spell with {X} in its mana cost, use the value chosen for X to determine its converted mana cost. For example, Clash of Wills is an instant spell with mana cost {X}{U}. If you chose 2 as the value of X, then Clash of Wills has converted mana cost 3, and <Metallurgic Summonings>'s ability will create a 3/3 token.
+2016/09/20: <Metallurgic Summonings>'s first ability resolves before the spell that caused it to trigger.
+2016/09/20: If <Metallurgic Summonings>'s first ability resolves and the spell that caused it to trigger has been countered, use that spell's converted mana cost as it last existed on the stack to determine the value of X.
+2016/09/20: The number of artifacts you control is checked only as you activate <Metallurgic Summonings>'s last ability. It's not checked again as it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>59s</No>
+<Name>Padeem, Consul of Innovation</Name>
+<Type>Legendary Creature — Vedalken Artificer 1/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Artifacts you control have hexproof.
+At the beginning of your upkeep, if you control the artifact with the highest converted mana cost or tied for the highest converted mana cost, draw a card.</CardText>
+<Flavor>"Impress me."</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2016/09/20: The artifact you control has to have the highest converted mana cost only among artifacts on the battlefield, not among all permanents on the battlefield.
+2016/09/20: If an artifact has {X} in its mana cost, X is considered to be 0.
+2016/09/20: If you don't control an artifact with the highest converted mana cost as your upkeep begins, Padeem's second ability won't trigger. You can't cast an instant to destroy an opponent's artifact during your turn before your upkeep begins.
+2016/09/20: If you no longer control an artifact with the highest converted mana cost as Padeem's triggered ability resolves, you don't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>60s</No>
+<Name>Paradoxical Outcome</Name>
+<Type>Instant</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Return any number of target nonland, nontoken permanents you control to their owners' hands. Draw a card for each card returned to your hand this way.</CardText>
+<Flavor>The results of Rashmi's experimentation forced her to consider the possibility that multitudinous realities existed beyond her own.</Flavor>
+<Artist>Nils Hamm</Artist>
+<Rulings>2016/09/20: If you control but don't own some of the target permanents, they won't count when determining how many cards you draw.
+2016/09/20: If a melded permanent is returned to your hand this way, you'll draw two cards for it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>62</No>
+<Name>Saheeli's Artistry</Name>
+<Type>Sorcery</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Choose one or both —
+• Create a token that's a copy of target artifact.
+• Create a token that's a copy of target creature, except it's an artifact in addition to its other types.</CardText>
+<Flavor>"From the first touch, I know exactly what the metal wants to be."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2016/09/20: The token copies exactly what was printed on the original permanent and nothing else (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
+2016/09/20: If you chose the second mode, the token is an artifact in addition to its other types. This is a copiable value of the token that other effects may copy.
+2016/09/20: If the copied permanent has {X} in its mana cost, X is considered to be 0.
+2016/09/20: If the copied permanent is copying something else (for example, if the copied permanent is an Altered Ego), then the token enters the battlefield as whatever that permanent copied.
+2016/09/20: If the copied permanent is a token, the token created with <Saheeli's Artistry> copies the original characteristics of that token as stated by the effect that that created that token.
+2016/09/20: Any enters-the-battlefield abilities of the copied permanent will trigger when the token enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the chosen permanent will also work.
+2016/09/20: If you choose both modes, you may target a single artifact creature twice and get two copies of that artifact creature.
+2016/09/20: If you choose both modes, the tokens enter one at a time. Thus, if the token created by the second mode has an ability that triggers "whenever an artifact enters the battlefield," the token created by the first mode will already be on the battlefield and won't cause that ability to trigger.
+2016/09/20: Any abilities that trigger during the resolution of <Saheeli's Artistry> will wait to be put onto the stack until <Saheeli's Artistry> finishes resolving. An ability that triggers on the first token entering the battlefield may target the second token and vice versa.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>62s</No>
+<Name>Saheeli's Artistry</Name>
+<Type>Sorcery</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Choose one or both —
+• Create a token that's a copy of target artifact.
+• Create a token that's a copy of target creature, except it's an artifact in addition to its other types.</CardText>
+<Flavor>"From the first touch, I know exactly what the metal wants to be."</Flavor>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2016/09/20: The token copies exactly what was printed on the original permanent and nothing else (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
+2016/09/20: If you chose the second mode, the token is an artifact in addition to its other types. This is a copiable value of the token that other effects may copy.
+2016/09/20: If the copied permanent has {X} in its mana cost, X is considered to be 0.
+2016/09/20: If the copied permanent is copying something else (for example, if the copied permanent is an Altered Ego), then the token enters the battlefield as whatever that permanent copied.
+2016/09/20: If the copied permanent is a token, the token created with <Saheeli's Artistry> copies the original characteristics of that token as stated by the effect that that created that token.
+2016/09/20: Any enters-the-battlefield abilities of the copied permanent will trigger when the token enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the chosen permanent will also work.
+2016/09/20: If you choose both modes, you may target a single artifact creature twice and get two copies of that artifact creature.
+2016/09/20: If you choose both modes, the tokens enter one at a time. Thus, if the token created by the second mode has an ability that triggers "whenever an artifact enters the battlefield," the token created by the first mode will already be on the battlefield and won't cause that ability to trigger.
+2016/09/20: Any abilities that trigger during the resolution of <Saheeli's Artistry> will wait to be put onto the stack until <Saheeli's Artistry> finishes resolving. An ability that triggers on the first token entering the battlefield may target the second token and vice versa.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>67s</No>
+<Name>Torrential Gearhulk</Name>
+<Type>Artifact Creature — Construct 5/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Flash
+When Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2016/09/20: If you cast the card, you do so as part of the resolution of <Torrential Gearhulk>'s triggered ability. You can't wait to cast it later in the turn. Timing restrictions (such as "Cast [this card] only during combat") still apply.
+2016/09/20: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Incendiary Sabotage, you must pay those to cast the card.
+2016/09/20: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>73s</No>
+<Name>Demon of Dark Schemes</Name>
+<Type>Creature — Demon 5/5</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Flying
+When Demon of Dark Schemes enters the battlefield, all other creatures get -2/-2 until end of turn.
+Whenever another creature dies, you get {E} (an energy counter).
+{2}{B}, Pay {E}{E}{E}{E}: Put target creature card from a graveyard onto the battlefield under your control tapped.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/09/20: <Demon of Dark Schemes>'s second triggered ability triggers whenever another creature dies for any reason, not just due to the first triggered ability.
+2016/09/20: If <Demon of Dark Schemes> dies at the same time as another creature, its second triggered ability triggers.
+2016/09/20: If a creature's owner leaves the game after you've put that creature onto the battlefield with <Demon of Dark Schemes>'s last ability, the creature leaves with that player. If you leave the game before that player, the creature is exiled.
+2016/09/20: The set of creatures affected by <Demon of Dark Schemes>'s first triggered ability is determined as the ability resolves. Creatures that enter the battlefield later in the turn and noncreature permanents that become creatures later in the turn won't get -2/-2.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>78s</No>
+<Name>Eliminate the Competition</Name>
+<Type>Sorcery</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice X creatures.
+Destroy X target creatures.</CardText>
+<Flavor>Open hostilities are strictly forbidden at the Inventors' Fair, but "accidents" still happen.</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2016/09/20: Once you announce that you're casting <Eliminate the Competition>, players can't try to remove creatures you'd like to sacrifice.
+2016/09/20: If you somehow cast <Eliminate the Competition> without paying its mana cost, you'll still choose a value for X and sacrifice X creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>80</No>
+<Name>Essence Extraction</Name>
+<Type>Instant</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Essence Extraction deals 3 damage to target creature and you gain 3 life.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Rulings>2016/09/20: If the target creature becomes an illegal target, <Essence Extraction> doesn't resolve and you don't gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>84s</No>
+<Name>Gonti, Lord of Luxury</Name>
+<Type>Legendary Creature — Aetherborn Rogue 2/3</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Deathtouch
+When Gonti, Lord of Luxury enters the battlefield, look at the top four cards of target opponent's library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/09/20: You may look at and cast that card (and spend mana as though it were mana of any type to do so) even if Gonti leaves the battlefield. If another player gains control of Gonti, that player can't look at or cast the card, and you still can.
+2016/09/20: An effect that instructs you to "cast" a card doesn't allow you to play lands.
+2016/09/20: You pay the costs for the exiled card if you cast it. You may pay alternative costs such as emerge rather than the card's mana cost.
+2016/09/20: Gonti doesn't change when you can cast the exiled card. For example, if you exile a creature card without flash, you can cast it only during your main phase when the stack is empty.
+2016/09/20: Casting the card causes it to leave exile. You can't cast it multiple times.
+2016/09/20: If you leave the game, the card remains exiled face down indefinitely. No player may look at it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>88s</No>
+<Name>Lost Legacy</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Choose a nonartifact, nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles their library, then draws a card for each card exiled from hand this way.</CardText>
+<Flavor>"That name shall not be spoken."
+—Baral, Chief of Compliance</Flavor>
+<Artist>Greg Opalinski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>90s</No>
+<Name>Marionette Master</Name>
+<Type>Creature — Human Artificer 1/3</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Fabricate 3 (When this creature enters the battlefield, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)
+Whenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to Marionette Master's power.</CardText>
+<Artist>James Ryman</Artist>
+<Rulings>2016/09/20: The amount of life lost is determined as <Marionette Master>'s last ability resolves. If <Marionette Master> is no longer on the battlefield, use its power as it last existed on the battlefield to determine how much life is lost.
+2016/09/20: If <Marionette Master>'s power is negative, the target opponent doesn't lose (or gain) life.
+2016/09/20: If <Marionette Master> and an artifact you control are put into a graveyard at the same time, <Marionette Master>'s ability triggers.
+2016/09/20: Artifact tokens that are sacrificed or destroyed are put into their owner's graveyard before ceasing to exist. If you controlled the token, <Marionette Master>'s last ability will trigger.
+2016/09/20: You choose whether to put +1/+1 counters on the creature or create Servo tokens as the fabricate ability is resolving. No player may take actions between the time you choose and the time that counters are added or tokens are created.
+2016/09/20: Fabricate doesn't cause the creature with the ability to enter the battlefield with +1/+1 counters already on it. For example, Weaponcraft Enthusiast will enter the battlefield as a 0/1 creature, then its fabricate ability goes on the stack. Players may take actions (such as casting instants) while the ability is waiting to resolve.
+2016/09/20: If you can't put +1/+1 counters on the creature for any reason as fabricate resolves (for instance, if it's no longer on the battlefield), you just create Servo tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>92s</No>
+<Name>Midnight Oil</Name>
+<Type>Enchantment</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Midnight Oil enters the battlefield with seven hour counters on it.
+At the beginning of your draw step, draw an additional card and remove two hour counters from Midnight Oil.
+Your maximum hand size is equal to the number of hour counters on Midnight Oil.
+Whenever you discard a card, you lose 1 life.</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Rulings>2016/09/20: If multiple effects try to set your maximum hand size to a certain number or state that you have no maximum hand size, the one created latest is the one that applies.
+2016/09/20: If <Midnight Oil> has only one hour counter on it, its first triggered ability will remove that one counter.
+2016/09/20: If <Midnight Oil> has no hour counters on it, its first triggered ability will continue to trigger and have you draw an additional card, even though you can't remove any counters from it.
+2016/09/20: Your maximum hand size is only checked during the cleanup step of your turn. At other times, you may have more cards in hand than your maximum hand size.
+2016/09/20: If you discard a card during your cleanup step while you control <Midnight Oil>, its last ability will trigger, and players will get priority in your cleanup step. You'll have another cleanup step after that one before continuing to the next player's turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>96s</No>
+<Name>Noxious Gearhulk</Name>
+<Type>Artifact Creature — Construct 5/4</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Menace
+When Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2016/09/20: Use the toughness of the creature as it last existed on the battlefield to determine how much life to gain.
+2016/09/20: If the target creature has indestructible, it isn't destroyed this way and you won't gain life. If it is destroyed but put into a zone other than a graveyard, you'll gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>101s</No>
+<Name>Syndicate Trafficker</Name>
+<Type>Creature — Aetherborn Rogue 3/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}, Sacrifice an artifact: Put a +1/+1 counter on Syndicate Trafficker. It gains indestructible until end of turn.</CardText>
+<Flavor>"The price isn't negotiable, but I'm sure you'll agree it's fair."</Flavor>
+<Artist>Tony Foti</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>110s</No>
+<Name>Chandra, Torch of Defiance</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>+1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
++1: Add {R}{R}.
+-3: Chandra, Torch of Defiance deals 4 damage to target creature.
+-7: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/09/20: An effect that instructs you to "cast" a card doesn't allow you to play lands. If the card exiled with Chandra's first ability is a land card, you can't play it and Chandra deals 2 damage to each opponent.
+2016/09/20: If you cast the exiled card, you do so as part of the resolution of Chandra's ability. You can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
+2016/09/20: You pay the costs for the exiled card if you cast it. You may pay alternative costs such as emerge rather than the card's mana cost.
+2016/09/20: Loyalty abilities can't be mana abilities. Chandra's second ability uses the stack and can be countered or otherwise responded to. Like all loyalty abilities, it can be activated only once per turn, during your main phase, when the stack is empty, and only if no other loyalty abilities of the planeswalker have been activated this turn.
+2016/09/20: The emblem created by Chandra's last ability is colorless. The damage it deals is from a colorless source.
+2016/09/20: Chandra's emblem's ability resolves before the spell that caused it to trigger.
+2016/09/20: In a Two-Headed Giant game, Chandra's first ability causes 4 damage total to be dealt to the opposing team.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>112s</No>
+<Name>Combustible Gearhulk</Name>
+<Type>Artifact Creature — Construct 6/6</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>First strike
+When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/09/20: If any of the cards put into your graveyard have {X} in their mana cost, X is considered to be 0.
+2016/09/20: If you have fewer than three cards in your library, the opponent may choose to have you draw three cards. If so, you'll lose the game as state-based actions are performed.
+2016/09/20: While <Combustible Gearhulk>'s triggered ability is resolving, no player may take any actions other than those specified by the Gearhulk. Once the opponent makes a choice, players can't cast spells or activate abilities until after the cards are drawn or put into the graveyard and damage has been dealt (if applicable).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>114s</No>
+<Name>Fateful Showdown</Name>
+<Type>Instant</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Fateful Showdown deals damage to any target equal to the number of cards in your hand. Discard all the cards in your hand, then draw that many cards.</CardText>
+<Flavor>Tonight at the Grand Exhibition, witness Head Judge Tezzeret face off against the infamous renegade Pia Nalaar.</Flavor>
+<Artist>Chris Rallis</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2016/09/20: The number of cards in your hand is counted only as <Fateful Showdown> resolves. <Fateful Showdown> is on the stack at this time, so it's not counted.
+2016/09/20: If <Fateful Showdown>'s target becomes an illegal target, you won't discard your hand or draw any cards.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>121s</No>
+<Name>Lathnu Hellion</Name>
+<Type>Creature — Hellion 4/4</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Haste
+When Lathnu Hellion enters the battlefield, you get {E}{E} (two energy counters).
+At the beginning of your end step, sacrifice Lathnu Hellion unless you pay {E}{E}.</CardText>
+<Artist>Lars Grant-West</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>122s</No>
+<Name>Madcap Experiment</Name>
+<Type>Sorcery</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Reveal cards from the top of your library until you reveal an artifact card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Madcap Experiment deals damage to you equal to the number of cards revealed this way.</CardText>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2016/09/20: The number of cards revealed this way includes the artifact card you put onto the battlefield.
+2016/09/20: Once <Madcap Experiment> begins resolving, no player may take any actions other than those specified by <Madcap Experiment> until it's done resolving.
+2016/09/20: Any abilities that trigger as the artifact enters the battlefield aren't put onto the stack until <Madcap Experiment> is done resolving.
+2016/09/20: If you don't reveal an artifact card, you'll randomize your library and be dealt damage equal to the number of cards in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>124s</No>
+<Name>Pia Nalaar</Name>
+<Type>Legendary Creature — Human Artificer 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.
+{1}{R}: Target artifact creature gets +1/+0 until end of turn.
+{1}, Sacrifice an artifact: Target creature can't block this turn.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2016/09/20: Once a creature has blocked an attacking creature, activating <Pia Nalaar>'s last ability won't cause the attacking creature to become unblocked.
+2016/09/20: The "legend rule" cares about legendary permanents with the exact same English name. The Kaladesh™ card <Pia Nalaar> and the Magic Origins™ card Pia and Kiran Nalaar have different names, so you can control both at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>130</No>
+<Name>Skyship Stalker</Name>
+<Type>Creature — Dragon 3/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying
+{R}: Skyship Stalker gets +1/+0 until end of turn.
+{R}: Skyship Stalker gains first strike until end of turn.
+{R}: Skyship Stalker gains haste until end of turn.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>130s</No>
+<Name>Skyship Stalker</Name>
+<Type>Creature — Dragon 3/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying
+{R}: Skyship Stalker gets +1/+0 until end of turn.
+{R}: Skyship Stalker gains first strike until end of turn.
+{R}: Skyship Stalker gains haste until end of turn.</CardText>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>136s</No>
+<Name>Territorial Gorger</Name>
+<Type>Creature — Gremlin 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Trample
+Whenever you get one or more {E} (energy counters), Territorial Gorger gets +2/+2 until end of turn.</CardText>
+<Flavor>Inventors have been known to capture gremlins with the intent to release them in a rival's workshop. More often than not, that plan backfires.</Flavor>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2016/09/20: If you get multiple {E} at once, <Territorial Gorger> only gets +2/+2 once, not +2/+2 per {E}. If you get multiple {E} at different times, it triggers once each time.
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>143s</No>
+<Name>Architect of the Untamed</Name>
+<Type>Creature — Elf Artificer Druid 2/3</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever a land enters the battlefield under your control, you get {E} (an energy counter).
+Pay {E}{E}{E}{E}{E}{E}{E}{E}: Create a 6/6 colorless Beast artifact creature token.</CardText>
+<Flavor>Next to her designs, life seems like a pale imitation.</Flavor>
+<Artist>Sara Winters</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>147s</No>
+<Name>Bristling Hydra</Name>
+<Type>Creature — Hydra 4/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters).
+Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.</CardText>
+<Artist>Chris Rahn</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>151</No>
+<Name>Cultivator of Blades</Name>
+<Type>Creature — Elf Artificer 1/1</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)
+Whenever Cultivator of Blades attacks, you may have other attacking creatures get +X/+X until end of turn, where X is Cultivator of Blades's power.</CardText>
+<Artist>Josu Hernaiz</Artist>
+<Rulings>2016/09/20: The value of X is determined as <Cultivator of Blades>'s last ability resolves. It won't change later, even if its power changes. If <Cultivator of Blades> is no longer on the battlefield, use its power as it last existed on the battlefield to determine the value of X.
+2016/09/20: You choose whether or not to have your other attacking creatures get +X/+X as <Cultivator of Blades>'s triggered ability resolves, not as you put it onto the stack.
+2016/09/20: You choose whether to put +1/+1 counters on the creature or create Servo tokens as the fabricate ability is resolving. No player may take actions between the time you choose and the time that counters are added or tokens are created.
+2016/09/20: Fabricate doesn't cause the creature with the ability to enter the battlefield with +1/+1 counters already on it. For example, Weaponcraft Enthusiast will enter the battlefield as a 0/1 creature, then its fabricate ability goes on the stack. Players may take actions (such as casting instants) while the ability is waiting to resolve.
+2016/09/20: If you can't put +1/+1 counters on the creature for any reason as fabricate resolves (for instance, if it's no longer on the battlefield), you just create Servo tokens.
+2017/07/14: If this creature's power is negative as its ability resolves, X is considered to be 0. (This is a change from previous rulings.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>151s</No>
+<Name>Cultivator of Blades</Name>
+<Type>Creature — Elf Artificer 1/1</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)
+Whenever Cultivator of Blades attacks, you may have other attacking creatures get +X/+X until end of turn, where X is Cultivator of Blades's power.</CardText>
+<Artist>Bastien L. Deharme</Artist>
+<Rulings>2016/09/20: The value of X is determined as <Cultivator of Blades>'s last ability resolves. It won't change later, even if its power changes. If <Cultivator of Blades> is no longer on the battlefield, use its power as it last existed on the battlefield to determine the value of X.
+2016/09/20: You choose whether or not to have your other attacking creatures get +X/+X as <Cultivator of Blades>'s triggered ability resolves, not as you put it onto the stack.
+2016/09/20: You choose whether to put +1/+1 counters on the creature or create Servo tokens as the fabricate ability is resolving. No player may take actions between the time you choose and the time that counters are added or tokens are created.
+2016/09/20: Fabricate doesn't cause the creature with the ability to enter the battlefield with +1/+1 counters already on it. For example, Weaponcraft Enthusiast will enter the battlefield as a 0/1 creature, then its fabricate ability goes on the stack. Players may take actions (such as casting instants) while the ability is waiting to resolve.
+2016/09/20: If you can't put +1/+1 counters on the creature for any reason as fabricate resolves (for instance, if it's no longer on the battlefield), you just create Servo tokens.
+2017/07/14: If this creature's power is negative as its ability resolves, X is considered to be 0. (This is a change from previous rulings.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>152s</No>
+<Name>Dubious Challenge</Name>
+<Type>Sorcery</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Look at the top ten cards of your library, exile up to two creature cards from among them, then shuffle your library. Target opponent may choose one of the exiled cards and put it onto the battlefield under their control. Put the rest onto the battlefield under your control.</CardText>
+<Artist>Scott Murphy</Artist>
+<Rulings>2016/09/20: The creature cards you exile are face up. Your opponent can see them while deciding whether to take one and which to take.
+2016/09/20: You may choose to exile only one creature card. If you do, the target opponent chooses who gets the card.
+2016/09/20: You may choose to exile no creature cards, even if there are one or more among the top ten cards of your library.
+2016/09/20: The cards that you look at but don't exile never leave your library. They're shuffled along with the rest of your library.
+2016/09/20: In a multiplayer game, you must choose the target opponent before you look at your top ten cards and decide what to exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>163s</No>
+<Name>Nissa, Vital Force</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 5)</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>+1: Untap target land you control. Until your next turn, it becomes a 5/5 Elemental creature with haste. It's still a land.
+-3: Return target permanent card from your graveyard to your hand.
+-6: You get an emblem with "Whenever a land enters the battlefield under your control, you may draw a card."</CardText>
+<Artist>Clint Cearley</Artist>
+<Rulings>2016/09/20: You can activate Nissa's first ability targeting a land that's already untapped.
+2016/09/20: After resolving Nissa's first ability, the target land still has any abilities it had before it became a creature and any other types it had.
+2016/09/20: A permanent card is an artifact, creature, enchantment, land, or planeswalker card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>165s</No>
+<Name>Oviya Pashiri, Sage Lifecrafter</Name>
+<Type>Legendary Creature — Human Artificer 1/2</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{2}{G}, {T}: Create a 1/1 colorless Servo artifact creature token.
+{4}{G}, {T}: Create an X/X colorless Construct artifact creature token, where X is the number of creatures you control.</CardText>
+<Flavor>"Inspiration is reciprocal: we all have a responsibility to each other to create."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/09/20: The value of X is determined only as Oviya Pashiri's last ability resolves. The token's power and toughness won't change as the number of creatures you control changes.
+2016/09/20: The Construct token you're creating doesn't count towards X for the ability that creates it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>172s</No>
+<Name>Verdurous Gearhulk</Name>
+<Type>Artifact Creature — Construct 4/4</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Trample
+When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2016/09/20: You choose how the counters will be distributed as you put <Verdurous Gearhulk>'s triggered ability onto the stack. Each target creature must be assigned at least one counter.
+2016/09/20: If one of the target creatures becomes an illegal target in response to <Verdurous Gearhulk>'s triggered ability, the +1/+1 counters that would have been put on that creature are lost. They can't be put on another legal target.
+2016/09/20: <Verdurous Gearhulk> can be the target of its own triggered ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>174s</No>
+<Name>Wildest Dreams</Name>
+<Type>Sorcery</Type>
+<ManaCost>XXG (1)</ManaCost>
+<CardText>Return X target cards from your graveyard to your hand. Exile Wildest Dreams.</CardText>
+<Flavor>"I opened my mind to the immensity of the wonders around me. It was only then that I could see the Great Conduit."
+—Rashmi, aether-seer</Flavor>
+<Artist>Daniel Ljunggren</Artist>
+<Rulings>2016/09/20: If each target card is an illegal target as <Wildest Dreams> resolves, <Wildest Dreams> doesn't resolve and is put into its owner's graveyard. It's not exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>178s</No>
+<Name>Depala, Pilot Exemplar</Name>
+<Type>Legendary Creature — Dwarf Pilot 3/3</Type>
+<ManaCost>1RW (3)</ManaCost>
+<CardText>Other Dwarves you control get +1/+1.
+Each Vehicle you control gets +1/+1 as long as it's a creature.
+Whenever Depala, Pilot Exemplar becomes tapped, you may pay {X}. If you do, reveal the top X cards of your library, put all Dwarf and Vehicle cards from among them into your hand, then put the rest on the bottom of your library in a random order.</CardText>
+<Artist>Greg Opalinski</Artist>
+<Rulings>2016/09/20: <Depala, Pilot Exemplar>'s last ability is a triggered ability, not an activated ability. It doesn't allow you to tap Depala whenever you want; rather, you need some other way of tapping it, such as by attacking.
+2016/09/20: For the ability to trigger, Depala has to actually change from untapped to tapped. If an effect attempts to tap Depala, but it was already tapped at the time, this ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>179s</No>
+<Name>Dovin Baan</Name>
+<Type>Legendary Planeswalker — Dovin (Loyalty: 3)</Type>
+<ManaCost>2WU (4)</ManaCost>
+<CardText>+1: Until your next turn, up to one target creature gets -3/-0 and its activated abilities can't be activated.
+-1: You gain 2 life and draw a card.
+-7: You get an emblem with "Your opponents can't untap more than two permanents during their untap steps."</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2016/09/20: <Dovin Baan>'s first ability can target any creature, not just one with an activated ability. It can also be activated targeting no creature at all.
+2016/09/20: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.
+2016/09/20: An opponent affected by <Dovin Baan>'s emblem chooses which two of their permanents to untap, not you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>183s</No>
+<Name>Kambal, Consul of Allocation</Name>
+<Type>Legendary Creature — Human Advisor 2/3</Type>
+<ManaCost>1WB (3)</ManaCost>
+<CardText>Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.</CardText>
+<Flavor>He has "friends" in places both high and low, and all seem to owe him favors.</Flavor>
+<Artist>Vincent Proce</Artist>
+<Rulings>2016/09/20: Kambal's ability resolves before the spell that caused it to trigger.
+2016/09/20: A noncreature spell is a spell that isn't a creature at all. An artifact creature spell isn't a noncreature spell. Lands are never spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>184s</No>
+<Name>Rashmi, Eternities Crafter</Name>
+<Type>Legendary Creature — Elf Druid 2/3</Type>
+<ManaCost>2GU (4)</ManaCost>
+<CardText>Whenever you cast your first spell each turn, reveal the top card of your library. If it's a nonland card with converted mana cost less than that spell's, you may cast it without paying its mana cost. If you don't cast the revealed card, put it into your hand.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2016/09/20: If the revealed card is a land card, you put it into your hand.
+2016/09/20: Rashmi's ability triggers when you cast your first spell each turn, not just on your turn.
+2016/09/20: Rashmi has to be on the battlefield at the moment you cast your first spell. If that spell is Rashmi itself, Rashmi's ability can't trigger. If that spell causes Rashmi to leave the battlefield as an additional cost to cast it, Rashmi's ability can't trigger.
+2016/09/20: Rashmi's ability resolves before the spell that caused it to trigger. If you cast a spell using the ability, it will also resolve before the initial spell.
+2016/09/20: For spells with {X} in their mana costs, use the value chosen for X to determine the spell's converted mana cost. For cards in your library with {X} in their mana costs, X is considered to be 0.
+2016/09/20: If Rashmi's ability resolves and the spell that caused it to trigger has been countered, use that spell's converted mana cost as it last existed on the stack to determine whether or not you may cast the top card of your library.
+2016/09/20: If you cast the top card of your library, you do so as part of the resolution of Rashmi's ability. You can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
+2016/09/20: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, those must be paid to cast the card.
+2016/09/20: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>186s</No>
+<Name>Saheeli Rai</Name>
+<Type>Legendary Planeswalker — Saheeli (Loyalty: 3)</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>+1: Scry 1. Saheeli Rai deals 1 damage to each opponent.
+-2: Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. That token gains haste. Exile it at the beginning of the next end step.
+-7: Search your library for up to three artifact cards with different names, put them onto the battlefield, then shuffle your library.</CardText>
+<Artist>Willian Murai</Artist>
+<Rulings>2016/09/20: The token copies exactly what was printed on the original permanent and nothing else (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
+2016/09/20: The token is an artifact in addition to its other types. This is a copiable value of the token that other effects may copy. Haste and the ability's delayed triggered ability aren't copiable.
+2016/09/20: If the copied permanent has {X} in its mana cost, X is considered to be 0.
+2016/09/20: If the copied permanent is copying something else (for example, if the copied permanent is an Altered Ego), then the token enters the battlefield as whatever that permanent copied.
+2016/09/20: If the copied permanent is a token, the token created with Saheeli copies the original characteristics of that token as stated by the effect that created that token.
+2016/09/20: Any enters-the-battlefield abilities of the copied permanent will trigger when the token enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the chosen permanent will also work.
+2016/09/20: As Saheeli's last ability resolves, all three artifacts enter the battlefield at the same time. Triggered abilities of any of those artifacts will see all three entering the battlefield. Replacement effects, such as that of Sculpting Steel, won't see the others on the battlefield as they are being applied.
+2016/09/20: In a Two-Headed Giant game, Saheeli's first ability causes 2 damage total to be dealt to the opposing team.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>192s</No>
+<Name>Aetherflux Reservoir</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.
+Pay 50 life: Aetherflux Reservoir deals 50 damage to any target.</CardText>
+<Flavor>While most power is used for ordinary, everyday tasks, one shouldn't underestimate its potential for the extraordinary.</Flavor>
+<Artist>Cliff Childs</Artist>
+<Rulings>2016/09/20: The first ability counts the spell that caused it to trigger plus any other spells you cast earlier in the turn.
+2016/09/20: The first ability counts spells you cast earlier in the turn even if you didn't control <Aetherflux Reservoir> as you cast them, and even if those spells were countered.
+2016/09/20: The number of spells you've cast is counted only as <Aetherflux Reservoir>'s triggered ability resolves. For example, if you cast a spell, then respond to the triggered ability with a second spell, you'll gain 4 life total.
+2016/09/20: <Aetherflux Reservoir>'s first ability doesn't trigger when you cast <Aetherflux Reservoir> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>193s</No>
+<Name>Aetherworks Marvel</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Whenever a permanent you control is put into a graveyard, you get {E} (an energy counter).
+{T}, Pay {E}{E}{E}{E}{E}{E}: Look at the top six cards of your library. You may cast a card from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>James Paick</Artist>
+<Rulings>2016/09/20: Tokens that are sacrificed or destroyed are put into their owner's graveyard before ceasing to exist. If you controlled the token, <Aetherworks Marvel>'s first ability will trigger.
+2016/09/20: The card cast with <Aetherworks Marvel>'s second ability is cast from your library.
+2016/09/20: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Incendiary Sabotage, you must pay those to cast the card.
+2016/09/20: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2016/09/20: <Aetherworks Marvel>'s first ability triggers whenever any permanent you control is put into a graveyard from the battlefield, including <Aetherworks Marvel> itself and other permanents put into a graveyard at the same time as it.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>194s</No>
+<Name>Animation Module</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Whenever one or more +1/+1 counters are put on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token.
+{3}, {T}: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind.</CardText>
+<Flavor>Design leads to progress.</Flavor>
+<Artist>Aaron Miller</Artist>
+<Rulings>2016/09/20: If +1/+1 counters are placed on more than one permanent you control at the same time, <Animation Module>'s first ability triggers once for each of those permanents.
+2016/09/20: Abilities that trigger when counters are placed on a permanent trigger when a permanent enters the battlefield with counters and when a player puts counters on a permanent.
+2016/09/20: You can pay {1} only once each time <Animation Module>'s first ability resolves. You can't pay more to create extra Servo tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>199s</No>
+<Name>Bomat Courier</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Haste
+Whenever Bomat Courier attacks, exile the top card of your library face down. (You can't look at it.)
+{R}, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled with Bomat Courier into their owners' hands.</CardText>
+<Artist>Craig J Spearing</Artist>
+<Rulings>2016/09/20: Each <Bomat Courier> you control has its own cache of cards. <Bomat Courier>'s last ability only puts those cards into your hand, not those of any other <Bomat Courier>.
+2016/09/20: If <Bomat Courier> leaves the battlefield before you activate its last ability, any cards exiled by its triggered ability remain exiled face down for the rest of the game. If you somehow return the same <Bomat Courier> card to the battlefield, it will be a different object with no connection to those face-down cards.
+2016/09/20: You can pay the cost of "discard your hand" even if your hand contains zero cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>200</No>
+<Name>Chief of the Foundry</Name>
+<Type>Artifact Creature — Construct 2/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Other artifact creatures you control get +1/+1.</CardText>
+<Flavor>The foundries of Kaladesh run like clockwork under the supervision of their formidable overseers.</Flavor>
+<Artist>Jung Park</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>203s</No>
+<Name>Cultivator's Caravan</Name>
+<Type>Artifact — Vehicle 5/5</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{T}: Add one mana of any color.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2016/09/20: As long as <Cultivator's Caravan> isn't an artifact creature, its {T} ability can be activated if it came under your control this turn.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.
+2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>204s</No>
+<Name>Deadlock Trap</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Deadlock Trap enters the battlefield tapped.
+When Deadlock Trap enters the battlefield, you get {E}{E} (two energy counters).
+{T}, Pay {E}: Tap target creature or planeswalker. Its activated abilities can't be activated this turn.</CardText>
+<Artist>Jason Rainville</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2016/09/20: Once a player has announced an ability, <Deadlock Trap> can't be used to undo it. The last ability must be activated before that player activates that ability.
+2016/09/20: Players may respond to <Deadlock Trap>'s last ability by activating an ability of the target permanent if that ability's timing permissions allow it.
+2016/09/20: After a planeswalker enters the battlefield, the active player receives priority and may activate an ability of that planeswalker before any player can activate <Deadlock Trap>'s last ability.
+2016/09/20: A tapped planeswalker can be attacked or dealt damage as normal.
+2016/09/20: If the tapped creature somehow becomes untapped, it can attack and block as normal, but its abilities still can't be activated this turn.
+2016/09/20: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>208s</No>
+<Name>Dynavolt Tower</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy counters).
+{T}, Pay {E}{E}{E}{E}{E}: Dynavolt Tower deals 3 damage to any target.</CardText>
+<Flavor>"I like that Tezzeret. He has vision the other judges don't. He sees the potential in what we're making here."
+—Faiz, inventor</Flavor>
+<Artist>Titus Lunter</Artist>
+<Rulings>2016/09/20: <Dynavolt Tower>'s triggered ability resolves before the spell that caused it to trigger.
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>210s</No>
+<Name>Electrostatic Pummeler</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters).
+Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2016/09/20: The value of X is determined as <Electrostatic Pummeler>'s last ability resolves.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/07/14: If this creature's power is negative as its ability resolves, X is considered to be 0. (This is a change from previous rulings.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>214s</No>
+<Name>Fleetwheel Cruiser</Name>
+<Type>Artifact — Vehicle 5/3</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Trample, haste
+When Fleetwheel Cruiser enters the battlefield, it becomes an artifact creature until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Sung Choi</Artist>
+<Rulings>2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>216s</No>
+<Name>Ghirapur Orrery</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Each player may play an additional land on each of their turns.
+At the beginning of each player's upkeep, if that player has no cards in hand, that player draws three cards.</CardText>
+<Flavor>This detailed model allows the edificers to examine the city from every angle.</Flavor>
+<Artist>Kirsten Zirngibl</Artist>
+<Rulings>2016/09/20: <Ghirapur Orrery>'s first ability allows a player to play an additional land during their main phase. Doing so follows the normal timing rules for playing lands.
+2016/09/20: <Ghirapur Orrery>'s first ability is cumulative if more than one is on the battlefield.
+2016/09/20: No player may take actions in a turn before <Ghirapur Orrery>'s second ability checks to see if it should trigger. If the player whose turn it is has any cards in hand, it won't trigger.
+2016/09/20: If the player has any cards in hand as <Ghirapur Orrery>'s second ability resolves, the ability does nothing. Notably, a second <Ghirapur Orrery> won't have a player draw another three cards unless the player empties their hand after resolving the first one's trigger.
+2016/09/20: The draw step is after the upkeep step, so drawing a card as a turn-based action won't affect whether <Ghirapur Orrery>'s second ability triggers.
+2016/09/20: In a Two-Headed Giant game, <Ghirapur Orrery>'s second ability triggers for each player on a team separately. If one player has cards in hand, it can still trigger for the other player.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>220s</No>
+<Name>Key to the City</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}, Discard a card: Up to one target creature can't be blocked this turn.
+Whenever Key to the City becomes untapped, you may pay {2}. If you do, draw a card.</CardText>
+<Flavor>It would be unfortunate if the key fell into the wrong hands.</Flavor>
+<Artist>Sean Murray</Artist>
+<Rulings>2016/09/20: You can activate <Key to the City>'s first ability without targeting any creature.
+2016/09/20: Activating <Key to the City>'s ability targeting a creature that has already been blocked won't cause it to become unblocked.
+2016/09/20: <Key to the City>'s last ability triggers during your untap step, but it's put onto the stack at the same time as abilities that trigger at the beginning of your upkeep step. Even though <Key to the City>'s ability triggered first, you may order it before or after other abilities you control that are put onto the stack at this time.
+2016/09/20: You can pay {2} only once each time <Key to the City>'s triggered ability resolves. You can't pay more to draw additional cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>222s</No>
+<Name>Metalwork Colossus</Name>
+<Type>Artifact Creature — Construct 10/10</Type>
+<ManaCost>11 (11)</ManaCost>
+<CardText>This spell costs {X} less to cast, where X is the total converted mana cost of noncreature artifacts you control.
+Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2016/09/20: If a permanent has {X} in its mana cost, X is considered to be 0.
+2016/09/20: The total cost to cast <Metalwork Colossus> is locked in before you pay that cost. For example, if you control three noncreature artifacts each with converted mana cost 2, including one you can sacrifice to add {C}, the total cost of <Metalwork Colossus> is {5}. Then you can sacrifice the artifact when you activate mana abilities just before paying the cost.
+2016/09/20: If the total converted mana cost of noncreature artifacts you control is 11 or greater, <Metalwork Colossus> costs {0} to cast.
+2016/09/20: Once a player has announced that they are casting <Metalwork Colossus>, no player may take actions to try to change the number of artifacts its controller controls before that spell's cost is locked in.
+2016/09/20: <Metalwork Colossus>'s last ability can be activated only if it is in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>223s</No>
+<Name>Multiform Wonder</Name>
+<Type>Artifact Creature — Construct 3/3</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three energy counters).
+Pay {E}: Multiform Wonder gains your choice of flying, vigilance, or lifelink until end of turn.
+Pay {E}: Multiform Wonder gets +2/-2 or -2/+2 until end of turn.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2016/09/20: Multiple instances of flying, vigilance, or lifelink on the same creature are redundant.
+2016/09/20: As you activate one of <Multiform Wonder>'s two activated abilities, you must announce which one you're activating. However, you don't choose that ability's effect until it resolves. For example, you must announce that you're activating <Multiform Wonder>'s middle ability specifically, but you don't choose which of the keywords it gains until the ability resolves.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>226s</No>
+<Name>Panharmonicon</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</CardText>
+<Flavor>All who listen hear their own song, a unique melody played just for them.</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2016/09/20: <Panharmonicon> affects an artifact or creature's own enters-the-battlefield triggered abilities as well as other triggered abilities that would trigger when an artifact or creature enters the battlefield. Such triggered abilities start with "when" or "whenever."
+2016/09/20: Abilities that create replacement effects, such as a permanent entering the battlefield with counters on it, are unaffected.
+2016/09/20: Abilities that apply "as [this creature] enters the battlefield," such as choosing a creature to copy with Clone, are unaffected.
+2016/09/20: <Panharmonicon>'s effect doesn't copy the triggered ability; it just causes it to trigger twice. Any choices made as you put it onto the stack, such as modes and targets, are made separately for each instance of the ability. Any choices made on resolution, such as whether to get counters or Servos for fabricate, are also made individually.
+2016/09/20: The trigger event doesn't have to specifically refer to "artifacts" or "creatures." For example, Amulet of Vigor says "Whenever a permanent enters the battlefield tapped and under your control, untap it." If a creature enters the battlefield tapped and under your control, Amulet of Vigor's ability would trigger twice. If a land (that isn't also an artifact or a creature) enters the battlefield tapped and under your control, Amulet of Vigor's ability would trigger only once.
+2016/09/20: Look at the permanent as it exists on the battlefield, taking into account continuous effects, to determine whether any triggered abilities will trigger multiple times. For example, if you control Mycosynth Lattice, which says, in part, "All permanents are artifacts in addition to their other types," an enchantment entering the battlefield will cause triggered abilities to trigger an additional time.
+2016/09/20: If you control two <Panharmonicon>s, an artifact or creature entering the battlefield causes abilities to trigger three times, not four. A third <Panharmonicon> causes abilities to trigger four times, a fourth causes abilities to trigger five times, and so on.
+2016/09/20: <Panharmonicon> affects triggered abilities of permanents you control that trigger when an artifact or creature enters the battlefield under any player's control, not just yours.
+2016/09/20: If <Panharmonicon> and an artifact or creature enter the battlefield at the same time, those permanents entering the battlefield will cause triggered abilities to trigger an additional time.
+2016/09/20: If a triggered ability is linked to a second ability, additional instances of that triggered ability are also linked to that second ability. If the second ability refers to "the exiled card," it refers to all cards exiled by instances of the triggered ability. For example, if Isochron Scepter's enters-the-battlefield ability triggers twice and two instant cards are exiled, both will be copied when its second ability is activated. You may cast either or both of the copies in any order.
+2016/09/20: In some cases involving linked abilities, an ability requires information about "the exiled card." When this happens, the ability gets multiple answers. If these answers are being used to determine the value of a variable, the sum is used. For example, if Elite Arcanist's enters-the-battlefield ability triggers twice, two cards are exiled. The value of X in the activation cost of Elite Arcanist's other ability is the sum of the two cards' converted mana costs. As the ability resolves, you create copies of both cards and can cast none, one, or both of the copies in any order.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>231s</No>
+<Name>Scrapheap Scrounger</Name>
+<Type>Artifact Creature — Construct 3/2</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Scrapheap Scrounger can't block.
+{1}{B}, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.</CardText>
+<Flavor>Some machines refuse to accept their own obsolescence.</Flavor>
+<Artist>Jason A. Engle</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>234s</No>
+<Name>Skysovereign, Consul Flagship</Name>
+<Type>Legendary Artifact — Vehicle 6/5</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Flying
+Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it deals 3 damage to target creature or planeswalker an opponent controls.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Jung Park</Artist>
+<Rulings>2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>235s</No>
+<Name>Smuggler's Copter</Name>
+<Type>Artifact — Vehicle 3/3</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Flying
+Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you do, discard a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Florian de Gesincourt</Artist>
+<Rulings>2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>243s</No>
+<Name>Blooming Marsh</Name>
+<Type>Land</Type>
+<CardText>Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}.</CardText>
+<Flavor>A retreat to nature can inspire even the most jaded inventor.</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2016/09/20: If one of these lands is your first, second, or third land, it enters the battlefield untapped. If you control three or more other lands, however, it enters the battlefield tapped.
+2016/09/20: If one of these lands enters the battlefield at the same time as one or more other lands (due to Oblivion Sower or Warp World, perhaps), it doesn't take those lands into consideration when determining how many other lands you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>244s</No>
+<Name>Botanical Sanctum</Name>
+<Type>Land</Type>
+<CardText>Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {U}.</CardText>
+<Flavor>Life inspires technology, which expands life's domain.</Flavor>
+<Artist>Christine Choi</Artist>
+<Rulings>2016/09/20: If one of these lands is your first, second, or third land, it enters the battlefield untapped. If you control three or more other lands, however, it enters the battlefield tapped.
+2016/09/20: If one of these lands enters the battlefield at the same time as one or more other lands (due to Oblivion Sower or Warp World, perhaps), it doesn't take those lands into consideration when determining how many other lands you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>245s</No>
+<Name>Concealed Courtyard</Name>
+<Type>Land</Type>
+<CardText>Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.</CardText>
+<Flavor>Where high society and dark opportunity intersect.</Flavor>
+<Artist>Jung Park</Artist>
+<Rulings>2016/09/20: If one of these lands is your first, second, or third land, it enters the battlefield untapped. If you control three or more other lands, however, it enters the battlefield tapped.
+2016/09/20: If one of these lands enters the battlefield at the same time as one or more other lands (due to Oblivion Sower or Warp World, perhaps), it doesn't take those lands into consideration when determining how many other lands you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>246s</No>
+<Name>Inspiring Vantage</Name>
+<Type>Land</Type>
+<CardText>Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {W}.</CardText>
+<Flavor>Ghirapur is a beacon of inspiration, attracting the most brilliant minds on Kaladesh.</Flavor>
+<Artist>Jonas De Ro</Artist>
+<Rulings>2016/09/20: If one of these lands is your first, second, or third land, it enters the battlefield untapped. If you control three or more other lands, however, it enters the battlefield tapped.
+2016/09/20: If one of these lands enters the battlefield at the same time as one or more other lands (due to Oblivion Sower or Warp World, perhaps), it doesn't take those lands into consideration when determining how many other lands you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>247s</No>
+<Name>Inventors' Fair</Name>
+<Type>Legendary Land</Type>
+<CardText>At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.
+{T}: Add {C}.
+{4}, {T}, Sacrifice Inventors' Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle your library. Activate this ability only if you control three or more artifacts.</CardText>
+<Artist>Jonas De Ro</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2016/09/20: No player may take actions in a turn before <Inventors' Fair>'s triggered ability checks to see if it should trigger. If you don't control three or more artifacts, it won't trigger.
+2016/09/20: If you control three artifacts as the ability resolves, you gain 1 life. The artifacts you control as the ability resolves don't have to be the same ones you controlled as it triggered. If you don't control three artifacts at that time, you won't gain life.
+2016/09/20: When using <Inventors' Fair>'s activated ability, the number of artifacts you control is checked only as you activate it. It's not checked again as the ability resolves.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PKLD</SetId>
+<No>249s</No>
+<Name>Spirebluff Canal</Name>
+<Type>Land</Type>
+<CardText>Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.</CardText>
+<Flavor>There's so much more to Ghirapur than can be accessed by traditional roads.</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2016/09/20: If one of these lands is your first, second, or third land, it enters the battlefield untapped. If you control three or more other lands, however, it enters the battlefield tapped.
+2016/09/20: If one of these lands enters the battlefield at the same time as one or more other lands (due to Oblivion Sower or Warp World, perhaps), it doesn't take those lands into consideration when determining how many other lands you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Kaladesh Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

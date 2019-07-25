@@ -111,7 +111,7 @@ Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink 
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying</CardText>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
 <Flavor>Pray that it doesn't seek the safety of your lungs.</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>429896</Multiverseid>
@@ -164,8 +164,7 @@ Draw a card.</CardText>
 <Type>Instant</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Target player draws two cards.</CardText>
-<Flavor>"Day 31: I finally succeeded in my time reversal experiment!
-"Day 30: I might have a problem here."
+<Flavor>"Day 31: I finally succeeded in my time reversal experiment! "Day 30: I might have a problem here."
 —Journal of the Prime Izmagnus</Flavor>
 <Artist>Izzy</Artist>
 <Multiverseid>429899</Multiverseid>
@@ -471,7 +470,7 @@ Enchanted creature gets +3/+3.</CardText>
 —Morkamp, Lambholt innkeeper</Flavor>
 <Artist>Karl Kopinski</Artist>
 <Multiverseid>429915</Multiverseid>
-<Rulings>2016/04/08: If either creature is an illegal target as <Rabid Bite> tries to resolve, the creature you control won't deal damage.</Rulings>
+<Rulings>2018/07/13: If either creature is an illegal target as <Rabid Bite> tries to resolve, the creature you control won't deal damage.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

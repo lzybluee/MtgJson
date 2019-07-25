@@ -1,0 +1,1165 @@
+<Card>
+<SetId>PORI</SetId>
+<No>14s</No>
+<Name>Gideon's Phalanx</Name>
+<Type>Instant</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Create four 2/2 white Knight creature tokens with vigilance.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn.</CardText>
+<Artist>James Ryman</Artist>
+<Rulings>2015/06/22: If the spell mastery ability applies, the four Knight tokens will also gain indestructible until end of turn.
+2015/06/22: Check to see if there are two or more instant and/or sorcery cards in your graveyard as the spell resolves to determine whether the spell mastery ability applies. The spell itself won't count because it's still on the stack as you make this check.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>19</No>
+<Name>Hixus, Prison Warden</Name>
+<Type>Legendary Creature — Human Soldier 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2015/06/22: Hixus's ability causes a zone change with a duration, a style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like Hixus have a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after Hixus leaves the battlefield.
+2015/06/22: If Hixus leaves the battlefield before its triggered ability resolves, the creature that dealt combat damage to you won't be exiled.
+2015/06/22: Auras attached to the exiled creatures will be put into their owners' graveyards. Equipment attached to the exiled creatures will become unattached and remain on the battlefield. Any counters on the exiled creatures will cease to exist.
+2015/06/22: If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2015/06/22: The exiled cards return to the battlefield immediately after Hixus leaves the battlefield. Nothing happens between the two events, including state-based actions.
+2015/06/22: In a multiplayer game, if Hixus's owner leaves the game, the exiled cards will return to the battlefield. Because the one-shot effect that returns the cards isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>19s</No>
+<Name>Hixus, Prison Warden</Name>
+<Type>Legendary Creature — Human Soldier 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2015/06/22: Hixus's ability causes a zone change with a duration, a style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like Hixus have a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after Hixus leaves the battlefield.
+2015/06/22: If Hixus leaves the battlefield before its triggered ability resolves, the creature that dealt combat damage to you won't be exiled.
+2015/06/22: Auras attached to the exiled creatures will be put into their owners' graveyards. Equipment attached to the exiled creatures will become unattached and remain on the battlefield. Any counters on the exiled creatures will cease to exist.
+2015/06/22: If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2015/06/22: The exiled cards return to the battlefield immediately after Hixus leaves the battlefield. Nothing happens between the two events, including state-based actions.
+2015/06/22: In a multiplayer game, if Hixus's owner leaves the game, the exiled cards will return to the battlefield. Because the one-shot effect that returns the cards isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>21s</No>
+<Name>Knight of the White Orchid</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>First strike
+When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2008/10/01: <Knight of the White Orchid>'s triggered ability has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless any one of your opponents controls more lands than you, and (2) the ability will do nothing if you control at least as many lands as each of your opponents by the time it resolves.
+2015/06/22: The Plains you search for doesn't have to be basic. For example, you could put a Sacred Foundry onto the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>23sb</No>
+<Name>Gideon, Battle-Forged</Name>
+<Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
+<ColorIndicator>White</ColorIndicator>
+<CardText>+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
++1: Until your next turn, target creature gains indestructible. Untap that creature.
+0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<Artist>Willian Murai</Artist>
+<Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: Gideon's first ability causes a creature to attack him if able. If, during its controller's declare attackers step, that creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under its controller's control continuously since that player's turn began, then that creature doesn't attack. If there's a cost associated with having that creature attack, its controller isn't forced to pay that cost. If they don't, the creature doesn't have to attack.
+2015/06/22: If the creature targeted by Gideon's first ability changes controllers before it has the chance to attack Gideon, the ability will apply to it during its new controller's next turn.
+2015/06/22: If Gideon can't be attacked, perhaps because he has left the battlefield before the creature's controller's next combat, the creature targeted by Gideon's first ability can attack you or another planeswalker you control, or its controller can choose to have it not attack at all.
+2015/06/22: If Gideon becomes a creature due to his third ability, that doesn't count as having a creature enter the battlefield. Gideon was already on the battlefield; he only changed his types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2015/06/22: Gideon's third ability causes him to become a creature with the creature types Human Soldier. He remains a planeswalker with the planeswalker type Gideon. (He also retains any other card types or subtypes he may have had.) Each subtype is correlated to the proper card type: Gideon is just a planeswalker type (not a creature type), and Human and Soldier are just creature types (not planeswalker types).
+2015/06/22: If you activate Gideon's third ability and then damage is dealt to him that can't be prevented, that damage has all applicable results: specifically, the damage is marked on Gideon (since he's a creature) and that damage causes that many loyalty counters to be removed from him (since he's a planeswalker). If Gideon has no loyalty counters on him, he's put into his owner's graveyard as a state-based action. (As long as he still has indestructible, the marked damage won't cause him to be destroyed.)
+2015/06/22: Kytheon's first ability will count creatures that attacked but are no longer on the battlefield (perhaps because they didn't survive combat damage being dealt). It will not count any creatures that were put onto the battlefield attacking, as those creatures were never declared as attackers.
+2015/06/22: Say you activate Gideon's third ability, then an opponent gains control of him before combat. You may have any of your creatures attack Gideon (since he's still a planeswalker). Then Gideon may block (since he's a creature). He may block any eligible attacking creature, including one that's attacking him. During combat, he behaves as an attacked planeswalker and/or a blocking creature, as appropriate. For example, he deals combat damage to any creatures he's blocking, but he doesn't deal combat damage to any unblocked creatures that are attacking him.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Kytheon, Hero of Akros</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>23sa</No>
+<Name>Kytheon, Hero of Akros</Name>
+<Type>Legendary Creature — Human Soldier 2/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.
+{2}{W}: Kytheon gains indestructible until end of turn.</CardText>
+<Artist>Willian Murai</Artist>
+<Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: Gideon's first ability causes a creature to attack him if able. If, during its controller's declare attackers step, that creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under its controller's control continuously since that player's turn began, then that creature doesn't attack. If there's a cost associated with having that creature attack, its controller isn't forced to pay that cost. If they don't, the creature doesn't have to attack.
+2015/06/22: If the creature targeted by Gideon's first ability changes controllers before it has the chance to attack Gideon, the ability will apply to it during its new controller's next turn.
+2015/06/22: If Gideon can't be attacked, perhaps because he has left the battlefield before the creature's controller's next combat, the creature targeted by Gideon's first ability can attack you or another planeswalker you control, or its controller can choose to have it not attack at all.
+2015/06/22: If Gideon becomes a creature due to his third ability, that doesn't count as having a creature enter the battlefield. Gideon was already on the battlefield; he only changed his types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2015/06/22: Gideon's third ability causes him to become a creature with the creature types Human Soldier. He remains a planeswalker with the planeswalker type Gideon. (He also retains any other card types or subtypes he may have had.) Each subtype is correlated to the proper card type: Gideon is just a planeswalker type (not a creature type), and Human and Soldier are just creature types (not planeswalker types).
+2015/06/22: If you activate Gideon's third ability and then damage is dealt to him that can't be prevented, that damage has all applicable results: specifically, the damage is marked on Gideon (since he's a creature) and that damage causes that many loyalty counters to be removed from him (since he's a planeswalker). If Gideon has no loyalty counters on him, he's put into his owner's graveyard as a state-based action. (As long as he still has indestructible, the marked damage won't cause him to be destroyed.)
+2015/06/22: Kytheon's first ability will count creatures that attacked but are no longer on the battlefield (perhaps because they didn't survive combat damage being dealt). It will not count any creatures that were put onto the battlefield attacking, as those creatures were never declared as attackers.
+2015/06/22: Say you activate Gideon's third ability, then an opponent gains control of him before combat. You may have any of your creatures attack Gideon (since he's still a planeswalker). Then Gideon may block (since he's a creature). He may block any eligible attacking creature, including one that's attacking him. During combat, he behaves as an attacked planeswalker and/or a blocking creature, as appropriate. For example, he deals combat damage to any creatures he's blocking, but he doesn't deal combat damage to any unblocked creatures that are attacking him.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Gideon, Battle-Forged</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>24s</No>
+<Name>Kytheon's Irregulars</Name>
+<Type>Creature — Human Soldier 4/3</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+{W}{W}: Tap target creature.</CardText>
+<Flavor>Kytheon and his irregulars worked outside the law to bring justice to the streets of Akros.</Flavor>
+<Artist>Mark Winters</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>29</No>
+<Name>Relic Seeker</Name>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>29s</No>
+<Name>Relic Seeker</Name>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>38s</No>
+<Name>Tragic Arrogance</Name>
+<Type>Sorcery</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents they control.</CardText>
+<Flavor>The spear thrown by Kytheon's own hand was the weapon that felled his friends.</Flavor>
+<Artist>Winona Nelson</Artist>
+<Rulings>2015/06/22: None of the chosen permanents are targets of <Tragic Arrogance>.
+2015/06/22: If a permanent has more than one of the affected types, it can count for any of them. For example, you could choose an artifact creature as the artifact you're sparing, another creature as the creature, and an enchantment creature as the enchantment. Similarly, you could choose an enchantment creature as both the creature and the enchantment that you're sparing, even if the player controls another creature and/or another enchantment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>40s</No>
+<Name>Vryn Wingmare</Name>
+<Type>Creature — Pegasus 2/1</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flying
+Noncreature spells cost {1} more to cast.</CardText>
+<Flavor>It's the favored mount of military commanders as well as anyone with a flair for the dramatic.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2015/06/22: The ability affects each spell that's not a creature spell, including your own.
+2015/06/22: The ability affects what you pay to cast each noncreature spell (its total cost), but it doesn't change that spell's mana cost or converted mana cost.
+2015/06/22: When determining a spell's total cost, effects that increase the cost are applied before effects that reduce the cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>43</No>
+<Name>Alhammarret, High Arbiter</Name>
+<Type>Legendary Creature — Sphinx 5/5</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Flying
+As Alhammarret, High Arbiter enters the battlefield, each opponent reveals their hand. You choose the name of a nonland card revealed this way.
+Your opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).</CardText>
+<Artist>Richard Wright</Artist>
+<Rulings>2015/06/22: Alhammarret's second ability happens as Alhammarret enters the battlefield. No one can cast spells or activate abilities between the time a card is named and the time that Alhammarret's last ability starts to work.
+2015/06/22: You choose one card name, not one name per opponent.
+2015/06/22: Although spells with the chosen name can't be cast, permanent cards with that name can still be put onto the battlefield by a spell or ability.
+2015/06/22: If your opponents have no nonland cards in their hands, you can't choose a card name. Alhammarret's last ability won't stop any spells from being cast in that case.
+2015/06/22: Your opponents can still cast a card with the chosen name face down if it has a morph ability. A card with the chosen name can also be manifested.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>43s</No>
+<Name>Alhammarret, High Arbiter</Name>
+<Type>Legendary Creature — Sphinx 5/5</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Flying
+As Alhammarret, High Arbiter enters the battlefield, each opponent reveals their hand. You choose the name of a nonland card revealed this way.
+Your opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).</CardText>
+<Artist>Richard Wright</Artist>
+<Rulings>2015/06/22: Alhammarret's second ability happens as Alhammarret enters the battlefield. No one can cast spells or activate abilities between the time a card is named and the time that Alhammarret's last ability starts to work.
+2015/06/22: You choose one card name, not one name per opponent.
+2015/06/22: Although spells with the chosen name can't be cast, permanent cards with that name can still be put onto the battlefield by a spell or ability.
+2015/06/22: If your opponents have no nonland cards in their hands, you can't choose a card name. Alhammarret's last ability won't stop any spells from being cast in that case.
+2015/06/22: Your opponents can still cast a card with the chosen name face down if it has a morph ability. A card with the chosen name can also be manifested.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>58s</No>
+<Name>Harbinger of the Tides</Name>
+<Type>Creature — Merfolk Wizard 2/2</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>You may cast Harbinger of the Tides as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+When Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>60sb</No>
+<Name>Jace, Telepath Unbound</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
+<ColorIndicator>Blue</ColorIndicator>
+<CardText>+1: Up to one target creature gets -2/-0 until your next turn.
+-3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
+-9: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: If you activate the second ability of <Jace, Telepath Unbound>, you must follow the timing rules for the card's types. For example, if you target a sorcery card, you may cast it during your main phase when the stack is empty. You pay all the spell's costs.
+2015/06/22: If you don't cast the card that turn, nothing happens. It remains in your graveyard.
+2015/06/22: The card is exiled only if it's cast from the graveyard and put back into the graveyard (either by resolving or being countered). If, at any time, the card goes to a hidden zone (such as your hand or your library), the effect loses track of the card. It won't be exiled, even if that card is put into your graveyard later that turn.
+2015/06/22: The activated ability of Jace, Vryn's Prodigy checks to see if there are five or more cards in your graveyard after you discard a card. Putting a fifth card into your graveyard at other times won't cause Jace to be exiled, nor will Jace entering the battlefield while there are five or more cards in your graveyard.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2016/04/08: If you discard a card with madness while resolving the ability of Jace, Vryn's Prodigy, you'll need to already have five other cards in your graveyard to satisfy that ability's condition. You can't choose to put the card directly into your graveyard to satisfy it.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/07/17: Jace, Vryn's Prodigy is banned as a commander in Duel Commander format, but it may be part of your deck.
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Jace, Vryn's Prodigy</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>60sa</No>
+<Name>Jace, Vryn's Prodigy</Name>
+<Type>Legendary Creature — Human Wizard 0/2</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.</CardText>
+<Flavor>"People's thoughts just come to me. Sometimes I don't know if it's them or me thinking."</Flavor>
+<Artist>Jaime Jones</Artist>
+<Rulings>2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: If you activate the second ability of Jace, Telepath Unbound, you must follow the timing rules for the card's types. For example, if you target a sorcery card, you may cast it during your main phase when the stack is empty. You pay all the spell's costs.
+2015/06/22: If you don't cast the card that turn, nothing happens. It remains in your graveyard.
+2015/06/22: The card is exiled only if it's cast from the graveyard and put back into the graveyard (either by resolving or being countered). If, at any time, the card goes to a hidden zone (such as your hand or your library), the effect loses track of the card. It won't be exiled, even if that card is put into your graveyard later that turn.
+2015/06/22: The activated ability of <Jace, Vryn's Prodigy> checks to see if there are five or more cards in your graveyard after you discard a card. Putting a fifth card into your graveyard at other times won't cause Jace to be exiled, nor will Jace entering the battlefield while there are five or more cards in your graveyard.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2016/04/08: If you discard a card with madness while resolving the ability of <Jace, Vryn's Prodigy>, you'll need to already have five other cards in your graveyard to satisfy that ability's condition. You can't choose to put the card directly into your graveyard to satisfy it.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/07/17: <Jace, Vryn's Prodigy> is banned as a commander in Duel Commander format, but it may be part of your deck.
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Jace, Telepath Unbound</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>64</No>
+<Name>Mizzium Meddler</Name>
+<Type>Creature — Vedalken Wizard 1/4</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.</CardText>
+<Flavor>Energy surges in Izzet labs are opportunities for experimentation.</Flavor>
+<Artist>Chris Rallis</Artist>
+<Rulings>2015/06/22: If changing one target of a spell or ability to <Mizzium Meddler> would make other targets of that spell or ability illegal, the targets remain unchanged.
+2015/06/22: If the spell or ability has multiple instances of the word "target," you choose which target you're changing to <Mizzium Meddler> as Mizium Meddler's ability resolves.
+2015/06/22: The target of the spell or ability won't change unless <Mizzium Meddler> fulfills all the targeting criteria. If a spell or ability has multiple targets, such as Send to Sleep, you can change only one of the targets to <Mizzium Meddler>.
+2015/06/22: If a spell or ability has a variable number of targets, you can't change the number of targets.
+2015/06/22: If <Mizzium Meddler> leaves the battlefield before its ability resolves, the targets remain unchanged.
+2015/06/22: <Mizzium Meddler>'s triggered ability can target a spell or ability even if <Mizzium Meddler> wouldn't be a legal target for that spell or ability. However, the target of that spell or ability will remain unchanged.
+2015/06/22: If <Mizzium Meddler>'s triggered ability targets a spell or ability with no targets, nothing happens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>64s</No>
+<Name>Mizzium Meddler</Name>
+<Type>Creature — Vedalken Wizard 1/4</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.</CardText>
+<Flavor>Energy surges in Izzet labs are opportunities for experimentation.</Flavor>
+<Artist>Johann Bodin</Artist>
+<Rulings>2015/06/22: If changing one target of a spell or ability to <Mizzium Meddler> would make other targets of that spell or ability illegal, the targets remain unchanged.
+2015/06/22: If the spell or ability has multiple instances of the word "target," you choose which target you're changing to <Mizzium Meddler> as Mizium Meddler's ability resolves.
+2015/06/22: The target of the spell or ability won't change unless <Mizzium Meddler> fulfills all the targeting criteria. If a spell or ability has multiple targets, such as Send to Sleep, you can change only one of the targets to <Mizzium Meddler>.
+2015/06/22: If a spell or ability has a variable number of targets, you can't change the number of targets.
+2015/06/22: If <Mizzium Meddler> leaves the battlefield before its ability resolves, the targets remain unchanged.
+2015/06/22: <Mizzium Meddler>'s triggered ability can target a spell or ability even if <Mizzium Meddler> wouldn't be a legal target for that spell or ability. However, the target of that spell or ability will remain unchanged.
+2015/06/22: If <Mizzium Meddler>'s triggered ability targets a spell or ability with no targets, nothing happens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>75s</No>
+<Name>Soulblade Djinn</Name>
+<Type>Creature — Djinn 4/3</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Flying
+Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.</CardText>
+<Flavor>He grants endless wishes, as long as you always wish for a blade.</Flavor>
+<Artist>Viktor Titov</Artist>
+<Rulings>2015/06/22: Any spell you cast that doesn't have the type creature will cause <Soulblade Djinn>'s ability to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause the ability to trigger. Playing a land also won't cause it to trigger.
+2015/06/22: <Soulblade Djinn>'s ability goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>78s</No>
+<Name>Talent of the Telepath</Name>
+<Type>Sorcery</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Target opponent reveals the top seven cards of their library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into their graveyard.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one.</CardText>
+<Artist>Peter Mohrbacher</Artist>
+<Rulings>2015/06/22: If the spell mastery ability applies, you'll cast the two cards in order. The one you cast last will be the one that resolves first.
+2015/06/22: You cast the instant and/or sorcery card(s) from your opponent's library as <Talent of the Telepath> is resolving. Ignore timing restrictions based on the card's type. Other timing restrictions, such as "Cast [this card] only during combat," must be followed.
+2015/06/22: The cards will be put into their owner's graveyard after they resolve, not yours.
+2015/06/22: If you can't cast any instant or sorcery cards (perhaps because there are no legal targets available) or if you choose not to cast one, then <Talent of the Telepath> finishes resolving. Any of the revealed cards you didn't cast will be put into that player's graveyard.
+2015/06/22: If you cast a card "without paying its mana cost," you can't pay any alternative costs. You can pay additional costs such as kicker costs. If the card has mandatory additional costs, you must pay those.
+2015/06/22: If the card has {X} in its mana cost, you must choose 0 as its value.
+2015/06/22: Check to see if there are two or more instant and/or sorcery cards in your graveyard as the spell resolves to determine whether the spell mastery ability applies. The spell itself won't count because it's still on the stack as you make this check.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>79s</No>
+<Name>Thopter Spy Network</Name>
+<Type>Enchantment</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>At the beginning of your upkeep, if you control an artifact, create a 1/1 colorless Thopter artifact creature token with flying.
+Whenever one or more artifact creatures you control deal combat damage to a player, draw a card.</CardText>
+<Artist>Jung Park</Artist>
+<Rulings>2015/06/22: <Thopter Spy Network>'s first ability has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless you control an artifact as your upkeep begins, and (2) the ability will do nothing if you don't control an artifact as it resolves.
+2015/06/22: The last ability will trigger, at most, once per combat damage step. However, if at least one artifact creature you control has first strike and others don't, or if an artifact creature you control has double strike, the ability could trigger twice per combat: once in each combat damage step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>84s</No>
+<Name>Willbreaker</Name>
+<Type>Creature — Human Wizard 2/3</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control Willbreaker.</CardText>
+<Flavor>"Master your mind, or I shall master it for you."</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2015/06/22: If <Willbreaker> leaves the battlefield, you no longer control it, and its control-change effect ends.
+2015/06/22: If you lose control of <Willbreaker> before its ability resolves, you won't gain control of the creature at all.
+2015/06/22: If another player gains control of <Willbreaker>, its control-change effect ends. Regaining control of <Willbreaker> won't cause you to regain control of the creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>90s</No>
+<Name>Dark Petition</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Search your library for a card and put that card into your hand. Then shuffle your library.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add {B}{B}{B}.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2015/06/22: Check to see if there are two or more instant and/or sorcery cards in your graveyard as the spell resolves to determine whether the spell mastery ability applies. The spell itself won't count because it's still on the stack as you make this check.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>93s</No>
+<Name>Despoiler of Souls</Name>
+<Type>Creature — Horror 3/1</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Despoiler of Souls can't block.
+{B}{B}, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.</CardText>
+<Flavor>Rats and vultures devour. It desecrates.</Flavor>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>99s</No>
+<Name>Gilt-Leaf Winnower</Name>
+<Type>Creature — Elf Warrior 4/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Menace (This creature can't be blocked except by two or more creatures.)
+When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal.</CardText>
+<Artist>Viktor Titov</Artist>
+<Rulings>2015/06/22: Once an attacking creature with menace is legally blocked by two or more creatures, removing one or more of those blockers from combat won't change or undo that block.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>101s</No>
+<Name>Graveblade Marauder</Name>
+<Type>Creature — Human Warrior 1/4</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever Graveblade Marauder deals combat damage to a player, that player loses life equal to the number of creature cards in your graveyard.</CardText>
+<Artist>Jason Rainville</Artist>
+<Rulings>2015/06/22: Count the number of creature cards in your graveyard as the ability resolves to determine how much life is lost. Notably, this could include any other creature you owned that died in combat, and perhaps even <Graveblade Marauder> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>104</No>
+<Name>Kothophed, Soul Hoarder</Name>
+<Type>Legendary Creature — Demon 6/6</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying
+Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life.</CardText>
+<Flavor>"I will be your most demanding master, Liliana. But I have great things in mind for you."</Flavor>
+<Artist>Tianhua X</Artist>
+<Rulings>2015/06/22: It doesn't matter who controlled the permanent when it was put into a graveyard.
+2015/06/22: The triggered ability is mandatory. You can't decline to draw the card and lose life, even if you want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>104s</No>
+<Name>Kothophed, Soul Hoarder</Name>
+<Type>Legendary Creature — Demon 6/6</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying
+Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life.</CardText>
+<Flavor>"I will be your most demanding master, Liliana. But I have great things in mind for you."</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Rulings>2015/06/22: It doesn't matter who controlled the permanent when it was put into a graveyard.
+2015/06/22: The triggered ability is mandatory. You can't decline to draw the card and lose life, even if you want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>105</No>
+<Name>Languish</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>All creatures get -4/-4 until end of turn.</CardText>
+<Flavor>Life is such a fragile thing.</Flavor>
+<Artist>Jeff Simpson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>105s</No>
+<Name>Languish</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>All creatures get -4/-4 until end of turn.</CardText>
+<Flavor>Life is such a fragile thing.</Flavor>
+<Artist>Jeff Simpson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>106sb</No>
+<Name>Liliana, Defiant Necromancer</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
+<ColorIndicator>Black</ColorIndicator>
+<CardText>+2: Each player discards a card.
+-X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.
+-8: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
+<Artist>Karla Ortiz</Artist>
+<Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: If multiple nontoken creatures you control die, then Liliana, Heretical Healer's ability will trigger that many times. However, since Liliana can be exiled and returned to the battlefield only once, only the first ability to resolve will create a Zombie token. The other abilities will resolve but won't do anything.
+2015/06/22: When <Liliana, Defiant Necromancer>'s first ability resolves, first you choose a card to discard, then each other player in turn order chooses a card to discard, then all those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Liliana, Heretical Healer</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>106sa</No>
+<Name>Liliana, Heretical Healer</Name>
+<Type>Legendary Creature — Human Cleric 2/3</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Lifelink
+Whenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.</CardText>
+<Artist>Karla Ortiz</Artist>
+<Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: If multiple nontoken creatures you control die, then <Liliana, Heretical Healer>'s ability will trigger that many times. However, since Liliana can be exiled and returned to the battlefield only once, only the first ability to resolve will create a Zombie token. The other abilities will resolve but won't do anything.
+2015/06/22: When Liliana, Defiant Necromancer's first ability resolves, first you choose a card to discard, then each other player in turn order chooses a card to discard, then all those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Liliana, Defiant Necromancer</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>112s</No>
+<Name>Priest of the Blood Rite</Name>
+<Type>Creature — Human Cleric 2/2</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>When Priest of the Blood Rite enters the battlefield, create a 5/5 black Demon creature token with flying.
+At the beginning of your upkeep, you lose 2 life.</CardText>
+<Flavor>Some will sacrifice everything for but a taste of power.</Flavor>
+<Artist>David Palumbo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>127s</No>
+<Name>Abbot of Keral Keep</Name>
+<Type>Creature — Human Monk 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2015/06/22: The card exiled by <Abbot of Keral Keep>'s ability is exiled face up.
+2015/06/22: You may play that card that turn even if <Abbot of Keral Keep> is no longer on the battlefield or under your control.
+2015/06/22: Playing the card exiled with <Abbot of Keral Keep>'s ability follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if the card is a creature card, you can cast that card by paying its mana cost only during your main phase while the stack is empty.
+2015/06/22: Unless an effect allows you to play additional lands that turn, you can play a land card exiled with <Abbot of Keral Keep>'s ability only if you haven't played a land yet that turn.
+2015/06/22: If you don't play the card, it will remain exiled.
+2015/06/22: Any spell you cast that doesn't have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause prowess to trigger. Playing a land also won't cause prowess to trigger.
+2015/06/22: Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell.
+2015/06/22: Once it triggers, prowess isn't connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>135sb</No>
+<Name>Chandra, Roaring Flame</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ColorIndicator>Red</ColorIndicator>
+<CardText>+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
+-2: Chandra, Roaring Flame deals 2 damage to target creature.
+-7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: The emblem created by <Chandra, Roaring Flame> is colorless. The damage it deals is from a colorless source.
+2015/06/22: Only players actually dealt damage by the third ability of <Chandra, Roaring Flame> will get an emblem. If all of that damage to a player is prevented, that player won't get an emblem. If any of that damage is redirected to Chandra's controller, that player will get an emblem.
+2015/06/22: Chandra, Fire of Kaladesh's activated ability will count any damage Chandra has dealt during the turn to any permanent or player, including combat damage.
+2015/06/22: Each player who gets Chandra's emblem is the owner of that emblem. In multiplayer games, that emblem will remain in the game as long as its owner does, even if Chandra's owner leaves the game.
+2015/06/22: The last sentence of Chandra, Fire of Kaladesh's activated ability isn't a separate ability. The check happens only as that activated ability resolves. You must activate the ability in order to exile Chandra and return her to the battlefield transformed, even if Chandra has already dealt 3 or more damage during the turn.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Chandra, Fire of Kaladesh</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>135sa</No>
+<Name>Chandra, Fire of Kaladesh</Name>
+<Type>Legendary Creature — Human Shaman 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.
+{T}: Chandra, Fire of Kaladesh deals 1 damage to target player or planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: The emblem created by Chandra, Roaring Flame is colorless. The damage it deals is from a colorless source.
+2015/06/22: Only players actually dealt damage by the third ability of Chandra, Roaring Flame will get an emblem. If all of that damage to a player is prevented, that player won't get an emblem. If any of that damage is redirected to Chandra's controller, that player will get an emblem.
+2015/06/22: <Chandra, Fire of Kaladesh>'s activated ability will count any damage Chandra has dealt during the turn to any permanent or player, including combat damage.
+2015/06/22: Each player who gets Chandra's emblem is the owner of that emblem. In multiplayer games, that emblem will remain in the game as long as its owner does, even if Chandra's owner leaves the game.
+2015/06/22: The last sentence of <Chandra, Fire of Kaladesh>'s activated ability isn't a separate ability. The check happens only as that activated ability resolves. You must activate the ability in order to exile Chandra and return her to the battlefield transformed, even if Chandra has already dealt 3 or more damage during the turn.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Chandra, Roaring Flame</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>137s</No>
+<Name>Chandra's Ignition</Name>
+<Type>Sorcery</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Target creature you control deals damage equal to its power to each other creature and each opponent.</CardText>
+<Flavor>In the moment before her execution, she realized what it meant to be a pyromancer, to be alive, to be Chandra.</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2015/06/22: The creature is the source of the damage, not <Chandra's Ignition>. For example, <Chandra's Ignition> can have a white creature deal damage to a creature with protection from red.
+2015/06/22: Use the power of the target creature as <Chandra's Ignition> resolves to determine how much damage it deals to each other creature and each opponent.
+2015/06/22: If the creature becomes an illegal target by the time <Chandra's Ignition> tries to resolve (perhaps because another player controls it or it's left the battlefield), <Chandra's Ignition> won't resolve and none of its effects will happen. No damage will be dealt.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>141s</No>
+<Name>Embermaw Hellion</Name>
+<Type>Creature — Hellion 4/5</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.</CardText>
+<Artist>James Paick</Artist>
+<Rulings>2015/06/22: <Embermaw Hellion>'s last ability doesn't cause <Embermaw Hellion> to deal damage; it affects the amount of damage dealt by the original red source.
+2015/06/22: If the player or permanent being dealt damage is also affected by a damage prevention effect, that player or the controller of that permanent can apply that effect and <Embermaw Hellion>'s effect in any order. If all of the damage is prevented, <Embermaw Hellion>'s effect can't apply to it.
+2015/06/22: Multiple <Embermaw Hellion>s are cumulative. If you control two of them, you'll add 2 to the damage dealt by another red source you control. In this case, you would also add 1 to the damage dealt by either <Embermaw Hellion>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>143s</No>
+<Name>Exquisite Firecraft</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Exquisite Firecraft deals 4 damage to any target.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, this spell can't be countered.</CardText>
+<Flavor>Chandra's gift set her apart and others aflame.</Flavor>
+<Artist>Chase Stone</Artist>
+<Rulings>2015/06/22: Even if the spell mastery ability applies, <Exquisite Firecraft> can be targeted by spells or abilities that would counter it. The part of their effect that would counter <Exquisite Firecraft> won't do anything, but any other effects those spells or abilities may have will still happen, if applicable.
+2015/06/22: Check to see if there are two or more instant and/or sorcery cards in your graveyard as the spell resolves to determine whether the spell mastery ability applies. The spell itself won't count because it's still on the stack as you make this check.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>151s</No>
+<Name>Goblin Piledriver</Name>
+<Type>Creature — Goblin Warrior 1/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)
+Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2004/10/04: The number of Goblins is counted when this ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>157</No>
+<Name>Pia and Kiran Nalaar</Name>
+<Type>Legendary Creature — Human Artificer 2/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
+{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>157s</No>
+<Name>Pia and Kiran Nalaar</Name>
+<Type>Legendary Creature — Human Artificer 2/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
+{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>160s</No>
+<Name>Scab-Clan Berserker</Name>
+<Type>Creature — Human Berserker 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Haste
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.</CardText>
+<Artist>Dave Kendall</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>171</No>
+<Name>Conclave Naturalists</Name>
+<Type>Creature — Dryad 4/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.</CardText>
+<Artist>Howard Lyon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>172</No>
+<Name>Dwynen, Gilt-Leaf Daen</Name>
+<Type>Legendary Creature — Elf Warrior 3/4</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Reach
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2015/06/22: Count the number of attacking Elves you control as Dwynen's last ability resolves to determine how much life to gain.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>172s</No>
+<Name>Dwynen, Gilt-Leaf Daen</Name>
+<Type>Legendary Creature — Elf Warrior 3/4</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Reach
+Other Elf creatures you control get +1/+1.
+Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.</CardText>
+<Flavor>"This is our land. We will not allow eyeblights to poison its beauty."</Flavor>
+<Artist>Johannes Voss</Artist>
+<Rulings>2015/06/22: Count the number of attacking Elves you control as Dwynen's last ability resolves to determine how much life to gain.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>176s</No>
+<Name>Evolutionary Leap</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.</CardText>
+<Flavor>The essence of nature is change.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2015/06/22: No player will know the order of the cards put on the bottom of your library. Practically speaking, the cards should be shuffled (although this is not the game action of "shuffling").
+2015/06/22: If you don't reveal a creature card, you'll reveal all the cards from your library and then put them back in your library in a random order. (This is effectively the same as shuffling your library, although it's still not technically a shuffle.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>177s</No>
+<Name>Gaea's Revenge</Name>
+<Type>Creature — Elemental 8/5</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>This spell can't be countered.
+Haste
+Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.</CardText>
+<Artist>Kekai Kotaki</Artist>
+<Rulings>2010/08/15: <Gaea's Revenge>'s first ability works only while it's a spell on the stack. <Gaea's Revenge>'s last ability works only while it's on the battlefield.
+2010/08/15: A <Gaea's Revenge> spell can be targeted by spells and abilities that would counter it. The part of their effect that would counter <Gaea's Revenge> won't do anything, but any other effects those spells or abilities may have will still happen, if applicable.
+2010/08/15: <Gaea's Revenge>'s last ability applies to all nongreen spells and abilities from nongreen sources, including ones you control. For example, you can't target it with the equip ability of an Equipment you control (unless the Equipment is somehow green).
+2015/06/22: If a spell is one or more colors, and one of those colors is green, that spell can target <Gaea's Revenge>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>182s</No>
+<Name>Honored Hierarch</Name>
+<Type>Creature — Human Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+As long as Honored Hierarch is renowned, it has vigilance and "{T}: Add one mana of any color."</CardText>
+<Artist>Matt Stewart</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>186s</No>
+<Name>Managorger Hydra</Name>
+<Type>Creature — Hydra 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Trample
+Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.</CardText>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2015/06/22: <Managorger Hydra>'s last ability will resolve before the spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>189sb</No>
+<Name>Nissa, Sage Animist</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
+<ColorIndicator>Green</ColorIndicator>
+<CardText>+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+-2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.
+-7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: You can activate <Nissa, Sage Animist>'s second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist.
+2015/06/22: Nissa, Vastwood Seer is exiled as a result of her second triggered ability. If she enters the battlefield while you control seven or more lands, she won't automatically be exiled and transform.
+2015/06/22: If a land becomes a creature but hasn't continuously been under its controller's control since that player's most recent turn began, it won't be able to attack and its abilities with {T} in the cost (including mana abilities) won't be able to be activated. In other words, look at how long the permanent itself has been under your control, not how long it's been a creature.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Nissa, Vastwood Seer</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>189sa</No>
+<Name>Nissa, Vastwood Seer</Name>
+<Type>Legendary Creature — Elf Scout 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.
+Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
+2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
+2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
+2015/06/22: In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard.
+2015/06/22: You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities.
+2015/06/22: If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that "face down" is not synonymous with "with its back face up." A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down.
+2015/06/22: You can activate Nissa, Sage Animist's second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist.
+2015/06/22: <Nissa, Vastwood Seer> is exiled as a result of her second triggered ability. If she enters the battlefield while you control seven or more lands, she won't automatically be exiled and transform.
+2015/06/22: If a land becomes a creature but hasn't continuously been under its controller's control since that player's most recent turn began, it won't be able to attack and its abilities with {T} in the cost (including mana abilities) won't be able to be activated. In other words, look at how long the permanent itself has been under your control, not how long it's been a creature.
+2015/06/22: Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face.
+2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
+2016/04/08: The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color.
+2016/07/13: For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics).
+2017/09/29: You can control two of this permanent, one front-face up and the other back-face up, at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+<OtherPart>Nissa, Sage Animist</OtherPart>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>191s</No>
+<Name>Nissa's Revelation</Name>
+<Type>Sorcery</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness.</CardText>
+<Flavor>The evil inside the mountain pulsed at Nissa in a shock wave of madness.</Flavor>
+<Artist>Izzy</Artist>
+<Rulings>2015/06/22: If the top card of your library isn't a creature card or it's a creature card with power 0 or less, you won't draw any cards. Otherwise, the first card you draw will be the card you revealed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PORI</SetId>
+<No>193s</No>
+<Name>Outland Colossus</Name>
+<Type>Creature — Giant 6/6</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.)
+Outland Colossus can't be blocked by more than one creature.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2015/06/22: Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player.
+2015/06/22: If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger.
+2015/06/22: If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers "whenever a creature becomes renowned" won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Origins Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

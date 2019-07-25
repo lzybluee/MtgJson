@@ -1,0 +1,225 @@
+<Card>
+<SetId>F03</SetId>
+<No>1</No>
+<Name>Bottle Gnomes</Name>
+<Type>Artifact Creature — Gnome 1/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Sacrifice Bottle Gnomes: You gain 3 life.</CardText>
+<Flavor>I am reminded of the fable of the silver egg. Its owner cracks it open to see what jewels it holds, only to discover a simple yellow yolk.
+—Karn, silver golem</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>2</No>
+<Name>Muscle Sliver</Name>
+<Type>Creature — Sliver 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>All Sliver creatures get +1/+1.</CardText>
+<Flavor>The air was filled with the cracks and snaps of flesh hardening as the new sliver joined the battle.</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Rulings>2004/10/04: Yes, it does give the +1/+1 bonus to itself.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>3</No>
+<Name>Crystalline Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>WU (2)</ManaCost>
+<CardText>All Slivers have shroud. (They can't be the targets of spells or abilities.)</CardText>
+<Flavor>Bred as living shields, these slivers have proven unruly-they know they cannot be caught.</Flavor>
+<Artist>Allen Williams</Artist>
+<Rulings>2004/10/04: The ability only applies while this card is on the battlefield.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>4</No>
+<Name>Capsize</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Return target permanent to its owner's hand.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>5</No>
+<Name>Priest of Titania</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add {G} for each Elf on the battlefield.</CardText>
+<Flavor>Titania rewards all who honor the forest by making them a living part of it.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2004/10/04: Since it is an Elf, it counts itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>6</No>
+<Name>Goblin Bombardment</Name>
+<Type>Enchantment</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.</CardText>
+<Flavor>One mogg to aim the catapult, one mogg to steer the rock.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>7</No>
+<Name>Scragnoth</Name>
+<Type>Creature — Beast 3/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>This spell can't be countered.
+Protection from blue</CardText>
+<Flavor>It possesses no intelligence, only counter-intelligence.</Flavor>
+<Artist>Jeff Laubenstein</Artist>
+<Rulings>2004/10/04: Side-effects of spells that would counter this card will still happen, because they happen even if the spell they're trying to counter can't be countered.
+2004/10/04: Spells can target <Scragnoth> and affect it while it is on the stack. Only effects that counter spells are ignored.
+2004/10/04: Spells with a side effect that only happens if a spell is countered do not have their side effect happen when the countering fails.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>8</No>
+<Name>Smother</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</CardText>
+<Flavor>I can't hear them scream, but at least I don't have to listen to them beg.
+—Phage the Untouchable</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2010/03/01: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is copying something else; see below). If its mana cost includes {X}, X is considered to be 0. If it has no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) paid when the creature was cast.
+2010/03/01: A token has a converted mana cost of 0, unless it is copying something else.
+2010/03/01: If a creature is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>9</No>
+<Name>Whipcorder</Name>
+<Type>Creature — Human Soldier Rebel 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>{W}, {T}: Tap target creature.
+Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Flavor>His bolas whirl like galaxies, but it's his enemies who see stars.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>10</No>
+<Name>Sparksmith</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.</CardText>
+<Flavor>If it didn't hurt, how would I know it worked?</Flavor>
+<Artist>Jim Nelson</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>11</No>
+<Name>Krosan Tusker</Name>
+<Type>Creature — Boar Beast 6/5</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>12</No>
+<Name>Withered Wretch</Name>
+<Type>Creature — Zombie Cleric 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>{1}: Exile target card from a graveyard.</CardText>
+<Flavor>Once it consecrated the dead. Now it desecrates them.</Flavor>
+<Artist>Tim Hildebrandt</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F03</SetId>
+<No>13</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Artist>Kevin McCann</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

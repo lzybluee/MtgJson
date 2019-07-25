@@ -1,0 +1,1307 @@
+<Card>
+<SetId>PAER</SetId>
+<No>4s</No>
+<Name>Aethergeode Miner</Name>
+<Type>Creature — Dwarf Scout 3/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters).
+Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.</CardText>
+<Flavor>Gremlins in the wild feed on nodules of pure aether, which are also prized by miners.</Flavor>
+<Artist>Winona Nelson</Artist>
+<Rulings>2017/02/09: After <Aethergeode Miner> returns to the battlefield, it will be a new object with no connection to the creature that was exiled. It won't be in combat or have any additional abilities it may have had when it was exiled. Any +1/+1 counters on it or Auras attached to it are removed, and any Equipment will no longer be attached.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>9s</No>
+<Name>Call for Unity</Name>
+<Type>Enchantment</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a unity counter on Call for Unity.
+Creatures you control get +1/+1 for each unity counter on Call for Unity.</CardText>
+<Flavor>The "leaking spire" stands for liberation from Consulate control.</Flavor>
+<Artist>John Severin Brassell</Artist>
+<Rulings>2017/02/09: Revolt abilities check only whether a permanent you controlled left the battlefield this turn or not. They don't apply multiple times if more than one permanent you controlled left the battlefield. They don't check whether the permanent that left the battlefield is still in the zone it moved to.
+2017/02/09: Revolt abilities don't care why the permanent left the battlefield, who caused it to move, or where it moved to. They're equally satisfied by an artifact you sacrificed to pay a cost, a creature you controlled that was destroyed by Murder, or an enchantment you returned to your hand with Leave in the Dust.
+2017/02/09: Tokens that leave the battlefield will satisfy a revolt ability.
+2017/02/09: Energy counters aren't permanents. Paying {E} won't satisfy a revolt ability.
+2017/02/09: All cards in the Aether Revolt set with triggered revolt abilities use an intervening "if" clause. A permanent you controlled must have left the battlefield earlier in the turn in order for these abilities to trigger; otherwise they do nothing. In other words, there's no way to have the ability trigger if no permanent you controlled has left the battlefield that turn, even if you intend to have one do so in response to the triggered ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>11s</No>
+<Name>Consulate Crackdown</Name>
+<Type>Enchantment</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>When Consulate Crackdown enters the battlefield, exile all artifacts your opponents control until Consulate Crackdown leaves the battlefield.</CardText>
+<Flavor>"The workshops are silent. Our creations have been seized. They have killed what made us alive."
+—Pia Nalaar</Flavor>
+<Artist>Jonas De Ro</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2017/02/09: If <Consulate Crackdown> leaves the battlefield before its triggered ability resolves, no artifacts will be exiled.
+2017/02/09: Auras attached to the exiled artifacts will be put into their owners' graveyards. Any counters on the exiled artifacts will cease to exist.
+2017/02/09: If an artifact token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2017/02/09: The exiled cards return to the battlefield immediately after <Consulate Crackdown> leaves the battlefield. Nothing happens between the two events, including state-based actions. If <Consulate Crackdown> exiles multiple artifacts, those cards all return to the battlefield at the same time.
+2017/02/09: In a multiplayer game, if <Consulate Crackdown>'s owner leaves the game, the exiled cards will return to the battlefield. Because the one-shot effect that returns the cards isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>18s</No>
+<Name>Exquisite Archangel</Name>
+<Type>Creature — Angel 5/5</Type>
+<ManaCost>5WW (7)</ManaCost>
+<CardText>Flying
+If you would lose the game, instead exile Exquisite Archangel and your life total becomes equal to your starting life total.</CardText>
+<Flavor>A living invention born of a grand design.</Flavor>
+<Artist>Brad Rigney</Artist>
+<Rulings>2017/02/09: If <Exquisite Archangel> is dealt lethal damage at the same time that you're dealt damage that brings your life total to 0 or less, its effect applies and your life total becomes equal to your starting life total. You choose whether <Exquisite Archangel> is moved to exile or to your graveyard.
+2017/02/09: If an effect says that you can't lose the game, <Exquisite Archangel>'s effect doesn't apply.
+2017/02/09: If you control two <Exquisite Archangel>s, you choose which one's effect applies. The other's effect won't be applicable after that until the next time you would lose the game.
+2017/02/09: <Exquisite Archangel>'s effect applies any time you would lose the game, even if you're not losing due to your life total being 0 or less. If you would have lost the game because you tried to draw from an empty library, you won't lose again until you try to draw again and still can't do so.
+2017/02/09: <Exquisite Archangel>'s effect does nothing if you concede the game. A player who concedes leaves the game.
+2017/02/09: For your life total to become your starting life total (normally 20), you gain or lose the appropriate amount of life. For example, if your life total is -4 when <Exquisite Archangel>'s ability applies, it will cause you to gain 24 life; alternatively, if your life total is 40 when it applies, it will cause you to lose 20 life. Other cards that interact with life gain or life loss will interact with this effect accordingly.
+2017/02/09: If an effect states that an opponent wins the game, <Exquisite Archangel>'s ability doesn't apply.
+2017/02/09: In a Two-Headed Giant game, <Exquisite Archangel>'s ability causes the team's life total to become the team's starting life total (normally 30), but only you actually gain or lose life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>22s</No>
+<Name>Solemn Recruit</Name>
+<Type>Creature — Dwarf Warrior 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Double strike
+Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on Solemn Recruit.</CardText>
+<Flavor>"I can no longer sit in my workshop and ignore the events outside. My hammers strike for the people of Ghirapur."</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2017/02/09: Revolt abilities check only whether a permanent you controlled left the battlefield this turn or not. They don't apply multiple times if more than one permanent you controlled left the battlefield. They don't check whether the permanent that left the battlefield is still in the zone it moved to.
+2017/02/09: Revolt abilities don't care why the permanent left the battlefield, who caused it to move, or where it moved to. They're equally satisfied by an artifact you sacrificed to pay a cost, a creature you controlled that was destroyed by Murder, or an enchantment you returned to your hand with Leave in the Dust.
+2017/02/09: Tokens that leave the battlefield will satisfy a revolt ability.
+2017/02/09: Energy counters aren't permanents. Paying {E} won't satisfy a revolt ability.
+2017/02/09: All cards in the Aether Revolt set with triggered revolt abilities use an intervening "if" clause. A permanent you controlled must have left the battlefield earlier in the turn in order for these abilities to trigger; otherwise they do nothing. In other words, there's no way to have the ability trigger if no permanent you controlled has left the battlefield that turn, even if you intend to have one do so in response to the triggered ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>23s</No>
+<Name>Sram, Senior Edificer</Name>
+<Type>Legendary Creature — Dwarf Advisor 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.</CardText>
+<Flavor>"As this conflict grows, it gets harder to prevent the city from breaking down. How much longer can we keep this machinery balanced?"</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2017/02/09: Sram's triggered ability resolves before the spell that caused it to trigger. The ability will resolve even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>24s</No>
+<Name>Sram's Expertise</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Create three 1/1 colorless Servo artifact creature tokens.
+You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.</CardText>
+<Flavor>"It's important to always have the right tool for the job. This one is for picking my teeth."</Flavor>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2017/02/09: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/02/09: Effects that allow you to "cast" a card don't allow you to play a land card.
+2017/02/09: A card's converted mana cost is determined solely by the mana symbols printed in its upper right corner. The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {1}{U}{U} has converted mana cost 3. Ignore any alternative costs, additional costs, cost increases, or cost reductions that could apply to it. A card with no mana cost has a converted mana cost of 0.
+2017/02/09: While you're casting your free spell, the Expertise spell is still on the stack. It will be put into its owner's graveyard after the free spell is cast. The free spell can't target the Expertise card in your graveyard. It can target the Expertise spell on the stack, but the Expertise spell will become an illegal target before the free spell resolves.
+2017/02/09: Any triggered abilities that trigger while performing the Expertise spell's first effect won't be put onto the stack until after you're done casting your free spell. They're put onto the stack at the same time as any abilities that triggered while casting that spell regardless of the order in which those abilities triggered.
+2017/02/09: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, you must pay those to cast the card.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If an expertise spell allows you to cast a split card, you may cast either half or, if that split card has fuse, both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>27s</No>
+<Name>Aethertide Whale</Name>
+<Type>Creature — Whale 6/4</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Flying
+When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters).
+Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand.</CardText>
+<Flavor>"To survive up here, I've learned when to use my harpoon and when to just enjoy the view."
+—Kadhu, skywhaler</Flavor>
+<Artist>Steven Belledin</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>28s</No>
+<Name>Baral, Chief of Compliance</Name>
+<Type>Legendary Creature — Human Wizard 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Instant and sorcery spells you cast cost {1} less to cast.
+Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.</CardText>
+<Flavor>"The echo of silence is music to my ears."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2017/02/09: Baral's first ability doesn't affect the colored mana requirements of instant and sorcery spells.
+2017/02/09: If there are additional costs to cast a spell, such as a kicker cost or a cost imposed by another effect (such as Thalia, Guardian of Thraben's ability, for example), apply those increases before applying cost reductions.
+2017/02/09: A spell or ability counters a spell only if it specifically contains the word "counter" in its text. If a spell or ability you control causes all the targets of a spell to become illegal, that spell doesn't resolve but is not countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>29s</No>
+<Name>Baral's Expertise</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Return up to three target artifacts and/or creatures to their owners' hands.
+You may cast a card with converted mana cost 4 or less from your hand without paying its mana cost.</CardText>
+<Flavor>"Get out of my way."</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2017/02/09: If the Expertise spell you cast has any targets, and those targets become illegal before the spell resolves, the spell doesn't resolve and none of its effects happen. You won't get to cast a free spell.
+2017/02/09: A card's converted mana cost is determined solely by the mana symbols printed in its upper right corner. The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {1}{U}{U} has converted mana cost 3. Ignore any alternative costs, additional costs, cost increases, or cost reductions that could apply to it. A card with no mana cost has a converted mana cost of 0.
+2017/02/09: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/02/09: The card that you cast may be an artifact or creature that was returned to your hand by this spell.
+2017/02/09: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, you must pay those to cast the card.
+2017/02/09: While you're casting your free spell, the Expertise spell is still on the stack. It will be put into its owner's graveyard after the free spell is cast. The free spell can't target the Expertise card in your graveyard. It can target the Expertise spell on the stack, but the Expertise spell will become an illegal target before the free spell resolves.
+2017/02/09: Any triggered abilities that trigger while performing the Expertise spell's first effect won't be put onto the stack until after you're done casting your free spell. They're put onto the stack at the same time as any abilities that triggered while casting that spell regardless of the order in which those abilities triggered.
+2017/02/09: Effects that allow you to "cast" a card don't allow you to play a land card.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If an expertise spell allows you to cast a split card, you may cast either half or, if that split card has fuse, both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>31s</No>
+<Name>Disallow</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)</CardText>
+<Flavor>"How easily your flames are quenched."
+—Baral, Chief of Compliance</Flavor>
+<Artist>Min Yum</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2017/02/09: Activated abilities are written in the form "Cost: Effect." Some keyword abilities, such as equip and crew, are activated abilities and will have colons in their reminder texts.
+2017/02/09: Triggered abilities use the word "when," "whenever," or "at." They're often written as "[Trigger condition], [effect]." Some keyword abilities, such as prowess and fabricate, are triggered abilities and will have "when," "whenever," or "at" in their reminder text.
+2017/02/09: If you counter a delayed triggered ability that triggers at the beginning of the "next" occurrence of a specified step or phase, that ability won't trigger again the following time that phase or step occurs.
+2017/02/09: An activated mana ability is one that adds mana to a player's mana pool as it resolves, doesn't have a target, and isn't a loyalty ability. A triggered mana ability is one that adds mana to a player's mana pool and triggers on an activated mana ability.
+2017/02/09: Abilities that create replacement effects, such as a permanent entering the battlefield tapped or with counters on it, can't be targeted. Abilities that apply "as [this creature] enters the battlefield" are also replacement effects and can't be targeted.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>38s</No>
+<Name>Mechanized Production</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Enchant artifact you control
+At the beginning of your upkeep, create a token that's a copy of enchanted artifact. Then if you control eight or more artifacts with the same name as one another, you win the game.</CardText>
+<Flavor>"Give me eight walkers, I'll give you the city."
+—Dovin Baan</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2017/02/09: Any abilities that trigger on the token being created won't resolve until after <Mechanized Production>'s triggered ability has finished resolving entirely and performed its check for eight artifacts with the same name.
+2017/02/09: The eight artifacts with the same name don't have to have the same name as the enchanted artifact. For example, you win the game if you control eight Thopter artifact creature tokens as <Mechanized Production>'s ability resolves, even if <Mechanized Production> isn't attached to a Thopter.
+2017/02/09: All eight of the permanents sharing a name must be artifacts. If you control only seven artifacts with the same name and a nonartifact permanent with that same name, you won't win the game.
+2017/02/09: If you control eight or more artifacts that share a name while you control <Mechanized Production>, you won't win the game yet. You'll win the game while resolving its triggered ability during your upkeep.
+2017/02/09: The token copies exactly what was printed on the original artifact and nothing else (unless that artifact is copying something else or is a token; see below). It doesn't copy whether that artifact is tapped or untapped, whether it has any counters on it or Auras attached to it, or any non-copy effects that have changed its types, color, or so on.
+2017/02/09: If the copied artifact has {X} in its mana cost, X is considered to be zero.
+2017/02/09: If the copied artifact is copying something else (for example, if the copied artifact is a Sculpting Steel), then the token enters the battlefield as whatever that artifact copied.
+2017/02/09: If the copied artifact is a token, the token that's created copies the original characteristics of that token as stated by the effect that created it.
+2017/02/09: Any enters-the-battlefield abilities of the copied artifact trigger when the artifact token enters the battlefield. The artifact token also has any "this enters the battlefield with" or "as this enters the battlefield" abilities that the copied artifact has.
+2017/02/09: If <Mechanized Production> and the enchanted artifact leave the battlefield simultaneously in response to the triggered ability, then the effect creates a token that's a copy of the artifact as it last existed on the battlefield.
+2017/02/09: If the enchanted artifact leaves the battlefield in response to <Mechanized Production>'s triggered ability but <Mechanized Production> does not, <Mechanized Production> is put into its owner's graveyard as a state-based action with no enchanted artifact. The triggered ability creates no token, but you can still win the game if you control enough artifacts with the same name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>41s</No>
+<Name>Quicksmith Spy</Name>
+<Type>Creature — Human Artificer 2/3</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>When Quicksmith Spy enters the battlefield, target artifact you control gains "{T}: Draw a card" for as long as you control Quicksmith Spy.</CardText>
+<Flavor>"Let's just broaden its surveillance lens."</Flavor>
+<Artist>Ryan Alexander Lee</Artist>
+<Rulings>2017/02/09: If <Quicksmith Spy> leaves the battlefield, you no longer control it.
+2017/02/09: If another player gains control of <Quicksmith Spy>, the artifact will no longer have the card-drawing ability, even if you regain control of <Quicksmith Spy>.
+2017/02/09: If <Quicksmith Spy> leaves the battlefield while its ability is on the stack, the artifact never gains the card-drawing ability.
+2017/02/09: If <Quicksmith Spy> or the artifact leaves the battlefield while the card-drawing ability is on the stack, that ability resolves as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>48</No>
+<Name>Trophy Mage</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Trophy Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 3, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Rulings>2017/02/09: <Trophy Mage>'s ability finds an artifact card with converted mana cost exactly 3.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>49s</No>
+<Name>Whir of Invention</Name>
+<Type>Instant</Type>
+<ManaCost>XUUU (3)</ManaCost>
+<CardText>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Search your library for an artifact card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Christine Choi</Artist>
+<Rulings>2017/02/09: Improvise doesn't change a spell's mana cost or converted mana cost.
+2017/02/09: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Improvise applies after the total cost is calculated.
+2017/02/09: Because improvise isn't an alternative cost, it can be used in conjunction with alternative costs.
+2017/02/09: Improvise can't pay for {W}, {U}, {B}, {R}, {G}, or {C} mana symbols in a spell's total cost.
+2017/02/09: Improvise can't be used to pay for anything other than the cost of casting the spell. For example, it can't be used during the resolution of an ability that says "Counter target spell unless its controller pays {3}."
+2017/02/09: If an artifact you control has a mana ability with {T} in the cost, activating that ability while casting a spell with improvise will result in the artifact being tapped when you pay the spell's costs. You won't be able to tap it again for improvise. Similarly, if you sacrifice an artifact to activate a mana ability while casting a spell with improvise, that artifact won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for improvise.
+2017/02/09: Tapping an artifact won't cause its abilities to stop applying unless those abilities say so.
+2017/02/09: Equipment attached to a creature doesn't become tapped when that creature becomes tapped, and tapping that Equipment doesn't cause the creature to become tapped.
+2017/02/09: When using improvise to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap artifacts you control to help pay that cost. For example, if you cast <Whir of Invention> (a spell with improvise and mana cost {X}{U}{U}{U}) and choose X to be 3, the total cost is {3}{U}{U}{U}. If you tap two artifacts, you'll have to pay {1}{U}{U}{U}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>53s</No>
+<Name>Battle at the Bridge</Name>
+<Type>Sorcery</Type>
+<ManaCost>XB (1)</ManaCost>
+<CardText>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Target creature gets -X/-X until end of turn. You gain X life.</CardText>
+<Flavor>"This is bigger than you. All of you."
+—Tezzeret</Flavor>
+<Artist>Chris Rallis</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2017/02/09: Improvise doesn't change a spell's mana cost or converted mana cost.
+2017/02/09: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Improvise applies after the total cost is calculated.
+2017/02/09: Because improvise isn't an alternative cost, it can be used in conjunction with alternative costs.
+2017/02/09: Improvise can't pay for {W}, {U}, {B}, {R}, {G}, or {C} mana symbols in a spell's total cost.
+2017/02/09: If the target creature becomes an illegal target, <Battle at the Bridge> doesn't resolve and none of its effects happen. You won't gain life.
+2017/02/09: If an artifact you control has a mana ability with {T} in the cost, activating that ability while casting a spell with improvise will result in the artifact being tapped when you pay the spell's costs. You won't be able to tap it again for improvise. Similarly, if you sacrifice an artifact to activate a mana ability while casting a spell with improvise, that artifact won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for improvise.
+2017/02/09: Tapping an artifact won't cause its abilities to stop applying unless those abilities say so.
+2017/02/09: Equipment attached to a creature doesn't become tapped when that creature becomes tapped, and tapping that Equipment doesn't cause the creature to become tapped.
+2017/02/09: When using improvise to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap artifacts you control to help pay that cost. For example, if you cast Whir of Invention (a spell with improvise and mana cost {X}{U}{U}{U}) and choose X to be 3, the total cost is {3}{U}{U}{U}. If you tap two artifacts, you'll have to pay {1}{U}{U}{U}.
+2017/02/09: Improvise can't be used to pay for anything other than the cost of casting the spell. For example, it can't be used during the resolution of an ability that says "Counter target spell unless its controller pays {3}."
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>62s</No>
+<Name>Glint-Sleeve Siphoner</Name>
+<Type>Creature — Human Rogue 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Menace
+Whenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get {E} (an energy counter).
+At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a card and you lose 1 life.</CardText>
+<Artist>Greg Opalinski</Artist>
+<Rulings>2017/02/09: The first triggered ability triggers both when <Glint-Sleeve Siphoner> enters the battlefield and whenever it attacks. You don't have to choose only one.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: Some triggered abilities state that you "may pay" a certain amount of {E}. You can't pay that amount multiple times to multiply the effect. You simply choose whether or not to pay that amount of {E} as the ability resolves, and no player may take actions to try to stop the ability's effect after you make your choice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>64s</No>
+<Name>Herald of Anguish</Name>
+<Type>Creature — Demon 5/5</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Flying
+At the beginning of your end step, each opponent discards a card.
+{1}{B}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.</CardText>
+<Artist>Vincent Proce</Artist>
+<Rulings>2017/02/09: Improvise doesn't change a spell's mana cost or converted mana cost.
+2017/02/09: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Improvise applies after the total cost is calculated.
+2017/02/09: Because improvise isn't an alternative cost, it can be used in conjunction with alternative costs.
+2017/02/09: Improvise can't pay for {W}, {U}, {B}, {R}, {G}, or {C} mana symbols in a spell's total cost.
+2017/02/09: Improvise can't be used to pay for anything other than the cost of casting the spell. For example, it can't be used during the resolution of an ability that says "Counter target spell unless its controller pays {3}."
+2017/02/09: If an artifact you control has a mana ability with {T} in the cost, activating that ability while casting a spell with improvise will result in the artifact being tapped when you pay the spell's costs. You won't be able to tap it again for improvise. Similarly, if you sacrifice an artifact to activate a mana ability while casting a spell with improvise, that artifact won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for improvise.
+2017/02/09: Tapping an artifact won't cause its abilities to stop applying unless those abilities say so.
+2017/02/09: Equipment attached to a creature doesn't become tapped when that creature becomes tapped, and tapping that Equipment doesn't cause the creature to become tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>66s</No>
+<Name>Midnight Entourage</Name>
+<Type>Creature — Aetherborn Rogue 3/3</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Other Aetherborn you control get +1/+1.
+Whenever Midnight Entourage or another Aetherborn you control dies, you draw a card and you lose 1 life.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2017/02/09: <Midnight Entourage>'s triggered ability is mandatory. You draw a card and lose 1 life even if you don't want to.
+2017/02/09: If <Midnight Entourage> and another Aetherborn you control die at the same time, its ability triggers once for each of them.
+2017/02/09: If a creature has been dealt damage, that damage remains marked on it until the cleanup step. If <Midnight Entourage> leaves the battlefield and another Aetherborn creature you control has been dealt damage, that creature will be destroyed if the damage is now lethal. The same is true if an Aetherborn's toughness becomes 0 this way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>71s</No>
+<Name>Secret Salvage</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Exile target nonland card from your graveyard. Search your library for any number of cards with the same name as that card, reveal them, and put them into your hand. Then shuffle your library.</CardText>
+<Flavor>There is no shortage of illegal salvage in Ghirapur, nor of those who are willing to profit from it.</Flavor>
+<Artist>Tommy Arnold</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>74s</No>
+<Name>Yahenni, Undying Partisan</Name>
+<Type>Legendary Creature — Aetherborn Vampire 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Haste
+Whenever a creature an opponent controls dies, put a +1/+1 counter on Yahenni, Undying Partisan.
+Sacrifice another creature: Yahenni gains indestructible until end of turn.</CardText>
+<Flavor>"The time for subtlety is over, darling."</Flavor>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2017/02/09: If Yahenni and a creature an opponent controls die simultaneously (perhaps because they fought or were in combat together), Yahenni won't be on the battlefield as its triggered ability resolves. It can't be saved by the +1/+1 counter that would have been put on it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>75</No>
+<Name>Yahenni's Expertise</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>All creatures get -3/-3 until end of turn.
+You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Rulings>2017/02/09: A card's converted mana cost is determined solely by the mana symbols printed in its upper right corner. The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {1}{U}{U} has converted mana cost 3. Ignore any alternative costs, additional costs, cost increases, or cost reductions that could apply to it. A card with no mana cost has a converted mana cost of 0.
+2017/02/09: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/02/09: Effects that allow you to "cast" a card don't allow you to play a land card.
+2017/02/09: If a creature's toughness is reduced to 0 or less by <Yahenni's Expertise>, that creature is still on the battlefield as you cast your free spell. It can be the target of that spell, although it will become an illegal target before that spell resolves. If it has any abilities that trigger on the spell being cast, those abilities will trigger.
+2017/02/09: While you're casting your free spell, the Expertise spell is still on the stack. It will be put into its owner's graveyard after the free spell is cast. The free spell can't target the Expertise card in your graveyard. It can target the Expertise spell on the stack, but the Expertise spell will become an illegal target before the free spell resolves.
+2017/02/09: Any triggered abilities that trigger while performing the Expertise spell's first effect won't be put onto the stack until after you're done casting your free spell. They're put onto the stack at the same time as any abilities that triggered while casting that spell regardless of the order in which those abilities triggered.
+2017/02/09: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, you must pay those to cast the card.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If an expertise spell allows you to cast a split card, you may cast either half or, if that split card has fuse, both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>75s</No>
+<Name>Yahenni's Expertise</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>All creatures get -3/-3 until end of turn.
+You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.</CardText>
+<Flavor>"The Consulate pushed me to my limit, darling, and this is the result."</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2017/02/09: A card's converted mana cost is determined solely by the mana symbols printed in its upper right corner. The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {1}{U}{U} has converted mana cost 3. Ignore any alternative costs, additional costs, cost increases, or cost reductions that could apply to it. A card with no mana cost has a converted mana cost of 0.
+2017/02/09: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/02/09: Effects that allow you to "cast" a card don't allow you to play a land card.
+2017/02/09: If a creature's toughness is reduced to 0 or less by <Yahenni's Expertise>, that creature is still on the battlefield as you cast your free spell. It can be the target of that spell, although it will become an illegal target before that spell resolves. If it has any abilities that trigger on the spell being cast, those abilities will trigger.
+2017/02/09: While you're casting your free spell, the Expertise spell is still on the stack. It will be put into its owner's graveyard after the free spell is cast. The free spell can't target the Expertise card in your graveyard. It can target the Expertise spell on the stack, but the Expertise spell will become an illegal target before the free spell resolves.
+2017/02/09: Any triggered abilities that trigger while performing the Expertise spell's first effect won't be put onto the stack until after you're done casting your free spell. They're put onto the stack at the same time as any abilities that triggered while casting that spell regardless of the order in which those abilities triggered.
+2017/02/09: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, you must pay those to cast the card.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If an expertise spell allows you to cast a split card, you may cast either half or, if that split card has fuse, both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>81s</No>
+<Name>Freejam Regent</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Flying
+{1}{R}: Freejam Regent gets +2/+0 until end of turn.</CardText>
+<Flavor>The dragons perching in Freejam's towers symbolize the zone's fierce independence.</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2017/02/09: Improvise doesn't change a spell's mana cost or converted mana cost.
+2017/02/09: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Improvise applies after the total cost is calculated.
+2017/02/09: Because improvise isn't an alternative cost, it can be used in conjunction with alternative costs.
+2017/02/09: Improvise can't pay for {W}, {U}, {B}, {R}, {G}, or {C} mana symbols in a spell's total cost.
+2017/02/09: Improvise can't be used to pay for anything other than the cost of casting the spell. For example, it can't be used during the resolution of an ability that says "Counter target spell unless its controller pays {3}."
+2017/02/09: If an artifact you control has a mana ability with {T} in the cost, activating that ability while casting a spell with improvise will result in the artifact being tapped when you pay the spell's costs. You won't be able to tap it again for improvise. Similarly, if you sacrifice an artifact to activate a mana ability while casting a spell with improvise, that artifact won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for improvise.
+2017/02/09: Tapping an artifact won't cause its abilities to stop applying unless those abilities say so.
+2017/02/09: Equipment attached to a creature doesn't become tapped when that creature becomes tapped, and tapping that Equipment doesn't cause the creature to become tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>85s</No>
+<Name>Indomitable Creativity</Name>
+<Type>Sorcery</Type>
+<ManaCost>XRRR (3)</ManaCost>
+<CardText>Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle their libraries.</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2017/02/09: If a player controls no permanents destroyed this way, that player reveals no cards from their library and doesn't shuffle it.
+2017/02/09: If an artifact or creature is targeted but not destroyed (perhaps because it gained indestructible or became an illegal target), it doesn't count as one of the artifacts or creatures destroyed this way. An artifact or creature that's destroyed but put into a zone other than a graveyard (such as a player's commander in the Commander variant) does count.
+2017/02/09: While revealing cards, a player stops as soon as they reveal a card that's an artifact or a creature (or both). That player doesn't choose one type.
+2017/02/09: If a player's library no longer contains an artifact or creature card when instructed to reveal cards, that player reveals the entire library, exiles no cards, and then shuffles it.
+2017/02/09: All of the exiled cards are put onto the battlefield at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>87s</No>
+<Name>Kari Zev, Skyship Raider</Name>
+<Type>Legendary Creature — Human Pirate 1/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>First strike, menace
+Whenever Kari Zev, Skyship Raider attacks, create a legendary 2/1 red Monkey creature token named Ragavan that's tapped and attacking. Exile that token at end of combat.</CardText>
+<Flavor>Aboard her ship, the Dragon's Smile, Kari follows no one's rules but her own.</Flavor>
+<Artist>Brad Rigney</Artist>
+<Rulings>2017/02/09: You choose which opponent or opposing planeswalker Ragavan is attacking as you create the token. It doesn't have to be the same player or planeswalker Kari Zev is attacking.
+2017/02/09: Although Ragavan is attacking, it was never declared as an attacking creature (for the purposes of abilities that trigger whenever a creature attacks, for example).
+2017/02/09: The delayed triggered ability that exiles Ragavan triggers at end of combat even if Kari Zev is no longer on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>88s</No>
+<Name>Kari Zev's Expertise</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.
+You may cast a card with converted mana cost 2 or less from your hand without paying its mana cost.</CardText>
+<Flavor>"I was made for this!"</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2017/02/09: If the Expertise spell you cast has any targets, and those targets become illegal before the spell resolves, the spell doesn't resolve and none of its effects happen. You won't get to cast a free spell.
+2017/02/09: A card's converted mana cost is determined solely by the mana symbols printed in its upper right corner. The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {1}{U}{U} has converted mana cost 3. Ignore any alternative costs, additional costs, cost increases, or cost reductions that could apply to it. A card with no mana cost has a converted mana cost of 0.
+2017/02/09: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/02/09: <Kari Zev's Expertise> can target any creature or Vehicle, even one that you already control or that is already untapped.
+2017/02/09: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, you must pay those to cast the card.
+2017/02/09: While you're casting your free spell, the Expertise spell is still on the stack. It will be put into its owner's graveyard after the free spell is cast. The free spell can't target the Expertise card in your graveyard. It can target the Expertise spell on the stack, but the Expertise spell will become an illegal target before the free spell resolves.
+2017/02/09: Any triggered abilities that trigger while performing the Expertise spell's first effect won't be put onto the stack until after you're done casting your free spell. They're put onto the stack at the same time as any abilities that triggered while casting that spell regardless of the order in which those abilities triggered.
+2017/02/09: Effects that allow you to "cast" a card don't allow you to play a land card.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If an expertise spell allows you to cast a split card, you may cast either half or, if that split card has fuse, both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>90s</No>
+<Name>Lightning Runner</Name>
+<Type>Creature — Human Warrior 2/2</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Double strike, haste
+Whenever Lightning Runner attacks, you get {E}{E} (two energy counters), then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.</CardText>
+<Flavor>"Catch me if you can."</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2017/02/09: You untap all creatures you control, including ones that aren't attacking.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: Some triggered abilities state that you "may pay" a certain amount of {E}. You can't pay that amount multiple times to multiply the effect. You simply choose whether or not to pay that amount of {E} as the ability resolves, and no player may take actions to try to stop the ability's effect after you make your choice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>91s</No>
+<Name>Pia's Revolution</Name>
+<Type>Enchantment</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Whenever a nontoken artifact is put into your graveyard from the battlefield, return that card to your hand unless target opponent has Pia's Revolution deal 3 damage to them.</CardText>
+<Flavor>Pia's passion was directed at the big picture—at making real, lasting change.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2017/02/09: If a nontoken artifact is put into your graveyard at the same time as <Pia's Revolution>, <Pia's Revolution>'s ability triggers.
+2017/02/09: It doesn't matter who controlled the artifact when it was put into your graveyard. <Pia's Revolution>'s ability will trigger if you own that artifact.
+2017/02/09: The target opponent chooses whether to have <Pia's Revolution> deal 3 damage to them as its ability resolves. You won't return the card to your hand if that player chooses to be dealt damage or if the card leaves the graveyard before the ability resolves.
+2017/02/09: If there are no legal targets for <Pia's Revolution>'s ability (perhaps because each of your opponents has hexproof), it will be removed from the stack with no effect. No one may choose to be dealt damage and you won't return the artifact card to your hand.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>93</No>
+<Name>Quicksmith Rebel</Name>
+<Type>Creature — Human Artificer 3/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Quicksmith Rebel enters the battlefield, target artifact you control gains "{T}: This artifact deals 2 damage to any target" for as long as you control Quicksmith Rebel.</CardText>
+<Flavor>"Let's add just a bit more stopping power."</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2017/02/09: If <Quicksmith Rebel> leaves the battlefield, you no longer control it.
+2017/02/09: If another player gains control of <Quicksmith Rebel>, the artifact will no longer have the damage-dealing ability, even if you regain control of <Quicksmith Rebel>.
+2017/02/09: If <Quicksmith Rebel> leaves the battlefield while its ability is on the stack, the artifact never gains the damage-dealing ability.
+2017/02/09: If <Quicksmith Rebel> or the artifact leaves the battlefield while the damage-dealing ability is on the stack, that ability resolves as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>93s</No>
+<Name>Quicksmith Rebel</Name>
+<Type>Creature — Human Artificer 3/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Quicksmith Rebel enters the battlefield, target artifact you control gains "{T}: This artifact deals 2 damage to any target" for as long as you control Quicksmith Rebel.</CardText>
+<Flavor>"Let's add just a bit more stopping power."</Flavor>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2017/02/09: If <Quicksmith Rebel> leaves the battlefield, you no longer control it.
+2017/02/09: If another player gains control of <Quicksmith Rebel>, the artifact will no longer have the damage-dealing ability, even if you regain control of <Quicksmith Rebel>.
+2017/02/09: If <Quicksmith Rebel> leaves the battlefield while its ability is on the stack, the artifact never gains the damage-dealing ability.
+2017/02/09: If <Quicksmith Rebel> or the artifact leaves the battlefield while the damage-dealing ability is on the stack, that ability resolves as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>96s</No>
+<Name>Release the Gremlins</Name>
+<Type>Sorcery</Type>
+<ManaCost>XXR (1)</ManaCost>
+<CardText>Destroy X target artifacts. Create X 2/2 red Gremlin creature tokens.</CardText>
+<Flavor>"Being an inventor means knowing how to use the tools at hand to make something great—or to bring it down."
+—Pia Nalaar</Flavor>
+<Artist>Izzy</Artist>
+<Rulings>2017/02/09: The value of X is limited by the number of artifacts that you can target. You can't target the same artifact more than once.
+2017/02/09: You can target an artifact with indestructible. It won't be destroyed, and you'll still create X Gremlin tokens.
+2017/02/09: If an artifact becomes an illegal target for <Release the Gremlins>, it won't change the number of tokens created. However, if every target artifact becomes an illegal target, <Release the Gremlins> doesn't resolve and no tokens are created.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>104s</No>
+<Name>Aetherwind Basker</Name>
+<Type>Creature — Lizard 7/7</Type>
+<ManaCost>4GGG (7)</ManaCost>
+<CardText>Trample
+Whenever Aetherwind Basker enters the battlefield or attacks, you get {E} (an energy counter) for each creature you control.
+Pay {E}: Aetherwind Basker gets +1/+1 until end of turn.</CardText>
+<Flavor>Its frill inspired the design of efficient aether collectors.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2017/02/09: The triggered ability triggers both when <Aetherwind Basker> enters the battlefield and whenever it attacks. You don't have to choose only one.
+2017/02/09: Abilities that trigger "whenever you get one or more {E}," such as that of Fabrication Module from the Kaladesh set, trigger only once as <Aetherwind Basker>'s triggered ability resolves.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>105s</No>
+<Name>Aid from the Cowl</Name>
+<Type>Enchantment</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. Otherwise, you may put it on the bottom of your library.</CardText>
+<Artist>Viktor Titov</Artist>
+<Rulings>2017/02/09: If the revealed card is not a permanent card or if you choose not to put it onto the battlefield, you may put it on the bottom of your library. If you don't, it remains on top of your library.
+2017/02/09: A permanent card is an artifact, creature, enchantment, land, or planeswalker card.
+2017/02/09: If a permanent put onto the battlefield this way has an ability that triggers at the beginning of your end step, it won't trigger during this end step.
+2017/02/09: Revolt abilities check only whether a permanent you controlled left the battlefield this turn or not. They don't apply multiple times if more than one permanent you controlled left the battlefield. They don't check whether the permanent that left the battlefield is still in the zone it moved to.
+2017/02/09: Revolt abilities don't care why the permanent left the battlefield, who caused it to move, or where it moved to. They're equally satisfied by an artifact you sacrificed to pay a cost, a creature you controlled that was destroyed by Murder, or an enchantment you returned to your hand with Leave in the Dust.
+2017/02/09: Tokens that leave the battlefield will satisfy a revolt ability.
+2017/02/09: Energy counters aren't permanents. Paying {E} won't satisfy a revolt ability.
+2017/02/09: All cards in the Aether Revolt set with triggered revolt abilities use an intervening "if" clause. A permanent you controlled must have left the battlefield earlier in the turn in order for these abilities to trigger; otherwise they do nothing. In other words, there's no way to have the ability trigger if no permanent you controlled has left the battlefield that turn, even if you intend to have one do so in response to the triggered ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>107s</No>
+<Name>Greenbelt Rampager</Name>
+<Type>Creature — Elephant 3/4</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}.</CardText>
+<Flavor>Subtlety is not a necessary part of sabotage.</Flavor>
+<Artist>Filip Burburan</Artist>
+<Rulings>2017/02/09: If you have only one {E}, you can't pay it even if you want to.
+2017/02/09: If you have {E}{E}, you have to pay it, even if you don't want to.
+2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>108s</No>
+<Name>Greenwheel Liberator</Name>
+<Type>Creature — Elf Warrior 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Revolt — Greenwheel Liberator enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.</CardText>
+<Flavor>"I will not rest until every vestige of the Consulate—every banner, flag, and standard—has fallen."</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2017/02/09: Revolt abilities check only whether a permanent you controlled left the battlefield this turn or not. They don't apply multiple times if more than one permanent you controlled left the battlefield. They don't check whether the permanent that left the battlefield is still in the zone it moved to.
+2017/02/09: Revolt abilities don't care why the permanent left the battlefield, who caused it to move, or where it moved to. They're equally satisfied by an artifact you sacrificed to pay a cost, a creature you controlled that was destroyed by Murder, or an enchantment you returned to your hand with Leave in the Dust.
+2017/02/09: Tokens that leave the battlefield will satisfy a revolt ability.
+2017/02/09: Energy counters aren't permanents. Paying {E} won't satisfy a revolt ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>109s</No>
+<Name>Heroic Intervention</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Permanents you control gain hexproof and indestructible until end of turn.</CardText>
+<Flavor>"Wherever the strong would harm the weak, I will be there."
+—Ajani Goldmane</Flavor>
+<Artist>James Ryman</Artist>
+<Rulings>2017/02/09: The set of permanents affected by <Heroic Intervention> is determined as the spell resolves. Permanents you begin to control later in the turn won't gain hexproof and indestructible.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>122s</No>
+<Name>Rishkar, Peema Renegade</Name>
+<Type>Legendary Creature — Elf Druid 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on each of up to two target creatures.
+Each creature you control with a counter on it has "{T}: Add {G}."</CardText>
+<Flavor>"Aether is the soul of Kaladesh, and all souls should be free."</Flavor>
+<Artist>Todd Lockwood</Artist>
+<Rulings>2017/02/09: Rishkar can be a target of its own triggered ability.
+2017/02/09: You can't target the same creature twice to have one recipient get two +1/+1 counters.
+2017/02/09: Each creature you control has Rishkar's mana ability as long as that creature has any kind of counter on it. The effect isn't limited to those with +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>123s</No>
+<Name>Rishkar's Expertise</Name>
+<Type>Sorcery</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Draw cards equal to the greatest power among creatures you control.
+You may cast a card with converted mana cost 5 or less from your hand without paying its mana cost.</CardText>
+<Flavor>"Control the Great Conduit? You might as well try to divert a river with your hands."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2017/02/09: If you control no creatures with power greater than 0 as <Rishkar's Expertise> resolves, you draw no cards, but you may cast a card with converted mana cost 5 or less from your hand without paying its mana cost.
+2017/02/09: You may cast one of the cards drawn by <Rishkar's Expertise>'s first effect while performing its second effect.
+2017/02/09: A card's converted mana cost is determined solely by the mana symbols printed in its upper right corner. The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {1}{U}{U} has converted mana cost 3. Ignore any alternative costs, additional costs, cost increases, or cost reductions that could apply to it. A card with no mana cost has a converted mana cost of 0.
+2017/02/09: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/02/09: The greatest power among creatures you control is determined as <Rishkar's Expertise> resolves.
+2017/02/09: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Cathartic Reunion, you must pay those to cast the card.
+2017/02/09: While you're casting your free spell, the Expertise spell is still on the stack. It will be put into its owner's graveyard after the free spell is cast. The free spell can't target the Expertise card in your graveyard. It can target the Expertise spell on the stack, but the Expertise spell will become an illegal target before the free spell resolves.
+2017/02/09: Any triggered abilities that trigger while performing the Expertise spell's first effect won't be put onto the stack until after you're done casting your free spell. They're put onto the stack at the same time as any abilities that triggered while casting that spell regardless of the order in which those abilities triggered.
+2017/02/09: Effects that allow you to "cast" a card don't allow you to play a land card.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. If an expertise spell allows you to cast a split card, you may cast either half or, if that split card has fuse, both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>127s</No>
+<Name>Ajani Unyielding</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
+<ManaCost>4GW (6)</ManaCost>
+<CardText>+2: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.
+-2: Exile target creature. Its controller gains life equal to its power.
+-9: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2017/02/09: A nonland permanent card is an artifact, creature, enchantment, or planeswalker card.
+2017/02/09: The amount of life gained from Ajani's second ability is equal to power of the creature as it last existed on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>128s</No>
+<Name>Dark Intimations</Name>
+<Type>Sorcery</Type>
+<ManaCost>2UBR (5)</ManaCost>
+<CardText>Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card.
+When you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it.</CardText>
+<Artist>Chase Stone</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2017/02/09: Each opponent chooses a permanent to sacrifice from among the creatures and planeswalkers that player controls. You don't choose which type of permanent the player has to sacrifice.
+2017/02/09: If an opponent can't sacrifice a creature or planeswalker, that player still discards a card if able. You still return a creature or planeswalker card to your hand if able, even if no opponent sacrifices a permanent and/or discards a card. You still draw a card even if you can't return a card to your hand.
+2017/02/09: When <Dark Intimations> resolves, first the player whose turn it is (if that player is an opponent) chooses which creature or planeswalker they will sacrifice, then each other opponent in turn order does the same, then all chosen permanents are sacrificed at the same time. Then each opponent in the same order chooses a card in their hand without revealing it, then all chosen cards are discarded at the same time.
+2017/02/09: If two or more <Dark Intimations> are in your graveyard when you cast a Bolas planeswalker spell, you'll exile each of them and that planeswalker will enter the battlefield with that many additional loyalty counters.
+2017/02/09: The draconic Planeswalker Nicol Bolas is not featured in the Aether Revolt set. He must be up to something nefarious elsewhere.
+2017/02/09: You choose the creature or planeswalker card to return to your hand while <Dark Intimations> is resolving. No player may take actions between the time you choose one and the time you put it into your hand.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>131s</No>
+<Name>Oath of Ajani</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>When Oath of Ajani enters the battlefield, put a +1/+1 counter on each creature you control.
+Planeswalker spells you cast cost {1} less to cast.</CardText>
+<Flavor>"Until all have found their place, I will keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>137s</No>
+<Name>Tezzeret the Schemer</Name>
+<Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
+<ManaCost>2UB (4)</ManaCost>
+<CardText>+1: Create a colorless artifact token named Etherium Cell with "{T}, Sacrifice this artifact: Add one mana of any color."
+-2: Target creature gets +X/-X until end of turn, where X is the number of artifacts you control.
+-7: You get an emblem with "At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5."</CardText>
+<Artist>Ryan Alexander Lee</Artist>
+<Rulings>2017/02/09: The value of X for Tezzeret's second ability is determined only as the ability resolves. It won't change later in the turn if the number of artifacts you control changes.
+2017/02/09: The effect of the emblem's triggered ability lasts indefinitely.
+2017/02/09: An artifact that becomes a creature due to the emblem's ability can't attack unless you've controlled it continuously since your turn began. It doesn't matter whether or not it was a creature at that time.
+2017/02/09: An artifact creature targeted by the emblem's ability becomes 5/5 instead of its normal power and toughness.
+2017/02/09: A Vehicle targeted by the emblem's ability becomes a 5/5 creature. Crewing it won't change its power and toughness.
+2017/02/09: If an Equipment becomes a creature, it becomes unattached and it can't be attached to a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>142s</No>
+<Name>Aethersphere Harvester</Name>
+<Type>Artifact — Vehicle 3/5</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Flying
+When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).
+Pay {E}: Aethersphere Harvester gains lifelink until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Christine Choi</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.
+2017/02/09: multiple instances of lifelink on the same creature are redundant.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>152s</No>
+<Name>Gonti's Aether Heart</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).
+Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one.</CardText>
+<Flavor>Despite the magic that sustains Gonti's life, the crime lord is often described as heartless.</Flavor>
+<Artist>Vincent Proce</Artist>
+<Rulings>2017/02/09: {E} is the energy symbol. It represents one energy counter.
+2017/02/09: Energy counters are a kind of counter that a player may have. They're not associated with specific permanents. (Other kinds of counters that players may have include poison and experience.)
+2017/02/09: Keep careful track of how many energy counters each player has. You may do so by keeping a running count on paper, by using a die, or by any other clear and mutually agreeable method.
+2017/02/09: If an effect says you get one or more {E}, you get that many energy counters. To pay one or more {E}, you lose that many energy counters. Any effects that interact with counters a player gets, has, or loses can interact with energy counters.
+2017/02/09: Energy counters aren't mana. They don't go away as steps, phases, and turns end, and effects that add mana "of any type" can't give you energy counters.
+2017/02/09: You can't pay more energy counters than you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>153s</No>
+<Name>Heart of Kiran</Name>
+<Type>Legendary Artifact — Vehicle 4/4</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Flying, vigilance
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+You may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran's crew cost.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2017/02/09: Paying <Heart of Kiran>'s alternative crew cost isn't a loyalty ability. It can be done even if you've already activated a loyalty ability of the planeswalker this turn, and it can be done any time you could activate <Heart of Kiran>'s crew ability.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.
+2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>154s</No>
+<Name>Hope of Ghirapur</Name>
+<Type>Legendary Artifact Creature — Thopter 1/1</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Flying
+Sacrifice Hope of Ghirapur: Until your next turn, target player who was dealt combat damage by Hope of Ghirapur this turn can't cast noncreature spells.</CardText>
+<Flavor>The renegades mounted an aether disruptor aboard a lightweight thopter to destroy Tezzeret's Planar Bridge.</Flavor>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2017/02/09: The affected player won't be able to cast any noncreature spells until after the time that your "beginning of upkeep" triggered abilities are put onto the stack on your next turn.
+2017/02/09: The affected player may still activate abilities, play lands, and cast creature spells.
+2017/02/09: The target player (and any other player) may cast spells in response to the activated ability of <Hope of Ghirapur>. The ability won't affect those spells and it won't affect spells that the target player cast before you activated it. (In other words, the ability can't be used to counter a spell.)
+2017/02/09: If you skip your turn, the affected player will be unable to cast noncreature spells until you actually start a turn.
+2017/02/09: When a player leaves a multiplayer game, any continuous effects with durations that last until that player's next turn will last until that turn would have begun. They neither expire immediately nor last indefinitely.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>160s</No>
+<Name>Inspiring Statuary</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)</CardText>
+<Flavor>Ghirapur's most celebrated inventors have been immortalized in clockwork.</Flavor>
+<Artist>Kirsten Zirngibl</Artist>
+<Rulings>2017/02/09: Multiple instances of improvise are redundant.
+2017/02/09: If you cast a nonartifact spell that requires you to sacrifice a permanent as an additional cost, you may tap that permanent (if it's an artifact) for the spell's improvise ability before you sacrifice it to pay that cost.
+2017/02/09: Improvise doesn't change a spell's mana cost or converted mana cost.
+2017/02/09: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Improvise applies after the total cost is calculated.
+2017/02/09: Because improvise isn't an alternative cost, it can be used in conjunction with alternative costs.
+2017/02/09: Improvise can't pay for {W}, {U}, {B}, {R}, {G}, or {C} mana symbols in a spell's total cost.
+2017/02/09: Improvise can't be used to pay for anything other than the cost of casting the spell. For example, it can't be used during the resolution of an ability that says "Counter target spell unless its controller pays {3}."
+2017/02/09: If an artifact you control has a mana ability with {T} in the cost, activating that ability while casting a spell with improvise will result in the artifact being tapped when you pay the spell's costs. You won't be able to tap it again for improvise. Similarly, if you sacrifice an artifact to activate a mana ability while casting a spell with improvise, that artifact won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for improvise.
+2017/02/09: Tapping an artifact won't cause its abilities to stop applying unless those abilities say so.
+2017/02/09: Equipment attached to a creature doesn't become tapped when that creature becomes tapped, and tapping that Equipment doesn't cause the creature to become tapped.
+2017/02/09: When using improvise to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap artifacts you control to help pay that cost. For example, if you cast Whir of Invention (a spell with improvise and mana cost {X}{U}{U}{U}) and choose X to be 3, the total cost is {3}{U}{U}{U}. If you tap two artifacts, you'll have to pay {1}{U}{U}{U}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>162s</No>
+<Name>Lifecrafter's Bestiary</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>At the beginning of your upkeep, scry 1.
+Whenever you cast a creature spell, you may pay {G}. If you do, draw a card.</CardText>
+<Flavor>"Inspiration is found by looking outward."
+—Oviya Pashiri, sage lifecrafter</Flavor>
+<Artist>Izzy</Artist>
+<Rulings>2017/02/09: The draw step is after the upkeep step, so you'll scry 1 before you draw for the turn.
+2017/02/09: <Lifecrafter's Bestiary>'s second triggered ability resolves before the spell that caused it to trigger. The ability will resolve even if that spell is countered.
+2017/02/09: While resolving <Lifecrafter's Bestiary>'s second triggered ability, you can't pay {G} multiple times to draw multiple cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>163s</No>
+<Name>Merchant's Dockhand</Name>
+<Type>Artifact Creature — Construct 1/2</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{3}{U}, {T}, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</CardText>
+<Flavor>"If you can build it, we can move it."
+—Bes Tavani, Bomat merchant</Flavor>
+<Artist>Christine Choi</Artist>
+<Rulings>2017/02/09: <Merchant's Dockhand> is tapped to pay the {T} cost. It can't also be one of the X untapped artifacts you tap.
+2017/02/09: If the value of X is greater than or equal to the number of cards in your library, you can order your library as you wish.
+2017/02/09: If the value of X is 0, you don't look at or move any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>164s</No>
+<Name>Metallic Mimic</Name>
+<Type>Artifact Creature — Shapeshifter 2/1</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>As Metallic Mimic enters the battlefield, choose a creature type.
+Metallic Mimic is the chosen type in addition to its other types.
+Each other creature you control of the chosen type enters the battlefield with an additional +1/+1 counter on it.</CardText>
+<Artist>Zack Stella</Artist>
+<Rulings>2017/02/09: The choice of creature type is made as <Metallic Mimic> enters the battlefield. Players can't respond to this choice. <Metallic Mimic>'s second ability starts applying immediately.
+2017/02/09: You must choose an existing creature type. "Artifact" and "Vehicle" aren't creature types.
+2017/02/09: Creatures of the chosen type that enter the battlefield at the same time as <Metallic Mimic> won't enter with an additional +1/+1 counter.
+2017/02/09: Even though <Metallic Mimic> is a Shapeshifter, other Shapeshifter creatures you control won't get a +1/+1 counter unless you chose Shapeshifter as <Metallic Mimic> entered the battlefield. If you do, that creature must be entering the battlefield as a Shapeshifter to get a +1/+1 counter. It won't get a +1/+1 counter if it enters the battlefield as a copy of a non-Shapeshifter creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>169s</No>
+<Name>Paradox Engine</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever you cast a spell, untap all nonland permanents you control.</CardText>
+<Flavor>"One look at this glorious item convinced me that Kaladesh deserved my full attention. Sure enough, my time here has yielded exquisite fruit."
+—Tezzeret</Flavor>
+<Artist>Christine Choi</Artist>
+<Rulings>2017/02/09: <Paradox Engine>'s triggered ability resolves before the spell that caused it to trigger. The ability will resolve even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>170s</No>
+<Name>Peacewalker Colossus</Name>
+<Type>Artifact — Vehicle 6/6</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{1}{W}: Another target Vehicle you control becomes an artifact creature until end of turn.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Flavor>"Peace? Its sole purpose is fear."
+—Saheeli Rai</Flavor>
+<Artist>Vincent Proce</Artist>
+<Rulings>2017/09/29: Each Vehicle is printed with a power and toughness, but it's not a creature. If it becomes a creature (most likely through its crew ability), it will have that power and toughness.
+2017/09/29: If an effect causes a Vehicle to become an artifact creature with a specified power and toughness, that effect overwrites the Vehicle's printed power and toughness.
+2017/09/29: Vehicle is an artifact type, not a creature type. A Vehicle that's crewed won't normally have any creature type.
+2017/09/29: Once a player announces that they are activating a crew ability, no player may take other actions until the ability has been paid for. Notably, players can't try to stop the ability by changing a creature's power or by removing or tapping a creature.
+2017/09/29: Any untapped creature you control can be tapped to pay a crew cost, even one that just came under your control.
+2017/09/29: You may tap more creatures than necessary to activate a crew ability.
+2017/09/29: Creatures that crew a Vehicle aren't attached to it or related in any other way. Effects that affect the Vehicle, such as by destroying it or giving it a +1/+1 counter, don't affect the creatures that crewed it.
+2017/09/29: Once a Vehicle becomes a creature, it behaves exactly like any other artifact creature. It can't attack unless you've controlled it continuously since your turn began, it can block if it's untapped, it can be tapped to pay a Vehicle's crew cost, and so on.
+2017/09/29: You may activate a crew ability of a Vehicle even if it's already an artifact creature. Doing so has no effect on the Vehicle. It doesn't change its power and toughness.
+2017/09/29: For a Vehicle to be able to attack, it must be a creature as the declare attackers step begins, so the latest you can activate its crew ability to attack with it is during the beginning of combat step. For a Vehicle to be able to block, it must be a creature as the declare blockers step begins, so the latest you can activate its crew ability to block with it is during the declare attackers step. In either case, players may take actions after the crew ability resolves but before the Vehicle has been declared as an attacking or blocking creature.
+2017/09/29: When a Vehicle becomes a creature, that doesn't count as having a creature enter the battlefield. The permanent was already on the battlefield; it only changed its types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
+2017/09/29: If a permanent becomes a copy of a Vehicle, the copy won't be a creature, even if the Vehicle it's copying has become an artifact creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>171s</No>
+<Name>Planar Bridge</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.</CardText>
+<Flavor>"It is finished. Now the real work can begin."
+—Tezzeret</Flavor>
+<Artist>Chase Stone</Artist>
+<Rulings>2017/02/09: A permanent card is an artifact, creature, enchantment, land, or planeswalker card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>175</No>
+<Name>Scrap Trawler</Name>
+<Type>Artifact Creature — Construct 3/2</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost.</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Rulings>2017/02/09: If <Scrap Trawler> and another artifact you control are put into a graveyard at the same time, <Scrap Trawler>'s ability triggers for each of them.
+2017/02/09: The target artifact card must have a lesser converted mana cost than the artifact that caused <Scrap Trawler>'s ability to trigger by being put into a graveyard. Use the artifact's converted mana cost as it last existed on the battlefield to determine what may be returned.
+2017/02/09: While on the battlefield or in a graveyard, {X} in an object's mana cost is 0.
+2017/02/09: If an artifact is a copy of another artifact with greater converted mana cost, such as Sculpting Steel copying an artifact with converted mana cost 4, <Scrap Trawler>'s ability can target that artifact card in your graveyard when that artifact is put into your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>175s</No>
+<Name>Scrap Trawler</Name>
+<Type>Artifact Creature — Construct 3/2</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2017/02/09: If <Scrap Trawler> and another artifact you control are put into a graveyard at the same time, <Scrap Trawler>'s ability triggers for each of them.
+2017/02/09: The target artifact card must have a lesser converted mana cost than the artifact that caused <Scrap Trawler>'s ability to trigger by being put into a graveyard. Use the artifact's converted mana cost as it last existed on the battlefield to determine what may be returned.
+2017/02/09: While on the battlefield or in a graveyard, {X} in an object's mana cost is 0.
+2017/02/09: If an artifact is a copy of another artifact with greater converted mana cost, such as Sculpting Steel copying an artifact with converted mana cost 4, <Scrap Trawler>'s ability can target that artifact card in your graveyard when that artifact is put into your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>181s</No>
+<Name>Walking Ballista</Name>
+<Type>Artifact Creature — Construct 0/0</Type>
+<ManaCost>XX (0)</ManaCost>
+<CardText>Walking Ballista enters the battlefield with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on Walking Ballista.
+Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Rulings>2017/02/09: The value of each X in <Walking Ballista>'s mana cost must be equal. For example, if X is 2, you'll pay {4} to cast <Walking Ballista> and it will enter the battlefield with two +1/+1 counters on it.
+2017/02/09: If <Walking Ballista> has been dealt damage or had its toughness reduced by an effect, this limits how many times you'll be able to remove +1/+1 counters from it in a single turn. For example, if it has three +1/+1 counters on it and has been dealt 1 damage this turn, it will be destroyed immediately after you activate the ability a second time and you won't be able to activate it a third time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAER</SetId>
+<No>184s</No>
+<Name>Spire of Industry</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact.</CardText>
+<Flavor>A beacon of prosperity to some, a shadow of oppression to others.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Aether Revolt Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -64,12 +64,12 @@ Whenever a creature you control attacks alone, you may tap target creature.</Car
 <Flavor>"Only the bravest are worthy of our blessing."</Flavor>
 <Artist>Michael Komarck</Artist>
 <Multiverseid>279702</Multiverseid>
-<Rulings>2008/10/01: If you declare exactly one creature as an attacker, each exalted ability on each permanent you control (including, perhaps, the attacking creature itself) will trigger. The bonuses are given to the attacking creature, not to the permanent with exalted. Ultimately, the attacking creature will wind up with +1/+1 for each of your exalted abilities.
-2008/10/01: If you attack with multiple creatures, but then all but one are removed from combat, your exalted abilities won't trigger.
+<Rulings>2008/10/01: If you attack with multiple creatures, but then all but one are removed from combat, your exalted abilities won't trigger.
 2008/10/01: Some effects put creatures onto the battlefield attacking. Since those creatures were never declared as attackers, they're ignored by exalted abilities. They won't cause exalted abilities to trigger. If any exalted abilities have already triggered (because exactly one creature was declared as an attacker), those abilities will resolve as normal even though there may now be multiple attackers.
-2008/10/01: Exalted abilities will resolve before blockers are declared.
+2008/10/01: If you declare exactly one creature as an attacker, each exalted ability on each permanent you control (including, perhaps, the attacking creature itself) will trigger. The bonuses are given to the attacking creature, not to the permanent with exalted. Ultimately, the attacking creature will wind up with +1/+1 for each of your exalted abilities.
 2008/10/01: Exalted bonuses last until end of turn. If an effect creates an additional combat phase during your turn, a creature that attacked alone during the first combat phase will still have its exalted bonuses in that new phase. If a creature attacks alone during the second combat phase, all your exalted abilities will trigger again.
 2008/10/01: In a Two-Headed Giant game, a creature "attacks alone" if it's the only creature declared as an attacker by your entire team. If you control that attacking creature, your exalted abilities will trigger but your teammate's exalted abilities won't.
+2008/10/01: Exalted abilities will resolve before blockers are declared.
 2012/07/01: The creature you target with the last ability will become tapped before blockers are declared.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -503,7 +503,7 @@ Enchanted creature can't attack or block.</CardText>
 <Type>Creature — Elephant 3/3</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Prized Elephant gets +1/+1 as long as you control a Forest.
-{G}: Prized Elephant gains trample until end of turn. (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+{G}: Prized Elephant gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Artist>Ioan Dumitrescu</Artist>
 <Multiverseid>253719</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -714,7 +714,7 @@ Other creatures you control have exalted. (If a creature has multiple instances 
 <CardText>Flying
 War Falcon can't attack unless you control a Knight or a Soldier.</CardText>
 <Flavor>The falcon is the picture of nobility, maintaining a regal bearing even as it conducts the bloody business of war.</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>259697</Multiverseid>
 <Rulings>2012/07/01: To attack with <War Falcon>, you must control a Knight or a Soldier when you declare attackers. Once <War Falcon> is attacking, it won't be removed from combat if at any point you no longer control a Knight or Soldier.
 2012/07/01: If an effect makes <War Falcon> a Knight or a Soldier, it will be able to attack even if it's the only creature you control.</Rulings>
@@ -770,7 +770,7 @@ War Falcon can't attack unless you control a Knight or a Soldier.</CardText>
 <Flavor>"Words of power never disappear. They sleep, awaiting those with the will to rouse them."</Flavor>
 <Artist>Zoltan Boros</Artist>
 <Multiverseid>265722</Multiverseid>
-<Rulings>2012/07/01: If an instant or sorcery spell puts <Archaeomancer> onto the battlefield, you can return that card to your hand.</Rulings>
+<Rulings>2018/12/07: If an instant or sorcery spell puts <Archaeomancer> onto the battlefield, its ability can target that card in your graveyard.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1192,9 +1192,10 @@ Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in their
 —Jace Beleren</Flavor>
 <Artist>Jason Chan</Artist>
 <Multiverseid>288937</Multiverseid>
-<Rulings>2012/07/01: You must follow the normal timing restrictions of each nonland card you cast.
-2012/07/01: If you cast a card "without paying its mana cost," you can't pay any alternative costs. You can pay additional costs such as kicker costs. If the card has mandatory additional costs, you must pay those.
-2012/07/01: If the card has X in its mana cost, you must choose 0 as its value.</Rulings>
+<Rulings>2018/07/13: You must follow the normal timing permissions and restrictions of each spell you cast.
+2018/07/13: If you cast a spell "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card.
+2018/07/13: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2018/07/13: Once you cast <Omniscience>, if it's your turn, you'll have priority immediately after it resolves. You can cast another spell before any player can attempt to remove <Omniscience> with spells or abilities.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1275,8 +1276,7 @@ Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in their
 —Garild, merfolk mage</Flavor>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>254119</Multiverseid>
-<Rulings>2009/10/01: The second part of <Sleep>'s effect affects all creatures the targeted player controls as <Sleep> resolves, not just the ones that <Sleep> actually caused to become tapped.
-2009/10/01: <Sleep> tracks both the player and the creatures. If one of the creatures controlled by the targeted player as <Sleep> resolves changes controllers, the creature will untap as normal during its new controller's next untap step.</Rulings>
+<Rulings>2018/07/13: The second part of <Sleep>'s ability affects all creatures the targeted player controls as <Sleep> resolves, not only the ones that <Sleep> actually caused to become tapped.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1359,9 +1359,10 @@ Creatures without flying or islandwalk can't attack.</CardText>
 <Flavor>Say hello to your new friend.</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>253704</Multiverseid>
-<Rulings>2012/07/01: If one of the target creatures is an illegal target when <Switcheroo> resolves, the exchange won't happen. If both creatures are illegal targets, <Switcheroo> won't resolve.
-2012/07/01: You don't have to control either target.
-2012/07/01: If the same player controls both creatures when <Switcheroo> resolves, nothing happens.</Rulings>
+<Rulings>2018/07/13: If one of the target creatures is an illegal target when <Switcheroo> resolves, the exchange won't happen.
+2018/07/13: You don't have to control either target.
+2018/07/13: If the same player controls both creatures when <Switcheroo> resolves, nothing happens.
+2018/07/13: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1379,8 +1380,7 @@ Creatures without flying or islandwalk can't attack.</CardText>
 <Flavor>"The seas are vast, but the skies are even more so. Why be content with one kingdom when I can rule them both?"</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>253701</Multiverseid>
-<Rulings>2012/07/01: You'll put the Drake token onto the battlefield before the spell that caused the ability to trigger resolves. However, that Drake token isn't on the battlefield when you choose targets for that spell.
-2012/07/01: The ability will still resolve if the instant or sorcery spell gets countered.</Rulings>
+<Rulings>2018/12/07: Talrand's triggered ability resolves before the spell that caused it to trigger, but after targets have been chosen for that spell. It resolves even if that spell is countered.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1971,14 +1971,11 @@ As Phylactery Lich enters the battlefield, put a phylactery counter on an artifa
 When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.</CardText>
 <Artist>Michael Komarck</Artist>
 <Multiverseid>271386</Multiverseid>
-<Rulings>2010/08/15: <Phylactery Lich>'s first ability doesn't target the artifact. You can choose an artifact that has shroud, for example.
-2010/08/15: If you control no artifacts as <Phylactery Lich> enters the battlefield, its first ability won't do anything. As soon as it enters the battlefield, its last ability will trigger (unless you control some other permanent with a phylactery counter on it) and you'll have to sacrifice it.
-2010/08/15: If <Phylactery Lich> and an artifact are entering the battlefield under your control at the same time, you can't put a phylactery counter on that artifact. You must choose an artifact you control that's already on the battlefield.
-2010/08/15: <Phylactery Lich>'s last ability is a "state trigger." Once a state trigger triggers, it won't trigger again as long as the ability is on the stack. If the ability is countered and the trigger condition is still true, it will immediately trigger again.
-2010/08/15: <Phylactery Lich>'s last ability checks whether you control any permanents with phylactery counters on them, not whether you control any artifacts with phylactery counters on them. If an artifact with a phylactery counter on it somehow ceases to be an artifact, <Phylactery Lich> doesn't care.
-2010/08/15: <Phylactery Lich>'s last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, say you put a phylactery counter on a Demon's Horn as <Phylactery Lich> enters the battlefield. Then you put a phylactery counter on a Crystal Ball as another <Phylactery Lich> enters the battlefield. Then Crystal Ball is destroyed. Since you still control the Demon's Horn, the last ability of neither <Phylactery Lich> triggers.
-2010/08/15: The game continually checks whether you control a permanent with a phylactery counter on it. The moment you don't, <Phylactery Lich>'s last ability triggers. The ability doesn't check again, so you'll have to sacrifice <Phylactery Lich> when it resolves even if you wind up controlling a permanent with a phylactery counter on it by then.
-2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons <Phylactery Lich> would be put into a graveyard are if it's sacrificed (perhaps due to its last ability), or if its toughness is 0 or less.</Rulings>
+<Rulings>2018/07/13: <Phylactery Lich>'s first ability doesn't target the artifact. No player may take actions between the time you choose an artifact and the time you put a phylactery counter on it.
+2018/07/13: If you control no artifacts as <Phylactery Lich> enters the battlefield, its first ability won't do anything. As soon as it enters the battlefield, its last ability will trigger (unless you control some other permanent with a phylactery counter on it) and you'll have to sacrifice it.
+2018/07/13: If <Phylactery Lich> and an artifact are entering the battlefield under your control at the same time, you can't put a phylactery counter on that artifact. You must choose an artifact you control that's already on the battlefield.
+2018/07/13: <Phylactery Lich>'s last ability is a "state trigger." Once a state trigger triggers, it won't trigger again as long as the ability is on the stack. If the ability is countered and the trigger condition is still true, it will immediately trigger again.
+2018/07/13: <Phylactery Lich>'s last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, if you control two <Phylactery Lich>es and two different artifacts with phylactery counters, neither <Phylactery Lich> will be sacrificed if one of those artifacts leaves the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2034,10 +2031,9 @@ When you control no permanents with phylactery counters on them, sacrifice Phyla
 —Liliana Vess</Flavor>
 <Artist>Vance Kovacs</Artist>
 <Multiverseid>260981</Multiverseid>
-<Rulings>2009/10/01: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
-2009/10/01: If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless.
-2009/10/01: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave> effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes.
-2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2307,11 +2303,7 @@ Whenever a Swamp enters the battlefield under your control, you may return Veilb
 <Name>Canyon Minotaur</Name>
 <Type>Creature — Minotaur Warrior 3/3</Type>
 <ManaCost>3R (4)</ManaCost>
-<Flavor>"We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side."
-"Isn't the shortest route through the canyon?"
-"Yes."
-"So shouldn't we—"
-"No."</Flavor>
+<Flavor>"We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side." "Isn't the shortest route through the canyon?" "Yes." "So shouldn't we—" "No."</Flavor>
 <Artist>Steve Prescott</Artist>
 <Multiverseid>259211</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2354,7 +2346,7 @@ Whenever a Swamp enters the battlefield under your control, you may return Veilb
 <ManaCost>4R (5)</ManaCost>
 <CardText>Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage to each creature that player or that planeswalker's controller controls.</CardText>
 <Flavor>"I asked if they wanted to do things the easy way. I meant easy for me."</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>249682</Multiverseid>
 <Rulings>2012/07/01: <Chandra's Fury> targets only the player, not any creature. <Chandra's Fury> will deal 1 damage to a creature with hexproof, for example.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2484,7 +2476,7 @@ Whenever a Swamp enters the battlefield under your control, you may return Veilb
 —Golmak, Keldon warlord</Flavor>
 <Artist>James Paick</Artist>
 <Multiverseid>259202</Multiverseid>
-<Rulings>2012/07/01: <Firewing Phoenix>'s ability can be activated only if <Firewing Phoenix> is in your graveyard.</Rulings>
+<Rulings>2018/12/07: <Firewing Phoenix>'s ability can be activated only if <Firewing Phoenix> is in your graveyard.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3048,9 +3040,7 @@ When Acidic Slime enters the battlefield, destroy target artifact, enchantment, 
 <Type>Creature — Insect 0/1</Type>
 <ManaCost>G (1)</ManaCost>
 <CardText>When Bond Beetle enters the battlefield, put a +1/+1 counter on target creature.</CardText>
-<Flavor>A beetle on your shoulder
-—Elvish expression meaning
-"a blessing of luck"</Flavor>
+<Flavor>A beetle on your shoulder —Elvish expression meaning "a blessing of luck"</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>249696</Multiverseid>
 <Rulings>2012/07/01: You can choose <Bond Beetle> as the target of its own ability.</Rulings>
@@ -3433,7 +3423,7 @@ Cards in graveyards can't be the targets of spells or abilities.</CardText>
 —Paulin, trapper of Somberwald</Flavor>
 <Artist>Dave Kendall</Artist>
 <Multiverseid>271366</Multiverseid>
-<Rulings>2012/07/01: If either or both targets are illegal when <Prey Upon> tries to resolve, no creature will deal or be dealt damage.</Rulings>
+<Rulings>2018/12/07: If either target is an illegal target as <Prey Upon> resolves, no creature will deal or be dealt damage.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3994,7 +3984,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Ring of Kalonia</Name>
 <Type>Artifact — Equipment</Type>
 <ManaCost>2 (2)</ManaCost>
-<CardText>Equipped creature has trample. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)
+<CardText>Equipped creature has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)
 At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's green.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</CardText>
 <Artist>Erica Yang</Artist>
@@ -4556,7 +4546,7 @@ Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>249718</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

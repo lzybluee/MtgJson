@@ -1,0 +1,2125 @@
+<Card>
+<SetId>WC03</SetId>
+<No>dz8</No>
+<Name>Decree of Justice</Name>
+<Type>Sorcery</Type>
+<ManaCost>XX2WW (4)</ManaCost>
+<CardText>Create X 4/4 white Angel creature tokens with flying.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2018/03/16: A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {8}{W}{W} to cast <Decree of Justice>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh20</No>
+<Name>Ray of Revelation</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target enchantment.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>Webs of illusion unravel in the light of truth.</Flavor>
+<Artist>Doug Chaffee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh20sb</No>
+<Name>Ray of Revelation</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target enchantment.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>Webs of illusion unravel in the light of truth.</Flavor>
+<Artist>Doug Chaffee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz20sb</No>
+<Name>Ray of Revelation</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target enchantment.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>Webs of illusion unravel in the light of truth.</Flavor>
+<Artist>Doug Chaffee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz21</No>
+<Name>Vengeful Dreams</Name>
+<Type>Instant</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard X cards.
+Exile X target attacking creatures.</CardText>
+<Flavor>Teroh dreams of his enemies' doom.</Flavor>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz21sb</No>
+<Name>Vengeful Dreams</Name>
+<Type>Instant</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard X cards.
+Exile X target attacking creatures.</CardText>
+<Flavor>Teroh dreams of his enemies' doom.</Flavor>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh24</No>
+<Name>Aquamoeba</Name>
+<Type>Creature — Elemental Beast 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Discard a card: Switch Aquamoeba's power and toughness until end of turn.</CardText>
+<Flavor>Some tides need no moon.</Flavor>
+<Artist>Arnie Swekel</Artist>
+<Rulings>2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
+2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz25sb</No>
+<Name>Wing Shards</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Target player sacrifices an attacking creature.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</CardText>
+<Artist>Daren Bader</Artist>
+<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
+2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
+2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
+2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.
+2013/06/07: You may choose new targets for any of the copies. You can choose differently for each copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz28sb</No>
+<Name>Exalted Angel</Name>
+<Type>Creature — Angel 4/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+Whenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Artist>Michael Sutfin</Artist>
+<Rulings>2004/10/04: You only gain the life when the triggered ability resolves. If you are reduced to zero life before the ability resolves, you will lose before gaining the life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh33</No>
+<Name>Circular Logic</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1} for each card in your graveyard.
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Rulings>2018/12/07: <Circular Logic> is still on the stack while you count the number of cards in your graveyard. It doesn't count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz33</No>
+<Name>Circular Logic</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1} for each card in your graveyard.
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Rulings>2018/12/07: <Circular Logic> is still on the stack while you count the number of cards in your graveyard. It doesn't count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz33sb</No>
+<Name>Circular Logic</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1} for each card in your graveyard.
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Rulings>2018/12/07: <Circular Logic> is still on the stack while you count the number of cards in your graveyard. It doesn't count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz34</No>
+<Name>Compulsion</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{1}{U}, Discard a card: Draw a card.
+{1}{U}, Sacrifice Compulsion: Draw a card.</CardText>
+<Artist>Christopher Moeller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh36</No>
+<Name>Deep Analysis</Name>
+<Type>Sorcery</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Target player draws two cards.
+Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>"The specimen seems to be broken."</Flavor>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh36sb</No>
+<Name>Deep Analysis</Name>
+<Type>Sorcery</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Target player draws two cards.
+Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>"The specimen seems to be broken."</Flavor>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz36</No>
+<Name>Deep Analysis</Name>
+<Type>Sorcery</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Target player draws two cards.
+Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>"The specimen seems to be broken."</Flavor>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz37</No>
+<Name>Cunning Wish</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>You may choose an instant card you own from outside the game, reveal that card, and put it into your hand. Exile Cunning Wish.</CardText>
+<Flavor>He wished for knowledge, but not for the will to apply it.</Flavor>
+<Artist>Jim Nelson</Artist>
+<Rulings>2004/10/04: Can't acquire the Ante cards. They are considered still "in the game" as are cards in the library and the graveyard.
+2007/05/01: The choice is optional.
+2007/05/01: If you fail to find something, you still exile this.
+2007/09/16: Can't acquire cards that are phased out.
+2009/10/01: You can't acquire exiled cards because those cards are still in one of the game's zones.
+2009/10/01: In a sanctioned event, a card that's "outside the game" is one that's in your sideboard. In an unsanctioned event, you may choose any card from your collection.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh39</No>
+<Name>Envelop</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target sorcery spell.</CardText>
+<Flavor>"What you made will be unmade. What you learned will be unlearned. And when you're done, you will be undone."
+—Ambassador Laquatus</Flavor>
+<Artist>Don Hazeltine</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz42sb</No>
+<Name>Ray of Distortion</Name>
+<Type>Instant</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Destroy target artifact or enchantment.
+Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh48sb</No>
+<Name>Stupefying Touch</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Enchant creature
+When Stupefying Touch enters the battlefield, draw a card.
+Enchanted creature's activated abilities can't be activated.</CardText>
+<Flavor>Just because your eyes are open doesn't mean you're awake.</Flavor>
+<Artist>Bradley Williams</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.
+2016/06/08: Unlike many similar abilities, <Stupefying Touch>'s last ability stops mana abilities from being activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh49</No>
+<Name>Quiet Speculation</Name>
+<Type>Sorcery</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles their library.</CardText>
+<Flavor>"The best foresight is hindsight."
+—Empress Llawan</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz50</No>
+<Name>Renewed Faith</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>You gain 6 life.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Renewed Faith, you may gain 2 life.</CardText>
+<Artist>Dave Dorman</Artist>
+<Rulings>2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2017/04/18: Some cards with cycling have an ability that triggers when you cycle them. These triggered abilities resolve before you draw from the cycling ability.
+2017/04/18: Triggered abilities from cycling a card and the cycling ability itself aren't spells. Effects that interact with spells (such as that of Cancel) won't affect them.
+2017/04/18: You can cycle a card even if it has a triggered ability from cycling that won't have a legal target. This is because the cycling ability and the triggered ability are separate. This also means that if either ability doesn't resolve (due to being countered with Disallow, for example, or if the triggered ability's targets have become illegal), the other ability will still resolve.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz50sb</No>
+<Name>Renewed Faith</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>You gain 6 life.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Renewed Faith, you may gain 2 life.</CardText>
+<Artist>Dave Dorman</Artist>
+<Rulings>2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2017/04/18: Some cards with cycling have an ability that triggers when you cycle them. These triggered abilities resolve before you draw from the cycling ability.
+2017/04/18: Triggered abilities from cycling a card and the cycling ability itself aren't spells. Effects that interact with spells (such as that of Cancel) won't affect them.
+2017/04/18: You can cycle a card even if it has a triggered ability from cycling that won't have a legal target. This is because the cycling ability and the triggered ability are separate. This also means that if either ability doesn't resolve (due to being countered with Disallow, for example, or if the triggered ability's targets have become illegal), the other ability will still resolve.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh54</No>
+<Name>Wonder</Name>
+<Type>Creature — Incarnation 2/2</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</CardText>
+<Flavor>"The awestruck birds gazed at Wonder. Slowly, timidly, they rose into the air."
+—Scroll of Beginnings</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh54sb</No>
+<Name>Wonder</Name>
+<Type>Creature — Incarnation 2/2</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</CardText>
+<Flavor>"The awestruck birds gazed at Wonder. Slowly, timidly, they rose into the air."
+—Scroll of Beginnings</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk57</No>
+<Name>Chainer's Edict</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>The pits have their own form of mercy.</Flavor>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz58</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk62</No>
+<Name>Cabal Therapy</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
+Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2016/06/08: You name the card as <Cabal Therapy> resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk62sb</No>
+<Name>Cabal Therapy</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
+Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2016/06/08: You name the card as <Cabal Therapy> resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we62sb</No>
+<Name>Cabal Therapy</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
+Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2016/06/08: You name the card as <Cabal Therapy> resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk66</No>
+<Name>Arcanis the Omnipotent</Name>
+<Type>Legendary Creature — Wizard 3/4</Type>
+<ManaCost>3UUU (6)</ManaCost>
+<CardText>{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.</CardText>
+<Flavor>He has journeyed where none have been before. Now he returns to ensure that none follow.</Flavor>
+<Artist>Justin Sweet</Artist>
+<Rulings>2016/06/08: Arcanis's last ability can only be activated while it's on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk68sb</No>
+<Name>Guiltfeeder</Name>
+<Type>Creature — Horror 0/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in their graveyard.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh70</No>
+<Name>Careful Study</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw two cards, then discard two cards.</CardText>
+<Flavor>Books are like crops—they must be thinned for best yield.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk72</No>
+<Name>Stitch Together</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Return target creature card from your graveyard to your hand.
+Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.</CardText>
+<Artist>Arnie Swekel</Artist>
+<Rulings>2004/10/04: Checks the number of cards in your graveyard when it starts resolving. You may drop below seven cards during resolution, but that won't stop it from resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk72sb</No>
+<Name>Stitch Together</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Return target creature card from your graveyard to your hand.
+Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.</CardText>
+<Artist>Arnie Swekel</Artist>
+<Rulings>2004/10/04: Checks the number of cards in your graveyard when it starts resolving. You may drop below seven cards during resolution, but that won't stop it from resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk77</No>
+<Name>Anger</Name>
+<Type>Creature — Incarnation 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Haste
+As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.</CardText>
+<Flavor>"For its time as a mortal, Anger chose a shell of boiling rock."
+—Scroll of Beginnings</Flavor>
+<Artist>John Avon</Artist>
+<Rulings>2004/10/04: The timestamp for the "in your graveyard" ability is set at the time that this card goes to your graveyard, regardless of whether you control a Mountain at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk83</No>
+<Name>Burning Wish</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.</CardText>
+<Flavor>She wished for a weapon, but not for the skill to wield it.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Rulings>2004/10/04: Can't acquire the Ante cards. They are considered still "in the game" as are cards in the library and the graveyard.
+2007/05/01: The choice is optional.
+2007/05/01: If you fail to find something, you still exile this.
+2007/09/16: Can't acquire cards that are phased out.
+2009/10/01: You can't acquire exiled cards because those cards are still in one of the game's zones.
+2009/10/01: In a sanctioned event, a card that's "outside the game" is one that's in your sideboard. In an unsanctioned event, you may choose any card from your collection.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk83sb</No>
+<Name>Sickening Dreams</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard X cards.
+Sickening Dreams deals X damage to each creature and each player.</CardText>
+<Flavor>The Patriarch dreams of vile plague.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh89sb</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>The fatal flaw in every plan is the assumption that you know more than your enemy.</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz89</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>The fatal flaw in every plan is the assumption that you know more than your enemy.</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we89sb</No>
+<Name>Flaring Pain</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Damage can't be prevented this turn.
+Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Flavor>"I don't rub salt in wounds. I use sulfur."
+—Matoc, lavamancer</Flavor>
+<Artist>Glen Angus</Artist>
+<Rulings>2004/10/04: Spells and abilities that replace or redirect damage are not affected by this card.
+2004/10/04: The "damage can't be prevented" statement overrides all forms of preventing damage. Damage prevention spells and abilities can still be cast and activated, they just don't do anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we94</No>
+<Name>Gempalm Incinerator</Name>
+<Type>Creature — Goblin 2/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
+When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.</CardText>
+<Artist>Luca Zontini</Artist>
+<Rulings>2004/10/04: The target of the ability can't be a creature with Protection from Creatures, with Protection from Goblins, or with Protection from Red.
+2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.
+2008/10/01: You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we97</No>
+<Name>Goblin Warchief</Name>
+<Type>Creature — Goblin Warrior 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Goblin spells you cast cost {1} less to cast.
+Goblins you control have haste.</CardText>
+<Flavor>They poured from the Skirk Ridge like lava, burning and devouring everything in their path.</Flavor>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
+<Rulings>2018/04/27: <Goblin Warchief>'s effect reduces only generic mana in the cost of Goblin spells you cast. For example, it doesn't reduce the cost of Skirk Prospector below {R}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we100</No>
+<Name>Goblin Grappler</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)</CardText>
+<Flavor>Daru soldiers learned it's better to have a clean death from a sharp blade than to tangle with a goblin's rusted chains.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we103</No>
+<Name>Siege-Gang Commander</Name>
+<Type>Creature — Goblin 2/2</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.</CardText>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2018/04/27: You can sacrifice any Goblin you control to activate <Siege-Gang Commander>'s activated ability, not just the ones its triggered ability puts onto the battlefield. You can even sacrifice <Siege-Gang Commander> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we106sb</No>
+<Name>Sulfuric Vortex</Name>
+<Type>Enchantment</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.
+If a player would gain life, that player gains no life instead.</CardText>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh112</No>
+<Name>Unsummon</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Return target creature to its owner's hand.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh112sb</No>
+<Name>Unsummon</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Return target creature to its owner's hand.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk118</No>
+<Name>Buried Alive</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.</CardText>
+<Flavor>The scrape of shovels and the tumble of cold dirt soon muffled their pleas.</Flavor>
+<Artist>Greg Staples</Artist>
+<Rulings>2004/10/04: You can look in your library and then choose to find any number from zero to three creatures after you look at it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk118sb</No>
+<Name>Buried Alive</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.</CardText>
+<Flavor>The scrape of shovels and the tumble of cold dirt soon muffled their pleas.</Flavor>
+<Artist>Greg Staples</Artist>
+<Rulings>2004/10/04: You can look in your library and then choose to find any number from zero to three creatures after you look at it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh120</No>
+<Name>Arrogant Wurm</Name>
+<Type>Creature — Wurm 4/4</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Trample
+Madness {2}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Flavor>It's hard to be humble when the whole world is bite-size.</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh121</No>
+<Name>Basking Rootwalla</Name>
+<Type>Creature — Lizard 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2006/02/01: If this card's ability is activated by one player, then another player takes control of it on the same turn, the second player can't activate its ability that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz121sb</No>
+<Name>Hunting Pack</Name>
+<Type>Instant</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Create a 4/4 green Beast creature token.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</CardText>
+<Artist>Jim Nelson</Artist>
+<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
+2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
+2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
+2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh122</No>
+<Name>Krosan Reclamation</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Target player shuffles up to two target cards from their graveyard into their library.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Gary Ruddell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh122sb</No>
+<Name>Krosan Reclamation</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Target player shuffles up to two target cards from their graveyard into their library.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Gary Ruddell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz122sb</No>
+<Name>Krosan Reclamation</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Target player shuffles up to two target cards from their graveyard into their library.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Gary Ruddell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we123sb</No>
+<Name>Dark Banishing</Name>
+<Type>Instant</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Destroy target nonblack creature. It can't be regenerated.</CardText>
+<Flavor>"Ha, banishment? Be merciful, say 'death,' For exile hath more terror in his look, Much more than death."
+—William Shakespeare, Romeo and Juliet</Flavor>
+<Artist>Dermot Power</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh127sb</No>
+<Name>Phantom Centaur</Name>
+<Type>Creature — Centaur Spirit 2/0</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Protection from black
+Phantom Centaur enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2004/10/04: If this card is going to take damage from a black source, you can choose to apply Protection from Black's damage prevention ability prior to applying this card's built-in ability. This means you don't have to remove a counter.
+2004/10/04: If this card takes damage from multiple sources at once (for example if it is blocked by multiple creatures in combat), it only loses one counter.
+2004/10/04: If unpreventable damage is applied to this card, you still remove a counter even though the prevention fails.
+2004/10/04: Remove one counter each time it would be damaged. If it was going to take more than one point of damage, you prevent all the damage and still only remove one counter.
+2004/10/04: The damage prevention ability works even if it has no counters, as long as some effect keeps its toughness above zero.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk128sb</No>
+<Name>Decompose</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Exile up to three target cards from a single graveyard.</CardText>
+<Flavor>"Sheesh! How am I supposed to make a decent living around here?"
+—Cabal grave robber</Flavor>
+<Artist>Tony Szczudlo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh132sb</No>
+<Name>Nantuko Vigilante</Name>
+<Type>Creature — Insect Druid Mutant 3/2</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Nantuko Vigilante is turned face up, destroy target artifact or enchantment.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Rulings>2004/10/04: The trigger occurs when you use the Morph ability to turn the card face up, or when an effect turns it face up. It will not trigger on being revealed or on leaving the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk132</No>
+<Name>Entomb</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Search your library for a card and put that card into your graveyard. Then shuffle your library.</CardText>
+<Flavor>A grave is the safest place to store ill-gotten treasures.</Flavor>
+<Artist>Ron Spears</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz137sb</No>
+<Name>Anurid Brushhopper</Name>
+<Type>Creature — Frog Beast 3/4</Type>
+<ManaCost>1GW (3)</ManaCost>
+<CardText>Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.</CardText>
+<Flavor>It's so tough it can frighten itself into hiding.</Flavor>
+<Artist>Arnie Swekel</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz139</No>
+<Name>Mirari's Wake</Name>
+<Type>Enchantment</Type>
+<ManaCost>3GW (5)</ManaCost>
+<CardText>Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana of any type that land produced.</CardText>
+<Flavor>The land drank power from the Mirari as though it had thirsted forever.</Flavor>
+<Artist>David Martin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk140</No>
+<Name>Doomed Necromancer</Name>
+<Type>Creature — Human Cleric Mercenary 2/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.</CardText>
+<Flavor>"His sacrifice shall not be forgotten. Now toss his body over there with the others."
+—Phage the Untouchable</Flavor>
+<Artist>Mark Brill</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz141</No>
+<Name>Krosan Verge</Name>
+<Type>Land</Type>
+<CardText>Krosan Verge enters the battlefield tapped.
+{T}: Add {C}.
+{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library.</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk142sb</No>
+<Name>Haunting Echoes</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles their library.</CardText>
+<Artist>Arnie Swekel</Artist>
+<Rulings>2009/10/01: While you're searching the player's library, you don't have to find all the cards with the same name as an exiled card if you don't want to. You can leave any number of them in that player's library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk145</No>
+<Name>Innocent Blood</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Each player sacrifices a creature.</CardText>
+<Flavor>Zombies mourn for the living and celebrate those who will soon be given the gift of death.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2016/06/08: You can cast <Innocent Blood> even if some (or all) players control no creatures. Those players are simply unaffected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk146sb</No>
+<Name>Last Rites</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.</CardText>
+<Artist>Bradley Williams</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk161sb</No>
+<Name>Patriarch's Bidding</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.</CardText>
+<Flavor>"Family plots are so convenient."
+—Cabal Patriarch</Flavor>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we161</No>
+<Name>Patriarch's Bidding</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.</CardText>
+<Flavor>"Family plots are so convenient."
+—Cabal Patriarch</Flavor>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk165sb</No>
+<Name>Soul Feast</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Target player loses 4 life and you gain 4 life.</CardText>
+<Flavor>You are who you eat.</Flavor>
+<Artist>Adam Rex</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk170</No>
+<Name>Smother</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</CardText>
+<Flavor>"I can't hear them scream, but at least I don't have to listen to them beg."
+—Phage the Untouchable</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2010/03/01: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is copying something else; see below). If its mana cost includes {X}, X is considered to be 0. If it has no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) paid when the creature was cast.
+2010/03/01: A token has a converted mana cost of 0, unless it is copying something else.
+2010/03/01: If a creature is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we170</No>
+<Name>Smother</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</CardText>
+<Flavor>"I can't hear them scream, but at least I don't have to listen to them beg."
+—Phage the Untouchable</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2010/03/01: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is copying something else; see below). If its mana cost includes {X}, X is considered to be 0. If it has no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) paid when the creature was cast.
+2010/03/01: A token has a converted mana cost of 0, unless it is copying something else.
+2010/03/01: If a creature is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we170sb</No>
+<Name>Smother</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</CardText>
+<Flavor>"I can't hear them scream, but at least I don't have to listen to them beg."
+—Phage the Untouchable</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2010/03/01: A creature's converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is copying something else; see below). If its mana cost includes {X}, X is considered to be 0. If it has no mana symbols in its upper right corner (because it's an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) paid when the creature was cast.
+2010/03/01: A token has a converted mana cost of 0, unless it is copying something else.
+2010/03/01: If a creature is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk174</No>
+<Name>Zombify</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Return target creature card from your graveyard to the battlefield.</CardText>
+<Flavor>"The first birth celebrates life. The second birth mocks it."
+—Mystic elder</Flavor>
+<Artist>Mark Romanoski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk178</No>
+<Name>Undead Gladiator</Name>
+<Type>Creature — Zombie Barbarian 3/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</CardText>
+<Artist>Jeff Easley</Artist>
+<Rulings>2004/10/04: The ability to return to your hand can only be activated while this card is in your graveyard.
+2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk179</No>
+<Name>Visara the Dreadful</Name>
+<Type>Legendary Creature — Gorgon 5/5</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Flying
+{T}: Destroy target creature. It can't be regenerated.</CardText>
+<Flavor>"My eyes are my strongest feature."</Flavor>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk183sb</No>
+<Name>Demolish</Name>
+<Type>Sorcery</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Destroy target artifact or land.</CardText>
+<Flavor>"Pound the steel until it fits. Doesn't work? Bash to bits."
+—Dwarven forging song</Flavor>
+<Artist>Gary Ruddell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk190</No>
+<Name>Phantom Nishoba</Name>
+<Type>Creature — Cat Beast Spirit 0/0</Type>
+<ManaCost>5GW (7)</ManaCost>
+<CardText>Trample
+Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.
+Whenever Phantom Nishoba deals damage, you gain that much life.
+If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.</CardText>
+<Artist>Arnie Swekel</Artist>
+<Rulings>2004/10/04: If this card takes damage from multiple sources at once (for example if it is blocked by multiple creatures in combat), it only loses one counter.
+2004/10/04: If unpreventable damage is applied to this card, you still remove a counter even though the prevention fails.
+2004/10/04: Remove one counter each time it would be damaged. If it was going to take more than one point of damage, you prevent all the damage and still only remove one counter.
+2004/10/04: The damage prevention ability works even if it has no counters, as long as some effect keeps its toughness above zero.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we205</No>
+<Name>Goblin Piledriver</Name>
+<Type>Creature — Goblin Warrior 1/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)
+Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.</CardText>
+<Flavor>Throw enough goblins at any problem and it should go away. At the very least, there'll be fewer goblins.</Flavor>
+<Artist>Matt Cavotta</Artist>
+<Rulings>2004/10/04: The number of Goblins is counted when this ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we207</No>
+<Name>Goblin Sharpshooter</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Goblin Sharpshooter doesn't untap during your untap step.
+Whenever a creature dies, untap Goblin Sharpshooter.
+{T}: Goblin Sharpshooter deals 1 damage to any target.</CardText>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we209</No>
+<Name>Goblin Sledder</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</CardText>
+<Flavor>"Let's play 'sled.' Here's how it works: you're the sled."</Flavor>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk210sb</No>
+<Name>Pyroclasm</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Pyroclasm deals 2 damage to each creature.</CardText>
+<Flavor>"When the air burns, only death breathes deep."
+—Bogardan mage</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we210</No>
+<Name>Goblin Taskmaster</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{1}{R}: Target Goblin creature gets +1/+0 until end of turn.
+Morph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Flavor>For some reason, goblin fighting school isn't as crowded on day two.</Flavor>
+<Artist>Trevor Hairsine</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk216</No>
+<Name>Recoup</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Dave Dorman</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk216sb</No>
+<Name>Recoup</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Dave Dorman</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we230</No>
+<Name>Skirk Prospector</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Sacrifice a Goblin: Add {R}.</CardText>
+<Flavor>"I like goblins. They make funny little popping sounds when they die."
+—Braids, dementia summoner</Flavor>
+<Artist>Doug Chaffee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we235</No>
+<Name>Sparksmith</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.</CardText>
+<Flavor>"If it didn't hurt, how would I know it worked?"</Flavor>
+<Artist>Jim Nelson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz251</No>
+<Name>Moment's Peace</Name>
+<Type>Instant</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Prevent all combat damage that would be dealt this turn.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh266</No>
+<Name>Roar of the Wurm</Name>
+<Type>Sorcery</Type>
+<ManaCost>6G (7)</ManaCost>
+<CardText>Create a 6/6 green Wurm creature token.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Kev Walker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh283</No>
+<Name>Wild Mongrel</Name>
+<Type>Creature — Hound 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.</CardText>
+<Flavor>It teaches you to play dead.</Flavor>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk289</No>
+<Name>Symbiotic Wurm</Name>
+<Type>Creature — Wurm 7/7</Type>
+<ManaCost>5GGG (8)</ManaCost>
+<CardText>When Symbiotic Wurm dies, create seven 1/1 green Insect creature tokens.</CardText>
+<Flavor>The insects keep the wurm's hide free from parasites. In return, the wurm doesn't eat the insects.</Flavor>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz303</No>
+<Name>Mirari</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.</CardText>
+<Flavor>"It offers you what you want, not what you need."
+—Braids, dementia summoner</Flavor>
+<Artist>Donato Giancola</Artist>
+<Rulings>2004/10/04: Everything about the original spell is copied, including any decisions made on announcement, such as whether it was kicked or its Buyback cost was paid. Effects on the spell, such as Sleight of Mind or Flashback, are not copied.
+2004/10/04: If the copied spell requires a target and there are no legal targets, then the copy has the same target (which should be illegal) as the original.
+2004/10/04: If the spell is countered before the triggered ability resolves, then the ability will make a copy of how the spell looked right before it was countered.
+2004/10/04: It triggers once per spell, so you can't get multiple copies of a spell using this card. And since this card is legendary, you can't control more than one.
+2004/10/04: The copy is not "cast" so it will not trigger anything that triggers on a spell being cast.
+2004/10/04: You choose whether or not to pay when the triggered ability resolves.
+2004/10/04: You are not required to choose new targets. If you do choose, then the targets must be legal. If you don't change them, the spell is placed on the stack whether or not the targets are legal. The legality of the targets is always checked on resolution of the spell, so the spell may be countered at that time if all of its targets are illegal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk312</No>
+<Name>Barren Moor</Name>
+<Type>Land</Type>
+<CardText>Barren Moor enters the battlefield tapped.
+{T}: Add {B}.
+Cycling {B} ({B}, Discard this card: Draw a card.)</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk313</No>
+<Name>Bloodstained Mire</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we313</No>
+<Name>Bloodstained Mire</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh316</No>
+<Name>Centaur Garden</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {G}. Centaur Garden deals 1 damage to you.
+Threshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz316</No>
+<Name>Flooded Strand</Name>
+<Type>Land</Type>
+<CardText>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh322</No>
+<Name>City of Brass</Name>
+<Type>Land</Type>
+<CardText>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.</CardText>
+<Artist>Ron Walotsky</Artist>
+<Rulings>2004/10/04: The first ability triggers no matter how the land becomes tapped.
+2004/10/04: If you tap <City of Brass> while you are casting a spell or activating an ability, its ability will trigger and wait. When you finish casting that spell or activating that ability, <City of Brass>'s triggered ability is put on the stack on top of it. <City of Brass>'s ability will resolve first.
+2004/10/04: On the other hand, you can tap <City of Brass>, put its triggered ability on the stack, and then respond to that ability by casting an instant or activating an ability using that mana. In that case, the instant spell or activated ability will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we322</No>
+<Name>City of Brass</Name>
+<Type>Land</Type>
+<CardText>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.</CardText>
+<Artist>Ron Walotsky</Artist>
+<Rulings>2004/10/04: The first ability triggers no matter how the land becomes tapped.
+2004/10/04: If you tap <City of Brass> while you are casting a spell or activating an ability, its ability will trigger and wait. When you finish casting that spell or activating that ability, <City of Brass>'s triggered ability is put on the stack on top of it. <City of Brass>'s ability will resolve first.
+2004/10/04: On the other hand, you can tap <City of Brass>, put its triggered ability on the stack, and then respond to that ability by casting an instant or activating an ability using that mana. In that case, the instant spell or activated ability will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz324</No>
+<Name>Elfhame Palace</Name>
+<Type>Land</Type>
+<CardText>Elfhame Palace enters the battlefield tapped.
+{T}: Add {G} or {W}.</CardText>
+<Flavor>The elfhames are the closest thing to "civilization" the elves allow themselves.</Flavor>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk326</No>
+<Name>Shadowblood Ridge</Name>
+<Type>Land</Type>
+<CardText>{1}, {T}: Add {B}{R}.</CardText>
+<Flavor>The carnage of conflicts long past still stains the Otarian soil.</Flavor>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we326</No>
+<Name>Shadowblood Ridge</Name>
+<Type>Land</Type>
+<CardText>{1}, {T}: Add {B}{R}.</CardText>
+<Flavor>The carnage of conflicts long past still stains the Otarian soil.</Flavor>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz327</No>
+<Name>Skycloud Expanse</Name>
+<Type>Land</Type>
+<CardText>{1}, {T}: Add {W}{U}.</CardText>
+<Flavor>From Otaria, the sun above meets the sea below at a glittering horizon.</Flavor>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we328sb</No>
+<Name>Starstorm</Name>
+<Type>Instant</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Starstorm deals X damage to each creature.
+Cycling {3} ({3}, Discard this card: Draw a card.)</CardText>
+<Flavor>Pardic barbarians didn't complain when the Order started blaming every crisis on the Cabal.</Flavor>
+<Artist>David Martin</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz331</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz332</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Matthew Mitchell</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz333</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz335</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh336</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz336</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh337</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz337</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh338</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Scott Bailey</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk339</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we339</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Bob Eggleton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk340</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we340</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk341</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we342</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Larry Elmore</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we343</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk344</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we344</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk345</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>pk346</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>we346</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz347</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh348</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz348</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh349</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dz349</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC03</SetId>
+<No>dh350</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+

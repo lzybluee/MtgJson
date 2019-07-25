@@ -1,0 +1,144 @@
+<Card>
+<SetId>G10</SetId>
+<No>1</No>
+<Name>Sinkhole</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Destroy target land.</CardText>
+<Artist>Dave Allsop</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>2</No>
+<Name>Natural Order</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a green creature.
+Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.</CardText>
+<Flavor>...but the price of Mangaras's freedom was Asmira's life.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2016/06/08: Sacrificing a green creature is part of <Natural Order>'s cost. You can't sacrifice more creatures to search for more creature cards, and you can't cast <Natural Order> at all if you control no green creatures.
+2016/06/08: Players can respond to this spell only after it's been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to stop you from casting this spell or to make you sacrifice a different one.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>3</No>
+<Name>Phyrexian Dreadnought</Name>
+<Type>Artifact Creature — Dreadnought 12/12</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Trample
+When Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.</CardText>
+<Artist>Pete Venters</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: The sacrifices are simultaneous, not one at a time.
+2004/10/04: Phasing in does not trigger "enters the battlefield" abilities, so you don't have to sacrifice again if it phases in.
+2007/07/15: Reverted to its original wording, this now has an enters-the-battlefield triggered ability. During resolution of the triggered ability, you choose one option or the other.
+2007/07/15: If the Dreadnought is no longer on the battlefield when the triggered ability resolves, you may still choose either option.
+2013/04/15: If you are unable to sacrifice 12 power worth of creatures, then you cannot choose that option; in that case, you must sacrifice <Phyrexian Dreadnought>.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>4</No>
+<Name>Thawing Glaciers</Name>
+<Type>Land</Type>
+<CardText>Thawing Glaciers enters the battlefield tapped.
+{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step.</CardText>
+<Artist>Jim Nelson</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: The land put onto the battlefield does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>5</No>
+<Name>Land Tax</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.</CardText>
+<Artist>Chuck Lukacs</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2006/10/15: You can fetch any of the "Snow-Covered" lands, since they all also have the supertype basic.
+2009/10/01: This ability has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless any one of your opponents controls more lands than you, and (2) the ability will do nothing if you control at least as many lands as each of your opponents by the time it resolves.
+2009/10/01: You shuffle your library if you search, even if you don't put any basic land cards into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>6</No>
+<Name>Morphling</Name>
+<Type>Creature — Shapeshifter 3/3</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>{U}: Untap Morphling.
+{U}: Morphling gains flying until end of turn.
+{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)
+{1}: Morphling gets +1/-1 until end of turn.
+{1}: Morphling gets -1/+1 until end of turn.</CardText>
+<Artist>rk post</Artist>
+<Watermark>Dci</Watermark>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>7</No>
+<Name>Wheel of Fortune</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Each player discards their hand, then draws seven cards.</CardText>
+<Artist>John Matson</Artist>
+<Watermark>Dci</Watermark>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G10</SetId>
+<No>8</No>
+<Name>Wasteland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.</CardText>
+<Flavor>"The land promises nothing and keeps its promise." -Oracle en-Vec</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2010</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

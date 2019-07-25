@@ -1,0 +1,548 @@
+<Card>
+<SetId>ANA</SetId>
+<No>1</No>
+<Name>Angelic Reward</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +3/+3 and has flying.</CardText>
+<Artist>Denman Rooke</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>2</No>
+<Name>Blinding Radiance</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Tap all creatures your opponents control with toughness 2 or less.</CardText>
+<Artist>Denman Rooke</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>3</No>
+<Name>Confront the Assault</Name>
+<Type>Instant</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Cast this spell only if a creature is attacking you.
+Create three 1/1 white Spirit creature tokens with flying.</CardText>
+<Artist>J.P. Targete</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>5</No>
+<Name>Inspiring Commander</Name>
+<Type>Creature — Human Soldier 1/4</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Whenever another creature with power 2 or less enters the battlefield under your control, you gain 1 life and draw a card.</CardText>
+<Artist>Antonio José Manzanedo</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>6</No>
+<Name>Knight's Pledge</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>7</No>
+<Name>Loxodon Line Breaker</Name>
+<Type>Creature — Elephant Soldier 3/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<Artist>Jesper Ejsing</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>8</No>
+<Name>Sanctuary Cat</Name>
+<Type>Creature — Cat 1/2</Type>
+<ManaCost>W (1)</ManaCost>
+<Artist>David Palumbo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>9</No>
+<Name>Serra Angel</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying, vigilance</CardText>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>10</No>
+<Name>Shrine Keeper</Name>
+<Type>Creature — Human Cleric 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<Artist>Craig J Spearing</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>11</No>
+<Name>Spiritual Guardian</Name>
+<Type>Creature — Spirit 3/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>When Spiritual Guardian enters the battlefield, you gain 4 life.</CardText>
+<Artist>J.P. Targete</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>12</No>
+<Name>Tactical Advantage</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Target blocking or blocked creature you control gets +2/+2 until end of turn.</CardText>
+<Artist>Lie Setiawan</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>13</No>
+<Name>Take Vengeance</Name>
+<Type>Sorcery</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target tapped creature.</CardText>
+<Artist>Randy Vargas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>14</No>
+<Name>Divination</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Draw two cards.</CardText>
+<Artist>Howard Lyon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>16</No>
+<Name>Overflowing Insight</Name>
+<Type>Sorcery</Type>
+<ManaCost>4UUU (7)</ManaCost>
+<CardText>Target player draws seven cards.</CardText>
+<Artist>Lucas Graciano</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>17</No>
+<Name>River's Favor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1.</CardText>
+<Artist>Lie Setiawan</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>18</No>
+<Name>Shorecomber Crab</Name>
+<Type>Creature — Crab 0/4</Type>
+<ManaCost>U (1)</ManaCost>
+<Artist>Chris Seaman</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>19</No>
+<Name>Titanic Pelagosaur</Name>
+<Type>Creature — Dinosaur 4/6</Type>
+<ManaCost>3UU (5)</ManaCost>
+<Artist>Jonathan Kuo</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>22</No>
+<Name>Waterknot</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Enchant creature
+When Waterknot enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.</CardText>
+<Artist>Wayne Reynolds</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>23</No>
+<Name>Zephyr Gull</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Flying</CardText>
+<Artist>Antonio José Manzanedo</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>24</No>
+<Name>Altar's Reap</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards.</CardText>
+<Artist>Donato Giancola</Artist>
+<Rulings>2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
+2013/04/15: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>25</No>
+<Name>Ambition's Cost</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>You draw three cards and you lose 3 life.</CardText>
+<Artist>Zezhou Chen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>26</No>
+<Name>Cruel Cut</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target creature with power 2 or less.</CardText>
+<Artist>Caio Monteiro</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>29</No>
+<Name>Miasmic Mummy</Name>
+<Type>Creature — Zombie Jackal 2/2</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Miasmic Mummy enters the battlefield, each player discards a card.</CardText>
+<Artist>E. M. Gist</Artist>
+<Rulings>2017/04/18: When <Miasmic Mummy>'s triggered ability resolves, first the player whose turn it is chooses a card to discard, then each other player in turn order chooses a card to discard, then all of those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>31</No>
+<Name>Nimble Pilferer</Name>
+<Type>Creature — Human Rogue 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flash</CardText>
+<Artist>Lie Setiawan</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>33</No>
+<Name>Renegade Demon</Name>
+<Type>Creature — Demon 5/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<Artist>Tomasz Jedruszek</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>34</No>
+<Name>Rise from the Grave</Name>
+<Type>Sorcery</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>35</No>
+<Name>Soulhunter Rakshasa</Name>
+<Type>Creature — Cat Demon 5/5</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Soulhunter Rakshasa can't block.
+When Soulhunter Rakshasa enters the battlefield, it deals 5 damage to target opponent.</CardText>
+<Artist>Caio Monteiro</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>36</No>
+<Name>Chaos Maw</Name>
+<Type>Creature — Hellion 6/6</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>When Chaos Maw enters the battlefield, it deals 3 damage to each other creature.</CardText>
+<Artist>Steve Argyle</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>37</No>
+<Name>Doublecast</Name>
+<Type>Sorcery</Type>
+<ManaCost>RR (2)</ManaCost>
+<CardText>When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</CardText>
+<Artist>Even Amundsen</Artist>
+<Rulings>2018/07/13: If you cast one <Doublecast> after another, you'll copy the second <Doublecast>. Each resolves, creating two delayed triggered abilities. The next spell you cast after that will be copied twice. If that spell is also a <Doublecast>, the following spell will be copied three times, and so on.
+2018/07/13: <Doublecast>'s ability will copy any instant or sorcery spell, not just one with targets.
+2018/07/13: A copy is created even if the spell that caused <Doublecast>'s ability to trigger has been countered by the time that ability resolves. The copy resolves before the original spell.
+2018/07/13: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. The new targets must be legal.
+2018/07/13: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode or modes. You can't choose different ones.
+2018/07/13: If the spell that's copied has an X whose value was determined as it was cast, the copy has the same value of X.
+2018/07/13: You can't choose to pay any additional costs for the copy. However, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too.
+2018/07/13: The copy that <Doublecast>'s ability creates is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>39</No>
+<Name>Goblin Bruiser</Name>
+<Type>Creature — Goblin Warrior 3/3</Type>
+<ManaCost>1RR (3)</ManaCost>
+<Artist>Jakub Kasper</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>40</No>
+<Name>Goblin Gang Leader</Name>
+<Type>Creature — Goblin Warrior 2/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin creature tokens.</CardText>
+<Artist>Jakub Kasper</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>41</No>
+<Name>Goblin Grenade</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a Goblin.
+Goblin Grenade deals 5 damage to any target.</CardText>
+<Artist>Kev Walker</Artist>
+<Rulings>2004/10/04: You can't sacrifice more than one Goblin to get a greater effect.
+2011/09/22: Players can only respond once <Goblin Grenade> has been cast and all its costs have been paid. No one can try and destroy the Goblin to prevent you from casting <Goblin Grenade>.
+2011/09/22: The Goblin you sacrifice to cast <Goblin Grenade> doesn't have to be a creature. For example, you could sacrifice Boggart Shenanigans (a tribal enchantment with the subtype Goblin).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>42</No>
+<Name>Ogre Painbringer</Name>
+<Type>Creature — Ogre 7/3</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>When Ogre Painbringer enters the battlefield, it deals 3 damage to each player.</CardText>
+<Artist>Antonio José Manzanedo</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>43</No>
+<Name>Raging Goblin</Name>
+<Type>Creature — Goblin Berserker 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
+<Artist>Jakub Kasper</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>44</No>
+<Name>Seismic Rupture</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Seismic Rupture deals 2 damage to each creature without flying.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>45</No>
+<Name>Volcanic Dragon</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>46</No>
+<Name>Feral Roar</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Target creature gets +4/+4 until end of turn.</CardText>
+<Artist>Jonathan Kuo</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>47</No>
+<Name>Rumbling Baloth</Name>
+<Type>Creature — Beast 4/4</Type>
+<ManaCost>2GG (4)</ManaCost>
+<Artist>Jesper Ejsing</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>ANA</SetId>
+<No>48</No>
+<Name>Treetop Warden</Name>
+<Type>Creature — Elf Warrior 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<Artist>Colin Boyer</Artist>
+<Set>Arena New Player Experience</Set>
+<Rarity>Common</Rarity>
+</Card>
+

@@ -1850,10 +1850,10 @@ When Spire Owl enters the battlefield, look at the top four cards of your librar
 <Name>Time Spiral</Name>
 <Type>Sorcery</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>Exile Time Spiral. Each player shuffles their graveyard and hand into their library, then draws seven cards. You untap up to six lands.</CardText>
+<CardText>Exile Time Spiral. Each player shuffles their hand and graveyard into their library, then draws seven cards. You untap up to six lands.</CardText>
 <Artist>Michael Sutfin</Artist>
 <Multiverseid>10423</Multiverseid>
-<Rulings>2016/06/08: You choose which lands to untap as the triggered ability resolves. They aren't targeted, and they don't have to be lands that you control.</Rulings>
+<Rulings>2016/06/08: You choose which lands to untap as the spell resolves. They aren't targeted, and they don't have to be lands that you control.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3066,12 +3066,12 @@ When Vebulid attacks or blocks, destroy it at end of combat.</CardText>
 If a card would be put into your graveyard from anywhere this turn, exile that card instead.</CardText>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>5629</Multiverseid>
-<Rulings>2004/10/04: The second ability creates a replacement effect. It applies to both costs and effects.
-2004/10/04: If you cast a Buyback spell, then there will be two effects trying to replace where the card goes. You get to choose if the Buyback returns the card to your hand or the card gets exiled.
+<Rulings>2004/10/04: If you cast a Buyback spell, then there will be two effects trying to replace where the card goes. You get to choose if the Buyback returns the card to your hand or the card gets exiled.
 2004/10/04: If an effect asks you to discard a card, you can't "discard" something that is in your graveyard. Those cards are not in your hand. Thus, Cycling abilities of cards in the graveyard can't be activated.
-2004/10/04: It will exile itself since it goes to the graveyard after its effect starts.
+2004/10/04: The second ability creates a replacement effect. It applies to both costs and effects.
 2004/10/04: If you play a card using <Yawgmoth's Will> and something triggers only when "cast from your hand", that something will not trigger. Such things trigger based on where the card came from.
 2004/10/04: To "play a card" is to either cast a spell or to put a land onto the battlefield using the main phase special action.
+2004/10/04: It will exile itself since it goes to the graveyard after its effect starts.
 2006/10/15: You cannot Suspend a card from your graveyard, only your hand.</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Restricted</Vintage>
@@ -3194,7 +3194,8 @@ Enchanted creature gets +1/+1 for each other creature you control.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>3RR (5)</ManaCost>
 <CardText>At the beginning of your upkeep, Bulwark deals X damage to target opponent, where X is the number of cards in your hand minus the number of cards in that player's hand.</CardText>
-<Flavor>"It will be the goblin's first bath, and its last." —Fire Eye, viashino bey</Flavor>
+<Flavor>"It will be the goblin's first bath, and its last."
+—Fire Eye, viashino bey</Flavor>
 <Artist>Brian Snõddy</Artist>
 <Multiverseid>8886</Multiverseid>
 <Rulings>2004/10/04: Counts cards during resolution.</Rulings>
@@ -3278,7 +3279,7 @@ Whenever enchanted creature deals combat damage to a player, that player sacrifi
 <SetId>US</SetId>
 <No>183</No>
 <Name>Electryte</Name>
-<Type>Creature — Beast 3/3</Type>
+<Type>Creature — Trilobite Beast 3/3</Type>
 <ManaCost>3RR (5)</ManaCost>
 <CardText>Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.</CardText>
 <Flavor>Shivan inhabitants are hardened to fire, so their predators have developed alternative weaponry.</Flavor>
@@ -3366,8 +3367,8 @@ When Fiery Mantle is put into a graveyard from the battlefield, return Fiery Man
 <Flavor>When you've got nothing, you might as well trade it for something else.</Flavor>
 <Artist>Andrew Goldhawk</Artist>
 <Multiverseid>10654</Multiverseid>
-<Rulings>2016/06/08: You might end up discarding the card you searched for.
-2016/06/08: You put the card into your hand and discard a card at random all while <Gamble> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
+<Rulings>2016/06/08: You put the card into your hand and discard a card at random all while <Gamble> is resolving. Nothing can happen between the two, and no player may choose to take actions.
+2018/12/07: You might end up discarding the card you searched for. Casting this spell is a gamble.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Urza's Saga</Set>
@@ -3483,9 +3484,7 @@ When Fiery Mantle is put into a graveyard from the battlefield, return Fiery Man
 <Type>Creature — Goblin Warrior 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)</CardText>
-<Flavor>"It only short jump. You go first."
-"AIIIEEEE!"
-"Hmm . . . we go different way now."</Flavor>
+<Flavor>"It only short jump. You go first." "AIIIEEEE!" "Hmm . . . we go different way now."</Flavor>
 <Artist>DiTerlizzi</Artist>
 <Multiverseid>5543</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3802,7 +3801,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 
 <Card>
 <SetId>US</SetId>
-<No>215</No>
+<No>214</No>
 <Name>Shivan Hellkite</Name>
 <Type>Creature — Dragon 5/5</Type>
 <ManaCost>5RR (7)</ManaCost>
@@ -3820,7 +3819,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 
 <Card>
 <SetId>US</SetId>
-<No>216</No>
+<No>215</No>
 <Name>Shivan Raptor</Name>
 <Type>Creature — Dinosaur 3/1</Type>
 <ManaCost>2R (3)</ManaCost>
@@ -3836,7 +3835,7 @@ Echo {2}{R} (At the beginning of your upkeep, if this came under your control si
 
 <Card>
 <SetId>US</SetId>
-<No>214</No>
+<No>216</No>
 <Name>Shiv's Embrace</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2RR (4)</ManaCost>
@@ -4135,8 +4134,7 @@ Echo {1}{R}{R} (At the beginning of your upkeep, if this came under your control
 <Type>Creature — Elf Druid 2/2</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>{T}: Untap two target lands.</CardText>
-<Flavor>Sharpen your ears
-—Elvish expression meaning "grow wiser"</Flavor>
+<Flavor>Sharpen your ears —Elvish expression meaning "grow wiser"</Flavor>
 <Artist>DiTerlizzi</Artist>
 <Multiverseid>5736</Multiverseid>
 <Rulings>2004/10/04: The ability can target an already untapped land.
@@ -4206,10 +4204,9 @@ When Argothian Wurm enters the battlefield, any player may sacrifice a land. If 
 <Name>Blanchwood Armor</Name>
 <Type>Enchantment — Aura</Type>
 <ManaCost>2G (3)</ManaCost>
-<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+<CardText>Enchant creature
 Enchanted creature gets +1/+1 for each Forest you control.</CardText>
-<Flavor>"Braid her branches, life fulfilling
-Goddess loving, Goddess killing."
+<Flavor>"Braid her branches, life fulfilling Goddess loving, Goddess killing."
 —Citanul chant</Flavor>
 <Artist>Paolo Parente</Artist>
 <Multiverseid>5623</Multiverseid>
@@ -4345,8 +4342,7 @@ Echo {3}{G} (At the beginning of your upkeep, if this came under your control si
 <ManaCost>1GG (3)</ManaCost>
 <CardText>Trample
 Echo {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</CardText>
-<Flavor>Mother, sleep / Dream our lives
-Our roots your soul / Our leaves your bed.</Flavor>
+<Flavor>Mother, sleep / Dream our lives Our roots your soul / Our leaves your bed.</Flavor>
 <Artist>Mark Zug</Artist>
 <Multiverseid>5665</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4394,10 +4390,7 @@ Our roots your soul / Our leaves your bed.</Flavor>
 <Type>Creature — Elf 1/1</Type>
 <ManaCost>G (1)</ManaCost>
 <CardText>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</CardText>
-<Flavor>Bring the spear of ancient briar;
-Bring the torch to light the pyre.
-Bring the one who trod our ground;
-Bring the spade to dig his mound.</Flavor>
+<Flavor>Bring the spear of ancient briar; Bring the torch to light the pyre. Bring the one who trod our ground; Bring the spade to dig his mound.</Flavor>
 <Artist>Rebecca Guay</Artist>
 <Multiverseid>5774</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4451,6 +4444,7 @@ At the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an 
 <Flavor>Life is eternal. A lifetime is ephemeral.</Flavor>
 <Artist>Rebecca Guay</Artist>
 <Multiverseid>5604</Multiverseid>
+<Rulings>2018/12/07: In a multiplayer game, if a player loses the game, triggered abilities that player controls are removed from the stack and no more from that player can be added. This means that if a creature an opponent controls dies while you control <Fecundity>, and you lose the game before <Fecundity>'s triggered ability resolves (perhaps because you lost the game at the same time that the creature died), that player won't draw a card.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5075,7 +5069,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <ManaCost>3 (3)</ManaCost>
 <CardText>When Cathodion dies, add {C}{C}{C}.</CardText>
 <Flavor>Instead of creating a tool that would be damaged by heat, the Thran built one that was charged by it.</Flavor>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>10659</Multiverseid>
 <Rulings>2004/10/04: The ability is never a mana ability.
 2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
@@ -5131,7 +5125,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <ManaCost>0 (0)</ManaCost>
 <CardText>{1}, Sacrifice a permanent: You gain 1 life.</CardText>
 <Flavor>When the Brotherhood of Gix dug out the cave of Koilos they found their master's severed hand. They enshrined it, hoping that one day it would point the way to Phyrexia.</Flavor>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>8890</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5547,7 +5541,7 @@ At the beginning of each player's upkeep, that player sacrifices a permanent for
 <ManaCost>1 (1)</ManaCost>
 <CardText>{1}, {T}: Untap target artifact.</CardText>
 <Flavor>The key did not work on a single lock, yet it opened many doors.</Flavor>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>5547</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5618,7 +5612,7 @@ When Wall of Junk blocks, return it to its owner's hand at end of combat. (Retur
 <ManaCost>3 (3)</ManaCost>
 <CardText>Worn Powerstone enters the battlefield tapped.
 {T}: Add {C}{C}.</CardText>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>8876</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

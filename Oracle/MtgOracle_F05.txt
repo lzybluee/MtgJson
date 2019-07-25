@@ -1,0 +1,213 @@
+<Card>
+<SetId>F05</SetId>
+<No>1</No>
+<Name>Rancor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.</CardText>
+<Flavor>Hatred outlives the hateful.</Flavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/03/16: If the creature this Aura would enchant is an illegal target by the time <Rancor> tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so it won't be put into a graveyard from the battlefield and its ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>2</No>
+<Name>Seal of Cleansing</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</CardText>
+<Flavor>I am the purifier, the light that clears all shadows.
+—Seal inscription</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>3</No>
+<Name>Flametongue Kavu</Name>
+<Type>Creature — Kavu 4/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.</CardText>
+<Flavor>For dim-witted, thick-skulled genetic mutants, they have pretty good aim.
+—Sisay</Flavor>
+<Artist>Pete Venters</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: If it enters the battlefield as the only targetable creature, it must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>4</No>
+<Name>Blastoderm</Name>
+<Type>Creature — Beast 5/5</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)
+Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)</CardText>
+<Artist>Eric Peterson</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>5</No>
+<Name>Cabal Therapy</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
+Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2016/06/08: You name the card as <Cabal Therapy> resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>6</No>
+<Name>Fact or Fiction</Name>
+<Type>Instant</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2016/06/08: You choose which pile to put into your hand.
+2016/06/08: Each pile may contain from zero to five cards; they don't have to be split "evenly."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>7</No>
+<Name>Juggernaut</Name>
+<Type>Artifact Creature — Juggernaut 5/3</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Juggernaut attacks each combat if able.
+Juggernaut can't be blocked by Walls.</CardText>
+<Flavor>Built with neither a way to steer nor a way to stop, the juggernauts were simply aimed at an enemy's best defenses and told to charge.</Flavor>
+<Artist>Dan Frazier</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/04/27: If <Juggernaut> can't attack for any reason (such as being tapped or having come under that player's control that turn), then it doesn't attack. If there's a cost associated with having it attack, its controller isn't forced to pay that cost, so it doesn't have to attack in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>8</No>
+<Name>Circle of Protection: Red</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</CardText>
+<Artist>Mark Tedin</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: A source of damage is a permanent, a spell on the stack (including one that creates a permanent), or any object referred to by an object on the stack. A source doesn't need to be capable of dealing damage to be a legal choice.
+2004/10/04: Can be used even when there is no damage to prevent. It prevents the next damage (if any) from the source this turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>9</No>
+<Name>Kird Ape</Name>
+<Type>Creature — Ape 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Kird Ape gets +1/+2 as long as you control a Forest.</CardText>
+<Flavor>It puts the "fur" in "fury."</Flavor>
+<Artist>Ken Meyer, Jr.</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>10</No>
+<Name>Duress</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</CardText>
+<Flavor>We decide who is worthy of our works.
+—Gix, Yawgmoth praetor</Flavor>
+<Artist>Lawrence Snelly</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>11</No>
+<Name>Counterspell</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Flavor>It was probably a lousy spell in the first place.
+—Ertai, wizard adept</Flavor>
+<Artist>Mark Poole</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F05</SetId>
+<No>12</No>
+<Name>Icy Manipulator</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{1}, {T}: Tap target artifact, creature, or land.</CardText>
+<Flavor>In fire there is the spark of chaos and destruction, the seed of life. In ice there is perfect tranquility, perfect order, and the silence of death.</Flavor>
+<Artist>Douglas Shuler</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/04/27: Once a player announces that they're casting a spell or activating an ability, no player may take other actions until the spell or ability has been paid for. Notably, other players can't try to tap that player's permanents to stop them from paying {T} or to stop them from producing enough mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

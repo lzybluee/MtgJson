@@ -1,0 +1,1911 @@
+<Card>
+<SetId>REN</SetId>
+<No>2</No>
+<Name>Alabaster Potion</Name>
+<Type>Instant</Type>
+<ManaCost>XWW (2)</ManaCost>
+<CardText>Choose one —
+• Target player gains X life.
+• Prevent the next X damage that would be dealt to any target this turn.</CardText>
+<Artist>Harold McNeill</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>3</No>
+<Name>Amrou Kithkin</Name>
+<Type>Creature — Kithkin 1/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Amrou Kithkin can't be blocked by creatures with power 3 or greater.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2009/10/01: A creature with power 3 or greater can't be declared as a blocker for <Amrou Kithkin>. If the power of a creature that's already blocking <Amrou Kithkin> is increased to 3 or greater, it will continue to block <Amrou Kithkin>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>4</No>
+<Name>Angry Mob</Name>
+<Type>Creature — Human 2+*/2+*</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Trample
+As long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.</CardText>
+<Artist>Drew Tucker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>6</No>
+<Name>Brainwash</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack unless its controller pays {3}.</CardText>
+<Artist>Pete Venters</Artist>
+<Rulings>2004/10/04: This ability is paid for during the declare attackers step of the combat phase.
+2004/10/04: If there are multiple combat phases during the turn, the attack cost must be paid each time if you want to attack with the creature.
+2004/10/04: Paying this cost is not an instant or any other kind of ability, it is an additional cost on the declaration of the attacker.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>7</No>
+<Name>Circle of Protection: Artifacts</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>8</No>
+<Name>Divine Transformation</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +3/+3.</CardText>
+<Artist>NéNé Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>9</No>
+<Name>Elder Land Wurm</Name>
+<Type>Creature — Dragon Wurm 5/5</Type>
+<ManaCost>4WWW (7)</ManaCost>
+<CardText>Defender, trample
+When Elder Land Wurm blocks, it loses defender.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2004/10/04: Another effect can give <Elder Land Wurm> defender after it has lost it. Blocking again will cause it to lose that instance of defender too.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>11</No>
+<Name>Fortified Area</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Wall creatures you control get +1/+0 and have banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>12</No>
+<Name>Kismet</Name>
+<Type>Enchantment</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Artifacts, creatures, and lands your opponents control enter the battlefield tapped.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2007/02/01: Cards enter the battlefield tapped. They do not enter the battlefield untapped and then immediately tap, therefore they do not trigger any effects due to tapping.
+2007/02/01: It affects all opponents.
+2007/02/01: Does not affect cards that phase in.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>13</No>
+<Name>Land Tax</Name>
+<Type>Enchantment</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Rulings>2006/10/15: You can fetch any of the "Snow-Covered" lands, since they all also have the supertype basic.
+2009/10/01: This ability has an "intervening 'if' clause." That means (1) the ability won't trigger at all unless any one of your opponents controls more lands than you, and (2) the ability will do nothing if you control at least as many lands as each of your opponents by the time it resolves.
+2009/10/01: You shuffle your library if you search, even if you don't put any basic land cards into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>15</No>
+<Name>Morale</Name>
+<Type>Instant</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Attacking creatures get +1/+1 until end of turn.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>16</No>
+<Name>Osai Vultures</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+At the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures.
+Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.</CardText>
+<Artist>Dan Frazier</Artist>
+<Rulings>2004/10/04: Only gets one counter per turn, not one per creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>17</No>
+<Name>Piety</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Blocking creatures get +0/+3 until end of turn.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>18</No>
+<Name>Pikemen</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Artist>Dennis Detwiller</Artist>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>19</No>
+<Name>Seeker</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't be blocked except by artifact creatures and/or white creatures.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>20</No>
+<Name>Spirit Link</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature deals damage, you gain that much life.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2004/10/04: You only gain the life when the triggered ability resolves. If you are reduced to zero life before the ability resolves, you will lose before gaining the life.
+2008/04/01: You gain life for all damage which is not prevented, regardless of what the creature damages (player or another creature) or the toughness of the blocking creature. If you put this on a 5/5 and it is blocked by a 1/1, you still gain 5 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>21</No>
+<Name>Tundra Wolves</Name>
+<Type>Creature — Wolf 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>22</No>
+<Name>Visions</Name>
+<Type>Sorcery</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Look at the top five cards of target player's library. You may then have that player shuffle that library.</CardText>
+<Artist>NéNé Thomas</Artist>
+<Rulings>2004/10/04: You can't rearrange the cards. You put them back in the same order or have the whole library shuffled.
+2004/10/04: If there are less than 5 cards in the library, you look at whatever ones remain and you still get the option to shuffle.
+2004/10/04: This is not a draw and will not cause a player to lose if there are less than 5 cards in the library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>23</No>
+<Name>Apprentice Wizard</Name>
+<Type>Creature — Human Wizard 0/1</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>{U}, {T}: Add {C}{C}{C}.</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>24</No>
+<Name>Backfire</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature deals damage to you, Backfire deals that much damage to that creature's controller.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>28</No>
+<Name>Energy Tap</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Tap target untapped creature you control. If you do, add an amount of {C} equal to that creature's converted mana cost.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>29</No>
+<Name>Erosion</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>UUU (3)</ManaCost>
+<CardText>Enchant land
+At the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>30</No>
+<Name>Flood</Name>
+<Type>Enchantment</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>{U}{U}: Tap target creature without flying.</CardText>
+<Artist>Dennis Detwiller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>32</No>
+<Name>Gaseous Form</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.</CardText>
+<Artist>Phil Foglio</Artist>
+<Rulings>2016/06/08: The enchanted creature can still attack and block.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>33</No>
+<Name>Ghost Ship</Name>
+<Type>Creature — Spirit 2/4</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+{U}{U}{U}: Regenerate Ghost Ship.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>34</No>
+<Name>Giant Tortoise</Name>
+<Type>Creature — Turtle 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Giant Tortoise gets +0/+3 as long as it's untapped.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>36</No>
+<Name>Leviathan</Name>
+<Type>Creature — Leviathan 10/10</Type>
+<ManaCost>5UUUU (9)</ManaCost>
+<CardText>Trample
+Leviathan enters the battlefield tapped and doesn't untap during your untap step.
+At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.
+Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: You don't have to pay the untap cost if it is untapped outside the upkeep phase or is untapped by an effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>37</No>
+<Name>Mind Bomb</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards they discarded this way.</CardText>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>38</No>
+<Name>Psionic Entity</Name>
+<Type>Creature — Illusion 2/2</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>{T}: Psionic Entity deals 2 damage to any target and 3 damage to itself.</CardText>
+<Artist>Justin Hampton</Artist>
+<Rulings>2004/10/04: The artist is actually Justin Hampton.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>39</No>
+<Name>Relic Bind</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Enchant artifact an opponent controls
+Whenever enchanted artifact becomes tapped, choose one —
+• Relic Bind deals 1 damage to target player or planeswalker.
+• Target player gains 1 life.</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>40</No>
+<Name>Segovian Leviathan</Name>
+<Type>Creature — Leviathan 3/3</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</CardText>
+<Artist>Melissa A. Benson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>41</No>
+<Name>Sindbad</Name>
+<Type>Creature — Human 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>{T}: Draw a card and reveal it. If it isn't a land card, discard it.</CardText>
+<Artist>Julie Baroh</Artist>
+<Rulings>2006/09/25: If the draw is replaced by another effect, none of the rest of <Sindbad>'s ability applies, even if the draw is replaced by another draw (such as with Enduring Renewal).
+2006/09/25: To avoid confusion, reveal the card you draw before putting it with the rest of the cards in your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>42</No>
+<Name>Sunken City</Name>
+<Type>Enchantment</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}.
+Blue creatures get +1/+1.</CardText>
+<Artist>Jesper Myrfors</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>43</No>
+<Name>Time Elemental</Name>
+<Type>Creature — Elemental 0/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you.
+{2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.</CardText>
+<Artist>Amy Weber</Artist>
+<Rulings>2004/10/04: You both sacrifice it and deal the 5 damage at end of combat.
+2005/08/01: A "permanent that isn't enchanted" is a permanent with no Auras on it.
+2007/09/16: If <Time Elemental> attacks or blocks, but you no longer control it at end of combat, you can't sacrifice it. However, it will still deal 5 damage to you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>44</No>
+<Name>Twiddle</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>You may tap or untap target artifact, creature, or land.</CardText>
+<Artist>Rob Alexander</Artist>
+<Rulings>2004/10/04: This is not a toggle effect. If you use <Twiddle> to tap a card and before it takes effect your opponent taps it, <Twiddle> will not automatically untap the card.
+2004/10/04: The decision whether or not to tap or untap is made on resolution. This is not a modal spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>45</No>
+<Name>Zephyr Falcon</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying, vigilance</CardText>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>46</No>
+<Name>Abomination</Name>
+<Type>Creature — Horror 2/6</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: The color of the blocking/blocked creature is checked only at declaration of the block. If the creature is green or white at that time, it will be destroyed at end of combat even if it changes color before combat ends.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>47</No>
+<Name>Ashes to Ashes</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.</CardText>
+<Artist>Drew Tucker</Artist>
+<Rulings>2009/10/01: If one of the targeted creatures is an illegal target by the time <Ashes to Ashes> resolves, it still exiles the other one and deals 5 damage to you.
+2009/10/01: If both of the targeted creatures are illegal targets by the time <Ashes to Ashes> resolves, it's countered. It doesn't deal 5 damage to you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>48</No>
+<Name>Blight</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Enchant land
+When enchanted land becomes tapped, destroy it.</CardText>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>49</No>
+<Name>Bog Imp</Name>
+<Type>Creature — Imp 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>51</No>
+<Name>Carrion Ants</Name>
+<Type>Creature — Insect 0/1</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>{1}: Carrion Ants gets +1/+1 until end of turn.</CardText>
+<Artist>Richard Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>52</No>
+<Name>Cosmic Horror</Name>
+<Type>Creature — Horror 7/7</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>First strike
+At the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.</CardText>
+<Artist>Jesper Myrfors</Artist>
+<Rulings>2013/07/01: If you choose not to pay <Cosmic Horror>'s upkeep cost, it deals 7 damage to you only if it's actually destroyed. If it regenerates or an effect has given it indestructible, it deals no damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>54</No>
+<Name>Cyclopean Mummy</Name>
+<Type>Creature — Zombie 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>When Cyclopean Mummy dies, exile it.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Rulings>2004/10/04: The Mummy does go to the graveyard and trigger abilities which watch for something going to the graveyard. It then gets exiled as a triggered ability.
+2004/10/04: It does not get exiled if it goes to the graveyard from someplace other than the battlefield. This includes discarding from your hand or if the spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>56</No>
+<Name>Greed</Name>
+<Type>Enchantment</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>{B}, Pay 2 life: Draw a card.</CardText>
+<Artist>Phil Foglio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>57</No>
+<Name>Junún Efreet</Name>
+<Type>Creature — Efreet 3/3</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Flying
+At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>58</No>
+<Name>Lost Soul</Name>
+<Type>Creature — Spirit Minion 2/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>59</No>
+<Name>Marsh Gas</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>All creatures get -2/-0 until end of turn.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>62</No>
+<Name>Murk Dwellers</Name>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.</CardText>
+<Artist>Drew Tucker</Artist>
+<Rulings>2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>63</No>
+<Name>Pit Scorpion</Name>
+<Type>Creature — Scorpion 1/1</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)</CardText>
+<Artist>Scott Kirschner</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>64</No>
+<Name>Rag Man</Name>
+<Type>Creature — Human Minion 2/1</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>{B}{B}{B}, {T}: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>65</No>
+<Name>Spirit Shackle</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature becomes tapped, put a -0/-2 counter on it.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Rulings>2009/10/01: <Spirit Shackle>'s ability triggers only when the enchanted creature changes from untapped to tapped. If <Spirit Shackle> enters the battlefield attached to an already tapped creature, it won't do anything (until that creature untaps and becomes tapped again, that is).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>66</No>
+<Name>Uncle Istvan</Name>
+<Type>Creature — Human 1/3</Type>
+<ManaCost>1BBB (4)</ManaCost>
+<CardText>Prevent all damage that would be dealt to Uncle Istvan by creatures.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Rulings>2004/10/04: Works even on damage from activated abilities of creatures such as Prodigal Sorcerer.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>67</No>
+<Name>Vampire Bats</Name>
+<Type>Creature — Bat 0/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>68</No>
+<Name>Word of Binding</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBB (2)</ManaCost>
+<CardText>Tap X target creatures.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>69</No>
+<Name>Xenic Poltergeist</Name>
+<Type>Creature — Spirit 1/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.</CardText>
+<Artist>Dan Frazier</Artist>
+<Rulings>2004/10/04: Wears off at the beginning of the upkeep, not during upkeep.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>71</No>
+<Name>Ali Baba</Name>
+<Type>Creature — Human Rogue 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{R}: Tap target Wall.</CardText>
+<Artist>Julie Baroh</Artist>
+<Rulings>2004/10/04: This ability may be used to tap more than one Wall per turn if you have enough mana, since tapping isn't part of the activation cost.
+2004/10/04: The ability may tap walls even when <Ali Baba> is tapped or just entered the battlefield, since the activation cost doesn't include {T}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>73</No>
+<Name>Ball Lightning</Name>
+<Type>Creature — Elemental 6/1</Type>
+<ManaCost>RRR (3)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2007/02/01: The creature is sacrificed at the end of every turn in which it is on the battlefield. There is no choice about what turn to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>74</No>
+<Name>Bird Maiden</Name>
+<Type>Creature — Human Bird 1/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flying</CardText>
+<Artist>Kaja Foglio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>75</No>
+<Name>Blood Lust</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Rulings>2005/11/01: Has changed slightly in functionality, with the old continuous nature of the toughness reduction gone away; the toughness change remains static. For example, if you have three Swamps and Nightmare on the battlefield and then cast <Blood Lust> on it, it will become 7/1. If one of your Swamps is subsequently destroyed, your Nightmare will become 6/0 and be put in the graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>76</No>
+<Name>Brothers of Fire</Name>
+<Type>Creature — Human Shaman 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>{1}{R}{R}: Brothers of Fire deals 1 damage to any target and 1 damage to you.</CardText>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>78</No>
+<Name>Cave People</Name>
+<Type>Creature — Human 1/4</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Whenever Cave People attacks, it gets +1/-2 until end of turn.
+{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)</CardText>
+<Artist>Drew Tucker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>80</No>
+<Name>Crimson Manticore</Name>
+<Type>Creature — Manticore 2/2</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Flying
+{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>83</No>
+<Name>Detonate</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Rulings>2004/10/04: If the artifact becomes an illegal target before resolution, then no damage is done.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>84</No>
+<Name>Eternal Warrior</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature has vigilance.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>85</No>
+<Name>Fissure</Name>
+<Type>Instant</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Destroy target creature or land. It can't be regenerated.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>86</No>
+<Name>Giant Strength</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>RR (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2.</CardText>
+<Artist>Justin Hampton</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>87</No>
+<Name>Goblin Rock Sled</Name>
+<Type>Creature — Goblin 3/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Trample
+Goblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.
+Goblin Rock Sled can't attack unless defending player controls a Mountain.</CardText>
+<Artist>Dennis Detwiller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>88</No>
+<Name>Hurr Jackal</Name>
+<Type>Creature — Jackal 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{T}: Target creature can't be regenerated this turn.</CardText>
+<Artist>Drew Tucker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>89</No>
+<Name>Immolation</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/-2.</CardText>
+<Artist>Scott Kirschner</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>90</No>
+<Name>Inferno</Name>
+<Type>Instant</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Inferno deals 6 damage to each creature and each player.</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>91</No>
+<Name>Ironclaw Orcs</Name>
+<Type>Creature — Orc 2/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Ironclaw Orcs can't block creatures with power 2 or greater.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>92</No>
+<Name>Mana Clash</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: Always affects the player and targets one of their opponents.
+2004/10/04: Each point of damage is dealt separately, so if you are damaged twice by this spell, each time is considered a separate time this source deals damage.
+2004/10/04: This card's coin flip has no winner or loser.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>93</No>
+<Name>Pyrotechnics</Name>
+<Type>Sorcery</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>Pyrotechnics deals 4 damage divided as you choose among any number of targets.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Rulings>2014/11/24: The number of targets chosen for <Pyrotechnics> must be at least one and at most four. You choose how the damage is divided as you cast the spell, not as it resolves. Each target must be assigned at least 1 damage.
+2014/11/24: If some but not all of <Pyrotechnics>'s targets become illegal, you can't change the division of damage. Damage that would have been dealt to illegal targets simply isn't dealt.
+2014/11/24: If an effect creates a copy of <Pyrotechnics>, the number of targets and division of damage can't be changed. The effect that creates the copy may allow you to change the targets, however.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>94</No>
+<Name>Sisters of the Flame</Name>
+<Type>Creature — Human Shaman 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>{T}: Add {R}.</CardText>
+<Artist>Jesper Myrfors</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>95</No>
+<Name>Tempest Efreet</Name>
+<Type>Creature — Efreet 3/3</Type>
+<ManaCost>1RRR (4)</ManaCost>
+<CardText>Remove Tempest Efreet from your deck before playing if you're not playing for ante.
+{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, they reveal a card at random from their hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard. This change in ownership is permanent.</CardText>
+<Artist>NéNé Thomas</Artist>
+<Vintage>Banned</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>96</No>
+<Name>The Brute</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+0.
+{R}{R}{R}: Regenerate enchanted creature.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>97</No>
+<Name>Wall of Dust</Name>
+<Type>Creature — Wall 1/4</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Whenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.</CardText>
+<Artist>Richard Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>98</No>
+<Name>Winds of Change</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Each player shuffles the cards from their hand into their library, then draws that many cards.</CardText>
+<Artist>Justin Hampton</Artist>
+<Rulings>2007/09/16: Each player draws a number of cards equal to the number of cards they shuffled into their own library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>99</No>
+<Name>Amulet of Kroog</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{2}, {T}: Prevent the next 1 damage that would be dealt to any target this turn.</CardText>
+<Artist>Margaret Organ-Kean</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>104</No>
+<Name>Ashnod's Battle Gear</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>You may choose not to untap Ashnod's Battle Gear during your untap step.
+{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>107</No>
+<Name>Battering Ram</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)
+Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.</CardText>
+<Artist>Jeff A. Menges</Artist>
+<Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
+2008/10/01: A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it.
+2008/10/01: Creatures in the same band must all attack the same player or planeswalker.
+2009/10/01: If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>108</No>
+<Name>Black Mana Battery</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}, {T}: Put a charge counter on Black Mana Battery.
+{T}, Remove any number of charge counters from Black Mana Battery: Add {B}, then add an additional {B} for each charge counter removed this way.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Rulings>2004/10/04: Can be tapped even if it has no counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>112</No>
+<Name>Blue Mana Battery</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}, {T}: Put a charge counter on Blue Mana Battery.
+{T}, Remove any number of charge counters from Blue Mana Battery: Add {U}, then add an additional {U} for each charge counter removed this way.</CardText>
+<Artist>Amy Weber</Artist>
+<Rulings>2004/10/04: Can be tapped even if it has no counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>115</No>
+<Name>Bronze Tablet</Name>
+<Type>Artifact</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Remove Bronze Tablet from your deck before playing if you're not playing for ante.
+Bronze Tablet enters the battlefield tapped.
+{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If they do, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Rulings>2004/10/04: If using a copy of the Tablet, you must trade the copy card to your opponent just like you would have traded the Tablet.
+2004/10/04: You can't choose to pay 10 life if you have less than 10 life, but you may choose to give up the game immediately. This has roughly the same effect.
+2004/10/04: You can take control of your opponent's Tablet and in the trade you only have to give them back their Tablet.
+2004/10/04: If the card being targeted by the <Bronze Tablet> is removed before Tablet takes effect, then the Tablet ability doesn't resolve and it remains tapped.
+2008/08/01: If the tablet is not still on the battlefield when the ability resolves, it is not exiled. The other player still has the choice to pay 10 life, and you still become the owner of their card if they choose not to do so.</Rulings>
+<Vintage>Banned</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>117</No>
+<Name>Carnivorous Plant</Name>
+<Type>Creature — Plant Wall 4/5</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Defender</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>120</No>
+<Name>Clay Statue</Name>
+<Type>Artifact Creature — Golem 3/1</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}: Regenerate Clay Statue.</CardText>
+<Artist>Jesper Myrfors</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>122</No>
+<Name>Clockwork Avian</Name>
+<Type>Artifact Creature — Bird 0/4</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Flying
+Clockwork Avian enters the battlefield with four +1/+0 counters on it.
+At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.</CardText>
+<Artist>Randy Asplund-Faith</Artist>
+<Rulings>2004/10/04: Loses a counter even if it is affected by a Fog-like effect which prevents it from dealing damage.
+2004/10/04: Can attack or block even if it has no counters.
+2004/10/04: If the ability to add counters resolves when there are already the maximum number of counters on it, any counters over the maximum are simply not added.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>123</No>
+<Name>Colossus of Sardia</Name>
+<Type>Artifact Creature — Golem 9/9</Type>
+<ManaCost>9 (9)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Colossus of Sardia doesn't untap during your untap step.
+{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.</CardText>
+<Artist>Jesper Myrfors</Artist>
+<Rulings>2008/05/01: The ability that untaps it during your upkeep has been returned to an activated ability. There is no restriction on how many times it can be untapped during your upkeep with this ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>124</No>
+<Name>Coral Helm</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.</CardText>
+<Artist>Amy Weber</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>126</No>
+<Name>Cursed Rack</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>As Cursed Rack enters the battlefield, choose an opponent.
+The chosen player's maximum hand size is four.</CardText>
+<Artist>Richard Thomas</Artist>
+<Rulings>2004/10/04: The effect of lowering the maximum hand size makes it so the player discards down to 4 cards (instead of the usual 7) during the cleanup step.
+2004/10/04: You choose one opposing player just as this card is entering the battlefield and it only affects that one player. This choice is not changed even if this card changes controllers. It becomes useless but stays on the battlefield if the chosen player leaves the game.
+2009/10/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then a player puts <Cursed Rack> onto the battlefield choosing you, your maximum hand size will be four. However, if those permanents entered the battlefield in the opposite order, your maximum hand size would be two.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>129</No>
+<Name>Diabolic Machine</Name>
+<Type>Artifact Creature — Construct 4/4</Type>
+<ManaCost>7 (7)</ManaCost>
+<CardText>{3}: Regenerate Diabolic Machine.</CardText>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>131</No>
+<Name>Durkwood Boars</Name>
+<Type>Creature — Boar 4/4</Type>
+<ManaCost>4G (5)</ManaCost>
+<Artist>Mike Kimble</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>133</No>
+<Name>Elven Riders</Name>
+<Type>Creature — Elf 3/3</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Elven Riders can't be blocked except by Walls and/or creatures with flying.</CardText>
+<Artist>Melissa A. Benson</Artist>
+<Rulings>2007/05/01: Creatures with the Reach ability (such as Giant Spider) don't actually have Flying, so they can't block this.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>136</No>
+<Name>Fellwar Stone</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Add one mana of any color that a land an opponent controls could produce.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
+2004/10/04: The ability can be activated if the opponent has no lands that produce mana, but the effect will not be able to generate any mana.
+2004/10/04: It only produces one mana even if the land can produce more than one.
+2009/10/01: The colors of mana are white, blue, black, red, and green. <Fellwar Stone> can't be tapped for colorless mana, even if a land an opponent controls could produce colorless mana.
+2009/10/01: <Fellwar Stone> checks the effects of all mana-producing abilities of lands your opponents control, but it doesn't check their costs. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If an opponent controls Vivid Crag and you control <Fellwar Stone>, you can tap <Fellwar Stone> for any color of mana. It doesn't matter whether Vivid Crag has a charge counter on it, and it doesn't matter whether it's untapped.
+2009/10/01: When determining what colors of mana your opponents' lands could produce, take into account any applicable replacement effects that would apply to those lands' mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
+2009/10/01: <Fellwar Stone> doesn't care about any restrictions or riders your opponents' lands (such as Ancient Ziggurat or Hall of the Bandit Lord) put on the mana they produce. It just cares about colors of mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>143</No>
+<Name>Grapeshot Catapult</Name>
+<Type>Artifact Creature — Construct 2/3</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{T}: Grapeshot Catapult deals 1 damage to target creature with flying.</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>145</No>
+<Name>Green Mana Battery</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}, {T}: Put a charge counter on Green Mana Battery.
+{T}, Remove any number of charge counters from Green Mana Battery: Add {G}, then add an additional {G} for each charge counter removed this way.</CardText>
+<Artist>Christopher Rush</Artist>
+<Rulings>2004/10/04: Can be tapped even if it has no counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>146</No>
+<Name>Killer Bees</Name>
+<Type>Creature — Insect 0/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Flying
+{G}: Killer Bees gets +1/+1 until end of turn.</CardText>
+<Artist>Phil Foglio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>147</No>
+<Name>Land Leeches</Name>
+<Type>Creature — Leech 2/2</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>First strike</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>149</No>
+<Name>Marsh Viper</Name>
+<Type>Creature — Snake 1/2</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>151</No>
+<Name>Nafs Asp</Name>
+<Type>Creature — Snake 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.</CardText>
+<Artist>Christopher Rush</Artist>
+<Rulings>2004/10/04: If its damage gets redirected to its controller, it will still trigger the ability.
+2004/10/04: The player can pay the {1} mana at any time after damage is done before the draw step of that player's turn. People commonly pay during upkeep.
+2004/10/04: If it damages a player twice, they get to pay or take damage twice during their next draw step.
+2004/10/04: The ability does not cause itself to trigger again. It cause loss of life, and not damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>152</No>
+<Name>Pradesh Gypsies</Name>
+<Type>Creature — Human Nomad 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>{1}{G}, {T}: Target creature gets -2/-0 until end of turn.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>153</No>
+<Name>Radjan Spirit</Name>
+<Type>Creature — Spirit 3/2</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>{T}: Target creature loses flying until end of turn.</CardText>
+<Artist>Christopher Rush</Artist>
+<Rulings>2004/10/04: Can be used on a creature without Flying with no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>154</No>
+<Name>Rebirth</Name>
+<Type>Sorcery</Type>
+<ManaCost>3GGG (6)</ManaCost>
+<CardText>Remove Rebirth from your deck before playing if you're not playing for ante.
+Each player may ante the top card of their library. If a player does, that player's life total becomes 20.</CardText>
+<Artist>Mark Tedin</Artist>
+<Vintage>Banned</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>155</No>
+<Name>Red Mana Battery</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}, {T}: Put a charge counter on Red Mana Battery.
+{T}, Remove any number of charge counters from Red Mana Battery: Add {R}, then add an additional {R} for each charge counter removed this way.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: Can be tapped even if it has no counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>156</No>
+<Name>Sandstorm</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Sandstorm deals 1 damage to each attacking creature.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>157</No>
+<Name>Shapeshifter</Name>
+<Type>Artifact Creature — Shapeshifter */7-*</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>As Shapeshifter enters the battlefield, choose a number between 0 and 7.
+At the beginning of your upkeep, you may choose a number between 0 and 7.
+Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.</CardText>
+<Artist>Dan Frazier</Artist>
+<Rulings>2008/08/01: The ability that sets its power and toughness is a characteristic-defining ability. This means it applies before any other effects that modify power and/or toughness.
+2008/08/01: The ability that lets you choose a new number is a triggered ability that triggers only once each upkeep.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>158</No>
+<Name>Sylvan Library</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.</CardText>
+<Artist>Harold McNeill</Artist>
+<Rulings>2016/06/08: You always perform your normal draw before this ability. The normal draw occurs before anything can be placed on the stack during a player's draw step.
+2016/06/08: If you control other triggered abilities that allow you to draw cards during your draw step, you can choose to order <Sylvan Library>'s ability before or after those abilities. Triggered abilities controlled by other players will resolve before triggered abilities you control.
+2016/06/08: Any cards drawn prior to <Sylvan Library>'s ability resolving, including in your upkeep or in response to <Sylvan Library>'s triggered ability, can be chosen to be put back using this effect. <Sylvan Library>'s controller is responsible for keeping these cards distinguishable in hand, such as by keeping them separate from cards that began the turn in hand.
+2016/06/08: If you control more than one <Sylvan Library>, the triggered ability of each will resolve in sequence. You don't get to draw all the cards at once and then put them all back at once.
+2016/06/08: You can put back zero, one, or two cards.
+2016/06/08: If you choose to draw two cards, then replace one or more of those draws with some other effect, the rest of <Sylvan Library>'s ability still happens. If you've actually drawn only one card that turn, you must choose that card and either pay 4 life or put it on top of your library. If you haven't actually drawn any cards that turn, the rest of the ability has no effect.
+2016/06/08: It's not possible to take any actions between drawing the cards and choosing two cards. You can't cast the cards you drew to avoid having two cards to choose.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>159</No>
+<Name>Tawnos's Wand</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}, {T}: Target creature with power 2 or less can't be blocked this turn.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>160</No>
+<Name>Tawnos's Weaponry</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>You may choose not to untap Tawnos's Weaponry during your untap step.
+{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.</CardText>
+<Artist>Dan Frazier</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>161</No>
+<Name>Tetravus</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Flying
+Tetravus enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, create that many 1/1 colorless Tetravite artifact creature tokens. They each have flying and "This creature can't be enchanted."
+At the beginning of your upkeep, you may exile any number of tokens created with Tetravus. If you do, put that many +1/+1 counters on Tetravus.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: If the <Tetravus> is destroyed when the Tetravites are off the card, they are not destroyed, they are just orphaned.
+2004/10/04: Any +1/+1 counter which is on this card can be turned into a Tetravite token. It does not care where the +1/+1 counter came from.
+2004/10/04: Only Tetravites from this specific <Tetravus> may be used for the ability. Ones from a different <Tetravus> can't.
+2008/08/01: This card now has two upkeep-triggered abilities. Its controller chooses the order they are put on the stack, and thus the order in which they resolve each upkeep.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>162</No>
+<Name>Triskelion</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Triskelion enters the battlefield with three +1/+1 counters on it.
+Remove a +1/+1 counter from Triskelion: It deals 1 damage to any target.</CardText>
+<Artist>Douglas Shuler</Artist>
+<Rulings>2010/08/15: If you activate the ability of an attacking or blocking <Triskelion> during the declare blockers step, it will deal less combat damage as a result. If you wait until the combat damage step, but <Triskelion> is dealt lethal damage, it'll be destroyed before you get a chance to activate its ability.
+2010/08/15: If <Triskelion> has damage marked on it, activating its ability may cause that damage to become lethal. For example, say a <Triskelion> with two +1/+1 counters on it has been dealt 2 damage earlier in the turn. If you activate its ability by removing a +1/+1 counter from it, it now has 2 toughness and is destroyed as a state-based action. You won't be able to remove the other +1/+1 counter from it to activate its ability again. The first activation of the ability will still resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>163</No>
+<Name>Untamed Wilds</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.</CardText>
+<Artist>NéNé Thomas</Artist>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.
+2006/10/15: Can fetch a snow land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>164</No>
+<Name>Urza's Avenger</Name>
+<Type>Artifact Creature — Shapeshifter 4/4</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
+<Artist>Amy Weber</Artist>
+<Rulings>2004/10/04: The -1/-1 is not permanent. It lasts until the end of the turn as do the abilities that are granted.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>165</No>
+<Name>Venom</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Rulings>2004/10/04: If this Aura is moved onto a creature after blockers are declared, creatures blocking the newly-enchanted creature are not affected. This is because the ability triggers at the time blocking occurs.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>166</No>
+<Name>Wall of Spears</Name>
+<Type>Artifact Creature — Wall 2/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Defender (This creature can't attack.)
+First strike</CardText>
+<Artist>Sandra Everingham</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>167</No>
+<Name>Whirling Dervish</Name>
+<Type>Creature — Human Monk 1/1</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>Protection from black
+At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.</CardText>
+<Artist>Susan Van Camp</Artist>
+<Rulings>2004/10/04: If it damages the opponent multiple times in a turn, it gets only one +1/+1 counter at end of turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>168</No>
+<Name>White Mana Battery</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{2}, {T}: Put a charge counter on White Mana Battery.
+{T}, Remove any number of charge counters from White Mana Battery: Add {W}, then add an additional {W} for each charge counter removed this way.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Rulings>2004/10/04: Can be tapped even if it has no counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>169</No>
+<Name>Winter Blast</Name>
+<Type>Sorcery</Type>
+<ManaCost>XG (1)</ManaCost>
+<CardText>Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2007/09/16: <Winter Blast> can target tapped creatures. If they have flying, the second part of the effect will still affect them.
+2007/09/16: Checks if the creatures are Flying on resolution and not on announcement. It's not a targeting restriction.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>170</No>
+<Name>Yotian Soldier</Name>
+<Type>Artifact Creature — Soldier 1/4</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Vigilance</CardText>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Renaissance</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>187</No>
+<Name>Mishra's Factory</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
+<Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.
+2016/06/08: Once turned into a creature, <Mishra's Factory>'s last ability can target itself. If it's already blocking, this won't remove it from combat.
+2016/06/08: If you turn <Mishra's Factory> into a creature but haven't controlled it continuously since your most recent turn began, you won't be able to activate its first or last ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>188</No>
+<Name>Oasis</Name>
+<Type>Land</Type>
+<CardText>{T}: Prevent the next 1 damage that would be dealt to target creature this turn.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>REN</SetId>
+<No>189</No>
+<Name>Strip Mine</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Strip Mine: Destroy target land.</CardText>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Renaissance</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

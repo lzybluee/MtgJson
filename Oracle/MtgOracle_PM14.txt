@@ -1,0 +1,101 @@
+<Card>
+<SetId>PM14</SetId>
+<No>21</No>
+<Name>Hive Stirrings</Name>
+<Type>Sorcery</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Create two 1/1 colorless Sliver creature tokens.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2013/07/01: If you change the creature type of a Sliver you control so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures you control.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2014 Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PM14</SetId>
+<No>48</No>
+<Name>Colossal Whale</Name>
+<Type>Creature — Whale 5/5</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Artist>Erica Yang</Artist>
+<Rulings>2013/07/01: <Colossal Whale>'s triggered ability triggers and resolves during the declare attackers step, before blocking creatures are declared.
+2013/07/01: <Colossal Whale>'s ability causes a zone change with a duration, a new style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like <Colossal Whale> have a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after <Colossal Whale> leaves the battlefield.
+2013/07/01: If <Colossal Whale> leaves the battlefield before its triggered ability resolves, the target creature won't be exiled.
+2013/07/01: Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist.
+2013/07/01: If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield.
+2013/07/01: The exiled card returns to the battlefield immediately after <Colossal Whale> leaves the battlefield. Nothing happens between the two events, including state-based actions. The two creatures aren't on the battlefield at the same time. For example, if the returning creature is a Clone, it can't enter the battlefield as a copy of <Colossal Whale>.
+2013/07/01: In a multiplayer game, if <Colossal Whale>'s owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2014 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM14</SetId>
+<No>141</No>
+<Name>Goblin Diplomats</Name>
+<Type>Creature — Goblin 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{T}: Each creature attacks this turn if able.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2013/07/01: The controller of each creature still decides which player or planeswalker that creature attacks.
+2013/07/01: Creatures that enter the battlefield (or noncreature permanents that become creatures) after the ability resolves are affected by the ability and must attack if able.
+2013/07/01: If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2014 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM14</SetId>
+<No>185</No>
+<Name>Megantic Sliver</Name>
+<Type>Creature — Sliver 3/3</Type>
+<ManaCost>5G (6)</ManaCost>
+<CardText>Sliver creatures you control get +3/+3.</CardText>
+<Flavor>Even the thrums, the lowliest of slivers, become deadly in its presence.</Flavor>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2013/07/01: If you change the creature type of a Sliver you control so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures you control.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2014 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM14</SetId>
+<No>*215</No>
+<Name>Ratchet Bomb</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{T}: Put a charge counter on Ratchet Bomb.
+{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2011/01/01: As <Ratchet Bomb>'s last ability resolves, its last existence on the battlefield is checked to determine how many charge counters were on it.
+2011/01/01: <Ratchet Bomb>'s second ability destroys only those nonland permanents whose converted mana cost is exactly equal to the number of charge counters on <Ratchet Bomb>. It doesn't matter who controls them.
+2011/01/01: If <Ratchet Bomb>'s second ability is activated while it has no charge counters on it, it will destroy each nonland permanent with converted mana cost 0.
+2011/01/01: The converted mana cost of a permanent is determined solely by the mana symbols printed in its upper right corner, unless it's copying something else (see below). The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {3}{U}{U} has converted mana cost 5.
+2011/01/01: If a permanent is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.
+2011/01/01: In all cases, ignore any alternative costs or additional costs (such as kicker) paid when the permanent was cast.
+2011/01/01: If the mana cost of a permanent includes {X}, X is considered to be 0.
+2011/01/01: If a nonland permanent has no mana symbols in its upper right corner (because it's a token that's not copying something else, for example), its converted mana cost is 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2014 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

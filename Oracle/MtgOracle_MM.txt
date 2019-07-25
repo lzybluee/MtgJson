@@ -152,8 +152,8 @@ When Charmed Griffin enters the battlefield, each other player may put an artifa
 <Name>Cho-Arrim Legate</Name>
 <Type>Creature — Human Soldier 1/2</Type>
 <ManaCost>2W (3)</ManaCost>
-<CardText>Protection from black
-If an opponent controls a Swamp and you control a Plains, you may cast Cho-Arrim Legate without paying its mana cost.</CardText>
+<CardText>If an opponent controls a Swamp and you control a Plains, you may cast this spell without paying its mana cost.
+Protection from black</CardText>
 <Artist>rk post</Artist>
 <Multiverseid>19779</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -171,7 +171,7 @@ If an opponent controls a Swamp and you control a Plains, you may cast Cho-Arrim
 <CardText>Prevent all damage that would be dealt to Cho-Manno, Revolutionary.</CardText>
 <Flavor>"Mercadia's masks can no longer hide the truth. Our day has come at last."
 —Cho-Manno</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>20411</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -261,7 +261,7 @@ Players can't play nonbasic lands with the same name as a nontoken permanent.</C
 <ManaCost>1W (2)</ManaCost>
 <CardText>{T}: Crossbow Infantry deals 1 damage to target attacking or blocking creature.</CardText>
 <Flavor>The crossbow is the ideal weapon for the lazy Mercadians: just point and shoot.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>19540</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -481,7 +481,7 @@ Prevent all damage that would be dealt to enchanted creature.</CardText>
 <CardText>Whenever a creature dies, you gain 1 life.</CardText>
 <Flavor>"As long as Rushwood glows, no life is ever truly lost."
 —Ta-Karnst, Cho-Arrim healer</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>136514</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1673,8 +1673,8 @@ When Saprazzan Bailiff leaves the battlefield, return all artifact and enchantme
 <Name>Saprazzan Legate</Name>
 <Type>Creature — Merfolk Soldier 1/3</Type>
 <ManaCost>3U (4)</ManaCost>
-<CardText>Flying
-If an opponent controls a Mountain and you control an Island, you may cast Saprazzan Legate without paying its mana cost.</CardText>
+<CardText>If an opponent controls a Mountain and you control an Island, you may cast this spell without paying its mana cost.
+Flying</CardText>
 <Artist>Andrew Goldhawk</Artist>
 <Multiverseid>19799</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1891,7 +1891,7 @@ When another creature enters the battlefield, return Timid Drake to its owner's 
 <ManaCost>2U (3)</ManaCost>
 <CardText>{X}{U}: This turn, creatures can't attack unless their controller pays {X} for each attacking creature they control.</CardText>
 <Flavor>The worst thing about being a depraved pirate is having to work with a bunch of depraved pirates.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>19809</Multiverseid>
 <Rulings>2004/10/04: You can choose X=0. This doesn't have an effect most of the time, but it does mean that creatures can't attack unless the controller chooses to pay the cost (a cost of zero is not automatically paid, so the controller can choose to not pay).
 2004/10/04: The ability only applies to attackers declared after it resolves. It will not add costs to any attackers already announced.
@@ -2151,7 +2151,7 @@ Creatures you control are the chosen type. The same is true for creature spells 
 <CardText>{2}{B}: Regenerate Corrupt Official.
 Whenever Corrupt Official becomes blocked, defending player discards a card at random.</CardText>
 <Flavor>His favor comes at a high price.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>19715</Multiverseid>
 <Rulings>2004/10/04: It triggers only once even if blocked by more than one creature.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2167,9 +2167,7 @@ Whenever Corrupt Official becomes blocked, defending player discards a card at r
 <Type>Instant</Type>
 <ManaCost>B (1)</ManaCost>
 <CardText>Add {B}{B}{B}.</CardText>
-<Flavor>"Eye of twilight, give us sight.
-Take our offer, give us might.
-Make our power tears of night."</Flavor>
+<Flavor>"Eye of twilight, give us sight. Take our offer, give us might. Make our power tears of night."</Flavor>
 <Artist>Rebecca Guay</Artist>
 <Multiverseid>19592</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2217,7 +2215,7 @@ Make our power tears of night."</Flavor>
 <Name>Deepwood Legate</Name>
 <Type>Creature — Shade 1/1</Type>
 <ManaCost>3B (4)</ManaCost>
-<CardText>If an opponent controls a Forest and you control a Swamp, you may cast Deepwood Legate without paying its mana cost.
+<CardText>If an opponent controls a Forest and you control a Swamp, you may cast this spell without paying its mana cost.
 {B}: Deepwood Legate gets +1/+1 until end of turn.</CardText>
 <Artist>Pete Venters</Artist>
 <Multiverseid>19821</Multiverseid>
@@ -2283,7 +2281,7 @@ Trample</CardText>
 <ManaCost>XBBB (3)</ManaCost>
 <CardText>Destroy all creatures with converted mana cost X or less.</CardText>
 <Flavor>The Caterans call it a screening process. The dead are in no condition to argue.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>19826</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2532,7 +2530,7 @@ At the beginning of your upkeep, sacrifice Molting Harpy unless you pay {2}.</Ca
 <CardText>Enchant creature
 Whenever enchanted creature becomes blocked, tap all lands defending player controls.</CardText>
 <Flavor>The surest way to lose your holdings is to plead for them in Mercadia City's courts.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>19827</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3063,7 +3061,7 @@ Cave-In deals 2 damage to each creature and each player.</CardText>
 <Name>Cinder Elemental</Name>
 <Type>Creature — Elemental 2/2</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to any target.</CardText>
+<CardText>{X}{R}, {T}, Sacrifice Cinder Elemental: It deals X damage to any target.</CardText>
 <Flavor>Their rage can grow to such proportions that they explode in a cloud of fire.</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>19608</Multiverseid>
@@ -3164,7 +3162,7 @@ Destroy target artifact.</CardText>
 <ManaCost>R (1)</ManaCost>
 <CardText>{1}: Flailing Soldier gets +1/+1 until end of turn. Any player may activate this ability.
 {1}: Flailing Soldier gets -1/-1 until end of turn. Any player may activate this ability.</CardText>
-<Artist>Orizio Daniele</Artist>
+<Artist>Dany Orizio</Artist>
 <Multiverseid>19602</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3295,8 +3293,8 @@ Kyren Glider can't block.</CardText>
 <Name>Kyren Legate</Name>
 <Type>Creature — Goblin 1/1</Type>
 <ManaCost>1R (2)</ManaCost>
-<CardText>Haste
-If an opponent controls a Plains and you control a Mountain, you may cast Kyren Legate without paying its mana cost.</CardText>
+<CardText>If an opponent controls a Plains and you control a Mountain, you may cast this spell without paying its mana cost.
+Haste</CardText>
 <Artist>Dave Dorman</Artist>
 <Multiverseid>19841</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3442,7 +3440,7 @@ Whenever Lava Runner becomes the target of a spell or ability, that spell or abi
 <ManaCost>3R (4)</ManaCost>
 <CardText>Ogre Taskmaster can't block.</CardText>
 <Flavor>He doesn't have to be smart—his masters only ever give him one command.</Flavor>
-<Artist>Orizio Daniele</Artist>
+<Artist>Dany Orizio</Artist>
 <Multiverseid>19844</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3579,7 +3577,7 @@ Whenever Robber Fly becomes blocked, defending player discards all the cards in 
 <Flavor>"General?!" Tahngarth roared. "General nuisance, maybe."</Flavor>
 <Artist>David Monette</Artist>
 <Multiverseid>19716</Multiverseid>
-<Rulings>2013/06/07: Squee's ability triggers only if it's in your graveyard as your upkeep begins.</Rulings>
+<Rulings>2018/12/07: If Squee isn't in your graveyard as your upkeep begins, its ability won't trigger. You can't take any actions during your turn before your upkeep begins.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4012,7 +4010,7 @@ Whenever Caustic Wasps deals combat damage to a player, you may destroy target a
 <ManaCost>GG (2)</ManaCost>
 <CardText>{X}{G}{G}, {T}, Discard a card: X target lands become Forests until end of turn.</CardText>
 <Flavor>They'd guarded the Henge so long that they were as attuned to the powerstones as they were to the trees.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>22895</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4445,7 +4443,7 @@ At the beginning of your upkeep, you may put a +1/+1 counter on Rushwood Element
 <Name>Rushwood Legate</Name>
 <Type>Creature — Dryad 2/1</Type>
 <ManaCost>2G (3)</ManaCost>
-<CardText>If an opponent controls an Island and you control a Forest, you may cast Rushwood Legate without paying its mana cost.</CardText>
+<CardText>If an opponent controls an Island and you control a Forest, you may cast this spell without paying its mana cost.</CardText>
 <Artist>Mark Romanoski</Artist>
 <Multiverseid>19864</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5077,9 +5075,10 @@ Whenever a player casts a spell of the chosen color, you may pay {2}. If you do,
 {T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.</CardText>
 <Artist>Adam Rex</Artist>
 <Multiverseid>19748</Multiverseid>
-<Rulings>2004/10/04: If multiple "extra turn" effects resolve in the same turn, take them in the reverse of the order that the effects resolved.</Rulings>
+<Rulings>2018/07/13: If multiple extra turns would be taken after this one, perhaps because more than one player has activated the last ability of their <Magistrate's Scepter>, the most recently created one is taken first.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Mercadian Masques</Set>
 <Rarity>Rare</Rarity>
 </Card>

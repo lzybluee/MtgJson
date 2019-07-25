@@ -1,0 +1,69 @@
+<Card>
+<SetId>G05</SetId>
+<No>1</No>
+<Name>Gemstone Mine</Name>
+<Type>Land</Type>
+<CardText>Gemstone Mine enters the battlefield with three mining counters on it.
+{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.</CardText>
+<Artist>Brom</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: Sacrificing this card when the last counter is removed is part of the effect of tapping it for mana.
+2006/09/25: If the last mining counter is removed from <Gemstone Mine> in some way other than activating its ability (such as Chisei, Heart of Oceans), <Gemstone Mine> won't be sacrificed but its ability can't be activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G05</SetId>
+<No>2</No>
+<Name>Regrowth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Return target card from your graveyard to your hand.</CardText>
+<Artist>Dameon Willich</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G05</SetId>
+<No>3</No>
+<Name>Sol Ring</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Add {C}{C}.</CardText>
+<Artist>Mark Tedin</Artist>
+<Watermark>Dci</Watermark>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G05</SetId>
+<No>4</No>
+<Name>Mishra's Factory</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.
+2016/06/08: Once turned into a creature, <Mishra's Factory>'s last ability can target itself. If it's already blocking, this won't remove it from combat.
+2016/06/08: If you turn <Mishra's Factory> into a creature but haven't controlled it continuously since your most recent turn began, you won't be able to activate its first or last ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2005</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,160 @@
+<Card>
+<SetId>PIDW</SetId>
+<No>1</No>
+<Name>Treasure Hunt</Name>
+<Type>Sorcery</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.</CardText>
+<Flavor>"Some call me a thief. I prefer to think of myself as a discreet borrower."
+—Dack Fayden, Planeswalker</Flavor>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2010/03/01: The cards you put into your hand this way include one nonland card, plus all the land cards on top of it in your library (if any). If the top card of your library is a nonland card, you just get that one.
+2010/03/01: If all the cards left in your library are lands, you'll reveal all of them and put them all into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>2</No>
+<Name>Faithless Looting</Name>
+<Type>Sorcery</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Draw two cards, then discard two cards.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</CardText>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2016/06/08: You draw two cards and discard two cards all while <Faithless Looting> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>3</No>
+<Name>Electrolyze</Name>
+<Type>Instant</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Electrolyze deals 2 damage divided as you choose among one or two targets.
+Draw a card.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2017/11/17: You divide the damage as you cast <Electrolyze>, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast <Electrolyze>, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2017/11/17: If <Electrolyze> targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2. You'll still draw a card.
+2017/11/17: If all chosen targets are illegal as <Electrolyze> tries to resolve, it won't resolve and none of its effects will happen. No damage will be dealt and you won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>4</No>
+<Name>Feast of Blood</Name>
+<Type>Sorcery</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Cast this spell only if you control two or more Vampires.
+Destroy target creature. You gain 4 life.</CardText>
+<Flavor>Imbued in the Ancient Fang were spells far darker than any Dack Fayden would cast.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2009/10/01: Whether you control two or more Vampires is checked only as you try to move <Feast of Blood> to the stack as the first step of casting it. It doesn't matter whether you still control two or more Vampires as you finish casting <Feast of Blood> (in case you somehow sacrifice one to produce mana) or as <Feast of Blood> resolves.
+2009/10/01: If the targeted creature is an illegal target by the time <Feast of Blood> resolves, the entire spell doesn't resolve. You don't gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>5</No>
+<Name>Arrest</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.</CardText>
+<Flavor>Fayden didn't know if the giant had created the spehere's magic—only that he had to escape it to find Sifa.</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>6</No>
+<Name>Consume Spirit</Name>
+<Type>Sorcery</Type>
+<ManaCost>X1B (2)</ManaCost>
+<CardText>Spend only black mana on X.
+Consume Spirit deals X damage to any target and you gain X life.</CardText>
+<Flavor>"Youth is wasted on the young. So I help myself to some of it from time to time."
+—Sifa Grent</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2009/10/01: The amount of life you gain is equal to the number chosen for X, not the amount of damage <Consume Spirit> deals (in case some of it is prevented).
+2009/10/01: If the targeted permanent or player is an illegal target by the time <Consume Spirit> would resolve, the entire spell doesn't resolve. You won't gain any life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>7</No>
+<Name>Standstill</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.</CardText>
+<Flavor>"You learn a lot in no time when you're about to get your neck snapped."
+—Dack Fayden</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2004/10/04: It only works once. If someone casts another spell after it triggers, but before that trigger resolves, then it will trigger again. The first time one of these triggers resolves, it will be sacrificed for the full effect. Any additional triggers on the stack will do nothing when they resolve because you will be unable to sacrifice it additional times.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>8</No>
+<Name>Breath of Malfegor</Name>
+<Type>Instant</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Breath of Malfegor deals 5 damage to each opponent.</CardText>
+<Flavor>The draconic demon loomed over Dack, and he suddenly sensed he wasn't the only Planeswalker that Malfegor had encountered.</Flavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PIDW</SetId>
+<No>9</No>
+<Name>Turnabout</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2004/10/04: You decide on resolution if you are tapping or untapping, and which kind of permanent you are affecting.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>IDW Comics 2012</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

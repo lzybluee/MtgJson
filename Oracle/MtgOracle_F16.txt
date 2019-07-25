@@ -1,0 +1,230 @@
+<Card>
+<SetId>F16</SetId>
+<No>1</No>
+<Name>Nissa's Pilgrimage</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle your library.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two.</CardText>
+<Artist>Christine Choi</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/06/22: If you only find one basic Forest card, you'll put it onto the battlefield tapped. You won't be able to put it into your hand, even if you want to.
+2015/06/22: If the spell mastery ability applies, and you find three basic Forest cards, one of them will be put onto the battlefield tapped and two of them will be put into your hand.
+2015/06/22: Check to see if there are two or more instant and/or sorcery cards in your graveyard as the spell resolves to determine whether the spell mastery ability applies. The spell itself won't count because it's still on the stack as you make this check.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>2</No>
+<Name>Clash of Wills</Name>
+<Type>Instant</Type>
+<ManaCost>XU (1)</ManaCost>
+<CardText>Counter target spell unless its controller pays {X}.</CardText>
+<Flavor>The mind of an Eldrazi is a puzzle that can never be solved. The trick is to make sure a piece goes missing.
+—Jace Beleren</Flavor>
+<Artist>Anna Steinbauer</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>3</No>
+<Name>Smash to Smithereens</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.</CardText>
+<Flavor>All of these old relics have one thing in common. Every last one of them is made of smithereens.
+—Zada of Slab Haven</Flavor>
+<Artist>Darek Zabrocki</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/06/22: <Smash to Smithereens> targets only the artifact, not any player. If that artifact becomes an illegal target by the time <Smash to Smithereens> tries to resolve, <Smash to Smithereens> won't resolve and none of its effects will happen. No damage will be dealt.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>4</No>
+<Name>Blighted Fen</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.</CardText>
+<Flavor>"We came to a place where the skin of Zendikar was peeled back and its bones lay bare to the sky."
+—Greenweaver Mina</Flavor>
+<Artist>Jason Felix</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>5</No>
+<Name>Goblin Warchief</Name>
+<Type>Creature — Goblin Warrior 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Goblin spells you cast cost {1} less to cast.
+Goblins you control have haste.</CardText>
+<Flavor>Inspiration comes in all shapes and sizes.</Flavor>
+<Artist>Mark Zug</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/04/27: <Goblin Warchief>'s effect reduces only generic mana in the cost of Goblin spells you cast. For example, it doesn't reduce the cost of Skirk Prospector below {R}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>6</No>
+<Name>Sylvan Scrying</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</CardText>
+<Flavor>"As long as there is a single shred of life, there is hope"
+— Nissa Revane</Flavor>
+<Artist>Christine Choi</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>7</No>
+<Name>Spatial Contortion</Name>
+<Type>Instant</Type>
+<ManaCost>1C (2)</ManaCost>
+<CardText>({C} represents colorless mana.)
+Target creature gets +3/-3 until end of turn.</CardText>
+<Flavor>"For those without the Planeswalker spark, the merest touch of the Blind Eternities can kill."
+—Ugin</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>8</No>
+<Name>Crumbling Vestige</Name>
+<Type>Land</Type>
+<CardText>Crumbling Vestige enters the battlefield tapped.
+When Crumbling Vestige enters the battlefield, add one mana of any color.
+{T}: Add {C}. ({C} represents colorless mana.)</CardText>
+<Artist>Jonas De Ro</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>9</No>
+<Name>Flaying Tendrils</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Devoid (This card has no color.)
+All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.</CardText>
+<Flavor>Only one Eldrazi stood against them, yet the defenders were outnumbered.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2016/01/22: Only creatures that are on the battlefield as <Flaying Tendrils> resolves will get -2/-2. However, any creature that would die that turn will be exiled, even if it wasn't on the battlefield or wasn't a creature as <Flaying Tendrils> resolved.
+2016/01/22: Creatures that <Flaying Tendrils> would cause to die will be exiled instead. The game doesn't check to see which creatures die until after <Flaying Tendrils> has finished resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>10</No>
+<Name>Rise from the Tides</Name>
+<Type>Sorcery</Type>
+<ManaCost>5U (6)</ManaCost>
+<CardText>Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.</CardText>
+<Flavor>"Dear brother, it's sweet that you have chosen to share your toys with Ludevic, but I too have found some new playmates."
+—Ghoulcaller Gisa</Flavor>
+<Artist>Lucas Graciano</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/12/07: <Rise from the Tides> is still on the stack while you count the number of instant and sorcery cards in your graveyard. It doesn't count itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>11</No>
+<Name>Fiery Temper</Name>
+<Type>Instant</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Fiery Temper deals 3 damage to any target.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Flavor>"Let the flames ignore the sinless."</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2016/04/08: Cards are discarded in a Magic game only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded.
+2016/04/08: A spell cast for its madness cost is put onto the stack like any other spell. It can be countered, copied, and so on. As it resolves, it's put onto the battlefield if it's a permanent card or into its owner's graveyard if it's an instant or sorcery card.
+2016/04/08: Casting a spell for its madness cost doesn't change its mana cost or its converted mana cost. You just pay the madness cost instead.
+2016/04/08: Effects that cause you to pay more or less for a spell will cause you to pay that much more or less for its madness cost, too.
+2016/04/08: Madness works independently of why you're discarding the card. You could discard it to pay a cost, because a spell or ability tells you to, or even because you have too many cards in your hand at the end of your turn. You can't discard a card with madness just because you want to, though.
+2016/04/08: When you cast a card with madness, it was still discarded. If it was discarded to pay a cost, that cost is still paid. Abilities that trigger when a card is discarded will still trigger.
+2016/04/08: If you choose not to cast a card with madness when the madness triggered ability resolves, it's put into your graveyard. You don't get another chance to cast it later.
+2016/04/08: If you discard a card with madness to pay the cost of a spell or activated ability, that card's madness trigger (and the spell that card becomes, if you choose to cast it) will resolve before the spell or ability the discard paid for.
+2016/04/08: If you discard a card with madness while resolving a spell or ability, it moves immediately to exile. Continue resolving that spell or ability—the card is not in your graveyard at this time. Its madness trigger will be placed onto the stack once that spell or ability has completely resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F16</SetId>
+<No>12</No>
+<Name>Call the Bloodline</Name>
+<Type>Enchantment</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}, Discard a card: Create a 1/1 black Vampire Knight creature token with lifelink. Activate this ability only once each turn.</CardText>
+<Flavor>At Sorin's appeal, Olivia Voldaren summoned the full might of her bloodline to gather at Lurenbraum Fortress.</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2016/04/08: You can activate <Call the Bloodline>'s ability once on each player's turn, not just your own.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,156 @@
+<Card>
+<SetId>PAL99</SetId>
+<No>1</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>2</No>
+<Name>Pouncing Jaguar</Name>
+<Type>Creature — Cat 2/2</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</CardText>
+<Flavor>One pounce, she's hungry—you die quickly. Two, she's teaching her cubs—you're in for a long day.</Flavor>
+<Artist>Daren Bader</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League 1999</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>3</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>3†</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>4</No>
+<Name>Skittering Skirge</Name>
+<Type>Creature — Imp 3/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Flying
+When you cast a creature spell, sacrifice Skittering Skirge.</CardText>
+<Flavor>The imps' warbling cries echo through Phyrexia's towers like those of mourning doves in a cathedral.</Flavor>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: The triggered ability triggers when the creature spell is cast, and it is put on the stack before any responses can be cast or activated. This ability will resolve before that creature enters the battlefield.
+2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League 1999</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>5</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>6</No>
+<Name>Rewind</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Counter target spell. Untap up to four lands.</CardText>
+<Flavor>"Time flows like a river. In Tolaria we practice the art of building dams."
+—Barrin, master wizard</Flavor>
+<Artist>Dermot Power</Artist>
+<Rulings>2017/03/14: <Rewind> targets only a spell. It doesn't target any lands. The lands are chosen as <Rewind> resolves.
+2017/03/14: You can choose up to four lands, no matter who controls any of them. Those lands untap once. You can't choose one land and have it untap four times, for example.
+2017/03/14: If the spell is an illegal target when <Rewind> tries to resolve, perhaps because it was countered by another spell or ability, <Rewind> won't resolve and none of its effects will happen. You won't untap any lands.
+2017/03/14: If <Rewind> resolves but the target spell can't be countered, you'll still untap lands.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>7</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>8</No>
+<Name>Karn, Silver Golem</Name>
+<Type>Legendary Artifact Creature — Golem 4/4</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.
+{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.</CardText>
+<Artist>Mark Zug</Artist>
+<Rulings>2004/10/04: The blocking ability triggers only once no matter how many blockers are declared.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League 1999</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL99</SetId>
+<No>9</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 1999</Set>
+<Rarity>Land</Rarity>
+</Card>
+

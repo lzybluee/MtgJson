@@ -321,7 +321,7 @@ Dauthi Horror can't be blocked by white creatures.</CardText>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
 Whenever Dauthi Mindripper attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4653</Multiverseid>
 <Rulings>2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
 <Vintage>Legal</Vintage>
@@ -774,7 +774,11 @@ Minion of the Wastes's power and toughness are each equal to the life paid as it
 —Volrath</Flavor>
 <Artist>Robert Bliss</Artist>
 <Multiverseid>4680</Multiverseid>
-<Rulings>2004/12/01: You lose life equal to the converted mana cost of the card you're bringing back, so if you <Reanimate> Volrath's Shapeshifter, you lose three life, regardless of what the next card down is.</Rulings>
+<Rulings>2018/12/07: If a card in a player's graveyard has {X} in its mana cost, X is considered to be 0.
+2018/12/07: The amount of life you lose is determined by the converted mana cost of the card in your graveyard, not the creature once it's on the battlefield.
+2018/12/07: You lose life after the creature is already on the battlefield. Any abilities it has that interact with loss of life, such as that of Platinum Emperion, apply to that loss of life.
+2018/12/07: If any abilities trigger on the creature entering the battlefield, those abilities resolve after you lose life. If losing life results in you losing the game, those abilities won't resolve.
+2018/12/07: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, the creature you control from <Reanimate> is exiled.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Tempest</Set>
@@ -928,10 +932,7 @@ When enchanted creature becomes the target of a spell or ability, destroy that c
 <Type>Creature — Serpent 7/6</Type>
 <ManaCost>5UUU (8)</ManaCost>
 <CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</CardText>
-<Flavor>"Deep devourer   concealed in darkhome
-Shrouded it seeks   all becomes fodder
-Once we swam   alone and asea
-But no more."
+<Flavor>"Deep devourer concealed in darkhome Shrouded it seeks all becomes fodder Once we swam alone and asea But no more."
 —Rootwater Saga</Flavor>
 <Artist>Jim Nelson</Artist>
 <Multiverseid>4690</Multiverseid>
@@ -1058,12 +1059,12 @@ Target spell's controller exiles it with X delay counters on it.
 At the beginning of each of that player's upkeeps, if that card is exiled, remove a delay counter from it. If the card has no delay counters on it, the player puts it onto the stack as a copy of the original spell.</CardText>
 <Artist>Steve Luke</Artist>
 <Multiverseid>4698</Multiverseid>
-<Rulings>2004/10/04: Note that a delayed spell that targets another spell won't resolve when it resolves since it will find that its target is no longer on the stack.
+<Rulings>2004/10/04: Once it is put back on the stack, it is a "new" spell again and can be countered or even targeted by another <Ertai's Meddling>.
+2004/10/04: Note that a delayed spell that targets another spell won't resolve when it resolves since it will find that its target is no longer on the stack.
+2004/10/04: If <Ertai's Meddling> is used to copy a spell being cast face down due to Morph ability, the spell will create a face up, 2/2, colorless, nameless creature with no text. This may be a little counter-intuitive, because you might expect the card to enter the battlefield face down like it would have when originally cast, but <Ertai's Meddling> copies only the original spell and not the entire card the spell represented.
 2004/10/04: A targeted spell which is delayed will still succeed even if its target has phased out and back in again.
 2004/10/04: <Ertai's Meddling> can't be cast through any way that doesn't pay its mana cost. This is because the X in the Meddling's mana cost can't be 0, but effects that allow spells to be cast without paying their mana costs set X to 0.
 2004/10/04: If a copy of a spell (one that has no card representing it) is affected by <Ertai's Meddling>, the spell ceases to exist when exiled. It will not gain counters and will not be put back on the stack.
-2004/10/04: Once it is put back on the stack, it is a "new" spell again and can be countered or even targeted by another <Ertai's Meddling>.
-2004/10/04: If <Ertai's Meddling> is used to copy a spell being cast face down due to Morph ability, the spell will create a face up, 2/2, colorless, nameless creature with no text. This may be a little counter-intuitive, because you might expect the card to enter the battlefield face down like it would have when originally cast, but <Ertai's Meddling> copies only the original spell and not the entire card the spell represented.
 2008/04/01: This now exiles the spell as part of <Ertai's Meddling>'s resolution, instead of waiting for the targeted spell to start resolving.
 2011/01/22: If the spell was cast using flashback, <Ertai's Meddling> will still exile it with delay counters on it. When the card is returned to the stack, it still "remembers" the flashback cost was originally paid. It'll be exiled when it resolves or otherwise leaves the stack.
 2013/04/15: If <Ertai's Meddling> is used to copy an arcane spell that had effects spliced onto it, it will create a spell with all of those effects. That spell's controller will not be able to splice additional effects onto the spell, since they did not re-cast the spell and instead simply put it back onto the stack.
@@ -1433,9 +1434,7 @@ Sacrifice Legacy's Allure: Gain control of target creature with power less than 
 <Type>Creature — Merfolk 1/1</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>{T}: Rootwater Hunter deals 1 damage to any target.</CardText>
-<Flavor>"Bitter water   vicious wave
-Shadow-cold shallows   root-made maze
-Home's angry embrace."
+<Flavor>"Bitter water vicious wave Shadow-cold shallows root-made maze Home's angry embrace."
 —Rootwater Saga</Flavor>
 <Artist>Brom</Artist>
 <Multiverseid>4721</Multiverseid>
@@ -1758,7 +1757,7 @@ Draw a card.</CardText>
 <Name>Unstable Shapeshifter</Name>
 <Type>Creature — Shapeshifter 0/1</Type>
 <ManaCost>3U (4)</ManaCost>
-<CardText>Whenever another creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability.</CardText>
+<CardText>Whenever another creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature, except it has this ability.</CardText>
 <Flavor>"In a world of untruths, the living lie rules."
 —Oracle en-Vec</Flavor>
 <Artist>Terese Nielsen</Artist>
@@ -1897,8 +1896,7 @@ Draw a card.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>2GG (4)</ManaCost>
 <CardText>Any player may cast creature spells with converted mana cost 3 or less without paying their mana cost and as though they had flash.</CardText>
-<Flavor>Squee bounced up and down. "I sees a horsey, an' a piggy, an' a—"
-"If you don't shut up," hissed Mirri, "you'll see a kidney and a spleeny."</Flavor>
+<Flavor>Squee bounced up and down. "I sees a horsey, an' a piggy, an' a—" "If you don't shut up," hissed Mirri, "you'll see a kidney and a spleeny."</Flavor>
 <Artist>April Lee</Artist>
 <Multiverseid>4747</Multiverseid>
 <Rulings>2004/10/04: The mana cost of the creatures being cast is still the stated cost on the card, even though you did not pay the cost.
@@ -2201,7 +2199,7 @@ Enchanted creature has reach. (It can block creatures with flying.)</CardText>
 <Type>Instant</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>As an additional cost to cast this spell, sacrifice a land.
-Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</CardText>
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.</CardText>
 <Flavor>Changing Rath's landscape is like tearing the scab from a wound.</Flavor>
 <Artist>Eric David Anderson</Artist>
 <Multiverseid>4764</Multiverseid>
@@ -2272,7 +2270,7 @@ Search your library for up to two basic land cards and put them onto the battlef
 <ManaCost>2G (3)</ManaCost>
 <CardText>All Sliver creatures have trample.</CardText>
 <Flavor>A bristling wave of slivers broke against the Weatherlight's timbers.</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4768</Multiverseid>
 <Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
 2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
@@ -2527,7 +2525,8 @@ Your maximum hand size is two.</CardText>
 <Multiverseid>4782</Multiverseid>
 <Rulings>2007/02/01: Your maximum hand size is checked only during the cleanup step of your turn. At any other time, you may have any number of cards in hand.
 2007/02/01: Countering a spell that has been cast will not prevent you from drawing the card.
-2009/10/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Spellbook (an artifact that says you have no maximum hand size) onto the battlefield and then put <Recycle> onto the battlefield, your maximum hand size will be two. However, if those permanents entered the battlefield in the opposite order, you would have no maximum hand size.</Rulings>
+2009/10/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Spellbook (an artifact that says you have no maximum hand size) onto the battlefield and then put <Recycle> onto the battlefield, your maximum hand size will be two. However, if those permanents entered the battlefield in the opposite order, you would have no maximum hand size.
+2018/07/13: To play a card means to play a land or to cast a spell that's a card (and not a copy of a card).</Rulings>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2784,8 +2783,7 @@ Protection from blue</CardText>
 <Type>Creature — Elemental 7/7</Type>
 <ManaCost>5GGG (8)</ManaCost>
 <CardText>At the beginning of each upkeep, create a 1/1 green Saproling creature token.</CardText>
-<Flavor>Burl, scurf, and bower
-Birth fern and flower.</Flavor>
+<Flavor>Burl, scurf, and bower Birth fern and flower.</Flavor>
 <Artist>DiTerlizzi</Artist>
 <Multiverseid>4797</Multiverseid>
 <Rulings>2006/05/01: In Two-Headed Giant, triggers only once per upkeep, not once for each player.
@@ -2821,8 +2819,7 @@ Birth fern and flower.</Flavor>
 <Type>Sorcery</Type>
 <ManaCost>1GG (3)</ManaCost>
 <CardText>Destroy target land.</CardText>
-<Flavor>Summer is buried there, centuries deep;
-A crypt of years where seasons sleep.</Flavor>
+<Flavor>Summer is buried there, centuries deep; A crypt of years where seasons sleep.</Flavor>
 <Artist>Tom Wänerstrand</Artist>
 <Multiverseid>4799</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2873,7 +2870,7 @@ A crypt of years where seasons sleep.</Flavor>
 <CardText>Exile all permanents. You discard your hand.</CardText>
 <Flavor>"There is a future in which I can see only mist and a single shadow."
 —Oracle en-Vec</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4802</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
@@ -2978,7 +2975,7 @@ Target attacking or blocking creature gets +4/+0 until end of turn. Destroy that
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Chaotic Goo enters the battlefield with three +1/+1 counters on it.
 At the beginning of your upkeep, you may flip a coin. If you win the flip, put a +1/+1 counter on Chaotic Goo. If you lose the flip, remove a +1/+1 counter from Chaotic Goo.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4808</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3456,8 +3453,7 @@ Pallimud's power is equal to the number of tapped lands the chosen player contro
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.</CardText>
-<Flavor>Wrap the flame as twine
-Kingdoms will be thine.</Flavor>
+<Flavor>Wrap the flame as twine Kingdoms will be thine.</Flavor>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>4838</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3745,10 +3741,7 @@ Wall of Diffusion can block creatures with shadow as though Wall of Diffusion ha
 <Type>Creature — Wurm 5/4</Type>
 <ManaCost>3R (4)</ManaCost>
 <CardText>When Wild Wurm enters the battlefield, flip a coin. If you lose the flip, return Wild Wurm to its owner's hand.</CardText>
-<Flavor>Wurm heads appear
-Wild wurm near
-Wurm tails you see
-Wild wurm flee</Flavor>
+<Flavor>Wurm heads appear Wild wurm near Wurm tails you see Wild wurm flee</Flavor>
 <Artist>Randy Elliott</Artist>
 <Multiverseid>4856</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3817,8 +3810,7 @@ Prevent the next 3 damage that would be dealt to target creature this turn.</Car
 <Type>Creature — Sliver 2/2</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</CardText>
-<Flavor>Hanna: "We must learn how they protect each other."
-Mirri: "After they've done trying to kill us, all right?"</Flavor>
+<Flavor>Hanna: "We must learn how they protect each other." Mirri: "After they've done trying to kill us, all right?"</Flavor>
 <Artist>Scott Kirschner</Artist>
 <Multiverseid>4689</Multiverseid>
 <Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
@@ -4032,7 +4024,7 @@ When Cloudchaser Eagle enters the battlefield, destroy target enchantment.</Card
 <ManaCost>1W (2)</ManaCost>
 <CardText>Destroy target artifact or enchantment.</CardText>
 <Flavor>The swarm seemed unmoved by the artificial slivers' destruction. "They clearly were not the leaders," Hanna cursed. "I guess we'll have to do this the hard way."</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4872</Multiverseid>
 <Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
 <Vintage>Legal</Vintage>
@@ -4402,8 +4394,7 @@ Enchanted creature has first strike.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Target creature deals damage to itself equal to its power.</CardText>
-<Flavor>"The cannon wasn't aimed at you!" pleaded Vhati.
-"I'm not sure which is more pathetic," replied Greven, "your judgment or your aim."</Flavor>
+<Flavor>"The cannon wasn't aimed at you!" pleaded Vhati. "I'm not sure which is more pathetic," replied Greven, "your judgment or your aim."</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>4895</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4928,10 +4919,7 @@ Sacrifice Cold Storage: Return each creature card exiled with Cold Storage to th
 <Type>Artifact</Type>
 <ManaCost>4 (4)</ManaCost>
 <CardText>{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.</CardText>
-<Flavor>Squee: "What's that?"
-Ertai: "It's a magical book."
-Squee: "Am I smart enough ta use it?"
-Ertai: "You could say that."</Flavor>
+<Flavor>Squee: "What's that?" Ertai: "It's a magical book." Squee: "Am I smart enough ta use it?" Ertai: "You could say that."</Flavor>
 <Artist>Julie Baroh</Artist>
 <Multiverseid>4609</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5073,7 +5061,7 @@ Whenever a creature with a magnet counter on it attacks, all creatures with magn
 <Type>Artifact Creature — Sliver 1/1</Type>
 <ManaCost>1 (1)</ManaCost>
 <Flavor>When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4617</Multiverseid>
 <Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
 2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
@@ -5110,6 +5098,7 @@ Whenever a creature with a magnet counter on it attacks, all creatures with magn
 —Hanna, Weatherlight navigator</Flavor>
 <Artist>Mike Raabe</Artist>
 <Multiverseid>4619</Multiverseid>
+<Rulings>2018/12/07: You can activate the ability of <Patchwork Gnomes> more than once in a turn, even if nothing is about to destroy <Patchwork Gnomes> and even if <Patchwork Gnomes> is already tapped.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Tempest</Set>
@@ -5304,8 +5293,7 @@ Whenever a creature with a magnet counter on it attacks, all creatures with magn
 <Type>Artifact</Type>
 <ManaCost>3 (3)</ManaCost>
 <CardText>As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps.</CardText>
-<Flavor>Time passes, time crawls;
-Time doesn't move at all.</Flavor>
+<Flavor>Time passes, time crawls; Time doesn't move at all.</Flavor>
 <Artist>Dermot Power</Artist>
 <Multiverseid>4630</Multiverseid>
 <Rulings>2004/10/04: If there are two of these on the battlefield, they do not add together. The result is that only two permanents can be untapped.</Rulings>
@@ -5357,7 +5345,7 @@ Time doesn't move at all.</Flavor>
 <ManaCost>3 (3)</ManaCost>
 <CardText>At the beginning of your upkeep, put a pain counter on Torture Chamber.
 At the beginning of your end step, Torture Chamber deals damage to you equal to the number of pain counters on it.
-{1}, {T}, Remove all pain counters from Torture Chamber: Torture Chamber deals damage to target creature equal to the number of pain counters removed this way.</CardText>
+{1}, {T}, Remove all pain counters from Torture Chamber: It deals damage to target creature equal to the number of pain counters removed this way.</CardText>
 <Artist>Thomas Gianni</Artist>
 <Multiverseid>4633</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5408,7 +5396,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 <CardText>Caldera Lake enters the battlefield tapped.
 {T}: Add {C}.
 {T}: Add {U} or {R}. Caldera Lake deals 1 damage to you.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>4930</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5433,6 +5421,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>308</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -5447,6 +5436,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>309</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -5461,6 +5451,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>310</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -5475,6 +5466,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>311</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -5506,6 +5498,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>313</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -5520,6 +5513,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>314</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -5534,6 +5528,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>315</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -5548,6 +5543,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>316</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -5592,6 +5588,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>319</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5606,6 +5603,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>320</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5620,6 +5618,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>321</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5634,6 +5633,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>322</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -5664,6 +5664,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>324</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5678,6 +5679,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>325</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5692,6 +5694,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>326</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5706,6 +5709,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>327</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -5824,6 +5828,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>334</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -5838,6 +5843,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>335</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -5852,6 +5858,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>336</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -5866,6 +5873,7 @@ As long as Watchdog is untapped, all creatures attacking you get -1/-0.</CardTex
 
 <Card>
 <SetId>TP</SetId>
+<No>337</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -6076,8 +6084,7 @@ Spontaneous Combustion deals 3 damage to each creature.</CardText>
 <Type>Legendary Creature — Human Warrior 3/3</Type>
 <ManaCost>2BG (4)</ManaCost>
 <CardText>{T}: Until end of turn, target creature has base power 1 or base toughness 1.</CardText>
-<Flavor>"Sir, I just thought . . . ," explained Vhati.
-"Don't think," interrupted Greven. "It doesn't suit you."</Flavor>
+<Flavor>"Sir, I just thought . . . ," explained Vhati. "Don't think," interrupted Greven. "It doesn't suit you."</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>4920</Multiverseid>
 <Rulings>2006/09/25: You don't choose whether to affect the targeted creature's power or its toughness until the ability resolves.

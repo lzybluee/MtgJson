@@ -5,7 +5,7 @@
 <Type>Artifact Creature — Sliver 1/1</Type>
 <ManaCost>1 (1)</ManaCost>
 <Flavor>When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>208040</Multiverseid>
 <Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
 2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
@@ -196,7 +196,7 @@ Any player may cast Sliver spells as though they had flash.</CardText>
 <ManaCost>WU (2)</ManaCost>
 <CardText>All Slivers have shroud. (They can't be the targets of spells or abilities.)</CardText>
 <Flavor>Bred as living shields, these slivers have proven unruly—they know they cannot be caught.</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>207901</Multiverseid>
 <Rulings>2004/10/04: The ability only applies while this card is on the battlefield.
 2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
@@ -250,8 +250,7 @@ Any player may cast Sliver spells as though they had flash.</CardText>
 <Type>Creature — Sliver 2/2</Type>
 <ManaCost>RG (2)</ManaCost>
 <CardText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</CardText>
-<Flavor>"Slivers are evil and slivers are sly;
-And if you get eaten, then no one will cry."
+<Flavor>"Slivers are evil and slivers are sly; And if you get eaten, then no one will cry."
 —Mogg children's rhyme</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>208041</Multiverseid>
@@ -290,8 +289,7 @@ And if you get eaten, then no one will cry."
 <Type>Creature — Sliver 2/2</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</CardText>
-<Flavor>Hanna: "We must learn how they protect each other."
-Mirri: "After they're done trying to kill us, all right?"</Flavor>
+<Flavor>Hanna: "We must learn how they protect each other." Mirri: "After they're done trying to kill us, all right?"</Flavor>
 <Artist>Scott Kirschner</Artist>
 <Multiverseid>207898</Multiverseid>
 <Rulings>2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
@@ -541,8 +539,7 @@ Slivercycling {3} ({3}, Discard this card: Search your library for a Sliver card
 <Type>Artifact</Type>
 <ManaCost>5 (5)</ManaCost>
 <CardText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</CardText>
-<Flavor>"Hup, two, three, four,
-Dunno how to count no more."
+<Flavor>"Hup, two, three, four, Dunno how to count no more."
 —Mogg march</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>207927</Multiverseid>
@@ -633,7 +630,7 @@ When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
 <No>34</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>207928</Multiverseid>
 <Vintage>Legal</Vintage>

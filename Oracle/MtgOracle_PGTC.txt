@@ -1,0 +1,181 @@
+<Card>
+<SetId>PGTC</SetId>
+<No>133</No>
+<Name>Skarrg Goliath</Name>
+<Type>Creature — Beast 9/9</Type>
+<ManaCost>6GG (8)</ManaCost>
+<CardText>Trample
+Bloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.</CardText>
+<Flavor>"They bind us with their laws. We free ourselves with nature's fist."
+—Nikya of the Old Ways</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Gruul</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>152</No>
+<Name>Consuming Aberration</Name>
+<Type>Creature — Horror */*</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.
+Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2013/01/24: If any opponent has no land cards in their library, all the cards from that library will be revealed and put into their graveyard.
+2013/01/24: The cards will be put into graveyards before the spell you cast to cause the ability to trigger resolves. However, none of those cards will be in a graveyard as you cast that spell, so they can't be chosen as a target of that spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>162</No>
+<Name>Fathom Mage</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>2GU (4)</ManaCost>
+<CardText>Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
+Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2013/01/24: If multiple +1/+1 counters are placed on <Fathom Mage> simultaneously, its last ability will trigger once for each of those counters.
+2013/01/24: If <Fathom Mage> enters the battlefield with a +1/+1 counter on it (perhaps due to Master Biomancer), its last ability will trigger once for each +1/+1 counter it entered the battlefield with.
+2013/01/24: <Fathom Mage>'s last ability will trigger whenever any +1/+1 counter is placed on it, not just ones due to the evolve ability.
+2013/04/15: When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve.
+2013/04/15: If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats.
+2013/04/15: If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger.
+2013/04/15: If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing.
+2013/04/15: When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness.
+2013/04/15: Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>163</No>
+<Name>Firemane Avenger</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Flying
+Battalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to any target and you gain 3 life.</CardText>
+<Artist>Ryan Barger</Artist>
+<Rulings>2013/01/24: If the target permanent or player is an illegal target when <Firemane Avenger>'s battalion ability tries to resolve, the ability won't resolve and none of its effects will happen. You won't gain life.
+2013/01/24: If <Firemane Avenger>'s battalion ability resolves but some or all of the damage is prevented, you'll still gain 3 life.
+2013/04/15: The three attacking creatures don't have to be attacking the same player or planeswalker.
+2013/04/15: Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves.
+2013/04/15: The effects of battalion abilities vary from card to card. Read each card carefully.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>165</No>
+<Name>Foundry Champion</Name>
+<Type>Creature — Elemental Soldier 4/4</Type>
+<ManaCost>4RW (6)</ManaCost>
+<CardText>When Foundry Champion enters the battlefield, it deals damage to any target equal to the number of creatures you control.
+{R}: Foundry Champion gets +1/+0 until end of turn.
+{W}: Foundry Champion gets +0/+1 until end of turn.</CardText>
+<Artist>James Ryman</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2013/01/24: The number of creatures you control is counted when <Foundry Champion>'s triggered ability resolves. <Foundry Champion> will count itself if it's still on the battlefield under your control at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>191</No>
+<Name>Rubblehulk</Name>
+<Type>Creature — Elemental */*</Type>
+<ManaCost>4RG (6)</ManaCost>
+<CardText>Rubblehulk's power and toughness are each equal to the number of lands you control.
+Bloodrush — {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.</CardText>
+<Artist>Cliff Childs</Artist>
+<Watermark>Gruul</Watermark>
+<Rulings>2013/01/24: The ability that defines <Rubblehulk>'s power and toughness works in all zones, not just the battlefield.
+2013/01/24: If you activate <Rubblehulk>'s bloodrush ability, the value of X is the number of lands you control when that ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>201</No>
+<Name>Treasury Thrull</Name>
+<Type>Creature — Thrull 4/4</Type>
+<ManaCost>4WB (6)</ManaCost>
+<CardText>Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
+Whenever Treasury Thrull attacks, you may return target artifact, creature, or enchantment card from your graveyard to your hand.</CardText>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2013/04/15: You may pay {W/B} a maximum of one time for each extort triggered ability. You decide whether to pay when the ability resolves.
+2013/04/15: The amount of life you gain from extort is based on the total amount of life lost, not necessarily the number of opponents you have. For example, if your opponent's life total can't change (perhaps because that player controls Platinum Emperion), you won't gain any life.
+2013/04/15: The extort ability doesn't target any player.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>209</No>
+<Name>Zameck Guildmage</Name>
+<Type>Creature — Elf Wizard 2/2</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2013/01/24: <Zameck Guildmage>'s first ability is cumulative. For example, if it resolves twice in a turn, each creature that enters the battlefield under your control that turn will do so with two +1/+1 additional counters on it.
+2013/01/24: <Zameck Guildmage>'s first ability has no effect on creatures already on the battlefield when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PGTC</SetId>
+<No>*222</No>
+<Name>Nightveil Specter</Name>
+<Type>Creature — Specter 2/3</Type>
+<ManaCost>{U/B}{U/B}{U/B} (3)</ManaCost>
+<CardText>Flying
+Whenever Nightveil Specter deals combat damage to a player, that player exiles the top card of their library.
+You may play cards exiled with Nightveil Specter.</CardText>
+<Artist>Steven Belledin</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2013/01/24: The card is exiled face up. All players may look at it.
+2013/01/24: Playing a card exiled with <Nightveil Specter> follows all the normal rules for playing that card. You must pay its costs, and you must follow all timing restrictions, for example.
+2013/01/24: <Nightveil Specter>'s last ability applies to cards exiled with that specific <Nightveil Specter>, not any other creature named <Nightveil Specter>. You should keep cards exiled by different <Nightveil Specter>s separate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Gatecrash Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,230 @@
+<Card>
+<SetId>F08</SetId>
+<No>1</No>
+<Name>Remand</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.
+Draw a card.</CardText>
+<Flavor>Well, at least all of that arm-waving and arcane babbling you did was impressive.</Flavor>
+<Artist>Hideaki Takamura</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2005/10/01: The countered spell goes to its owner's hand from the stack. It never hits the graveyard.
+2007/02/01: If you <Remand> a card with Flashback, the card will still be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>2</No>
+<Name>Tormod's Crypt</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.</CardText>
+<Flavor>Dominaria's most extravagant crypt nevertheless holds an empty grave.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>3</No>
+<Name>Eternal Witness</Name>
+<Type>Creature — Human Shaman 2/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.</CardText>
+<Flavor>Gaea needs no book to record every act.</Flavor>
+<Artist>Terese Nielsen</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/12/07: If an instant or sorcery spell puts <Eternal Witness> onto the battlefield, its ability can target that card in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>4</No>
+<Name>Tendrils of Agony</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Target player loses 2 life and you gain 2 life.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
+2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
+2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
+2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.
+2013/06/07: You may choose new targets for any of the copies. You can choose differently for each copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>5</No>
+<Name>Pendelhaven</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {G}.
+{T}: Target 1/1 creature gets +1/+2 until end of turn.</CardText>
+<Flavor>The limbs of Pendelhaven extend as far as the meek roam, and reach as high as they strive.</Flavor>
+<Artist>Philip Straub</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: The current power/toughness being 1/1 is a targeting requirement so it is checked when announcing and again right before resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>6</No>
+<Name>Resurrection</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Return target creature card from your graveyard to the battlefield.</CardText>
+<Flavor>Think of this new life not as a gift from the angels but as a command to fight for their cause once more.
+—War blessing of Serra</Flavor>
+<Artist>Michael Komarck</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>7</No>
+<Name>Wall of Roots</Name>
+<Type>Creature — Plant Wall 0/5</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Defender
+Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.</CardText>
+<Flavor>Root systems in Mwonvuli twist through currents of mana rather than soil.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2017/11/17: If you must sacrifice a creature to pay a casting or activation cost that also includes mana, such as that of Bubbling Cauldron's abilities, you may put a -0/-1 counter on <Wall of Roots> to make its toughness 0 and then sacrifice it to pay that cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>8</No>
+<Name>Desert</Name>
+<Type>Land — Desert</Type>
+<CardText>{T}: Add {C}.
+{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.</CardText>
+<Artist>Glen Angus</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: The ability can be used on any player's attacking creatures. This includes your own and creatures in an attack you are not involved in (for multiplayer games).
+2017/04/18: <Desert> is a land subtype with no special meaning. It doesn't grant the land an intrinsic mana ability. Other cards may care about which lands are <Desert>s.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>9</No>
+<Name>Thirst for Knowledge</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Draw three cards. Then discard two cards unless you discard an artifact card.</CardText>
+<Flavor>Raissa transformed herself into a vessel for the Watchword Codex, allowing the arcane lore to flow through her body.</Flavor>
+<Artist>Bud Cook</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/12/01: You can discard either one artifact card or two cards which may or may not be artifacts. If you really want to, you can discard two artifact cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>10</No>
+<Name>Serrated Arrows</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Serrated Arrows enters the battlefield with three arrowhead counters on it.
+At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.
+{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.</CardText>
+<Artist>John Avon</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/08/01: The upkeep trigger checks the number of counters at the start of upkeep, and only goes on the stack if there are no arrowhead counters at that time. It will check again on resolution, and will do nothing if you've somehow manage to get a new arrowhead counter on the Arrows.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>11</No>
+<Name>Isochron Scepter</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.
+{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.</CardText>
+<Artist>Brian Despain</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2016/06/08: If <Isochron Scepter> leaves the battlefield while the activated ability is on the stack, the ability can still make a copy.
+2016/06/08: You cast the copy while the ability is resolving and still on the stack.
+2016/06/08: If the imprinted card leaves the exile zone while the activated ability is on the stack, the copy can't be made.
+2016/06/08: If the exiled card has X in its mana cost, you must choose 0 as the value for X when casting it.
+2016/06/08: If you don't want to cast the copy, you can choose not to; the copy ceases to exist the next time state-based actions are checked.
+2016/06/08: Because you're already casting the spell using an alternative cost (by casting it without paying its mana cost), you can't pay any other alternative costs for the card. You can pay additional costs, such as kicker costs. If the card has any mandatory additional costs, you must pay those.
+2017/04/18: The converted mana cost of a split card is determined by the combined mana cost of its two halves. When you activate the second ability, you may choose to cast either half of the split card, but you may not cast both halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F08</SetId>
+<No>12</No>
+<Name>Shrapnel Blast</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice an artifact.
+Shrapnel Blast deals 5 damage to any target.</CardText>
+<Flavor>To the Krark Clan, every artifact has a trigger and a barrel.</Flavor>
+<Artist>Hideaki Takamura</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2014/07/18: You must sacrifice exactly one artifact to cast this spell; you can't cast it without sacrificing an artifact, and you can't sacrifice additional artifacts.
+2014/07/18: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the artifact you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2008</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,127 @@
+<Card>
+<SetId>PNPH</SetId>
+<No>42</No>
+<Name>Phyrexian Metamorph</Name>
+<Type>Artifact Creature — Shapeshifter 0/0</Type>
+<ManaCost>3{UP} (4)</ManaCost>
+<CardText>({UP} can be paid with either {U} or 2 life.)
+You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.</CardText>
+<Artist>Jung Park</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: Except for also being an artifact, <Phyrexian Metamorph> copies exactly what was printed on the original permanent and nothing more (unless that creature is itself copying something or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or Auras attached to it, or any noncopy effects that have changed its power, toughness, types, color, and so on.
+2011/06/01: If <Phyrexian Metamorph> copies a noncreature artifact, it is no longer a creature.
+2011/06/01: If the chosen permanent has {X} in its mana cost (such as Protean Hydra), X is considered to be zero.
+2011/06/01: If the chosen creature is copying something else (for example, if the chosen creature is a Clone), then your <Phyrexian Metamorph> enters the battlefield as whatever the chosen creature copied, except it's also an artifact.
+2011/06/01: If the chosen permanent is a token, <Phyrexian Metamorph> copies the original characteristics of that token as stated by the effect that put the token onto the battlefield, except it's also an artifact. <Phyrexian Metamorph> is not a token.
+2011/06/01: Any enters-the-battlefield abilities of the copied permanent will trigger when <Phyrexian Metamorph> enters the battlefield. Any "as [this] enters the battlefield" or "[this] enters the battlefield with" abilities of the chosen permanent will also work.
+2011/06/01: If <Phyrexian Metamorph> somehow enters the battlefield at the same time as another permanent (due to Mass Polymorph or Liliana Vess's third ability, for example), <Phyrexian Metamorph> can't become a copy of that permanent. You may choose only a permanent that's already on the battlefield.
+2011/06/01: You can choose not to copy anything. In that case, <Phyrexian Metamorph> simply enters the battlefield as a 0/0 artifact creature and is put into its owner's graveyard as a state-based action (unless something else is raising its toughness).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PNPH</SetId>
+<No>73</No>
+<Name>Sheoldred, Whispering One</Name>
+<Type>Legendary Creature — Praetor 6/6</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+At the beginning of each opponent's upkeep, that player sacrifices a creature.</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2017/11/17: Swampwalk is a keyword ability that means "This creature can't be blocked if defending player controls a Swamp." Most nonbasic lands don't have basic land types, even if they produce colored mana. For example, Graven Cairns is neither a Swamp nor a Mountain, while Blood Crypt is both.
+2017/11/17: If another triggered ability during your upkeep causes you to sacrifice a creature, such as that of Lord of the Pit, you won't be able to target it with Sheoldred's triggered ability as that ability is put on the stack.
+2017/11/17: The opponent whose upkeep it is chooses a creature to sacrifice when Sheoldred's second triggered ability resolves.
+2017/11/17: In a Two-Headed Giant game, the last ability will trigger twice at the beginning of the opposing team's upkeep, once for each player on that team. Each player sacrifices only a creature they control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PNPH</SetId>
+<No>*74</No>
+<Name>Surgical Extraction</Name>
+<Type>Instant</Type>
+<ManaCost>{BP} (1)</ManaCost>
+<CardText>({BP} can be paid with either {B} or 2 life.)
+Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library.</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: "Any number of cards" means just that. If you wish, you can choose to leave some or all of the cards with the same name as the targeted card, including that card, in the zone they're in.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PNPH</SetId>
+<No>90</No>
+<Name>Priest of Urabrask</Name>
+<Type>Creature — Human Cleric 2/1</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>When Priest of Urabrask enters the battlefield, add {R}{R}{R}.</CardText>
+<Artist>Clint Cearley</Artist>
+<Rulings>2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PNPH</SetId>
+<No>146</No>
+<Name>Myr Superion</Name>
+<Type>Artifact Creature — Myr 5/6</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Spend only mana produced by creatures to cast Myr Superion.</CardText>
+<Artist>Greg Staples</Artist>
+<Rulings>2011/06/01: <Myr Superion> can be cast only with mana produced by the abilities of one or more creatures on the battlefield (such as Alloy Myr or Priest of Urabrask in this set).
+2011/06/01: Mana produced by abilities of creature cards not on the battlefield, such as Chancellor of the Tangle or Elvish Spirit Guide, can't be used to cast <Myr Superion>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PNPH</SetId>
+<No>151</No>
+<Name>Pristine Talisman</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{T}: Add {C}. You gain 1 life.</CardText>
+<Flavor>"Tools and artisans can be destroyed, but the act of creation is inviolate."
+—Elspeth Tirel</Flavor>
+<Artist>Matt Cavotta</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/06/01: <Pristine Talisman> has a mana ability. Its ability doesn't use the stack and can't be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+

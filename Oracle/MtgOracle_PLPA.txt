@@ -1,0 +1,113 @@
+<Card>
+<SetId>PLPA</SetId>
+<No>1</No>
+<Name>Earwig Squad</Name>
+<Type>Creature — Goblin Rogue 5/3</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles their library.</CardText>
+<Artist>Warren Mahy</Artist>
+<Rulings>2013/06/07: The cards are exiled face up. All players will know what they are.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Launch Parties</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PLPA</SetId>
+<No>2</No>
+<Name>Vexing Shusher</Name>
+<Type>Creature — Goblin Shaman 2/2</Type>
+<ManaCost>{R/G}{R/G} (2)</ManaCost>
+<CardText>This spell can't be countered.
+{R/G}: Target spell can't be countered.</CardText>
+<Flavor>The stench of bloodcap mushrooms on the breath is enough to ward off even the most potent magics, especially when combined with a special chant: "Hushhh."</Flavor>
+<Artist>Cyril Van Der Haegen</Artist>
+<Rulings>2008/05/01: After <Vexing Shusher>'s ability resolves, any spells or abilities that would counter the targeted spell will still resolve. They just won't counter that spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Launch Parties</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PLPA</SetId>
+<No>3</No>
+<Name>Figure of Destiny</Name>
+<Type>Creature — Kithkin 1/1</Type>
+<ManaCost>{R/W} (1)</ManaCost>
+<CardText>{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.
+{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.
+{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.</CardText>
+<Artist>Scott M. Fischer</Artist>
+<Rulings>2008/08/01: None of these abilities has a duration. If one of them resolves, it will remain in effect until the game ends, <Figure of Destiny> leaves the battlefield, or some subsequent effect changes its characteristics, whichever comes first.
+2008/08/01: <Figure of Destiny>'s abilities overwrite its power, toughness, and creature types. Typically, those abilities are activated in the order they appear on the card. However, if <Figure of Destiny> is an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike, and you activate its first ability, it will become a 2/2 Kithkin Spirit that still has flying and first strike.
+2008/08/01: You can activate <Figure of Destiny>'s second and third abilities regardless of what creature types it is. Each of those abilities checks <Figure of Destiny>'s creature types when that ability resolves. If <Figure of Destiny> isn't the appropriate creature type at that time, the ability does nothing.
+2008/08/01: <Figure of Destiny>'s second ability checks whether it's a Spirit, and its third ability checks whether it's a Warrior. It doesn't matter how it became the appropriate creature type.
+2009/10/01: The effect from the ability overwrites other effects that set power and/or toughness if and only if those effects existed before the ability resolved. It will not overwrite effects that modify power or toughness (whether from a static ability, counters, or a resolved spell or ability), nor will it overwrite effects that set power and toughness which come into existence after the ability resolves. Effects that switch the creature's power and toughness are always applied after any other power or toughness changing effects, including this one, regardless of the order in which they are created.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Launch Parties</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PLPA</SetId>
+<No>5</No>
+<Name>Obelisk of Alara</Name>
+<Type>Artifact</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>{1}{W}, {T}: You gain 5 life.
+{1}{U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}: Target creature gets -2/-2 until end of turn.
+{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player or planeswalker.
+{1}{G}, {T}: Target creature gets +4/+4 until end of turn.</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Launch Parties</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PLPA</SetId>
+<No>6</No>
+<Name>Knight of New Alara</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>2GW (4)</ManaCost>
+<CardText>Each other multicolored creature you control gets +1/+1 for each of its colors.</CardText>
+<Flavor>"I embrace all of Alara, Grixis as much as Bant. Let my former home call me traitor. I do this not for accolades, but because it is right."</Flavor>
+<Artist>David Palumbo</Artist>
+<Rulings>2009/05/01: For example, a white creature gets no bonus. A white and blue creature gets +2/+2. A white, blue, and black creature gets +3/+3, and so on.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Launch Parties</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PLPA</SetId>
+<No>7</No>
+<Name>Magister of Worth</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>4WB (6)</ManaCost>
+<CardText>Flying
+Will of the council — When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from their graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.</CardText>
+<Artist>rk post</Artist>
+<Rulings>2014/05/29: Players can't do anything after they finishing voting but before the spell or ability that included the vote finishes resolving.
+2014/05/29: The phrase "the vote is tied" refers only to when there is more than one choice that received the most votes. For example, if a 5-player vote from among three different choices ends 3 votes to 1 vote to 1 vote, the vote isn't tied.
+2014/05/29: Because the votes are cast in turn order, each player will know the votes of players who voted beforehand.
+2014/05/29: You must vote for one of the available options. You can't abstain.
+2014/05/29: No player votes until the spell or ability resolves. Any responses to that spell or ability must be made without knowing the outcome of the vote.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Launch Parties</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

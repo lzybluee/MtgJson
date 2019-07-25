@@ -1,0 +1,157 @@
+<Card>
+<SetId>PDGM</SetId>
+<No>84</No>
+<Name>Melek, Izzet Paragon</Name>
+<Type>Legendary Creature — Weird Wizard 2/4</Type>
+<ManaCost>4UR (6)</ManaCost>
+<CardText>Play with the top card of your library revealed.
+You may cast the top card of your library if it's an instant or sorcery card.
+Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.</CardText>
+<Artist>Johann Bodin</Artist>
+<Rulings>2013/04/15: Melek doesn't affect the timing rules associated with when you can cast the card. If it's a sorcery card, you can cast it only during your main phase when the stack is empty.
+2013/04/15: You still pay all costs for that spell, including additional costs. You may also pay alternative costs, such as overload costs. Although you can't pay additional costs for the copy that's created, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too. For example, if a player sacrifices a 3/3 creature to cast Fling, and you copy it, the copy of Fling will also deal 3 damage to its target.
+2013/04/15: Melek's last ability will copy any instant or sorcery spell you cast from your library, not just one with targets.
+2013/04/15: When the last ability resolves, it creates a copy of the spell. You control the copy. That copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger. The copy will then resolve like a normal spell, after players get a chance to cast spells and activate abilities.
+2013/04/15: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2013/04/15: If the spell being copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. You can't choose a different one.
+2013/04/15: If the spell being copied has an X whose value was determined as it was cast (like Debt to the Deathless has), the copy has the same value of X.
+2013/04/15: Instant and sorcery cards with miracle allow a player to cast a card immediately upon drawing it. If you cast a spell this way, you're casting it from your hand, not your library. Melek's ability won't trigger.
+2013/04/15: The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities.
+2013/04/15: If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability.
+2013/04/15: When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDGM</SetId>
+<No>*96</No>
+<Name>Render Silent</Name>
+<Type>Instant</Type>
+<ManaCost>WUU (3)</ManaCost>
+<CardText>Counter target spell. Its controller can't cast spells this turn.</CardText>
+<Flavor>"We have confiscated your spells as evidence. Once we conclude our investigation, you may petition to have them returned."</Flavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Azorius</Watermark>
+<Rulings>2013/04/15: You must be able to target a spell to cast <Render Silent>.
+2013/04/15: <Render Silent> doesn't stop any player from casting spells in response to <Render Silent> before it resolves.
+2013/04/15: The affected player can still activate abilities, including abilities of cards in their hand (such as bloodrush abilities), and the player can still play lands.
+2013/04/15: If the spell is an illegal target when <Render Silent> tries to resolve (because it's been countered by another spell, for example), <Render Silent> won't resolve and none of its effects will happen.
+2013/04/15: A spell that "can't be countered" is a legal target for <Render Silent>. The spell won't be countered when <Render Silent> resolves, but that spell's controller won't be able to cast spells for the rest of the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDGM</SetId>
+<No>110</No>
+<Name>Trostani's Summoner</Name>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>5GW (7)</ManaCost>
+<CardText>When Trostani's Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample.</CardText>
+<Artist>Nils Hamm</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDGM</SetId>
+<No>124a</No>
+<Name>Breaking (Breaking/Entering)</Name>
+<Type>Sorcery</Type>
+<ManaCost>UB (2)</ManaCost>
+<CardText>Target player puts the top eight cards of their library into their graveyard.
+Fuse (You may cast one or both halves of this card from your hand.)</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2013/04/15: If you're casting a split card with fuse from any zone other than your hand, you can't cast both halves. You'll only be able to cast one half or the other.
+2013/04/15: To cast a fused split spell, pay both of its mana costs. While the spell is on the stack, its converted mana cost is the total amount of mana in both costs.
+2013/04/15: You can choose the same object as the target of each half of a fused split spell, if appropriate.
+2013/04/15: When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell doesn't resolve and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it.
+2013/04/15: When a fused split spell resolves, follow the instructions of the left half first, then the instructions on the right half.
+2013/04/15: On the stack, a split spell that hasn't been fused has only that half's characteristics and converted mana cost. The other half is treated as though it didn't exist.
+2013/04/15: Some split cards with fuse have two monocolor halves of different colors. If such a card is cast as a fused split spell, the resulting spell is multicolored. If only one half is cast, the spell is the color of that half. While not on the stack, such a card is multicolored.
+2013/04/15: Some split cards with fuse have two halves that are both multicolored. That card is multicolored no matter which half is cast, or if both halves are cast. It's also multicolored while not on the stack.
+2013/04/15: If a player names a card, the player may name either half of a split card, but not both. A split card has the chosen name if one of its two names matches the chosen name.
+2013/04/15: If you cast a split card with fuse from your hand without paying its mana cost, you can choose to use its fuse ability and cast both halves without paying their mana costs.
+2013/04/15: Entering doesn't target any creature card. You choose which card you're putting onto the battlefield as Entering resolves. You can choose any creature card in a graveyard at time, including one put into a graveyard because of <Breaking> if you cast <Breaking> // Entering as a fused split spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Entering (Breaking/Entering)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PDGM</SetId>
+<No>124b</No>
+<Name>Entering (Breaking/Entering)</Name>
+<Type>Sorcery</Type>
+<ManaCost>4BR (6)</ManaCost>
+<CardText>Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2013/04/15: If you're casting a split card with fuse from any zone other than your hand, you can't cast both halves. You'll only be able to cast one half or the other.
+2013/04/15: To cast a fused split spell, pay both of its mana costs. While the spell is on the stack, its converted mana cost is the total amount of mana in both costs.
+2013/04/15: You can choose the same object as the target of each half of a fused split spell, if appropriate.
+2013/04/15: When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell doesn't resolve and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it.
+2013/04/15: When a fused split spell resolves, follow the instructions of the left half first, then the instructions on the right half.
+2013/04/15: On the stack, a split spell that hasn't been fused has only that half's characteristics and converted mana cost. The other half is treated as though it didn't exist.
+2013/04/15: Some split cards with fuse have two monocolor halves of different colors. If such a card is cast as a fused split spell, the resulting spell is multicolored. If only one half is cast, the spell is the color of that half. While not on the stack, such a card is multicolored.
+2013/04/15: Some split cards with fuse have two halves that are both multicolored. That card is multicolored no matter which half is cast, or if both halves are cast. It's also multicolored while not on the stack.
+2013/04/15: If a player names a card, the player may name either half of a split card, but not both. A split card has the chosen name if one of its two names matches the chosen name.
+2013/04/15: If you cast a split card with fuse from your hand without paying its mana cost, you can choose to use its fuse ability and cast both halves without paying their mana costs.
+2013/04/15: <Entering> doesn't target any creature card. You choose which card you're putting onto the battlefield as <Entering> resolves. You can choose any creature card in a graveyard at time, including one put into a graveyard because of Breaking if you cast Breaking // <Entering> as a fused split spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Breaking (Breaking/Entering)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PDGM</SetId>
+<No>152</No>
+<Name>Maze's End</Name>
+<Type>Land</Type>
+<CardText>Maze's End enters the battlefield tapped.
+{T}: Add {C}.
+{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.</CardText>
+<Artist>Cliff Childs</Artist>
+<Rulings>2013/04/15: Returning <Maze's End> to its owner's hand is part of the cost to activate its last ability. Once that ability is announced, players can't respond to it until after you've paid its activation cost and returned <Maze's End> to hand.
+2013/04/15: When the last ability of <Maze's End> resolves, you'll search for a Gate and put it onto the battlefield before checking to see if you win the game. This check will happen even if you don't put a Gate onto the battlefield this way. This check will happen only as the ability resolves, not at other times.
+2013/04/15: Putting a Gate onto the battlefield with <Maze's End> doesn't count as the one land you can play during your turn. If it's your turn, you can play <Maze's End> or a different land card from your hand after its ability has resolved.
+2013/04/15: Controlling multiple Gates with the same name has no effect on your ability to win the game with <Maze's End>. The excess Gates are simply ignored.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDGM</SetId>
+<No>157</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Eric Deschamps</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dragon's Maze Promos</Set>
+<Rarity>Land</Rarity>
+</Card>
+

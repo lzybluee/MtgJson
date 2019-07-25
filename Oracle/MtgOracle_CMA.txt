@@ -25,7 +25,7 @@
 <CardText>Destroy all artifacts, creatures, and enchantments.
 Cycling {3} ({3}, Discard this card: Draw a card.)</CardText>
 <Flavor>Ixidor had only to imagine their ruin and Akroma made it so.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>430221</Multiverseid>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
@@ -197,9 +197,10 @@ Enchanted creature is an Insect artifact creature with base power and toughness 
 When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Multiverseid>430229</Multiverseid>
-<Rulings>2018/03/16: If <Fiend Hunter> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the targeted creature indefinitely.
-2018/03/16: Once the exiled permanent returns, it's considered a new object with no relation to the object that it was. Auras attached to the exiled permanent will be put into their owners' graveyards. Equipment attached to the exiled permanent will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.
-2018/03/16: If a token is exiled this way, it won't return to the battlefield.</Rulings>
+<Rulings>2018/12/07: If <Fiend Hunter> leaves the battlefield before its first ability has resolved, its second ability will trigger and do nothing. Then its first ability will resolve and exile the target creature indefinitely. This is different from abilities on other cards that exile a permanent "until" something happens.
+2018/12/07: Once the exiled creature returns, it's considered a new object with no relation to the object that it was. Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist.
+2018/12/07: If a token is exiled this way, it won't return to the battlefield.
+2018/12/07: In a multiplayer game, if you lose the game, the creature exiled with <Fiend Hunter> remains exiled indefinitely. This is also different from abilities on other cards that exile a permanent "until" something happens.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1226,10 +1227,9 @@ When Reiver Demon enters the battlefield, if you cast it from your hand, destroy
 —Liliana Vess</Flavor>
 <Artist>Vance Kovacs</Artist>
 <Multiverseid>430284</Multiverseid>
-<Rulings>2009/10/01: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
-2009/10/01: If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless.
-2009/10/01: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave> effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes.
-2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2030,6 +2030,7 @@ Drove of Elves's power and toughness are each equal to the number of green perma
 <Flavor>She remembers every word spoken, from the hero's oath to the baby's cry.</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>430326</Multiverseid>
+<Rulings>2018/12/07: If an instant or sorcery spell puts <Eternal Witness> onto the battlefield, its ability can target that card in your graveyard.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2063,7 +2064,7 @@ Drove of Elves's power and toughness are each equal to the number of green perma
 <Name>Farhaven Elf</Name>
 <Type>Creature — Elf Druid 1/1</Type>
 <ManaCost>2G (3)</ManaCost>
-<CardText>When Farhaven Elf enters the battlefield, you may search your library for a basic land card and put it onto the battlefield tapped. If you do, shuffle your library.</CardText>
+<CardText>When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Flavor>"Verdant bloom does exist. It merely hides for its own safety."</Flavor>
 <Artist>Brandon Kitkouski</Artist>
 <Multiverseid>430328</Multiverseid>
@@ -2173,7 +2174,7 @@ When Great Oak Guardian enters the battlefield, creatures target player controls
 <Type>Instant</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>As an additional cost to cast this spell, sacrifice a land.
-Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</CardText>
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.</CardText>
 <Flavor>No spot in nature is truly barren.</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>430334</Multiverseid>
@@ -3304,7 +3305,8 @@ Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you con
 <Artist>Michael Komarck</Artist>
 <Multiverseid>430395</Multiverseid>
 <Rulings>2013/10/17: You can activate Derevi's last ability only when it is in the command zone.
-2013/10/17: When you activate Derevi's last ability, you're not casting Derevi as a spell. The ability can't be countered by something that counters only spells. The ability isn't subject to the additional cost of casting commanders from the command zone.</Rulings>
+2013/10/17: When you activate Derevi's last ability, you're not casting Derevi as a spell. The ability can't be countered by something that counters only spells. The ability isn't subject to the additional cost of casting commanders from the command zone.
+2015/01/19: <Derevi, Empyrial Tactician> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Commander Anthology</Set>
@@ -4393,7 +4395,7 @@ Equip {1}</CardText>
 As long as equipped creature is untapped, untapped creatures you control get +0/+2.
 {3}: You may tap or untap equipped creature.
 Equip {3}</CardText>
-<Artist>Greg Hildebrandt</Artist>
+<Artist>Tim Hildebrandt</Artist>
 <Multiverseid>430453</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4712,8 +4714,6 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</CardText>
 <Flavor>Enter those who are starving and sick. You are welcome among the Swarm when the rest of Ravnica rejects you.</Flavor>
 <Artist>Eytan Zana</Artist>
 <Multiverseid>430471</Multiverseid>
-<Rulings>2013/04/15: The subtype Gate has no special rules significance, but other spells and abilities may refer to it.
-2013/04/15: Gate is not a basic land type.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5010,7 +5010,7 @@ When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
 <CardText>Seaside Citadel enters the battlefield tapped.
 {T}: Add {G}, {W}, or {U}.</CardText>
 <Flavor>For wisdom's sake, it was built high to gaze on all things. For glory's sake, it was built high as a testament of power. For strength's sake, it was built high to repel all attacks.</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>430488</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5063,8 +5063,6 @@ When Sejiri Refuge enters the battlefield, you gain 1 life.
 <Flavor>Enter and rejoice! The Conclave stands united, open to one and all.</Flavor>
 <Artist>Howard Lyon</Artist>
 <Multiverseid>430491</Multiverseid>
-<Rulings>2013/04/15: The subtype Gate has no special rules significance, but other spells and abilities may refer to it.
-2013/04/15: Gate is not a basic land type.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5161,7 +5159,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <No>278</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>430497</Multiverseid>
 <Vintage>Legal</Vintage>

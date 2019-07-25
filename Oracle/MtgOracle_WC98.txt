@@ -1,0 +1,1791 @@
+<Card>
+<SetId>WC98</SetId>
+<No>bh1sb</No>
+<Name>Abeyance</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.
+Draw a card.</CardText>
+<Flavor>"I'm too modest a wizard to reveal the full extent of my abilities."
+—Ertai, wizard adept</Flavor>
+<Artist>Thomas Gianni</Artist>
+<Rulings>2004/10/04: <Abeyance> prohibits activated abilities of cards which are not on the battlefield.
+2004/10/04: <Abeyance> never prevents mana abilities from being activated.
+2004/10/04: <Abeyance> does not affect abilities which are not activated, such as static abilities and triggered abilities. It also doesn't stop the declaration of attackers or blockers.
+2008/08/01: This can't be used as a counterspell. It will have no effect on spells which were on the stack when it was cast, nor on those cast in response to it.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh3</No>
+<Name>Cataclysm</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest.</CardText>
+<Flavor>The Weatherlight dragged the Predator behind it, the cradle hauling the casket.</Flavor>
+<Artist>Jim Nelson</Artist>
+<Rulings>2004/10/04: If you control a permanent with more than one type, you can choose that same permanent for more than one of the choices if you want to. This makes it possible to select an artifact creature as both your artifact and creature, and then select a land and thereby keep only two cards.
+2004/10/04: If you control a permanent with more than one type, you can choose that permanent to be the representative of either type. This makes it possible to have more than one creature (or other permanent type) on the battlefield. For example, if you select a creature for your creature and an artifact creature for your artifact, you get to keep both of these creatures.
+2004/10/04: The permanents to save are chosen on resolution. You do not choose them when casting the spell.
+2004/10/04: The current player makes their choices before the other player. After both players make choices, all the sacrifices are done simultaneously.
+2014/02/01: Each permanent not chosen by a player will be sacrificed. If a permanent has none of the listed types (for example, a Planeswalker with no other types), it can't be chosen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh7b</No>
+<Name>Aura of Silence</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Artifact and enchantment spells your opponents cast cost {2} more to cast.
+Sacrifice Aura of Silence: Destroy target artifact or enchantment.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: <Aura of Silence> affects all opponents in a multiplayer game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh7sba</No>
+<Name>Armageddon</Name>
+<Type>Sorcery</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Destroy all lands.</CardText>
+<Artist>Jesper Myrfors</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh7sbb</No>
+<Name>Aura of Silence</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Artifact and enchantment spells your opponents cast cost {2} more to cast.
+Sacrifice Aura of Silence: Destroy target artifact or enchantment.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: <Aura of Silence> affects all opponents in a multiplayer game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh9</No>
+<Name>Nomads en-Kor</Name>
+<Type>Creature — Kor Nomad Soldier 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.</CardText>
+<Flavor>The Kor forsake roots for the winding of the path; forsake voices for the silence of the mind; forsake all else for the poverty of isolation.</Flavor>
+<Artist>Val Mayerik</Artist>
+<Rulings>2004/10/04: The ability of this card does not do anything to stop Trample damage from being assigned to the defending player.
+2004/10/04: It can redirect damage to itself.
+2004/10/04: It is possible to redirect more damage to a creature than that creature's toughness.
+2004/10/04: You can use this ability as much as you want prior to damage being dealt.
+2013/07/01: When you redirect combat damage it is still combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh12</No>
+<Name>Paladin en-Vec</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)</CardText>
+<Flavor>"Our belief shall be the lance that pierces Volrath's heart."</Flavor>
+<Artist>Randy Elliott</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh13</No>
+<Name>Empyrial Armor</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1 for each card in your hand.</CardText>
+<Flavor>"An angel appeared in the smoldering skies above the fray, her clothes as flames, her armor as fire."
+—"Hymn of Angelfire"</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: The value of X is recalculated constantly, so this card's bonus varies as the number of cards in your hand varies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs15</No>
+<Name>Cloudchaser Eagle</Name>
+<Type>Creature — Bird 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+When Cloudchaser Eagle enters the battlefield, destroy target enchantment.</CardText>
+<Flavor>When the eagle catches a cloud, it tears it into strips that fall to earth.
+—Vec myth of the rains</Flavor>
+<Artist>Una Fricker</Artist>
+<Rulings>2004/10/04: It destroys one of your enchantments if you are the only player with any enchantments.
+2004/10/04: Nothing happens if there are no legal enchantments to target when it enters the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh16</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Flavor>The swarm seemed unmoved by the artificial slivers' destruction. "They clearly were not the leaders," Hanna cursed. "I guess we'll have to do this the hard way."</Flavor>
+<Artist>Allen Williams</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh16sb</No>
+<Name>Disenchant</Name>
+<Type>Instant</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Destroy target artifact or enchantment.</CardText>
+<Flavor>The swarm seemed unmoved by the artificial slivers' destruction. "They clearly were not the leaders," Hanna cursed. "I guess we'll have to do this the hard way."</Flavor>
+<Artist>Allen Williams</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh20</No>
+<Name>Soltari Visionary</Name>
+<Type>Creature — Soltari Cleric 2/2</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.</CardText>
+<Artist>Adam Rex</Artist>
+<Rulings>2004/10/04: If the damaged player controls any enchantments, you must choose one to be destroyed. If they do not, nothing happens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh21</No>
+<Name>Soul Warden</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Whenever another creature enters the battlefield, you gain 1 life.</CardText>
+<Flavor>Count carefully the souls and see that none are lost.
+—Vec teaching</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Rulings>2004/10/04: Does not trigger on a card on the battlefield being changed into a creature.
+2004/10/04: The ability will not trigger on itself entering the battlefield, but it will trigger on any other creature that is put onto the battlefield at the same time.
+2005/08/01: Two <Soul Warden>s entering the battlefield at the same time will each cause the other's ability to trigger.
+2005/08/01: The life gain is mandatory.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh23a</No>
+<Name>Tithe</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.</CardText>
+<Artist>Jon J Muth</Artist>
+<Rulings>2004/10/04: Counts lands on resolution, not on announcement.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh23b</No>
+<Name>Warrior en-Kor</Name>
+<Type>Creature — Kor Warrior Knight 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.</CardText>
+<Flavor>Only a matter as vital as destroying Volrath could bring together the reclusive Kor people.</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Rulings>2004/10/04: The ability of this card does not do anything to stop Trample damage from being assigned to the defending player.
+2004/10/04: It can redirect damage to itself.
+2004/10/04: It is possible to redirect more damage to a creature than that creature's toughness.
+2004/10/04: You can use this ability as much as you want prior to damage being dealt.
+2013/07/01: When you redirect combat damage it is still combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb32</No>
+<Name>Memory Lapse</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</CardText>
+<Flavor>"Um . . . oh . . . what was I saying?"
+—Reveka, Wizard Savant</Flavor>
+<Artist>Mark Tedin</Artist>
+<Rulings>2016/06/08: <Memory Lapse> has a self-replacement effect that replaces the spell going to the graveyard before any other effect can replace that event. If the spell was cast using flashback, however, flashback will change the spell's destination from its owner's library to exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb34</No>
+<Name>Impulse</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</CardText>
+<Flavor>"Controlling time ensures you need never look impulsive again."
+—Teferi</Flavor>
+<Artist>Bryan Talbot</Artist>
+<Rulings>2004/10/04: This is not a draw.
+2004/10/04: Due to errata, you no longer shuffle your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb35</No>
+<Name>Forbid</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Counter target spell.</CardText>
+<Artist>Scott Kirschner</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb36</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>"The fatal flaw in every plan is the assumption that you know more than your enemy."
+—Volrath</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs37</No>
+<Name>Man-o'-War</Name>
+<Type>Creature — Jellyfish 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</CardText>
+<Flavor>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philosopher</Flavor>
+<Artist>Jon J Muth</Artist>
+<Rulings>2016/06/08: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb38sb</No>
+<Name>Sea Sprite</Name>
+<Type>Creature — Faerie 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying, protection from red</CardText>
+<Flavor>"No one can catch what won't be caught."
+—Kakra, Sea Troll</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb41</No>
+<Name>Rainbow Efreet</Name>
+<Type>Creature — Efreet 3/1</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying
+{U}{U}: Rainbow Efreet phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</CardText>
+<Flavor>"A beauty made more so by its fleeting visitations."
+—Teferi</Flavor>
+<Artist>Nathalie Hertz</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh45</No>
+<Name>Soltari Monk</Name>
+<Type>Creature — Soltari Monk Cleric 2/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from black
+Shadow (This creature can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>"Prayer rarely explains."
+—Orim, Samite healer</Flavor>
+<Artist>Janet Aulisio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh46</No>
+<Name>Soltari Priest</Name>
+<Type>Creature — Soltari Cleric 2/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Protection from red
+Shadow (This creature can block or be blocked by only creatures with shadow.)</CardText>
+<Flavor>"In Rath," the priest said, "there is even greater need for prayer."</Flavor>
+<Artist>Janet Aulisio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs49sb</No>
+<Name>Staunch Defenders</Name>
+<Type>Creature — Human Soldier 3/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>When Staunch Defenders enters the battlefield, you gain 4 life.</CardText>
+<Flavor>"Hold your position! Leave doubt for the dying!"
+—Tahngarth of the Weatherlight</Flavor>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb55sb</No>
+<Name>Capsize</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Return target permanent to its owner's hand.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb57</No>
+<Name>Counterspell</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Flavor>"It was probably a lousy spell in the first place."
+—Ertai, wizard adept</Flavor>
+<Artist>Stephen Daniele</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb58a</No>
+<Name>Dismiss</Name>
+<Type>Instant</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Counter target spell.
+Draw a card.</CardText>
+<Flavor>"There is nothing you can do that I cannot simply deny."
+—Ertai, wizard adept</Flavor>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb58b</No>
+<Name>Force Spike</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target spell unless its controller pays {1}.</CardText>
+<Artist>Bryon Wackwitz</Artist>
+<Rulings>2004/10/04: The payment is optional.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb61</No>
+<Name>Dissipate</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</CardText>
+<Flavor>"If you weren't born with it, you don't need it."
+—Grahilah, former trader of Amiqat</Flavor>
+<Artist>Richard Kane Ferguson</Artist>
+<Rulings>2004/10/04: The card does not go to the graveyard before being exiled.
+2004/10/04: If the spell is not countered (because the spell it targets can't be countered), then it does not get exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh64sb</No>
+<Name>Spirit Link</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature deals damage, you gain that much life.</CardText>
+<Flavor>"I regret feeding Kaervek's hunger for power—far better to live with animals innocent of such ambitions."
+—Jolrael</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2004/10/04: You only gain the life when the triggered ability resolves. If you are reduced to zero life before the ability resolves, you will lose before gaining the life.
+2008/04/01: You gain life for all damage which is not prevented, regardless of what the creature damages (player or another creature) or the toughness of the blocking creature. If you put this on a 5/5 and it is blocked by a 1/1, you still gain 5 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs66</No>
+<Name>Nekrataal</Name>
+<Type>Creature — Human Assassin 2/1</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>First strike
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</CardText>
+<Flavor>"I have seen the horrors Kaervek has freed. My betrayal is certain—but of Kaervek or of Jamuraa, I cannot say."
+—Jolrael</Flavor>
+<Artist>Adrian Smith</Artist>
+<Rulings>2016/06/08: Nothing happens if there are no nonartifact, nonblack creatures on the battlefield when <Nekrataal> enters the battlefield, but if there is one, you must target it, even if it's a creature you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh68</No>
+<Name>White Knight</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>First strike (This creature deals combat damage before creatures without first strike.)
+Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</CardText>
+<Flavor>Out of the blackness and stench of the engulfing swamp emerged a shimmering figure. Only the splattered armor and ichor-stained sword hinted at the unfathomable evil the knight had just laid waste.</Flavor>
+<Artist>Daniel Gelon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs72</No>
+<Name>Recurring Nightmare</Name>
+<Type>Enchantment</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>"I am confined by sleep and defined by nightmare."
+—Crovax</Flavor>
+<Artist>Jeff Laubenstein</Artist>
+<Rulings>2013/04/15: If you cast this as normal during your main phase, it will enter the battlefield and you'll receive priority. If no abilities trigger because of this, you can activate its ability immediately, before any other player has a chance to remove it from the battlefield.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb72sb</No>
+<Name>Hydroblast</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Choose one —
+• Counter target spell if it's red.
+• Destroy target permanent if it's red.</CardText>
+<Flavor>"Heed the lessons of our time: the forms of water may move the land itself and hold captive the fires within."
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.
+2016/06/08: <Hydroblast> can target any spell or permanent, not just a red one. It checks the color of the target only on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs76</No>
+<Name>Thrull Surgeon</Name>
+<Type>Creature — Thrull 1/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>"Just take a little off the top."</Flavor>
+<Artist>rk post</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br79</No>
+<Name>Fireblast</Name>
+<Type>Instant</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>You may sacrifice two Mountains rather than pay this spell's mana cost.
+Fireblast deals 4 damage to any target.</CardText>
+<Flavor>Embermages aren't well known for their diplomatic skills.</Flavor>
+<Artist>Michael Danza</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br92</No>
+<Name>Mogg Flunkies</Name>
+<Type>Creature — Goblin 3/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Mogg Flunkies can't attack or block alone.</CardText>
+<Flavor>They'll attack whatever's in front of them—as long as you tell them where that is.</Flavor>
+<Artist>Brom</Artist>
+<Rulings>2018/03/16: If you control more than one <Mogg Flunkies>, they can attack or block together, even if no other creatures attack or block.
+2018/03/16: Although <Mogg Flunkies> can't attack alone, other attacking creatures don't have to attack the same player or planeswalker. For example, <Mogg Flunkies> could attack an opponent and another creature could attack a planeswalker that opponent controls. Similarly, other blocking creatures don't have to block the same creature that <Mogg Flunkies> blocks.
+2018/03/16: Once <Mogg Flunkies> has attacked or blocked, it will remain in combat even if you no longer control another attacking or blocking creature.
+2018/03/16: If an effect says that <Mogg Flunkies> attacks or blocks if able and you control another creature able to attack or block, you must attack or block with <Mogg Flunkies> and that creature.
+2018/03/16: In a Two-Headed Giant game, <Mogg Flunkies> can attack or block with a creature controlled by your teammate, even if no other creatures you control are attacking or blocking.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br98b</No>
+<Name>Shock</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Shock deals 2 damage to any target.</CardText>
+<Flavor>Lightning tethers souls to the world.
+—Kor saying</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br98sba</No>
+<Name>Dwarven Thaumaturgist</Name>
+<Type>Creature — Dwarf Shaman 1/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>{T}: Switch target creature's power and toughness until end of turn.</CardText>
+<Artist>Kipling West</Artist>
+<Rulings>2005/11/01: Note that the wording "Effects that alter the creature's power alter its toughness instead, and vice versa, this turn" has been removed.
+2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
+2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs98</No>
+<Name>Tradewind Rider</Name>
+<Type>Creature — Spirit 1/4</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flying
+{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand.</CardText>
+<Flavor>It is said that the wind will blow the world past if you wait long enough.</Flavor>
+<Artist>John Matson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br100</No>
+<Name>Viashino Sandstalker</Name>
+<Type>Creature — Viashino Warrior 4/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)</CardText>
+<Flavor>"Some believe Sandstalkers to be illusions; those with scars know better."
+—Zhalfirin Guide to the Desert</Flavor>
+<Artist>Andrew Robinson</Artist>
+<Rulings>2004/10/04: It is returned to its owner's hand at the end of any turn in which it is on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br101sb</No>
+<Name>Firestorm</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard X cards.
+Firestorm deals X damage to each of X targets.</CardText>
+<Flavor>"Glok loved storms He'd sit an' watch an' laugh through the whole thing. I miss him."
+—Squee, goblin cabin hand</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Rulings>2008/04/01: For example, if you discard four cards, you must target four different creatures and/or players. <Firestorm> will deal 4 damage to each of them.
+2008/04/01: The value of X can't exceed the number of cards in your hand or the number of available legal targets, whichever is smaller. X can be 0.
+2008/04/01: The same permanent or player can't be targeted more than once.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs101</No>
+<Name>Firestorm</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>As an additional cost to cast this spell, discard X cards.
+Firestorm deals X damage to each of X targets.</CardText>
+<Flavor>"Glok loved storms He'd sit an' watch an' laugh through the whole thing. I miss him."
+—Squee, goblin cabin hand</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Rulings>2008/04/01: For example, if you discard four cards, you must target four different creatures and/or players. <Firestorm> will deal 4 damage to each of them.
+2008/04/01: The value of X can't exceed the number of cards in your hand or the number of available legal targets, whichever is smaller. X can be 0.
+2008/04/01: The same permanent or player can't be targeted more than once.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br102sb</No>
+<Name>Shattering Pulse</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Destroy target artifact.</CardText>
+<Artist>Donato Giancola</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb103</No>
+<Name>Whispers of the Muse</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Draw a card.</CardText>
+<Flavor>"I followed her song only to find it was a dirge."
+—Crovax</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br105</No>
+<Name>Goblin Vandal</Name>
+<Type>Creature — Goblin Rogue 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Rulings>2008/04/01: If the defending player controls no artifacts that you can target, the ability doesn't go on the stack and you can't pay {R}.
+2013/04/15: An ability that triggers when something "attacks and isn't blocked" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs106sb</No>
+<Name>Emerald Charm</Name>
+<Type>Instant</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Choose one —
+• Untap target permanent.
+• Destroy target non-Aura enchantment.
+• Target creature loses flying until end of turn.</CardText>
+<Artist>Greg Spalenka</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs112a</No>
+<Name>City of Brass</Name>
+<Type>Land</Type>
+<CardText>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: The first ability triggers no matter how the land becomes tapped.
+2004/10/04: If you tap <City of Brass> while you are casting a spell or activating an ability, its ability will trigger and wait. When you finish casting that spell or activating that ability, <City of Brass>'s triggered ability is put on the stack on top of it. <City of Brass>'s ability will resolve first.
+2004/10/04: On the other hand, you can tap <City of Brass>, put its triggered ability on the stack, and then respond to that ability by casting an instant or activating an ability using that mana. In that case, the instant spell or activated ability will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs112b</No>
+<Name>Orcish Settlers</Name>
+<Type>Creature — Orc 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.</CardText>
+<Flavor>They wouldn't know their house from a charred hole in the ground.</Flavor>
+<Artist>Pete Venters</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs118</No>
+<Name>Spike Feeder</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>Spike Feeder enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</CardText>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs123</No>
+<Name>Uktabi Orangutan</Name>
+<Type>Creature — Ape 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Uktabi Orangutan enters the battlefield, destroy target artifact.</CardText>
+<Flavor>"Is it true that the apes wear furs of gold when they marry?"
+—Rana, Suq'Ata market fool</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs125</No>
+<Name>Wall of Blossoms</Name>
+<Type>Creature — Plant Wall 0/4</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Defender
+When Wall of Blossoms enters the battlefield, draw a card.</CardText>
+<Flavor>Each flower identical, every leaf and petal disturbingly exact.</Flavor>
+<Artist>Heather Hudson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs128</No>
+<Name>Spike Weaver</Name>
+<Type>Creature — Spike 0/0</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Spike Weaver enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</CardText>
+<Artist>Mike Raabe</Artist>
+<Rulings>2004/10/04: The second ability includes your own creatures as well.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs129</No>
+<Name>Survival of the Fittest</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</CardText>
+<Artist>Pete Venters</Artist>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs130sb</No>
+<Name>Dread of Night</Name>
+<Type>Enchantment</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>White creatures get -1/-1.</CardText>
+<Flavor>"These moonless, foreign skies keep me in thrall. Dark whispers echo in the night, and I cannot resist."
+—Selenia, dark angel</Flavor>
+<Artist>Richard Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs143</No>
+<Name>Volrath's Stronghold</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {C}.
+{1}{B}, {T}: Put target creature card from your graveyard on top of your library.</CardText>
+<Flavor>The seed of a world's evil.</Flavor>
+<Artist>Kev Walker</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs146</No>
+<Name>Spirit of the Night</Name>
+<Type>Legendary Creature — Demon Spirit 6/5</Type>
+<ManaCost>6BBB (9)</ManaCost>
+<CardText>Flying, trample, haste, protection from black
+Spirit of the Night has first strike as long as it's attacking.</CardText>
+<Artist>Cliff Nielsen</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs155sb</No>
+<Name>Phyrexian Furnace</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{T}: Exile the bottom card of target player's graveyard.
+{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.</CardText>
+<Artist>George Pratt</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs164</No>
+<Name>Gemstone Mine</Name>
+<Type>Land</Type>
+<CardText>Gemstone Mine enters the battlefield with three mining counters on it.
+{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.</CardText>
+<Artist>Brom</Artist>
+<Rulings>2004/10/04: Sacrificing this card when the last counter is removed is part of the effect of tapping it for mana.
+2006/09/25: If the last mining counter is removed from <Gemstone Mine> in some way other than activating its ability (such as Chisei, Heart of Oceans), <Gemstone Mine> won't be sacrificed but its ability can't be activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs165sb</No>
+<Name>Boil</Name>
+<Type>Instant</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Destroy all Islands.</CardText>
+<Flavor>"The fishers will throw out their nets and draw them back filled with dust."
+—Oracle en-Vec</Flavor>
+<Artist>Jason Alexander Behnke</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb166</No>
+<Name>Quicksand</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.</CardText>
+<Artist>Roger Raupp</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs167</No>
+<Name>Undiscovered Paradise</Name>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.</CardText>
+<Flavor>Jolrael's choice of homes was far better than her choice of allies.</Flavor>
+<Artist>David O'Connor</Artist>
+<Rulings>2004/10/04: It will return even if some effect prevents you from untapping it. The ability is not replacing the untapping of the land in any way.
+2004/10/04: Only returns to owner's hand if it is still on the battlefield at the beginning of its controller's next untap.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br169sb</No>
+<Name>Dwarven Miner</Name>
+<Type>Creature — Dwarf 1/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>{2}{R}, {T}: Destroy target nonbasic land.</CardText>
+<Flavor>"Fetch the pestridder, Paka—we've got dwarves in the rutabagas!"
+—Jamul, Femeref farmer</Flavor>
+<Artist>Jock</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br174sb</No>
+<Name>Final Fortune</Name>
+<Type>Instant</Type>
+<ManaCost>RR (2)</ManaCost>
+<CardText>Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.</CardText>
+<Flavor>Want all, lose all.
+—Zhalfirin aphorism</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: If you end up skipping the extra turn that is gained, you do not lose the game.
+2004/10/04: If multiple "extra turn" effects resolve in the same turn, take them in the reverse of the order that the effects resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br181</No>
+<Name>Hammer of Bogardan</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Hammer of Bogardan deals 3 damage to any target.
+{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.</CardText>
+<Artist>Ron Spencer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br183</No>
+<Name>Jackal Pup</Name>
+<Type>Creature — Jackal 2/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</CardText>
+<Flavor>The first morning after acquiring her familiar, the wizard awoke with fleabites and mange.</Flavor>
+<Artist>Susan Van Camp</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br184</No>
+<Name>Incinerate</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.</CardText>
+<Flavor>"Never taunt an embermage, 'What are you going to do about it?'"
+—Akin, seasoned askari</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Rulings>2007/07/15: Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than <Incinerate> would deal lethal damage to it or otherwise destroy it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br190</No>
+<Name>Mogg Fanatic</Name>
+<Type>Creature — Goblin 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Sacrifice Mogg Fanatic: It deals 1 damage to any target.</CardText>
+<Flavor>"I got it! I got it! I—"</Flavor>
+<Artist>Brom</Artist>
+<Rulings>2016/06/08: Once <Mogg Fanatic> has dealt and been dealt combat damage, it's too late to activate its ability before it's destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br210</No>
+<Name>Ball Lightning</Name>
+<Type>Creature — Elemental 6/1</Type>
+<ManaCost>RRR (3)</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Rulings>2007/02/01: The creature is sacrificed at the end of every turn in which it is on the battlefield. There is no choice about what turn to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br213sb</No>
+<Name>Pyroblast</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Choose one —
+• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.</CardText>
+<Flavor>"Just the thing for those pesky water mages."
+—Jaya Ballard, Task Mage</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.
+2016/06/08: <Pyroblast> can target any spell or permanent, not just a blue one. It checks the color of the target only on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs213sb</No>
+<Name>Pyroblast</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Choose one —
+• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.</CardText>
+<Flavor>"Just the thing for those pesky water mages."
+—Jaya Ballard, Task Mage</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.
+2016/06/08: <Pyroblast> can target any spell or permanent, not just a blue one. It checks the color of the target only on resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs221sb</No>
+<Name>Hall of Gemstone</Name>
+<Type>World Enchantment</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.</CardText>
+<Artist>David A. Cherry</Artist>
+<Rulings>2004/10/04: Although the color may be altered, any restrictions on the use of the mana are not removed.
+2004/10/04: Will not affect lands that do not produce mana.
+2008/10/01: This has the supertype world. When a world permanent enters the battlefield, any world permanents that were already on the battlefield are put into their owners' graveyards. This is a state-based action called the "world rule." The new world permanent stays on the battlefield. If two world permanents enter the battlefield at the same time, they're both put into their owners' graveyards.
+2016/08/23: Colorless mana added to a player's mana pool isn't affected.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br245</No>
+<Name>Ironclaw Orcs</Name>
+<Type>Creature — Orc 2/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Ironclaw Orcs can't block creatures with power 2 or greater.</CardText>
+<Flavor>Generations of genetic weeding have given rise to the deviously cowardly Ironclaw clan.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs253</No>
+<Name>Wall of Roots</Name>
+<Type>Creature — Plant Wall 0/5</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Defender
+Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.</CardText>
+<Flavor>Sometimes the wise ones wove their magic into living plants; as the plant grew, so grew the magic.</Flavor>
+<Artist>John Matson</Artist>
+<Rulings>2017/11/17: If you must sacrifice a creature to pay a casting or activation cost that also includes mana, such as that of Bubbling Cauldron's abilities, you may put a -0/-1 counter on <Wall of Roots> to make its toughness 0 and then sacrifice it to pay that cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs263</No>
+<Name>Verdant Force</Name>
+<Type>Creature — Elemental 7/7</Type>
+<ManaCost>5GGG (8)</ManaCost>
+<CardText>At the beginning of each upkeep, create a 1/1 green Saproling creature token.</CardText>
+<Flavor>Burl, scurf, and bower Birth fern and flower.</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Rulings>2006/05/01: In Two-Headed Giant, triggers only once per upkeep, not once for each player.
+2018/04/27: <Verdant Force>'s ability triggers at the beginning of each upkeep, not just each of your upkeeps.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs267</No>
+<Name>Lobotomy</Name>
+<Type>Sorcery</Type>
+<ManaCost>2UB (4)</ManaCost>
+<CardText>Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Rulings>2004/10/04: You only get to pick one card from the player's hand.
+2004/10/04: If the player has no cards in their hand, you still get to look through their deck, but you do not get to exile any cards.
+2004/10/04: It exiles the chosen card plus all others in the hand, library, and graveyard. Some people thought the chosen card was not exiled due to some vague wording.
+2004/10/04: Does not affect cards on the battlefield.
+2005/02/01: The copies must be found if they are in publicly viewable zones. Finding copies while searching private zones is optional.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br278sb</No>
+<Name>Bottle Gnomes</Name>
+<Type>Artifact Creature — Gnome 1/3</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Sacrifice Bottle Gnomes: You gain 3 life.</CardText>
+<Flavor>"I am reminded of the fable of the silver egg. Its owner cracks it open to see what jewels it holds, only to discover a simple yellow yolk."
+—Karn, silver golem</Flavor>
+<Artist>Kaja Foglio</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs280</No>
+<Name>Birds of Paradise</Name>
+<Type>Creature — Bird 0/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Flying
+{T}: Add one mana of any color.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh281sb</No>
+<Name>Cursed Scroll</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2008/08/01: If you have no cards in hand, you still have to name a card. Then you fail to reveal one (since there aren't any). Since the named card wasn't revealed, no damage is dealt.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br281</No>
+<Name>Cursed Scroll</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2008/08/01: If you have no cards in hand, you still have to name a card. Then you fail to reveal one (since there aren't any). Since the named card wasn't revealed, no damage is dealt.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb290sb</No>
+<Name>Grindstone</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{3}, {T}: Target player puts the top two cards of their library into their graveyard. If both cards share a color, repeat this process.</CardText>
+<Flavor>"Memory is a burden that wears at the soul as weather wears at stone."
+—Crovax</Flavor>
+<Artist>Greg Simanson</Artist>
+<Rulings>2004/10/04: If the two cards are both colorless, then the effect does not repeat. It only repeats if both cards have at least one color and at least one color is shared between them.
+2004/10/04: The effect repeats as many times as it takes to meet the end condition.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs308</No>
+<Name>Scroll Rack</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2004/10/04: If there are not enough cards in the library, you do not lose. This is not a draw effect. You just get as many cards as are there, even if there are zero cards in the library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs322</No>
+<Name>Reflecting Pool</Name>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any type that a land you control could produce.</CardText>
+<Flavor>"The reflection of land interests me far more than its reality."
+—Volrath</Flavor>
+<Artist>Adam Rex</Artist>
+<Rulings>2004/10/04: Any replacement effects are considered by <Reflecting Pool> when determining the types of mana a land can produce.
+2004/10/04: Any change to a land's type or splicing of text into a land can affect the types of mana a land can produce.
+2008/05/01: The types of mana are white, blue, black, red, green, and colorless.
+2008/05/01: <Reflecting Pool> checks the effects of all mana-producing abilities of lands you control, but it doesn't check their costs. For example, Vivid Crag says "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If you control Vivid Crag and <Reflecting Pool>, you can tap <Reflecting Pool> for any color of mana. It doesn't matter whether Vivid Crag has a charge counter on it, and it doesn't matter whether it's untapped.
+2008/05/01: <Reflecting Pool> doesn't care about any restrictions or riders your lands put on the mana they produce, such as Pillar of the Paruns and Hall of the Bandit Lord do. It just cares about types of mana.
+2008/05/01: Multiple <Reflecting Pool>s won't help each other produce mana. If you control a <Reflecting Pool>, and all other lands you control either lack mana abilities or are other <Reflecting Pool>s, you may still activate <Reflecting Pool>'s ability — it just won't produce any mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb327</No>
+<Name>Stalking Stones</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)</CardText>
+<Artist>Stephen Daniele</Artist>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br330</No>
+<Name>Wasteland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.</CardText>
+<Flavor>"The land promises nothing and keeps its promise."
+—Oracle en-Vec</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb330sb</No>
+<Name>Wasteland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.</CardText>
+<Flavor>"The land promises nothing and keeps its promise."
+—Oracle en-Vec</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh331</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh332</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh333</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bh334</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb335</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb336</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rrb337</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb338</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs340</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Brom</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br343</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br344</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br345</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>br346</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs347</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs348</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs349</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs350</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs356sb</No>
+<Name>Karplusan Forest</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.</CardText>
+<Artist>Nicola Leonard</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>bs362</No>
+<Name>Underground River</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {U} or {B}. Underground River deals 1 damage to you.</CardText>
+<Artist>NéNé Thomas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC98</SetId>
+<No>rb391</No>
+<Name>Nevinyrral's Disk</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Nevinyrral's Disk enters the battlefield tapped.
+{1}, {T}: Destroy all artifacts, creatures, and enchantments.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2016/06/08: You don't sacrifice <Nevinyrral's Disk> to activate its ability. It's destroyed as part of the ability's resolution if it's still on the battlefield. If an effect gives <Nevinyrral's Disk> indestructible or regenerates it, it stays on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 1998</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

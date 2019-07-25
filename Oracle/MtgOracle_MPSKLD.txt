@@ -148,7 +148,7 @@ Equip {1}</CardText>
 <Flavor>It exemplifies the motto of the Luminary League: "Innovation requires insatiable curiosity and a good source of light."</Flavor>
 <Artist>Yeong-Hao Han</Artist>
 <Multiverseid>420595</Multiverseid>
-<Rulings>2012/10/01: Lands you control won't lose any other abilities they had. They also won't gain or lose any land types.</Rulings>
+<Rulings>2018/10/05: Lands you control won't lose any other abilities they had. They also won't gain or lose any land types.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -202,9 +202,8 @@ Equip {1}</CardText>
 <Flavor>By isolating liquid aether at room temperature, foundry hand Jitya Reyath has given us a glimpse of raw aetheric matter—the very stuff of the cosmos.</Flavor>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>420598</Multiverseid>
-<Rulings>2004/12/01: <Crucible of Worlds> allows you to play land cards from your graveyard as well as from your hand.
-2004/12/01: <Crucible of Worlds> doesn't change the times when you can play those land cards. You can still play only one land per turn, and only during your main phase when you have priority and the stack is empty.
-2004/12/01: <Crucible of Worlds> doesn't allow you to activate activated abilities (such as cycling) of land cards in your graveyard.</Rulings>
+<Rulings>2018/07/13: <Crucible of Worlds> doesn't change the times when you can play those land cards. You can still play only one land per turn, and only during your main phase when you have priority and the stack is empty.
+2018/07/13: <Crucible of Worlds> doesn't allow you to activate abilities (such as cycling) of land cards in your graveyard.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -294,7 +293,7 @@ Equip {0}</CardText>
 <CardText>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
 {T}: Add {C}{C}.</CardText>
 <Flavor>An utterly silent chamber, submitted by an artificer who wished to remain anonymous.</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>420603</Multiverseid>
 <Rulings>2016/06/08: No player may choose to take actions between determining the result of the flip and damage being dealt if you lost the flip.</Rulings>
 <Vintage>Restricted</Vintage>
@@ -443,7 +442,7 @@ All cards that aren't on the battlefield, spells, and permanents are the chosen 
 <ManaCost>1 (1)</ManaCost>
 <CardText>{T}: Add {C}{C}.</CardText>
 <Flavor>It took the reclusive Venya Sangmi a lifetime to realize her childhood vision: a band of sunlight made solid.</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>420611</Multiverseid>
 <Vintage>Restricted</Vintage>
 <Legacy>Banned</Legacy>
@@ -531,7 +530,7 @@ Equip {2}</CardText>
 <CardText>Equipped creature gets +2/+2 and has protection from red and from blue.
 Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card.
 Equip {2}</CardText>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>420616</Multiverseid>
 <Rulings>2013/06/07: The triggered ability has one target: the permanent or player to be dealt 2 damage. If that permanent or player is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card.</Rulings>
 <Vintage>Legal</Vintage>
@@ -569,7 +568,7 @@ Equip {2}</CardText>
 <CardText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
 Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Flavor>"Top-performing automaton combatants are to be seized and modified for service."
-—Confiscation directive</Flavor>
+— Confiscation directive</Flavor>
 <Artist>Daarken</Artist>
 <Multiverseid>425802</Multiverseid>
 <Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
@@ -627,7 +626,7 @@ Whenever a player casts a spell with converted mana cost equal to the number of 
 <ManaCost>2 (2)</ManaCost>
 <CardText>Each spell costs {3} more to cast except during its controller's turn.</CardText>
 <Flavor>"Woven together, strands of aether can form a mesh of surprising stability, though such a network tends to pull power from nearby devices."
-—Consulate engineer's log</Flavor>
+— Consulate engineer's log</Flavor>
 <Artist>Jonas De Ro</Artist>
 <Multiverseid>425805</Multiverseid>
 <Rulings>2004/10/04: The additional cost can be reduced by effects that reduce costs, such as Sapphire Medallion.
@@ -671,7 +670,10 @@ As long as a card exiled with Duplicant is a creature card, Duplicant has the po
 {2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.</CardText>
 <Artist>James Paick</Artist>
 <Multiverseid>425807</Multiverseid>
-<Rulings>2004/12/01: If <Engineered Explosives> had no charge counters on it when you sacrificed it, it won't destroy an animated land, because that permanent is a land in addition to being a creature.</Rulings>
+<Rulings>2004/12/01: If <Engineered Explosives> had no charge counters on it when you sacrificed it, it won't destroy an animated land, because that permanent is a land in addition to being a creature.
+2018/12/07: You can choose any value for X as you cast <Engineered Explosives>. The value chosen for X doesn't directly affect the number of charge counters <Engineered Explosives> enters the battlefield with, but it does let you pay more mana and thus spend more colors of mana to cast it.
+2018/12/07: Colorless mana won't give <Engineered Explosives> another charge counter. Colorless is not a color.
+2018/12/07: A token has a converted mana cost of 0 unless it is copying something else.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -687,7 +689,7 @@ As long as a card exiled with Duplicant is a creature card, Duplicant has the po
 <ManaCost>3 (3)</ManaCost>
 <CardText>Creatures with power greater than the number of cards in your hand can't attack.</CardText>
 <Flavor>"With a few minor adjustments, we were able to convert sky-dock assisters into a defense system for the Aether Spire."
-—Consulate engineer's log</Flavor>
+— Consulate engineer's log</Flavor>
 <Artist>Florian de Gesincourt</Artist>
 <Multiverseid>425808</Multiverseid>
 <Rulings>2018/03/16: <Ensnaring Bridge>'s effect checks the number of cards in your hand only while a player (including you) is declaring attackers. Once a creature has legally attacked, changing its power or the number of cards in your hand won't remove it from combat.</Rulings>
@@ -723,7 +725,7 @@ Whenever a land with the same name as the exiled card is tapped for mana, its co
 <ManaCost>1 (1)</ManaCost>
 <CardText>{3}, {T}: Target player puts the top two cards of their library into their graveyard. If both cards share a color, repeat this process.</CardText>
 <Flavor>"All attempts to halt the machine failed. We must find a way to repurpose it."
-—Consulate engineer's log</Flavor>
+— Consulate engineer's log</Flavor>
 <Artist>Johann Bodin</Artist>
 <Multiverseid>425810</Multiverseid>
 <Rulings>2004/10/04: If the two cards are both colorless, then the effect does not repeat. It only repeats if both cards have at least one color and at least one color is shared between them.
@@ -742,7 +744,7 @@ Whenever a land with the same name as the exiled card is tapped for mana, its co
 <ManaCost>1 (1)</ManaCost>
 <CardText>Creatures with power 3 or greater don't untap during their controllers' untap steps.</CardText>
 <Flavor>"When it oscillated above a particular frequency, the stone induced acute listlessness in several researchers."
-—Consulate engineer's log</Flavor>
+— Consulate engineer's log</Flavor>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>425811</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -776,7 +778,7 @@ Whenever a land with the same name as the exiled card is tapped for mana, its co
 <ManaCost>0 (0)</ManaCost>
 <CardText>Flying</CardText>
 <Flavor>"Consider all confiscated items hostile until proven otherwise."
-—Confiscation directive</Flavor>
+— Confiscation directive</Flavor>
 <Artist>Howard Lyon</Artist>
 <Multiverseid>425813</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -794,7 +796,7 @@ Whenever a land with the same name as the exiled card is tapped for mana, its co
 <ManaCost>5 (5)</ManaCost>
 <CardText>Whenever you cast a spell, untap all nonland permanents you control.</CardText>
 <Flavor>"This device was submitted to the Fair anonymously. It is imperative that its maker be found. We must understand it."
-—Confiscation directive</Flavor>
+— Confiscation directive</Flavor>
 <Artist>Vincent Proce</Artist>
 <Multiverseid>425814</Multiverseid>
 <Rulings>2017/02/09: <Paradox Engine>'s triggered ability resolves before the spell that caused it to trigger. The ability will resolve even if that spell is countered.</Rulings>
@@ -835,7 +837,7 @@ Activated abilities of sources with the chosen name can't be activated unless th
 <ManaCost>6 (6)</ManaCost>
 <CardText>{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.</CardText>
 <Flavor>"Rashmi's design was just the beginning. We are most eager to see what the High Consul has planned for it."
-—Consulate engineer's log</Flavor>
+— Consulate engineer's log</Flavor>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>425816</Multiverseid>
 <Rulings>2017/02/09: A permanent card is an artifact, creature, enchantment, land, or planeswalker card.</Rulings>
@@ -855,7 +857,7 @@ Activated abilities of sources with the chosen name can't be activated unless th
 <CardText>Flying
 You can't lose the game and your opponents can't win the game.</CardText>
 <Flavor>"Adi Thandray's angel is a Priority One confiscation from the Fair. Once you see it, you'll understand why."
-—Confiscation directive</Flavor>
+— Confiscation directive</Flavor>
 <Artist>Victor Adame Minguez</Artist>
 <Multiverseid>425817</Multiverseid>
 <Rulings>2004/12/01: Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by <Platinum Angel>. They'll still work.
@@ -877,8 +879,8 @@ You can't lose the game and your opponents can't win the game.</CardText>
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Spells cost {1} more to cast.</CardText>
-<Flavor>"At the outset, we weren't aware of Chief Baral's motives for the project. It's now apparent that he intends to use the device to hamper the 'mages' among the ranks of the renegades."
-—Consulate engineer's log</Flavor>
+<Flavor>"At the outset, we weren't aware of Chief Baral's motives for the project. It's now apparant that he intends to use the device to hamper the 'mages' among the ranks of the renegades."
+— Consulate engineer's log</Flavor>
 <Artist>Richard Wright</Artist>
 <Multiverseid>425818</Multiverseid>
 <Rulings>2004/10/04: It affects all players, including you.</Rulings>
@@ -916,7 +918,7 @@ You can't lose the game and your opponents can't win the game.</CardText>
 <ManaCost>8 (8)</ManaCost>
 <CardText>When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.</CardText>
 <Flavor>"Truth be told, my team had hoped never to see the day it was deployed."
-—Consulate engineer's log</Flavor>
+— Consulate engineer's log</Flavor>
 <Artist>Lius Lasahido</Artist>
 <Multiverseid>425820</Multiverseid>
 <Rulings>2018/03/16: <Sundering Titan>'s ability isn't targeted. When it resolves, <Sundering Titan>'s controller must choose one land for each basic land type (Plains, Island, Swamp, Mountain, and Forest), and then they are destroyed simultaneously.
@@ -975,7 +977,7 @@ Equip {2}</CardText>
 <Type>Artifact</Type>
 <ManaCost>3 (3)</ManaCost>
 <CardText>As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)</CardText>
-<Flavor>"This exhibition of Nehra's Threshold Principle must be expropriated and examined for its potential applications in enforcement."
+<Flavor>"This exhibition of Nehra's Threshold Principle must be expropiated and examined for its potential applications in enforcement."
 —Confiscation directive</Flavor>
 <Artist>Daniel Ljunggren</Artist>
 <Multiverseid>425823</Multiverseid>

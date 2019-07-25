@@ -1,0 +1,208 @@
+<Card>
+<SetId>PTHS</SetId>
+<No>3</No>
+<Name>Celestial Archon</Name>
+<Type>Enchantment Creature — Archon 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Flying, first strike
+Enchanted creature gets +4/+4 and has flying and first strike.</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2018/07/13: Bestow is an alternative cost to cast the spell with bestow. It can't be combined with other alternative costs, such as casting a spell "without paying its mana cost."
+2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost (such as a bestow cost) you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/07/13: A spell with bestow is either a creature spell or an Aura spell. It's never both. Similarly, a permanent with bestow is either a creature or an Aura, but not both.
+2018/07/13: Unlike other Aura spells, an Aura spell with bestow still resolves if its target is illegal. Instead of entering the battlefield as an Aura, the effect making it an Aura spell ends, it loses enchant creature, and it resolves and enters the battlefield as an enchantment creature.
+2018/07/13: Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if the enchanted creature leaves the battlefield or becomes an illegal creature for the Aura to enchant. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
+2018/07/13: If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura.
+2018/07/13: Auras attached to a creature don't become tapped when the creature becomes tapped. Except in some rare cases, an Aura with bestow remains untapped when it becomes unattached and becomes a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>26</No>
+<Name>Phalanx Leader</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2013/09/15: Heroic abilities will resolve before the spell that caused them to trigger.
+2013/09/15: Heroic abilities will trigger only once per spell, even if that spell targets the creature with the heroic ability multiple times.
+2013/09/15: Heroic abilities won't trigger when a copy of a spell is created on the stack or when a spell's targets are changed to include a creature with a heroic ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>42</No>
+<Name>Bident of Thassa</Name>
+<Type>Legendary Enchantment Artifact</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Whenever a creature you control deals combat damage to a player, you may draw a card.
+{1}{U}, {T}: Creatures your opponents control attack this turn if able.</CardText>
+<Flavor>The wills of mortals shift as the tide ebbs and flows.</Flavor>
+<Artist>Ryan Yee</Artist>
+<Rulings>2018/03/16: The controller of each attacking creature still chooses which player or planeswalker that creature attacks.
+2018/03/16: If a creature can't attack for any reason (such as being tapped or having come under that player's control that turn), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>63</No>
+<Name>Shipbreaker Kraken</Name>
+<Type>Creature — Kraken 6/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>{6}{U}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2013/09/15: If you lose control of <Shipbreaker Kraken> between when its last ability triggers and when that ability resolves, the target creatures will become tapped. However, they won't be affected by the other effect and will untap as normal during their controllers' untap steps.
+2013/09/15: If another player gains control of <Shipbreaker Kraken>, the creatures will no longer be affected by the effect preventing them from untapping, even if you later regain control of <Shipbreaker Kraken>.
+2013/09/15: If you gain control of a creature that's being prevented from untapping, that creature won't untap during your untap step for as long as you control <Shipbreaker Kraken>.
+2013/09/15: The ability can target a tapped creature. If a targeted creature is already tapped when it resolves, that creature just remains tapped and doesn't untap during its controller's untap step.
+2013/09/15: Once a creature becomes monstrous, it can't become monstrous again. If the creature is already monstrous when the monstrosity ability resolves, nothing happens.
+2013/09/15: Monstrous isn't an ability that a creature has. It's just something true about that creature. If the creature stops being a creature or loses its abilities, it will continue to be monstrous.
+2013/09/15: An ability that triggers when a creature becomes monstrous won't trigger if that creature isn't on the battlefield when its monstrosity ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>75</No>
+<Name>Abhorrent Overlord</Name>
+<Type>Creature — Demon 6/6</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Flying
+When Abhorrent Overlord enters the battlefield, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+At the beginning of your upkeep, sacrifice a creature.</CardText>
+<Artist>Dave Kendall</Artist>
+<Rulings>2013/09/15: Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don't count toward your devotion to any color.
+2013/09/15: Mana symbols in the text boxes of permanents you control don't count toward your devotion to any color.
+2013/09/15: Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s).
+2013/09/15: If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it's still on the battlefield at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>98</No>
+<Name>Nighthowler</Name>
+<Type>Enchantment Creature — Horror 0/0</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.</CardText>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2013/09/15: <Nighthowler>'s last ability functions only from the battlefield. In other zones, <Nighthowler> is a 0/0 enchantment creature.
+2013/09/15: You don't choose whether the spell is going to be an Aura spell or not until the spell is already on the stack. Abilities that affect when you can cast a spell, such as flash, will apply to the spell after you've made this choice. For example, an effect that said you can cast creature spells as though they have flash won't allow you to cast a creature card with bestow as an Aura spell anytime you could cast an instant, but one that said you can cast Aura spells as though they have flash will.
+2013/09/15: On the stack, a spell with bestow is either a creature spell or an Aura spell. It's never both, although it's an enchantment spell in either case.
+2013/09/15: Unlike other Aura spells, an Aura spell with bestow isn't countered if its target is illegal as it begins to resolve. Rather, the effect making it an Aura spell ends, it loses enchant creature, it returns to being an enchantment creature spell, and it resolves and enters the battlefield as an enchantment creature.
+2013/09/15: Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if it becomes unattached. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its {T} abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
+2013/09/15: If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura.
+2013/09/15: Auras attached to a creature don't become tapped when the creature becomes tapped. Except in some rare cases, an Aura with bestow remains untapped when it becomes unattached and becomes a creature.
+2013/09/15: An Aura that becomes a creature is no longer put into its owner's graveyard as a state-based action. Rather, it becomes unattached and remains on the battlefield as long as it's a creature. While it's a creature, it can't be attached to another permanent or player. An Aura that's not attached to a legal permanent or player as defined by its enchant ability and also isn't a creature will be put into its owner's graveyard as a state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>120</No>
+<Name>Ember Swallower</Name>
+<Type>Creature — Elemental 4/5</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Ember Swallower becomes monstrous, each player sacrifices three lands.</CardText>
+<Artist>Vincent Proce</Artist>
+<Rulings>2013/09/15: When the last ability resolves, the active player will choose three lands they control, then each other player in turn order will do the same. Then all of those lands are sacrificed at the same time.
+2013/09/15: Once a creature becomes monstrous, it can't become monstrous again. If the creature is already monstrous when the monstrosity ability resolves, nothing happens.
+2013/09/15: Monstrous isn't an ability that a creature has. It's just something true about that creature. If the creature stops being a creature or loses its abilities, it will continue to be monstrous.
+2013/09/15: An ability that triggers when a creature becomes monstrous won't trigger if that creature isn't on the battlefield when its monstrosity ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>149</No>
+<Name>Anthousa, Setessan Hero</Name>
+<Type>Legendary Creature — Human Warrior 4/5</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.</CardText>
+<Flavor>The warriors she leads can rarely keep pace with her, and neither can the tales.</Flavor>
+<Artist>Howard Lyon</Artist>
+<Rulings>2013/09/15: If a land that hasn't been under your control continuously since your last turn began becomes a creature, it can't attack and its activated abilities that include {T} can't be activated. Notably, it can't be tapped for mana that turn.
+2013/09/15: Heroic abilities will resolve before the spell that caused them to trigger.
+2013/09/15: Heroic abilities will trigger only once per spell, even if that spell targets the creature with the heroic ability multiple times.
+2013/09/15: Heroic abilities won't trigger when a copy of a spell is created on the stack or when a spell's targets are changed to include a creature with a heroic ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>160</No>
+<Name>Karametra's Acolyte</Name>
+<Type>Creature — Human Druid 1/4</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>{T}: Add an amount of {G} equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</CardText>
+<Flavor>"The wilds are a garden tended by divine hands."</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2013/09/15: The activated ability is a mana ability. It doesn't use the stack and can't be responded to.
+2013/09/15: Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don't count toward your devotion to any color.
+2013/09/15: Mana symbols in the text boxes of permanents you control don't count toward your devotion to any color.
+2013/09/15: Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s).
+2013/09/15: If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it's still on the battlefield at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PTHS</SetId>
+<No>*180</No>
+<Name>Sylvan Caryatid</Name>
+<Type>Creature — Plant 0/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Defender, hexproof
+{T}: Add one mana of any color.</CardText>
+<Flavor>Those who enter the copse never leave. They find peace there and take root, becoming part of the ever-growing grove.</Flavor>
+<Artist>Lars Grant-West</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Theros Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

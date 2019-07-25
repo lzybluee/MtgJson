@@ -219,10 +219,7 @@ Players can't play lands as long as ten or more lands are on the battlefield.</C
 <Type>Enchantment</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>{W}, Discard a card: You gain 3 life.</CardText>
-<Flavor>Three are the paths of the soul:
-One out—roam across the plain,
-One back—dwell with tribe and tent,
-One in—turn an enemy's hate.</Flavor>
+<Flavor>Three are the paths of the soul: One out—roam across the plain, One back—dwell with tribe and tent, One in—turn an enemy's hate.</Flavor>
 <Artist>Randy Elliott</Artist>
 <Multiverseid>6039</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -483,8 +480,7 @@ Return X target creatures to their owners' hands.</CardText>
 <CardText>Enchant creature
 Enchanted creature gets +3/+3.
 When enchanted creature attacks or blocks, sacrifice Cunning at the beginning of the next cleanup step.</CardText>
-<Flavor>". . . Dry-walkers die
-We feed on sweet flesh . . . ."
+<Flavor>". . . Dry-walkers die We feed on sweet flesh . . . ."
 —Rootwater Saga</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>6062</Multiverseid>
@@ -704,8 +700,7 @@ Counter target spell.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>2UUUU (6)</ManaCost>
 <CardText>Discard a card: You may tap or untap target artifact, creature, or land.</CardText>
-<Flavor>Lyna turned to the figure beside her. "They're gone. What now?"
-"As ever," said Urza, "we wait."</Flavor>
+<Flavor>Lyna turned to the figure beside her. "They're gone. What now?" "As ever," said Urza, "we wait."</Flavor>
 <Artist>Keith Parkinson</Artist>
 <Multiverseid>6076</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
@@ -777,9 +772,7 @@ Enchanted creature has shroud. (It can't be the target of spells or abilities.)<
 <Type>Creature — Merfolk Wizard 1/1</Type>
 <ManaCost>U (1)</ManaCost>
 <CardText>{1}{U}: Look at the top card of target player's library.</CardText>
-<Flavor>"Read the roots    tell the tale
-Future forms    in waving weeds
-Higher than truth   is hope."
+<Flavor>"Read the roots tell the tale Future forms in waving weeds Higher than truth is hope."
 —Rootwater Saga</Flavor>
 <Artist>Michael Sutfin</Artist>
 <Multiverseid>6055</Multiverseid>
@@ -897,7 +890,7 @@ Discard a card: Return Thalakos Scout to its owner's hand.</CardText>
 <ManaCost>2UU (4)</ManaCost>
 <CardText>Flying
 {U}: Put Wayward Soul on top of its owner's library.</CardText>
-<Flavor>"no home    no heart    no hope"
+<Flavor>"no home no heart no hope"
 —Stronghold graffito</Flavor>
 <Artist>DiTerlizzi</Artist>
 <Multiverseid>5273</Multiverseid>
@@ -1320,7 +1313,6 @@ Destroy target nonblack creature. It can't be regenerated.</CardText>
 When Spike Cannibal enters the battlefield, move all +1/+1 counters from all creatures onto it.</CardText>
 <Artist>Joel Biske</Artist>
 <Multiverseid>6092</Multiverseid>
-<Rulings>2004/10/04: It will move its own +1/+1 counter onto itself, but it does not die during this move since it never is without a counter at a time when State-Based Actions are checked.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Exodus</Set>
@@ -1760,6 +1752,7 @@ At the beginning of the upkeep of enchanted creature's controller, that player r
 <Flavor>The flowstone seemed for a moment to assume Greven's rage—it lunged like a wild beast at the Weatherlight.</Flavor>
 <Artist>Dermot Power</Artist>
 <Multiverseid>6130</Multiverseid>
+<Rulings>2018/12/07: If an effect instructs you to draw cards and then discard cards, you can't take actions in between. For example, if you have no cards in hand and cast Faithless Looting, you can't activate <Seismic Assault>'s ability between the time you draw two cards and discard those two cards.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2272,8 +2265,7 @@ Skyshroud War Beast's power and toughness are each equal to the number of nonbas
 <Type>Artifact</Type>
 <ManaCost>5 (5)</ManaCost>
 <CardText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</CardText>
-<Flavor>"Hup, two, three, four,
-Dunno how to count no more."
+<Flavor>"Hup, two, three, four, Dunno how to count no more."
 —Mogg march</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>6162</Multiverseid>

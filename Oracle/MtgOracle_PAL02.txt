@@ -1,0 +1,85 @@
+<Card>
+<SetId>PAL02</SetId>
+<No>1</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2002</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL02</SetId>
+<No>2</No>
+<Name>Man-o'-War</Name>
+<Type>Creature — Jellyfish 2/2</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</CardText>
+<Flavor>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philospher</Flavor>
+<Artist>Jon J Muth</Artist>
+<Rulings>2016/06/08: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League 2002</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL02</SetId>
+<No>3</No>
+<Name>Arc Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.</CardText>
+<Flavor>"It is vain to look for a defense against lightning."
+—Publius Syrus, Maxim 835, trans. Lyman</Flavor>
+<Artist>Andrew Goldhawk</Artist>
+<Rulings>2014/09/20: You choose how many targets <Arc Lightning> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2014/09/20: If some of the creatures are illegal targets as <Arc Lightning> tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, <Arc Lightning> doesn't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2002</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL02</SetId>
+<No>4</No>
+<Name>Dauthi Slayer</Name>
+<Type>Creature — Dauthi Soldier 2/2</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Slayer attacks each combat if able.</CardText>
+<Flavor>"A wisp of life remains in the undergloom of Death; a visible form, though no heart beats within it."
+—Homer, The Iliad, trans. Fitzgerald</Flavor>
+<Artist>Dermot Power</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2002</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL02</SetId>
+<No>5</No>
+<Name>Mana Leak</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {3}.</CardText>
+<Flavor>"If a man will begin with certainties, he shall end in doubts."
+—Sir Francis Bacon, The Advancement of Learning</Flavor>
+<Artist>Christopher Rush</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2002</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

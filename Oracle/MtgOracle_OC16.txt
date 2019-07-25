@@ -1,0 +1,101 @@
+<Card>
+<SetId>OC16</SetId>
+<No>28</No>
+<Name>Atraxa, Praetors' Voice</Name>
+<Type>Legendary Creature — Angel Horror 4/4</Type>
+<ManaCost>GWUB (4)</ManaCost>
+<CardText>Flying, vigilance, deathtouch, lifelink
+At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2016/11/08: As you proliferate, you can choose any players that have counters, including yourself.
+2016/11/08: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them, such as suspended cards or a Lightning Storm on the stack.
+2016/11/08: You don't have to choose every permanent or player that has a counter; you choose only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2016/11/08: If a player or permanent chosen this way has multiple kinds of counters, only a single new counter is given. You choose which kind of counter to give that permanent or player as you proliferate.
+2016/11/08: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2016/11/08: If a creature has +1/+1 counters and -1/-1 counters on it, state-based actions remove the same number of each so that it has only one of those kinds of counters on it. There won't be any counters of the other kind to put onto it as you proliferate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2016 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC16</SetId>
+<No>29</No>
+<Name>Breya, Etherium Shaper</Name>
+<Type>Legendary Artifact Creature — Human 4/4</Type>
+<ManaCost>WUBR (4)</ManaCost>
+<CardText>When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue Thopter artifact creature tokens with flying.
+{2}, Sacrifice two artifacts: Choose one —
+• Breya deals 3 damage to target player or planeswalker.
+• Target creature gets -4/-4 until end of turn.
+• You gain 5 life.</CardText>
+<Artist>Clint Cearley</Artist>
+<Rulings>2016/11/08: You choose which mode you're using as you activate the ability.
+2016/11/08: You can sacrifice any two artifacts you control to pay the cost of Breya's ability, including Breya itself.
+2017/04/17: <Breya, Etherium Shaper> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2016 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC16</SetId>
+<No>36</No>
+<Name>Kynaios and Tiro of Meletis</Name>
+<Type>Legendary Creature — Human Soldier 2/8</Type>
+<ManaCost>RGWU (4)</ManaCost>
+<CardText>At the beginning of your end step, draw a card. Each player may put a land card from their hand onto the battlefield, then each opponent who didn't draws a card.</CardText>
+<Flavor>"Look what we fought for. Look what we built together."</Flavor>
+<Artist>Willian Murai</Artist>
+<Rulings>2016/11/08: Starting with you and proceeding in turn order, each player chooses a land card from their hand or chooses not to choose one, but doesn't reveal any chosen lands yet. Once all players have made this choice, all chosen lands are revealed and enter the battlefield simultaneously.
+2016/11/08: If the card you draw is a land card, you may choose it to put onto the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2016 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC16</SetId>
+<No>41</No>
+<Name>Saskia the Unyielding</Name>
+<Type>Legendary Creature — Human Soldier 3/4</Type>
+<ManaCost>BRGW (4)</ManaCost>
+<CardText>Vigilance, haste
+As Saskia the Unyielding enters the battlefield, choose a player.
+Whenever a creature you control deals combat damage to a player, it deals that much damage to the chosen player.</CardText>
+<Artist>Greg Opalinski</Artist>
+<Rulings>2016/11/08: If a creature you control deals combat damage to the chosen player, it deals that much damage to that player again.
+2016/11/08: The damage that Saskia's ability causes a creature to deal isn't combat damage.
+2016/11/08: Once the chosen player has left the game, Saskia's triggered ability will have no effect.
+2016/11/08: If Saskia leaves the battlefield and returns, you choose a player again. It doesn't remember the previously chosen player.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2016 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC16</SetId>
+<No>50</No>
+<Name>Yidris, Maelstrom Wielder</Name>
+<Type>Legendary Creature — Ogre Wizard 5/4</Type>
+<ManaCost>UBRG (4)</ManaCost>
+<CardText>Trample
+Whenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast spells from your hand this turn, they gain cascade. (When you cast the spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)</CardText>
+<Artist>Karl Kopinski</Artist>
+<Rulings>2016/11/08: Spells you cast from your hand this turn will gain cascade even if Yidris leaves the battlefield.
+2016/11/08: If Yidris's triggered ability resolves more than once in one turn, spells you cast from your hand will gain cascade that many times. Each instance of cascade triggers separately; resolve one cascade trigger and the spell you cast from it before resolving the next cascade trigger.
+2016/11/08: The cascade ability triggers when you cast the spell, meaning that it resolves before that spell. If you cast the card exiled by the cascade ability, that spell will go on the stack above the spell with cascade.
+2016/11/08: When the cascade ability resolves, you must exile cards. The only optional part of the ability is whether or not you cast the last card exiled.
+2016/11/08: If a spell with cascade is countered, the cascade ability will still resolve normally.
+2016/11/08: You exile the cards face up. All players will be able to see them.
+2016/11/08: You don't have to cast the last card exiled by a cascade ability. If you choose to do so, you're casting it as a spell. It can be countered. Since it's cast from exile, Ydris's ability won't give the new spell cascade.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2016 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

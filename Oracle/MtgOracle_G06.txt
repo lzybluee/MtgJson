@@ -1,0 +1,81 @@
+<Card>
+<SetId>G06</SetId>
+<No>1</No>
+<Name>Exalted Angel</Name>
+<Type>Creature — Angel 4/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+Whenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</CardText>
+<Flavor>"She is a theme of honor and reknown, ...Whose present courage may beat down our foes."
+—William Shakespeare, Troilus and Cressida</Flavor>
+<Artist>Rob Alexander</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2004/10/04: You only gain the life when the triggered ability resolves. If you are reduced to zero life before the ability resolves, you will lose before gaining the life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G06</SetId>
+<No>2</No>
+<Name>Grim Lavamancer</Name>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target.</CardText>
+<Flavor>"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper."</Flavor>
+<Artist>Michael Sutfin</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2011/09/22: The two cards are exiled as the cost of <Grim Lavamancer>'s ability is paid. Players can't respond to the paying of costs by trying to move those cards to another zone.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G06</SetId>
+<No>3</No>
+<Name>Meddling Mage</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>WU (2)</ManaCost>
+<CardText>As Meddling Mage enters the battlefield, choose a nonland card name.
+Spells with the chosen name can't be cast.</CardText>
+<Flavor>Meddling mages chant so loudly that no one can get a spell in edgewise.</Flavor>
+<Artist>Nottsuo</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2009/05/01: No one can cast spells or activate abilities between the time a card is named and the time that <Meddling Mage>'s ability starts to work.
+2009/05/01: Spells with the chosen name that somehow happen to already be on the stack when <Meddling Mage> enters the battlefield are not affected by <Meddling Mage>'s ability.
+2009/05/01: Although the named card can't be cast, it can still be put onto the battlefield by a spell or ability (if it's a permanent card).
+2009/05/01: You can name either half of a split card, but not both. If you do so, that half (and both halves, if the split card has fuse) can't be cast. The other half is unaffected.
+2009/05/01: If a card with morph is named, that card may still be cast face down. Face-down cards have no names.
+2009/05/01: Once <Meddling Mage> leaves the battlefield, the named card can be cast again.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G06</SetId>
+<No>4</No>
+<Name>Pernicious Deed</Name>
+<Type>Enchantment</Type>
+<ManaCost>1BG (3)</ManaCost>
+<CardText>{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.</CardText>
+<Flavor>"The tyrannous and bloody deed is done, The most arch deed of piteous massacre That ever yet this land was guilty of."
+—William Shakespeare, Richard III</Flavor>
+<Artist>Ittoku</Artist>
+<Watermark>Dci</Watermark>
+<Rulings>2018/03/16: If a permanent has {X} in its mana cost, X is considered to be 0.
+2018/03/16: A token has a converted mana cost of 0 unless it is copying something else.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2006</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,123 @@
+<Card>
+<SetId>PAL03</SetId>
+<No>1</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>2</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>3</No>
+<Name>Swamp</Name>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>4</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>5</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2003</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>6</No>
+<Name>Skirk Marauder</Name>
+<Type>Creature — Goblin 2/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Skirk Marauder is turned face up, it deals 2 damage to any target.</CardText>
+<Artist>Pete Venters</Artist>
+<Rulings>2004/10/04: The trigger occurs when you use the Morph ability to turn the card face up, or when an effect turns it face up. It will not trigger on being revealed or on leaving the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>7</No>
+<Name>Elvish Aberration</Name>
+<Type>Creature — Elf Mutant 4/5</Type>
+<ManaCost>5G (6)</ManaCost>
+<CardText>{T}: Add {G}{G}{G}.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand, then shuffle your library.)</CardText>
+<Artist>Matt Cavotta</Artist>
+<Watermark>Arena</Watermark>
+<Rulings>2009/02/01: Unlike the normal cycling ability, Forestcycling doesn't allow you to draw a card. Instead, it lets you search your library for a Forest card. After you find a Forest card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Forestcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Forestcycling this card. Any ability that stops a cycling ability from being activated also stops Forestcycling from being activated.
+2009/02/01: Forestcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Forestcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose to find any card with the Forest land type, including nonbasic lands. You can also choose not to find a card, even if there is a Forest card in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Arena League 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PAL03</SetId>
+<No>8</No>
+<Name>Bonesplitter</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Equipped creature gets +2/+0.
+Equip {1}</CardText>
+<Artist>Darrell Riche</Artist>
+<Watermark>Arena</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Arena League 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

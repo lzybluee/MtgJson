@@ -1,0 +1,50 @@
+<Card>
+<SetId>G03</SetId>
+<No>1</No>
+<Name>Intuition</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.</CardText>
+<Artist>April Lee</Artist>
+<Rulings>2006/07/15: Targets an opponent. You choose an opponent during announcement. If you can't target an opponent, you can't cast this card.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G03</SetId>
+<No>2</No>
+<Name>Argothian Enchantress</Name>
+<Type>Creature — Human Druid 0/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)
+Whenever you cast an enchantment spell, draw a card.</CardText>
+<Artist>Daren Bader</Artist>
+<Rulings>2016/06/08: <Argothian Enchantress>'s last ability will resolve before the spell that caused it to trigger.
+2016/06/08: If the enchantment spell is countered, <Argothian Enchantress>'s last ability still resolves and causes you to draw a card.
+2016/06/08: Enchantments put onto the battlefield without being cast won't cause <Argothian Enchantress>'s last ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>G03</SetId>
+<No>3</No>
+<Name>Living Death</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.</CardText>
+<Artist>Charles Gillespie</Artist>
+<Rulings>2018/03/16: As <Living Death> resolves, all players exile their creature cards from graveyards at the same time. Then all players sacrifice all creatures they control at the same time. Then all players put all creatures they exiled onto the battlefield at the same time.
+2018/03/16: Only cards exiled by <Living Death>'s first instruction are put onto the battlefield. If a replacement effect (such as that of Leyline of the Void) causes any of the sacrificed creatures to be exiled instead of put into a graveyard, those cards aren't returned to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2003</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

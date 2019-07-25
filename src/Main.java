@@ -16,6 +16,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class Main {
+	
+    static boolean REORDER = false;
 
     static String[][] SETS = { { "Dominaria", "DOM" }, { "Rivals of Ixalan", "RIX" }, { "Ixalan", "XLN" },
             { "Hour of Devastation", "HOU" }, { "Amonkhet", "AKH" }, { "Aether Revolt", "AER" }, { "Kaladesh", "KLD" },
@@ -441,7 +443,7 @@ public class Main {
     }
 
     static Vector<JSONObject> getReordered(JSONArray array, String code, String special) {
-        File file = new File("D:\\Java_Project\\Jni\\Oracle\\MtgOracle_"
+        File file = new File("D:\\Develop\\workspace\\JniLua\\Oracle\\MtgOracle_"
                 + (special == null ? code : special) + ".txt");
         if (!file.exists()) {
             return null;
@@ -507,8 +509,6 @@ public class Main {
         }
         return ret;
     }
-
-    static boolean REORDER = true;
 
     static void printSet(JSONObject set) {
         out = new StringBuffer();
@@ -581,15 +581,7 @@ public class Main {
 
             for (int i = 0; i < size; i++) {
                 JSONObject card = cards.getJSONObject(i);
-                if (special != null) {
-                    if (!card.has("layout")
-                            || !(card.getString("layout").equals("plane") || card.getString("layout").equals("scheme")
-                                    || card.getString("layout").equals("phenomenon"))) {
-                        continue;
-                    }
-                } else if (card.has("layout") && (card.getString("layout").equals("token")
-                        || card.getString("layout").equals("plane") || card.getString("layout").equals("scheme")
-                        || card.getString("layout").equals("phenomenon"))) {
+                if (card.has("layout") && card.getString("layout").equals("token")) {
                     continue;
                 }
 
@@ -603,7 +595,7 @@ public class Main {
                     num = "999";
                 }
                 
-                if(num.contains("★")) {
+                if(num.contains("★") && !(card.has("layout") && card.getString("layout").equals("scheme"))) {
                 	continue;
                 }
                 
@@ -651,9 +643,9 @@ public class Main {
                 		chinese = true;
                 	}
                 }
-                if(!chinese) {
-                	System.out.println(flavor[0] + "!!!!!!!!!!!!!");
-                }
+                //if(!chinese) {
+                //	System.out.println(flavor[0] + "!!!!!!!!!!!!!");
+                //}
                 //System.out.println();
                 flavor_map.put(card, flavor);
             }
@@ -680,7 +672,7 @@ public class Main {
             for (String s : vector) {
                 for (JSONObject card : map.get(s)) {
                     printCard(card, code, name, special != null, 0);
-
+                    out.append("\n");
                     /*String[] flavor = flavor_map.get(card);
                     System.out.println(flavor[0]);
                     System.out.println(flavor[1]);
@@ -755,9 +747,9 @@ public class Main {
 
     public static void main(String[] args) {
     	for(File file : new File("Json").listFiles()) {
-    		/*if(!file.getName().contains("ME1")) {
+    		if(!file.getName().contains("OE01")) {
     			continue;
-    		}*/
+    		}
     		String json = getJson(file);
             JSONObject set = new JSONObject(json);
             printSet(set);

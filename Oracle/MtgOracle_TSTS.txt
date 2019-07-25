@@ -185,7 +185,7 @@ Whenever a creature is put into your graveyard from the battlefield, return it t
 <Type>Creature — Human Soldier 1/1</Type>
 <ManaCost>W (1)</ManaCost>
 <CardText>Icatian Javelineers enters the battlefield with a javelin counter on it.
-{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to any target.</CardText>
+{T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target.</CardText>
 <Artist>Scott Kirschner</Artist>
 <Multiverseid>107283</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -272,11 +272,8 @@ Shadow (This creature can block or be blocked by only creatures with shadow.)</C
 <Name>Squire</Name>
 <Type>Creature — Human Soldier 1/2</Type>
 <ManaCost>1W (2)</ManaCost>
-<Flavor>"Of twenty yeer of age he was, I gesse.
-Of his stature he was of evene lengthe.
-And wonderly delyvere, and of greete strengthe."
-—Geoffrey Chaucer,
-The Canterbury Tales</Flavor>
+<Flavor>"Of twenty yeer of age he was, I gesse. Of his stature he was of evene lengthe. And wonderly delyvere, and of greete strengthe."
+—Geoffrey Chaucer, The Canterbury Tales</Flavor>
 <Artist>Dennis Detwiller</Artist>
 <Multiverseid>108908</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -443,7 +440,7 @@ Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as a
 <Name>Lord of Atlantis</Name>
 <Type>Creature — Merfolk 2/2</Type>
 <ManaCost>UU (2)</ManaCost>
-<CardText>Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)</CardText>
+<CardText>Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)</CardText>
 <Flavor>A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>106642</Multiverseid>
@@ -746,8 +743,7 @@ Creatures you control are the chosen type. The same is true for creature spells 
 <ManaCost>B (1)</ManaCost>
 <CardText>Prevent all combat damage that would be dealt this turn.</CardText>
 <Flavor>"If I must die, I will encounter darkness as a bride, / And hug it in mine arms."
-—William Shakespeare,
-Measure for Measure</Flavor>
+—William Shakespeare, Measure for Measure</Flavor>
 <Artist>Harold McNeill</Artist>
 <Multiverseid>108919</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1156,7 +1152,7 @@ Storm (When you cast this spell, copy it for each spell cast before it this turn
 <ManaCost>1RR (3)</ManaCost>
 <CardText>Fiery Temper deals 3 damage to any target.
 Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>108880</Multiverseid>
 <Rulings>2016/04/08: Cards are discarded in a Magic game only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded.
 2016/04/08: A spell cast for its madness cost is put onto the stack like any other spell. It can be countered, copied, and so on. As it resolves, it's put onto the battlefield if it's a permanent card or into its owner's graveyard if it's an instant or sorcery card.
@@ -1335,9 +1331,7 @@ Flanking (Whenever a creature without flanking blocks this creature, the blockin
 <Type>Creature — Troll 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>{R}: Regenerate Uthden Troll.</CardText>
-<Flavor>"Oi oi oi, me gotta hurt in 'ere,
-Oi oi oi, me smell a ting is near,
-Gonna bosh 'n gonna nosh 'n da hurt'll disappear."
+<Flavor>"Oi oi oi, me gotta hurt in 'ere, Oi oi oi, me smell a ting is near, Gonna bosh 'n gonna nosh 'n da hurt'll disappear."
 —Troll chant</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>108806</Multiverseid>
@@ -1889,8 +1883,7 @@ Whenever a player casts a black spell, you gain 1 life.</CardText>
 <Type>Creature — Sliver 2/2</Type>
 <ManaCost>RG (2)</ManaCost>
 <CardText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</CardText>
-<Flavor>"Slivers are evil and slivers are sly;
-And if you get eaten, then no one will cry."
+<Flavor>"Slivers are evil and slivers are sly; And if you get eaten, then no one will cry."
 —Mogg children's rhyme</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>109679</Multiverseid>
@@ -1949,8 +1942,7 @@ Creatures of the chosen color without flying can't attack you.</CardText>
 <Type>Legendary Creature — Human Warrior 3/3</Type>
 <ManaCost>2BG (4)</ManaCost>
 <CardText>{T}: Until end of turn, target creature has base power 1 or base toughness 1.</CardText>
-<Flavor>"Sir, I just thought . . . ," explained Vhati.
-"Don't think," interrupted Greven. "It doesn't suit you."</Flavor>
+<Flavor>"Sir, I just thought . . . ," explained Vhati. "Don't think," interrupted Greven. "It doesn't suit you."</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>109759</Multiverseid>
 <Rulings>2006/09/25: You don't choose whether to affect the targeted creature's power or its toughness until the ability resolves.
@@ -2022,7 +2014,7 @@ Creatures of the chosen color without flying can't attack you.</CardText>
 <ManaCost>0 (0)</ManaCost>
 <CardText>{1}, Sacrifice a permanent: You gain 1 life.</CardText>
 <Flavor>When the Brotherhood of Gix dug out the cave of Koilos they found their master's severed hand. They enshrined it, hoping that one day it would point the way to Phyrexia.</Flavor>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>109690</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2260,8 +2252,7 @@ At the beginning of your upkeep, if there are no arrowhead counters on Serrated 
 <CardText>{T}: Add {G}.
 {T}: Target 1/1 creature gets +1/+2 until end of turn.</CardText>
 <Flavor>"This is the forest primeval. The murmuring pines and the hemlocks . . . Stand like Druids of eld."
-—Henry Wadsworth Longfellow,
-"Evangeline"</Flavor>
+—Henry Wadsworth Longfellow, "Evangeline"</Flavor>
 <Artist>Bryon Wackwitz</Artist>
 <Multiverseid>109755</Multiverseid>
 <Rulings>2004/10/04: The current power/toughness being 1/1 is a targeting requirement so it is checked when announcing and again right before resolving.</Rulings>

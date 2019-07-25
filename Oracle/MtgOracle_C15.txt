@@ -210,7 +210,7 @@ Whenever Broodbirth Viper deals combat damage to a player, you may draw a card.<
 <Name>Gigantoplasm</Name>
 <Type>Creature — Shapeshifter 0/0</Type>
 <ManaCost>3U (4)</ManaCost>
-<CardText>You may have Gigantoplasm enter the battlefield as a copy of any creature on the battlefield, except it gains "{X}: This creature has base power and toughness X/X."</CardText>
+<CardText>You may have Gigantoplasm enter the battlefield as a copy of any creature on the battlefield, except it has "{X}: This creature has base power and toughness X/X."</CardText>
 <Flavor>"I appreciate things that exceed expectations."—Mizzix</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>405241</Multiverseid>
@@ -503,7 +503,7 @@ As Thief of Blood enters the battlefield, remove all counters from all permanent
 <Type>Creature — Dragon 4/4</Type>
 <ManaCost>5RR (7)</ManaCost>
 <CardText>Flying
-Whenever Dream Pillager deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast nonland cards exiled this way.</CardText>
+Whenever Dream Pillager deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast nonland cards from among those exiled cards.</CardText>
 <Flavor>Its wings shimmer with dreams absorbed from its enemies.</Flavor>
 <Artist>Min Yum</Artist>
 <Multiverseid>405207</Multiverseid>
@@ -928,7 +928,7 @@ Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have.</Car
 <CardText>Whenever you gain life, put two +1/+1 counters on Karlov of the Ghost Council.
 {W}{B}, Remove six +1/+1 counters from Karlov of the Ghost Council: Exile target creature.</CardText>
 <Flavor>"Does Teysa think me blind to her scheming? Ambition runs in our family."</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>405276</Multiverseid>
 <Rulings>2015/11/04: The ability triggers just once for each life-gaining event, whether it's 1 life from an attacking creature with lifelink or 4 life from Faith's Fetters.
 2015/11/04: A creature with lifelink dealing combat damage is a single life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, the ability will trigger twice. However, if a single creature with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
@@ -1133,7 +1133,8 @@ Each spell you cast costs {1} less to cast for each of the chosen colors it is.<
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.</CardText>
-<Flavor>"I gazed once into that light. Now it burns in my mind, forever denying me rest."—Riku of Two Reflections</Flavor>
+<Flavor>"I gazed once into that light. Now it burns in my mind, forever denying me rest."
+—Riku of Two Reflections</Flavor>
 <Artist>Jonas De Ro</Artist>
 <Multiverseid>405180</Multiverseid>
 <Rulings>2015/11/04: If you cast a commander from your hand, the additional cost based on the number of times you've cast it from your command zone (sometimes referred to as the "commander tax") doesn't apply. Additionally, that casting won't add to the tax if you later cast the commander from the command zone.
@@ -1297,13 +1298,13 @@ Flying, first strike
 Enchanted creature gets +4/+4 and has flying and first strike.</CardText>
 <Artist>Matt Stewart</Artist>
 <Multiverseid>405168</Multiverseid>
-<Rulings>2013/09/15: You don't choose whether the spell is going to be an Aura spell or not until the spell is already on the stack. Abilities that affect when you can cast a spell, such as flash, will apply to the spell after you've made this choice. For example, an effect that said you can cast creature spells as though they have flash won't allow you to cast a creature card with bestow as an Aura spell anytime you could cast an instant, but one that said you can cast Aura spells as though they have flash will.
-2013/09/15: On the stack, a spell with bestow is either a creature spell or an Aura spell. It's never both, although it's an enchantment spell in either case.
-2013/09/15: Unlike other Aura spells, an Aura spell with bestow isn't countered if its target is illegal as it begins to resolve. Rather, the effect making it an Aura spell ends, it loses enchant creature, it returns to being an enchantment creature spell, and it resolves and enters the battlefield as an enchantment creature.
-2013/09/15: Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if it becomes unattached. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its {T} abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
-2013/09/15: If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura.
-2013/09/15: Auras attached to a creature don't become tapped when the creature becomes tapped. Except in some rare cases, an Aura with bestow remains untapped when it becomes unattached and becomes a creature.
-2013/09/15: An Aura that becomes a creature is no longer put into its owner's graveyard as a state-based action. Rather, it becomes unattached and remains on the battlefield as long as it's a creature. While it's a creature, it can't be attached to another permanent or player. An Aura that's not attached to a legal permanent or player as defined by its enchant ability and also isn't a creature will be put into its owner's graveyard as a state-based action.</Rulings>
+<Rulings>2018/07/13: Bestow is an alternative cost to cast the spell with bestow. It can't be combined with other alternative costs, such as casting a spell "without paying its mana cost."
+2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost (such as a bestow cost) you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/07/13: A spell with bestow is either a creature spell or an Aura spell. It's never both. Similarly, a permanent with bestow is either a creature or an Aura, but not both.
+2018/07/13: Unlike other Aura spells, an Aura spell with bestow still resolves if its target is illegal. Instead of entering the battlefield as an Aura, the effect making it an Aura spell ends, it loses enchant creature, and it resolves and enters the battlefield as an enchantment creature.
+2018/07/13: Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if the enchanted creature leaves the battlefield or becomes an illegal creature for the Aura to enchant. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
+2018/07/13: If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura.
+2018/07/13: Auras attached to a creature don't become tapped when the creature becomes tapped. Except in some rare cases, an Aura with bestow remains untapped when it becomes unattached and becomes a creature.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1393,11 +1394,12 @@ Creatures you control get +2/+2.</CardText>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Enchant permanent
 When Faith's Fetters enters the battlefield, you gain 4 life.
-Enchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.</CardText>
+Enchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities.</CardText>
 <Artist>Brian Despain</Artist>
 <Multiverseid>405224</Multiverseid>
-<Rulings>2016/06/08: <Faith's Fetters> doesn't stop static abilities, triggered abilities, or mana abilities from working. A mana ability is an ability that produces mana, not an ability that costs mana.
-2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Rulings>2018/12/07: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords (such as equip) are activated abilities and will have colons in their reminder text.
+2018/12/07: <Faith's Fetters> doesn't stop static abilities, triggered abilities, or mana abilities from working. A mana ability is an ability that produces mana, not an ability that costs mana.
+2018/12/07: If the target permanent is an illegal target by the time <Faith's Fetters> tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so its enters-the-battlefield ability won't trigger.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1929,6 +1931,10 @@ When Mulldrifter enters the battlefield, draw two cards.
 Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</CardText>
 <Artist>Eric Fortune</Artist>
 <Multiverseid>405312</Multiverseid>
+<Rulings>2018/07/13: Evoke is an alternative cost to cast the spell with evoke. It can't be combined with other alternative costs, such as casting a spell "without paying its mana cost."
+2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost (such as an evoke cost) you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/07/13: If a creature with evoke enters the battlefield without being cast, you won't have to sacrifice it.
+2018/07/13: The ability that causes you to sacrifice an evoked creature is a triggered ability. Players may respond to this triggered ability while the creature is still on the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2050,7 +2056,8 @@ When Plaxmanta enters the battlefield, sacrifice it unless {G} was spent to cast
 <ManaCost>XU (1)</ManaCost>
 <CardText>Return target nonland permanent with converted mana cost X to its owner's hand.
 Draw a card.</CardText>
-<Flavor>"Your deed cannot be undone. You, however, can be."—Agosto, Azorius imperator</Flavor>
+<Flavor>"Your deed cannot be undone. You, however, can be."
+—Agosto, Azorius imperator</Flavor>
 <Artist>Anthony Palumbo</Artist>
 <Multiverseid>405357</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2087,11 +2094,11 @@ Create a token that's a copy of target creature. If this spell was kicked, creat
 <Type>Sorcery</Type>
 <ManaCost>2UU (4)</ManaCost>
 <CardText>Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.</CardText>
-<Flavor>"I give them dreams so wondrous that they hesitate to return to the world of the conscious."—Garild, merfolk mage</Flavor>
+<Flavor>"I give them dreams so wondrous that they hesitate to return to the world of the conscious."
+—Garild, merfolk mage</Flavor>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>405385</Multiverseid>
-<Rulings>2009/10/01: The second part of <Sleep>'s effect affects all creatures the targeted player controls as <Sleep> resolves, not just the ones that <Sleep> actually caused to become tapped.
-2009/10/01: <Sleep> tracks both the player and the creatures. If one of the creatures controlled by the targeted player as <Sleep> resolves changes controllers, the creature will untap as normal during its new controller's next untap step.</Rulings>
+<Rulings>2018/07/13: The second part of <Sleep>'s ability affects all creatures the targeted player controls as <Sleep> resolves, not only the ones that <Sleep> actually caused to become tapped.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2147,8 +2154,7 @@ Create a token that's a copy of target creature. If this spell was kicked, creat
 <Flavor>"The seas are vast, but the skies are even more so. Why be content with one kingdom when I can rule them both?"</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>405412</Multiverseid>
-<Rulings>2012/07/01: You'll put the Drake token onto the battlefield before the spell that caused the ability to trigger resolves. However, that Drake token isn't on the battlefield when you choose targets for that spell.
-2012/07/01: The ability will still resolve if the instant or sorcery spell gets countered.</Rulings>
+<Rulings>2018/12/07: Talrand's triggered ability resolves before the spell that caused it to trigger, but after targets have been chosen for that spell. It resolves even if that spell is countered.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2615,10 +2621,9 @@ Sacrifice a creature: Target creature gets -1/-1 until end of turn.</CardText>
 <Flavor>"Death is no excuse for disobedience."—Liliana Vess</Flavor>
 <Artist>Vance Kovacs</Artist>
 <Multiverseid>405359</Multiverseid>
-<Rulings>2009/10/01: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
-2009/10/01: If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless.
-2009/10/01: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave> effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes.
-2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2788,7 +2793,7 @@ Borderland Behemoth gets +4/+4 for each other Giant you control.</CardText>
 <ManaCost>1R (2)</ManaCost>
 <CardText>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Breath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>405159</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3547,6 +3552,7 @@ Create four 1/1 green Snake creature tokens.</CardText>
 <Flavor>She remembers every word spoken, from the hero's oath to the baby's cry.</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>405216</Multiverseid>
+<Rulings>2018/12/07: If an instant or sorcery spell puts <Eternal Witness> onto the battlefield, its ability can target that card in your graveyard.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3565,12 +3571,12 @@ Remove two +1/+1 counters from Experiment One: Regenerate Experiment One.</CardT
 <Artist>Chase Stone</Artist>
 <Multiverseid>405219</Multiverseid>
 <Rulings>2013/01/24: If removing two +1/+1 counters from <Experiment One> causes the amount of damage already marked on <Experiment One> to be equal to or greater than its toughness, it will be put into its owner's graveyard as a state-based action before the regeneration shield is created.
+2013/04/15: If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats.
 2013/04/15: When comparing the stats of the two creatures for evolve, you always compare power to power and toughness to toughness.
 2013/04/15: Whenever a creature enters the battlefield under your control, check its power and toughness against the power and toughness of the creature with evolve. If neither stat of the new creature is greater, evolve won't trigger at all.
-2013/04/15: If evolve triggers, the stat comparison will happen again when the ability tries to resolve. If neither stat of the new creature is greater, the ability will do nothing. If the creature that entered the battlefield leaves the battlefield before evolve tries to resolve, use its last known power and toughness to compare the stats.
+2013/04/15: When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve.
 2013/04/15: If a creature enters the battlefield with +1/+1 counters on it, consider those counters when determining if evolve will trigger. For example, a 1/1 creature that enters the battlefield with two +1/+1 counters on it will cause the evolve ability of a 2/2 creature to trigger.
-2013/04/15: If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing.
-2013/04/15: When comparing the stats as the evolve ability resolves, it's possible that the stat that's greater changes from power to toughness or vice versa. If this happens, the ability will still resolve and you'll put a +1/+1 counter on the creature with evolve. For example, if you control a 2/2 creature with evolve and a 1/3 creature enters the battlefield under your control, it toughness is greater so evolve will trigger. In response, the 1/3 creature gets +2/-2. When the evolve trigger tries to resolve, its power is greater. You'll put a +1/+1 counter on the creature with evolve.</Rulings>
+2013/04/15: If multiple creatures enter the battlefield at the same time, evolve may trigger multiple times, although the stat comparison will take place each time one of those abilities tries to resolve. For example, if you control a 2/2 creature with evolve and two 3/3 creatures enter the battlefield, evolve will trigger twice. The first ability will resolve and put a +1/+1 counter on the creature with evolve. When the second ability tries to resolve, neither the power nor the toughness of the new creature is greater than that of the creature with evolve, so that ability does nothing.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4242,9 +4248,8 @@ If a source would deal damage to you or a permanent you control, prevent half th
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>405244</Multiverseid>
 <Rulings>2017/03/14: Two <Goblin Electromancer>s will make instant and sorcery spells you cast cost {2} less to cast, and so on.
-2017/03/14: <Goblin Electromancer> can't reduce colored mana costs or {C} in the cost of instant or sorcery spells.
-2017/03/14: If there are additional costs to cast a spell, such as a kicker cost or a cost imposed by another effect (such as the one imposed by Thalia, Guardian of Thraben's ability), apply those increases before applying cost reductions.
-2017/03/14: <Goblin Electromancer> can reduce alternative costs such as overload costs and flashback costs.</Rulings>
+2018/10/05: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2018/10/05: <Goblin Electromancer>'s effect reduces only generic mana in the spell's total cost.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4895,9 +4900,9 @@ At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice E
 <Flavor>"What do you have that I cannot obtain?"—Mairsil, the Pretender</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>405229</Multiverseid>
-<Rulings>2004/10/04: It only produces one mana even if the land can produce more than one.
-2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
+<Rulings>2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
 2004/10/04: The ability can be activated if the opponent has no lands that produce mana, but the effect will not be able to generate any mana.
+2004/10/04: It only produces one mana even if the land can produce more than one.
 2009/10/01: The colors of mana are white, blue, black, red, and green. <Fellwar Stone> can't be tapped for colorless mana, even if a land an opponent controls could produce colorless mana.
 2009/10/01: <Fellwar Stone> checks the effects of all mana-producing abilities of lands your opponents control, but it doesn't check their costs. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If an opponent controls Vivid Crag and you control <Fellwar Stone>, you can tap <Fellwar Stone> for any color of mana. It doesn't matter whether Vivid Crag has a charge counter on it, and it doesn't matter whether it's untapped.
 2009/10/01: When determining what colors of mana your opponents' lands could produce, take into account any applicable replacement effects that would apply to those lands' mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
@@ -5277,7 +5282,7 @@ Creature spells of the chosen type cost {2} less to cast.</CardText>
 <CardText>Worn Powerstone enters the battlefield tapped.
 {T}: Add {C}{C}.</CardText>
 <Flavor>Even a fragment of a powerstone contains within it not just energy, but space—vast dimensions trapped in fragile crystal.</Flavor>
-<Artist>Henry G. Higgenbotham</Artist>
+<Artist>Henry G. Higginbotham</Artist>
 <Multiverseid>405456</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5363,8 +5368,6 @@ When Boros Garrison enters the battlefield, return a land you control to its own
 <Flavor>It promises protection to those in need and proclaims a warning to any who would threaten Ravnican law.</Flavor>
 <Artist>Noah Bradley</Artist>
 <Multiverseid>405156</Multiverseid>
-<Rulings>2013/04/15: The subtype Gate has no special rules significance, but other spells and abilities may refer to it.
-2013/04/15: Gate is not a basic land type.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5470,8 +5473,6 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</CardText>
 <Flavor>Enter those who are starving and sick. You are welcome among the Swarm when the rest of Ravnica rejects you.</Flavor>
 <Artist>Eytan Zana</Artist>
 <Multiverseid>405246</Multiverseid>
-<Rulings>2013/04/15: The subtype Gate has no special rules significance, but other spells and abilities may refer to it.
-2013/04/15: Gate is not a basic land type.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5558,8 +5559,6 @@ When Izzet Boilerworks enters the battlefield, return a land you control to its 
 <Flavor>Enter those with the vision to create and the daring to release their creations.</Flavor>
 <Artist>Noah Bradley</Artist>
 <Multiverseid>405268</Multiverseid>
-<Rulings>2013/04/15: The subtype Gate has no special rules significance, but other spells and abilities may refer to it.
-2013/04/15: Gate is not a basic land type.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5755,7 +5754,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <Flavor>Rumors quickly spread among thieves about a labyrinth without walls and a prize beyond all measures of worth.</Flavor>
 <Artist>Christine Choi</Artist>
 <Multiverseid>405362</Multiverseid>
-<Rulings>2012/10/01: Activating the second ability of <Rogue's Passage> after a creature has become blocked won't cause it to become unblocked.</Rulings>
+<Rulings>2018/12/07: Activating the second ability of <Rogue's Passage> after a creature has become blocked won't cause that creature to become unblocked.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5955,7 +5954,7 @@ When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 <No>314</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Flavor>Take two steps north into the unsettled future, south into the unquiet past, east into the present day, or west into the great unknown.</Flavor>
 <Artist>Dan Scott</Artist>
 <Multiverseid>405416</Multiverseid>

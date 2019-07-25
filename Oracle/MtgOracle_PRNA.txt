@@ -1,0 +1,962 @@
+<Card>
+<SetId>PRNA</SetId>
+<No>11s</No>
+<Name>Hero of Precinct One</Name>
+<Type>Creature — Human Warrior 2/2</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Whenever you cast a multicolored spell, create a 1/1 white Human creature token.</CardText>
+<Flavor>When the established order falters, what remains are ordinary people and their struggle to survive.</Flavor>
+<Artist>Bram Sels</Artist>
+<Rulings>2019/01/25: The triggered ability of <Hero of Precinct One> resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>15s</No>
+<Name>Lumbering Battlement</Name>
+<Type>Creature — Beast 4/5</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Vigilance
+When Lumbering Battlement enters the battlefield, exile any number of other nontoken creatures you control until it leaves the battlefield.
+Lumbering Battlement gets +2/+2 for each card exiled with it.</CardText>
+<Artist>Simon Dominic</Artist>
+<Rulings>2019/01/25: If <Lumbering Battlement> leaves the battlefield before its triggered ability resolves, you can't exile any nontoken creatures.
+2019/01/25: Auras attached to the exiled creatures will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on the exiled creatures will cease to exist. When the cards return to the battlefield, they will be new objects with no connection to the cards that were exiled.
+2019/01/25: If a card you chose to exile leaves exile or somehow never moved to the exile zone in the first place, <Lumbering Battlement> doesn't get +2/+2 for that card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>27s</No>
+<Name>Tithe Taker</Name>
+<Type>Creature — Human Soldier 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>During your turn, spells your opponents cast cost {1} more to cast and abilities your opponents activate cost {1} more to activate unless they're mana abilities.
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)</CardText>
+<Artist>Aaron Miller</Artist>
+<Watermark>Orzhov</Watermark>
+<Rulings>2019/01/25: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text. An activated mana ability is one that produces mana as it resolves, not one that costs mana to activate. Triggered abilities (starting with "when," "whenever," or "at") are unaffected by <Tithe Taker>.
+2019/01/25: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases (such as that of <Tithe Taker>'s effect), then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2019/01/25: An opponent's activated ability that costs no mana to activate will cost {1} plus its non-mana costs during your turn.
+2019/01/25: Because blockers are chosen all at once, you can't block with a creature with afterlife, wait for it to die, then block with the resulting Spirit tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>29s</No>
+<Name>Unbreakable Formation</Name>
+<Type>Instant</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Creatures you control gain indestructible until end of turn.
+Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.</CardText>
+<Artist>Matt Stewart</Artist>
+<Watermark>Azorius</Watermark>
+<Rulings>2019/01/25: <Unbreakable Formation> affects only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't gain indestructible or vigilance and they won't get a +1/+1 counter.
+2019/01/25: Addendum abilities of instant spells apply while the spell is resolving, not immediately after casting it. If the spell is countered, you don't get the addendum bonus. For example, if you cast Sphinx's Insight during your main phase, you gain 2 life during its resolution, after you draw two cards.
+2019/01/25: If a spell with an addendum ability is copied, the copy won't give you the addendum bonus. This is because the copy wasn't cast at all.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>32s</No>
+<Name>Benthic Biomancer</Name>
+<Type>Creature — Merfolk Wizard Mutant 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>{1}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.</CardText>
+<Flavor>"I am my life's work."</Flavor>
+<Artist>Daarken</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: An ability that triggers when counters are put on a permanent will trigger if that permanent somehow enters the battlefield with those counters.
+2019/01/25: You draw a card and discard a card all while <Benthic Biomancer>'s triggered ability is resolving. Nothing can happen between the two, and no player may choose to take actions.
+2019/01/25: You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it.
+2019/01/25: If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>45s</No>
+<Name>Precognitive Perception</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Draw three cards.
+Addendum — If you cast this spell during your main phase, instead scry 3, then draw three cards.</CardText>
+<Flavor>"To control the present we must master the future."</Flavor>
+<Artist>Chris Rallis</Artist>
+<Watermark>Azorius</Watermark>
+<Rulings>2019/01/25: Addendum abilities of instant spells apply while the spell is resolving, not immediately after casting it. If the spell is countered, you don't get the addendum bonus. For example, if you cast Sphinx's Insight during your main phase, you gain 2 life during its resolution, after you draw two cards.
+2019/01/25: If a spell with an addendum ability is copied, the copy won't give you the addendum bonus. This is because the copy wasn't cast at all.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>55s</No>
+<Name>Sphinx of Foresight</Name>
+<Type>Creature — Sphinx 4/4</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, scry 3 at the beginning of your first upkeep.
+Flying
+At the beginning of your upkeep, scry 1.</CardText>
+<Flavor>"I do not understand the future I see: the guilds subverted, the world at war, armies bent to a cruel conqueror's will."</Flavor>
+<Artist>Titus Lunter</Artist>
+<Rulings>2019/01/25: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans and "scryed" if applicable. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.
+2019/01/25: If you reveal two Sphinxes of Foresight from your opening hand, you'll scry 3 twice; you won't scry 6. Any cards you put on top of your library the first time you scry 3 will be part of the second time you scry 3.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>61s</No>
+<Name>Awaken the Erstwhile</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Each player discards all the cards in their hand, then creates that many 2/2 black Zombie creature tokens.</CardText>
+<Flavor>In preparation for the conflict all foresaw, the Golgari called upon an army that had slept for millennia beneath the city.</Flavor>
+<Artist>Jason A. Engle</Artist>
+<Rulings>2019/01/25: The number of Zombie tokens each player creates is equal to the number of cards that player discarded, not the total number of cards discarded.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>74s</No>
+<Name>Font of Agonies</Name>
+<Type>Enchantment</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Whenever you pay life, put that many blood counters on Font of Agonies.
+{1}{B}, Remove four blood counters from Font of Agonies: Destroy target creature.</CardText>
+<Flavor>"No worthwhile reward is easily gained."
+—Nicol Bolas</Flavor>
+<Artist>Jason A. Engle</Artist>
+<Rulings>2019/01/25: The first ability of <Font of Agonies> is a triggered ability, not an activated ability. It doesn't allow you to pay life whenever you want; rather, you need some other way of paying life, such as with Blood Crypt's ability.
+2019/01/25: An effect that causes you to pay life uses the word "pay." If an effect allows you to choose to lose life or to be dealt damage without using the word "pay," you're not paying life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>76s</No>
+<Name>Gutterbones</Name>
+<Type>Creature — Skeleton Warrior 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Gutterbones enters the battlefield tapped.
+{1}{B}: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.</CardText>
+<Flavor>"Down here, things don't stay dead."
+—Lavinia</Flavor>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2019/01/25: Damage dealt to a player causes that player to lose that much life.
+2019/01/25: In a multiplayer game, if an opponent loses life during your turn and then leaves the game, you can activate <Gutterbones>'s ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>83s</No>
+<Name>Priest of Forgotten Gods</Name>
+<Type>Creature — Human Cleric 1/2</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>{T}, Sacrifice two other creatures: Any number of target players each lose 2 life and sacrifice a creature. You add {B}{B} and draw a card.</CardText>
+<Flavor>The Orzhov are not the only religious tradition on Ravnica, nor the oldest.</Flavor>
+<Artist>Zack Stella</Artist>
+<Rulings>2019/01/25: You can activate the ability of <Priest of Forgotten Gods> without choosing any targets if you wish. You'll still add {B}{B} and draw a card.
+2019/01/25: You may target players who can't sacrifice a creature. Those players still lose 2 life.
+2019/01/25: Because it may have targets, the ability of <Priest of Forgotten Gods> isn't a mana ability. It uses the stack and can be responded to, even if no targets were chosen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>92s</No>
+<Name>Amplifire</Name>
+<Type>Creature — Elemental 1/1</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order.</CardText>
+<Artist>Dan Scott</Artist>
+<Rulings>2019/01/25: <Amplifire> will be a 1/1 creature from the time your untap step begins until the time its triggered ability resolves during your upkeep.
+2019/01/25: Any effects that modify <Amplifire>'s power and/or toughness without setting them to a specific number or value will apply after its base power and toughness are set, regardless of the order in which those effects were created. The same is true of counters that modify its power and toughness.
+2019/01/25: If you reveal your entire library and don't reveal a creature card, <Amplifire> becomes a 0/0 creature and you put your library back in a random order.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>106s</No>
+<Name>Immolation Shaman</Name>
+<Type>Creature — Viashino Shaman 1/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever an opponent activates an ability of an artifact, creature, or land that isn't a mana ability, Immolation Shaman deals 1 damage to that player.
+{3}{R}{R}: Immolation Shaman gets +3/+3 and gains menace until end of turn.</CardText>
+<Flavor>"Hello, kindling."</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2019/01/25: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text (such as equip does). An activated mana ability is one that produces mana as it resolves, not one that costs mana to activate.
+2019/01/25: <Immolation Shaman>'s first ability doesn't trigger when an opponent activates an ability of a card in hand (such as cycling) or a card in a graveyard (such as that of Bone Dragon), even if that causes a card to be put onto the battlefield.
+2019/01/25: <Immolation Shaman>'s first ability resolves before the ability that caused it to trigger.
+2019/01/25: Activating <Immolation Shaman>'s second ability after one creature has blocked it won't cause <Immolation Shaman> to become unblocked.
+2019/01/25: Multiple instances of menace on the same creature are redundant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>107</No>
+<Name>Light Up the Stage</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</CardText>
+<Flavor>"Places, everyone!"
+—Judith</Flavor>
+<Artist>Dmitry Burmak</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2019/01/25: <Light Up the Stage> doesn't change when you can play the exiled cards. For example, if you exile a sorcery card, you can cast it only during your main phase when the stack is empty. If you exile a land card, you can play it only during your main phase and only if you have an available land play remaining.
+2019/01/25: Casting an exiled card causes it to leave exile. You can't cast it multiple times.
+2019/01/25: If you don't play a card exiled this way, it remains in exile.
+2019/01/25: Damage dealt to a player causes that player to lose that much life.
+2019/01/25: Spectacle doesn't change when you can cast the card. For example, you can't cast a sorcery with spectacle during an opponent's turn unless another effect allows you to do so, even if that player has lost life this turn.
+2019/01/25: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying (such as a spectacle cost), add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2019/01/25: A card's spectacle cost is the same no matter how much life your opponents lost or how many opponents lost life.
+2019/01/25: In a multiplayer game, if an opponent loses life and later that turn leaves the game, you can cast a spell for its spectacle cost. (If a player leaves the game during their turn, that turn continues without an active player.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>108s</No>
+<Name>Mirror March</Name>
+<Type>Enchantment</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>Whenever a nontoken creature enters the battlefield under your control, flip a coin until you lose a flip. For each flip you won, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.</CardText>
+<Artist>Johannes Voss</Artist>
+<Rulings>2019/01/25: All of the tokens enter the battlefield at the same time.
+2019/01/25: Each token copies exactly what is printed on the creature and nothing else (unless that creature is copying something else; see below). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras and/or Equipment attached to it, or any non-copy effects that changed its power, toughness, types, color, and so on.
+2019/01/25: If the copied creature is copying something else, each token enters the battlefield as whatever that creature is copying.
+2019/01/25: If the copied creature has {X} in its mana cost, X is 0.
+2019/01/25: If the entering creature leaves the battlefield before <Mirror March>'s ability resolves, use that creature's last known existence on the battlefield to determine the token's characteristics.
+2019/01/25: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "As [this creature] enters the battlefield" or "[This creature] enters the battlefield with" abilities of the copied creature will also work.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>109s</No>
+<Name>Rix Maadi Reveler</Name>
+<Type>Creature — Human Shaman 2/2</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Spectacle {2}{B}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Rix Maadi Reveler enters the battlefield, discard a card, then draw a card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your hand, then draw three cards.</CardText>
+<Artist>Sara Winters</Artist>
+<Watermark>Rakdos</Watermark>
+<Rulings>2019/01/25: <Rix Maadi Reveler> is only red. It's not black, even if you cast it for its spectacle cost.
+2019/01/25: If you have no cards in hand, you won't discard any cards, and then you'll draw one or three cards as appropriate.
+2019/01/25: Damage dealt to a player causes that player to lose that much life.
+2019/01/25: Spectacle doesn't change when you can cast the card. For example, you can't cast a sorcery with spectacle during an opponent's turn unless another effect allows you to do so, even if that player has lost life this turn.
+2019/01/25: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying (such as a spectacle cost), add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2019/01/25: A card's spectacle cost is the same no matter how much life your opponents lost or how many opponents lost life.
+2019/01/25: In a multiplayer game, if an opponent loses life and later that turn leaves the game, you can cast a spell for its spectacle cost. (If a player leaves the game during their turn, that turn continues without an active player.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>124s</No>
+<Name>End-Raze Forerunners</Name>
+<Type>Creature — Boar 7/7</Type>
+<ManaCost>5GGG (8)</ManaCost>
+<CardText>Vigilance, trample, haste
+When End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn.</CardText>
+<Flavor>"Smash this city to pieces."
+—Domri Rade</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Rulings>2019/01/25: The triggered ability of <End-Raze Forerunners> affects only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't get +2/+2 or gain vigilance or trample.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>128s</No>
+<Name>Growth-Chamber Guardian</Name>
+<Type>Creature — Elf Crab Warrior 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Bram Sels</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: An ability that triggers when counters are put on a permanent will trigger if that permanent somehow enters the battlefield with those counters.
+2019/01/25: You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it.
+2019/01/25: If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>130s</No>
+<Name>Guardian Project</Name>
+<Type>Enchantment</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Whenever a nontoken creature enters the battlefield under your control, if it doesn't have the same name as another creature you control or a creature card in your graveyard, draw a card.</CardText>
+<Flavor>Simic's strength comes from its diversity.</Flavor>
+<Artist>Chris Rallis</Artist>
+<Rulings>2019/01/25: Whether the entering creature shares a name with a creature you control or a creature card in your graveyard is checked both as that creature enters and as <Guardian Project>'s ability resolves. If the entering creature isn't the first of its name as it enters, the ability doesn't trigger at all; if its name is shared as the ability resolves, you don't draw a card.
+2019/01/25: If the entering creature is put into your graveyard while <Guardian Project>'s ability is on the stack, that same card will be a creature card in your graveyard that shares a name with the creature that was on the battlefield, so you won't draw a card.
+2019/01/25: If the entering creature leaves the battlefield and returns while <Guardian Project>'s ability is on the stack, that same card will be a new creature you control that shares a name with the creature that was on the battlefield, so you won't draw a card. However, <Guardian Project>'s ability may trigger for the new creature and you may draw a card as that ability resolves.
+2019/01/25: A face-down creature has no name, so it can't share a name with anything. This includes other creatures with no name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>131s</No>
+<Name>Incubation Druid</Name>
+<Type>Creature — Elf Druid 0/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add one mana of any type that a land you control could produce. If Incubation Druid has a +1/+1 counter on it, add three mana of that type instead.
+{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: The types of mana are white, blue, black, red, green, and colorless.
+2019/01/25: Any change to a land's type or abilities gained by a land can affect the types of mana a land can produce.
+2019/01/25: <Incubation Druid> checks the effects of all mana-producing abilities of lands you control, but it doesn't check their costs or legality. For example, Spire of Industry says "{T}, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact." If you control Spire of Industry and <Incubation Druid>, you can tap <Incubation Druid> for any color of mana. It doesn't matter whether you control an artifact, whether you can pay 1 life, or whether Spire of Industry is untapped.
+2019/01/25: <Incubation Druid> doesn't care about any restrictions or riders your lands put on the mana they produce, such as those of Unclaimed Territory and Guildmages' Forum. It just produces one mana of the appropriate type, with no restrictions or riders.
+2019/01/25: You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it.
+2019/01/25: If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>134s</No>
+<Name>Rampage of the Clans</Name>
+<Type>Instant</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token.</CardText>
+<Flavor>"Rage! Rage until the whole world burns!"</Flavor>
+<Artist>Sidharth Chaturvedi</Artist>
+<Rulings>2019/01/25: All of the artifacts and enchantments that are destroyed leave the battlefield before any Centaurs are created, and their abilities can't affect or trigger on these tokens entering the battlefield.
+2019/01/25: If a permanent has indestructible, it isn't destroyed this way and its controller won't create a Centaur token for it. If it is destroyed but put into a zone other than a graveyard, its controller does create a Centaur token for it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>151s</No>
+<Name>Absorb</Name>
+<Type>Instant</Type>
+<ManaCost>WUU (3)</ManaCost>
+<CardText>Counter target spell. You gain 3 life.</CardText>
+<Flavor>"In your misguided attempt to subvert the law, you have eloquently explained why the law must exist."</Flavor>
+<Artist>Izzy</Artist>
+<Watermark>Azorius</Watermark>
+<Rulings>2019/01/25: A spell that can't be countered is a legal target for <Absorb>. The spell won't be countered when <Absorb> resolves, but you'll still gain 3 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>157s</No>
+<Name>Bedevil</Name>
+<Type>Instant</Type>
+<ManaCost>BBR (3)</ManaCost>
+<CardText>Destroy target artifact, creature, or planeswalker.</CardText>
+<Flavor>"It's easy to get taken in by the spectacle, to enjoy a bit of naughty amusement. But make no mistake: the Cult of Rakdos is a danger."
+—Tajic</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Rakdos</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>158s</No>
+<Name>Biomancer's Familiar</Name>
+<Type>Creature — Mutant 2/2</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+{T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text. Triggered abilities (starting with "when," "whenever," or "at") are unaffected by the cost reduction ability of <Biomancer's Familiar>.
+2019/01/25: <Biomancer's Familiar> affects only abilities of creatures you control on the battlefield. The costs of activated abilities of creature cards that work in other zones (such as cycling) won't be reduced.
+2019/01/25: An ability that has only one generic mana and some amount of other mana symbols in its activation cost will have its cost reduced by {1}.
+2019/01/25: The last ability of <Biomancer's Familiar> doesn't add or remove any counters. It just lets the creature adapt despite already having +1/+1 counters on it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>161s</No>
+<Name>Cindervines</Name>
+<Type>Enchantment</Type>
+<ManaCost>RG (2)</ManaCost>
+<CardText>Whenever an opponent casts a noncreature spell, Cindervines deals 1 damage to that player.
+{1}, Sacrifice Cindervines: Destroy target artifact or enchantment. Cindervines deals 2 damage to that permanent's controller.</CardText>
+<Artist>Mark Behm</Artist>
+<Watermark>Gruul</Watermark>
+<Rulings>2019/01/25: <Cindervines>'s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2019/01/25: If the target permanent is an illegal target by the time <Cindervines>'s activated ability tries to resolve, the ability doesn't resolve. No player is dealt damage. If the target is legal but not destroyed (most likely because it has indestructible), its controller is dealt damage.
+2019/01/25: <Cindervines> can be the target of its own activated ability. The ability won't resolve since it won't have a legal target, and no player will be dealt damage, but this does allow you to sacrifice <Cindervines> without another enchantment to target if you want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>165s</No>
+<Name>Deputy of Detention</Name>
+<Type>Creature — Vedalken Wizard 1/3</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield.</CardText>
+<Artist>G-host Lee</Artist>
+<Watermark>Azorius</Watermark>
+<Rulings>2019/01/25: This ability has only one target. The other permanents with that name aren't targeted. For example, a permanent with hexproof will be exiled if it has the same name as the target nonland permanent.
+2019/01/25: If the target nonland permanent is an illegal target by the time this ability tries to resolve, the ability doesn't resolve. Nothing is exiled.
+2019/01/25: If <Deputy of Detention> leaves the battlefield before its triggered ability resolves, nothing is exiled.
+2019/01/25: Auras attached to the exiled permanents will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on the exiled permanents will cease to exist.
+2019/01/25: If a token is exiled this way, it will cease to exist and won't return to the battlefield.
+2019/01/25: The name of a creature token is the same as the creature types specified as it was created, unless the token is a copy of another creature or the effect that created the token specifically gives it a different name.
+2019/01/25: A face-down creature has no name, so it can't share a name with anything. This includes other creatures with no name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>169s</No>
+<Name>Emergency Powers</Name>
+<Type>Instant</Type>
+<ManaCost>5WU (7)</ManaCost>
+<CardText>Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers.
+Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield.</CardText>
+<Artist>Chris Rallis</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2019/01/25: If a card in your hand has {X} in its mana cost, X is considered to be 0.
+2019/01/25: Addendum abilities of instant spells apply while the spell is resolving, not immediately after casting it. If the spell is countered, you don't get the addendum bonus. For example, if you cast Sphinx's Insight during your main phase, you gain 2 life during its resolution, after you draw two cards.
+2019/01/25: If a spell with an addendum ability is copied, the copy won't give you the addendum bonus. This is because the copy wasn't cast at all.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>170s</No>
+<Name>Ethereal Absolution</Name>
+<Type>Enchantment</Type>
+<ManaCost>4WB (6)</ManaCost>
+<CardText>Creatures you control get +1/+1.
+Creatures your opponents control get -1/-1.
+{2}{W}{B}: Exile target card from an opponent's graveyard. If it was a creature card, you create a 1/1 white and black Spirit creature token with flying.</CardText>
+<Flavor>"Time to let the dead be dead."
+—Kaya, to Teysa</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>178</No>
+<Name>Growth Spiral</Name>
+<Type>Instant</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>Draw a card. You may put a land card from your hand onto the battlefield.</CardText>
+<Flavor>Cyclical and spiral patterns are the specialty of the Gyre Clade, which sees to revitalize the cycles of nature.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2019/01/25: <Growth Spiral>'s effect doesn't count as playing a land. It can put a land card onto the battlefield even if it's not your turn or if you've already played your land for the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>179s</No>
+<Name>Gruul Spellbreaker</Name>
+<Type>Creature — Ogre Warrior 3/3</Type>
+<ManaCost>1RG (3)</ManaCost>
+<CardText>Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Trample
+As long as it's your turn, you and Gruul Spellbreaker have hexproof.</CardText>
+<Flavor>She displays her scars with pride.</Flavor>
+<Artist>Zoltan Boros</Artist>
+<Watermark>Gruul</Watermark>
+<Rulings>2019/01/25: Riot is a replacement effect. Players can't respond to your choice of +1/+1 counter or haste, and they can't take actions while the creature is on the battlefield without one or the other.
+2019/01/25: If a creature entering the battlefield has riot but can't have a +1/+1 counter put onto it, it gains haste.
+2019/01/25: If you choose for the creature to gain haste, it gains haste indefinitely. It won't lose it as the turn ends or as another player gains control of it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>183s</No>
+<Name>Hydroid Krasis</Name>
+<Type>Creature — Jellyfish Hydra Beast 0/0</Type>
+<ManaCost>XGU (2)</ManaCost>
+<CardText>When you cast this spell, you gain half X life and draw half X cards. Round down each time.
+Flying, trample
+Hydroid Krasis enters the battlefield with X +1/+1 counters on it.</CardText>
+<Flavor>Havoc is a small price to pay for data.</Flavor>
+<Artist>Jason Felix</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: <Hydroid Krasis>'s first ability triggers as you cast it, and that ability resolves before the spell itself. It resolves even if <Hydroid Krasis> is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>185s</No>
+<Name>Judith, the Scourge Diva</Name>
+<Type>Legendary Creature — Human Shaman 2/2</Type>
+<ManaCost>1BR (3)</ManaCost>
+<CardText>Other creatures you control get +1/+0.
+Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target.</CardText>
+<Flavor>At the end of the show, she stands alone on a stage brilliant with blood.</Flavor>
+<Artist>Wesley Burt</Artist>
+<Watermark>Rakdos</Watermark>
+<Rulings>2019/01/25: Judith's last ability triggers when Judith dies if it's not a token.
+2019/01/25: If Judith dies at the same time as one or more other nontoken creatures you control, Judith's ability triggers for each of them.
+2019/01/25: If your life total is brought to 0 or less at the same time that nontoken creatures you control are dealt lethal damage, you lose the game before Judith's triggered ability goes on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>187s</No>
+<Name>Kaya's Wrath</Name>
+<Type>Sorcery</Type>
+<ManaCost>WWBB (4)</ManaCost>
+<CardText>Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way.</CardText>
+<Flavor>Teysa convened the meeting of the Obzedat. Kaya ended it.</Flavor>
+<Artist>Victor Adame Minguez</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2019/01/25: If a creature you control has indestructible, it isn't destroyed this way and you won't gain life for it. If a creature you control is destroyed but put into a zone other than a graveyard, you will gain life for it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>189</No>
+<Name>Lavinia, Azorius Renegade</Name>
+<Type>Legendary Creature — Human Soldier 2/2</Type>
+<ManaCost>WU (2)</ManaCost>
+<CardText>Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.
+Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.</CardText>
+<Artist>Matt Stewart</Artist>
+<Rulings>2019/01/25: Players may cast spells that they know Lavinia will counter. Any abilities that trigger when spells are cast will trigger and resolve if appropriate, and any effects that count spells cast will count those spells if appropriate.
+2019/01/25: Effects that modify or replace the cost to cast a spell (such as spectacle) don't affect the spell's converted mana cost, so they won't change whether Lavinia's first ability restricts that spell from being cast.
+2019/01/25: For spells with {X} in their mana costs, use the value chosen for X to determine the spell's converted mana cost.
+2019/01/25: If an effect allows a player to cast a spell without paying its mana cost, that player can't choose to cast it and pay its mana cost unless another rule or effect allows that player to cast it that way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>189s</No>
+<Name>Lavinia, Azorius Renegade</Name>
+<Type>Legendary Creature — Human Soldier 2/2</Type>
+<ManaCost>WU (2)</ManaCost>
+<CardText>Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.
+Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.</CardText>
+<Flavor>"I told Jace that Ravnica would fall apart if he didn't take his responsibilities seriously. I didn't want to be right."</Flavor>
+<Artist>Steven Belledin</Artist>
+<Watermark>Azorius</Watermark>
+<Rulings>2019/01/25: Players may cast spells that they know Lavinia will counter. Any abilities that trigger when spells are cast will trigger and resolve if appropriate, and any effects that count spells cast will count those spells if appropriate.
+2019/01/25: Effects that modify or replace the cost to cast a spell (such as spectacle) don't affect the spell's converted mana cost, so they won't change whether Lavinia's first ability restricts that spell from being cast.
+2019/01/25: For spells with {X} in their mana costs, use the value chosen for X to determine the spell's converted mana cost.
+2019/01/25: If an effect allows a player to cast a spell without paying its mana cost, that player can't choose to cast it and pay its mana cost unless another rule or effect allows that player to cast it that way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>192</No>
+<Name>Mortify</Name>
+<Type>Instant</Type>
+<ManaCost>1WB (3)</ManaCost>
+<CardText>Destroy target creature or enchantment.</CardText>
+<Flavor>"Your debt is erased."
+—Hilgur, Orzhov euthanist</Flavor>
+<Artist>Anthony Palumbo</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2006/02/01: This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an enchantment, even if it changed from one to the other between targeting and resolution.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>193s</No>
+<Name>Nikya of the Old Ways</Name>
+<Type>Legendary Creature — Centaur Druid 5/5</Type>
+<ManaCost>3RG (5)</ManaCost>
+<CardText>You can't cast noncreature spells.
+Whenever you tap a land for mana, add one mana of any type that land produced.</CardText>
+<Flavor>"The hooves of the Raze-Bore will trample the weak—and their city—to dust!"</Flavor>
+<Artist>Ryan Pancoast</Artist>
+<Watermark>Gruul</Watermark>
+<Rulings>2019/01/25: The types of mana are white, blue, black, red, green, and colorless.
+2019/01/25: If you tap a land for more than one mana, you choose one type that was produced and add one mana of that type.
+2019/01/25: Nikya doesn't care about any restrictions or riders your lands put on the mana they produce, such as those of Unclaimed Territory and Guildmages' Forum. It just produces one mana of the appropriate type, with no restrictions or riders.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>197</No>
+<Name>Rakdos Firewheeler</Name>
+<Type>Creature — Human Rogue 4/3</Type>
+<ManaCost>BBRR (4)</ManaCost>
+<CardText>When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker.</CardText>
+<Artist>Tyler Walpole</Artist>
+<Rulings>2019/01/25: If you can't target any opponent with <Rakdos Firewheeler>'s ability, the ability doesn't go on the stack. You can't have it deal 2 damage to any creature or planeswalker. On the other hand, if you do choose legal targets but either target is illegal when the ability tries to resolve, the other is still affected as appropriate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>199s</No>
+<Name>Rakdos, the Showstopper</Name>
+<Type>Legendary Creature — Demon 6/6</Type>
+<ManaCost>4BR (6)</ManaCost>
+<CardText>Flying, trample
+When Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails.</CardText>
+<Flavor>"Entertain me."</Flavor>
+<Artist>Viktor Titov</Artist>
+<Watermark>Rakdos</Watermark>
+<Rulings>2019/01/25: Players can't take any action between the time that coins are flipped and the time creatures are destroyed. For example, if they wish to cast a spell to have a creature gain indestructible, they must do so before Rakdos's triggered ability resolves, without knowing whether that creature's coin will come up heads or tails.
+2019/01/25: All of the creatures whose coins come up tails are destroyed at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>200s</No>
+<Name>Ravager Wurm</Name>
+<Type>Creature — Wurm 4/5</Type>
+<ManaCost>3RGG (6)</ManaCost>
+<CardText>Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+When Ravager Wurm enters the battlefield, choose up to one —
+• Ravager Wurm fights target creature you don't control.
+• Destroy target land with an activated ability that isn't a mana ability.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Gruul</Watermark>
+<Rulings>2019/01/25: You may choose neither mode for <Ravager Wurm>'s triggered ability. In this case, the ability is removed from the stack with no effect.
+2019/01/25: If the target of <Ravager Wurm>'s first mode isn't a legal target as that ability resolves, or if <Ravager Wurm> has left the battlefield, neither creature will deal or be dealt damage.
+2019/01/25: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text. An activated mana ability is one that produces mana as it resolves, not one that costs mana to activate.
+2019/01/25: Riot is a replacement effect. Players can't respond to your choice of +1/+1 counter or haste, and they can't take actions while the creature is on the battlefield without one or the other.
+2019/01/25: If a creature entering the battlefield has riot but can't have a +1/+1 counter put onto it, it gains haste.
+2019/01/25: If you choose for the creature to gain haste, it gains haste indefinitely. It won't lose it as the turn ends or as another player gains control of it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>205s</No>
+<Name>Seraph of the Scales</Name>
+<Type>Creature — Angel 4/3</Type>
+<ManaCost>2WB (4)</ManaCost>
+<CardText>Flying
+{W}: Seraph of the Scales gains vigilance until end of turn.
+{B}: Seraph of the Scales gains deathtouch until end of turn.
+Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Watermark>Orzhov</Watermark>
+<Rulings>2019/01/25: Gaining vigilance any time after the moment you choose to attack with a creature won't cause it to become untapped.
+2019/01/25: Because blockers are chosen all at once, you can't block with a creature with afterlife, wait for it to die, then block with the resulting Spirit tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>207</No>
+<Name>Simic Ascendancy</Name>
+<Type>Enchantment</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>{1}{G}{U}: Put a +1/+1 counter on target creature you control.
+Whenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy.
+At the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game.</CardText>
+<Artist>Simon Dominic</Artist>
+<Rulings>2019/01/25: An ability that triggers when counters are put on a permanent will trigger if that permanent somehow enters the battlefield with those counters.
+2019/01/25: If <Simic Ascendancy> doesn't have twenty or more growth counters on it as your upkeep begins, its last ability won't trigger. You can't take any actions during your turn before your upkeep begins.
+2019/01/25: If the last ability does trigger, but counters are removed from <Simic Ascendancy> so it has fewer than twenty remaining on it, you won't win the game.
+2019/01/25: If the last ability does trigger, but <Simic Ascendancy> leaves the battlefield, use the number of counters it had on it immediately before it left the battlefield to determine whether you win the game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>207s</No>
+<Name>Simic Ascendancy</Name>
+<Type>Enchantment</Type>
+<ManaCost>GU (2)</ManaCost>
+<CardText>{1}{G}{U}: Put a +1/+1 counter on target creature you control.
+Whenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy.
+At the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game.</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: An ability that triggers when counters are put on a permanent will trigger if that permanent somehow enters the battlefield with those counters.
+2019/01/25: If <Simic Ascendancy> doesn't have twenty or more growth counters on it as your upkeep begins, its last ability won't trigger. You can't take any actions during your turn before your upkeep begins.
+2019/01/25: If the last ability does trigger, but counters are removed from <Simic Ascendancy> so it has fewer than twenty remaining on it, you won't win the game.
+2019/01/25: If the last ability does trigger, but <Simic Ascendancy> leaves the battlefield, use the number of counters it had on it immediately before it left the battlefield to determine whether you win the game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>212s</No>
+<Name>Teysa Karlov</Name>
+<Type>Legendary Creature — Human Advisor 2/4</Type>
+<ManaCost>2WB (4)</ManaCost>
+<CardText>If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Creature tokens you control have vigilance and lifelink.</CardText>
+<Flavor>While Kaya is guildmaster, Teysa waits patiently at the center of the Orzhov web of power.</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Watermark>Orzhov</Watermark>
+<Rulings>2019/01/25: Teysa affects a creature's own "when this creature dies" triggered abilities as well as other triggered abilities that trigger when that creature dies. Such triggered abilities start with "when" or "whenever."
+2019/01/25: Teysa's effect doesn't copy the triggered ability; it just causes the ability to trigger twice. Any choices made as you put the ability onto the stack, such as modes and targets, are made separately for each instance of the ability. Any choices made on resolution, such as whether to pay a cost for that triggered ability, are also made separately.
+2019/01/25: The trigger event doesn't have to specifically refer to "creatures." In these cases, the trigger event may also refer to something being "put into a graveyard from the battlefield." For example, an ability that triggers "whenever an artifact is put into a graveyard from the battlefield" would trigger twice if an artifact creature dies while <Teysa Karlov> is on the battlefield.
+2019/01/25: An ability that triggers when a creature "leaves the battlefield" will trigger twice if that creature leaves the battlefield by dying.
+2019/01/25: An ability that triggers on an event that causes a creature to die doesn't trigger twice. For example, an ability that triggers "whenever you sacrifice a creature" triggers only once.
+2019/01/25: Look at each creature as it exists on the battlefield, taking into account continuous effects, to determine whether any triggered abilities will trigger multiple times. For example, if a land that has become a creature dies, an ability that triggers when it dies triggers twice.
+2019/01/25: If a creature dying at the same time that another permanent you control leaves the battlefield causes a triggered ability of that permanent to trigger, that ability triggers an additional time.
+2019/01/25: If a creature dying at the same time as Teysa (including Teysa itself dying) causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+2019/01/25: If you somehow control two Teysas, a creature dying causes abilities to trigger three times, not four. A third Teysa causes abilities to trigger four times, a fourth causes abilities to trigger five times, and so on. This also means that if you control Teysa and cast a second one, an ability that triggers when it dies due to the "legend rule" triggers three times.
+2019/01/25: An ability of a permanent that triggers when a card is put into a graveyard "from anywhere" triggers twice only if Teysa and that permanent are both still on the battlefield immediately after the creature has died.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>213s</No>
+<Name>Theater of Horrors</Name>
+<Type>Enchantment</Type>
+<ManaCost>1BR (3)</ManaCost>
+<CardText>At the beginning of your upkeep, exile the top card of your library.
+During your turn, if an opponent lost life this turn, you may play cards exiled with Theater of Horrors.
+{3}{R}: Theater of Horrors deals 1 damage to target opponent or planeswalker.</CardText>
+<Artist>Daarken</Artist>
+<Watermark>Rakdos</Watermark>
+<Rulings>2019/01/25: Damage dealt to a player causes that player to lose that much life.
+2019/01/25: <Theater of Horrors> doesn't change when you can play the exiled cards during your turn. For example, if you exile a sorcery card, you can cast it only during your main phase when the stack is empty. If you exile a land card, you can play it only during your main phase and only if you have an available land play remaining.
+2019/01/25: Casting an exiled card causes it to leave exile. You can't cast it multiple times.
+2019/01/25: In a multiplayer game, if an opponent loses life during your turn and then leaves the game, you can play cards exiled with <Theater of Horrors>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>214s</No>
+<Name>Zegana, Utopian Speaker</Name>
+<Type>Legendary Creature — Merfolk Wizard 4/4</Type>
+<ManaCost>2GU (4)</ManaCost>
+<CardText>When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card.
+{4}{G}{U}: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)
+Each creature you control with a +1/+1 counter on it has trample.</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it.
+2019/01/25: If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>232</No>
+<Name>Gate Colossus</Name>
+<Type>Artifact Creature — Construct 8/8</Type>
+<ManaCost>8 (8)</ManaCost>
+<CardText>This spell costs {1} less to cast for each Gate you control.
+Gate Colossus can't be blocked by creatures with power 2 or less.
+Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library.</CardText>
+<Artist>Milivoj Ćeran</Artist>
+<Rulings>2019/01/25: Once a creature with power 3 or greater has blocked this creature, changing the power of the blocking creature won't cause this creature to become unblocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

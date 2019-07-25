@@ -1,0 +1,103 @@
+<Card>
+<SetId>OC15</SetId>
+<No>43</No>
+<Name>Daxos the Returned</Name>
+<Type>Legendary Creature — Zombie Soldier 2/2</Type>
+<ManaCost>1WB (3)</ManaCost>
+<CardText>Whenever you cast an enchantment spell, you get an experience counter.
+{1}{W}{B}: Create a white and black Spirit enchantment creature token. It has "This creature's power and toughness are each equal to the number of experience counters you have."</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2015/11/04: The power and toughness of the tokens will change as the number of experience counters you have does.
+2015/11/04: The ability that defines the token's power and toughness is part of the token's copiable values. Copies of the token will also have that ability.
+2015/11/04: Putting an enchantment creature token onto the battlefield won't cause Daxos's first ability to trigger. On the other hand, constellation abilities trigger whenever an enchantment enters the battlefield under your control, so those abilities will trigger.
+2015/11/04: Experience counters are the second kind of counters a player can have, joining poison.
+2015/11/04: All experience counters are identical, no matter how you got them. For example, the last ability will count experience counters that you got from the first ability, from another ability, from proliferating, and so on.
+2015/11/04: Each game pack includes a card labeled "Experience" with the suggestion "Place your experience counters here." This card isn't required for play. It's simply a convenient spot to put your experience counters, which can be represented with dice, glass beads, or other small items.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2015 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC15</SetId>
+<No>44</No>
+<Name>Ezuri, Claw of Progress</Name>
+<Type>Legendary Creature — Elf Warrior 3/3</Type>
+<ManaCost>2GU (4)</ManaCost>
+<CardText>Whenever a creature with power 2 or less enters the battlefield under your control, you get an experience counter.
+At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have.</CardText>
+<Artist>James Ryman</Artist>
+<Rulings>2015/11/04: Experience counters are the second kind of counters a player can have, joining poison.
+2015/11/04: All experience counters are identical, no matter how you got them. For example, the last ability will count experience counters that you got from the first ability, from another ability, from proliferating, and so on.
+2015/11/04: Each game pack includes a card labeled "Experience" with the suggestion "Place your experience counters here." This card isn't required for play. It's simply a convenient spot to put your experience counters, which can be represented with dice, glass beads, or other small items.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2015 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC15</SetId>
+<No>45</No>
+<Name>Kalemne, Disciple of Iroas</Name>
+<Type>Legendary Creature — Giant Soldier 3/3</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Double strike, vigilance
+Whenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter.
+Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have.</CardText>
+<Artist>Jason Chan</Artist>
+<Rulings>2015/11/04: Experience counters are the second kind of counters a player can have, joining poison.
+2015/11/04: All experience counters are identical, no matter how you got them. For example, the last ability will count experience counters that you got from the first ability, from another ability, from proliferating, and so on.
+2015/11/04: Each game pack includes a card labeled "Experience" with the suggestion "Place your experience counters here." This card isn't required for play. It's simply a convenient spot to put your experience counters, which can be represented with dice, glass beads, or other small items.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2015 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC15</SetId>
+<No>49</No>
+<Name>Meren of Clan Nel Toth</Name>
+<Type>Legendary Creature — Human Shaman 3/4</Type>
+<ManaCost>2BG (4)</ManaCost>
+<CardText>Whenever another creature you control dies, you get an experience counter.
+At the beginning of your end step, choose target creature card in your graveyard. If that card's converted mana cost is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.</CardText>
+<Artist>Mark Winters</Artist>
+<Rulings>2015/11/04: If <Meren of Clan Nel Toth> leaves the battlefield at the same time as other creatures you control die, its first ability will trigger for each of those creatures.
+2015/11/04: You can't choose to put the creature card into your hand if its converted mana cost is less than or equal to the number of experience counters you have as the ability resolves.
+2015/11/04: If a creature card in your graveyard has {X} in its mana cost, X is 0.
+2015/11/04: Experience counters are the second kind of counters a player can have, joining poison.
+2015/11/04: All experience counters are identical, no matter how you got them. For example, the last ability will count experience counters that you got from the first ability, from another ability, from proliferating, and so on.
+2015/11/04: Each game pack includes a card labeled "Experience" with the suggestion "Place your experience counters here." This card isn't required for play. It's simply a convenient spot to put your experience counters, which can be represented with dice, glass beads, or other small items.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2015 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>OC15</SetId>
+<No>50</No>
+<Name>Mizzix of the Izmagnus</Name>
+<Type>Legendary Creature — Goblin Wizard 2/2</Type>
+<ManaCost>2UR (4)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell with converted mana cost greater than the number of experience counters you have, you get an experience counter.
+Instant and sorcery spells you cast cost {1} less to cast for each experience counter you have.</CardText>
+<Artist>Cliff Childs</Artist>
+<Rulings>2015/11/04: You finish casting a spell, including paying its costs, before Mizzix's first ability triggers. The ability that gives you the experience counter will resolve before the spell that caused it to trigger.
+2015/11/04: Mizzix's last ability doesn't change the mana cost or converted mana cost of any spell. It changes only the total cost you pay.
+2015/11/04: Mizzix's last ability can't reduce the amount of colored mana you pay for a spell. It reduces only the generic component of that cost.
+2015/11/04: If there are additional costs to cast a spell, or if the cost to cast a spell is increased by an effect (such as the one created by Thalia, Guardian of Thraben's ability), apply those increases before applying cost reductions.
+2015/11/04: The cost reduction can apply to alternative costs such as flashback costs.
+2015/11/04: If an instant or sorcery spell you cast has {X} in its mana cost, you choose the value of X before calculating the spell's total cost. For example, if that spell's mana cost is {X}{R} and you have one experience counter, you could choose 5 as the value of X and pay {4}{R} to cast the spell.
+2015/11/04: Experience counters are the second kind of counters a player can have, joining poison.
+2015/11/04: All experience counters are identical, no matter how you got them. For example, the last ability will count experience counters that you got from the first ability, from another ability, from proliferating, and so on.
+2015/11/04: Each game pack includes a card labeled "Experience" with the suggestion "Place your experience counters here." This card isn't required for play. It's simply a convenient spot to put your experience counters, which can be represented with dice, glass beads, or other small items.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Commander 2015 Oversized Edition</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

@@ -302,8 +302,7 @@ Flow of Maggots can't be blocked by non-Wall creatures.</CardText>
 <ManaCost>B (1)</ManaCost>
 <CardText>Target creature can't be regenerated this turn.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Flavor>One foot in the grave,
-firmly planted.</Flavor>
+<Flavor>One foot in the grave, firmly planted.</Flavor>
 <Artist>Drew Tucker</Artist>
 <Multiverseid>2453</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
@@ -663,7 +662,8 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <ManaCost>2BB (4)</ManaCost>
 <CardText>Enchant creature
 At the beginning of the upkeep of enchanted creature's controller, that player may pay {3}. If they don't, Mind Whip deals 2 damage to that player and you tap that creature.</CardText>
-<Flavor>"A mind in agony is a sparrow without wings." —Lim-Dûl, the Necromancer</Flavor>
+<Flavor>"A mind in agony is a sparrow without wings."
+—Lim-Dûl, the Necromancer</Flavor>
 <Artist>Drew Tucker</Artist>
 <Multiverseid>2473</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -681,7 +681,7 @@ At the beginning of the upkeep of enchanted creature's controller, that player m
 <CardText>Protection from black
 At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.
 {T}: Destroy target creature or land.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2474</Multiverseid>
 <Rulings>2008/10/01: If you don't sacrifice a creature at the beginning of your upkeep (either by choice or because you can't), but you somehow prevent all the damage <Minion of Leshrac> would deal to you, then you don't tap <Minion of Leshrac>.
 2008/10/01: <Minion of Leshrac> can't target itself with its activated ability because it has protection from black.</Rulings>
@@ -1014,9 +1014,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <ManaCost>1UU (3)</ManaCost>
 <CardText>Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 {1}: Target creature gains flying until end of turn.</CardText>
-<Flavor>"The dreams of a child fulfilled:
-The wind on my brow,
-the air 'neath my feet."
+<Flavor>"The dreams of a child fulfilled: The wind on my brow, the air 'neath my feet."
 —Arnjlot Olasson, Sky Mage</Flavor>
 <Artist>Drew Tucker</Artist>
 <Multiverseid>2493</Multiverseid>
@@ -1076,8 +1074,7 @@ At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.
 You control enchanted creature.
 Enchanted creature gets +0/+1.</CardText>
 <Flavor>"What I want, I take."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
 <Artist>Ruth Thompson</Artist>
 <Multiverseid>2496</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1094,8 +1091,7 @@ Kjeldoran Royal Mage</Flavor>
 <ManaCost>U (1)</ManaCost>
 <CardText>Draw three cards, then put two cards from your hand on top of your library in any order.</CardText>
 <Flavor>"I reeled from the blow, and then suddenly, I knew exactly what to do. Within moments, victory was mine."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>2497</Multiverseid>
 <Rulings>2018/03/16: You draw three cards and put two cards back all while <Brainstorm> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
@@ -1150,9 +1146,8 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <ManaCost>UU (2)</ManaCost>
 <CardText>Counter target spell.</CardText>
 <Flavor>"The duel was going badly for me, and Zur thought I was finished. He boasted that he would eat my soul—but all he ate were his words."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
-<Artist>L. A. Williams</Artist>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2500</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1167,20 +1162,17 @@ Kjeldoran Royal Mage</Flavor>
 <Type>Instant</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Change the target of target spell with a single target.</CardText>
-<Flavor>Up and down,
-over and through,
-back around—
-the joke's on you.</Flavor>
+<Flavor>Up and down, over and through, back around— the joke's on you.</Flavor>
 <Artist>Mike Raabe</Artist>
 <Multiverseid>2501</Multiverseid>
-<Rulings>2004/10/04: Once the spell resolves, the new target is considered to be targeted by the deflected spell. This will trigger any effects which trigger on being targeted.
-2004/10/04: This only targets the spell being changed, not the original or new target of the spell it is affecting.
-2004/10/04: The target of a spell that targets another spell on the stack can be changed to any other spell on the stack, even if the new target will resolve before the spell does.
+<Rulings>2004/10/04: The target of a spell that targets another spell on the stack can be changed to any other spell on the stack, even if the new target will resolve before the spell does.
 2004/10/04: You can't make a spell which is on the stack target itself.
 2004/10/04: You can choose to make a spell on the stack target this spell (if such a target choice would be legal had the spell been cast while this spell was on the stack). The new target for the deflected spell is not chosen until this spell resolves. This spell is still on the stack when new targets are selected for the spell.
-2004/10/04: If there is no other legal target for the spell, this does not change the target.
+2004/10/04: Once the spell resolves, the new target is considered to be targeted by the deflected spell. This will trigger any effects which trigger on being targeted.
 2004/10/04: This does not check if the current target is legal. It just checks if the spell has a single target.
 2004/10/04: You choose the spell to target on announcement, but you pick the new target for that spell on resolution.
+2004/10/04: If there is no other legal target for the spell, this does not change the target.
+2004/10/04: This only targets the spell being changed, not the original or new target of the spell it is affecting.
 2009/02/01: If a spell targets multiple things, you can't target it with <Deflection>, even if all but one of those targets has become illegal.
 2009/02/01: If a spell targets the same player or object multiple times, you can't target it with <Deflection>.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1217,9 +1209,8 @@ the joke's on you.</Flavor>
 <CardText>Tap target artifact, creature, or land.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"Worlds turn in crucial moments of decision. Make your choice."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
-<Artist>L. A. Williams</Artist>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2503</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1272,8 +1263,7 @@ At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 c
 <CardText>Counter target spell unless its controller pays {1}.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"My mind and spirit are one—a barrier not readily passed."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>2506</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1309,8 +1299,7 @@ Kjeldoran Royal Mage</Flavor>
 • Counter target spell if it's red.
 • Destroy target permanent if it's red.</CardText>
 <Flavor>"Heed the lessons of our time: the forms of water may move the land itself and hold captive the fires within."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
 <Artist>Kaja Foglio</Artist>
 <Multiverseid>2508</Multiverseid>
 <Rulings>2004/10/04: The decision to counter a spell or destroy a permanent is a decision made on announcement before the target is selected. If the spell is redirected, this mode can't be changed, so only targets of the selected type are valid.
@@ -1365,8 +1354,7 @@ When Icy Prison leaves the battlefield, return the exiled card to the battlefiel
 <CardText>Flying
 Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</CardText>
 <Flavor>"This school was founded in secret, operates in secret, and exists for the teaching of secrets. Those who would alter reality must first escape it."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Justin Hampton</Artist>
 <Multiverseid>2511</Multiverseid>
 <Rulings>2008/10/01: Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with "cumulative upkeep {1}" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent.</Rulings>
@@ -1427,8 +1415,7 @@ Basic lands of the first chosen type are the second chosen type.</CardText>
 <CardText>Defender, flying, first strike
 Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</CardText>
 <Flavor>"Let them see what is not there and feel what does not touch them. When they no longer trust their senses, that is the time to strike."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Mark Poole</Artist>
 <Multiverseid>2514</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1465,8 +1452,7 @@ When Illusions of Grandeur leaves the battlefield, you lose 20 life.</CardText>
 <CardText>Untap target artifact, creature, or land.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"The potential for change lies in all things. Know a thing's nature, know its possibilities, and know it anew."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
 <Artist>Randy Gallegos</Artist>
 <Multiverseid>2516</Multiverseid>
 <Rulings>2009/10/01: You may target any artifact, creature, or land, not just a tapped one. If the targeted permanent is already untapped as <Infuse> resolves, <Infuse> won't affect it, but you'll still draw a card at the beginning of the next turn's upkeep.</Rulings>
@@ -1706,8 +1692,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <CardText>Target player puts the top card of their library into their graveyard.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"What is real can be unreal."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Mike Raabe</Artist>
 <Multiverseid>2529</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1725,8 +1710,7 @@ Archmage of the Unseen</Flavor>
 <CardText>Cumulative upkeep {1}{U}{U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 If tapped for mana, Plains produce {R}, Swamps produce {G}, Mountains produce {W}, and Forests produce {B} instead of any other type.</CardText>
 <Flavor>"Nothing is as it seems."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>James Ernest</Artist>
 <Multiverseid>2530</Multiverseid>
 <Rulings>2004/10/04: If a player uses a text-changing effect to make a land type be listed as producing two different colors, the player tapping the land for mana can choose to produce mana of either color. But if it produces more than one mana, all mana is of the same color.
@@ -1763,8 +1747,7 @@ Archmage of the Unseen</Flavor>
 <ManaCost>4U (5)</ManaCost>
 <CardText>At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)</CardText>
 <Flavor>"Capturing this specimen was not easy. Study it well, that you someday might be as versatile."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>2532</Multiverseid>
 <Rulings>2008/10/01: <Shyft>'s ability won't let you make it colorless. Colorless is not a color.
@@ -1845,7 +1828,8 @@ Whenever Sibilant Spirit attacks, defending player may draw a card.</CardText>
 <CardText>Enchant creature
 Enchanted creature has flying.
 Enchanted creature has first strike as long as it's blocking and you control a snow land.</CardText>
-<Flavor>"Give me wings to fly and speed to strike. In return, the glory I earn shall be yours." —Steinar Icefist, Balduvian Shaman</Flavor>
+<Flavor>"Give me wings to fly and speed to strike. In return, the glory I earn shall be yours."
+—Steinar Icefist, Balduvian Shaman</Flavor>
 <Artist>Ken Meyer, Jr.</Artist>
 <Multiverseid>2536</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1897,8 +1881,7 @@ Whenever an Island is tapped for mana, its controller may add an additional {U}.
 <ManaCost>2U (3)</ManaCost>
 <CardText>Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless they pay {2}.</CardText>
 <Flavor>"There's more than one way to skin an Ouphe—or thwart a mage."
-—Gustha Ebbasdotter,
-Kjeldoran Royal Mage</Flavor>
+—Gustha Ebbasdotter, Kjeldoran Royal Mage</Flavor>
 <Artist>Harold McNeill</Artist>
 <Multiverseid>2539</Multiverseid>
 <Rulings>2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
@@ -1937,7 +1920,7 @@ Flying
 Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"The power of flight has but one equal in battle: surprise. Understanding how to use both is the key to victory."
 —Arnjlot Olasson, Sky Mage</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2541</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2152,10 +2135,7 @@ Creatures with flying don't untap during their controllers' untap steps.</CardTe
 <Type>Creature — Frog 1/1</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn.</CardText>
-<Flavor>Chub Toad, Chub Toad
-At the door.
-Run away quick
-Or you'll run no more.
+<Flavor>Chub Toad, Chub Toad At the door. Run away quick Or you'll run no more.
 —Traditional children's rhyme</Flavor>
 <Artist>Daniel Gelon</Artist>
 <Multiverseid>2553</Multiverseid>
@@ -2457,7 +2437,7 @@ All creatures get -1/-0.
 <CardText>Target creature gets +3/+3 until end of turn.</CardText>
 <Flavor>"Here in Fyndhorn, the goddess Freyalise is generous to her children."
 —Kolbjörn, Elder Druid of the Juniper Order</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2570</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2476,7 +2456,7 @@ All creatures get -1/-0.
 When you control no Forests, sacrifice Gorilla Pack.</CardText>
 <Flavor>"We learned this at a dear price: once you cross the great river, get through the Yavimaya forest at top speed."
 —Disa the Restless, journal entry</Flavor>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>2571</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2638,9 +2618,8 @@ At the beginning of the upkeep of enchanted creature's controller, Maddening Win
 <ManaCost>2G (3)</ManaCost>
 <CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</CardText>
 <Flavor>"Daughter, on the day you have killed your Pale Bear, then will I give you your true name."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
-<Artist>Anthony Waters</Artist>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>2580</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2673,8 +2652,7 @@ Balduvian Chieftain</Flavor>
 <ManaCost>2G (3)</ManaCost>
 <CardText>When Pyknite enters the battlefield, draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"Never cross a Pyknite, if you value your scalp."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Edward P. Beard, Jr.</Artist>
 <Multiverseid>2582</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2898,7 +2876,7 @@ Sacrifice Tinder Wall: Add {R}{R}.
 <ManaCost>2G (3)</ManaCost>
 <CardText>Until end of turn, target creature gains haste and "{0}: Untap this creature. Activate this ability only once."
 Draw a card at the beginning of the next turn's upkeep.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2595</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2931,7 +2909,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Type>Instant</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>Choose target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2597</Multiverseid>
 <Rulings>2004/10/04: It affects creatures that had blocked the target when this spell resolves, even if they are no longer blocking the creature.</Rulings>
 <Vintage>Legal</Vintage>
@@ -3191,8 +3169,7 @@ Nongreen creatures you control get +1/+0 until end of turn.</CardText>
 <Type>Creature — Giant Shaman 3/3</Type>
 <ManaCost>2RR (4)</ManaCost>
 <CardText>{B}: Until end of turn, Bone Shaman gains "Creatures dealt damage by Bone Shaman this turn can't be regenerated this turn."</CardText>
-<Flavor>Rattle me bones as I cross the floor
-And the bones in your grave will rattle no more.</Flavor>
+<Flavor>Rattle me bones as I cross the floor And the bones in your grave will rattle no more.</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>2612</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3211,8 +3188,7 @@ And the bones in your grave will rattle no more.</Flavor>
 Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 Enchanted creature's controller can't cast creature spells.</CardText>
 <Flavor>"Let those who bear the brand receive no shelter, no kindness, and no comfort from our people."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>2613</Multiverseid>
 <Rulings>2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
@@ -3301,8 +3277,7 @@ Islands don't untap during their controllers' untap steps.</CardText>
 <ManaCost>2RR (4)</ManaCost>
 <CardText>{2}, Sacrifice a land: Put a +2/+2 counter on target creature. Activate this ability only during any upkeep step.</CardText>
 <Flavor>"Few of us left, now. Confounded Yeti have opened all the vents. We'd best hide here with the weapons."
-—Perena Deepcutter,
-Dwarven Armorer</Flavor>
+—Perena Deepcutter, Dwarven Armorer</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>2618</Multiverseid>
 <Rulings>2004/10/04: The ability can be activated during your opponent's upkeep as well as your own. The upkeep restriction is there to avoid its use during combat.</Rulings>
@@ -3322,7 +3297,7 @@ Dwarven Armorer</Flavor>
 Enchanted creature gets +3/+0 and can only attack alone.</CardText>
 <Flavor>"There is no shame in solitude. The lone Knight may succeed where a hundred founder."
 —Arna Kennerüd, Skyknight</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2619</Multiverseid>
 <Rulings>2008/10/01: "Can only attack alone" means the enchanted creature can't be declared as an attacker during the declare attackers step unless no other creatures are declared as attackers at that time (either by you or your Two-Headed Giant teammate).
 2008/10/01: If the enchanted creature attacks alone, then a spell or ability causes another creature to be put onto the battlefield attacking, that's fine.</Rulings>
@@ -3340,8 +3315,7 @@ Enchanted creature gets +3/+0 and can only attack alone.</CardText>
 <ManaCost>4R (5)</ManaCost>
 <CardText>{R}: Flame Spirit gets +1/+0 until end of turn.</CardText>
 <Flavor>"The spirit of the flame is the spirit of change."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Justin Hampton</Artist>
 <Multiverseid>2620</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3482,8 +3456,7 @@ Goblin Mutant can't block creatures with power 3 or greater.</CardText>
 <ManaCost>1RR (3)</ManaCost>
 <CardText>{R}: Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.</CardText>
 <Flavor>"Before you release a Wolverine from the trap, make sure it's really dead."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Cornelius Brudi</Artist>
 <Multiverseid>2628</Multiverseid>
 <Rulings>2004/10/04: It can only get +2/+0 even if more than one creature blocks it.</Rulings>
@@ -3572,8 +3545,7 @@ Enchanted creature has menace. (It can't be blocked except by two or more creatu
 <ManaCost>3RR (5)</ManaCost>
 <CardText>{T}: Karplusan Yeti deals damage equal to its power to target creature. That creature deals damage equal to its power to Karplusan Yeti.</CardText>
 <Flavor>"What's that smell?"
-—Perena Deepcutter,
-Dwarven Armorer</Flavor>
+—Perena Deepcutter, Dwarven Armorer</Flavor>
 <Artist>Quinton Hoover</Artist>
 <Multiverseid>2633</Multiverseid>
 <Rulings>2004/10/04: Giving either creature first strike does not affect the ability.
@@ -3787,8 +3759,7 @@ Orcish Conscripts can't block unless at least two other creatures block.</CardTe
 <Type>Creature — Orc 1/1</Type>
 <ManaCost>1R (2)</ManaCost>
 <CardText>{R}, {T}: Look at the top eight cards of your library. Exile four of them at random, then put the rest on top of your library in any order.</CardText>
-<Flavor>Us hungry, need food . . . .
-Lots of books . . . . Hmm . . . .</Flavor>
+<Flavor>Us hungry, need food . . . . Lots of books . . . . Hmm . . . .</Flavor>
 <Artist>Phil Foglio</Artist>
 <Multiverseid>2645</Multiverseid>
 <Rulings>2004/10/04: You do get to look at the remaining 4 cards before deciding which order to put them back in.</Rulings>
@@ -3901,8 +3872,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <ManaCost>2R (3)</ManaCost>
 <CardText>First strike</CardText>
 <Flavor>"Daughter, it is now your turn to hunt the Tiger, and make a blanket of its fur."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>2651</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3957,8 +3927,7 @@ Balduvian Chieftain</Flavor>
 <ManaCost>4R (5)</ManaCost>
 <CardText>Stone Spirit can't be blocked by creatures with flying.</CardText>
 <Flavor>"The spirit of the stone is the spirit of strength."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Jeff A. Menges</Artist>
 <Multiverseid>2654</Multiverseid>
 <Rulings>2007/05/01: Creatures with the Reach ability (such as Giant Spider) can block this because they don't actually have Flying.</Rulings>
@@ -3978,8 +3947,7 @@ Balduvian Chieftain</Flavor>
 Enchanted creature gets +0/+2.
 {R}: Enchanted creature gets +1/+0 until end of turn.</CardText>
 <Flavor>"Trust in the power of stone. Stone is strong; stone shatters swords; stone breaks bones. Trust in stone."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>2655</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3995,8 +3963,7 @@ Balduvian Chieftain</Flavor>
 <Type>Creature — Giant 3/3</Type>
 <ManaCost>3R (4)</ManaCost>
 <Flavor>"What do you do then? Run. Run very fast. Don't stop until you see the camp—or a bigger Giant."
-—Toothlicker Harj,
-Orcish Captain</Flavor>
+—Toothlicker Harj, Orcish Captain</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>2656</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4188,8 +4155,7 @@ Enchanted creature gets +2/+2 as long as an opponent controls a black permanent.
 <CardText>You gain 1 life.
 Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Flavor>"May the bounty of Kjeld enrich your days."
-—Halvor Arenson,
-Kjeldoran Priest</Flavor>
+—Halvor Arenson, Kjeldoran Priest</Flavor>
 <Artist>Kaja Foglio</Artist>
 <Multiverseid>2667</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4207,7 +4173,7 @@ Kjeldoran Priest</Flavor>
 <CardText>{0}: Return Blinking Spirit to its owner's hand.</CardText>
 <Flavor>"Don't look at it! Maybe it'll go away!"
 —Ib Halfheart, Goblin Tactician</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2668</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4411,8 +4377,7 @@ Enchanted creature has banding. (Any creatures with banding, and up to one witho
 <ManaCost>W (1)</ManaCost>
 <CardText>Regenerate target creature.</CardText>
 <Flavor>"Sometimes, a soul is not ready to complete its journey to the next world."
-—Halvor Arenson,
-Kjeldoran Priest</Flavor>
+—Halvor Arenson, Kjeldoran Priest</Flavor>
 <Artist>Harold McNeill</Artist>
 <Multiverseid>2679</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4568,7 +4533,7 @@ Remove a healing counter from Fylgja: Prevent the next 1 damage that would be de
 <Name>General Jarkeld</Name>
 <Type>Legendary Creature — Human Soldier 1/2</Type>
 <ManaCost>3W (4)</ManaCost>
-<CardText>{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.</CardText>
+<CardText>{T}: Choose two target blocked attacking creatures. If each of those creatures could be blocked by all creatures that the other is blocked by, each creature that's blocking exactly one of those attacking creatures stops blocking it and is blocking the other attacking creature. Activate this ability only during the declare blockers step.</CardText>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>2687</Multiverseid>
 <Rulings>2004/10/04: Does not undo any abilities which triggered due to the declaration of blockers. A creature which is switched away still has any triggered abilities resolve on it.
@@ -4708,7 +4673,7 @@ Whenever a red creature or spell deals damage, Justice deals that much damage to
 <Type>Creature — Human Soldier 1/1</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>{T}: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands.</CardText>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>2695</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4769,10 +4734,9 @@ Whenever a red creature or spell deals damage, Justice deals that much damage to
 <Type>Creature — Human Soldier 2/5</Type>
 <ManaCost>3WW (5)</ManaCost>
 <CardText>{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.</CardText>
-<Flavor>"Honorable in battle,
-generous in death."
+<Flavor>"Honorable in battle, generous in death."
 —Motto of the Kjeldoran Royal Guard</Flavor>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2698</Multiverseid>
 <Rulings>2004/10/04: If you activate the ability but <Kjeldoran Royal Guard> leaves the battlefield before combat damage is dealt, the combat damage from unblocked creatures won't be redirected. It will be dealt to you as normal.</Rulings>
 <Vintage>Legal</Vintage>
@@ -4945,8 +4909,9 @@ Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number 
 <CardText>Enchant creature
 As Prismatic Ward enters the battlefield, choose a color.
 Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.</CardText>
-<Flavor>"These, of all spells, must have common components I can isolate and use." —Halvor Arenson, Kjeldoran Priest</Flavor>
-<Artist>L. A. Williams</Artist>
+<Flavor>"These, of all spells, must have common components I can isolate and use."
+—Halvor Arenson, Kjeldoran Priest</Flavor>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2707</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5091,8 +5056,7 @@ Whenever a creature dealt damage by Seraph this turn dies, put that card onto th
 <ManaCost>W (1)</ManaCost>
 <CardText>Prevent all combat damage that would be dealt by target attacking creature this turn.</CardText>
 <Flavor>"The folk of the Karplusan Mountains are impossible to ambush."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Pat Morrissey</Artist>
 <Multiverseid>2715</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5143,9 +5107,8 @@ Enchanted creature gets +2/+2 as long as an opponent controls a white permanent.
 <ManaCost>3 (3)</ManaCost>
 <CardText>{1}, {T}: Target 1/1 creature gets +1/+2 until end of turn.</CardText>
 <Flavor>"With this marvel, even the weak have a fighting chance!"
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
-<Artist>L. A. Williams</Artist>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2393</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
@@ -5245,8 +5208,7 @@ Soldevi Machinist</Flavor>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{2}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</CardText>
 <Flavor>"The Goblins would kill to get ahold of this one."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>2399</Multiverseid>
 <Rulings>2008/10/01: If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a "band." The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned.
@@ -5340,8 +5302,7 @@ Soldevi Machinist</Flavor>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{3}, {T}: Target creature gains first strike until end of turn.</CardText>
 <Flavor>"With a bow like this, the hunting is always good."
-—Taaveti of Kelsinko,
-Elvish Hunter</Flavor>
+—Taaveti of Kelsinko, Elvish Hunter</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>2404</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5372,7 +5333,7 @@ Elvish Hunter</Flavor>
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Whenever a player casts a red spell, you may pay {3}. If you do, untap target permanent.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2406</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5638,8 +5599,7 @@ If tapped for mana, Plains produce {R}, Islands produce {G}, Swamps produce {W},
 <ManaCost>2 (2)</ManaCost>
 <CardText>{2}: Prevent the next 1 damage that would be dealt to you this turn.</CardText>
 <Flavor>"This shield is a true rarity: an artifact whose purpose is obvious."
-—Arcum Dagsson,
-Soldevi Machinist</Flavor>
+—Arcum Dagsson, Soldevi Machinist</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>2421</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5710,8 +5670,7 @@ At the beginning of your upkeep, you may untap target tapped creature an opponen
 <ManaCost>4 (4)</ManaCost>
 <CardText>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
 {1}: Soldevi Simulacrum gets +1/+0 until end of turn.</CardText>
-<Flavor>They look human—
-until they bleed.</Flavor>
+<Flavor>They look human— until they bleed.</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>2425</Multiverseid>
 <Rulings>2008/10/01: Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with "cumulative upkeep {1}" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent.</Rulings>
@@ -5834,7 +5793,7 @@ As long as it's not your turn, creatures you control get -0/-2.</CardText>
 {3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.</CardText>
 <Flavor>"The fortress is not what it seems."
 —Arcum Dagsson, Soldevi Machinist</Flavor>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>2432</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5945,6 +5904,7 @@ Banding (If any creatures with banding you control are blocking a creature, you 
 
 <Card>
 <SetId>IA</SetId>
+<No>328</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -5959,6 +5919,7 @@ Banding (If any creatures with banding you control are blocking a creature, you 
 
 <Card>
 <SetId>IA</SetId>
+<No>329</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -5973,6 +5934,7 @@ Banding (If any creatures with banding you control are blocking a creature, you 
 
 <Card>
 <SetId>IA</SetId>
+<No>330</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -6042,6 +6004,7 @@ Creatures that attacked during their controller's last turn can't attack.</CardT
 
 <Card>
 <SetId>IA</SetId>
+<No>334</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -6056,6 +6019,7 @@ Creatures that attacked during their controller's last turn can't attack.</CardT
 
 <Card>
 <SetId>IA</SetId>
+<No>335</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -6070,6 +6034,7 @@ Creatures that attacked during their controller's last turn can't attack.</CardT
 
 <Card>
 <SetId>IA</SetId>
+<No>336</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -6106,7 +6071,7 @@ Creatures that attacked during their controller's last turn can't attack.</CardT
 <CardText>Land Cap doesn't untap during your untap step if it has a depletion counter on it.
 At the beginning of your upkeep, remove a depletion counter from Land Cap.
 {T}: Add {W} or {U}. Put a depletion counter on Land Cap.</CardText>
-<Artist>L. A. Williams</Artist>
+<Artist>Allen Williams</Artist>
 <Multiverseid>2756</Multiverseid>
 <Reserved>This card is on the reserved list</Reserved>
 <Vintage>Legal</Vintage>
@@ -6134,6 +6099,7 @@ At the beginning of your upkeep, remove a depletion counter from Lava Tubes.
 
 <Card>
 <SetId>IA</SetId>
+<No>340</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -6148,6 +6114,7 @@ At the beginning of your upkeep, remove a depletion counter from Lava Tubes.
 
 <Card>
 <SetId>IA</SetId>
+<No>341</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -6162,6 +6129,7 @@ At the beginning of your upkeep, remove a depletion counter from Lava Tubes.
 
 <Card>
 <SetId>IA</SetId>
+<No>342</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -6176,6 +6144,7 @@ At the beginning of your upkeep, remove a depletion counter from Lava Tubes.
 
 <Card>
 <SetId>IA</SetId>
+<No>343</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -6190,6 +6159,7 @@ At the beginning of your upkeep, remove a depletion counter from Lava Tubes.
 
 <Card>
 <SetId>IA</SetId>
+<No>344</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -6204,6 +6174,7 @@ At the beginning of your upkeep, remove a depletion counter from Lava Tubes.
 
 <Card>
 <SetId>IA</SetId>
+<No>345</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -6249,7 +6220,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Ice Age</Set>
-<Rarity>Land</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -6268,7 +6239,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Ice Age</Set>
-<Rarity>Land</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -6287,7 +6258,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Ice Age</Set>
-<Rarity>Land</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -6306,7 +6277,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Ice Age</Set>
-<Rarity>Land</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -6325,7 +6296,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Ice Age</Set>
-<Rarity>Land</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -6346,6 +6317,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 
 <Card>
 <SetId>IA</SetId>
+<No>353</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -6360,6 +6332,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 
 <Card>
 <SetId>IA</SetId>
+<No>354</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -6374,6 +6347,7 @@ At the beginning of your upkeep, remove a depletion counter from River Delta.
 
 <Card>
 <SetId>IA</SetId>
+<No>355</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -6502,7 +6476,7 @@ Prevent all damage that would be dealt to enchanted creature by sources of the l
 <CardText>Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.</CardText>
 <Flavor>"I have seen the true path. I will not warm myself by the fire—I will become the flame."
 —Lim-Dûl, the Necromancer</Flavor>
-<Artist>Anthony Waters</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>2720</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -6535,9 +6509,8 @@ Whenever a creature dies, that creature's controller sacrifices a land.</CardTex
 <ManaCost>UBR (3)</ManaCost>
 <CardText>{3}: Look at the top three cards of target player's library, then put them back in any order.</CardText>
 <Flavor>"It is the changing of perception that is important."
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
-<Artist>Anthony Waters</Artist>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>2722</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -6568,7 +6541,8 @@ Archmage of the Unseen</Flavor>
 <Type>Sorcery</Type>
 <ManaCost>RGW (3)</ManaCost>
 <CardText>Fiery Justice deals 5 damage divided as you choose among any number of targets. Target opponent gains 5 life.</CardText>
-<Flavor>"The fire of justice burns like nothing else." —Lovisa Coldeyes, Balduvian Chieftain</Flavor>
+<Flavor>"The fire of justice burns like nothing else."
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>2724</Multiverseid>
 <Rulings>2017/03/14: You choose how many targets <Fiery Justice> has and how the damage is divided as you cast it. Each target for its damage-dealing effect must receive at least 1 damage.
@@ -6828,8 +6802,7 @@ All Mountains are Plains.</CardText>
 <CardText>Enchant creature
 Enchanted creature gets +0/+2 and can't be the target of spells.</CardText>
 <Flavor>"What can be a stronger shield than concealment? Have you ever defeated an enemy you didn't know existed?"
-—Gerda Äagesdotter,
-Archmage of the Unseen</Flavor>
+—Gerda Äagesdotter, Archmage of the Unseen</Flavor>
 <Artist>Margaret Organ-Kean</Artist>
 <Multiverseid>2738</Multiverseid>
 <Rulings>2009/10/01: The enchanted creature can still be the target of abilities.</Rulings>
@@ -6866,8 +6839,7 @@ Archmage of the Unseen</Flavor>
 <ManaCost>1RG (3)</ManaCost>
 <CardText>{2}, Discard a card at random: Stormbind deals 2 damage to any target.</CardText>
 <Flavor>"Once, our people could call down the storm itself to do our bidding."
-—Lovisa Coldeyes,
-Balduvian Chieftain</Flavor>
+—Lovisa Coldeyes, Balduvian Chieftain</Flavor>
 <Artist>NéNé Thomas & Phillip Mosness</Artist>
 <Multiverseid>2740</Multiverseid>
 <Rulings>2004/10/04: Since the discard is a cost, it can't be used with Library of Leng.</Rulings>

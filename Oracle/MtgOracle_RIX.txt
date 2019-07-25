@@ -500,7 +500,7 @@ When Squire's Devotion enters the battlefield, create a 1/1 white Vampire creatu
 <Name>Sun Sentinel</Name>
 <Type>Creature — Human Soldier 2/2</Type>
 <ManaCost>1W (2)</ManaCost>
-<CardText>Vigilance</CardText>
+<CardText>Vigilance (Attacking doesn't cause this creature to tap.)</CardText>
 <Flavor>"I will not sleep until Orazca is ours once more."</Flavor>
 <Artist>James Ryman</Artist>
 <Multiverseid>439683</Multiverseid>
@@ -747,6 +747,7 @@ Return target nonland permanent to its owner's hand. If you have the city's bles
 <CardText>Return target instant or sorcery card from your graveyard to your hand. Exile Flood of Recollection.</CardText>
 <Flavor>Jace tumbled down the waterfall and plunged deep into his past.</Flavor>
 <Artist>Magali Villeneuve</Artist>
+<Watermark>Planeswalker</Watermark>
 <Multiverseid>439695</Multiverseid>
 <Rulings>2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
 <Vintage>Legal</Vintage>
@@ -783,6 +784,7 @@ Return target nonland permanent to its owner's hand. If you have the city's bles
 <CardText>When Induced Amnesia enters the battlefield, target player exiles all cards from their hand face down, then draws that many cards.
 When Induced Amnesia is put into a graveyard from the battlefield, return the exiled cards to their owner's hand.</CardText>
 <Artist>Chris Rallis</Artist>
+<Watermark>Planeswalker</Watermark>
 <Multiverseid>439697</Multiverseid>
 <Rulings>2018/01/19: No player may look at the exiled cards.
 2018/01/19: If <Induced Amnesia> leaves the battlefield but isn't put into a graveyard, the exiled cards are lost forever. They won't be returned if another <Induced Amnesia> is put into a graveyard, even if that <Induced Amnesia> is represented by the same card.
@@ -1511,6 +1513,7 @@ All creatures get -2/-2 until end of turn. If you have the city's blessing, inst
 • Choose a card you own from outside the game and put it into your hand.</CardText>
 <Flavor>Another piece of a nefarious puzzle.</Flavor>
 <Artist>Svetlin Velinov</Artist>
+<Watermark>Planeswalker</Watermark>
 <Multiverseid>439734</Multiverseid>
 <Rulings>2018/01/19: In a casual game, a card you choose from outside the game comes from your personal collection. In a tournament event, a card you choose from outside the game must come from your sideboard. You may look at your sideboard at any time.
 2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
@@ -2451,7 +2454,7 @@ Draw a card.</CardText>
 <Name>Colossal Dreadmaw</Name>
 <Type>Creature — Dinosaur 6/6</Type>
 <ManaCost>4GG (6)</ManaCost>
-<CardText>Trample</CardText>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Flavor>"Remember when it was the most terrifying thing you'd ever seen?"
 —Captain Lannery Storm</Flavor>
 <Artist>Jesper Ejsing</Artist>
@@ -2547,7 +2550,7 @@ Whenever another Merfolk enters the battlefield under your control, put a +1/+1 
 <Name>Ghalta, Primal Hunger</Name>
 <Type>Legendary Creature — Elder Dinosaur 12/12</Type>
 <ManaCost>10GG (12)</ManaCost>
-<CardText>Ghalta, Primal Hunger costs {X} less to cast, where X is the total power of creatures you control.
+<CardText>This spell costs {X} less to cast, where X is the total power of creatures you control.
 Trample</CardText>
 <Flavor>The earth walks, strongest of all.</Flavor>
 <Artist>Chase Stone</Artist>
@@ -3116,6 +3119,7 @@ When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, wher
 {1}{G}{U}, {T}: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power.</CardText>
 <Artist>Titus Lunter</Artist>
 <Multiverseid>439816</Multiverseid>
+<Rulings>2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3178,6 +3182,10 @@ When enchanted creature dies, return it to the battlefield under your control, t
 <Flavor>. . . but every end is a new beginning.</Flavor>
 <Artist>Deruchenko Alexander</Artist>
 <Multiverseid>439819</Multiverseid>
+<Rulings>2018/01/19: If another player gains control of the enchanted creature, Journey to Eternity will be put into your graveyard.
+2018/01/19: If Journey to Eternity and the enchanted creature are both put into graveyards at the same time, Journey to Eternity's ability will return both to the battlefield.
+2018/01/19: If Journey to Eternity enchants a creature you control but don't own, the creature will return to the battlefield under your control from its owner's graveyard when it dies. In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any creatures you control from Journey to Eternity's effect are exiled.
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3273,7 +3281,15 @@ Whenever you attack with at least two creatures that have first strike, double s
 <Multiverseid>439824</Multiverseid>
 <Rulings>2018/01/19: <Path of Mettle>'s first ability deals 1 damage to each creature that doesn't have any of the four listed abilities. It doesn't deal 1 damage to each creature for each ability that creature doesn't have.
 2018/01/19: For <Path of Mettle>'s last ability to trigger, any two attacking creatures you control need to each have any one of the four listed abilities. They don't need to share one of those abilities. For example, attacking with Sun Sentinel (a creature with vigilance) and Fanatical Firebrand (a creature with haste) will cause <Path of Mettle>'s ability to trigger, as will attacking with two Sun Sentinels.
-2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).
+2018/01/19: Metzali's last ability can be activated before blockers are chosen.
+2018/01/19: Metzali's last ability can be activated after combat damage has been dealt. You'll choose a creature at random that attacked this turn and has survived combat damage.
+2018/01/19: A creature with indestructible can be chosen at random. It won't be destroyed.
+2018/01/19: A creature with hexproof can be chosen at random. It will be destroyed.
+2018/01/19: A creature that was put onto the battlefield attacking didn't attack, so it can't be chosen at random.
+2018/01/19: A creature that attacked and was removed from combat (such as by Spires of Orazca) still attacked, so it can be chosen at random.
+2018/01/19: Players can't take actions between choosing the creature at random and destroying it.
+2018/01/19: In a Two-Headed Giant game, Metzali's second ability causes the opposing team to lose 4 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3293,7 +3309,10 @@ Whenever you attack with at least two creatures that have first strike, double s
 {2}{W}, {T}: Choose a creature at random that attacked this turn. Destroy that creature.</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Multiverseid>439825</Multiverseid>
-<Rulings>2018/01/19: Metzali's last ability can be activated before blockers are chosen.
+<Rulings>2018/01/19: Path of Mettle's first ability deals 1 damage to each creature that doesn't have any of the four listed abilities. It doesn't deal 1 damage to each creature for each ability that creature doesn't have.
+2018/01/19: For Path of Mettle's last ability to trigger, any two attacking creatures you control need to each have any one of the four listed abilities. They don't need to share one of those abilities. For example, attacking with Sun Sentinel (a creature with vigilance) and Fanatical Firebrand (a creature with haste) will cause Path of Mettle's ability to trigger, as will attacking with two Sun Sentinels.
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).
+2018/01/19: Metzali's last ability can be activated before blockers are chosen.
 2018/01/19: Metzali's last ability can be activated after combat damage has been dealt. You'll choose a creature at random that attacked this turn and has survived combat damage.
 2018/01/19: A creature with indestructible can be chosen at random. It won't be destroyed.
 2018/01/19: A creature with hexproof can be chosen at random. It will be destroyed.
@@ -3321,7 +3340,9 @@ Whenever you attack with at least two creatures that have first strike, double s
 <Multiverseid>439826</Multiverseid>
 <Rulings>2018/01/19: <Profane Procession>'s ability can exile token creatures. They won't count towards the number of cards exiled with it.
 2018/01/19: If you have enough mana, you can activate <Profane Procession>'s ability multiple times before any activation resolves. It will be transformed if one activation exiles the third card. Further activations waiting to resolve won't cause Tomb of the Dusk Rose to transform back into <Profane Procession>, but they will exile creatures that Tomb of the Dusk Rose can bring back.
-2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).
+2018/01/19: If <Profane Procession> or Tomb of the Dusk Rose somehow has exiled cards other than with <Profane Procession>'s ability, those exiled cards aren't linked to Tomb of the Dusk Rose's second ability. They can't be put onto the battlefield with that ability.
+2018/01/19: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any permanents you control from Tomb of the Dusk Rose's ability are exiled.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3341,7 +3362,10 @@ Whenever you attack with at least two creatures that have first strike, double s
 <Flavor>. . . resting in the splendor of the dead.</Flavor>
 <Artist>Bastien L. Deharme</Artist>
 <Multiverseid>439827</Multiverseid>
-<Rulings>2018/01/19: If Profane Procession or <Tomb of the Dusk Rose> somehow has exiled cards other than with Profane Procession's ability, those exiled cards aren't linked to <Tomb of the Dusk Rose>'s second ability. They can't be put onto the battlefield with that ability.
+<Rulings>2018/01/19: Profane Procession's ability can exile token creatures. They won't count towards the number of cards exiled with it.
+2018/01/19: If you have enough mana, you can activate Profane Procession's ability multiple times before any activation resolves. It will be transformed if one activation exiles the third card. Further activations waiting to resolve won't cause <Tomb of the Dusk Rose> to transform back into Profane Procession, but they will exile creatures that <Tomb of the Dusk Rose> can bring back.
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).
+2018/01/19: If Profane Procession or <Tomb of the Dusk Rose> somehow has exiled cards other than with Profane Procession's ability, those exiled cards aren't linked to <Tomb of the Dusk Rose>'s second ability. They can't be put onto the battlefield with that ability.
 2018/01/19: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any permanents you control from <Tomb of the Dusk Rose>'s ability are exiled.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3509,6 +3533,10 @@ At the beginning of your end step, if you control five or more artifacts, transf
 <Flavor>Swimming in coins proved harder than they'd hoped, but dancing was a jingling delight.</Flavor>
 <Artist>Victor Adame Minguez</Artist>
 <Multiverseid>439835</Multiverseid>
+<Rulings>2018/01/19: Storm the Vault's first ability can trigger more than once in a turn if creatures you control deal combat damage at different times in a turn (most likely because one or more has first strike) or if creatures you control deal combat damage to more than one player at once.
+2018/01/19: The last ability of Storm the Vault doesn't trigger if you don't control five or more artifacts as your end step begins. If it does trigger but you don't control five or more artifacts as it resolves, it does nothing.
+2018/01/19: In a Two-Headed Giant game, if you control more than one creature that can attack, you attack different opponents so that Storm the Vault's first ability triggers twice.
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3572,7 +3600,8 @@ When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all l
 2018/01/19: The converted mana cost of a split card, such as a card with aftermath from the Amonkhet block, is based on the combined mana cost of its two halves. A split card doesn't have two converted mana costs.
 2018/01/19: If a card in exile has {X} in its mana cost, X is considered to be 0.
 2018/01/19: If an object has no mana cost, its converted mana cost is 0. A converted mana cost of 0 can still help unlock <Azor's Gateway>.
-2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).
+2018/01/19: The ability of Sanctum of the Sun is a mana ability. It doesn't use the stack and can't be responded to.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3591,7 +3620,12 @@ When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all l
 <Flavor>As soon as Jace laid eyes on the great sphinx's chamber, the shards of memory began sliding into place.</Flavor>
 <Artist>Yeong-Hao Han</Artist>
 <Multiverseid>439839</Multiverseid>
-<Rulings>2018/01/19: The ability of <Sanctum of the Sun> is a mana ability. It doesn't use the stack and can't be responded to.</Rulings>
+<Rulings>2018/01/19: The cards you exile from your hand are exiled face up.
+2018/01/19: The converted mana cost of a split card, such as a card with aftermath from the Amonkhet block, is based on the combined mana cost of its two halves. A split card doesn't have two converted mana costs.
+2018/01/19: If a card in exile has {X} in its mana cost, X is considered to be 0.
+2018/01/19: If an object has no mana cost, its converted mana cost is 0. A converted mana cost of 0 can still help unlock Azor's Gateway.
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).
+2018/01/19: The ability of <Sanctum of the Sun> is a mana ability. It doesn't use the stack and can't be responded to.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3671,6 +3705,10 @@ When Gleaming Barrier dies, create a colorless Treasure artifact token with "{T}
 <Flavor>An army of living gold for the golden city.</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>439843</Multiverseid>
+<Rulings>2018/01/19: If the target of Golden Guardian's activated ability isn't a legal target as that ability resolves, or if Golden Guardian has left the battlefield, neither creature will deal or be dealt damage.
+2018/01/19: Once Golden Guardian's activated ability has resolved, it will return to the battlefield transformed if it dies for any reason in that turn.
+2018/01/19: If Golden Guardian leaves the battlefield before its activated ability has resolved, it won't be returned to the battlefield when the ability resolves.
+2018/01/19: For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3912,7 +3950,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
-<Artist>Dimitar</Artist>
+<Artist>Dimitar Marinski</Artist>
 <Multiverseid>439856</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3927,7 +3965,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
-<Artist>Dimitar</Artist>
+<Artist>Dimitar Marinski</Artist>
 <Multiverseid>439857</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3942,7 +3980,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
-<Artist>Dimitar</Artist>
+<Artist>Dimitar Marinski</Artist>
 <Multiverseid>439858</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3957,7 +3995,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
-<Artist>Dimitar</Artist>
+<Artist>Dimitar Marinski</Artist>
 <Multiverseid>439859</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3972,7 +4010,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Dimitar</Artist>
+<Artist>Dimitar Marinski</Artist>
 <Multiverseid>439860</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

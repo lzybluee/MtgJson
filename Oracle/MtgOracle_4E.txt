@@ -129,10 +129,7 @@ When enchanted land becomes tapped, destroy it.</CardText>
 <Type>Creature — Wraith 3/3</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)</CardText>
-<Flavor>'Twas in the bogs of Cannelbrae
-My mate did meet an early grave
-'Twas nothing left for us to save
-In the peat-filled bogs of Cannelbrae.</Flavor>
+<Flavor>'Twas in the bogs of Cannelbrae My mate did meet an early grave 'Twas nothing left for us to save In the peat-filled bogs of Cannelbrae.</Flavor>
 <Artist>Jeff A. Menges</Artist>
 <Multiverseid>2091</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -166,7 +163,8 @@ In the peat-filled bogs of Cannelbrae.</Flavor>
 <ManaCost>3BBB (6)</ManaCost>
 <CardText>First strike
 At the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.</CardText>
-<Flavor>". . . [S]creams of horror rend th' affrighted skies." —Alexander Pope, The Rape of the Lock</Flavor>
+<Flavor>". . . [S]creams of horror rend th' affrighted skies."
+—Alexander Pope, The Rape of the Lock</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>2093</Multiverseid>
 <Rulings>2013/07/01: If you choose not to pay <Cosmic Horror>'s upkeep cost, it deals 7 damage to you only if it's actually destroyed. If it regenerates or an effect has given it indestructible, it deals no damage.</Rulings>
@@ -433,8 +431,7 @@ Activated abilities of white enchantments cost {3} more to activate.</CardText>
 <ManaCost>1BB (3)</ManaCost>
 <CardText>Flying
 Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.</CardText>
-<Flavor>"...There was no trace
-Of aught on that illumined face...."
+<Flavor>"...There was no trace Of aught on that illumined face...."
 —Samuel Coleridge, "Phantom"</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>2109</Multiverseid>
@@ -489,10 +486,7 @@ At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit
 <Type>Creature — Spirit Minion 2/1</Type>
 <ManaCost>1BB (3)</ManaCost>
 <CardText>Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)</CardText>
-<Flavor>Her hand gently beckons,
-she whispers your name—
-But those who go with her
-are never the same.</Flavor>
+<Flavor>Her hand gently beckons, she whispers your name— But those who go with her are never the same.</Flavor>
 <Artist>Randy Asplund-Faith</Artist>
 <Multiverseid>2112</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -560,13 +554,13 @@ are never the same.</Flavor>
 At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>2116</Multiverseid>
-<Rulings>2004/10/04: Note that bringing the Shadow back onto the battlefield from the graveyard is not a spell, it is an ability. It can't be countered with something that counters spells.
-2004/10/04: Since it enters the battlefield due to triggering at the beginning of upkeep, it is not possible to get an infinite loop with four <Nether Shadow>s.
-2008/10/01: A card is "above" another card in your graveyard if it was put into that graveyard later.
+<Rulings>2004/10/04: Since it enters the battlefield due to triggering at the beginning of upkeep, it is not possible to get an infinite loop with four <Nether Shadow>s.
+2004/10/04: Note that bringing the Shadow back onto the battlefield from the graveyard is not a spell, it is an ability. It can't be countered with something that counters spells.
 2008/10/01: Players may not rearrange the cards in their graveyards.
-2008/10/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.
 2008/10/01: The last thing that happens to a resolving instant or sorcery spell is that it's put into its owner's graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards.
-2008/10/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.</Rulings>
+2008/10/01: Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it.
+2008/10/01: A card is "above" another card in your graveyard if it was put into that graveyard later.
+2008/10/01: If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Fourth Edition</Set>
@@ -728,7 +722,8 @@ At the beginning of the upkeep of enchanted creature's controller, that player m
 <Name>Scathe Zombies</Name>
 <Type>Creature — Zombie 2/2</Type>
 <ManaCost>2B (3)</ManaCost>
-<Flavor>"They groaned, they stirred, they all uprose, Nor spake, nor moved their eyes; It had been strange, even in a dream, To have seen those dead men rise." —Samuel Coleridge, "The Rime of the Ancient Mariner"</Flavor>
+<Flavor>"They groaned, they stirred, they all uprose, Nor spake, nor moved their eyes; It had been strange, even in a dream, To have seen those dead men rise."
+—Samuel Coleridge, "The Rime of the Ancient Mariner"</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>2125</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -884,8 +879,7 @@ Enchanted creature gets +2/+1.</CardText>
 <ManaCost>B (1)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 {B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</CardText>
-<Flavor>"For something is amiss or out of place
-When mice with wings can wear a human face."
+<Flavor>"For something is amiss or out of place When mice with wings can wear a human face."
 —Theodore Roethke, "The Bat"</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>2134</Multiverseid>
@@ -955,10 +949,7 @@ Enchanted creature gets -2/-1.</CardText>
 <ManaCost>B (1)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</CardText>
-<Flavor>"About, about in reel and rout
-The death-fires danced at night;
-The water, like a witch's oils,
-Burnt green, and blue and white."
+<Flavor>"About, about in reel and rout The death-fires danced at night; The water, like a witch's oils, Burnt green, and blue and white."
 —Samuel Coleridge, "The Rime of the Ancient Mariner"</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>2138</Multiverseid>
@@ -1026,7 +1017,7 @@ Other Zombies have "{B}: Regenerate this permanent."</CardText>
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying</CardText>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
 <Flavor>These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>2142</Multiverseid>
@@ -1275,8 +1266,7 @@ Enchanted creature has flying.</CardText>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Enchant creature
 Prevent all combat damage that would be dealt to and dealt by enchanted creature.</CardText>
-<Flavor>". . . [A]nd gives to airy nothing
-A local habitation and a name."
+<Flavor>". . . [A]nd gives to airy nothing A local habitation and a name."
 —William Shakespeare, A Midsummer-Night's Dream</Flavor>
 <Artist>Phil Foglio</Artist>
 <Multiverseid>2157</Multiverseid>
@@ -1419,7 +1409,7 @@ Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as a
 <Name>Lord of Atlantis</Name>
 <Type>Creature — Merfolk 2/2</Type>
 <ManaCost>UU (2)</ManaCost>
-<CardText>Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)</CardText>
+<CardText>Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)</CardText>
 <Flavor>A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>2165</Multiverseid>
@@ -1480,9 +1470,9 @@ Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as a
 <CardText>Tap all lands target player controls and that player loses all unspent mana.</CardText>
 <Artist>Dameon Willich</Artist>
 <Multiverseid>2168</Multiverseid>
-<Rulings>2004/10/04: Since this is an instant, your opponent may use instants in response to the casting of this spell. Note that such spells and abilities will be resolved before the mana pool is emptied by the <Mana Short>. This makes it useless as a countermeasure for spells. To use it effectively, you need to use it during Upkeep and even then it will not prevent the use of instant spells and abilities.
-2004/10/04: If you play <Mana Short> in response to a spell, it will have no effect on that spell since the mana has already been paid.
-2004/10/04: It even taps lands that do not produce mana.</Rulings>
+<Rulings>2004/10/04: It even taps lands that do not produce mana.
+2004/10/04: Since this is an instant, your opponent may use instants in response to the casting of this spell. Note that such spells and abilities will be resolved before the mana pool is emptied by the <Mana Short>. This makes it useless as a countermeasure for spells. To use it effectively, you need to use it during Upkeep and even then it will not prevent the use of instant spells and abilities.
+2004/10/04: If you play <Mana Short> in response to a spell, it will have no effect on that spell since the mana has already been paid.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Fourth Edition</Set>
@@ -1562,10 +1552,7 @@ Enchanted land is the chosen type.</CardText>
 <Type>Creature — Illusion 3/3</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>"While, like a ghastly rapid river,
-Through the pale door,
-A hideous throng rush out forever,
-And laugh—but smile no more."
+<Flavor>"While, like a ghastly rapid river, Through the pale door, A hideous throng rush out forever, And laugh—but smile no more."
 —Edgar Allan Poe, "The Haunted Palace"</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>2173</Multiverseid>
@@ -1720,7 +1707,8 @@ When you control no Islands, sacrifice Sea Serpent.</CardText>
 <Type>Creature — Leviathan 3/3</Type>
 <ManaCost>4U (5)</ManaCost>
 <CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</CardText>
-<Flavor>"Leviathan, too! Can you catch him with a fish-hook or run a line round his tongue?" —Job 40:25</Flavor>
+<Flavor>"Leviathan, too! Can you catch him with a fish-hook or run a line round his tongue?"
+—Job 40:25</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>2182</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2548,7 +2536,8 @@ All creatures able to block enchanted creature do so.</CardText>
 <Type>Creature — Snake 1/2</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</CardText>
-<Flavor>"All we had left were their black and bloated bodies." —Maeveen O'Donagh, Memoirs of a Soldier</Flavor>
+<Flavor>"All we had left were their black and bloated bodies."
+—Maeveen O'Donagh, Memoirs of a Soldier</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>2230</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2871,9 +2860,7 @@ Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, de
 <ManaCost>2G (3)</ManaCost>
 <CardText>Defender (This creature can't attack.)
 {G}: Regenerate Wall of Brambles.</CardText>
-<Flavor>"What else, when chaos
-draws all forces inward
-to shape a single leaf."
+<Flavor>"What else, when chaos draws all forces inward to shape a single leaf."
 —Conrad Aiken</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>2249</Multiverseid>
@@ -2890,10 +2877,7 @@ to shape a single leaf."
 <Type>Creature — Wall 0/7</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Defender (This creature can't attack.)</CardText>
-<Flavor>"And through the drifts the snowy cliffs
-Did send a dismal sheen:
-Nor shapes of men nor beasts we ken—
-The ice was all between."
+<Flavor>"And through the drifts the snowy cliffs Did send a dismal sheen: Nor shapes of men nor beasts we ken— The ice was all between."
 —Samuel Coleridge, "The Rime of the Ancient Mariner"</Flavor>
 <Artist>Richard Thomas</Artist>
 <Multiverseid>2250</Multiverseid>
@@ -3011,7 +2995,8 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 <Type>Sorcery</Type>
 <ManaCost>XG (1)</ManaCost>
 <CardText>Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.</CardText>
-<Flavor>"Blow, winds, and crack your cheeks! rage! blow!" —William Shakespeare, King Lear</Flavor>
+<Flavor>"Blow, winds, and crack your cheeks! rage! blow!"
+—William Shakespeare, King Lear</Flavor>
 <Artist>Kaja Foglio</Artist>
 <Multiverseid>2257</Multiverseid>
 <Rulings>2007/09/16: <Winter Blast> can target tapped creatures. If they have flying, the second part of the effect will still affect them.
@@ -3024,6 +3009,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>175</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3038,6 +3024,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>176</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3052,6 +3039,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>177</No>
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
@@ -3066,6 +3054,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>178</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3080,6 +3069,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>179</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3094,6 +3084,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>180</No>
 <Name>Island</Name>
 <Type>Basic Land — Island</Type>
 <CardText>({T}: Add {U}.)</CardText>
@@ -3114,7 +3105,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 <CardText>{T}: Add {C}.
 {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
 {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</CardText>
-<Artist>Kaja & Phil Foglio</Artist>
+<Artist>Kaja Foglio & Phil Foglio</Artist>
 <Multiverseid>2387</Multiverseid>
 <Rulings>2005/08/01: If another player takes control of the Factory while it is animated, that player keeps control until the control effect ends. They do not lose control just because the card stops being an Assembly-Worker. Note that Auras which steal cards will go to the graveyard if the permanent they enchant is no longer valid.
 2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
@@ -3129,6 +3120,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>182</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3143,6 +3135,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>183</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3157,6 +3150,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>184</No>
 <Name>Mountain</Name>
 <Type>Basic Land — Mountain</Type>
 <CardText>({T}: Add {R}.)</CardText>
@@ -3185,6 +3179,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>186</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3199,6 +3194,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>187</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3213,6 +3209,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>188</No>
 <Name>Plains</Name>
 <Type>Basic Land — Plains</Type>
 <CardText>({T}: Add {W}.)</CardText>
@@ -3243,6 +3240,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>190</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -3257,6 +3255,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>191</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -3271,6 +3270,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 
 <Card>
 <SetId>4E</SetId>
+<No>192</No>
 <Name>Swamp</Name>
 <Type>Basic Land — Swamp</Type>
 <CardText>({T}: Add {B}.)</CardText>
@@ -3328,10 +3328,7 @@ At the beginning of the end step, sacrifice Ball Lightning.</CardText>
 <Type>Creature — Human Bird 1/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Flying</CardText>
-<Flavor>Four things that never meet do here unite
-To shed my blood and to ravage my heart,
-A radiant brow and tresses that beguile
-And rosy cheeks and a glittering smile."
+<Flavor>Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile."
 —The Arabian Nights, trans. Haddawy</Flavor>
 <Artist>Kaja Foglio</Artist>
 <Multiverseid>2260</Multiverseid>
@@ -3428,7 +3425,7 @@ Enchanted creature has mountainwalk. (It can't be blocked as long as defending p
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Flying
 {R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.</CardText>
-<Flavor>Noted neither for their good looks nor their charm, Manticores can be fearsome allies.  As dinner companions, however, they are best left alone.</Flavor>
+<Flavor>Noted neither for their good looks nor their charm, Manticores can be fearsome allies. As dinner companions, however, they are best left alone.</Flavor>
 <Artist>Daniel Gelon</Artist>
 <Multiverseid>2266</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3480,7 +3477,8 @@ Enchanted creature has mountainwalk. (It can't be blocked as long as defending p
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Flying
 {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.</CardText>
-<Flavor>"O to be a dragon . . . of silkworm size or immense . . ." —Marianne Moore, "O to Be a Dragon"</Flavor>
+<Flavor>"O to be a dragon . . . of silkworm size or immense . . ."
+—Marianne Moore, "O to Be a Dragon"</Flavor>
 <Artist>Amy Weber</Artist>
 <Multiverseid>2269</Multiverseid>
 <Rulings>2009/10/01: The first three times <Dragon Whelp>'s ability is activated in a turn will do nothing other than give it +1/+0 until end of turn. Any subsequent activations will also cause its delayed triggered ability to trigger. That means if you activate <Dragon Whelp>'s ability five times, for example, two different delayed triggered abilities will trigger at the beginning of the next end step and cause you to sacrifice <Dragon Whelp>.
@@ -3604,8 +3602,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <ManaCost>R (1)</ManaCost>
 <CardText>Enchant creature
 {R}: Enchanted creature gets +1/+0 until end of turn.</CardText>
-<Flavor>"And topples round the dreary west
-A looming bastion fringed with fire."
+<Flavor>"And topples round the dreary west A looming bastion fringed with fire."
 —Alfred, Lord Tennyson, "In Memoriam"</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>2276</Multiverseid>
@@ -3659,9 +3656,7 @@ A looming bastion fringed with fire."
 <ManaCost>RR (2)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature gets +2/+2.</CardText>
-<Flavor>"O! it is excellent
-To have a giant's strength, but it is tyrannous
-To use it like a giant."
+<Flavor>"O! it is excellent To have a giant's strength, but it is tyrannous To use it like a giant."
 —William Shakespeare, Measure for Measure</Flavor>
 <Artist>Justin Hampton</Artist>
 <Multiverseid>2279</Multiverseid>
@@ -3678,8 +3673,7 @@ To use it like a giant."
 <Type>Creature — Goblin Warrior 1/1</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>{R}: Goblin Balloon Brigade gains flying until end of turn.</CardText>
-<Flavor>"From up here we can drop rocks and arrows and more rocks!"
-"Uh, yeah boss, but how do we get down?"</Flavor>
+<Flavor>"From up here we can drop rocks and arrows and more rocks!" "Uh, yeah boss, but how do we get down?"</Flavor>
 <Artist>Andi Rusu</Artist>
 <Multiverseid>2280</Multiverseid>
 <Rulings>2008/08/01: You can activate the ability repeatedly during a turn. This generally has no additional effect, unless some other effect (like that from Adarkar Windform has caused it to lose flying since the last time the ability resolved.
@@ -3913,12 +3907,12 @@ At the beginning of each player's upkeep, that player may choose any number of t
 <CardText>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.</CardText>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>2294</Multiverseid>
-<Rulings>2004/10/04: If the land produces more than one color of mana at a single time, its controller chooses which of those types is produced by <Mana Flare>'s ability.
-2004/10/04: The types of mana are white, blue, black, red, green, and colorless.
-2004/10/04: When used with lands that can produce multiple colors, <Mana Flare> produces one additional mana of the same color that was produced. It can't give a mana of a color that wasn't produced.
+<Rulings>2004/10/04: When used with lands that can produce multiple colors, <Mana Flare> produces one additional mana of the same color that was produced. It can't give a mana of a color that wasn't produced.
 2004/10/04: Only produces extra mana when land is tapped for mana, not when tapped by some other effect.
-2004/10/04: <Mana Flare> adds one of whatever color the land produces after applying any land type or color changing effects.
+2004/10/04: If the land produces more than one color of mana at a single time, its controller chooses which of those types is produced by <Mana Flare>'s ability.
 2004/10/04: This is a triggered mana ability.
+2004/10/04: <Mana Flare> adds one of whatever color the land produces after applying any land type or color changing effects.
+2004/10/04: The types of mana are white, blue, black, red, green, and colorless.
 2007/09/16: Does not copy any restrictions on the mana, such as with Mishra's Workshop or Pillar of the Paruns.
 2007/09/16: Produces only one additional mana, regardless of how much was produced by tapping the land.</Rulings>
 <Vintage>Legal</Vintage>
@@ -4019,8 +4013,8 @@ At the beginning of each player's upkeep, that player may choose any number of t
 <Type>Sorcery</Type>
 <ManaCost>4R (5)</ManaCost>
 <CardText>Pyrotechnics deals 4 damage divided as you choose among any number of targets.</CardText>
-<Flavor>"Hi! ni! ya! Behold the man of flint, that's me!
-Four lightnings zigzag from me, strike and return." —Navajo war chant</Flavor>
+<Flavor>"Hi! ni! ya! Behold the man of flint, that's me! Four lightnings zigzag from me, strike and return."
+—Navajo war chant</Flavor>
 <Artist>Anson Maddocks</Artist>
 <Multiverseid>2300</Multiverseid>
 <Rulings>2014/11/24: The number of targets chosen for <Pyrotechnics> must be at least one and at most four. You choose how the damage is divided as you cast the spell, not as it resolves. Each target must be assigned at least 1 damage.
@@ -4210,10 +4204,7 @@ Enchanted creature gets +1/+0.
 <Type>Creature — Troll 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>{R}: Regenerate Uthden Troll.</CardText>
-<Flavor>"Oi oi oi, me gotta hurt in 'ere,
-Oi oi oi, me smell a ting is near,
-Gonna bosh 'n gonna nosh
-'n da hurt'll disappear."
+<Flavor>"Oi oi oi, me gotta hurt in 'ere, Oi oi oi, me smell a ting is near, Gonna bosh 'n gonna nosh 'n da hurt'll disappear."
 —Troll chant</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>2311</Multiverseid>
@@ -4865,7 +4856,7 @@ Enchanted creature gets +1/+2.</CardText>
 <Name>Land Tax</Name>
 <Type>Enchantment</Type>
 <ManaCost>W (1)</ManaCost>
-<CardText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.</CardText>
+<CardText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.</CardText>
 <Artist>Brian Snõddy</Artist>
 <Multiverseid>2349</Multiverseid>
 <Rulings>2006/10/15: You can fetch any of the "Snow-Covered" lands, since they all also have the supertype basic.
@@ -4921,7 +4912,8 @@ Enchanted creature gets +1/+2.</CardText>
 <Type>Creature — Human Knight 3/3</Type>
 <ManaCost>2WW (4)</ManaCost>
 <CardText>{W}{W}, {T}: Destroy target black permanent.</CardText>
-<Flavor>"Look to the north; there you will find aid and comfort." —The Book of Tal</Flavor>
+<Flavor>"Look to the north; there you will find aid and comfort."
+—The Book of Tal</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>2352</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4954,7 +4946,8 @@ Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until e
 <Name>Pearled Unicorn</Name>
 <Type>Creature — Unicorn 2/2</Type>
 <ManaCost>2W (3)</ManaCost>
-<Flavor>"'Do you know, I always thought Unicorns were fabulous monsters, too? I never saw one alive before!' 'Well, now that we have seen each other,' said the Unicorn, 'if you'll believe in me, I'll believe in you.'" —Lewis Carroll</Flavor>
+<Flavor>"'Do you know, I always thought Unicorns were fabulous monsters, too? I never saw one alive before!' 'Well, now that we have seen each other,' said the Unicorn, 'if you'll believe in me, I'll believe in you.'"
+—Lewis Carroll</Flavor>
 <Artist>Cornelius Brudi</Artist>
 <Multiverseid>2354</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5211,8 +5204,7 @@ Whenever enchanted creature deals damage, you gain that much life.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>W (1)</ManaCost>
 <CardText>Look at the top five cards of target player's library. You may then have that player shuffle that library.</CardText>
-<Flavor>"Visions of glory, spare my aching sight,
-Ye unborn ages, crowd not on my soul!"
+<Flavor>"Visions of glory, spare my aching sight, Ye unborn ages, crowd not on my soul!"
 —Thomas Gray, "The Bard"</Flavor>
 <Artist>NéNé Thomas</Artist>
 <Multiverseid>2369</Multiverseid>
@@ -5316,7 +5308,8 @@ Enchanted creature has protection from white. This effect doesn't remove White W
 <Type>Artifact</Type>
 <ManaCost>8 (8)</ManaCost>
 <CardText>{8}, {T}: Aladdin's Ring deals 4 damage to any target.</CardText>
-<Flavor>"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'" —The Arabian Nights, Junior Classics trans.</Flavor>
+<Flavor>"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'"
+—The Arabian Nights, Junior Classics trans.</Flavor>
 <Artist>Dan Frazier</Artist>
 <Multiverseid>2015</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5605,8 +5598,7 @@ At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +
 <CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 Colossus of Sardia doesn't untap during your untap step.
 {9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.</CardText>
-<Flavor>From the Sardian mountains wakes ancient doom:
-Warrior born from a rocky womb.</Flavor>
+<Flavor>From the Sardian mountains wakes ancient doom: Warrior born from a rocky womb.</Flavor>
 <Artist>Jesper Myrfors</Artist>
 <Multiverseid>2031</Multiverseid>
 <Rulings>2008/05/01: The ability that untaps it during your upkeep has been returned to an activated ability. There is no restriction on how many times it can be untapped during your upkeep with this ability.</Rulings>
@@ -5792,9 +5784,9 @@ The chosen player's maximum hand size is four.</CardText>
 —Mairsil, called the Pretender</Flavor>
 <Artist>Quinton Hoover</Artist>
 <Multiverseid>2042</Multiverseid>
-<Rulings>2004/10/04: It only produces one mana even if the land can produce more than one.
-2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
+<Rulings>2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
 2004/10/04: The ability can be activated if the opponent has no lands that produce mana, but the effect will not be able to generate any mana.
+2004/10/04: It only produces one mana even if the land can produce more than one.
 2009/10/01: The colors of mana are white, blue, black, red, and green. <Fellwar Stone> can't be tapped for colorless mana, even if a land an opponent controls could produce colorless mana.
 2009/10/01: <Fellwar Stone> checks the effects of all mana-producing abilities of lands your opponents control, but it doesn't check their costs. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If an opponent controls Vivid Crag and you control <Fellwar Stone>, you can tap <Fellwar Stone> for any color of mana. It doesn't matter whether Vivid Crag has a charge counter on it, and it doesn't matter whether it's untapped.
 2009/10/01: When determining what colors of mana your opponents' lands could produce, take into account any applicable replacement effects that would apply to those lands' mana abilities (such as Contamination's effect, for example). If there is more than one, consider them in any possible order.
@@ -6033,14 +6025,14 @@ The chosen player's maximum hand size is four.</CardText>
 If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.</CardText>
 <Artist>Daniel Gelon</Artist>
 <Multiverseid>2056</Multiverseid>
-<Rulings>2004/10/04: This effect has no effect on the cards being put into the graveyard from a library, because they are not "discarded".
-2004/10/04: You can't use the <Library of Leng> ability to place a discarded card on top of your library when you discard a card as a cost, because costs aren't effects.
+<Rulings>2004/10/04: You can't use the <Library of Leng> ability to place a discarded card on top of your library when you discard a card as a cost, because costs aren't effects.
 2004/10/04: The discard triggers anything else that triggers on discards.
 2004/10/04: You can look at a randomly discarded card before deciding where it goes.
-2004/10/04: The ability applies any time a spell or ability has you discard as part of its effect. It does not matter if you or your opponent control the spell or ability. The discard is forced because it is an effect.
+2004/10/04: This effect has no effect on the cards being put into the graveyard from a library, because they are not "discarded".
 2004/10/04: If more than one card is discarded due to a single effect, the Library allows you to decide whether or not to use it on each of the cards. You get to decide the order the cards are placed on the library if more than one goes there.
 2004/10/04: Since the card goes directly to the library, the card is not revealed unless the spell or ability requiring the discard specifically says it is.
 2004/10/04: The ability replaces the normal discard action with a discard action that puts the card on the library instead of the graveyard.
+2004/10/04: The ability applies any time a spell or ability has you discard as part of its effect. It does not matter if you or your opponent control the spell or ability. The discard is forced because it is an effect.
 2009/10/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put <Library of Leng> onto the battlefield, you'll have no maximum hand size. However, if those permanents entered the battlefield in the opposite order, your maximum hand size would be two.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

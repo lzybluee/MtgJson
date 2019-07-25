@@ -1,0 +1,114 @@
+<Card>
+<SetId>PS18</SetId>
+<No>14</No>
+<Name>Gideon of the Trials</Name>
+<Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>+1: Until your next turn, prevent all damage target permanent would deal.
+0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+0: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2017/04/18: Gideon's first ability will continue to prevent damage dealt by the target permanent even if Gideon leaves the battlefield before your next turn.
+2017/04/18: Gideon's second ability doesn't count as a creature entering the battlefield. Gideon was already on the battlefield; he only changed his types.
+2017/04/18: If Gideon becomes a creature the same turn he enters the battlefield, you can't attack with him or use any of his {T} abilities (if he gains any).
+2017/04/18: Gideon's second ability causes him to become a creature with the creature types Human and Soldier. He remains a planeswalker with the planeswalker type Gideon. (He also retains any other card types or subtypes he may have had.) Each subtype is correlated to the proper card type: planeswalker is only a type (not a creature type), and Human and Soldier are just creature types (not planeswalker types).
+2017/04/18: If damage that can't be prevented is dealt to Gideon after his second ability has resolved, that damage will have all applicable results: specifically, the damage is marked on Gideon (since he's a creature) and that damage causes that many loyalty counters to be removed from him (since he's a planeswalker). Even though he has indestructible, if Gideon has no loyalty counters on him, he's put into his owner's graveyard.
+2017/04/18: If Gideon leaves the battlefield after giving you his emblem, you'll keep the emblem. Its effect will apply again later if another Gideon comes under your control.
+2017/04/18: No game effect can cause you to lose the game or cause any opponent to win the game while Gideon's emblem is in effect. It doesn't matter whether you have 0 or less life, you're forced to draw a card while your library is empty, you have ten or more poison counters, you're at your Glorious End, your opponent casts a second Approach of the Second Sun, or so on. You keep playing.
+2017/04/18: Other circumstances can still cause you to lose the game. You will lose a game if you concede, if you're penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if your Magic Online® game clock runs out of time.
+2017/04/18: If you have Gideon's emblem in a Two-Headed Giant game and control a Gideon planeswalker, your team can't lose the game and the opposing team can't win the game. If your teammate controls a Gideon planeswalker but you do not, your emblem's effect doesn't apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2018</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PS18</SetId>
+<No>60</No>
+<Name>Jace, Cunning Castaway</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
+-2: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
+-5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2017/09/29: The delayed triggered ability created by Jace's first ability can trigger more than once in a turn if creatures you control deal combat damage at different times in a turn (most likely because one or more has first strike) or if creatures you control deal combat damage to more than one player at once.
+2017/09/29: If a token created by Jace's second ability becomes the target of a spell, its ability triggers and goes on the stack on top of that spell. The ability will resolve first (causing the token to be sacrificed). Unless the spell has another target, it will then be countered when it tries to resolve for having no legal targets.
+2017/09/29: The tokens from Jace's last ability copy exactly what is printed on Jace and nothing else. They don't copy how many counters are on him or Auras attached to him, or any non-copy effects that have changed his color or types, and so on. They'll each enter the battlefield with three loyalty counters. You can activate one loyalty ability of each of the tokens this turn.
+2017/09/29: The tokens created by Jace's last ability don't have the legendary supertype. If another object becomes a copy of the token, that copy also won't be legendary.
+2017/09/29: You can control one legendary <Jace, Cunning Castaway> in addition to any number of nonlegendary copies of <Jace, Cunning Castaway>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2018</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PS18</SetId>
+<No>106</No>
+<Name>Liliana, Untouched by Death</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 4)</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>+1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
+-2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
+-3: You may cast Zombie cards from your graveyard this turn.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2018/07/13: Once Liliana's third ability has resolved, any Zombie cards in your graveyard may be cast this turn, including Zombie cards that enter your graveyard later in the turn.
+2018/07/13: In a Two-Headed Giant game, Liliana's first ability causes the opposing team to lose 4 life and you gain 2 life.
+2018/07/13: The value of X is determined only as Liliana's second ability resolves. If the number of Zombies you control changes later, the target creature's power and toughness won't change.
+2018/07/13: Casting a Zombie card from your graveyard once Liliana's third ability has resolved follows the normal rules for casting that card. You must pay its costs, and you must follow all applicable timing rules.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2018</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PS18</SetId>
+<No>110</No>
+<Name>Chandra, Torch of Defiance</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>+1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
++1: Add {R}{R}.
+-3: Chandra, Torch of Defiance deals 4 damage to target creature.
+-7: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2016/09/20: An effect that instructs you to "cast" a card doesn't allow you to play lands. If the card exiled with Chandra's first ability is a land card, you can't play it and Chandra deals 2 damage to each opponent.
+2016/09/20: If you cast the exiled card, you do so as part of the resolution of Chandra's ability. You can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
+2016/09/20: You pay the costs for the exiled card if you cast it. You may pay alternative costs such as emerge rather than the card's mana cost.
+2016/09/20: Loyalty abilities can't be mana abilities. Chandra's second ability uses the stack and can be countered or otherwise responded to. Like all loyalty abilities, it can be activated only once per turn, during your main phase, when the stack is empty, and only if no other loyalty abilities of the planeswalker have been activated this turn.
+2016/09/20: The emblem created by Chandra's last ability is colorless. The damage it deals is from a colorless source.
+2016/09/20: Chandra's emblem's ability resolves before the spell that caused it to trigger.
+2016/09/20: In a Two-Headed Giant game, Chandra's first ability causes 4 damage total to be dealt to the opposing team.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2018</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PS18</SetId>
+<No>163</No>
+<Name>Nissa, Vital Force</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 5)</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>+1: Untap target land you control. Until your next turn, it becomes a 5/5 Elemental creature with haste. It's still a land.
+-3: Return target permanent card from your graveyard to your hand.
+-6: You get an emblem with "Whenever a land enters the battlefield under your control, you may draw a card."</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2016/09/20: You can activate Nissa's first ability targeting a land that's already untapped.
+2016/09/20: After resolving Nissa's first ability, the target land still has any abilities it had before it became a creature and any other types it had.
+2016/09/20: A permanent card is an artifact, creature, enchantment, land, or planeswalker card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>San Diego Comic-Con 2018</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

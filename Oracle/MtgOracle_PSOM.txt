@@ -1,0 +1,94 @@
+<Card>
+<SetId>PSOM</SetId>
+<No>24</No>
+<Name>Tempered Steel</Name>
+<Type>Enchantment</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Artifact creatures you control get +2/+2.</CardText>
+<Artist>jD</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Scars of Mirrodin Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSOM</SetId>
+<No>*69</No>
+<Name>Memoricide</Name>
+<Type>Sorcery</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles their library.</CardText>
+<Flavor>"You claim wisdom, yet I see nothing in here but tawdry wishes."</Flavor>
+<Artist>Erica Yang</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2011/01/01: Because you're searching for "any number" of cards with the chosen name, you can opt to find all of them, none of them, or any number in between. That means you may leave any cards with that name in that target's graveyard, hand, and/or library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Scars of Mirrodin Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSOM</SetId>
+<No>174</No>
+<Name>Memnite</Name>
+<Type>Artifact Creature — Construct 1/1</Type>
+<ManaCost>0 (0)</ManaCost>
+<Flavor>Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.</Flavor>
+<Artist>rk post</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Scars of Mirrodin Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PSOM</SetId>
+<No>205</No>
+<Name>Steel Hellkite</Name>
+<Type>Artifact Creature — Dragon 5/5</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Flying
+{2}: Steel Hellkite gets +1/+0 until end of turn.
+{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.</CardText>
+<Artist>Jaime Jones</Artist>
+<Watermark>Mirran</Watermark>
+<Rulings>2011/01/01: If a nonland permanent has no mana symbols in its upper right corner (because it's a token that's not copying of something else, for example), its converted mana cost is 0.
+2011/01/01: <Steel Hellkite>'s last ability destroys only nonland permanents whose converted mana cost is exactly equal to X, and only those controlled by players who have been dealt combat damage by <Steel Hellkite> this turn.
+2011/01/01: It doesn't matter who controlled those permanents at the time <Steel Hellkite> dealt combat damage, or if those permanents were even on the battlefield at that time.
+2011/01/01: You may activate the last ability even if <Steel Hellkite> hasn't dealt combat damage to any players that turn. If you do, the ability won't do anything.
+2011/01/01: If <Steel Hellkite>'s third ability is activated with X equal to 0, it will destroy each nonland permanent with converted mana cost 0 the appropriate players control.
+2011/01/01: The converted mana cost of a permanent is determined solely by the mana symbols printed in its upper right corner, unless it's copying something else (see below). The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {3}{U}{U} has converted mana cost 5.
+2011/01/01: If a permanent is copying something else, its converted mana cost is the converted mana cost of whatever it's copying.
+2011/01/01: In all cases, ignore any alternative costs or additional costs (such as kicker) paid when the permanent was cast.
+2011/01/01: If the mana cost of a permanent includes {X}, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Scars of Mirrodin Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PSOM</SetId>
+<No>223</No>
+<Name>Wurmcoil Engine</Name>
+<Type>Artifact Creature — Wurm 6/6</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Deathtouch, lifelink
+When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2011/01/01: The two creature tokens enter the battlefield at the same time.
+2011/01/01: It must be clear to all players which token has deathtouch and which token has lifelink.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Scars of Mirrodin Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

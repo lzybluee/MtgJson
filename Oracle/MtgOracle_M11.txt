@@ -42,15 +42,16 @@
 <Name>Ajani's Pridemate</Name>
 <Type>Creature — Cat Soldier 2/2</Type>
 <ManaCost>1W (2)</ManaCost>
-<CardText>Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.</CardText>
+<CardText>Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.</CardText>
 <Flavor>"When one of us prospers, the pride prospers."
 —Jazal Goldmane</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>205065</Multiverseid>
-<Rulings>2017/11/17: The ability of <Ajani's Pridemate> triggers just once for each life-gaining event, whether it's 1 life from Auriok Champion or 6 life from Tavern Swindler.
-2017/11/17: If <Ajani's Pridemate> is dealt lethal damage at the same time that you gain life, it won't receive a counter from its ability in time to save it.
-2017/11/17: Each creature with lifelink dealing combat damage causes a separate life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, <Ajani's Pridemate>'s ability will trigger twice. However, if a single creature you control with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
-2017/11/17: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase.</Rulings>
+<Rulings>2019/05/03: The ability of <Ajani's Pridemate> triggers just once for each life-gaining event, whether it's 1 life from Ajani's Welcome or 2 life from Battlefield Promotion.
+2019/05/03: If <Ajani's Pridemate> is dealt lethal damage at the same time that you gain life, it won't receive a counter from its ability in time to save it.
+2019/05/03: Each creature with lifelink dealing combat damage causes a separate life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, <Ajani's Pridemate>'s ability will trigger twice. However, if a single creature you control with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
+2019/05/03: If you gain an amount of life "for each" of something, that life is gained as one event and the ability of <Ajani's Pridemate> triggers only once.
+2019/05/03: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it caused your team's life total to increase.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -269,8 +270,7 @@ First strike (This creature deals combat damage before creatures without first s
 <ManaCost>W (1)</ManaCost>
 <CardText>Flying
 Whenever Goldenglow Moth blocks, you may gain 4 life.</CardText>
-<Flavor>"Little moth, fluttering bright,
-What luck will you bring tonight?"
+<Flavor>"Little moth, fluttering bright, What luck will you bring tonight?"
 —Benalish children's rhyme</Flavor>
 <Artist>Howard Lyon</Artist>
 <Multiverseid>208295</Multiverseid>
@@ -365,9 +365,9 @@ Other Knight creatures you control get +1/+1 and have indestructible. (Damage an
 <Artist>Jason Chan</Artist>
 <Multiverseid>204988</Multiverseid>
 <Rulings>2010/08/15: If an effect would simultaneously destroy <Knight Exemplar> and another Knight creature you control, only <Knight Exemplar> is destroyed.
-2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.
 2013/07/01: If another Knight creature you control is dealt lethal damage, the creature isn't destroyed, but the damage remains marked on it. If, at some point later in that turn, you no longer control <Knight Exemplar> or it loses its abilities, the other Knight creature will lose indestructible and will be destroyed.
-2013/07/01: If you control two <Knight Exemplar>s, each one causes the other to get +1/+1 and have indestructible.</Rulings>
+2013/07/01: If you control two <Knight Exemplar>s, each one causes the other to get +1/+1 and have indestructible.
+2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -404,7 +404,7 @@ You have hexproof. (You can't be the target of spells or abilities your opponent
 —Brezard Skeinbow, captain of the guard</Flavor>
 <Artist>rk post</Artist>
 <Multiverseid>208280</Multiverseid>
-<Rulings>2017/04/18: Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast <Mighty Leap> during the declare attackers step at the latest.</Rulings>
+<Rulings>2018/07/13: Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast <Mighty Leap> during the declare attackers step at the latest.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -438,7 +438,7 @@ Enchanted creature can't attack or block.</CardText>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Palace Guard can block any number of creatures.</CardText>
 <Flavor>"I'm not nearly as bothered by being outnumbered as I am by their foul stench."</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>205110</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -451,7 +451,7 @@ Enchanted creature can't attack or block.</CardText>
 <SetId>M11</SetId>
 <No>25</No>
 <Name>Roc Egg</Name>
-<Type>Creature — Bird 0/3</Type>
+<Type>Creature — Bird Egg 0/3</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Defender (This creature can't attack.)
 When Roc Egg dies, create a 3/3 white Bird creature token with flying.</CardText>
@@ -582,8 +582,7 @@ As long as you have 30 or more life, Serra Ascendant gets +5/+5 and has flying.<
 <Type>Sorcery</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Destroy target artifact or enchantment. You gain 4 life.</CardText>
-<Flavor>"A relic donation is suggested."
-"The suggestion is mandatory."
+<Flavor>"A relic donation is suggested." "The suggestion is mandatory."
 —Temple signs</Flavor>
 <Artist>Sam Wood</Artist>
 <Multiverseid>205095</Multiverseid>
@@ -791,10 +790,7 @@ Protection from black (This creature can't be blocked, targeted, dealt damage, o
 <Type>Creature — Siren 1/1</Type>
 <ManaCost>1U (2)</ManaCost>
 <CardText>{T}: Target creature an opponent controls attacks you this turn if able.</CardText>
-<Flavor>"The ground polluted floats with human gore,
-And human carnage taints the dreadful shore
-Fly swift the dangerous coast: let every ear
-Be stopp'd against the song! 'tis death to hear!"
+<Flavor>"The ground polluted floats with human gore, And human carnage taints the dreadful shore Fly swift the dangerous coast: let every ear Be stopp'd against the song! 'tis death to hear!"
 —Homer, The Odyssey, trans. Pope</Flavor>
 <Artist>Chippy</Artist>
 <Multiverseid>205073</Multiverseid>
@@ -1361,8 +1357,7 @@ You control enchanted creature.</CardText>
 —Garild, merfolk mage</Flavor>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>205120</Multiverseid>
-<Rulings>2009/10/01: The second part of <Sleep>'s effect affects all creatures the targeted player controls as <Sleep> resolves, not just the ones that <Sleep> actually caused to become tapped.
-2009/10/01: <Sleep> tracks both the player and the creatures. If one of the creatures controlled by the targeted player as <Sleep> resolves changes controllers, the creature will untap as normal during its new controller's next untap step.</Rulings>
+<Rulings>2018/07/13: The second part of <Sleep>'s ability affects all creatures the targeted player controls as <Sleep> resolves, not only the ones that <Sleep> actually caused to become tapped.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1635,7 +1630,7 @@ Tap five untapped Vampires you control: Gain control of target creature. It beco
 <Name>Child of Night</Name>
 <Type>Creature — Vampire 2/1</Type>
 <ManaCost>1B (2)</ManaCost>
-<CardText>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</CardText>
+<CardText>Lifelink</CardText>
 <Flavor>A vampire enacts vengeance on the entire world, claiming her debt two tiny pinpricks at a time.</Flavor>
 <Artist>Ash Wood</Artist>
 <Multiverseid>205122</Multiverseid>
@@ -2048,14 +2043,11 @@ As Phylactery Lich enters the battlefield, put a phylactery counter on an artifa
 When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.</CardText>
 <Artist>Michael Komarck</Artist>
 <Multiverseid>205034</Multiverseid>
-<Rulings>2010/08/15: <Phylactery Lich>'s first ability doesn't target the artifact. You can choose an artifact that has shroud, for example.
-2010/08/15: If you control no artifacts as <Phylactery Lich> enters the battlefield, its first ability won't do anything. As soon as it enters the battlefield, its last ability will trigger (unless you control some other permanent with a phylactery counter on it) and you'll have to sacrifice it.
-2010/08/15: If <Phylactery Lich> and an artifact are entering the battlefield under your control at the same time, you can't put a phylactery counter on that artifact. You must choose an artifact you control that's already on the battlefield.
-2010/08/15: <Phylactery Lich>'s last ability is a "state trigger." Once a state trigger triggers, it won't trigger again as long as the ability is on the stack. If the ability is countered and the trigger condition is still true, it will immediately trigger again.
-2010/08/15: <Phylactery Lich>'s last ability checks whether you control any permanents with phylactery counters on them, not whether you control any artifacts with phylactery counters on them. If an artifact with a phylactery counter on it somehow ceases to be an artifact, <Phylactery Lich> doesn't care.
-2010/08/15: <Phylactery Lich>'s last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, say you put a phylactery counter on a Demon's Horn as <Phylactery Lich> enters the battlefield. Then you put a phylactery counter on a Crystal Ball as another <Phylactery Lich> enters the battlefield. Then Crystal Ball is destroyed. Since you still control the Demon's Horn, the last ability of neither <Phylactery Lich> triggers.
-2010/08/15: The game continually checks whether you control a permanent with a phylactery counter on it. The moment you don't, <Phylactery Lich>'s last ability triggers. The ability doesn't check again, so you'll have to sacrifice <Phylactery Lich> when it resolves even if you wind up controlling a permanent with a phylactery counter on it by then.
-2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons <Phylactery Lich> would be put into a graveyard are if it's sacrificed (perhaps due to its last ability), or if its toughness is 0 or less.</Rulings>
+<Rulings>2018/07/13: <Phylactery Lich>'s first ability doesn't target the artifact. No player may take actions between the time you choose an artifact and the time you put a phylactery counter on it.
+2018/07/13: If you control no artifacts as <Phylactery Lich> enters the battlefield, its first ability won't do anything. As soon as it enters the battlefield, its last ability will trigger (unless you control some other permanent with a phylactery counter on it) and you'll have to sacrifice it.
+2018/07/13: If <Phylactery Lich> and an artifact are entering the battlefield under your control at the same time, you can't put a phylactery counter on that artifact. You must choose an artifact you control that's already on the battlefield.
+2018/07/13: <Phylactery Lich>'s last ability is a "state trigger." Once a state trigger triggers, it won't trigger again as long as the ability is on the stack. If the ability is countered and the trigger condition is still true, it will immediately trigger again.
+2018/07/13: <Phylactery Lich>'s last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, if you control two <Phylactery Lich>es and two different artifacts with phylactery counters, neither <Phylactery Lich> will be sacrificed if one of those artifacts leaves the battlefield.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2130,10 +2122,9 @@ A deck can have any number of cards named Relentless Rats.</CardText>
 —Liliana Vess</Flavor>
 <Artist>Vance Kovacs</Artist>
 <Multiverseid>205113</Multiverseid>
-<Rulings>2009/10/01: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
-2009/10/01: If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless.
-2009/10/01: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave> effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes.
-2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
+<Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
+2018/07/13: If the creature is normally colorless, it will simply become black. It can't be both black and colorless.
+2018/07/13: A later effect that changes the affected creature's colors will overwrite that part of <Rise from the Grave>'s effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2205,8 +2196,8 @@ A deck can have any number of cards named Relentless Rats.</CardText>
 —Guttor, flesh-warper</Flavor>
 <Artist>Zoltan Boros & Gabor Szikszai</Artist>
 <Multiverseid>205048</Multiverseid>
-<Rulings>2010/08/15: You may target any creature with <Stabbing Pain>. It's okay if it's already tapped.
-2010/08/15: If <Stabbing Pain> targets an untapped creature with 1 toughness, that creature gets -1/-1, then it becomes tapped, then (after <Stabbing Pain> resolves) it's put into the graveyard as a state-based action. Similarly, if <Stabbing Pain> targets an untapped creature with 1 less than lethal damage marked on it (such as a 3/3 creature with 2 damage marked on it), that creature gets -1/-1, then it becomes tapped, then (after <Stabbing Pain> resolves) it's destroyed as a state-based action. In each case, any abilities that trigger when that creature becomes tapped will trigger.</Rulings>
+<Rulings>2010/08/15: If <Stabbing Pain> targets an untapped creature with 1 toughness, that creature gets -1/-1, then it becomes tapped, then (after <Stabbing Pain> resolves) it's put into the graveyard as a state-based action. Similarly, if <Stabbing Pain> targets an untapped creature with 1 less than lethal damage marked on it (such as a 3/3 creature with 2 damage marked on it), that creature gets -1/-1, then it becomes tapped, then (after <Stabbing Pain> resolves) it's destroyed as a state-based action. In each case, any abilities that trigger when that creature becomes tapped will trigger.
+2010/08/15: You may target any creature with <Stabbing Pain>. It's okay if it's already tapped.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2258,14 +2249,13 @@ Enchanted creature gets +2/+1.</CardText>
 <Name>Act of Treason</Name>
 <Type>Sorcery</Type>
 <ManaCost>2R (3)</ManaCost>
-<CardText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</CardText>
+<CardText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</CardText>
 <Flavor>"Rage courses in every heart, yearning to betray its rational prison."
 —Sarkhan Vol</Flavor>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>205072</Multiverseid>
-<Rulings>2009/10/01: <Act of Treason> can target any creature, even one that's untapped or one you already control.
-2010/08/15: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.
-2013/07/01: If you control a legendary creature and gain control of another legendary creature with the same name, you'll choose one to remain on the battlefield and put the other into its owner's graveyard.</Rulings>
+<Rulings>2019/01/25: <Act of Treason> can target any creature, even one that's untapped or one you already control.
+2019/01/25: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2357,11 +2347,7 @@ At the beginning of the end step, sacrifice Arc Runner.</CardText>
 <Name>Canyon Minotaur</Name>
 <Type>Creature — Minotaur Warrior 3/3</Type>
 <ManaCost>3R (4)</ManaCost>
-<Flavor>"We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side."
-"Isn't the shortest route through the canyon?"
-"Yes."
-"So shouldn't we—"
-"No."</Flavor>
+<Flavor>"We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side." "Isn't the shortest route through the canyon?" "Yes." "So shouldn't we—" "No."</Flavor>
 <Artist>Steve Prescott</Artist>
 <Multiverseid>208000</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2531,7 +2517,7 @@ Combust deals 5 damage to target white or blue creature. The damage can't be pre
 <Name>Ember Hauler</Name>
 <Type>Creature — Goblin 2/2</Type>
 <ManaCost>RR (2)</ManaCost>
-<CardText>{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to any target.</CardText>
+<CardText>{1}, Sacrifice Ember Hauler: It deals 2 damage to any target.</CardText>
 <Flavor>Flurk's crude goblin language didn't differentiate between "I bring the flame" and "I am the flame."</Flavor>
 <Artist>Steve Prescott</Artist>
 <Multiverseid>208008</Multiverseid>
@@ -2786,15 +2772,15 @@ Players can't gain life.
 Damage can't be prevented.</CardText>
 <Artist>Charles Urbach</Artist>
 <Multiverseid>205018</Multiverseid>
-<Rulings>2010/08/15: Spells and abilities that would normally cause a player to gain life still resolve, but the life-gain part simply has no effect.
-2010/08/15: If a cost includes life gain (like Invigorate's alternative cost does), that cost can't be paid.
+<Rulings>2010/08/15: If a cost includes life gain (like Invigorate's alternative cost does), that cost can't be paid.
 2010/08/15: Effects that would replace gaining life with some other effect won't be able to do anything because it's impossible for players to gain life.
 2010/08/15: Effects that replace an event with gaining life (like Words of Worship's effect does) will end up replacing the event with nothing.
 2010/08/15: If an effect says to set a player's life total to a certain number, and that number is higher than the player's current life total, that part of the effect won't do anything. (If the number is lower than the player's current life total, the effect will work as normal.)
-2010/08/15: Damage prevention shields don't have any effect. If a prevention effect has an additional effect, the additional effect will still work (if possible). Spells that create prevention effects can still be cast, and abilities that create prevention effects can still be activated.
+2010/08/15: Spells and abilities that would normally cause a player to gain life still resolve, but the life-gain part simply has no effect.
 2010/08/15: Static abilities that prevent damage (including protection abilities) don't do so. If they have additional effects that don't depend on the amount of damage prevented, those additional effects will still work. Such effects are applied only once per source of damage.
 2010/08/15: Effects that replace or redirect damage without using the word "prevent" are not affected by <Leyline of Punishment>.
 2010/08/15: If a creature is dealt lethal damage, it can still regenerate. If it does, the damage marked on it will be removed from it.
+2010/08/15: Damage prevention shields don't have any effect. If a prevention effect has an additional effect, the additional effect will still work (if possible). Spells that create prevention effects can still be cast, and abilities that create prevention effects can still be activated.
 2016/06/08: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans and "scryed" if applicable. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3246,7 +3232,7 @@ Enchanted creature has forestwalk. (It can't be blocked as long as defending pla
 <Name>Fauna Shaman</Name>
 <Type>Creature — Elf Shaman 2/2</Type>
 <ManaCost>1G (2)</ManaCost>
-<CardText>{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, and put it into your hand. Then shuffle your library.</CardText>
+<CardText>{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.</CardText>
 <Flavor>She wears the talismans of every creature she can evoke.</Flavor>
 <Artist>Steve Prescott</Artist>
 <Multiverseid>205059</Multiverseid>
@@ -4299,7 +4285,7 @@ Equip {2}</CardText>
 <No>229</No>
 <Name>Terramorphic Expanse</Name>
 <Type>Land</Type>
-<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</CardText>
+<CardText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>205236</Multiverseid>
 <Vintage>Legal</Vintage>

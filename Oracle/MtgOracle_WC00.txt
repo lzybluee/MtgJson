@@ -1,0 +1,1746 @@
+<Card>
+<SetId>WC00</SetId>
+<No>nl1</No>
+<Name>Academy Rector</Name>
+<Type>Creature — Human Cleric 1/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.</CardText>
+<Artist>Heather Hudson</Artist>
+<Rulings>2004/10/04: You do not have to find an enchantment card if you do not want to, even if you have one in your library.
+2005/08/01: An enchantment card is any Enchantment card, including Auras.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl2sba</No>
+<Name>Absolute Law</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>All creatures have protection from red.</CardText>
+<Flavor>The strength of law is unwavering. It is an iron bar in a world of water.</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2004/10/04: This affects all creatures, not just your own.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl2sbb</No>
+<Name>Aura Fracture</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Sacrifice a land: Destroy target enchantment.</CardText>
+<Flavor>Jamuraa's rhystic mages treat magic as their garden, uprooting unwanted spells as bothersome weeds.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl4sb</No>
+<Name>Armageddon</Name>
+<Type>Sorcery</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Destroy all lands.</CardText>
+<Artist>Rob Alexander</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl7sb</No>
+<Name>Erase</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target enchantment.</CardText>
+<Flavor>Perception is more pleasing than truth.</Flavor>
+<Artist>Ron Spears</Artist>
+<Rulings>2004/10/04: The card does not go to the graveyard first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl8sb</No>
+<Name>Circle of Protection: Black</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</CardText>
+<Artist>Gerry Grace</Artist>
+<Rulings>2004/10/04: A source of damage is a permanent, a spell on the stack (including one that creates a permanent), or any object referred to by an object on the stack. A source doesn't need to be capable of dealing damage to be a legal choice.
+2004/10/04: Can be used even when there is no damage to prevent. It prevents the next damage (if any) from the source this turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl13</No>
+<Name>Opalescence</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.</CardText>
+<Artist>John Avon</Artist>
+<Rulings>2004/10/04: Does not animate itself. But can be animated by another <Opalescence>.
+2006/02/01: With a Humility and two <Opalescence>s on the battlefield, if Humility has the latest timestamp, then all creatures are 1/1 with no abilities. If the timestamp order is <Opalescence>, Humility, <Opalescence>, the second <Opalescence> is 1/1, and the Humility and first <Opalescence> are 4/4. If Humility has the earliest timestamp, then everything is 4/4.
+2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: This is the current interaction between Humility and <Opalescence>: The type-changing effect applies at layer 4, but the rest happens in the applicable layers. The rest of it will apply even if the permanent loses its ability before it's finished applying. So if <Opalescence>, Humility, and Worship are on the battlefield and <Opalescence> entered the battlefield before Humility, the following is true: Layer 4: Humility and Worship each become creatures that are still enchantments. (<Opalescence>). Layer 6: Humility and Worship each lose their abilities. (Humility) Layer 7b: Humility becomes 4/4 and Worship becomes 4/4. (<Opalescence>). Humility becomes 1/1 and Worship becomes 1/1 (Humility). But if Humility entered the battlefield before <Opalescence>, the following is true: Layer 4: Humility and Worship each become creatures that are still enchantments (<Opalescence>). Layer 6: Humility and Worship each lose their abilities (Humility). Layer 7b: Humility becomes 1/1 and Worship becomes 1/1 (Humility). Humility becomes 4/4 and Worship becomes 4/4 (<Opalescence>).</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl15</No>
+<Name>Replenish</Name>
+<Type>Sorcery</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)</CardText>
+<Flavor>Treasures, trinkets, trash—the relics of the past are brought forth again.</Flavor>
+<Artist>Jim Nelson</Artist>
+<Rulings>2004/10/04: It determines what enchantments to return when its resolution starts. If more enchantments go to the graveyard during the resolution, those additional enchantments are ignored.
+2005/08/01: You must return Auras if possible, even if this means enchanting an opponent's permanent with a good enchantment.
+2005/08/01: Auras can only be placed on permanents that were on the battlefield before this effect started to resolve. You can't put an enchantment onto the battlefield with <Replenish> and put an Aura that is also entering the battlefield onto one of those enchantments.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl17sb</No>
+<Name>Parallax Wave</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Parallax Wave: Exile target creature.
+When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave.</CardText>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl17</No>
+<Name>Parallax Wave</Name>
+<Type>Enchantment</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Parallax Wave: Exile target creature.
+When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave.</CardText>
+<Artist>Greg Staples</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl18sb</No>
+<Name>Seal of Cleansing</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</CardText>
+<Flavor>"I am the purifier, the light that clears all shadows."
+—Seal inscription</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl18</No>
+<Name>Seal of Cleansing</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</CardText>
+<Flavor>"I am the purifier, the light that clears all shadows."
+—Seal inscription</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl18sb</No>
+<Name>Seal of Cleansing</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</CardText>
+<Flavor>"I am the purifier, the light that clears all shadows."
+—Seal inscription</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl19</No>
+<Name>Enlightened Tutor</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</CardText>
+<Flavor>"I do not teach. I simply reveal."
+—Daudi, Femeref tutor</Flavor>
+<Artist>Dan Frazier</Artist>
+<Rulings>2016/06/08: The "shuffle and put the card on top" is a single action. If an effect causes the top card of the library to be face up, the second card down is not revealed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl19</No>
+<Name>Enlightened Tutor</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</CardText>
+<Flavor>"I do not teach. I simply reveal."
+—Daudi, Femeref tutor</Flavor>
+<Artist>Dan Frazier</Artist>
+<Rulings>2016/06/08: The "shuffle and put the card on top" is a single action. If an effect causes the top card of the library to be face up, the second card down is not revealed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl29sb</No>
+<Name>Light of Day</Name>
+<Type>Enchantment</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Black creatures can't attack or block.</CardText>
+<Flavor>"I do not miss sunlight. The very memory of it burns my eyes."
+—Volrath</Flavor>
+<Artist>Drew Tucker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl30sb</No>
+<Name>Daze</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>You may return an Island you control to its owner's hand rather than pay this spell's mana cost.
+Counter target spell unless its controller pays {1}.</CardText>
+<Artist>Matthew D. Wilson</Artist>
+<Rulings>2016/06/08: If another effect causes <Daze> to cost more, you must pay that additional cost even if you pay its alternative cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl32</No>
+<Name>Frantic Search</Name>
+<Type>Instant</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Draw two cards, then discard two cards. Untap up to three lands.</CardText>
+<Flavor>Motivation was high in the academy once students realized flunking their exams could kill them.</Flavor>
+<Artist>Jeff Miracola</Artist>
+<Rulings>2016/06/08: You choose which lands to untap as the spell resolves. They aren't targeted, and they don't have to be lands that you control.
+2018/12/07: You draw two cards and discard two cards all while <Frantic Search> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf36sb</No>
+<Name>Miscalculation</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell unless its controller pays {2}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Artist>Jeff Laubenstein</Artist>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl37</No>
+<Name>Parallax Tide</Name>
+<Type>Enchantment</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Parallax Tide: Exile target land.
+When Parallax Tide leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Tide.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf38sb</No>
+<Name>Rising Waters</Name>
+<Type>Enchantment</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Lands don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player untaps a land they control.</CardText>
+<Flavor>Rising waters, sinking hope.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl42</No>
+<Name>Seal of Removal</Name>
+<Type>Enchantment</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Sacrifice Seal of Removal: Return target creature to its owner's hand.</CardText>
+<Flavor>"I am the unraveler, the loosened thread that will not hold."
+—Seal inscription</Flavor>
+<Artist>Christopher Moeller</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf45</No>
+<Name>Tinker</Name>
+<Type>Sorcery</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice an artifact.
+Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.</CardText>
+<Flavor>"I wonder how it feels to be bored."
+—Jhoira, artificer</Flavor>
+<Artist>Mike Raabe</Artist>
+<Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl45</No>
+<Name>Serra Avatar</Name>
+<Type>Creature — Avatar */*</Type>
+<ManaCost>4WWW (7)</ManaCost>
+<CardText>Serra Avatar's power and toughness are each equal to your life total.
+When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</CardText>
+<Artist>Dermot Power</Artist>
+<Rulings>2008/10/01: Whether or not the ability triggers depends on if the Avatar has the ability while in the graveyard. If it doesn't (thanks to Yixlid Jailer, for instance), then the ability won't trigger. It doesn't matter whether the Avatar had the ability in its previous zone (it will trigger even if it had been on the battlefield with Humility).
+2012/07/01: <Serra Avatar>'s power and toughness are constantly updated as your life total changes.
+2012/07/01: The ability that defines <Serra Avatar>'s power and toughness works in all zones, not just the battlefield.
+2012/07/01: If <Serra Avatar> is no longer in your graveyard when its triggered ability resolves, you won't shuffle your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl48sb</No>
+<Name>Submerge</Name>
+<Type>Instant</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>If an opponent controls a Forest and you control an Island, you may cast this spell without paying its mana cost.
+Put target creature on top of its owner's library.</CardText>
+<Artist>Mark Romanoski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl54</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl54sb</No>
+<Name>Wrath of God</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl57sb</No>
+<Name>Worship</Name>
+<Type>Enchantment</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.</CardText>
+<Flavor>"Believe in the ideal, not the idol."
+—Serra</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2004/10/04: It reduces your life total to 1, not the damage to 1.
+2004/10/04: <Worship> does not prevent damage. It causes some damage to be unable to lower your life total. So any damage rendered useless by <Worship> was still dealt and is counted by effects that track the amount of damage done to a player. In addition, <Worship> does not prevent loss of life, so loss of life bypasses <Worship>.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf59sb</No>
+<Name>Annul</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Counter target artifact or enchantment spell.</CardText>
+<Flavor>The most effective way to destroy a spell is to ensure it was never cast in the first place.</Flavor>
+<Artist>Greg Simanson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf60sb</No>
+<Name>Chill</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Red spells cost {2} more to cast.</CardText>
+<Flavor>"Temper, temper"
+—Ertai, wizard adept</Flavor>
+<Artist>Greg Simanson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl60sb</No>
+<Name>Chill</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Red spells cost {2} more to cast.</CardText>
+<Flavor>"Temper, temper."
+—Ertai, wizard adept</Flavor>
+<Artist>Greg Simanson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf61</No>
+<Name>Brainstorm</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw three cards, then put two cards from your hand on top of your library in any order.</CardText>
+<Flavor>"I see more than others do because I know where to look."
+—Saprazzan vizier</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Rulings>2018/03/16: You draw three cards and put two cards back all while <Brainstorm> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl61</No>
+<Name>Attunement</Name>
+<Type>Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Return Attunement to its owner's hand: Draw three cards, then discard four cards.</CardText>
+<Flavor>"The solution can hide for only so long."
+—Urza</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Rulings>2004/10/04: If you have less than 4 cards, discard all you have.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl61b</No>
+<Name>Counterspell</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Artist>Hannibal King</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl66</No>
+<Name>Confiscate</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Enchant permanent (Target a permanent as you cast this. This card enters the battlefield attached to that permanent.)
+You control enchanted permanent.</CardText>
+<Flavor>"I don't understand why he works so hard on a device to duplicate a sound so easily made with hand and armpit."
+—Barrin, progress report</Flavor>
+<Artist>Adam Rex</Artist>
+<Rulings>2004/10/04: If you take control of an Aura, you do not get to move it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl73</No>
+<Name>Energy Field</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Prevent all damage that would be dealt to you by sources you don't control.
+When a card is put into your graveyard from anywhere, sacrifice Energy Field.</CardText>
+<Artist>John Matson</Artist>
+<Rulings>2004/10/04: Buyback causes a spell to go to your hand instead of your graveyard, so using Buyback will avoid triggering this card to be sacrificed.
+2004/10/04: Discarding does trigger this.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk74</No>
+<Name>Avalanche Riders</Name>
+<Type>Creature — Human Nomad 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Haste
+Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Avalanche Riders enters the battlefield, destroy target land.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl75</No>
+<Name>Yawgmoth's Bargain</Name>
+<Type>Enchantment</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Skip your draw step.
+Pay 1 life: Draw a card.</CardText>
+<Flavor>He craves only one commodity.</Flavor>
+<Artist>Michael Sutfin</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl78sb</No>
+<Name>Energy Flux</Name>
+<Type>Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."</CardText>
+<Flavor>Karn said nothing—he just grasped the powerstone and squeezed tightly. The wild flashing ceased.</Flavor>
+<Artist>Qiao Dafu</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl83</No>
+<Name>Mystical Tutor</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</CardText>
+<Flavor>"To the tutors, a 'poem of sand' was of little account, a 'poem of ivory,' priceless."
+—Afari, Tales</Flavor>
+<Artist>David O'Connor</Artist>
+<Rulings>2016/06/08: The "shuffle and put the card on top" is a single action. If an effect causes the top card of the library to be face up, the second card down is not revealed.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl83sb</No>
+<Name>Lilting Refrain</Name>
+<Type>Enchantment</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.
+Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.</CardText>
+<Artist>Berry</Artist>
+<Rulings>2004/10/04: Adding a counter is optional. If you forget to add one during your upkeep, you cannot back up and add one later.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk89sb</No>
+<Name>Rack and Ruin</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Destroy two target artifacts.</CardText>
+<Flavor>"My people are bound by masters centuries dead. Each artifact we destroy is another link broken in that chain."
+—Barb Tail, viashino heretic</Flavor>
+<Artist>Donato Giancola</Artist>
+<Rulings>2004/10/04: Must target two different artifacts.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk90sb</No>
+<Name>Flameshot</Name>
+<Type>Sorcery</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>You may discard a Mountain card rather than pay this spell's mana cost.
+Flameshot deals 3 damage divided as you choose among one, two, or three target creatures.</CardText>
+<Artist>Mark Brill</Artist>
+<Rulings>2004/10/04: You can't choose zero targets. You must choose at least one target.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk102</No>
+<Name>Blastoderm</Name>
+<Type>Creature — Beast 5/5</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Shroud (This creature can't be the target of spells or abilities.)
+Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)</CardText>
+<Artist>Eric Peterson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk113</No>
+<Name>Saproling Burst</Name>
+<Type>Enchantment</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Saproling Burst: Create a green Saproling creature token. It has "This creature's power and toughness are each equal to the number of fade counters on Saproling Burst."
+When Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can't be regenerated.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Rulings>2004/10/04: Each token knows which <Saproling Burst> it came from.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl114</No>
+<Name>Saproling Cluster</Name>
+<Type>Enchantment</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{1}, Discard a card: Create a 1/1 green Saproling creature token. Any player may activate this ability.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl115</No>
+<Name>Pattern of Rebirth</Name>
+<Type>Enchantment — Aura</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Enchant creature
+When enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle their library.</CardText>
+<Artist>Mark Brill</Artist>
+<Rulings>2004/10/04: Searching for a creature card is optional.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk117</No>
+<Name>Plow Under</Name>
+<Type>Sorcery</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Put two target lands on top of their owners' libraries.</CardText>
+<Flavor>To renew the land, plow the land. To destroy the land, do nothing.
+—Druids' saying</Flavor>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Rulings>2004/10/04: The owner decides the order the two lands are stacked there.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk121sb</No>
+<Name>Splinter</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library.</CardText>
+<Artist>Daren Bader</Artist>
+<Rulings>2004/10/04: Does not exile other cards of the same name that are on the battlefield. Just from the graveyard, hand, and library.
+2005/02/01: <Splinter> can target and exile cards that aren't always artifacts, but are artifacts when <Splinter> is cast and resolves (such as an animated Stalking Stones). <Splinter>'s exile effect only looks for cards by name, not type.
+2005/02/01: The copies must be found if they are in publicly viewable zones. Finding copies while searching private zones is optional.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl125sb</No>
+<Name>Defense Grid</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Each spell costs {3} more to cast except during its controller's turn.</CardText>
+<Flavor>"We've managed to keep the goblins in their assigned areas, but there's little we can do about the smell."
+—Whip Tongue, viashino technician</Flavor>
+<Artist>Mark Tedin</Artist>
+<Rulings>2004/10/04: The additional cost can be reduced by effects that reduce costs, such as Sapphire Medallion.
+2006/05/01: In Two-Headed Giant, spells don't cost extra on your own turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf126</No>
+<Name>Grim Monolith</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Grim Monolith doesn't untap during your untap step.
+{T}: Add {C}{C}{C}.
+{4}: Untap Grim Monolith.</CardText>
+<Flavor>Part prison, part home.</Flavor>
+<Artist>Chippy</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf134</No>
+<Name>Masticore</Name>
+<Type>Artifact Creature — Masticore 4/4</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Masticore unless you discard a card.
+{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.</CardText>
+<Artist>Paolo Parente</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk134</No>
+<Name>Masticore</Name>
+<Type>Artifact Creature — Masticore 4/4</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Masticore unless you discard a card.
+{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.</CardText>
+<Artist>Paolo Parente</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk134sb</No>
+<Name>Masticore</Name>
+<Type>Artifact Creature — Masticore 4/4</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Masticore unless you discard a card.
+{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.</CardText>
+<Artist>Paolo Parente</Artist>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf135</No>
+<Name>Metalworker</Name>
+<Type>Artifact Creature — Construct 1/2</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{T}: Reveal any number of artifact cards in your hand. Add {C}{C} for each card revealed this way.</CardText>
+<Flavor>"At this rate I fully expect to be replaced by a clockwork golem by year's end."
+—Barrin</Flavor>
+<Artist>Don Hazeltine</Artist>
+<Rulings>2004/10/04: This is a mana ability. It does not go on the stack and can't be responded to.
+2004/10/04: You can reveal zero cards to gain zero mana.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf139a</No>
+<Name>Tangle Wire</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+At the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land they control for each fade counter on Tangle Wire.</CardText>
+<Artist>Glen Angus</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf139b</No>
+<Name>Thran Dynamo</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{T}: Add {C}{C}{C}.</CardText>
+<Artist>Ron Spears</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl168sb</No>
+<Name>Blaze</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Blaze deals X damage to any target.</CardText>
+<Flavor>Fire never dies alone.</Flavor>
+<Artist>Gerry Grace</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk169sb</No>
+<Name>Boil</Name>
+<Type>Instant</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Destroy all Islands.</CardText>
+<Flavor>"The fishers will throw out their nets and draw them back filled with dust."
+—Oracle en-Vec</Flavor>
+<Artist>Jason Alexander Behnke</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl171</No>
+<Name>Yawgmoth's Will</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Until end of turn, you may play cards from your graveyard.
+If a card would be put into your graveyard from anywhere this turn, exile that card instead.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: If you cast a Buyback spell, then there will be two effects trying to replace where the card goes. You get to choose if the Buyback returns the card to your hand or the card gets exiled.
+2004/10/04: If an effect asks you to discard a card, you can't "discard" something that is in your graveyard. Those cards are not in your hand. Thus, Cycling abilities of cards in the graveyard can't be activated.
+2004/10/04: The second ability creates a replacement effect. It applies to both costs and effects.
+2004/10/04: If you play a card using <Yawgmoth's Will> and something triggers only when "cast from your hand", that something will not trigger. Such things trigger based on where the card came from.
+2004/10/04: To "play a card" is to either cast a spell or to put a land onto the battlefield using the main phase special action.
+2004/10/04: It will exile itself since it goes to the graveyard after its effect starts.
+2006/10/15: You cannot Suspend a card from your graveyard, only your hand.</Rulings>
+<Reserved>This card is on the reserved list</Reserved>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk174</No>
+<Name>Arc Lightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.</CardText>
+<Flavor>Rainclouds don't last long in Shiv, but that doesn't stop the lightning.</Flavor>
+<Artist>Andrew Goldhawk</Artist>
+<Rulings>2014/09/20: You choose how many targets <Arc Lightning> has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage.
+2014/09/20: If some of the creatures are illegal targets as <Arc Lightning> tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, <Arc Lightning> doesn't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk209</No>
+<Name>Stone Rain</Name>
+<Type>Sorcery</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Destroy target land.</CardText>
+<Artist>John Matson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk217</No>
+<Name>Birds of Paradise</Name>
+<Type>Creature — Bird 0/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Flying
+{T}: Add one mana of any color.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl217</No>
+<Name>Birds of Paradise</Name>
+<Type>Creature — Bird 0/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Flying
+{T}: Add one mana of any color.</CardText>
+<Artist>Mark Poole</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk220</No>
+<Name>Creeping Mold</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Destroy target artifact, enchantment, or land.</CardText>
+<Flavor>"Mold could catch you."
+—Suq'Ata insult</Flavor>
+<Artist>David Seeley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk220sb</No>
+<Name>Creeping Mold</Name>
+<Type>Sorcery</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Destroy target artifact, enchantment, or land.</CardText>
+<Flavor>"Mold could catch you."
+—Suq'Ata insult</Flavor>
+<Artist>David Seeley</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk239</No>
+<Name>Llanowar Elves</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G}.</CardText>
+<Flavor>One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl239</No>
+<Name>Llanowar Elves</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G}.</CardText>
+<Flavor>One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl251</No>
+<Name>Fecundity</Name>
+<Type>Enchantment</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever a creature dies, that creature's controller may draw a card.</CardText>
+<Flavor>Life is eternal. A lifetime is ephemeral.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2018/12/07: In a multiplayer game, if a player loses the game, triggered abilities that player controls are removed from the stack and no more from that player can be added. This means that if a creature an opponent controls dies while you control <Fecundity>, and you lose the game before <Fecundity>'s triggered ability resolves (perhaps because you lost the game at the same time that the creature died), that player won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk260sb</No>
+<Name>Uktabi Orangutan</Name>
+<Type>Creature — Ape 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>When Uktabi Orangutan enters the battlefield, destroy target artifact.</CardText>
+<Flavor>"Is it true that the apes wear furs of gold when they marry?"
+—Rana, Suq'Ata market fool</Flavor>
+<Artist>Una Fricker</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk270</No>
+<Name>Priest of Titania</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add {G} for each Elf on the battlefield.</CardText>
+<Flavor>Titania rewards all who honor the forest by making them a living part of it.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2004/10/04: Since it is an Elf, it counts itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl270</No>
+<Name>Priest of Titania</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add {G} for each Elf on the battlefield.</CardText>
+<Flavor>Titania rewards all who honor the forest by making them a living part of it.</Flavor>
+<Artist>Rebecca Guay</Artist>
+<Rulings>2004/10/04: Since it is an Elf, it counts itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl274</No>
+<Name>Ashnod's Altar</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Sacrifice a creature: Add {C}{C}.</CardText>
+<Flavor>The Brothers' War scarred the land, but Ashnod left her mark in the bloodlines of those she tortured.</Flavor>
+<Artist>Anson Maddocks</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl278sb</No>
+<Name>Cursed Totem</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Activated abilities of creatures can't be activated.</CardText>
+<Flavor>Pass me from soul to soul, / soldier to herder, herder to beast, beast to soil / until I am everywhere. / Then pass me those souls.
+—Totem inscription (translated)</Flavor>
+<Artist>D. Alexander Gregory</Artist>
+<Rulings>2004/10/04: <Cursed Totem> does not prevent creature cards which are not on the battlefield from having their abilities activated.
+2004/10/04: <Cursed Totem> can prevent mana abilities from being activated.
+2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf292</No>
+<Name>Crumbling Sanctuary</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>If damage would be dealt to a player, that player exiles that many cards from the top of their library instead.</CardText>
+<Artist>Randy Gallegos</Artist>
+<Rulings>2004/10/04: If you have no cards in your library, then damage done to you will have no effect since it will get changed into a removal that can't happen.
+2004/10/04: The ability affects all players.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl296sb</No>
+<Name>Heart of Ramos</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{T}: Add {R}.
+Sacrifice Heart of Ramos: Add {R}.</CardText>
+<Flavor>Ramos bled, and there was fire.</Flavor>
+<Artist>David Martin</Artist>
+<Rulings>2004/10/04: You can activate the sacrifice ability while this card is tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl299sb</No>
+<Name>Meekstone</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>Creatures with power 3 or greater don't untap during their controllers' untap steps.</CardText>
+<Flavor>When the mighty sleep, the lowly prowl.</Flavor>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf302</No>
+<Name>Mishra's Helix</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>{X}, {T}: Tap X target lands.</CardText>
+<Flavor>The helix was the finest example of Mishra's campaign strategy: if he couldn't have Argoth, no one could.</Flavor>
+<Artist>Berry</Artist>
+<Rulings>2004/10/04: You can target already tapped lands.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf302sb</No>
+<Name>Mishra's Helix</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>{X}, {T}: Tap X target lands.</CardText>
+<Flavor>The helix was the finest example of Mishra's campaign strategy: if he couldn't have Argoth, no one could.</Flavor>
+<Artist>Berry</Artist>
+<Rulings>2004/10/04: You can target already tapped lands.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf306a</No>
+<Name>Phyrexian Colossus</Name>
+<Type>Artifact Creature — Golem 8/8</Type>
+<ManaCost>7 (7)</ManaCost>
+<CardText>Phyrexian Colossus doesn't untap during your untap step.
+Pay 8 life: Untap Phyrexian Colossus.
+Phyrexian Colossus can't be blocked except by three or more creatures.</CardText>
+<Artist>Mark Tedin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf306b</No>
+<Name>Phyrexian Processor</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>As Phyrexian Processor enters the battlefield, pay any amount of life.
+{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: You can pay 0 life if you want, but it's not useful most of the time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk306</No>
+<Name>Phyrexian Processor</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>As Phyrexian Processor enters the battlefield, pay any amount of life.
+{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: You can pay 0 life if you want, but it's not useful most of the time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk306sb</No>
+<Name>Phyrexian Processor</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>As Phyrexian Processor enters the battlefield, pay any amount of life.
+{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: You can pay 0 life if you want, but it's not useful most of the time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl306sb</No>
+<Name>Phyrexian Processor</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>As Phyrexian Processor enters the battlefield, pay any amount of life.
+{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.</CardText>
+<Artist>Ron Spencer</Artist>
+<Rulings>2004/10/04: You can pay 0 life if you want, but it's not useful most of the time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl311</No>
+<Name>Sky Diamond</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Sky Diamond enters the battlefield tapped.
+{T}: Add {U}.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl312</No>
+<Name>Snake Basket</Name>
+<Type>Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{X}, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>"Uh, does anyone have a flute?"
+—Rana, Suq'Ata market fool</Flavor>
+<Artist>Roger Raupp</Artist>
+<Rulings>2006/02/01: It used to make Cobra tokens. Now it makes Snake tokens.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf314</No>
+<Name>Voltaic Key</Name>
+<Type>Artifact</Type>
+<ManaCost>1 (1)</ManaCost>
+<CardText>{1}, {T}: Untap target artifact.</CardText>
+<Flavor>The key did not work on a single lock, yet it opened many doors.</Flavor>
+<Artist>Henry G. Higginbotham</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk316</No>
+<Name>Dust Bowl</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{3}, {T}, Sacrifice a land: Destroy target nonbasic land.</CardText>
+<Artist>Ben Thompson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl316</No>
+<Name>Whetstone</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>{3}: Each player puts the top two cards of their library into their graveyard.</CardText>
+<Flavor>To hone swords and dull minds.
+—Whetstone inscription</Flavor>
+<Artist>Greg Simanson</Artist>
+<Rulings>2004/10/04: Can be used if a player has less than 2 cards in their library. It will remove 0 or 1 cards if that is all that is available.
+2004/10/04: It is not a draw effect so it will not cause a player with less than 2 cards in their library to lose.
+2004/10/04: Since you are putting more than one card in the graveyard at one time, each affected player can choose the order the 2 cards go in.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl319</No>
+<Name>Adarkar Wastes</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.</CardText>
+<Artist>Gary Leach</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl320</No>
+<Name>Brushland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {G} or {W}. Brushland deals 1 damage to you.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl320b</No>
+<Name>High Market</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice a creature: You gain 1 life.</CardText>
+<Flavor>If it can't be had here, it can't be had on any world.</Flavor>
+<Artist>Carl Critchlow</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl321</No>
+<Name>City of Brass</Name>
+<Type>Land</Type>
+<CardText>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Rulings>2004/10/04: The first ability triggers no matter how the land becomes tapped.
+2004/10/04: If you tap <City of Brass> while you are casting a spell or activating an ability, its ability will trigger and wait. When you finish casting that spell or activating that ability, <City of Brass>'s triggered ability is put on the stack on top of it. <City of Brass>'s ability will resolve first.
+2004/10/04: On the other hand, you can tap <City of Brass>, put its triggered ability on the stack, and then respond to that ability by casting an instant or activating an ability using that mana. In that case, the instant spell or activated ability will resolve first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf322</No>
+<Name>Crystal Vein</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Crystal Vein: Add {C}{C}.</CardText>
+<Artist>Pat Morrissey</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl322</No>
+<Name>Phyrexian Tower</Name>
+<Type>Legendary Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice a creature: Add {B}{B}.</CardText>
+<Flavor>Living metal encasing dying flesh.</Flavor>
+<Artist>Chippy</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf324</No>
+<Name>Rishadan Port</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}: Tap target land.</CardText>
+<Flavor>Rishada is the gateway to free trade—but the key will cost you.</Flavor>
+<Artist>Jerry Tiritilli</Artist>
+<Rulings>2018/03/16: Once you announce that you're casting a spell or activating an ability, no player may take other actions until the spell or ability has been paid for. Notably, players can't try to tap your lands to stop you from paying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk324</No>
+<Name>Rishadan Port</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}: Tap target land.</CardText>
+<Flavor>Rishada is the gateway to free trade—but the key will cost you.</Flavor>
+<Artist>Jerry Tiritilli</Artist>
+<Rulings>2018/03/16: Once you announce that you're casting a spell or activating an ability, no player may take other actions until the spell or ability has been paid for. Notably, players can't try to tap your lands to stop you from paying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl324</No>
+<Name>Rishadan Port</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}: Tap target land.</CardText>
+<Flavor>Rishada is the gateway to free trade—but the key will cost you.</Flavor>
+<Artist>Jerry Tiritilli</Artist>
+<Rulings>2018/03/16: Once you announce that you're casting a spell or activating an ability, no player may take other actions until the spell or ability has been paid for. Notably, players can't try to tap your lands to stop you from paying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk326</No>
+<Name>Karplusan Forest</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.</CardText>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf328</No>
+<Name>Saprazzan Skerry</Name>
+<Type>Land</Type>
+<CardText>Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.
+{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U}. If there are no depletion counters on Saprazzan Skerry, sacrifice it.</CardText>
+<Artist>Pat Morrissey</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl329</No>
+<Name>Thran Quarry</Name>
+<Type>Land</Type>
+<CardText>At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.
+{T}: Add one mana of any color.</CardText>
+<Artist>Michael Sutfin</Artist>
+<Rulings>2004/10/04: Triggers at the end of every player's turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl331</No>
+<Name>Plains</Name>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>Tom Wänerstrand</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jf335</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>tvdl335</No>
+<Name>Island</Name>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Douglas Shuler</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk343</No>
+<Name>Mountain</Name>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>jk347</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Land</Rarity>
+</Card>
+
+<Card>
+<SetId>WC00</SetId>
+<No>nl347</No>
+<Name>Forest</Name>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Quinton Hoover</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Championship Decks 2000</Set>
+<Rarity>Land</Rarity>
+</Card>
+

@@ -1,0 +1,220 @@
+<Card>
+<SetId>F04</SetId>
+<No>1</No>
+<Name>Willbender</Name>
+<Type>Creature — Human Wizard 1/2</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Willbender is turned face up, change the target of target spell or ability with a single target.</CardText>
+<Artist>Eric Peterson</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: The trigger occurs when you use the Morph ability to turn the card face up, or when an effect turns it face up. It will not trigger on being revealed or on leaving the battlefield.
+2013/04/15: If a spell with split second is on the stack, you can still respond by turning this creature face up and targeting that spell with the trigger. This is because split second only stops players from casting spells or activating abilities, while turning a creature face up is a special action.
+2018/03/16: You don't choose the new target for the spell until <Willbender>'s triggered ability resolves. You must change the target if possible. However, you can't change the target to an illegal target. If there are no legal targets to choose from, the target isn't changed. It doesn't matter if the original target of that spell has somehow become illegal itself.
+2018/03/16: If a spell or ability targets multiple things, you can't target it with <Willbender>'s triggered ability, even if all but one of those targets have become illegal.
+2018/03/16: If a spell or ability targets the same player or object multiple times, you can't target it with <Willbender>'s ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>2</No>
+<Name>Slice and Dice</Name>
+<Type>Sorcery</Type>
+<ManaCost>4RR (6)</ManaCost>
+<CardText>Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</CardText>
+<Artist>Mark Brill</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2008/10/01: When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability.
+2008/10/01: The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>3</No>
+<Name>Silver Knight</Name>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>First strike, protection from red</CardText>
+<Flavor>Otaria's last defense against the wave of chaos threatening to engulf it.</Flavor>
+<Artist>Eric Peterson</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>4</No>
+<Name>Krosan Warchief</Name>
+<Type>Creature — Beast 2/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Beast spells you cast cost {1} less to cast.
+{1}{G}: Regenerate target Beast.</CardText>
+<Flavor>It turns prey into predator.</Flavor>
+<Artist>Greg Hildebrandt</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>5</No>
+<Name>Lightning Rift</Name>
+<Type>Enchantment</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to any target.</CardText>
+<Flavor>Options will cost you, but a lack of options will cost you even more.</Flavor>
+<Artist>Eric Peterson</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2004/10/04: You choose the target when this ability is put on the stack, but you do not decide whether or not to pay the mana until the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>6</No>
+<Name>Carrion Feeder</Name>
+<Type>Creature — Zombie 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Carrion Feeder can't block.
+Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.</CardText>
+<Flavor>Stinking of rot, it leaps between gravestones in search of its next meal.</Flavor>
+<Artist>Brian Snõddy</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2016/06/08: You can sacrifice <Carrion Feeder> to activate its own ability. The ability will have no effect as it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>7</No>
+<Name>Treetop Village</Name>
+<Type>Land</Type>
+<CardText>Treetop Village enters the battlefield tapped.
+{T}: Add {G}.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2009/10/01: Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>8</No>
+<Name>Accumulated Knowledge</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.</CardText>
+<Flavor>I have seen and heard much here. There are secrets within secrets. Let me show you.
+—Takara, to Eladamri</Flavor>
+<Artist>Randy Gallegos</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/03/16: Because <Accumulated Knowledge> is still on the stack as you perform its instructions, it isn't in your graveyard and won't add to the number of cards drawn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>9</No>
+<Name>Avalanche Riders</Name>
+<Type>Creature — Human Nomad 2/2</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>Haste
+Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Avalanche Riders enters the battlefield, destroy target land.</CardText>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>10</No>
+<Name>Reanimate</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</CardText>
+<Flavor>You will learn to earn death.
+—Volrath</Flavor>
+<Artist>Robert Bliss</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/12/07: If a card in a player's graveyard has {X} in its mana cost, X is considered to be 0.
+2018/12/07: The amount of life you lose is determined by the converted mana cost of the card in your graveyard, not the creature once it's on the battlefield.
+2018/12/07: You lose life after the creature is already on the battlefield. Any abilities it has that interact with loss of life, such as that of Platinum Emperion, apply to that loss of life.
+2018/12/07: If any abilities trigger on the creature entering the battlefield, those abilities resolve after you lose life. If losing life results in you losing the game, those abilities won't resolve.
+2018/12/07: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, the creature you control from <Reanimate> is exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>11</No>
+<Name>Mother of Runes</Name>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>{T}: Target creature you control gains protection from the color of your choice until end of turn.</CardText>
+<Flavor>My family protects all families.</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F04</SetId>
+<No>12</No>
+<Name>Brainstorm</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw three cards, then put two cards from your hand on top of your library in any order.</CardText>
+<Flavor>I see more than other because I know where to look —Saprazzan vizier</Flavor>
+<Artist>DiTerlizzi</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2018/03/16: You draw three cards and put two cards back all while <Brainstorm> is resolving. Nothing can happen between the two, and no player may choose to take actions.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Friday Night Magic 2004</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,85 @@
+<Card>
+<SetId>PM13</SetId>
+<No>118</No>
+<Name>Xathrid Gorgon</Name>
+<Type>Creature — Gorgon 3/6</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2012/07/01: The effects of <Xathrid Gorgon>'s ability don't depend on the petrification counter. If that counter is removed, the creature remains a colorless artifact with defender, and so on.
+2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2013 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM13</SetId>
+<No>140</No>
+<Name>Magmaquake</Name>
+<Type>Instant</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>Magmaquake deals X damage to each creature without flying and each planeswalker.</CardText>
+<Artist>Sam Burley</Artist>
+<Rulings>2012/07/01: <Magmaquake> doesn't target any creature or planeswalker. For example, it will deal damage to a creature without flying that has hexproof.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2013 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM13</SetId>
+<No>177</No>
+<Name>Mwonvuli Beast Tracker</Name>
+<Type>Creature — Human Scout 2/1</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Rulings>2012/07/01: The creature card must have one of the listed abilities, not an ability that grants one of the listed abilities to the creature. For example, you couldn't put Prized Elephant, which has "{G}: Prized Elephant gains trample until end of turn," on top of your library this way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2013 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM13</SetId>
+<No>217</No>
+<Name>Staff of Nin</Name>
+<Type>Artifact</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>At the beginning of your upkeep, draw a card.
+{T}: Staff of Nin deals 1 damage to any target.</CardText>
+<Flavor>"I have attuned the staff to your screams so that only I may benefit from your pain."
+—Volux, disciple of Nin</Flavor>
+<Artist>Brad Rigney</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2013 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM13</SetId>
+<No>*221</No>
+<Name>Cathedral of War</Name>
+<Type>Land</Type>
+<CardText>Cathedral of War enters the battlefield tapped.
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {C}.</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Watermark>Colorpie</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic 2013 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

@@ -1,0 +1,32 @@
+<Card>
+<SetId>PLGM</SetId>
+<No>1</No>
+<Name>Counterspell</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell.</CardText>
+<Artist>Dom!</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>DCI Legend Membership</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PLGM</SetId>
+<No>2</No>
+<Name>Incinerate</Name>
+<Type>Instant</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.</CardText>
+<Flavor>"Yes, I think 'toast' is an appropriate description."
+—Jaya Ballard, Task Mage</Flavor>
+<Artist>Jock</Artist>
+<Rulings>2007/07/15: Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than <Incinerate> would deal lethal damage to it or otherwise destroy it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>DCI Legend Membership</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

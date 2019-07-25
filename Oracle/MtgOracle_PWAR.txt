@@ -1,0 +1,1928 @@
+<Card>
+<SetId>PWAR</SetId>
+<No>1s</No>
+<Name>Karn, the Great Creator</Name>
+<Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Activated abilities of artifacts your opponents control can't be activated.
++1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+-2: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.</CardText>
+<Artist>Wisnu Tan</Artist>
+<Rulings>2019/05/03: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text, such as equip. Triggered abilities (starting with "when," "whenever," or "at") are unaffected by Karn.
+2019/05/03: Karn's first ability affects only artifacts on the battlefield. Activated abilities that work in other zones can still be activated.
+2019/05/03: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2019/05/03: If a permanent has {X} in its mana cost, X is considered to be 0.
+2019/05/03: Karn's last ability can't get a face-down card in exile, even if you know it's an artifact card.
+2019/05/03: In a casual game, a card you choose from outside the game comes from your personal collection. In a tournament event, a card you choose from outside the game must come from your sideboard. You may look at your sideboard at any time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>2s</No>
+<Name>Ugin, the Ineffable</Name>
+<Type>Legendary Planeswalker — Ugin (Loyalty: 4)</Type>
+<ManaCost>6 (6)</ManaCost>
+<CardText>Colorless spells you cast cost {2} less to cast.
++1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
+-3: Destroy target permanent that's one or more colors.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2019/05/03: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions (such as that of Ugin). The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2019/05/03: A colorless spell whose mana cost is {2} or {1} will cost {0} to cast.
+2019/05/03: Once you look at the exiled face-down card once, you may look at it again any time you wish. If another player gains control of the Spirit token, that player can't look at the exiled card.
+2019/05/03: If the Spirit leaves the battlefield for any reason, you'll put the exiled card into your hand, even if Ugin left the battlefield before that happened.
+2019/05/03: If you've activated Ugin's ability multiple times, you must keep track of which exiled card belongs to each Spirit token.
+2019/05/03: If an effect such as that of Doubling Season causes Ugin to create two Spirit tokens, you still only exile one card from your library. You'll put that card into your hand the first time that either of the tokens leaves the battlefield.
+2019/05/03: A land normally has no color, even if it can produce one or more colors of mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>12s</No>
+<Name>Finale of Glory</Name>
+<Type>Sorcery</Type>
+<ManaCost>XWW (2)</ManaCost>
+<CardText>Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.</CardText>
+<Flavor>The sky boiled over the citadel, dire and dark. then the angels brought the dawn.</Flavor>
+<Artist>Stanton Feng</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>13s</No>
+<Name>Gideon Blackblade</Name>
+<Type>Legendary Planeswalker — Gideon (Loyalty: 4)</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
++1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+-6: Exile target nonland permanent.</CardText>
+<Artist>Viktor Titov</Artist>
+<Rulings>2019/05/03: If an effect causes Gideon to lose all abilities during your turn, he's still a Human Soldier creature and a Gideon planeswalker.
+2019/05/03: If an Equipment becomes attached to Gideon while he's a creature, it'll become unattached during the next upkeep that isn't yours. The same is true of any Auras that become attached to Gideon that can't enchant a noncreature planeswalker.
+2019/05/03: Any counters that are put on Gideon remain on him while he's not a creature, even if they have no effect on a noncreature planeswalker.
+2019/05/03: If damage that can't be prevented is dealt to Gideon during your turn, that damage will have all applicable results: specifically, the damage is marked on Gideon (since he's a creature) and that damage causes that many loyalty counters to be removed from him (since he's a planeswalker). Even though he has indestructible, if Gideon has no loyalty counters on him, he's put into his owner's graveyard.
+2019/05/03: You choose which ability the target creature gains as Gideon's first loyalty ability resolves, not as you activate it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>16s</No>
+<Name>God-Eternal Oketra</Name>
+<Type>Legendary Creature — Zombie God 3/6</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Double strike
+Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.
+When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.</CardText>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2019/05/03: Oketra's first triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2019/05/03: In the Commander format, a commander's color identity isn't affected by color words (such as black) appearing in its text. If <God-Eternal Oketra> is your commander, your deck can't contain black mana symbols.
+2019/05/03: If one of these Gods leaves the graveyard or exile while its last ability is on the stack, it will remain in its new zone, even if that zone is a graveyard or exile.
+2019/05/03: If the God's owner has two or fewer cards in their library, the God is put on the bottom of their library as its last ability resolves.
+2019/05/03: If you control another player's God when it dies, you decide whether to put that card into its owner's library.
+2019/05/03: If an effect exiles the God and immediately returns it to the battlefield, its last ability triggers but will have no effect. However, if an effect exiles it and would return it to the battlefield at a later time, the God's ability may return that card its owner's library first. If it does, the effect that exiled it won't return it later.
+2019/05/03: In a multiplayer game, if you put another player's God onto the battlefield under your control, it will be exiled as you leave the game. If you were still the controller of that God, you would control its triggered ability but you have left the game; that ability won't resolve and the card remains in exile. Similarly, if you lose the game at the same time that another player's God that you put onto the battlefield is destroyed, it remains in its owner's graveyard.
+2019/05/03: If one of these Gods would die and it's your commander in the Commander variant, you may put it into the command zone instead. If you save your commander this way, it doesn't die and you won't put it into your library. The same is true if it would be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>18s</No>
+<Name>Ignite the Beacon</Name>
+<Type>Instant</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library.</CardText>
+<Flavor>"If you can't save yourself, you fight to give someone else a chance."
+—Ajani Goldmane</Flavor>
+<Artist>Slawomir Maniak</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>24s</No>
+<Name>Parhelion II</Name>
+<Type>Legendary Artifact — Vehicle 5/5</Type>
+<ManaCost>6WW (8)</ManaCost>
+<CardText>Flying, first strike, vigilance
+Whenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2019/05/03: You choose which players or planeswalkers the two tokens are attacking. They don't have to be attacking the same player or planeswalker that <Parhelion II> is attacking, and they can each be attacking different players and/or planeswalkers.
+2019/05/03: Although the tokens are attacking, they were never declared as attacking creatures (for the purposes of abilities that trigger whenever a creature attacks, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>28s</No>
+<Name>Ravnica at War</Name>
+<Type>Sorcery</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Exile all multicolored permanents.</CardText>
+<Flavor>The heart of Ravnica disappeared before anyone could strike a blow in its defense.</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2019/05/03: A land normally has no color, even if it can produce multiple colors of mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>30s</No>
+<Name>Single Combat</Name>
+<Type>Sorcery</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn.</CardText>
+<Flavor>Not even a threat to the entire Multiverse could persuade them to put aside their feud.</Flavor>
+<Artist>Livia Prima</Artist>
+<Rulings>2019/05/03: As <Single Combat> resolves, first the player whose turn it is chooses a creature or planeswalker they control, then each other player in turn order does the same, knowing the choices made before them. Then each unchosen creature and planeswalker is sacrificed at the same time.
+2019/05/03: In a multiplayer game, if you leave the game after <Single Combat> resolves but before your next turn begins, its effect lasts until your next turn would have begun. It neither expires immediately nor lasts indefinitely.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>32s</No>
+<Name>Teyo, the Shieldmage</Name>
+<Type>Legendary Planeswalker — Teyo (Loyalty: 5)</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+-2: Create a 0/3 white Wall creature token with defender.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>34s</No>
+<Name>Tomik, Distinguished Advokist</Name>
+<Type>Legendary Creature — Human Advisor 2/3</Type>
+<ManaCost>WW (2)</ManaCost>
+<CardText>Flying
+Lands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control.
+Your opponents can't play land cards from graveyards.</CardText>
+<Flavor>"Some bend the law. I tie it into knots.</Flavor>
+<Artist>Johannes Voss</Artist>
+<Rulings>2019/05/03: Tomik's middle ability is similar to hexproof, but effects that interact with hexproof don't count these lands or land cards as having hexproof.
+2019/05/03: Players can't normally play a land card from a graveyard. If a player finds a way to do so, Tomik's last ability takes precedence over that permission.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>37s</No>
+<Name>The Wanderer</Name>
+<Type>Legendary Planeswalker (Loyalty: 5)</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Prevent all noncombat damage that would be dealt to you and other permanents you control.
+-2: Exile target creature with power 4 or greater.</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2019/05/03: If <The Wanderer> would be dealt lethal damage at the same time as you and/or other permanents you control would be dealt noncombat damage, the damage that would be dealt to you and your other permanents is prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>41</No>
+<Name>Augur of Bolas</Name>
+<Type>Creature — Merfolk Wizard 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</CardText>
+<Flavor>"There is no future save the one my master wills."</Flavor>
+<Artist>Alex Konstad</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2012/07/01: You don't reveal the other two cards, nor do you reveal their order on the bottom of the library.
+2012/07/01: If there are fewer than three cards in your library when <Augur of Bolas>'s ability resolves, you'll look at the remaining cards. This won't cause you to lose the game as you haven't drawn from an empty library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>45s</No>
+<Name>Commence the Endgame</Name>
+<Type>Instant</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>This spell can't be countered.
+Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)</CardText>
+<Flavor>"Even gods shall kneel."
+—Nicol Bolas</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2019/05/03: You draw two cards and amass X all while <Commence the Endgame> is resolving. Nothing can happen between the two, and no player may choose to take actions.
+2019/05/03: A spell or ability that counters spells can still target <Commence the Endgame>. When that spell or ability resolves, <Commence the Endgame> won't be countered, but any additional effects of that spell or ability will still happen.
+2019/05/03: Army is a new creature type. It's possible to control a nontoken Army (perhaps a creature with the changeling ability) and, through combinations of other cards, it's possible to control multiple Army tokens. When instructed to amass, you may put +1/+1 counters on any of your Army creatures, and you may choose a different one each time.
+2019/05/03: If you don't control an Army, the Zombie Army token that you create enters the battlefield as a 0/0 creature. Any abilities that trigger when a creature with a certain power enters the battlefield, such as that of Mentor of the Meek, will see the token enter as a 0/0 creature before it gets +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>50s</No>
+<Name>Fblthp, the Lost</Name>
+<Type>Legendary Creature — Homunculus 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead.
+When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2019/05/03: There's normally no way to cast Fblthp from your library or to have it enter the battlefield from your library. You'll have to use other effects to find Fblthp for the bonus card draw.
+2019/05/03: If an effect exiles Fblthp from your library and then lets you cast that card, it's cast from exile, not from your library.
+2019/05/03: Fblthp's last ability triggers only if it's on the battlefield when it becomes the target.
+2019/05/03: Fblthp's last ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2019/05/03: If the spell that targets Fblthp has no other targets, it won't resolve (because it no longer has a legal target after Fblthp has gotten totally lost in your library).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>51s</No>
+<Name>Finale of Revelation</Name>
+<Type>Sorcery</Type>
+<ManaCost>XUU (2)</ManaCost>
+<CardText>Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.</CardText>
+<Flavor>Ugin saw the gem that connected Bolas to his Meditation Realm as the key to his brother's downfall.</Flavor>
+<Artist>Johann Bodin</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>53s</No>
+<Name>God-Eternal Kefnet</Name>
+<Type>Legendary Creature — Zombie God 4/5</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flying
+You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.
+When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2019/05/03: It's important to reveal the first card you draw each turn (or choose not to reveal it) before it is mixed with the other cards in your hand. You look at the card as you draw it before choosing whether to reveal it.
+2019/05/03: You don't have to reveal a drawn card if you don't wish to copy it at that time.
+2019/05/03: If you reveal a card this way, it remains revealed until Kefnet's triggered ability finishes resolving.
+2019/05/03: You can reveal and copy an instant or sorcery card this way on any turn, not just your own, if it's the first card you've drawn that turn.
+2019/05/03: Multiple card draws are always treated as a sequence of individual card draws. For example, if you haven't drawn any cards yet during a turn and cast a spell that instructs you to draw three cards, you'll draw them one at a time. Only the first card drawn this way may be revealed and copied with Kefnet's ability.
+2019/05/03: If an effect puts a card into your hand without using the word "draw," the card wasn't drawn.
+2019/05/03: You can cast the copy only as Kefnet's triggered ability resolves. If you don't want to cast it at that time (or you can't cast it, perhaps because there are no legal targets available), the copy ceases to exist. You can't cast it later.
+2019/05/03: You can cast the copy during the resolution of the triggered ability if it's a sorcery, no matter whose turn it is or which phase it is.
+2019/05/03: If the card leaves your hand before Kefnet's triggered ability resolves, you'll copy it using its last known information.
+2019/05/03: The copy is created in and cast from your hand.
+2019/05/03: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions (such as that of Kefnet's ability). The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2019/05/03: If you somehow control more than one <God-Eternal Kefnet> (perhaps because one is a Spark Double), you may reveal a card you draw for any number of their abilities. One at a time, each will copy the card if it's an instant or sorcery, and you may cast each of them. Each copy resolves before you cast the next, and each copy's cost is reduced by only {2}.
+2019/05/03: If one of these Gods leaves the graveyard or exile while its last ability is on the stack, it will remain in its new zone, even if that zone is a graveyard or exile.
+2019/05/03: If the God's owner has two or fewer cards in their library, the God is put on the bottom of their library as its last ability resolves.
+2019/05/03: If you control another player's God when it dies, you decide whether to put that card into its owner's library.
+2019/05/03: If an effect exiles the God and immediately returns it to the battlefield, its last ability triggers but will have no effect. However, if an effect exiles it and would return it to the battlefield at a later time, the God's ability may return that card its owner's library first. If it does, the effect that exiled it won't return it later.
+2019/05/03: In a multiplayer game, if you put another player's God onto the battlefield under your control, it will be exiled as you leave the game. If you were still the controller of that God, you would control its triggered ability but you have left the game; that ability won't resolve and the card remains in exile. Similarly, if you lose the game at the same time that another player's God that you put onto the battlefield is destroyed, it remains in its owner's graveyard.
+2019/05/03: If one of these Gods would die and it's your commander in the Commander variant, you may put it into the command zone instead. If you save your commander this way, it doesn't die and you won't put it into your library. The same is true if it would be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>54s</No>
+<Name>Jace, Wielder of Mysteries</Name>
+<Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
+<ManaCost>1UUU (4)</ManaCost>
+<CardText>If you would draw a card while your library has no cards in it, you win the game instead.
++1: Target player puts the top two cards of their library into their graveyard. Draw a card.
+-8: Draw seven cards. Then if your library has no cards in it, you win the game.</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Rulings>2019/05/03: If for some reason you can't win the game (because your opponent controls Platinum Angel, for example), you won't lose for having tried to draw a card from a library with no cards in it. The draw was still replaced.
+2019/05/03: If two or more players control <Jace, Wielder of Mysteries> and each player is instructed to draw a number of cards, first the player whose turn it is draws that many cards. If this causes that player to win the game instead, the game is immediately over. If the game isn't over yet, repeat this process for each other player in turn order.
+2019/05/03: If the target player is an illegal target when Jace's first loyalty ability tries to resolve, it doesn't resolve. You won't draw a card.
+2019/05/03: Follow the instructions in the order listed on Jace's first loyalty ability: if you target yourself, you'll put the top two cards of your library into your graveyard and then draw a card.
+2019/05/03: If your library has fewer than seven cards in it while resolving Jace's last ability, and Jace has already left the battlefield, you'll draw as many cards as you can and then win the game before state-based actions would cause you to lose the game for trying to draw from an empty library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>56s</No>
+<Name>Kasmina, Enigmatic Mentor</Name>
+<Type>Legendary Planeswalker — Kasmina (Loyalty: 5)</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+-2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2019/05/03: To determine the total cost of an opponent's spell that targets a creature or planeswalker you control, start with the mana cost or alternative cost that player is paying, add any cost increases (such as that of Kasmina's effect), then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2019/05/03: Spells that target more than one creature and/or planeswalker you control cost only {2} more to cast.
+2019/05/03: You can't do anything in between drawing a card and discarding a card, including casting the card you drew.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>61s</No>
+<Name>Narset, Parter of Veils</Name>
+<Type>Legendary Planeswalker — Narset (Loyalty: 5)</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Each opponent can't draw more than one card each turn.
+-2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2019/05/03: Your opponents can each draw a maximum of one card each on each player's turn. Subsequent card draws during that turn are ignored.
+2019/05/03: If an opponent hasn't drawn any cards in a turn and a spell or ability instructs that player to draw multiple cards, that player will just draw one card. However, if the draws are optional, the player can't choose to draw, even if they could draw one card this way.
+2019/05/03: Narset will "see" cards drawn by opponents earlier in the turn she entered the battlefield, although Narset can't affect cards drawn before she entered the battlefield. For example, if an opponent draws two cards, then Narset enters the battlefield, that opponent can't draw more cards that turn, but the two drawn cards are unaffected.
+2019/05/03: Replacement effects (such as that of Underrealm Lich or the first ability of Jace, Wielder of Mysteries) can't be used to replace draws that Narset disallows. However, if an opponent's first draw is replaced (by Underrealm Lich's ability, for example), that draw didn't happen and Narset won't stop the next draw (which may also be replaced by Underrealm Lich's ability).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>62s</No>
+<Name>Narset's Reversal</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.</CardText>
+<Flavor>"In the disarray of battle, an enemy's attack may be your most convenient weapon."
+—Narset</Flavor>
+<Artist>Viktor Titov</Artist>
+<Rulings>2019/05/03: <Narset's Reversal> can copy any instant or sorcery spell, not just one with targets.
+2019/05/03: The copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2019/05/03: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2019/05/03: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. A different mode can't be chosen.
+2019/05/03: If the spell that's copied has an X whose value was determined as it was cast (like Finale of Promise does), the copy will have the same value of X.
+2019/05/03: If the spell has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2019/05/03: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.
+2019/05/03: If you copy a spell, you control the copy. <Narset's Reversal> and the copy resolve before the original spell would have resolved.
+2019/05/03: If a spell is returned to its owner's hand, it's removed from the stack and thus will not resolve. The spell isn't countered; it just no longer exists. This works against a spell that can't be countered.
+2019/05/03: If a copy of a spell is returned to its owner's hand, it's moved there, then it will cease to exist as a state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>66s</No>
+<Name>Silent Submersible</Name>
+<Type>Artifact — Vehicle 2/3</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Whenever Silent Submersible deals combat damage to a player or planeswalker, draw a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>68s</No>
+<Name>Spark Double</Name>
+<Type>Creature — Illusion 0/0</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary if that permanent is legendary.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2019/05/03: <Spark Double> copies exactly what was printed on the original permanent (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it as any counters on it or any Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
+2019/05/03: <Spark Double> isn't legendary if it copies a legendary permanent, and this exception is copiable. If something else copies <Spark Double> later, that copy also won't be legendary. If you control two or more permanents with the same name but only one is legendary, the "legend rule" doesn't apply.
+2019/05/03: If the copied permanent has {X} in its mana cost, X is considered to be 0.
+2019/05/03: If the chosen permanent is copying something else (for example, if the chosen permanent is another <Spark Double>), then <Spark Double> enters the battlefield as whatever the chosen permanent copied.
+2019/05/03: If the chosen permanent is a token, <Spark Double> copies the original characteristics of that token as stated by the effect that created the token. <Spark Double> doesn't become a token in this case.
+2019/05/03: Any enters-the-battlefield abilities of the copied permanent will trigger when <Spark Double> enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the chosen permanent will also work.
+2019/05/03: If it copies a planeswalker, <Spark Double> enters with the appropriate number of loyalty counters as printed on the card plus one. If it copies a creature, <Spark Double> enters with a +1/+1 counter on it, plus any counters that will be put on it from abilities it copied and other abilities of other objects.
+2019/05/03: If the copied permanent is affected by a type-changing effect, <Spark Double> may enter the battlefield with different permanent types than the copied permanent currently has. Use the characteristics of <Spark Double> as it enters the battlefield, not of the copied permanent, to determine whether it enters with an additional counter on it. Notably, if <Spark Double> copies a Gideon planeswalker that's a creature because its loyalty ability caused it to become a planeswalker creature, <Spark Double> enters as a noncreature planeswalker and doesn't get a +1/+1 counter. On the other hand, if <Spark Double> copies Gideon Blackblade during your turn, <Spark Double> enters as a planeswalker creature and gets both kinds of counters.
+2019/05/03: If <Spark Double> somehow enters the battlefield at the same time as another permanent, it can't become a copy of that permanent. You may choose only a creature or planeswalker that's already on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>79</No>
+<Name>Bolas's Citadel</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>You may look at the top card of your library any time.
+You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.</CardText>
+<Artist>Piotr Dura</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2019/05/03: <Bolas's Citadel> lets you look at the top card of your library whenever you want (with one restriction—see below), even if you don't have priority. This action doesn't use the stack. Knowing what that card is becomes part of the information you have access to, just like you can look at the cards in your hand.
+2019/05/03: If the top card of your library changes while you're casting a spell, playing a land, or activating an ability, you can't look at the new top card until you finish doing so. This means that if you cast the top card of your library, you can't look at the next one until you're done paying for that spell.
+2019/05/03: You must follow the normal timing permissions and restrictions of the cards you play from your library.
+2019/05/03: You can play a land card from the top of your library only if you have available land plays remaining.
+2019/05/03: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2019/05/03: If you cast a spell for another cost "rather than pay its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Spark Harvest, those must be paid to cast the card.
+2019/05/03: <Bolas's Citadel> may be one of the permanents you sacrifice to activate its last ability.
+2019/05/03: In a Two-Headed Giant game, the last ability of <Bolas's Citadel> causes the opposing team to lose 20 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>79s</No>
+<Name>Bolas's Citadel</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>You may look at the top card of your library any time.
+You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.</CardText>
+<Artist>Jonas De Ro</Artist>
+<Rulings>2019/05/03: <Bolas's Citadel> lets you look at the top card of your library whenever you want (with one restriction—see below), even if you don't have priority. This action doesn't use the stack. Knowing what that card is becomes part of the information you have access to, just like you can look at the cards in your hand.
+2019/05/03: If the top card of your library changes while you're casting a spell, playing a land, or activating an ability, you can't look at the new top card until you finish doing so. This means that if you cast the top card of your library, you can't look at the next one until you're done paying for that spell.
+2019/05/03: You must follow the normal timing permissions and restrictions of the cards you play from your library.
+2019/05/03: You can play a land card from the top of your library only if you have available land plays remaining.
+2019/05/03: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2019/05/03: If you cast a spell for another cost "rather than pay its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Spark Harvest, those must be paid to cast the card.
+2019/05/03: <Bolas's Citadel> may be one of the permanents you sacrifice to activate its last ability.
+2019/05/03: In a Two-Headed Giant game, the last ability of <Bolas's Citadel> causes the opposing team to lose 20 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>82s</No>
+<Name>Command the Dreadhorde</Name>
+<Type>Sorcery</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control.</CardText>
+<Flavor>Liliana seized the reins of Bolas's vast army, gritting her teeth behind the Chain Veil.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2019/05/03: <Command the Dreadhorde> deals damage to you before the creature and planeswalker cards are put onto the battlefield, but if this brings your life total to 0 or less, those creatures and planeswalkers enter the battlefield before you lose the game. Any abilities they have that trigger when they enter the battlefield won't resolve if you lose the game, but their static abilities (such as that of Platinum Angel) may help you survive with 0 or less life.
+2019/05/03: If a card in a graveyard has {X} in its mana cost, X is considered to be 0.
+2019/05/03: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, the creatures and planeswalkers you control from <Command the Dreadhorde>'s effect are exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>83s</No>
+<Name>Davriel, Rogue Shadowmage</Name>
+<Type>Legendary Planeswalker — Davriel (Loyalty: 3)</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
+-1: Target player discards a card.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2019/05/03: If an opponent has two or more cards in their hand as their upkeep begins, Davriel's first ability won't trigger. No player may take any actions during a turn before the turn's upkeep begins. Because the upkeep step is before the draw step, that player won't have drawn a card for the turn yet.
+2019/05/03: If an opponent has one or fewer cards in hand as Davriel's first ability triggers but has two or more cards in hand as that ability resolves, Davriel doesn't deal damage to them.
+2019/05/03: In a Two-Headed Giant game, Davriel's first ability triggers for each opponent separately as appropriate during that player's team's upkeep.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>85s</No>
+<Name>Deliver Unto Evil</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.
+Exile Deliver Unto Evil.</CardText>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2019/05/03: Whether you control a Bolas planeswalker is checked only as this spell resolves.
+2019/05/03: If some of the targets chosen are no longer legal targets as <Deliver Unto Evil> resolves, an opponent chooses among the targets that remain legal. If no targets remain legal, the spell doesn't resolve. It's put into its owner's graveyard and isn't exiled.
+2019/05/03: You may cast <Deliver Unto Evil> with fewer than four targets. However, if you don't control a Bolas planeswalker as <Deliver Unto Evil> resolves, your opponent will choose two of however many cards you did target (or one or zero, if you chose fewer than two) and the remainder (if any) will be put into your hand.
+2019/05/03: You may cast <Deliver Unto Evil> with no targets if you wish. It will be exiled, and nothing else happens.
+2019/05/03: You choose one opponent to make the final choice of which cards remains in your graveyard, but all players may discuss and advise this choice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>86s</No>
+<Name>Dreadhorde Invasion</Name>
+<Type>Enchantment</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.</CardText>
+<Artist>Stanton Feng</Artist>
+<Rulings>2019/05/03: The power of the Zombie token is checked only immediately after it attacks. Any other abilities that trigger when creatures you control attack won't have resolved yet.
+2019/05/03: If the token's power changes later in the turn after it has attacked, including while <Dreadhorde Invasion>'s second ability is on the stack, it won't cause the token to gain or lose lifelink.
+2019/05/03: Army is a new creature type. It's possible to control a nontoken Army (perhaps a creature with the changeling ability) and, through combinations of other cards, it's possible to control multiple Army tokens. When instructed to amass, you may put +1/+1 counters on any of your Army creatures, and you may choose a different one each time.
+2019/05/03: If you don't control an Army, the Zombie Army token that you create enters the battlefield as a 0/0 creature. Any abilities that trigger when a creature with a certain power enters the battlefield, such as that of Mentor of the Meek, will see the token enter as a 0/0 creature before it gets +1/+1 counters.
+2019/05/03: Some cards that cause you to amass also provide bonuses to "Zombie tokens." These affect any token that happens to be a Zombie, not just a Zombie Army you've amassed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>89s</No>
+<Name>The Elderspell</Name>
+<Type>Sorcery</Type>
+<ManaCost>BB (2)</ManaCost>
+<CardText>Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way.</CardText>
+<Flavor>The path to power is often paved with atrocities.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2019/05/03: You choose the target planeswalkers to destroy as you cast <The Elderspell>, but you don't choose a planeswalker to receive loyalty counters until <The Elderspell> is resolving.
+2019/05/03: You can cast <The Elderspell> without controlling any planeswalkers. The target planeswalkers will still be destroyed. You can also cast it without targeting any planeswalkers if you really want to do so.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>91s</No>
+<Name>Finale of Eternity</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBB (2)</ManaCost>
+<CardText>Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.</CardText>
+<Flavor>When you rule by fear, your greatest weakness is one who's no longer afraid.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2019/05/03: <Finale of Eternity> can target up to three creatures that each have toughness X or less. That is, their total toughness doesn't have to be X or less.
+2019/05/03: If some but not all of the target creatures you choose are illegal targets as <Finale of Eternity> resolves, the legal targets are still destroyed and, if X is 10 or more, you still return cards to the battlefield.
+2019/05/03: If some or all of the targets are legal targets but aren't destroyed, most likely because they have indestructible, you'll still return cards to the battlefield if X is 10 or more.
+2019/05/03: If you target a creature you own and X is 10 or more, that card will be among those returned to the battlefield.
+2019/05/03: Any abilities that trigger on the target creatures dying or on the creatures returning to the battlefield will all be put onto the stack after <Finale of Eternity> has finished resolving. If it's your turn, your opponent's triggers resolve first, even though their creatures died before your creatures entered the battlefield.
+2019/05/03: You may cast <Finale of Eternity> without choosing any target creatures. If X is 10 or more, you'll just return all creature cards from your graveyard to the battlefield. However, if you choose any targets and all of those targets become illegal before the spell tries to resolve, the spell won't resolve and you won't put any cards onto the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>92s</No>
+<Name>God-Eternal Bontu</Name>
+<Type>Legendary Creature — Zombie God 5/6</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Menace
+When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards.
+When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2019/05/03: As Bontu's first triggered ability resolves, you may choose to sacrifice zero other permanents.
+2019/05/03: If any abilities trigger as you sacrifice other permanents, those abilities won't be put onto the stack until after you've drawn cards.
+2019/05/03: If a second <God-Eternal Bontu> enters the battlefield under your control, you'll put one into your graveyard before you can sacrifice anything to the new Bontu's triggered ability.
+2019/05/03: If one of these Gods leaves the graveyard or exile while its last ability is on the stack, it will remain in its new zone, even if that zone is a graveyard or exile.
+2019/05/03: If the God's owner has two or fewer cards in their library, the God is put on the bottom of their library as its last ability resolves.
+2019/05/03: If you control another player's God when it dies, you decide whether to put that card into its owner's library.
+2019/05/03: If an effect exiles the God and immediately returns it to the battlefield, its last ability triggers but will have no effect. However, if an effect exiles it and would return it to the battlefield at a later time, the God's ability may return that card its owner's library first. If it does, the effect that exiled it won't return it later.
+2019/05/03: In a multiplayer game, if you put another player's God onto the battlefield under your control, it will be exiled as you leave the game. If you were still the controller of that God, you would control its triggered ability but you have left the game; that ability won't resolve and the card remains in exile. Similarly, if you lose the game at the same time that another player's God that you put onto the battlefield is destroyed, it remains in its owner's graveyard.
+2019/05/03: If one of these Gods would die and it's your commander in the Commander variant, you may put it into the command zone instead. If you save your commander this way, it doesn't die and you won't put it into your library. The same is true if it would be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>97s</No>
+<Name>Liliana, Dreadhorde General</Name>
+<Type>Legendary Planeswalker — Liliana (Loyalty: 6)</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Whenever a creature you control dies, draw a card.
++1: Create a 2/2 black Zombie creature token.
+-4: Each player sacrifices two creatures.
+-9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2019/05/03: If Liliana dies at the same time as one or more creatures you control, her first ability triggers for each of those creatures.
+2019/05/03: If Liliana somehow becomes a creature and dies, her first ability will trigger.
+2019/05/03: As Liliana's second loyalty ability resolves, first the player whose turn it is chooses two creatures they control, then each other player in turn order does the same, knowing the choices made before them. Then all the chosen creatures are sacrificed at the same time. If any player can choose only one creature, that player does so.
+2019/05/03: As Liliana's last ability resolves, the next opponent in turn order (or, if it's somehow an opponent's turn, that opponent) makes all of their choices for it, then each other opponent in turn order does the same, knowing the choices made before them. Then all the unchosen permanents are sacrificed at the same time.
+2019/05/03: The permanent types are artifact, creature, enchantment, land, and planeswalker. Supertypes, like legendary, aren't permanent types.
+2019/05/03: While making choices for Liliana's last ability, if a permanent has more than one permanent type, it can count for any of them. For example, you could choose an artifact creature as the artifact you're sparing, another creature as the creature, and an enchantment creature as the enchantment. Similarly, you could choose an enchantment creature as both the creature and the enchantment that you're sparing, even if you control another creature and/or another enchantment.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>98</No>
+<Name>Liliana's Triumph</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card.</CardText>
+<Artist>Heonhwa Choe</Artist>
+<Rulings>2019/05/03: You can cast <Liliana's Triumph> even if some or all of your opponents will be unable to sacrifice a creature. If you control a Liliana planeswalker, they'll still discard a card, even if they couldn't sacrifice a creature.
+2019/05/03: As <Liliana's Triumph> resolves, the opponent whose turn it is (or, if it's your turn, the next opponent in turn order) chooses a creature to sacrifice, then each other opponent in turn order does the same, knowing the choices made before them. Then all the chosen creatures are sacrificed at the same time. Then, if you control a Liliana planeswalker, in the same order, each opponent chooses a card in their hand without revealing it, and those cards are discarded at the same time.
+2019/05/03: Whether you control an appropriate planeswalker is checked only as the spell resolves.
+2019/05/03: Controlling more than one planeswalker of the appropriate type won't have any more of a benefit than just controlling one.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>99s</No>
+<Name>Massacre Girl</Name>
+<Type>Legendary Creature — Human Assassin 4/4</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Menace
+When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2019/05/03: <Massacre Girl>'s enters-the-battlefield triggered ability and its delayed triggered ability each affect only creatures on the battlefield at the time that those abilities resolve. Creatures that enter the battlefield or become creatures later in the turn won't get -1/-1 unless the delayed triggered ability triggers and resolves again later.
+2019/05/03: Once <Massacre Girl>'s enters-the-battlefield ability has triggered, it doesn't matter whether <Massacre Girl> remains on the battlefield. The delayed triggered ability will be created as the enters-the-battlefield ability resolves.
+2019/05/03: Creatures that die while <Massacre Girl>'s triggered ability is still on the stack won't cause its delayed triggered ability to trigger since that delayed triggered ability hasn't been created yet.
+2019/05/03: A creature with 0 toughness doesn't die immediately. Rather, the creature dies the next time a player would receive priority. This means that any creatures whose toughness becomes 0 as <Massacre Girl>'s enters-the-battlefield ability resolves will remain on the battlefield until just after the delayed triggered ability has been created.
+2019/05/03: If more than one creature dies at once, <Massacre Girl>'s delayed triggered ability triggers that many times.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>100s</No>
+<Name>Ob Nixilis, the Hate-Twisted</Name>
+<Type>Legendary Planeswalker — Nixilis (Loyalty: 5)</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
+-2: Destroy target creature. Its controller draws two cards.</CardText>
+<Artist>Yongjae Choi</Artist>
+<Rulings>2019/05/03: If the target creature is an illegal target by the time Ob Nixilis's last ability tries to resolve, the ability doesn't resolve. No player draws two cards. If the target is legal but not destroyed (most likely because it has indestructible), its controller does draw two cards.
+2019/05/03: If Ob Nixilis leaves the battlefield before his last ability resolves, most likely because he only had 2 loyalty when you activated the ability, his first ability won't exist to trigger when the creature's controller draws two cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>119s</No>
+<Name>Chandra, Fire Artisan</Name>
+<Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
++1: Exile the top card of your library. You may play it this turn.
+-7: Exile the top seven cards of your library. You may play them this turn.</CardText>
+<Artist>Yongjae Choi</Artist>
+<Rulings>2019/05/03: Chandra's first ability triggers if she loses loyalty from being dealt damage, from her last loyalty ability being activated, or because an effect removes loyalty counters from her. If an effect simply causes Chandra to leave the battlefield, no counters were removed and so her ability doesn't trigger.
+2019/05/03: If multiple creatures deal combat damage to Chandra at the same time, those counters are all removed at once, and her first ability triggers only once.
+2019/05/03: If all of Chandra's loyalty counters are removed, her first ability has her deal damage even though she's left the battlefield.
+2019/05/03: Chandra's loyalty abilities don't change when you can play the exiled cards. For example, if you exile a sorcery card, you can cast it only during your main phase when the stack is empty. If you exile a land card, you can play it only during your main phase and only if you have an available land play remaining.
+2019/05/03: Casting an exiled card causes it to leave exile. You can't cast it multiple times.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>125s</No>
+<Name>Dreadhorde Arcanist</Name>
+<Type>Creature — Zombie Wizard 1/3</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Trample
+Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</CardText>
+<Artist>G-host Lee</Artist>
+<Rulings>2019/05/03: The instant or sorcery card you target must have converted mana cost less than or equal to <Dreadhorde Arcanist>'s power immediately after <Dreadhorde Arcanist> has attacked. Any other abilities that trigger when creatures you control attack won't have resolved yet.
+2019/05/03: If <Dreadhorde Arcanist> leaves the battlefield before its triggered ability resolves, use its power as it last existed on the battlefield to check whether the card is still a legal target.
+2019/05/03: If you cast the card, you do so as part of the resolution of <Dreadhorde Arcanist>'s triggered ability. You can't wait to cast it later in the turn. Timing permissions based on a card's type are ignored, and the spell resolve before blockers are declared.
+2019/05/03: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Spark Harvest, you must pay those to cast the card.
+2019/05/03: If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>127s</No>
+<Name>Finale of Promise</Name>
+<Type>Sorcery</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a card cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2019/05/03: As <Finale of Promise> resolves, first you cast the target instant card and/or the target sorcery card in either order. Then, if X is 10 or more, you copy each of those twice and put the copies on the stack in any order. The copies will resolve before the original spells.
+2019/05/03: A split card that's an instant and a sorcery card may be the target of <Finale of Promise> twice. However, once you cast that card once, it can't be cast a second time.
+2019/05/03: If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2019/05/03: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Spark Harvest, you must pay those to cast the card.
+2019/05/03: If the spell that's copied is modal (that is, it says "Choose one—" or the like), the copies will have the same mode or modes. You can't choose different ones.
+2019/05/03: If the spell has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2019/05/03: You can't choose to pay any additional costs for the copies. However, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too.
+2019/05/03: The copies that <Finale of Promise> creates are created on the stack, so they're not "cast." Abilities that trigger when a player casts a spell won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>133s</No>
+<Name>Ilharg, the Raze-Boar</Name>
+<Type>Legendary Creature — Boar God 6/6</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Trample
+Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.
+When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.</CardText>
+<Artist>Filip Burburan</Artist>
+<Rulings>2019/05/03: You choose which player or planeswalker the new creature is attacking. It doesn't have to be attacking the same player or planeswalker that Ilharg is attacking.
+2019/05/03: Although the new creature is attacking, it was never declared as an attacking creature (for the purposes of abilities that trigger whenever a creature attacks, for example, such as those of Trusted Pegasus and Makeshift Battalion).
+2019/05/03: If the new creature leaves the battlefield before the end step, most likely because it died in combat, that card remains in its current zone. It won't return to your hand.
+2019/05/03: If the new creature has an ability that triggers at the beginning of the end step, that ability will trigger and resolve even if the creature is returned to your hand during the end step before that ability resolves.
+2019/05/03: If one of these Gods leaves the graveyard or exile while its last ability is on the stack, it will remain in its new zone, even if that zone is a graveyard or exile.
+2019/05/03: If the God's owner has two or fewer cards in their library, the God is put on the bottom of their library as its last ability resolves.
+2019/05/03: If you control another player's God when it dies, you decide whether to put that card into its owner's library.
+2019/05/03: If an effect exiles the God and immediately returns it to the battlefield, its last ability triggers but will have no effect. However, if an effect exiles it and would return it to the battlefield at a later time, the God's ability may return that card its owner's library first. If it does, the effect that exiled it won't return it later.
+2019/05/03: In a multiplayer game, if you put another player's God onto the battlefield under your control, it will be exiled as you leave the game. If you were still the controller of that God, you would control its triggered ability but you have left the game; that ability won't resolve and the card remains in exile. Similarly, if you lose the game at the same time that another player's God that you put onto the battlefield is destroyed, it remains in its owner's graveyard.
+2019/05/03: If one of these Gods would die and it's your commander in the Commander variant, you may put it into the command zone instead. If you save your commander this way, it doesn't die and you won't put it into your library. The same is true if it would be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>135s</No>
+<Name>Jaya, Venerated Firemage</Name>
+<Type>Legendary Planeswalker — Jaya (Loyalty: 5)</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+-2: Jaya, Venerated Firemage deals 2 damage to any target.</CardText>
+<Artist>Yongjae Choi</Artist>
+<Rulings>2019/05/03: Jaya's first ability doesn't cause Jaya to deal damage; it affects the amount of damage dealt by the original red source.
+2019/05/03: If another effect modifies how much damage your red source would deal, including preventing some of it, the player being dealt damage or the controller of the permanent being dealt damage chooses an order in which to apply those effects. If all of the damage is prevented, Jaya's effect no longer applies.
+2019/05/03: If damage dealt by a source you control is being divided or assigned among multiple permanents an opponent controls or among an opponent and one or more permanents they control simultaneously, divide the original amount before adding 1. For example, if you attack with a 5/5 red creature with trample and your opponent blocks with a 2/2 creature, you can assign 2 damage to the blocker and 3 damage to the defending player. These amounts are then modified to 3 and 4, respectively.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>137s</No>
+<Name>Krenko, Tin Street Kingpin</Name>
+<Type>Legendary Creature — Goblin 1/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.</CardText>
+<Flavor>"After the people flee, but before the enemy arrives—that's grabbin' time."</Flavor>
+<Artist>Mark Behm</Artist>
+<Rulings>2019/05/03: If Krenko leaves the battlefield after its ability has triggered but before it resolves, you don't put a +1/+1 counter on it, but you do use its power as it last existed before it left the battlefield to determine how many Goblin tokens to create.
+2019/05/03: The tokens created by Krenko's triggered ability aren't attacking. Because all attackers are chosen at once, a token created this way can't attack, even if it gains haste.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>138s</No>
+<Name>Mizzium Tank</Name>
+<Type>Artifact — Vehicle 3/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Trample
+Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</CardText>
+<Artist>Wayne Reynolds</Artist>
+<Rulings>2019/05/03: <Mizzium Tank>'s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2019/05/03: <Mizzium Tank>'s triggered ability triggers even if it's already a creature. In this case, it gets an additional +1/+1 until end of turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>140s</No>
+<Name>Neheb, Dreadhorde Champion</Name>
+<Type>Legendary Creature — Zombie Minotaur Warrior 5/4</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Trample
+Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2019/05/03: Other effects may cause you to draw more or fewer cards than the number of cards you discarded. In these cases, the amount of mana you add is equal to the number of cards you discarded, not the number of cards you drew.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>143s</No>
+<Name>Sarkhan the Masterless</Name>
+<Type>Legendary Planeswalker — Sarkhan (Loyalty: 5)</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.
++1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.
+-3: Create a 4/4 red Dragon creature token with flying.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2019/05/03: A planeswalker that becomes a creature due to Sarkhan's first loyalty ability can't attack unless you've controlled it continuously since your turn began.
+2019/05/03: Once Sarkhan's first loyalty ability has resolved, each planeswalker you control (including Sarkhan) is no longer a planeswalker for the rest of the turn. They don't lose any loyalty counters or abilities, and you can still activate their loyalty abilities if you haven't done so yet this turn. They don't lose loyalty if they're dealt damage while they're not planeswalkers.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>146s</No>
+<Name>Tibalt, Rakish Instigator</Name>
+<Type>Legendary Planeswalker — Tibalt (Loyalty: 5)</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Your opponents can't gain life.
+-2: Create a 1/1 red Devil creature token with "When this creature dies, it deals 1 damage to any target."</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2019/05/03: Spells and abilities that cause opponents to gain life still resolve while Tibalt is on the battlefield. No opponent will gain life, but any other effects of that spell or ability will happen.
+2019/05/03: If an effect says to set an opponent's life total to a number that's higher than their current life total while Tibalt is on the battlefield, the player's life total doesn't change.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>150s</No>
+<Name>Arlinn, Voice of the Pack</Name>
+<Type>Legendary Planeswalker — Arlinn (Loyalty: 7)</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+-2: Create a 2/2 green Wolf creature token.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2019/05/03: A creature that's a Wolf or Werewolf enters the battlefield with one +1/+1 counter if it would otherwise enter with no +1/+1 counters.
+2019/05/03: A creature that's both a Wolf and a Werewolf receives only one additional +1/+1 counter from Arlinn's ability.
+2019/05/03: If Arlinn leaves the battlefield before her last ability resolves, most likely because she only had 2 loyalty when you activated the ability, the Wolf token won't enter the battlefield with a +1/+1 counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>152s</No>
+<Name>Awakening of Vitu-Ghazi</Name>
+<Type>Instant</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land.</CardText>
+<Flavor>The Eternal armies advanced on Vitu-Ghazi. At Nissa's command, Vitu-Ghazi advanced on them.</Flavor>
+<Artist>Jaime Jones</Artist>
+<Rulings>2019/05/03: <Awakening of Vitu-Ghazi> doesn't untap the land that becomes a creature.
+2019/05/03: The target land loses the name it had, and its name is just Vitu-Ghazi. It keeps any types and abilities it had.
+2019/05/03: <Awakening of Vitu-Ghazi>'s effect lasts indefinitely. It doesn't wear off during the cleanup step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>160s</No>
+<Name>Finale of Devastation</Name>
+<Type>Sorcery</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.</CardText>
+<Flavor>Some spells sing a quiet tune. Others roar.</Flavor>
+<Artist>Bayard Wu</Artist>
+<Rulings>2019/05/03: If a creature card in your library or graveyard has {X} in its mana cost, X is considered to be 0.
+2019/05/03: If X is 10 or more, the creature card you just put onto the battlefield will get +X/+X and haste.
+2019/05/03: No player may take action between the time you reveal which creature card you'll put onto the battlefield and the time it gets +X/+X and haste if X is 10 or more. Any abilities that trigger as it enters the battlefield will be put onto the stack after your creatures get +X/+X and haste.
+2019/05/03: If you don't find a creature card with converted mana cost X or less, creatures you control still get +X/+X and gain haste if X is 10 or more.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>163s</No>
+<Name>God-Eternal Rhonas</Name>
+<Type>Legendary Creature — Zombie God 5/5</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Deathtouch
+When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.
+When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2019/05/03: Rhonas's first triggered ability affects only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't have their power doubled or gain vigilance.
+2019/05/03: If an effect instructs you to "double" a creature's power, that creature gets +X/+0, where X is its power as that effect begins to apply.
+2019/05/03: If one of these Gods leaves the graveyard or exile while its last ability is on the stack, it will remain in its new zone, even if that zone is a graveyard or exile.
+2019/05/03: If the God's owner has two or fewer cards in their library, the God is put on the bottom of their library as its last ability resolves.
+2019/05/03: If you control another player's God when it dies, you decide whether to put that card into its owner's library.
+2019/05/03: If an effect exiles the God and immediately returns it to the battlefield, its last ability triggers but will have no effect. However, if an effect exiles it and would return it to the battlefield at a later time, the God's ability may return that card its owner's library first. If it does, the effect that exiled it won't return it later.
+2019/05/03: In a multiplayer game, if you put another player's God onto the battlefield under your control, it will be exiled as you leave the game. If you were still the controller of that God, you would control its triggered ability but you have left the game; that ability won't resolve and the card remains in exile. Similarly, if you lose the game at the same time that another player's God that you put onto the battlefield is destroyed, it remains in its owner's graveyard.
+2019/05/03: If one of these Gods would die and it's your commander in the Commander variant, you may put it into the command zone instead. If you save your commander this way, it doesn't die and you won't put it into your library. The same is true if it would be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>164s</No>
+<Name>Jiang Yanggu, Wildcrafter</Name>
+<Type>Legendary Planeswalker — Yanggu (Loyalty: 3)</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Each creature you control with a +1/+1 counter on it has "{T}: Add one mana of any color."
+-1: Put a +1/+1 counter on target creature.</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>169s</No>
+<Name>Nissa, Who Shakes the World</Name>
+<Type>Legendary Planeswalker — Nissa (Loyalty: 5)</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Whenever you tap a Forest for mana, add an additional {G}.
++1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+-8: You get an emblem with "Lands you control have indestructible." Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2019/05/03: The effect of Nissa's first loyalty ability lasts indefinitely. It doesn't wear off during the cleanup step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>171</No>
+<Name>Paradise Druid</Name>
+<Type>Creature — Elf Druid 2/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Paradise Druid has hexproof as long as it's untapped.(It can't be the target of spells or abilities your opponents control.)
+{T}: Add one mana of any color.</CardText>
+<Flavor>"There are many kinds of duty, and mine is to see our world grow and endure."</Flavor>
+<Artist>Nils Hamm</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>172s</No>
+<Name>Planewide Celebration</Name>
+<Type>Sorcery</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Choose four. You may choose the same mode more than once.
+• Create a 2/2 Citizen creature token that's all colors.
+• Return target permanent card from your graveyard to your hand.
+• Proliferate.
+• You gain 4 life.</CardText>
+<Artist>Wisnu Tan</Artist>
+<Rulings>2019/05/03: No matter which combination of modes you choose, you always follow the instructions of <Planewide Celebration> in the order they are written. If a mode is chosen more than once, you perform that mode's instruction that many times sequentially.
+2019/05/03: A permanent card is an artifact, creature, enchantment, land, or planeswalker card.
+2019/05/03: If the second mode is chosen at least once, and every target permanent card is an illegal target by the time <Planewide Celebration> tries to resolve, the spell doesn't resolve. None of the other chosen modes happen. If only some of the targets are illegal targets but at least one is still legal, you still do as much as you can and the illegal targets aren't affected.
+2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
+2019/05/03: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
+2019/05/03: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.
+2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>180s</No>
+<Name>Vivien, Champion of the Wilds</Name>
+<Type>Legendary Planeswalker — Vivien (Loyalty: 4)</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>You may cast creature spells as though they had flash.
++1: Until your next turn, up to one target creature gains vigilance and reach.
+-2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature card.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2019/05/03: While resolving Vivien's last ability, you must exile one of the three cards, even if none of them are creature cards. You may look at the exiled card at any time, even if it's not a creature card.
+2019/05/03: You must follow any applicable timing permissions and restrictions if you cast the exiled card. This means that if Vivien leaves the battlefield, you can't cast the creature spell as though it had flash unless another effect allows you to do so.
+2019/05/03: Once you cast the creature card, it leaves exile. You can't cast it again if that card becomes exiled again.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>181s</No>
+<Name>Vivien's Arkbow</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{X}, {T}, Discard a card: Look at the top X cards of your library. You may put a creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>Zack Stella</Artist>
+<Rulings>2019/05/03: If a card in your library has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>184s</No>
+<Name>Ajani, the Greathearted</Name>
+<Type>Legendary Planeswalker — Ajani (Loyalty: 5)</Type>
+<ManaCost>2GW (4)</ManaCost>
+<CardText>Creatures you control have vigilance.
++1: You gain 3 life.
+-2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2019/05/03: If a planeswalker you control is also a creature (most likely because it's Gideon), that planeswalker receives both a +1/+1 counter and a loyalty counter as Ajani's last ability resolves.
+2019/05/03: If Ajani is somehow a creature as his last ability resolves, he'll get a +1/+1 counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>186s</No>
+<Name>Bioessence Hydra</Name>
+<Type>Creature — Hydra Mutant 4/4</Type>
+<ManaCost>3GU (5)</ManaCost>
+<CardText>Trample
+Bioessence Hydra enters the battlefield with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.
+Whenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on Bioessence Hydra.</CardText>
+<Artist>Mathias Kollros</Artist>
+<Rulings>2019/05/03: Abilities that trigger when counters are put on a permanent trigger when a permanent enters the battlefield with counters and when a player puts counters on a permanent.
+2019/05/03: If <Bioessence Hydra> enters the battlefield at the same time as a planeswalker you control, the loyalty counters that planeswalker will receive won't be counted to determine how many counters <Bioessence Hydra> enters the battlefield with, but they will cause its last ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>187s</No>
+<Name>Casualties of War</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BBGG (6)</ManaCost>
+<CardText>Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Rulings>2019/05/03: You can choose any number of the modes for <Casualties of War>, but you can't choose a mode more than once.
+2019/05/03: Each target permanent is destroyed in the order specified. Abilities that trigger when one is destroyed won't be put onto the stack until <Casualties of War> has finished resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>191s</No>
+<Name>Domri, Anarch of Bolas</Name>
+<Type>Legendary Planeswalker — Domri (Loyalty: 3)</Type>
+<ManaCost>1RG (3)</ManaCost>
+<CardText>Creatures you control get +1/+0.
++1: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+-2: Target creature you control fights target creature you don't control.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2019/05/03: Because it's a loyalty ability, Domri's first loyalty ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.
+2019/05/03: After Domri's first loyalty ability has resolved, no creature spells you cast can be countered during that turn, not just the one you spend the mana on.
+2019/05/03: A spell or ability that counters spells can still target a creature spell you control after Domri's first loyalty ability has resolved. When that spell or ability resolves, the creature spell won't be countered, but any additional effects of that spell or ability will still happen.
+2019/05/03: If Domri leaves the battlefield before his last ability resolves, most likely because he only had 2 loyalty when you activated the ability, the creature won't have +1/+0 from Domri's static ability while it fights.
+2019/05/03: If either target is an illegal target as Domri's last ability resolves, no creature will deal or be dealt damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>193</No>
+<Name>Dovin's Veto</Name>
+<Type>Instant</Type>
+<ManaCost>WU (2)</ManaCost>
+<CardText>This spell can't be countered.
+Counter target noncreature spell.</CardText>
+<Flavor>"I see you've learned nothing, Chandra. You'd still put a match to something rather than understand it."</Flavor>
+<Artist>Izzy</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>194s</No>
+<Name>Dreadhorde Butcher</Name>
+<Type>Creature — Zombie Warrior 1/1</Type>
+<ManaCost>BR (2)</ManaCost>
+<CardText>Haste
+Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher.
+When Dreadhorde Butcher dies, it deals damage equal to its power to any target.</CardText>
+<Artist>Piotr Dura</Artist>
+<Rulings>2019/05/03: <Dreadhorde Butcher>'s last known existence on the battlefield is checked to determine its power as its last ability resolves. If its power was 0 or less, the ability resolves with no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>196s</No>
+<Name>Enter the God-Eternals</Name>
+<Type>Sorcery</Type>
+<ManaCost>2UUB (5)</ManaCost>
+<CardText>Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player puts the top four cards of their library into their graveyard. Amass 4. (Put four +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Rulings>2019/05/03: You can't cast <Enter the God-Eternals> without targeting a creature and a player.
+2019/05/03: If the target creature has less than 4 toughness, <Enter the God-Eternals> still deals 4 damage to it and you'll gain 4 life.
+2019/05/03: If the target creature is no longer a legal target as the spell resolves but the player is a legal target, no creature is dealt damage and you gain no life, but the target player still moves the top cards of their library and you still amass 4.
+2019/05/03: If the target player is no longer a legal target as the spell resolves but the creature is a legal target, the creature is dealt damage, you gain that much life, and you amass 4. No player moves cards from their library.
+2019/05/03: If both targets are no longer legal targets as the spell tries to resolve, it doesn't resolve. You don't amass 4.
+2019/05/03: If the target creature is dealt lethal damage by <Enter the God-Eternals>, it'll still be on the battlefield while you gain life, the target player moves cards, and you amass 4. Any abilities it has may affect these actions and may trigger on them.
+2019/05/03: Abilities that trigger while <Enter the God-Eternals> is resolving or that trigger as the target creature dies are all put onto the stack after the spell has finished resolving and the target creature has (if lethally damaged) died.
+2019/05/03: Army is a new creature type. It's possible to control a nontoken Army (perhaps a creature with the changeling ability) and, through combinations of other cards, it's possible to control multiple Army tokens. When instructed to amass, you may put +1/+1 counters on any of your Army creatures, and you may choose a different one each time.
+2019/05/03: If you don't control an Army, the Zombie Army token that you create enters the battlefield as a 0/0 creature. Any abilities that trigger when a creature with a certain power enters the battlefield, such as that of Mentor of the Meek, will see the token enter as a 0/0 creature before it gets +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>197s</No>
+<Name>Feather, the Redeemed</Name>
+<Type>Legendary Creature — Angel 3/4</Type>
+<ManaCost>RWW (3)</ManaCost>
+<CardText>Flying
+Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.</CardText>
+<Artist>Wayne Reynolds</Artist>
+<Rulings>2019/05/03: If Feather is still on the battlefield as you finish casting an instant or sorcery spell that targets one or more creatures you control, its ability triggers. The replacement effect that exiles that spell and the delayed triggered ability to return it to your hand both take effect even if Feather leaves the battlefield after you've cast the spell.
+2019/05/03: The spell may have any other targets in addition to a creature you control.
+2019/05/03: If an instant or sorcery spell you cast that targets your creature doesn't resolve for any reason (either because another spell or ability counters it or because all its targets are illegal as it tries to resolve), it won't be exiled. You won't return it to your hand.
+2019/05/03: If an instant or sorcery spell's own effect instructs you to exile it or put it anywhere else, it won't try to be put into your graveyard or exiled with Feather's effect, so you won't return it to your hand.
+2019/05/03: If another replacement effect instructs you to exile an instant or sorcery spell, such as that of Dreadhorde Arcanist or the flashback keyword, you may choose to apply Feather's replacement effect first. If you do, Feather's delayed triggered ability will return that card to your hand.
+2019/05/03: If you cast an instant or sorcery spell that you don't own, it won't try to be put into your graveyard, so you won't exile it with Feather's effect or return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>203s</No>
+<Name>Living Twister</Name>
+<Type>Creature — Elemental 2/5</Type>
+<ManaCost>RRG (3)</ManaCost>
+<CardText>{1}{R}, Discard a land card: Living Twister deals 2 damage to any target.
+{G}: Return a tapped land you control to its owner's hand.</CardText>
+<Flavor>"The ancient places of Ravnica awaken, stirred by the hoofbeats of Ilharg!"
+—Nikya of the Old Ways</Flavor>
+<Artist>James Paick</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>207s</No>
+<Name>Nicol Bolas, Dragon-God</Name>
+<Type>Legendary Planeswalker — Bolas (Loyalty: 4)</Type>
+<ManaCost>UBBBR (5)</ManaCost>
+<CardText>Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
++1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+-3: Destroy target creature or planeswalker.
+-8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2019/05/03: Nicol Bolas doesn't remove loyalty abilities from the other planeswalkers.
+2019/05/03: Nicol Bolas doesn't gain any static or triggered abilities of other planeswalkers or any activated abilities they may have that aren't loyalty abilities.
+2019/05/03: While Nicol Bolas may end up with an astonishing number of loyalty abilities, you can still activate only one loyalty ability of <Nicol Bolas, Dragon-God> each turn.
+2019/05/03: If a loyalty ability of a planeswalker references the card it's printed on by name, treat Nicol Bolas's instance of that ability as though it referenced <Nicol Bolas, Dragon-God> by name instead. For instance, if Nahiri, Storm of Stone is on the battlefield, Nicol Bolas deals the damage if you activate the ability he gained from her.
+2019/05/03: If an ability of a planeswalker exiles cards and another loyalty ability of that planeswalker references the exiled cards, those abilities are linked. If Nicol Bolas gains both abilities, the instances he has are similarly linked. Cards exiled by any other abilities Nicol Bolas has (such as his own first loyalty ability) won't be seen by those linked abilities.
+2019/05/03: If any abilities trigger as you draw a card while resolving Nicol Bolas's first loyalty ability, those abilities don't resolve until after your opponents have exiled a card or permanent.
+2019/05/03: After you draw a card as Nicol Bolas's first loyalty ability resolves, the next opponent in turn order (or, if it's somehow an opponent's turn, that opponent) chooses a permanent they control or chooses a card in hand without revealing that card. Then each other opponent in turn order does the same, knowing the choices made before them. Finally, all of the chosen cards are exiled simultaneously.
+2019/05/03: In a Two-Headed Giant game, if one player on a team loses the game, the entire team loses the game, even if the other player controls a legendary creature or planeswalker.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>208s</No>
+<Name>Niv-Mizzet Reborn</Name>
+<Type>Legendary Creature — Dragon Avatar 6/6</Type>
+<ManaCost>WUBRG (5)</ManaCost>
+<CardText>Flying
+When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.</CardText>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2019/05/03: A "color pair" is exactly two colors. There are ten color pairs in Magic: white-blue, white-black, blue-black, blue-red, black-red, black-green, red-green, red-white, green-white, and green-blue.
+2019/05/03: If the top ten cards of your library don't contain all ten color pairs, you choose as many cards as you can and put those cards into your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>209s</No>
+<Name>Oath of Kaya</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>1WB (3)</ManaCost>
+<CardText>When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life.
+Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life.</CardText>
+<Flavor>"So everyone gets what they truly deserve, I will keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2019/05/03: If the target is an illegal target by the time the first ability of <Oath of Kaya> tries to resolve, the ability doesn't resolve. You won't gain 3 life.
+2019/05/03: If an opponent attacks more than one planeswalker you control, the last ability of <Oath of Kaya> triggers once for each of those attacked planeswalkers.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>211s</No>
+<Name>Ral, Storm Conduit</Name>
+<Type>Legendary Planeswalker — Ral (Loyalty: 4)</Type>
+<ManaCost>2UR (4)</ManaCost>
+<CardText>Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker.
++2: Scry 1.
+-2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2019/05/03: Some spells instruct you to "copy target instant or sorcery spell." Because a spell is never a legal target for itself, you can't cast such a spell targeting itself to create a loop that causes Ral's first ability over and over.
+2019/05/03: If an effect copies a spell multiple times, as Finale of Promise may, Ral's first ability triggers that many times.
+2019/05/03: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy created by Ral's last ability will have the same mode or modes. You can't choose different ones.
+2019/05/03: If the spell that's copied has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2019/05/03: You can't choose to pay any additional costs for the copy created by Ral's last ability. However, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too.
+2019/05/03: The copies that Ral's last ability creates are created on the stack, so they're not "cast." Abilities that trigger when a player casts a spell won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>213s</No>
+<Name>Roalesk, Apex Hybrid</Name>
+<Type>Legendary Creature — Human Mutant 4/5</Type>
+<ManaCost>2GGU (5)</ManaCost>
+<CardText>Flying, trample
+When Roalesk, Apex Hybrid enters the battlefield, put two +1/+1 counters on another target creature you control.
+When Roalesk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2019/05/03: You proliferate twice all while Roalesk's last ability is resolving. Nothing can happen between the two proliferations, and no player may choose to take actions.
+2019/05/03: If Roalesk would die and it's your commander in the Commander variant, you may put it into the command zone instead. However, if you save Roalesk this way, it doesn't die and you won't proliferate.
+2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
+2019/05/03: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
+2019/05/03: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.
+2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>214s</No>
+<Name>Role Reversal</Name>
+<Type>Sorcery</Type>
+<ManaCost>UUR (3)</ManaCost>
+<CardText>Exchange control of two target permanents that share a permanent type.</CardText>
+<Flavor>Uthlon the Wise scandalized sphinx society, hooting the answers to riddles as he rampaged through Tin Street. Grangle, on the other hand, sat for hours, deep in thought, largely ignored by fellow goblins.</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Rulings>2019/05/03: If one of the target permanents is an illegal target when <Role Reversal> resolves, the exchange won't happen.
+2019/05/03: <Role Reversal>'s effect lasts indefinitely. It doesn't wear off during the cleanup step, and it doesn't expire if the permanents stop sharing a permanent type after <Role Reversal> has resolved.
+2019/05/03: You don't have to control either target permanent.
+2019/05/03: If the same player controls both permanents when <Role Reversal> resolves, nothing happens.
+2019/05/03: Gaining control of a permanent doesn't cause you to gain control of any Auras or Equipment attached to it.
+2019/05/03: The permanent types are artifact, creature, enchantment, land, and planeswalker. Supertypes, like legendary, aren't permanent types. For example, you can't exchange control of a legendary creature with a legendary planeswalker.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>216s</No>
+<Name>Solar Blaze</Name>
+<Type>Sorcery</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Each creature deals damage to itself equal to its power.</CardText>
+<Flavor>"The primary weapon is nothing more than light. It shows them what they are, and they burn of their own accord."
+—Aurelia</Flavor>
+<Artist>Adam Paquette</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>217s</No>
+<Name>Sorin, Vengeful Bloodlord</Name>
+<Type>Legendary Planeswalker — Sorin (Loyalty: 4)</Type>
+<ManaCost>2WB (4)</ManaCost>
+<CardText>As long as it's your turn, creatures and planeswalkers you control have lifelink.
++2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
+-X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.</CardText>
+<Artist>Tommy Arnold</Artist>
+<Rulings>2019/05/03: Multiple instances of lifelink on the same creature or planeswalker are redundant.
+2019/05/03: If Sorin leaves the battlefield after you've activated his first loyalty ability during your turn but before it resolves, you'll still gain 1 life as that ability deals damage.
+2019/05/03: If a card in a graveyard has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>218s</No>
+<Name>Soul Diviner</Name>
+<Type>Creature — Zombie Wizard 2/3</Type>
+<ManaCost>UB (2)</ManaCost>
+<CardText>{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card.</CardText>
+<Flavor>As the Eternal's cold fingers tightened around his throat, Domri realized what kind of master he had rushed to serve.</Flavor>
+<Artist>Randy Vargas</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>219s</No>
+<Name>Storrev, Devkarin Lich</Name>
+<Type>Legendary Creature — Zombie Elf Wizard 5/4</Type>
+<ManaCost>1BBG (4)</ManaCost>
+<CardText>Trample
+Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn't put there this combat.</CardText>
+<Flavor>In times of war, only death flourishes.</Flavor>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2019/05/03: If Storrev dies due to combat damage dealt at the same time that it deals combat damage to a player or planeswalker, its ability still triggers.
+2019/05/03: Storrev's triggered ability can't target any card that was put into your graveyard during this combat phase. This includes creatures and planeswalkers that died from combat damage, creatures and planeswalkers that died for any other reason, and cards that were put there from any other zone.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>220s</No>
+<Name>Tamiyo, Collector of Tales</Name>
+<Type>Legendary Planeswalker — Tamiyo (Loyalty: 5)</Type>
+<ManaCost>2GU (4)</ManaCost>
+<CardText>Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.
++1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
+-3: Return target card from your graveyard to your hand.</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2019/05/03: As a spell or ability an opponent controls resolves, if it would force you to sacrifice a permanent or discard a card, you just don't. That part of the effect does nothing. If that spell or ability gives you the option to sacrifice a permanent or to discard a card, you can't take that option.
+2019/05/03: If a spell or ability an opponent controls states that something happens unless you sacrifice a permanent (as Mogis, God of Slaughter does) or discard a card (as Painful Quandary does), you can't choose to sacrifice or discard. On the other hand, if a spell or ability an opponent controls instructs you to sacrifice a permanent unless you perform an action (as Killing Wave does) or discard a card unless you perform an action, you can choose whether or not to perform the action. If you don't perform the action, nothing happens, since the spell or ability can't cause you to sacrifice any permanents or discard cards.
+2019/05/03: Tamiyo's ability affects sacrifices, but not any other ways permanents can leave the battlefield. It won't stop a creature from dying due to lethal damage or having 0 toughness, and it won't stop a permanent from being put into its owner's graveyard due to the "legend rule." None of these are sacrifices; they're the result of game rules.
+2019/05/03: If a spell or ability your opponent controls reduces your maximum hand size, Tamiyo's first ability won't stop you from discarding cards when the game rules cause you to discard during your cleanup step.
+2019/05/03: If Tamiyo has 3 loyalty, you can't activate her last ability to return her to your hand. She won't be in your graveyard while you're choosing targets for the ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>221s</No>
+<Name>Teferi, Time Raveler</Name>
+<Type>Legendary Planeswalker — Teferi (Loyalty: 4)</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>Each opponent can cast spells only any time they could cast a sorcery.
++1: Until your next turn, you may cast sorcery spells as though they had flash.
+-3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2019/05/03: If an effect allows opponents to cast spells any time they could cast an instant (for example, if your opponent also controls a <Teferi, Time Raveler> and activates his +1 loyalty ability), the restriction of Teferi's first ability takes precedence over that permission.
+2019/05/03: You may activate Teferi's last ability without choosing any target. You'll just draw a card. However, if you do choose a target and the target permanent is an illegal target by the time Teferi's last ability tries to resolve, the ability doesn't resolve. You don't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>223</No>
+<Name>Time Wipe</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WWU (5)</ManaCost>
+<CardText>Return a creature you control to its owner's hand, then destroy all creatures.</CardText>
+<Artist>Heonhwa Choe</Artist>
+<Rulings>2019/05/03: You chose which creature to return to its owner's hand while <Time Wipe> is resolving. No player may take any actions between the time you choose the creature to return and the time other creatures are destroyed.
+2019/05/03: If you control no creatures, you simply destroy all creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>223s</No>
+<Name>Time Wipe</Name>
+<Type>Sorcery</Type>
+<ManaCost>2WWU (5)</ManaCost>
+<CardText>Return a creature you control to its owner's hand, then destroy all creatures.</CardText>
+<Flavor>"To comprehend the full answer requires years of temporal study. In short, they were now never born in the first place."
+—Teferi</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2019/05/03: You chose which creature to return to its owner's hand while <Time Wipe> is resolving. No player may take any actions between the time you choose the creature to return and the time other creatures are destroyed.
+2019/05/03: If you control no creatures, you simply destroy all creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>224s</No>
+<Name>Tolsimir, Friend to Wolves</Name>
+<Type>Legendary Creature — Elf Scout 3/3</Type>
+<ManaCost>2GGW (5)</ManaCost>
+<CardText>When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token.
+Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature you don't control.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2019/05/03: If Tolsimir is still on the battlefield when its enters-the-battlefield trigger resolves, its last ability will trigger as Voja is created.
+2019/05/03: You may put Tolsimir's last ability onto the stack without choosing any target. You'll just gain 3 life. However, if you do choose a target and the target permanent is an illegal target by the time Tolsimir's last ability tries to resolve, the ability doesn't resolve. You don't gain 3 life and no creature deals or is dealt damage.
+2019/05/03: If the Wolf that entered the battlefield is no longer on the battlefield as Tolsimir's last ability resolves, no creature deals or is dealt damage, but you do gain 3 life.
+2019/05/03: <Tolsimir, Friend to Wolves> has a different name than Tolsimir Wolfblood (from the Ravnica: City of Guilds™ set), and Voja, Friend to Elves has a different name than Voja, the token created by Tolsimir Wolfblood. Since the "legend rule" only cares about exact English names, this means you may control all four of these creatures at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>226s</No>
+<Name>Widespread Brutality</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BRR (4)</ManaCost>
+<CardText>Amass 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass 2, put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2019/05/03: Army is a new creature type. It's possible to control a nontoken Army (perhaps a creature with the changeling ability) and, through combinations of other cards, it's possible to control multiple Army tokens. When instructed to amass, you may put +1/+1 counters on any of your Army creatures, and you may choose a different one each time.
+2019/05/03: If you don't control an Army, the Zombie Army token that you create enters the battlefield as a 0/0 creature. Any abilities that trigger when a creature with a certain power enters the battlefield, such as that of Mentor of the Meek, will see the token enter as a 0/0 creature before it gets +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>227s</No>
+<Name>Angrath, Captain of Chaos</Name>
+<Type>Legendary Planeswalker — Angrath (Loyalty: 5)</Type>
+<ManaCost>2{B/R}{B/R} (4)</ManaCost>
+<CardText>Creatures you control have menace.
+-2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)</CardText>
+<Artist>Slawomir Maniak</Artist>
+<Rulings>2019/05/03: Army is a new creature type. It's possible to control a nontoken Army (perhaps a creature with the changeling ability) and, through combinations of other cards, it's possible to control multiple Army tokens. When instructed to amass, you may put +1/+1 counters on any of your Army creatures, and you may choose a different one each time.
+2019/05/03: If you don't control an Army, the Zombie Army token that you create enters the battlefield as a 0/0 creature. Any abilities that trigger when a creature with a certain power enters the battlefield, such as that of Mentor of the Meek, will see the token enter as a 0/0 creature before it gets +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>228s</No>
+<Name>Ashiok, Dream Render</Name>
+<Type>Legendary Planeswalker — Ashiok (Loyalty: 5)</Type>
+<ManaCost>1{U/B}{U/B} (3)</ManaCost>
+<CardText>Spells and abilities your opponents control can't cause their controller to search their library.
+-1: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.</CardText>
+<Artist>Cynthia Sheppard</Artist>
+<Rulings>2019/05/03: Spells and abilities your opponents control may cause other players to search their libraries, and spells and abilities you control may cause your opponents to search their libraries.
+2019/05/03: If an effect says "You may search your library . . . If you do, shuffle your library" or "You may search your library . . . then shuffle your library," your opponents can't choose to search, so they won't shuffle.
+2019/05/03: If an effect says "Search your library . . . then shuffle your library," your opponents shuffle their libraries even though they can't search.
+2019/05/03: Effects that instruct your opponents to reveal or look at cards from the top of their libraries will still work. Only effects that use the word "search" are affected.
+2019/05/03: If Ashiok's last ability targets an opponent, the cards put into their graveyard will be among the cards exiled by the ability. No player may take any actions between the time the cards are put into a graveyard and the time your opponents' graveyards are all exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>229s</No>
+<Name>Dovin, Hand of Control</Name>
+<Type>Legendary Planeswalker — Dovin (Loyalty: 5)</Type>
+<ManaCost>2{W/U} (3)</ManaCost>
+<CardText>Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
+-1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2019/05/03: Dovin's loyalty ability can target any permanent an opponent controls, not just one that can deal or be dealt damage.
+2019/05/03: Once Dovin's loyalty ability resolves, the damage prevention continues to apply even if Dovin leaves the battlefield.
+2019/05/03: In a multiplayer game, if you leave the game after Dovin's last ability resolves but before your next turn begins, its effect lasts until your next turn would have begun. It neither expires immediately nor lasts indefinitely.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>230s</No>
+<Name>Huatli, the Sun's Heart</Name>
+<Type>Legendary Planeswalker — Huatli (Loyalty: 7)</Type>
+<ManaCost>2{G/W} (3)</ManaCost>
+<CardText>Each creature you control assigns combat damage equal to its toughness rather than its power.
+-3: You gain life equal to the greatest toughness among creatures you control.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2019/05/03: Huatli's first ability doesn't actually change any creature's power. It changes only the amount of combat damage it assigns. All other rules and effects that check power or toughness use the real values. For example, Domri's Ambush won't cause a creature to deal damage equal to its toughness.
+2019/05/03: The greatest toughness among creatures you control is determined only as Huatli's loyalty ability begins to resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>231s</No>
+<Name>Kaya, Bane of the Dead</Name>
+<Type>Legendary Planeswalker — Kaya (Loyalty: 7)</Type>
+<ManaCost>3{W/B}{W/B}{W/B} (6)</ManaCost>
+<CardText>Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+-3: Exile target creature.</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2019/05/03: If a spell or ability you control targets an opponent with hexproof or an opponent's permanent with hexproof, and Kaya leaves the battlefield while that spell or ability is on the stack, that player or permanent becomes an illegal target for that spell or ability. This includes Kaya's own loyalty ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>232s</No>
+<Name>Kiora, Behemoth Beckoner</Name>
+<Type>Legendary Planeswalker — Kiora (Loyalty: 7)</Type>
+<ManaCost>2{G/U} (3)</ManaCost>
+<CardText>Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+-1: Untap target permanent.</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2019/05/03: The entering creature must have power 4 or greater as it enters the battlefield, or Kiora's first ability won't trigger. Static abilities that raise or lower a creature's power are taken into account, as well as any +1/+1 counters the creature enters with. However, you can't have a creature with power 3 or less enter the battlefield, raise its power with a spell, an activated ability, or a triggered ability, and have Kiora's ability trigger.
+2019/05/03: If the entering creature's power changes to 3 or less after it has entered the battlefield, you'll still draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>233s</No>
+<Name>Nahiri, Storm of Stone</Name>
+<Type>Legendary Planeswalker — Nahiri (Loyalty: 6)</Type>
+<ManaCost>2{R/W}{R/W} (4)</ManaCost>
+<CardText>As long as it's your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.
+-X: Nahiri, Storm of Stone deals X damage to target tapped creature.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>234s</No>
+<Name>Saheeli, Sublime Artificer</Name>
+<Type>Legendary Planeswalker — Saheeli (Loyalty: 5)</Type>
+<ManaCost>1{U/R}{U/R} (3)</ManaCost>
+<CardText>Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.
+-2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.</CardText>
+<Artist>Wesley Burt</Artist>
+<Rulings>2019/05/03: Saheeli's first ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2019/05/03: Saheeli's loyalty ability causes the target artifact to copy the printed values of the target permanent, plus any copy effects that have been applied to it. It won't copy counters on that permanent or effects that have changed its power, toughness, types, color, or so on. Notably, it won't copy effects that made the target permanent become a creature.
+2019/05/03: The target artifact is an artifact in addition to whatever types the second target has, and this exception is copiable. If something else copies the artifact later in the turn, that copy also will be an artifact.
+2019/05/03: If the target artifact copies a permanent that's copying something else, it will become whatever the target is copying.
+2019/05/03: If an effect begins to apply to the target artifact before it becomes a copy of another permanent, that effect will continue to apply.
+2019/05/03: If the target artifact becomes a creature the same turn it enters the battlefield, you can't attack with it or use any of its {T} abilities unless it has haste.
+2019/05/03: If the target artifact isn't an Equipment and becomes a copy of an Equipment, it'll become unattached when it becomes a non-Equipment artifact again.
+2019/05/03: If the target artifact is an Equipment attached to a creature and it becomes a copy of a non-Equipment permanent, it becomes unattached. If it becomes a copy of an Equipment, it remains attached.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>235s</No>
+<Name>Samut, Tyrant Smasher</Name>
+<Type>Legendary Planeswalker — Samut (Loyalty: 5)</Type>
+<ManaCost>2{R/G}{R/G} (4)</ManaCost>
+<CardText>Creatures you control have haste.
+-1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Rulings>2019/05/03: If the target creature is an illegal target by the time Samut's loyalty ability tries to resolve, the ability doesn't resolve. You won't scry 1.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>236s</No>
+<Name>Vraska, Swarm's Eminence</Name>
+<Type>Legendary Planeswalker — Vraska (Loyalty: 5)</Type>
+<ManaCost>2{B/G}{B/G} (4)</ManaCost>
+<CardText>Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
+-2: Create a 1/1 black Assassin creature token with deathtouch and "Whenever this creature deals damage to a planeswalker, destroy that planeswalker."</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>244s</No>
+<Name>Blast Zone</Name>
+<Type>Land</Type>
+<CardText>Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{X}{X}, {T}: Put X charge counters on Blast Zone.
+{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone.</CardText>
+<Artist>Chris Ostrowski</Artist>
+<Rulings>2019/05/03: An activation cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {6} to activate <Blast Zone>'s ability.
+2019/05/03: Tokens that aren't a copy of something else don't have a mana cost. Anything without a mana cost normally has a converted mana cost of 0.
+2019/05/03: If a permanent has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>248</No>
+<Name>Karn's Bastion</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Flavor>"I can't protect everyone here. But those I can, I will."
+—Karn</Flavor>
+<Artist>Piotr Dura</Artist>
+<Watermark>Set</Watermark>
+<Rulings>2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
+2019/05/03: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
+2019/05/03: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.
+2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>248s</No>
+<Name>Karn's Bastion</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Flavor>"I can't protect everyone here. But those I can, I will."
+—Karn</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
+2019/05/03: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
+2019/05/03: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.
+2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWAR</SetId>
+<No>249s</No>
+<Name>Mobilized District</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.</CardText>
+<Flavor>Sometimes the strongest weapon you can hold in your hand is another hand.</Flavor>
+<Rulings>2019/05/03: If you control four or more legendary permanents that are creatures and/or planeswalkers, the last ability of <Mobilized District> costs no mana to activate. A legendary planeswalker that's also a creature reduces this cost by only {1}.
+2019/05/03: If <Mobilized District> becomes a creature the same turn it enters the battlefield, you can't attack with it or activate its mana ability.
+2019/05/03: An ability that turns a land into a creature also sets that creature's power and toughness. If the land was already a creature (for example, if it was the target of Awakening of Vitu-Ghazi), this will overwrite the previous effect that set its power and toughness. Effects that modify its power or toughness will continue to apply no matter when they started to take effect. The same is true for counters that change its power or toughness (such as +1/+1 counters) and effects that switch its power and toughness. For example, if <Mobilized District> has been made a 0/0 creature with nine +1/+1 counters on it, activating its last ability will turn it into a 12/12 Citizen creature that's still a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>War of the Spark Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

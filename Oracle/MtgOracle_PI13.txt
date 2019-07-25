@@ -1,0 +1,88 @@
+<Card>
+<SetId>PI13</SetId>
+<No>10</No>
+<Name>Voidmage Husher</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+When Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can't be targeted.)
+Whenever you cast a spell, you may return Voidmage Husher to its owner's hand.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PI13</SetId>
+<No>11</No>
+<Name>Ogre Arsonist</Name>
+<Type>Creature — Ogre 3/3</Type>
+<ManaCost>4R (5)</ManaCost>
+<CardText>When Ogre Arsonist enters the battlefield, destroy target land.</CardText>
+<Flavor>"All of Ravnica's looking for you, Dack, from the Wojek on down."
+—Maytov</Flavor>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>IDW Comics 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PI13</SetId>
+<No>12</No>
+<Name>Corrupt</Name>
+<Type>Sorcery</Type>
+<ManaCost>5B (6)</ManaCost>
+<CardText>Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Rulings>2004/10/04: The swamps are counted on resolution.
+2010/08/15: The life you gain is equal to the damage dealt by <Corrupt>, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example).
+2010/08/15: The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if <Corrupt> deals 6 damage to a 2/2 creature, you'll gain 6 life.
+2013/07/01: <Corrupt> counts any land you control with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PI13</SetId>
+<No>13</No>
+<Name>High Tide</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}.</CardText>
+<Flavor>"There's nothing like the high seas to clear your head or escape pursuers."</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2010/03/01: The delayed triggered ability triggers and produces {U} any time a land with the land-type Island is tapped for mana, even if that land has other types or the mana for which it was tapped is another color. For example, if you tap a Breeding Pool for {G}, <High Tide> will give you an extra {U}.
+2010/03/01: The effect applies even if the Island in question entered the battlefield after <High Tide> resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>IDW Comics 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PI13</SetId>
+<No>14</No>
+<Name>Gaze of Granite</Name>
+<Type>Sorcery</Type>
+<ManaCost>XBBG (3)</ManaCost>
+<CardText>Destroy each nonland permanent with converted mana cost X or less.</CardText>
+<Flavor>"Show yourself, thief."</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2013/04/15: If a permanent has {X} in its mana cost, the value of that X is 0.
+2013/04/15: The converted mana cost of a creature token is 0 unless that token is a copy of another creature, in which case it copies that creature's mana cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>IDW Comics 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

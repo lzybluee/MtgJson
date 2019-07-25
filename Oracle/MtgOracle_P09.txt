@@ -1,0 +1,154 @@
+<Card>
+<SetId>P09</SetId>
+<No>1</No>
+<Name>Cryptic Command</Name>
+<Type>Instant</Type>
+<ManaCost>1UUU (4)</ManaCost>
+<CardText>Choose two —
+• Counter target spell.
+• Return target permanent to its owner's hand.
+• Tap all creatures your opponents control.
+• Draw a card.</CardText>
+<Artist>Wayne England</Artist>
+<Rulings>2017/11/17: You choose both modes as you cast <Cryptic Command>. You must choose two different modes.
+2017/11/17: Look at both chosen modes to determine how many targets <Cryptic Command> has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it won't resolve and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when <Cryptic Command> tries to resolve, you won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>2</No>
+<Name>Flame Javelin</Name>
+<Type>Instant</Type>
+<ManaCost>{2/R}{2/R}{2/R} (6)</ManaCost>
+<CardText>({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)
+Flame Javelin deals 4 damage to any target.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Rulings>2008/05/01: If an effect reduces the cost to cast a spell by an amount of generic mana, it applies to a monocolored hybrid spell only if you've chosen a method of paying for it that includes generic mana.
+2008/05/01: A card with a monocolored hybrid mana symbol in its mana cost is each of the colors that appears in its mana cost, regardless of what mana was spent to cast it. Thus, <Flame Javelin> is red even if you spend six green mana to cast it.
+2008/05/01: A card with monocolored hybrid mana symbols in its mana cost has a converted mana cost equal to the highest possible cost it could be cast for. Its converted mana cost never changes. Thus, <Flame Javelin> has a converted mana cost of 6, even if you spend {R}{R}{R} to cast it.
+2008/05/01: If a cost includes more than one monocolored hybrid mana symbol, you can choose a different way to pay for each symbol. For example, you can pay for <Flame Javelin> by spending {R}{R}{R}, {2}{R}{R}, {4}{R}, or {6}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>3</No>
+<Name>Unmake</Name>
+<Type>Instant</Type>
+<ManaCost>{W/B}{W/B}{W/B} (3)</ManaCost>
+<CardText>Exile target creature.</CardText>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>4</No>
+<Name>Nameless Inversion</Name>
+<Type>Tribal Instant — Shapeshifter</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2007/10/01: If a creature loses all creature types but then gains a new creature type later in the turn, it will be that new creature type.
+2013/07/01: Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>5</No>
+<Name>Remove Soul</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target creature spell.</CardText>
+<Artist>Mike Dringenberg</Artist>
+<Rulings>2008/04/01: A "creature spell" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>6</No>
+<Name>Blightning</Name>
+<Type>Sorcery</Type>
+<ManaCost>1BR (3)</ManaCost>
+<CardText>Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker's controller discards two cards.</CardText>
+<Artist>Jim Pavelec</Artist>
+<Rulings>2008/10/01: The targeted player will discard two cards even if some or all of <Blightning>'s damage is prevented or redirected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>7</No>
+<Name>Rampant Growth</Name>
+<Type>Sorcery</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Rulings>2004/10/04: The land does not count toward your one per turn limit because it was put onto the battlefield by an effect.
+2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>8</No>
+<Name>Negate</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target noncreature spell.</CardText>
+<Artist>Ralph Horsley</Artist>
+<Rulings>2009/10/01: A "creature spell" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>P09</SetId>
+<No>9</No>
+<Name>Terminate</Name>
+<Type>Instant</Type>
+<ManaCost>BR (2)</ManaCost>
+<CardText>Destroy target creature. It can't be regenerated.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magic Player Rewards 2009</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

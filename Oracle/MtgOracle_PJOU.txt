@@ -1,0 +1,166 @@
+<Card>
+<SetId>PJOU</SetId>
+<No>6</No>
+<Name>Dawnbringer Charioteers</Name>
+<Type>Creature — Human Soldier 2/4</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Flying, lifelink
+Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.</CardText>
+<Flavor>"Nyx may belong to the gods, but the skies of Theros are ours."</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2014/04/26: Heroic abilities will resolve before the spell that caused them to trigger.
+2014/04/26: Heroic abilities will trigger only once per spell, even if that spell targets the creature with the heroic ability multiple times.
+2014/04/26: Heroic abilities won't trigger when a copy of a spell is created on the stack or when a spell's targets are changed to include a creature with a heroic ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>37</No>
+<Name>Dictate of Kruphix</Name>
+<Type>Enchantment</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Flash
+At the beginning of each player's draw step, that player draws an additional card.</CardText>
+<Artist>Ryan Barger</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>51</No>
+<Name>Scourge of Fleets</Name>
+<Type>Creature — Kraken 6/6</Type>
+<ManaCost>5UU (7)</ManaCost>
+<CardText>When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2014/04/26: The value of X is determined as the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>66</No>
+<Name>Doomwake Giant</Name>
+<Type>Enchantment Creature — Giant 4/6</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn.</CardText>
+<Flavor>Crippling fear precedes it. A foul stench accompanies it. Death follows in its wake.</Flavor>
+<Artist>Nils Hamm</Artist>
+<Rulings>2014/04/26: A constellation ability triggers whenever an enchantment enters the battlefield under your control for any reason. Enchantments with other card types, such as enchantment creatures, will also cause constellation abilities to trigger.
+2014/04/26: An Aura spell without bestow that has an illegal target when it tries to resolve won't resolve and put into its owner's graveyard. It won't enter the battlefield and constellation abilities won't trigger. An Aura spell with bestow won't be countered this way. It will revert to being an enchantment creature and resolve, entering the battlefield and triggering constellation abilities.
+2014/04/26: When an enchantment enters the battlefield under your control, each constellation ability of permanents you control will trigger. You can put these abilities on the stack in any order. The last ability you put on the stack will be the first one that resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>84</No>
+<Name>Squelching Leeches</Name>
+<Type>Creature — Leech */*</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Squelching Leeches's power and toughness are each equal to the number of Swamps you control.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Rulings>2014/04/26: <Squelching Leeches>'s power and toughness will change as the number of Swamps you control changes. Its ability counts all lands you control with the subtype Swamp, not just those named Swamp.
+2014/04/26: The ability that defines <Squelching Leeches>'s power and toughness works in all zones, not just the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>93</No>
+<Name>Dictate of the Twin Gods</Name>
+<Type>Enchantment</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Flash
+If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</CardText>
+<Flavor>Iroas and Mogis are as different in appearance as they are in personality.</Flavor>
+<Artist>Chase Stone</Artist>
+<Rulings>2014/04/26: <Dictate of the Twin Gods> applies to any damage, not just combat damage. It also doesn't matter who controls the source of the damage that's being dealt.
+2014/04/26: The source of the damage doesn't change. A spell that deals damage will specify the source of the damage, often the spell itself. An ability that deals damage will also specify the source of the damage, although the ability itself will never be that source. Often the source of the ability is also the source of the damage.
+2014/04/26: If more than one <Dictate of the Twin Gods> is on the battlefield, damage dealt will double for each one (two of them will end up multiplying the damage by four, three of them by eight, and four of them by sixteen).
+2014/04/26: If multiple effects modify how damage will be dealt, the player being dealt damage or the controller of the permanent being dealt damage chooses the order to apply the effects. For example, the ability of Decorated Griffin says "Prevent the next 1 combat damage that would be dealt to you this turn." Suppose you would be dealt 3 combat damage and you activate the ability of Decorated Griffin. You can either (a) prevent 1 damage first and then let <Dictate of the Twin Gods>'s effect double the remaining 2 damage, for a result of being dealt 4 damage, or (b) double the damage to 6 and then prevent 1 damage, for a result of being dealt 5 damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>112</No>
+<Name>Spawn of Thraxes</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Flying
+When Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control.</CardText>
+<Flavor>Sparks from Purphoros's forge fill the belly of every dragon.</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2014/04/26: Count the number of Mountains you control when the last ability resolves to determine how much damage is dealt. This includes any land with the subtype Mountain, not just those named Mountain.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>*122</No>
+<Name>Eidolon of Blossoms</Name>
+<Type>Enchantment Creature — Spirit 2/2</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.</CardText>
+<Flavor>The emotional echoes of dryad gatherings attract lost souls.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Colorpie</Watermark>
+<Rulings>2014/04/26: A constellation ability triggers whenever an enchantment enters the battlefield under your control for any reason. Enchantments with other card types, such as enchantment creatures, will also cause constellation abilities to trigger.
+2014/04/26: An Aura spell without bestow that has an illegal target when it tries to resolve won't resolve and put into its owner's graveyard. It won't enter the battlefield and constellation abilities won't trigger. An Aura spell with bestow won't be countered this way. It will revert to being an enchantment creature and resolve, entering the battlefield and triggering constellation abilities.
+2014/04/26: When an enchantment enters the battlefield under your control, each constellation ability of permanents you control will trigger. You can put these abilities on the stack in any order. The last ability you put on the stack will be the first one that resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PJOU</SetId>
+<No>126</No>
+<Name>Heroes' Bane</Name>
+<Type>Creature — Hydra 0/0</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>Heroes' Bane enters the battlefield with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.</CardText>
+<Flavor>Travelers' tales claim that hydras bite off their own heads to make themselves deadlier.</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2017/11/17: The value of X is determined using the power of <Heroes' Bane> when the ability resolves.
+2017/11/17: If <Heroes' Bane>'s power is less than 0 when its second ability resolves, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Journey into Nyx Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

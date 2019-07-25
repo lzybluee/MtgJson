@@ -1,0 +1,220 @@
+<Card>
+<SetId>F11</SetId>
+<No>1</No>
+<Name>Everflowing Chalice</Name>
+<Type>Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+{T}: Add {C} for each charge counter on Everflowing Chalice.</CardText>
+<Artist>Charles Urbach</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2010/03/01: If <Everflowing Chalice> has no charge counters on it, you can still activate its last ability. That ability is still a mana ability, even though it produces no mana as it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>2</No>
+<Name>Spellstutter Sprite</Name>
+<Type>Creature — Faerie Wizard 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flash
+Flying
+When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.</CardText>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Fnm</Watermark>
+<Rulings>2007/10/01: The value of X needs to be determined both when the ability triggers (so you can choose a target) and again when the ability resolves (to check if that target is still legal). If the number of Faeries you control has decreased enough in that time to make the target illegal, <Spellstutter Sprite>'s ability won't resolve (and the targeted spell will resolve as normal).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>3</No>
+<Name>Wall of Omens</Name>
+<Type>Creature — Wall 0/4</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Defender
+When Wall of Omens enters the battlefield, draw a card.</CardText>
+<Flavor>I search for a vision of Zendikar that does not include the Eldrazi.
+—Expedition journal entry</Flavor>
+<Artist>Howard Lyon</Artist>
+<Watermark>Fnm</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>4</No>
+<Name>Artisan of Kozilek</Name>
+<Type>Creature — Eldrazi 10/9</Type>
+<ManaCost>9 (9)</ManaCost>
+<CardText>When you cast this spell, you may return target creature card from your graveyard to the battlefield.
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)</CardText>
+<Artist>Nils Hamm</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2010/06/15: Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before they declare blockers. Any creatures sacrificed this way won't be able to block.
+2010/06/15: If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>5</No>
+<Name>Squadron Hawk</Name>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+When Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle your library.</CardText>
+<Artist>Martina Pilcerova</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>6</No>
+<Name>Rhox War Monk</Name>
+<Type>Creature — Rhino Monk 3/4</Type>
+<ManaCost>GWU (3)</ManaCost>
+<CardText>Lifelink</CardText>
+<Flavor>Rhox monks are dedicated to spiritual growth and learning, and most bear the sigils of many students. However, they do not gladly suffer fools or those who disagree with their carefully wrought dogma.</Flavor>
+<Artist>Allen Williams</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>7</No>
+<Name>Jace's Ingenuity</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Draw three cards.</CardText>
+<Flavor>Brute force can sometimes kick down a locked door, but knowledge is a skeleton key.</Flavor>
+<Artist>Steve Argyle</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>8</No>
+<Name>Cultivate</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.</CardText>
+<Flavor>All seeds share a common bond, calling to each other across infinity.</Flavor>
+<Artist>John Avon</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2010/08/15: If you choose to find only one basic land card, you put it onto the battlefield tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>9</No>
+<Name>Teetering Peaks</Name>
+<Type>Land</Type>
+<CardText>Teetering Peaks enters the battlefield tapped.
+When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.
+{T}: Add {R}.</CardText>
+<Artist>Kekai Kotaki</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>10</No>
+<Name>Contagion Clasp</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Artist>Franz Vohwinkel</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/01/01: You can choose any player that has a counter, including yourself.
+2011/01/01: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them, such as suspended cards or a Lightning Storm on the stack.
+2011/01/01: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2011/01/01: If a permanent chosen this way has multiple kinds of counters on it, only a single new counter is put on that permanent.
+2011/01/01: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2011/01/01: <Contagion Clasp>'s first ability is mandatory. If you're the only player who controls a creature, you must target one of them.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>11</No>
+<Name>Go for the Throat</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonartifact creature.</CardText>
+<Flavor>Having flesh is increasingly a liability on Mirrodin.</Flavor>
+<Artist>David Rapoza</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/06/01: If the targeted creature is also an artifact when <Go for the Throat> tries to resolve, it won't resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F11</SetId>
+<No>12</No>
+<Name>Savage Lands</Name>
+<Type>Land</Type>
+<CardText>Savage Lands enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}.</CardText>
+<Flavor>Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.</Flavor>
+<Artist>John Avon</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2011</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

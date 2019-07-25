@@ -1,0 +1,223 @@
+<Card>
+<SetId>F15</SetId>
+<No>1</No>
+<Name>Frenzied Goblin</Name>
+<Type>Creature — Goblin Berserker 1/1</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.</CardText>
+<Flavor>The upside to not thinking about the consequences is that you'll always surprise those who do.</Flavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/03/16: <Frenzied Goblin>'s ability has only one target. You can't pay {R} multiple times to stop multiple creatures from blocking.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>2</No>
+<Name>Disdainful Stroke</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target spell with converted mana cost 4 or greater.</CardText>
+<Flavor>You are beneath contempt. Your lineage will be forgotten.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/09/20: A face-down spell has converted mana cost 0 and can't be targeted by <Disdainful Stroke>.
+2018/10/05: If a spell has {X} in its mana cost, include the value chosen for that X when determining the converted mana cost of that spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>3</No>
+<Name>Hordeling Outburst</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Create three 1/1 red Goblin creature tokens.</CardText>
+<Flavor>Kolaghan goblins rush into battle to satisfy their desire for violence as well as their desire not to be eaten.</Flavor>
+<Artist>Zoltan Boros</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>4</No>
+<Name>Suspension Field</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)</CardText>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/09/20: <Suspension Field>'s ability causes a zone change with a duration. It's a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after <Suspension Field> leaves the battlefield.
+2014/09/20: If the target creature becomes an illegal target before the ability resolves, perhaps because its toughness was lowered, the ability won't resolve and none of its effects will happen. No creature will be exiled, and <Suspension Field> will remain on the battlefield.
+2014/09/20: If <Suspension Field> leaves the battlefield before its enters-the-battlefield ability resolves, the target creature won't be exiled.
+2014/09/20: Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist.
+2014/09/20: If a token is exiled this way, it ceases to exist. It won't be returned to the battlefield.
+2014/09/20: The exiled card returns to the battlefield immediately after <Suspension Field> leaves the battlefield. Nothing happens between these two events, including state-based actions. <Suspension Field> and the returned card aren't on the battlefield at the same time.
+2014/09/20: In a multiplayer game, if <Suspension Field>'s owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>5</No>
+<Name>Abzan Beastmaster</Name>
+<Type>Creature — Hound Shaman 2/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.</CardText>
+<Flavor>His beasts move the great siege towers of the Abzan across the endless sands.</Flavor>
+<Artist>Scott Murphy</Artist>
+<Watermark>Abzan</Watermark>
+<Rulings>2014/11/24: The ability checks the creatures on the battlefield as it resolves to determine if you will draw a card.
+2014/11/24: You'll draw a maximum of one card, even if you control multiple creatures tied for the greatest toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>6</No>
+<Name>Frost Walker</Name>
+<Type>Creature — Elemental 4/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>When Frost Walker becomes the target of a spell or ability, sacrifice it.</CardText>
+<Flavor>As the clans carved out their territories, we saw allies where the Mardu saw only obstacles.
+—Yasova Dragonclaw</Flavor>
+<Artist>Peter Mohrbacher</Artist>
+<Watermark>Temur</Watermark>
+<Rulings>2014/11/24: If <Frost Walker> becomes the target of a spell or ability, its ability triggers and is put on the stack on top of that spell or ability. <Frost Walker>'s ability will resolve (causing it to be sacrificed) first. Unless the spell or ability has another target, it won't resolve as it tries to resolve for having no legal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>7</No>
+<Name>Path to Exile</Name>
+<Type>Instant</Type>
+<ManaCost>W (1)</ManaCost>
+<CardText>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.</CardText>
+<Artist>Raf Sarmento</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2017/03/14: If the targeted creature becomes an illegal target by the time <Path to Exile> would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card.
+2017/03/14: The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>8</No>
+<Name>Serum Visions</Name>
+<Type>Sorcery</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Draw a card. Scry 2.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>9</No>
+<Name>Orator of Ojutai</Name>
+<Type>Creature — Bird Monk 0/4</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may reveal a Dragon card from your hand.
+Defender, flying
+When Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast this spell, draw a card.</CardText>
+<Artist>David Gaillet</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/02/25: If one of these spells is copied, the controller of the copy will get the "Dragon bonus" only if a Dragon card was revealed as an additional cost. The copy wasn't cast, so whether you controlled a Dragon won't matter.
+2015/02/25: You can't reveal more than one Dragon card to multiply the bonus. There is also no additional benefit for both revealing a Dragon card as an additional cost and controlling a Dragon as you cast the spell.
+2015/02/25: If you don't reveal a Dragon card from your hand, you must control a Dragon as you are finished casting the spell to get the bonus. For example, if you lose control of your only Dragon while casting the spell (because, for example, you sacrificed it to activate a mana ability), you won't get the bonus.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>10</No>
+<Name>Ultimate Price</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target monocolored creature.</CardText>
+<Flavor>He's paid his price. Now you pay mine.</Flavor>
+<Artist>Scott Murphy</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/02/25: A monocolored creature has exactly one color.
+2015/02/25: Face-down creatures and most artifact creatures are not monocolored.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>11</No>
+<Name>Roast</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Roast deals 5 damage to target creature without flying.</CardText>
+<Flavor>The wave of lava seared cloth from skin, skin from flesh, and flesh from bone.</Flavor>
+<Artist>Zoltan Boros</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>F15</SetId>
+<No>12</No>
+<Name>Anticipate</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</CardText>
+<Flavor>You thought I wouldn't see that coming?</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Friday Night Magic 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

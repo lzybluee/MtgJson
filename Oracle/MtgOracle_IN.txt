@@ -178,7 +178,7 @@ If Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters
 {W}: Target creature gains protection from red until end of turn.</CardText>
 <Flavor>The faithful will walk through streams of fire and emerge unscathed.
 —Crimson acolyte creed</Flavor>
-<Artist>Orizio Daniele</Artist>
+<Artist>Dany Orizio</Artist>
 <Multiverseid>22934</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1331,7 +1331,7 @@ Enchanted creature has flying. (It can't be blocked except by creatures with fly
 Draw a card.</CardText>
 <Flavor>"I suggest you take a closer look."
 —Tidal visionary</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>22999</Multiverseid>
 <Rulings>2004/10/04: You can cast this and choose to target zero creatures and effectively just draw a card.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1811,7 +1811,7 @@ If Duskwalker was kicked, it enters the battlefield with two +1/+1 counters on i
 Domain — Enchanted creature gets -1/-1 for each basic land type among lands you control.</CardText>
 <Flavor>Fouler than a necromancer's kiss.
 —Jamuraan expression</Flavor>
-<Artist>Orizio Daniele</Artist>
+<Artist>Dany Orizio</Artist>
 <Multiverseid>23032</Multiverseid>
 <Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
 2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
@@ -1895,8 +1895,7 @@ Target player discards a card. If this spell was kicked, that player discards th
 <ManaCost>2BB (4)</ManaCost>
 <CardText>Protection from white
 Marauding Knight gets +1/+1 for each Plains your opponents control.</CardText>
-<Flavor>"They ride our trails as if they were designed to," said the guard.
-"They were," replied Gerrard.</Flavor>
+<Flavor>"They ride our trails as if they were designed to," said the guard. "They were," replied Gerrard.</Flavor>
 <Artist>Daren Bader</Artist>
 <Multiverseid>23053</Multiverseid>
 <Rulings>2004/10/04: Counts plains controlled by all opponents.</Rulings>
@@ -2372,7 +2371,7 @@ If a card would be put into your graveyard from anywhere, exile it instead.</Car
 <ManaCost>1R (2)</ManaCost>
 <CardText>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Breath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23090</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2493,10 +2492,7 @@ Ghitu Fire deals X damage to any target.</CardText>
 <Type>Creature — Goblin Rogue 1/1</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>Play with the top card of your library revealed.</CardText>
-<Flavor>"Isn't he on our side?"
-"Yep."
-"Why's he spyin' on us?"
-"Don't ask."</Flavor>
+<Flavor>"Isn't he on our side?" "Yep." "Why's he spyin' on us?" "Don't ask."</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>5680</Multiverseid>
 <Rulings>2013/04/15: The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities.
@@ -2633,7 +2629,7 @@ Whenever another Kavu enters the battlefield, put a +1/+1 counter on Kavu Monarc
 <ManaCost>4R (5)</ManaCost>
 <CardText>Whenever Loafing Giant attacks or blocks, put the top card of your library into your graveyard. If that card is a land card, prevent all combat damage Loafing Giant would deal this turn.</CardText>
 <Flavor>"Forget it. I'm not getting up today."</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23092</Multiverseid>
 <Rulings>2004/10/04: If it somehow blocks multiple creatures in a single combat, the triggered ability only triggers once.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2788,7 +2784,7 @@ Red spells you cast cost {R} more to cast.</CardText>
 <ManaCost>1R (2)</ManaCost>
 <CardText>Kicker {G} (You may pay an additional {G} as you cast this spell.)
 Creatures you control gain first strike until end of turn. If this spell was kicked, they get +1/+1 until end of turn.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23078</Multiverseid>
 <Rulings>2004/10/04: Only affects creatures you control when this spell resolves.</Rulings>
 <Vintage>Legal</Vintage>
@@ -2911,6 +2907,7 @@ At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it.</CardT
 <Rulings>2018/04/27: <Skizzik>'s ability checks at each end step whether it was kicked while it was being cast. You don't have to pay its kicker cost each turn (and can't do so, even if you really want to kick it again).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Invasion</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -2974,8 +2971,7 @@ Draw a card.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Whenever a land enters the battlefield, tap all lands its controller controls.</CardText>
-<Flavor>"Think of the problems we'll face if you uproot entire continents," said Urza.
-"I have," replied Teferi, "but the alternative is worse."</Flavor>
+<Flavor>"Think of the problems we'll face if you uproot entire continents," said Urza. "I have," replied Teferi, "but the alternative is worse."</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>23100</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3210,8 +3206,7 @@ Canopy Surge deals 1 damage to each creature with flying and each player. If thi
 <Type>Creature — Elf 2/2</Type>
 <ManaCost>1GG (3)</ManaCost>
 <CardText>Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)</CardText>
-<Flavor>"For what are leaves but countless blades
-To fight a countless foe on high."
+<Flavor>"For what are leaves but countless blades To fight a countless foe on high."
 —Skyshroud hymn</Flavor>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>26445</Multiverseid>
@@ -3265,7 +3260,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 <Type>Instant</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>As an additional cost to cast this spell, sacrifice a land.
-Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</CardText>
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.</CardText>
 <Flavor>No spot in nature is truly barren.</Flavor>
 <Artist>Rob Alexander</Artist>
 <Multiverseid>23131</Multiverseid>
@@ -3407,7 +3402,7 @@ If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters
 <ManaCost>2G (3)</ManaCost>
 <CardText>{T}: Llanowar Vanguard gets +0/+4 until end of turn.</CardText>
 <Flavor>Llanowar rallied around Eladamri's banner and united in his name.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23123</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3421,7 +3416,7 @@ If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters
 <Name>Might Weaver</Name>
 <Type>Creature — Human Wizard 2/1</Type>
 <ManaCost>1G (2)</ManaCost>
-<CardText>{2}: Target red or white creature gains trample until end of turn. (If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)</CardText>
+<CardText>{2}: Target red or white creature gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
 <Flavor>"Let my strength harden your resolve."</Flavor>
 <Artist>Larry Elmore</Artist>
 <Multiverseid>23124</Multiverseid>
@@ -3531,7 +3526,7 @@ If Pincer Spider was kicked, it enters the battlefield with a +1/+1 counter on i
 <Artist>Heather Hudson</Artist>
 <Multiverseid>26416</Multiverseid>
 <Rulings>2008/08/01: This is not a mana ability. It uses the stack, and can be responded to.
-2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
+2009/10/01: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Invasion</Set>
@@ -3662,7 +3657,7 @@ Create a 1/1 green Saproling creature token for each creature you control.</Card
 <ManaCost>5G (6)</ManaCost>
 <CardText>Trample
 Sulam Djinn gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23126</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3901,9 +3896,10 @@ Enchanted creature has reach. (It can block creatures with flying.)
 <Flavor>"Your presumption is your downfall."</Flavor>
 <Artist>Andrew Goldhawk</Artist>
 <Multiverseid>23155</Multiverseid>
-<Rulings>2004/10/04: If cast targeting a spell that can't be countered, the life gain still happens, but that spell is not countered.</Rulings>
+<Rulings>2019/01/25: A spell that can't be countered is a legal target for <Absorb>. The spell won't be countered when <Absorb> resolves, but you'll still gain 3 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Invasion</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -4233,8 +4229,7 @@ Whenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U
 <ManaCost>1GW (3)</ManaCost>
 <CardText>No more than one creature can attack each combat.
 No more than one creature can block each combat.</CardText>
-<Flavor>"You think you can stop me?" hissed Tsabo.
-"I think I can kill you," replied Gerrard.</Flavor>
+<Flavor>"You think you can stop me?" hissed Tsabo. "I think I can kill you," replied Gerrard.</Flavor>
 <Artist>Pete Venters</Artist>
 <Multiverseid>25438</Multiverseid>
 <Rulings>2004/10/04: The ability affects all players.</Rulings>
@@ -4287,8 +4282,7 @@ Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</Card
 <Type>Creature — Merfolk Knight 2/2</Type>
 <ManaCost>WU (2)</ManaCost>
 <CardText>Protection from red</CardText>
-<Flavor>"Are they on our side?" asked Sisay.
-"If they kill Phyrexians they are," replied Gerrard.</Flavor>
+<Flavor>"Are they on our side?" asked Sisay. "If they kill Phyrexians they are," replied Gerrard.</Flavor>
 <Artist>David Martin</Artist>
 <Multiverseid>23158</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4578,6 +4572,7 @@ Haste</CardText>
 <CardText>Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.</CardText>
 <Artist>Pete Venters</Artist>
 <Multiverseid>23196</Multiverseid>
+<Rulings>2018/12/07: If a card in a player's library has {X} in its mana cost, X is considered to be 0.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Invasion</Set>
@@ -4927,7 +4922,7 @@ Urborg Drake attacks each combat if able.</CardText>
 <CardText>Protection from green</CardText>
 <Flavor>"Every last one of you will become my servant. It's a shame you won't live to see the irony."
 —Tsabo Tavoc, Phyrexian general</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23159</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -5038,38 +5033,6 @@ Yavimaya Kavu's toughness is equal to the number of green creatures on the battl
 
 <Card>
 <SetId>IN</SetId>
-<No>292b</No>
-<Name>Deliver (Stand/Deliver)</Name>
-<Type>Instant</Type>
-<ManaCost>2U (3)</ManaCost>
-<CardText>Return target permanent to its owner's hand.</CardText>
-<Artist>David Martin</Artist>
-<Multiverseid>20573</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Invasion</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Stand (Stand/Deliver)</OtherPart>
-</Card>
-
-<Card>
-<SetId>IN</SetId>
-<No>293a</No>
-<Name>Spite (Spite/Malice)</Name>
-<Type>Instant</Type>
-<ManaCost>3U (4)</ManaCost>
-<CardText>Counter target noncreature spell.</CardText>
-<Artist>David Martin</Artist>
-<Multiverseid>20576</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Invasion</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Malice (Spite/Malice)</OtherPart>
-</Card>
-
-<Card>
-<SetId>IN</SetId>
 <No>293b</No>
 <Name>Malice (Spite/Malice)</Name>
 <Type>Instant</Type>
@@ -5102,22 +5065,6 @@ Yavimaya Kavu's toughness is equal to the number of green creatures on the battl
 
 <Card>
 <SetId>IN</SetId>
-<No>294b</No>
-<Name>Suffering (Pain/Suffering)</Name>
-<Type>Sorcery</Type>
-<ManaCost>3R (4)</ManaCost>
-<CardText>Destroy target land.</CardText>
-<Artist>David Martin</Artist>
-<Multiverseid>20577</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Invasion</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Pain (Pain/Suffering)</OtherPart>
-</Card>
-
-<Card>
-<SetId>IN</SetId>
 <No>295a</No>
 <Name>Assault (Assault/Battery)</Name>
 <Type>Sorcery</Type>
@@ -5131,39 +5078,6 @@ Yavimaya Kavu's toughness is equal to the number of green creatures on the battl
 <Set>Invasion</Set>
 <Rarity>Uncommon</Rarity>
 <OtherPart>Battery (Assault/Battery)</OtherPart>
-</Card>
-
-<Card>
-<SetId>IN</SetId>
-<No>295b</No>
-<Name>Battery (Assault/Battery)</Name>
-<Type>Sorcery</Type>
-<ManaCost>3G (4)</ManaCost>
-<CardText>Create a 3/3 green Elephant creature token.</CardText>
-<Artist>Ben Thompson</Artist>
-<Multiverseid>20579</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
-<Set>Invasion</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Assault (Assault/Battery)</OtherPart>
-</Card>
-
-<Card>
-<SetId>IN</SetId>
-<No>296a</No>
-<Name>Wax (Wax/Wane)</Name>
-<Type>Instant</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>Target creature gets +2/+2 until end of turn.</CardText>
-<Artist>Ben Thompson</Artist>
-<Multiverseid>20582</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Invasion</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Wane (Wax/Wane)</OtherPart>
 </Card>
 
 <Card>

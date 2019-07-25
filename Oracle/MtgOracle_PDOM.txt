@@ -1,0 +1,1894 @@
+<Card>
+<SetId>PDOM</SetId>
+<No>1s</No>
+<Name>Karn, Scion of Urza</Name>
+<Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+-1: Put a card you own with a silver counter on it from exile into your hand.
+-2: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2018/04/27: A token created by Karn's last ability will count itself, so it'll be at least 1/1.
+2018/04/27: Karn is colorless but not an artifact. The Construct tokens created by Karn's last ability don't count Karn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>4s</No>
+<Name>Baird, Steward of Argive</Name>
+<Type>Legendary Creature — Human Soldier 2/4</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Vigilance
+Creatures can't attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.</CardText>
+<Flavor>"The walls of Argive were built by a peaceful dynastic union that has guarded us against war for fifteen centuries. The lesson is clear."</Flavor>
+<Artist>Christine Choi</Artist>
+<Rulings>2018/04/27: If you control Baird, your opponents can choose not to pay to attack with a creature that attacks "if able." If there's no other player or planeswalker to attack, that creature simply doesn't attack.
+2018/04/27: In a Two-Headed Giant game, creatures can attack your teammate and planeswalkers your teammate controls without requiring a mana payment. This is a change from previous rules.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>6s</No>
+<Name>Benalish Marshal</Name>
+<Type>Creature — Human Knight 3/3</Type>
+<ManaCost>WWW (3)</ManaCost>
+<CardText>Other creatures you control get +1/+1.</CardText>
+<Flavor>"Some aspire to climb the mountain of Honor. The Benalish are born upon its peak, and from there ascend among the stars."
+—History of Benalia</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a creature you control may become lethal if <Benalish Marshal> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>12s</No>
+<Name>Danitha Capashen, Paragon</Name>
+<Type>Legendary Creature — Human Knight 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>First strike, vigilance, lifelink
+Aura and Equipment spells you cast cost {1} less to cast.</CardText>
+<Flavor>"I will protect the less fortunate. I will love bravely. I will face despair and fight on. As a Capashen, I can do no less."</Flavor>
+<Artist>Chris Rallis</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>13s</No>
+<Name>Daring Archaeologist</Name>
+<Type>Creature — Human Artificer 3/3</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>When Daring Archaeologist enters the battlefield, you may return target artifact card from your graveyard to your hand.
+Whenever you cast a historic spell, put a +1/+1 counter on Daring Archaeologist. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Artist>Sidharth Chaturvedi</Artist>
+<Rulings>2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.
+2018/04/27: Some abilities trigger "whenever you cast a historic spell." Such an ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/04/27: An ability that triggers "whenever you cast a historic spell" doesn't trigger if a historic card is put onto the battlefield without being cast.
+2018/04/27: Lands are never cast, so abilities that trigger "whenever you cast a historic spell" won't trigger if you play a legendary land. They also won't trigger if a card on the battlefield transforms into a legendary land, as the Ixalan and Rivals of Ixalan double-faced cards do.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>16s</No>
+<Name>Evra, Halcyon Witness</Name>
+<Type>Legendary Creature — Avatar 4/4</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Lifelink
+{4}: Exchange your life total with Evra, Halcyon Witness's power.</CardText>
+<Flavor>"Light from the Null Moon took form—a mirage made real, alone in grandeur, isolated in a world that once had been its own."
+—Fall of the Thran</Flavor>
+<Artist>Johannes Voss</Artist>
+<Rulings>2018/04/27: If Evra isn't on the battlefield when its activated ability resolves, the exchange can't happen and the ability will have no effect. However, if Evra is on the battlefield but has power 0 or less, the exchange happens and you'll lose the game.
+2018/04/27: When its activated ability resolves, Evra's power will become your former life total and you will gain or lose an amount of life such that your life total equals Evra's former power. Other effects that interact with life gain or life loss will interact with this effect accordingly.
+2018/04/27: Any power-modifying effects, counters, Auras, or Equipment will apply after Evra's power is set to your former life total. For example, say Evra is enchanted with Dub (which makes it 6/6) and your life total is 7. After the exchange, Evra would be a 9/6 creature (its power became 7, which was then modified by Dub) and your life total would be 6.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>18s</No>
+<Name>Fall of the Thran</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>5W (6)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy all lands.
+II, III — Each player returns two land cards from their graveyard to the battlefield.</CardText>
+<Artist>Jason Felix</Artist>
+<Rulings>2018/04/27: If a player somehow has only one land card in their graveyard when either of <Fall of the Thran>'s last two chapter abilities resolves, that player returns that one card to the battlefield.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>21s</No>
+<Name>History of Benalia</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 2/2 white Knight creature token with vigilance.
+III — Knights you control get +2/+1 until end of turn.</CardText>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: The final chapter ability of <History of Benalia> affects only Knights you control at the time it resolves. Creatures you begin to control later in the turn or that become Knights later in the turn won't get +2/+1.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>25s</No>
+<Name>Kwende, Pride of Femeref</Name>
+<Type>Legendary Creature — Human Knight 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Double strike
+Creatures you control with first strike have double strike.</CardText>
+<Flavor>Descendant of a vanished land, student of a forgotten general, and master of blades no smith could forge anew. He honors them all by living a life worthy of song.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2018/04/27: A creature with first strike and double strike deals combat damage the same as a creature with double strike. It doesn't deal damage three times or before other creatures with first strike.
+2018/04/27: If a creature you control gains first strike after Kwende has entered the battlefield, that creature also gains double strike.
+2018/04/27: If a creature loses double strike after first strike damage is dealt, it won't deal normal combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>26s</No>
+<Name>Lyra Dawnbringer</Name>
+<Type>Legendary Creature — Angel 5/5</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying, first strike, lifelink
+Other Angels you control get +1/+1 and have lifelink.</CardText>
+<Flavor>"You are not alone. You never were."</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: Multiple instances of lifelink on the same creature are redundant.
+2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to an Angel you control may become lethal if Lyra leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>33c</No>
+<Name>Serra Angel</Name>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying, vigilance</CardText>
+<Flavor>天使は過去の自分を夢のように思い出していた。自分の歌が牧草地を支えたこと。自分の刃が闇を追い返したこと。自分の翼がずっと自分を運んでいたことを。</Flavor>
+<Artist>Scott M. Fischer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>35s</No>
+<Name>Shalai, Voice of Plenty</Name>
+<Type>Legendary Creature — Angel 3/4</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+You, planeswalkers you control, and other creatures you control have hexproof.
+{4}{G}{G}: Put a +1/+1 counter on each creature you control.</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>36s</No>
+<Name>Teshar, Ancestor's Apostle</Name>
+<Type>Legendary Creature — Bird Cleric 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+Whenever you cast a historic spell, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Flavor>"The Ancestor saved us for a purpose."</Flavor>
+<Artist>Even Amundsen</Artist>
+<Rulings>2018/04/27: If the mana cost of a card in your graveyard includes {X}, X is considered to be 0.
+2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.
+2018/04/27: Some abilities trigger "whenever you cast a historic spell." Such an ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/04/27: An ability that triggers "whenever you cast a historic spell" doesn't trigger if a historic card is put onto the battlefield without being cast.
+2018/04/27: Lands are never cast, so abilities that trigger "whenever you cast a historic spell" won't trigger if you play a legendary land. They also won't trigger if a card on the battlefield transforms into a legendary land, as the Ixalan and Rivals of Ixalan double-faced cards do.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>39s</No>
+<Name>Urza's Ruinous Blast</Name>
+<Type>Legendary Sorcery</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Exile all nonland permanents that aren't legendary.</CardText>
+<Flavor>Centuries ago, one man's vengeance plunged the world into ice and darkness.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
+2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>42s</No>
+<Name>The Antiquities War</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+III — Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2018/04/27: The final chapter ability of <The Antiquities War> affects only artifacts you control at the time it resolves. Artifacts you begin to control later in the turn won't become 5/5 creatures.
+2018/04/27: The final chapter ability of <The Antiquities War> overwrites an artifact creature's normal base power and toughness and all previous effects that set an artifact creature's base power and toughness to specific values. Any power- or toughness-setting effects that start to apply after the ability resolves will overwrite this effect.
+2018/04/27: Effects that modify an artifact creature's power and/or toughness, such as the effect of Titanic Growth, will apply to the creature no matter when they started to take effect. The same is true for any counters that change its power and/or toughness and effects that switch its power and toughness.
+2018/04/27: If <The Antiquities War> somehow becomes an artifact enchantment prior to resolving its final chapter ability, it will become a 5/5 Saga artifact enchantment creature, and will then be sacrificed after that ability resolves.
+2018/04/27: An Equipment that becomes an artifact creature becomes unattached if it's attached to a creature. Its equip ability can be activated, but it won't become attached to the target creature.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>55s</No>
+<Name>Karn's Temporal Sundering</Name>
+<Type>Legendary Sorcery</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Target player takes an extra turn after this one. Return up to one target nonland permanent to its owner's hand. Exile Karn's Temporal Sundering.</CardText>
+<Flavor>Centuries ago, a quest to harness time became a spiral into chaos.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: If the target player or target nonland permanent is an illegal target as <Karn's Temporal Sundering> resolves, the other target is affected as normal and <Karn's Temporal Sundering> is exiled. If both targets are illegal, <Karn's Temporal Sundering> doesn't resolve and isn't exiled.
+2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
+2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>57s</No>
+<Name>The Mirari Conjecture</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>4U (5)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Return target instant card from your graveyard to your hand.
+II — Return target sorcery card from your graveyard to your hand.
+III — Until end of turn, whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</CardText>
+<Artist>James Arnold</Artist>
+<Rulings>2018/04/27: <The Mirari Conjecture>'s final chapter ability copies any instant or sorcery spell you cast, not just those with targets.
+2018/04/27: The copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2018/04/27: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2018/04/27: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. A different mode can't be chosen.
+2018/04/27: If the spell that's copied has an X whose value was determined as it was cast (like Jaya's Immolating Inferno does), the copy will have the same value of X.
+2018/04/27: If the spell has damage divided as it was cast (like Fight with Fire does when kicked), the division can't be changed (although the targets receiving that damage still can).
+2018/04/27: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>58s</No>
+<Name>Naban, Dean of Iteration</Name>
+<Type>Legendary Creature — Human Wizard 2/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>If a Wizard entering the battlefield under your control causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</CardText>
+<Flavor>"Perfect. Now do it again."</Flavor>
+<Artist>Ryan Alexander Lee</Artist>
+<Rulings>2018/04/27: Naban affects a Wizard's own enters-the-battlefield triggered abilities as well as other triggered abilities that trigger when that Wizard enters the battlefield. Such triggered abilities start with "when" or "whenever."
+2018/04/27: Replacement effects are unaffected by Naban's first ability. For example, a Wizard that enters the battlefield with one +1/+1 counter on it won't receive an additional +1/+1 counter.
+2018/04/27: Abilities that apply "as [this creature] enters the battlefield," such as choosing a card name with Meddling Mage, are unaffected.
+2018/04/27: Naban's effect doesn't copy the triggered ability; it just causes the ability to trigger twice. Any choices made as you put the ability onto the stack, such as modes and targets, are made separately for each instance of the ability. Any choices made on resolution, such as whether to put counters on a permanent, are also made individually.
+2018/04/27: The trigger event doesn't have to specifically refer to "Wizards." For example, an ability that triggers "whenever a creature enters the battlefield under your control" would trigger twice if the entering creature is a Wizard.
+2018/04/27: Look at each permanent as it exists on the battlefield, taking into account continuous effects, to determine whether any triggered abilities will trigger multiple times. For example, if you control Arcane Adaptation with Wizard as the chosen creature type, a Runeclaw Bear entering the battlefield will cause any abilities it triggers to trigger an additional time.
+2018/04/27: If you somehow control two Nabans, a Wizard entering the battlefield causes abilities to trigger three times, not four. A third Naban causes abilities to trigger four times, a fourth causes abilities to trigger five times, and so on.
+2018/04/27: If a Wizard entering the battlefield at the same time as Naban (including Naban itself) causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+2018/04/27: If a triggered ability is linked to a second ability, additional instances of that triggered ability are also linked to that second ability. If the second ability refers to "the exiled card," it refers to all cards exiled by instances of the triggered ability.
+2018/04/27: In some cases involving linked abilities, an ability requires information about "the exiled card." When this happens, the ability gets multiple answers. If these answers are being used to determine the value of a variable, the sum is used. For example, if Elite Arcanist's enters-the-battlefield ability triggers twice, two cards are exiled. The value of X in the activation cost of Elite Arcanist's other ability is the sum of the two cards' converted mana costs. As the ability resolves, you create copies of both cards and can cast none, one, or both of the copies in any order.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>59s</No>
+<Name>Naru Meha, Master Wizard</Name>
+<Type>Legendary Creature — Human Wizard 3/3</Type>
+<ManaCost>2UU (4)</ManaCost>
+<CardText>Flash
+When Naru Meha, Master Wizard enters the battlefield, copy target instant or sorcery spell you control. You may choose new targets for the copy.
+Other Wizards you control get +1/+1.</CardText>
+<Artist>Matt Stewart</Artist>
+<Rulings>2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Wizard you control may become lethal if Naru leaves the battlefield during that turn.
+2018/04/27: Naru's triggered ability can copy any instant or sorcery spell, not just one with targets.
+2018/04/27: The copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2018/04/27: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2018/04/27: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. A different mode can't be chosen.
+2018/04/27: If the spell that's copied has an X whose value was determined as it was cast (like Jaya's Immolating Inferno does), the copy will have the same value of X.
+2018/04/27: If the spell has damage divided as it was cast (like Fight with Fire does when kicked), the division can't be changed (although the targets receiving that damage still can).
+2018/04/27: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>60</No>
+<Name>Opt</Name>
+<Type>Instant</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Draw a card.</CardText>
+<Flavor>The crystal pulsed with the power of Teferi's planeswalker spark. Had Jhoira given him a blessing or a curse?</Flavor>
+<Artist>Tyler Jacobson</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>61s</No>
+<Name>Precognition Field</Name>
+<Type>Enchantment</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>You may look at the top card of your library any time.
+You may cast the top card of your library if it's an instant or sorcery card.
+{3}: Exile the top card of your library.</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2018/04/27: <Precognition Field> lets you look at the top card of your library whenever you want (with one restriction—see below), even if you don't have priority. This action doesn't use the stack. Knowing what that card is becomes part of the information you have access to, just like you can look at the cards in your hand.
+2018/04/27: If the top card of your library changes while you're casting a spell or activating an ability, you can't look at the new top card until you finish casting that spell or activating that ability. This means that if you cast the top card of your library, you can't look at the next one until you're done paying for that spell.
+2018/04/27: You must follow the normal timing permissions and restrictions of the cards you play from your library.
+2018/04/27: You'll still pay all costs for that spell, including additional costs. You may also pay alternative costs such as that granted by Jodah, Archmage Eternal.
+2018/04/27: The top card of your library isn't in your hand, so you can't cycle it, discard it, or activate any of its activated abilities.
+2018/04/27: The card you'll exile from the top of your library is determined as <Precognition Field>'s last ability resolves. This might not be the card that was on top of your library when you activated that ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>66s</No>
+<Name>Slinn Voda, the Rising Deep</Name>
+<Type>Legendary Creature — Leviathan 8/8</Type>
+<ManaCost>6UU (8)</ManaCost>
+<CardText>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents.</CardText>
+<Artist>Grzegorz Rutkowski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>68s</No>
+<Name>Tempest Djinn</Name>
+<Type>Creature — Djinn 0/4</Type>
+<ManaCost>UUU (3)</ManaCost>
+<CardText>Flying
+Tempest Djinn gets +1/+0 for each basic Island you control.</CardText>
+<Flavor>The first to arrive on Dominaria from their distant home, the marids are the oldest tribe of djinn and the most respected by storm and sea.</Flavor>
+<Artist>Zezhou Chen</Artist>
+<Rulings>2018/04/27: <Tempest Djinn>'s ability that modifies its power applies only while it's on the battlefield. In all other zones, it's a 0/4 creature card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>69s</No>
+<Name>Tetsuko Umezawa, Fugitive</Name>
+<Type>Legendary Creature — Human Rogue 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Creatures you control with power or toughness 1 or less can't be blocked.</CardText>
+<Flavor>"My ancestor Toshiro used to say, 'Life is a series of choices between bad and worse.' I'm a master of making great bad choices."</Flavor>
+<Artist>Randy Vargas</Artist>
+<Rulings>2018/04/27: Once a creature you control has been blocked, changing its power to 1 or less won't cause it to become unblocked. Changing its toughness to 1 won't cause it to become unblocked, and changing its toughness to less than 1 will cause it to die.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>76</No>
+<Name>Zahid, Djinn of the Lamp</Name>
+<Type>Legendary Creature — Djinn 5/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.
+Flying</CardText>
+<Flavor>"I do as I please, little mortal. Do go on about your wishes, though—they amuse me to no end."</Flavor>
+<Artist>Tyler Jacobson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>76s</No>
+<Name>Zahid, Djinn of the Lamp</Name>
+<Type>Legendary Creature — Djinn 5/6</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.
+Flying</CardText>
+<Flavor>"I do as I please, little mortal. Do go on about your wishes, though—they amuse me to no end."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>81</No>
+<Name>Cast Down</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Destroy target nonlegendary creature.</CardText>
+<Flavor>"Your life is finished, your name lost, and your work forgotten. It is as though Mazeura never existed."
+— Chainer's Torment</Flavor>
+<Artist>Bastien L. Deharme</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>86s</No>
+<Name>Demonlord Belzenlok</Name>
+<Type>Legendary Creature — Elder Demon 6/6</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying, trample
+When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's converted mana cost is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2018/04/27: Once the triggered ability resolves, the ability will continue until you either exile a nonland card with converted mana cost 3 or less or fail to exile any nonland cards while performing the process. You can't choose to stop receiving the blessings of <Demonlord Belzenlok> any sooner.
+2018/04/27: Land cards exiled this way remain exiled.
+2018/04/27: <Demonlord Belzenlok>'s ability causes it to deal an amount of damage to you all at once; it doesn't deal 1 damage multiple times.
+2018/04/27: If the mana cost of the nonland card includes {X}, X is considered to be 0.
+2018/04/27: If the nonland card doesn't have a mana cost, its converted mana cost is 0.
+2018/04/27: The converted mana cost of a split card, such as a card with aftermath from the Amonkhet block, is equal to the combined mana cost of its two halves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>88s</No>
+<Name>Dread Shade</Name>
+<Type>Creature — Shade 3/3</Type>
+<ManaCost>BBB (3)</ManaCost>
+<CardText>{B}: Dread Shade gets +1/+1 until end of turn.</CardText>
+<Flavor>"The forest surrounding the Vess estate became the Caligo Morass, a vast bog stalked by horrors too terrible to name."
+— "The Fall of the House of Vess"</Flavor>
+<Artist>G-host Lee</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>95s</No>
+<Name>Josu Vess, Lich Knight</Name>
+<Type>Legendary Creature — Zombie Knight 4/5</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Kicker {5}{B} (You may pay an additional {5}{B} as you cast this spell.)
+Menace
+When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create eight 2/2 black Zombie Knight creature tokens with menace.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>96s</No>
+<Name>Kazarov, Sengir Pureblood</Name>
+<Type>Legendary Creature — Vampire 4/4</Type>
+<ManaCost>5BB (7)</ManaCost>
+<CardText>Flying
+Whenever a creature an opponent controls is dealt damage, put a +1/+1 counter on Kazarov, Sengir Pureblood.
+{3}{R}: Kazarov deals 2 damage to target creature.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2018/04/27: If Kazarov is dealt damage at the same time that a creature an opponent controls is dealt damage, Kazarov must survive the damage to get a +1/+1 counter.
+2018/04/27: Kazarov's triggered ability triggers once for each creature dealt damage at one time.
+2018/04/27: If a creature is dealt an amount of damage "for each" of something, that damage is dealt as one event and Kazarov's triggered ability triggers only once.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>98s</No>
+<Name>Lich's Mastery</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>3BBB (6)</ManaCost>
+<CardText>Hexproof
+You can't lose the game.
+Whenever you gain life, draw that many cards.
+Whenever you lose life, for each 1 life you lost, exile a permanent you control or a card from your hand or graveyard.
+When Lich's Mastery leaves the battlefield, you lose the game.</CardText>
+<Artist>Daarken</Artist>
+<Rulings>2018/04/27: While you can't lose the game, your opponents can still win the game if an effect says so.
+2018/04/27: While you control <Lich's Mastery>, your life total still changes. <Lich's Mastery>'s effects don't replace the life gain or life loss.
+2018/04/27: You don't have to exile all the cards from one place. For example, if a source deals 5 damage to you, you may exile one permanent, two cards from hand, and two cards from your graveyard.
+2018/04/27: If you run out of other permanents, cards in hand, and cards in graveyard, you'll have to exile <Lich's Mastery> itself and lose the game.
+2018/04/27: If you're dealt more damage than you have cards to exile, you'll just exile everything you can.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>100s</No>
+<Name>Phyrexian Scriptures</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put a +1/+1 counter on up to one target creature. That creature becomes an artifact in addition to its other types.
+II — Destroy all nonartifact creatures.
+III — Exile all cards from all opponents' graveyards.</CardText>
+<Artist>Joseph Meehan</Artist>
+<Watermark>Phyrexian</Watermark>
+<Rulings>2018/04/27: The effect of <Phyrexian Scriptures>'s first chapter ability lasts indefinitely. It doesn't expire when <Phyrexian Scriptures> leaves the battlefield.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>102s</No>
+<Name>Rite of Belzenlok</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create two 0/1 black Cleric creature tokens.
+III — Create a 6/6 black Demon creature token with flying, trample, and "At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you."</CardText>
+<Artist>Seb McKinnon</Artist>
+<Rulings>2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>108s</No>
+<Name>Torgaar, Famine Incarnate</Name>
+<Type>Legendary Creature — Avatar 7/6</Type>
+<ManaCost>6BB (8)</ManaCost>
+<CardText>As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+When Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down.</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2018/04/27: Torgaar's first ability can't reduce its cost below {B}{B}. You can sacrifice any number of creatures, even if they won't reduce Torgaar's cost any further.
+2018/04/27: For your life total to become half your starting life total (normally 10, half of 20), you gain or lose the appropriate amount of life. For example, if your life total is 4 when Torgaar's ability resolves targeting you, it will cause you to gain 6 life; alternatively, if your life total is 25 when it resolves, it will cause you to lose 15 life. Other cards that interact with life gain or life loss will interact with this effect accordingly.
+2018/04/27: In a Two-Headed Giant game, Torgaar's ability causes the team's life total to become half the team's starting life total (normally 15, half of 30), but only the target player actually gains or loses life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>109s</No>
+<Name>Urgoros, the Empty One</Name>
+<Type>Legendary Creature — Specter 4/3</Type>
+<ManaCost>4BB (6)</ManaCost>
+<CardText>Flying
+Whenever Urgoros, the Empty One deals combat damage to a player, that player discards a card at random. If the player can't, you draw a card.</CardText>
+<Flavor>As the phantom flies overhead, the city of Vhelnish screams in silence.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2018/04/27: If that player has one card in hand, it's discarded at random (even though that's not very random). You won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>111s</No>
+<Name>Whisper, Blood Liturgist</Name>
+<Type>Legendary Creature — Human Cleric 2/2</Type>
+<ManaCost>3B (4)</ManaCost>
+<CardText>{T}, Sacrifice two creatures: Return target creature card from your graveyard to the battlefield.</CardText>
+<Flavor>"Look how they beg for the knife! The Demonlord has trained them well."</Flavor>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2018/04/27: Whisper can be one of the creatures sacrificed to activate its ability.
+2018/04/27: Neither sacrificed creature can be the target of Whisper's ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>113s</No>
+<Name>Yargle, Glutton of Urborg</Name>
+<Type>Legendary Creature — Frog Spirit 9/3</Type>
+<ManaCost>4B (5)</ManaCost>
+<Flavor>When Belzenlok's lieutenant Yar-Kul grew too ambitious, the Demonlord transformed him into a maggot. The frog that ate the maggot grew and grew, until a ravenous spirit burst from its body.</Flavor>
+<Artist>Jehan Choo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>114s</No>
+<Name>Yawgmoth's Vile Offering</Name>
+<Type>Legendary Sorcery</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Put up to one target creature or planeswalker card from a graveyard onto the battlefield under your control. Destroy up to one target creature or planeswalker. Exile Yawgmoth's Vile Offering.</CardText>
+<Flavor>Centuries ago, a mad god offered a simple trade.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
+2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>122s</No>
+<Name>The First Eruption</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — The First Eruption deals 1 damage to each creature without flying.
+II — Add {R}{R}.
+III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to each creature.</CardText>
+<Artist>Steven Belledin</Artist>
+<Rulings>2018/04/27: While resolving <The First Eruption>'s final chapter ability, you must sacrifice one Mountain if able. You can't sacrifice multiple Mountains to deal more damage.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>129s</No>
+<Name>Goblin Chainwhirler</Name>
+<Type>Creature — Goblin Warrior 3/3</Type>
+<ManaCost>RRR (3)</ManaCost>
+<CardText>First strike
+When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each opponent and each creature and planeswalker they control.</CardText>
+<Flavor>"The trick is, once you get moving, don't stop!"</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/04/27: If the damage <Goblin Chainwhirler> would deal to a player is prevented, it still deals 1 damage to that player's creatures and planeswalkers.
+2018/04/27: In a Two-Headed Giant game, the <Goblin Chainwhirler>'s last ability causes the opposing team to lose 2 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>131s</No>
+<Name>Haphazard Bombardment</Name>
+<Type>Enchantment</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>When Haphazard Bombardment enters the battlefield, choose four nonenchantment permanents you don't control and put an aim counter on each of them.
+At the beginning of your end step, if two or more permanents you don't control have an aim counter on them, destroy one of those permanents at random.</CardText>
+<Artist>Jesper Ejsing</Artist>
+<Rulings>2018/04/27: The nonenchantment permanents that receive aim counters aren't targeted. Permanents with hexproof can be given an aim counter this way.
+2018/04/27: Aim counters are interchangeable. Your <Haphazard Bombardment> can destroy any permanent you don't control with an aim counter on it no matter how that counter got there—for example, those aim counters may have come from a second <Haphazard Bombardment> that you or another opponent cast.
+2018/04/27: Players can't take actions between the time the permanent is randomly selected and the time it's destroyed. Notably, if a land is randomly selected, it can't be tapped for mana before being destroyed.
+2018/04/27: If one or more of the permanents with aim counters on them have indestructible, select the permanent destroyed at random from among the permanents with aim counters that don't have indestructible.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>132s</No>
+<Name>Jaya Ballard</Name>
+<Type>Legendary Planeswalker — Jaya (Loyalty: 5)</Type>
+<ManaCost>2RRR (5)</ManaCost>
+<CardText>+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
++1: Discard up to three cards, then draw that many cards.
+-8: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2018/04/27: Mana produced by Jaya's first ability can be spent among any number of instant and/or sorcery spells.
+2018/04/27: You choose how many cards to discard while Jaya's second ability is resolving. You can choose to discard zero cards this way (and then draw zero cards) if you wish.
+2018/04/27: Jaya's emblem doesn't grant you permission to do anything with instant and sorcery cards in your graveyard except cast them. For example, you can't cycle instant or sorcery cards with cycling from your graveyard.
+2018/06/08: Because it's a loyalty ability, Jaya's first ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>133s</No>
+<Name>Jaya's Immolating Inferno</Name>
+<Type>Legendary Sorcery</Type>
+<ManaCost>XRR (2)</ManaCost>
+<CardText>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Jaya's Immolating Inferno deals X damage to each of up to three targets.</CardText>
+<Flavor>Centuries ago, a pyromancer's spark ignited a fiery conflagration.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: You can't target the same target more than once to have <Jaya's Immolating Inferno> deal more damage to it.
+2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
+2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>143s</No>
+<Name>Siege-Gang Commander</Name>
+<Type>Creature — Goblin 2/2</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.</CardText>
+<Flavor>"Ready . . . uh . . . fire!"</Flavor>
+<Artist>Aaron Miller</Artist>
+<Rulings>2018/04/27: You can sacrifice any Goblin you control to activate <Siege-Gang Commander>'s activated ability, not just the ones its triggered ability puts onto the battlefield. You can even sacrifice <Siege-Gang Commander> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>146s</No>
+<Name>Squee, the Immortal</Name>
+<Type>Legendary Creature — Goblin 2/1</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>You may cast Squee, the Immortal from your graveyard or from exile.</CardText>
+<Flavor>"You gotta be pretty smart to live long as me, but not being able to die helps."</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/04/27: Squee's ability doesn't prevent you from casting Squee from any other zone.
+2018/04/27: You must follow the normal timing permissions and restrictions and pay its cost to cast Squee from your graveyard or from exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>147s</No>
+<Name>Two-Headed Giant</Name>
+<Type>Creature — Giant Warrior 4/4</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Whenever Two-Headed Giant attacks, flip two coins. If both coins come up heads, Two-Headed Giant gains double strike until end of turn. If both coins come up tails, Two-Headed Giant gains menace until end of turn.</CardText>
+<Flavor>He watches the pass in both directions, and all must pay his toll.</Flavor>
+<Artist>Simon Dominic</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>148s</No>
+<Name>Valduk, Keeper of the Flame</Name>
+<Type>Legendary Creature — Human Shaman 3/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>At the beginning of combat on your turn, for each Aura and Equipment attached to Valduk, Keeper of the Flame, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.</CardText>
+<Flavor>The hammer strikes. The Flame awakens.</Flavor>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2018/04/27: Valduk counts all Auras and Equipment attached to it, not only Auras and Equipment you control.
+2018/04/27: If Valduk leaves the battlefield after its ability has triggered but before it resolves, use the number of Auras and Equipment that were last attached to it before it left the battlefield to determine how many tokens to create.
+2018/04/27: If Valduk leaves the battlefield after its ability has resolved, the tokens are still exiled at the beginning of the next end step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>149s</No>
+<Name>Verix Bladewing</Name>
+<Type>Legendary Creature — Dragon 4/4</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Flying
+When Verix Bladewing enters the battlefield, if it was kicked, create Karox Bladewing, a legendary 4/4 red Dragon creature token with flying.</CardText>
+<Artist>XiaoDi Jin</Artist>
+<Rulings>2018/04/27: <Verix Bladewing> features a new template for creating legendary tokens. It's functionally identical to the text "create a legendary 4/4 red Dragon creature token with flying named Karox Bladewing."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>165s</No>
+<Name>Grunn, the Lonely King</Name>
+<Type>Legendary Creature — Ape Warrior 5/5</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+If Grunn, the Lonely King was kicked, it enters the battlefield with five +1/+1 counters on it.
+Whenever Grunn attacks alone, double its power and toughness until end of turn.</CardText>
+<Artist>Mathias Kollros</Artist>
+<Rulings>2018/04/27: If an effect instructs you to "double" a creature's power, that creature gets +X/+0, where X is its power as that effect begins to apply. The same is true for its toughness.
+2018/04/27: If a creature's power is less than 0 when it's doubled, instead that creature gets -X/-0, where X is how much less than 0 its power is. For example, if an effect has given Grunn -7/-0 so that it's a -2/5 creature, doubling its power and toughness gives it -2/+5, and it's a -4/10 until end of turn.
+2018/04/27: A creature attacks alone if it's the only creature declared as an attacker during the declare attackers step (including creatures controlled by your teammates, if applicable). For example, Grunn's last ability won't trigger if you attack with multiple creatures and all but one of them are removed from combat.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>166s</No>
+<Name>Kamahl's Druidic Vow</Name>
+<Type>Legendary Sorcery</Type>
+<ManaCost>XGG (2)</ManaCost>
+<CardText>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with converted mana cost X or less from among them onto the battlefield. Put the rest into your graveyard.</CardText>
+<Flavor>Centuries ago, a barbarian laid his rage to rest.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: For cards in your library with {X} in their mana costs, X is considered to be 0.
+2018/04/27: All of the permanents put onto the battlefield this way enter at the same time. If any have triggered abilities that trigger on something else entering the battlefield, they'll see each other.
+2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
+2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>168</No>
+<Name>Llanowar Elves</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>{T}: Add {G}.</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>172s</No>
+<Name>Marwyn, the Nurturer</Name>
+<Type>Legendary Creature — Elf Druid 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever another Elf enters the battlefield under your control, put a +1/+1 counter on Marwyn, the Nurturer.
+{T}: Add an amount of {G} equal to Marwyn's power.</CardText>
+<Flavor>Midwife to mothers and leader to all.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: Marwyn's activated ability is a mana ability. It doesn't use the stack and can't be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>173s</No>
+<Name>The Mending of Dominaria</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
+III — Return all land cards from your graveyard to the battlefield, then shuffle your graveyard into your library.</CardText>
+<Artist>Adam Paquette</Artist>
+<Rulings>2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>174s</No>
+<Name>Multani, Yavimaya's Avatar</Name>
+<Type>Legendary Creature — Elemental Avatar 0/0</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Reach, trample
+Multani, Yavimaya's Avatar gets +1/+1 for each land you control and each land card in your graveyard.
+{1}{G}, Return two lands you control to their owner's hand: Return Multani from your graveyard to your hand.</CardText>
+<Artist>Ryan Yee</Artist>
+<Rulings>2018/04/27: Multani's ability that modifies its power and toughness applies only while it's on the battlefield. In all other zones, it's a 0/0 creature card.
+2018/04/27: To activate Multani's last ability, you must return lands you control from the battlefield to their owner's hand. Land cards in your graveyard can't be returned this way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>182</No>
+<Name>Steel Leaf Champion</Name>
+<Type>Creature — Elf Knight 5/4</Type>
+<ManaCost>GGG (3)</ManaCost>
+<CardText>Steel Leaf Champion can't be blocked by creatures with power 2 or less.</CardText>
+<Artist>Simon Dominic</Artist>
+<Rulings>2018/04/27: Once a creature with power 3 or greater has blocked this creature, changing the power of the blocking creature won't cause this creature to become unblocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>182s</No>
+<Name>Steel Leaf Champion</Name>
+<Type>Creature — Elf Knight 5/4</Type>
+<ManaCost>GGG (3)</ManaCost>
+<CardText>Steel Leaf Champion can't be blocked by creatures with power 2 or less.</CardText>
+<Flavor>One eye open to see the truth of the world. One eye covered to gaze at the goddess within.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: Once a creature with power 3 or greater has blocked this creature, changing the power of the blocking creature won't cause this creature to become unblocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>183s</No>
+<Name>Sylvan Awakening</Name>
+<Type>Sorcery</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Until your next turn, all lands you control become 2/2 Elemental creatures with reach, indestructible, and haste. They're still lands.</CardText>
+<Flavor>"Yavimaya is aware, but not always awake. You will know the difference when you see it.
+— Karn</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2018/04/27: <Sylvan Awakening> doesn't untap any of the lands that become creatures.
+2018/04/27: <Sylvan Awakening> affects only lands you control at the time it resolves. Lands you begin to control before your next turn won't become creatures.
+2018/04/27: The lands affected by <Sylvan Awakening> stop being creatures as your next untap step begins, before you untap your permanents. If this causes any state-based actions to become applicable, or if any abilities trigger, those are handled during your upkeep.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>184s</No>
+<Name>Territorial Allosaurus</Name>
+<Type>Creature — Dinosaur 5/5</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+When Territorial Allosaurus enters the battlefield, if it was kicked, it fights another target creature.</CardText>
+<Flavor>A living remnant of the Ice Age.</Flavor>
+<Artist>Jonathan Kuo</Artist>
+<Rulings>2018/04/27: If <Territorial Allosaurus> isn't on the battlefield as its triggered ability resolves, or if the target of that ability is illegal, no creature will deal or be dealt damage.
+2018/04/27: <Territorial Allosaurus>'s ability can target another creature you control (such as a Dinosaur with an enrage ability). If you kicked it but your opponent controls no creatures that are legal targets, the ability must target another one of your creatures. Plan carefully before kicking Dinosaurs.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>187s</No>
+<Name>Verdant Force</Name>
+<Type>Creature — Elemental 7/7</Type>
+<ManaCost>5GGG (8)</ManaCost>
+<CardText>At the beginning of each upkeep, create a 1/1 green Saproling creature token.</CardText>
+<Flavor>The bower shuddered. The stillness broke. The scurf shifted, and a being emerged from the flowers and ferns.</Flavor>
+<Artist>Viktor Titov</Artist>
+<Rulings>2006/05/01: In Two-Headed Giant, triggers only once per upkeep, not once for each player.
+2018/04/27: <Verdant Force>'s ability triggers at the beginning of each upkeep, not just each of your upkeeps.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>190s</No>
+<Name>Adeliz, the Cinder Wind</Name>
+<Type>Legendary Creature — Human Wizard 2/2</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Flying, haste
+Whenever you cast an instant or sorcery spell, Wizards you control get +1/+1 until end of turn.</CardText>
+<Flavor>The passionate intensity of the Ghitu tempered by the cool insight of Tolarian training.</Flavor>
+<Artist>Zezhou Chen</Artist>
+<Rulings>2018/04/27: Adeliz's last ability affects only Wizards you control at the time it resolves, including Adeliz itself. Creatures you begin to control later in the turn or that become Wizards later in the turn won't get +1/+1.
+2018/04/27: Adeliz's last ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>191s</No>
+<Name>Arvad the Cursed</Name>
+<Type>Legendary Creature — Vampire Knight 3/3</Type>
+<ManaCost>3WB (5)</ManaCost>
+<CardText>Deathtouch, lifelink
+Other legendary creatures you control get +2/+2.</CardText>
+<Flavor>"I won't abandon the Weatherlight. My destiny is to serve at Jhoira's side. This 'illness' means I must trust my faith more and myself less."</Flavor>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a legendary creature you control may become lethal if Arvad leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>192s</No>
+<Name>Aryel, Knight of Windgrace</Name>
+<Type>Legendary Creature — Human Knight 4/4</Type>
+<ManaCost>2WB (4)</ManaCost>
+<CardText>Vigilance
+{2}{W}, {T}: Create a 2/2 white Knight creature token with vigilance.
+{B}, {T}, Tap X untapped Knights you control: Destroy target creature with power X or less.</CardText>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2018/04/27: Tapping Aryel to activate either of its abilities while it's attacking doesn't remove it from combat.
+2018/04/27: You can tap any untapped Knights you control, including ones you haven't controlled continuously since the beginning of your most recent turn, to pay the cost of Aryel's last ability. However, you must have controlled Aryel continuously since the beginning of your most recent turn in order to use either of its activated abilities.
+2018/04/27: Once you announce that you're activating Aryel's last ability, no player may take other actions until the ability's been paid for. Notably, players can't try to make the value of X invalid by removing or tapping your Knights.
+2018/04/27: If the target creature's power is greater than X as Aryel's last ability tries to resolve, the ability doesn't resolve. You can't tap extra Knights once the ability has been activated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>193s</No>
+<Name>Darigaaz Reincarnated</Name>
+<Type>Legendary Creature — Dragon 7/7</Type>
+<ManaCost>4BRG (7)</ManaCost>
+<CardText>Flying, trample, haste
+If Darigaaz Reincarnated would die, instead exile it with three egg counters on it.
+At the beginning of your upkeep, if Darigaaz is exiled with an egg counter on it, remove an egg counter from it. Then if Darigaaz has no egg counters on it, return it to the battlefield.</CardText>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2018/04/27: If another effect says to exile Darigaaz if it would die, you may apply Darigaaz's own effect first, giving it three egg counters.
+2018/04/27: If Darigaaz is exiled without any egg counters on it, its last ability won't trigger and won't return it to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>194s</No>
+<Name>Garna, the Bloodflame</Name>
+<Type>Legendary Creature — Human Warrior 3/3</Type>
+<ManaCost>3BR (5)</ManaCost>
+<CardText>Flash
+When Garna, the Bloodflame enters the battlefield, return to your hand all creature cards in your graveyard that were put there from anywhere this turn.
+Other creatures you control have haste.</CardText>
+<Artist>Winona Nelson</Artist>
+<Rulings>2018/12/07: Which creature cards to return to your hand is determined as Garna's triggered ability resolves. If Garna somehow finds its way into your graveyard before that, perhaps due to the "legend rule," it will be returned to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>195s</No>
+<Name>Grand Warlord Radha</Name>
+<Type>Legendary Creature — Elf Warrior 3/4</Type>
+<ManaCost>2RG (4)</ManaCost>
+<CardText>Haste
+Whenever one or more creatures you control attack, add that much mana in any combination of {R} and/or {G}. Until end of turn, you don't lose this mana as steps and phases end.</CardText>
+<Flavor>"The future is my gift to Keld."</Flavor>
+<Artist>Anna Steinbauer</Artist>
+<Rulings>2018/04/27: The amount of mana you'll add is the number of creatures you attack with. Creatures that are put onto the battlefield attacking before Radha's triggered ability resolves don't count, and creatures that attacked but left combat before the triggered ability resolves do count.
+2018/04/27: After Radha's triggered ability resolves, you can cast spells and activate abilities before blockers are declared.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>196s</No>
+<Name>Hallar, the Firefletcher</Name>
+<Type>Legendary Creature — Elf Archer 3/3</Type>
+<ManaCost>1RG (3)</ManaCost>
+<CardText>Trample
+Whenever you cast a spell, if that spell was kicked, put a +1/+1 counter on Hallar, the Firefletcher, then Hallar deals damage equal to the number of +1/+1 counters on it to each opponent.</CardText>
+<Artist>Bram Sels</Artist>
+<Rulings>2018/04/27: Hallar's last ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/04/27: If Hallar leaves the battlefield after its last ability has triggered but before it resolves, you don't put a +1/+1 counter on anything as the ability resolves, but you do use the number of +1/+1 counters that were on Hallar before it left the battlefield to determine how much damage it deals to each opponent.
+2018/04/27: In a Two-Headed Giant game, Hallar's last ability causes the opposing team to lose 2 life for each +1/+1 counter on it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>197s</No>
+<Name>Jhoira, Weatherlight Captain</Name>
+<Type>Legendary Creature — Human Artificer 3/3</Type>
+<ManaCost>2UR (4)</ManaCost>
+<CardText>Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Flavor>As she took the wheel of the Weatherlight for the first time in a millennium, Jhoira knew she'd been right to restore the ship. Anything was possible now.</Flavor>
+<Artist>Brad Rigney</Artist>
+<Rulings>2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.
+2018/04/27: Some abilities trigger "whenever you cast a historic spell." Such an ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/04/27: An ability that triggers "whenever you cast a historic spell" doesn't trigger if a historic card is put onto the battlefield without being cast.
+2018/04/27: Lands are never cast, so abilities that trigger "whenever you cast a historic spell" won't trigger if you play a legendary land. They also won't trigger if a card on the battlefield transforms into a legendary land, as the Ixalan and Rivals of Ixalan double-faced cards do.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>198s</No>
+<Name>Jodah, Archmage Eternal</Name>
+<Type>Legendary Creature — Human Wizard 4/3</Type>
+<ManaCost>1URW (4)</ManaCost>
+<CardText>Flying
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.</CardText>
+<Flavor>"Chronicles across the ages describe Jodah. They likely refer not to one mage, but to a family or an arcane title."
+— Arkol, Argivian scholar</Flavor>
+<Artist>Yongjae Choi</Artist>
+<Rulings>2018/04/27: Jodah's ability is an alternative cost to cast a spell. You can't combine this with other alternative costs, such as flashback. You can pay additional costs, such as kicker, in addition to this alternative cost.
+2018/04/27: If you apply Jodah's alternative cost to a spell with {X} in its mana cost, X is 0.
+2018/04/27: If you cast a spell for which mana may be spent as though it were mana of any color, you may cast it for Jodah's alternative cost and still spend mana as though it were mana of any color.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>199s</No>
+<Name>Muldrotha, the Gravetide</Name>
+<Type>Legendary Creature — Elemental Avatar 6/6</Type>
+<ManaCost>3BGU (6)</ManaCost>
+<CardText>During each of your turns, you may play up to one permanent card of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)</CardText>
+<Flavor>"My child grew from rot and ruin, yet she bloomed."
+— Multani</Flavor>
+<Artist>Jason Rainville</Artist>
+<Rulings>2018/04/27: For example, you may cast an artifact creature card as your artifact card and cast another artifact creature card as your creature card.
+2018/04/27: You must follow the normal timing permissions and restrictions of the cards you play from your graveyard. For example, you can't use Muldrotha to play an additional land, or to cast a planeswalker during your end step.
+2018/04/27: You must pay the costs to cast a nonland card this way. If it has an alternative cost, you may cast it for that cost instead.
+2018/04/27: Once you begin to cast a card, losing control of Muldrotha won't affect the spell.
+2018/04/27: If you play a card from your graveyard and then have a new Muldrotha come under your control in the same turn, you may play another card of that type from your graveyard that turn.
+2018/04/27: If a permanent card is put into your graveyard during your main phase and the stack is empty, you have a chance to cast it before any player may attempt to remove that card from your graveyard.
+2018/04/27: If multiple effects allow you to play a card from your graveyard, such as those of Gisa and Geralf and Karador, Ghost Chieftain, you must announce which permission you're using as you begin to play the card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>200s</No>
+<Name>Oath of Teferi</Name>
+<Type>Legendary Enchantment</Type>
+<ManaCost>3WU (5)</ManaCost>
+<CardText>When Oath of Teferi enters the battlefield, exile another target permanent you control. Return it to the battlefield under its owner's control at the beginning of the next end step.
+You may activate the loyalty abilities of planeswalkers you control twice each turn rather than only once.</CardText>
+<Flavor>"For the lost and forgotten, I will keep watch."</Flavor>
+<Artist>Wesley Burt</Artist>
+<Rulings>2018/04/27: If a token is exiled this way, it ceases to exist and won't return to the battlefield.
+2018/04/27: The exiled card will return to the battlefield at the beginning of the next end step even if <Oath of Teferi> is no longer on the battlefield at that time.
+2018/04/27: If the exiled card is an Aura, that card's owner chooses what it will enchant as it returns to the battlefield. An Aura put onto the battlefield this way doesn't target anything (so it could be attached to an opponent's permanent with hexproof, for example), but the Aura's enchant ability restricts what it can be attached to. If the Aura can't legally be attached to anything, it remains exiled.
+2018/04/27: For <Oath of Teferi>'s second ability, you may activate the same ability of a planeswalker twice, or you may activate two different abilities of that planeswalker.
+2018/04/27: If you somehow control more than one <Oath of Teferi>, you won't be able to activate abilities of planeswalkers you control more than twice in one turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>201s</No>
+<Name>Primevals' Glorious Rebirth</Name>
+<Type>Legendary Sorcery</Type>
+<ManaCost>5WB (7)</ManaCost>
+<CardText>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Return all legendary permanent cards from your graveyard to the battlefield.</CardText>
+<Flavor>Centuries ago, five dragons conquered death to rule the living.</Flavor>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: You must return all legendary permanent cards to the battlefield, even if the "legend rule" will put some right back into your graveyard. If any abilities triggered from the legendary permanents entering the battlefield, those abilities will be put onto the stack after applying the "legend rule."
+2018/04/27: All of the permanents put onto the battlefield this way enter at the same time. If any have triggered abilities that trigger on something else entering the battlefield, they'll see each other.
+2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
+2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>202s</No>
+<Name>Raff Capashen, Ship's Mage</Name>
+<Type>Legendary Creature — Human Wizard 3/3</Type>
+<ManaCost>2WU (4)</ManaCost>
+<CardText>Flash
+Flying
+You may cast historic spells as though they had flash. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Artist>John Stanko</Artist>
+<Rulings>2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>203s</No>
+<Name>Rona, Disciple of Gix</Name>
+<Type>Legendary Creature — Human Artificer 2/2</Type>
+<ManaCost>1UB (3)</ManaCost>
+<CardText>When Rona, Disciple of Gix enters the battlefield, you may exile target historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)
+You may cast nonland cards exiled with Rona.
+{4}, {T}: Exile the top card of your library.</CardText>
+<Artist>Tommy Arnold</Artist>
+<Rulings>2018/04/27: If Rona leaves the battlefield, the exiled cards will remain exiled indefinitely. If Rona enters the battlefield again, it won't be associated with the cards the "other" Rona exiled. The new Rona will exile a new set of cards with its first and last abilities. Only those cards can be cast using the new Rona's middle ability.
+2018/04/27: The cards exiled from your library are exiled face up.
+2018/04/27: After Rona's last ability resolves, you have priority if it's your turn. You can cast the exiled card before any player can take other actions if it's legal to do so.
+2018/04/27: You must follow the normal timing permissions and restrictions of the cards you cast from exile.
+2018/04/27: You'll still pay all costs for that spell, including additional costs. You may also pay alternative costs such as that granted by Jodah, Archmage Eternal.
+2018/04/27: The exiled cards aren't in your hand, so you can't cycle them, discard them, or activate any of their activated abilities.
+2018/04/27: Once you begin to cast a card, losing control of Rona won't affect the spell.
+2018/04/27: The card you'll exile from the top of your library is determined as Rona's last ability resolves. This might not be the card that was on top of your library when you activated that ability.
+2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>204</No>
+<Name>Shanna, Sisay's Legacy</Name>
+<Type>Legendary Creature — Human Warrior 0/0</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Shanna, Sisay's Legacy can't be the target of abilities your opponents control.
+Shanna gets +1/+1 for each creature you control.</CardText>
+<Flavor>"I am heir to many treasures. None is as precious as knowing how my ancestor lived her life."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/04/27: Spells your opponents control can target Shanna.
+2018/04/27: Shanna's ability that modifies its power and toughness applies only while it's on the battlefield. In all other zones, it's a 0/0 creature card.
+2018/04/27: As long as it's on the battlefield, Shanna's last ability will count itself, so it'll be at least 1/1.
+2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to Shanna may become lethal if other creatures you control leave the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>204s</No>
+<Name>Shanna, Sisay's Legacy</Name>
+<Type>Legendary Creature — Human Warrior 0/0</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Shanna, Sisay's Legacy can't be the target of abilities your opponents control.
+Shanna gets +1/+1 for each creature you control.</CardText>
+<Flavor>"I am heir to many treasures. None is as precious as knowing how my ancestor lived her life."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2018/04/27: Spells your opponents control can target Shanna.
+2018/04/27: Shanna's ability that modifies its power and toughness applies only while it's on the battlefield. In all other zones, it's a 0/0 creature card.
+2018/04/27: As long as it's on the battlefield, Shanna's last ability will count itself, so it'll be at least 1/1.
+2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to Shanna may become lethal if other creatures you control leave the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>205s</No>
+<Name>Slimefoot, the Stowaway</Name>
+<Type>Legendary Creature — Fungus 2/3</Type>
+<ManaCost>1BG (3)</ManaCost>
+<CardText>Whenever a Saproling you control dies, Slimefoot, the Stowaway deals 1 damage to each opponent and you gain 1 life.
+{4}: Create a 1/1 green Saproling creature token.</CardText>
+<Flavor>As Jhoira restored the Weatherlight, a mushroom growing in its hold unexpectedly became her first crew member.</Flavor>
+<Artist>Alex Konstad</Artist>
+<Rulings>2018/04/27: If a Saproling you control dies at the same time as Slimefoot does, Slimefoot will deal damage and you'll gain life.
+2018/04/27: In a Two-Headed Giant game, Slimefoot's first ability causes the opposing team to lose 2 life and you to gain 1 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>206s</No>
+<Name>Tatyova, Benthic Druid</Name>
+<Type>Legendary Creature — Merfolk Druid 3/3</Type>
+<ManaCost>3GU (5)</ManaCost>
+<CardText>Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.</CardText>
+<Flavor>"Yavimaya is one being — one vastness of rippling leaves, one deepness of roots, and one chatter of animals — of which I am one part."</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>207s</No>
+<Name>Teferi, Hero of Dominaria</Name>
+<Type>Legendary Planeswalker — Teferi (Loyalty: 4)</Type>
+<ManaCost>3WU (5)</ManaCost>
+<CardText>+1: Draw a card. At the beginning of the next end step, untap up to two lands.
+-3: Put target nonland permanent into its owner's library third from the top.
+-8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2018/04/27: You don't decide which two lands to untap until the next end step.
+2018/04/27: You choose the target for the triggered ability of Teferi's emblem after you've seen the card you drew.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>208s</No>
+<Name>Tiana, Ship's Caretaker</Name>
+<Type>Legendary Creature — Angel Artificer 3/3</Type>
+<ManaCost>3RW (5)</ManaCost>
+<CardText>Flying, first strike
+Whenever an Aura or Equipment you control is put into a graveyard from the battlefield, you may return that card to its owner's hand at the beginning of the next end step.</CardText>
+<Flavor>"Nothing is too broken to mend."</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2018/04/27: Tiana's last ability triggers and creates a delayed triggered ability that will let you return the Aura or Equipment during the next end step. It will do so even if Tiana leaves the battlefield before the next end step.
+2018/04/27: If an Aura you control is put into a graveyard immediately after Tiana leaves the battlefield, most likely because Tiana left the battlefield but the Aura was put into the graveyard as a state-based action after it found itself not attached to anything, Tiana's last ability won't trigger.
+2018/04/27: If an Aura or Equipment you control is put into a graveyard at the same time as Tiana is, most likely because an effect destroyed all nonland permanents, you'll be able to return it to its owner's hand at the beginning of the next end step.
+2018/04/27: If an Aura or Equipment is put into your graveyard during an end step, you'll be able to return it during the next end step, not the current one.
+2018/04/27: If an Aura or Equipment leaves the graveyard after triggering Tiana's last ability, it won't be returned to its owner's hand as the delayed triggered ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>211s</No>
+<Name>Blackblade Reforged</Name>
+<Type>Legendary Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Equipped creature gets +1/+1 for each land you control.
+Equip legendary creature {3}
+Equip {7}</CardText>
+<Flavor>It spilled the blood of one elder dragon. In Gideon's hands, it may yet taste another's.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: "Equip [quality] creature" is a variant of the equip keyword. "Equip [quality] creature [cost]" means "[Cost]: Attach this Equipment to target [quality] creature you control. Activate this ability only any time you could cast a sorcery."
+2018/04/27: Whether the target creature is legendary is checked only as <Blackblade Reforged>'s first equip ability is activated and as that ability resolves. If the creature somehow becomes nonlegendary later, <Blackblade Reforged> remains attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>214s</No>
+<Name>Forebear's Blade</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +3/+0 and has vigilance and trample.
+Whenever equipped creature dies, attach Forebear's Blade to target creature you control.
+Equip {3}</CardText>
+<Artist>Scott Murphy</Artist>
+<Rulings>2018/04/27: If there's no target for the triggered ability of <Forebear's Blade>, or if the ability's target becomes illegal, <Forebear's Blade> remains on the battlefield unattached.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>215s</No>
+<Name>Gilded Lotus</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>{T}: Add three mana of any one color.</CardText>
+<Flavor>"The perfection of the lotus reminds me of my hopes for this world . . . and my failures. I will not rest until I've atoned for them."
+—Karn</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>217s</No>
+<Name>Helm of the Host</Name>
+<Type>Legendary Artifact — Equipment</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
+Equip {5}</CardText>
+<Flavor>Forged out of flowstone for the queen of Vesuva.</Flavor>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2018/04/27: The token copies exactly what was printed on the original creature and nothing else (unless that creature is copying something else or is a token; see below). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, and so on.
+2018/04/27: The token isn't legendary, and this exception is copiable. If something else copies the token later, that copy also won't be legendary. If you control two or more permanents with the same name but only one is legendary, the "legend rule" doesn't apply.
+2018/04/27: The token gains haste indefinitely, and this effect isn't copiable. If something else copies the token later, that copy won't have haste.
+2018/04/27: If the copied creature has {X} in its mana cost, X is considered to be 0.
+2018/04/27: If the copied creature is a token, the token that's created copies the original characteristics of that token as stated by the effect that created that token.
+2018/04/27: If the copied creature is copying something else (for example, if the copied creature is a Clone), then the token enters the battlefield as whatever that creature copied.
+2018/04/27: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "as [this creature] enters the battlefield" or "[this creature] enters the battlefield with" abilities of the chosen creature will also work.
+2018/04/27: If the equipped creature leaves the battlefield before the triggered ability of <Helm of the Host> resolves, or if there is no equipped creature, no token is created. However, if <Helm of the Host> leaves the battlefield while its triggered ability is on the stack, a token will be created of the creature it last equipped. If that creature has also left the battlefield, its last known information is used to determine what the token looks like.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>223s</No>
+<Name>Mishra's Self-Replicator</Name>
+<Type>Artifact Creature — Assembly-Worker 2/2</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>Whenever you cast a historic spell, you may pay {1}. If you do, create a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Flavor>It has witnessed history's most significant events, one incarnation after another.</Flavor>
+<Artist>Joseph Meehan</Artist>
+<Rulings>2018/04/27: The token will have <Mishra's Self-Replicator>'s ability. It will also be able to create copies of itself.
+2018/04/27: While resolving the triggered ability of <Mishra's Self-Replicator>, you can't pay {1} multiple times to create more than one token. However, if you control more than one <Mishra's Self-Replicator>, you can pay {1} for each of their abilities.
+2018/04/27: The token won't copy counters or damage marked on <Mishra's Self-Replicator>, nor will it copy other effects that have changed <Mishra's Self-Replicator>'s power, toughness, types, color, and so on. Normally, this means the token will simply be a <Mishra's Self-Replicator>, but if any copy effects have affected that <Mishra's Self-Replicator>, they're taken into account.
+2018/04/27: If <Mishra's Self-Replicator> leaves the battlefield before its triggered ability resolves, the token will still enter the battlefield as a copy of <Mishra's Self-Replicator>, using <Mishra's Self-Replicator>'s copiable values from when it was last on the battlefield.
+2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.
+2018/04/27: Some abilities trigger "whenever you cast a historic spell." Such an ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/04/27: An ability that triggers "whenever you cast a historic spell" doesn't trigger if a historic card is put onto the battlefield without being cast.
+2018/04/27: Lands are never cast, so abilities that trigger "whenever you cast a historic spell" won't trigger if you play a legendary land. They also won't trigger if a card on the battlefield transforms into a legendary land, as the Ixalan and Rivals of Ixalan double-faced cards do.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>224s</No>
+<Name>Mox Amber</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>0 (0)</ManaCost>
+<CardText>{T}: Add one mana of any color among legendary creatures and planeswalkers you control.</CardText>
+<Flavor>A moment in time made tangible, it has the power to realize epic visions.</Flavor>
+<Artist>Steven Belledin</Artist>
+<Rulings>2018/04/27: <Mox Amber>'s ability adds one mana of the color of your choice from among the colors of legendary creatures and planeswalkers you control. It doesn't add one mana of each of those colors.
+2018/04/27: If you control no legendary creatures or planeswalkers, you can activate <Mox Amber>'s ability, but you won't add any mana.
+2018/04/27: If your legendary creatures and planeswalkers are all colorless, you can activate <Mox Amber>'s ability, but you won't add any mana. Colorless is not a color.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>233s</No>
+<Name>Thran Temporal Gateway</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>{4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Flavor>The portal opens not to the past, but from it. Those who step through discover an unimaginable future.</Flavor>
+<Artist>Jason Felix</Artist>
+<Rulings>2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>234s</No>
+<Name>Traxos, Scourge of Kroog</Name>
+<Type>Legendary Artifact Creature — Construct 7/7</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Trample
+Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap during your untap step.
+Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and Sagas are historic.)</CardText>
+<Artist>Lius Lasahido</Artist>
+<Rulings>2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.
+2018/04/27: Some abilities trigger "whenever you cast a historic spell." Such an ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/04/27: An ability that triggers "whenever you cast a historic spell" doesn't trigger if a historic card is put onto the battlefield without being cast.
+2018/04/27: Lands are never cast, so abilities that trigger "whenever you cast a historic spell" won't trigger if you play a legendary land. They also won't trigger if a card on the battlefield transforms into a legendary land, as the Ixalan and Rivals of Ixalan double-faced cards do.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>237s</No>
+<Name>Weatherlight</Name>
+<Type>Legendary Artifact — Vehicle 4/5</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>Flying
+Whenever Weatherlight deals combat damage to a player, look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
+Crew 3</CardText>
+<Artist>Jaime Jones</Artist>
+<Rulings>2018/04/27: A card, spell, or permanent is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. Having two of those qualities doesn't make an object more historic than another or provide an additional bonus—an object either is historic or it isn't.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>238s</No>
+<Name>Cabal Stronghold</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{3}, {T}: Add {B} for each basic Swamp you control.</CardText>
+<Flavor>The seat of Belzenlok's power, the Stronghold serves as the gathering place for the Cabal as their dark influence spreads from Urborg.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>239s</No>
+<Name>Clifftop Retreat</Name>
+<Type>Land</Type>
+<CardText>Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}.</CardText>
+<Flavor>The sunlight falls pristine on the temple at Epityr, softened by the remembered shadows of angelic saviors' wings.</Flavor>
+<Artist>Christine Choi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>240s</No>
+<Name>Hinterland Harbor</Name>
+<Type>Land</Type>
+<CardText>Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
+{T}: Add {G} or {U}.</CardText>
+<Flavor>"Our ancestors brought down a Phyrexian portal ship, then built our town on its hull. We're pretty proud of that."
+—Alene of Riverspan</Flavor>
+<Artist>Daniel Ljunggren</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>241s</No>
+<Name>Isolated Chapel</Name>
+<Type>Land</Type>
+<CardText>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.</CardText>
+<Flavor>Serra's blessing lies strongest upon Sursi, where her holy chapels are untouched even as the Cabal encroaches.</Flavor>
+<Artist>Richard Wright</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>247s</No>
+<Name>Sulfur Falls</Name>
+<Type>Land</Type>
+<CardText>Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R}.</CardText>
+<Flavor>"We have inherited the mysteries of the Thran, but few of the answers."
+—Jhoira</Flavor>
+<Artist>Cliff Childs</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>248s</No>
+<Name>Woodland Cemetery</Name>
+<Type>Land</Type>
+<CardText>Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
+{T}: Add {B} or {G}.</CardText>
+<Flavor>"They never found the body of young Josu, or that of his murderous sister."
+—"The Fall of the House of Vess"</Flavor>
+<Artist>Christine Choi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>249</No>
+<Name>Zhalfirin Void</Name>
+<Type>Land</Type>
+<CardText>When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {C}.</CardText>
+<Flavor>"The wind whispers, 'come home,' but I cannot."
+— Teferi</Flavor>
+<Artist>John Avon</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

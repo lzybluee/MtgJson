@@ -1,0 +1,53 @@
+<Card>
+<SetId>PDP13</SetId>
+<No>1</No>
+<Name>Bonescythe Sliver</Name>
+<Type>Creature — Sliver 2/2</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)</CardText>
+<Flavor>"Their appendages are sharper than our swords and quicker than our bows."
+—Hastric, Thunian scout</Flavor>
+<Artist>Brad Rigney</Artist>
+<Rulings>2013/07/01: If <Bonescythe Sliver> leaves the battlefield after other Sliver creatures you control have dealt first-strike damage but before regular combat damage, those Slivers won't deal regular combat damage (unless they still have double strike for some other reason).
+2013/07/01: If you change the creature type of a Sliver you control so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures you control.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDP13</SetId>
+<No>2</No>
+<Name>Ogre Battledriver</Name>
+<Type>Creature — Ogre Warrior 3/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)</CardText>
+<Flavor>Ogres are driven by passion, rage, and another ogre standing behind them with a whip.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDP13</SetId>
+<No>3</No>
+<Name>Scavenging Ooze</Name>
+<Type>Creature — Ooze 2/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.</CardText>
+<Flavor>In nature, not a single bone or scrap of flesh goes to waste.</Flavor>
+<Artist>Dan Scott</Artist>
+<Rulings>2017/03/14: If the target card is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. No +1/+1 counter will be put on <Scavenging Ooze> and you won't gain life. Notably, this means that if you activate <Scavenging Ooze>'s ability multiple times targeting the same creature card, only the first instance of the ability to resolve will have any effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Duels of the Planeswalkers Promos 2013</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

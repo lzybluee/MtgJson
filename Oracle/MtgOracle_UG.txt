@@ -91,8 +91,7 @@ Say "I'm rubber, you're glue. Everything bounces off me and sticks to you": Chan
 <Type>Creature — Beast 2/3</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Whenever Lexivore deals damage to a player, destroy target permanent other than Lexivore with the most lines of text in its text box. (If two or more cards are tied, target any one of them.)</CardText>
-<Flavor>Plucking the chicken
-—Elvish expression meaning "flinging the monkey"</Flavor>
+<Flavor>Plucking the chicken —Elvish expression meaning "flinging the monkey"</Flavor>
 <Artist>Daniel Gelon</Artist>
 <Multiverseid>9760</Multiverseid>
 <Set>Unglued</Set>
@@ -120,10 +119,7 @@ Say "I'm rubber, you're glue. Everything bounces off me and sticks to you": Chan
 <Type>Creature — Chicken 2/2</Type>
 <ManaCost>WW (2)</ManaCost>
 <CardText>Stand up, Flap your arms, Cluck like a chicken: Mesa Chicken gains flying until end of turn.</CardText>
-<Flavor>"Lo! lord of layers proudly comb-crested
-Hero to hens father to feathers
-Crowing sun-caller weaver of wattle
-Elder to eggs."
+<Flavor>"Lo lord of layers proudly comb-crested Hero to hens father to feathers Crowing sun-caller weaver of wattle Elder to eggs."
 —Rooster Saga</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>5725</Multiverseid>
@@ -154,7 +150,7 @@ At the beginning of each other player's upkeep, you may compliment that player o
 <ManaCost>WWWW (4)</ManaCost>
 <CardText>Exile all permanents and all cards from all graveyards. Each player shuffles their hand into their library, then draws seven cards. Each player's life total becomes 10. Exile Once More with Feeling.
 DCI ruling — A deck can have only one card named Once More with Feeling.</CardText>
-<Flavor>If yo  . . .  ted.</Flavor>
+<Flavor>If yo . . . ted.</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>9772</Multiverseid>
 <Set>Unglued</Set>
@@ -168,7 +164,7 @@ DCI ruling — A deck can have only one card named Once More with Feeling.</Card
 <Type>Sorcery</Type>
 <ManaCost>W (1)</ManaCost>
 <CardText>Destroy target nonartifact, nonland permanent that doesn't share a color with clothing worn by its controller.</CardText>
-<Flavor>"Spring in Dominaria means pastels!"
+<Flavor>"Spring in Dominaria means pastels"
 —Excerpt from Mage's Home Journal</Flavor>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>9744</Multiverseid>
@@ -212,7 +208,7 @@ When any PLAYER does not perform all the prescribed actions in the correct order
 <CardText>As Censorship enters the battlefield, choose a word.
 Whenever a player says the chosen word, Censorship deals 2 damage to that player.</CardText>
 <Flavor>Editor's note: There were no suitable flavor text submissions for this card.</Flavor>
-<Artist>Kaja Foglio</Artist>
+<Artist>Matthew D. Wilson</Artist>
 <Multiverseid>9747</Multiverseid>
 <Set>Unglued</Set>
 <Rarity>Uncommon</Rarity>
@@ -268,10 +264,7 @@ Tap an untapped Chicken you control: Roll a six-sided die.</CardText>
 <Type>Creature — Clamfolk 2/2</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>If you roll a 3 on a six-sided die, you may reroll that die.</CardText>
-<Flavor>The Clams down in Clamville
-All scootered and skittled—
-"The three is no more!"
-The Clam fiddler fiddled.</Flavor>
+<Flavor>The Clams down in Clamville All scootered and skittled— "The three is no more" The Clam fiddler fiddled.</Flavor>
 <Artist>Randy Elliott</Artist>
 <Multiverseid>5770</Multiverseid>
 <Set>Unglued</Set>
@@ -344,7 +337,7 @@ When a player asks you permission to cast a spell and you refuse, counter that s
 <ManaCost>2U (3)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature is a Chicken with base power and toughness 1/1 and loses all abilities.</CardText>
-<Flavor>"I feel like chicken tonight!"</Flavor>
+<Flavor>"I feel like chicken tonight"</Flavor>
 <Artist>Mark Poole</Artist>
 <Multiverseid>5822</Multiverseid>
 <Set>Unglued</Set>
@@ -395,37 +388,34 @@ Whenever a player says "sorry" at any other time, Sorry deals 2 damage to that p
 
 <Card>
 <SetId>UG</SetId>
-<No>28a</No>
+<No>28</No>
 <Name>B.F.M. (Big Furry Monster)</Name>
-<Type>Scariest Creature You'll Ever See 99/99</Type>
+<Type>Creature — The Biggest, Baddest, Nastiest,</Type>
 <ManaCost>BBBBBBBBBBBBBBB (15)</ManaCost>
-<CardText>B.F.M. onto the battlefield. If one B.F.M. card
-more creatures.</CardText>
-<Flavor>"It was big. Really, really big. No, bigger
-No, more. Look, we're talking krakens and</Flavor>
+<CardText>You must cast both B.F.M. cards to put
+leaves the battlefield, sacrifice the other.
+B.F.M. can't be blocked except by three or</CardText>
+<Flavor>"It was big. Really, really big. No, bigger No, more. Look, we're talking krakens and</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>9780</Multiverseid>
 <Set>Unglued</Set>
 <Rarity>Rare</Rarity>
-<OtherPart>B.F.M. (Big Furry Monster, Right Side)</OtherPart>
 </Card>
 
 <Card>
 <SetId>UG</SetId>
-<No>29b</No>
-<Name>B.F.M. (Big Furry Monster, Right Side)</Name>
+<No>29</No>
+<Name>B.F.M. (Big Furry Monster) (b)</Name>
 <Type>Scariest Creature You'll Ever See 99/99</Type>
 <ManaCost>BBBBBBBBBBBBBBB (15)</ManaCost>
 <CardText>B.F.M. onto the battlefield. If one B.F.M. card
 more creatures.</CardText>
-<Flavor>than that. Even bigger. Keep going. More.
-dreadnoughts for jewelry. It was big"
+<Flavor>than that. Even bigger. Keep going. More. dreadnoughts for jewelry. It was big!"
 —Arna Kennerüd, skyknight</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>9844</Multiverseid>
 <Set>Unglued</Set>
 <Rarity>Rare</Rarity>
-<OtherPart>B.F.M. (Big Furry Monster)</OtherPart>
 </Card>
 
 <Card>
@@ -625,7 +615,7 @@ At the beginning of each player's end step, if that player didn't tap any nonlan
 <Type>Creature — Goblin 1/1</Type>
 <ManaCost>R (1)</ManaCost>
 <CardText>{R}, {T}: Reflip any coin or reroll any die. (Activate this ability only any time it makes sense.)</CardText>
-<Flavor>"Glok loved bets! He'd sit in the bar all night an' laugh an' laugh. Hey—he still owes me."
+<Flavor>"Glok loved bets He'd sit in the bar all night an' laugh an' laugh. Hey—he still owes me."
 —Squee, goblin casino hand</Flavor>
 <Artist>Claymore J. Flapdoodle</Artist>
 <Multiverseid>9665</Multiverseid>
@@ -775,6 +765,7 @@ At the beginning of your upkeep, roll two six-sided dice. If you rolled 7, sacri
 <Flavor>The number printed on the card is no longer in service. For help, go to wizards.custhelp.com or find us on Twitter @Wizards_Help.</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>9757</Multiverseid>
+<Rulings>2017/01/11: This card recieved errata for its flavor text on Gatherer: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9757</Rulings>
 <Set>Unglued</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -787,7 +778,7 @@ At the beginning of your upkeep, roll two six-sided dice. If you rolled 7, sacri
 <ManaCost>5G (6)</ManaCost>
 <CardText>Enchant creature
 For each other card named Cardboard Carapace you have with you outside the game, enchanted creature gets +1/+1.</CardText>
-<Flavor>. . .  that exciting  . . .  about  . . .</Flavor>
+<Flavor>. . . that exciting . . . about . . .</Flavor>
 <Artist>Douglas Shuler</Artist>
 <Multiverseid>9762</Multiverseid>
 <Set>Unglued</Set>
@@ -842,7 +833,7 @@ For each other card named Cardboard Carapace you have with you outside the game,
 <Name>Free-Range Chicken</Name>
 <Type>Creature — Chicken 3/3</Type>
 <ManaCost>3G (4)</ManaCost>
-<CardText>{1}{G}: Roll two six-sided dice. If both results are the same, Free-Range Chicken gets +X/+X until end of turn, where X is that result. If  the total of those results is equal to any other total you have rolled this turn for Free-Range Chicken, sacrifice it. (For example, if you roll two 3s, Free-Range Chicken gets +3/+3. If you roll a total of 6 for Free-Range Chicken later that turn, sacrifice it.)</CardText>
+<CardText>{1}{G}: Roll two six-sided dice. If both results are the same, Free-Range Chicken gets +X/+X until end of turn, where X is that result. If the total of those results is equal to any other total you have rolled this turn for Free-Range Chicken, sacrifice it. (For example, if you roll two 3s, Free-Range Chicken gets +3/+3. If you roll a total of 6 for Free-Range Chicken later that turn, sacrifice it.)</CardText>
 <Artist>Mike Raabe</Artist>
 <Multiverseid>9675</Multiverseid>
 <Set>Unglued</Set>
@@ -882,8 +873,7 @@ For each other card named Cardboard Carapace you have with you outside the game,
 <Type>Instant</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Roll a six-sided die. Target creature gets +X/+X until end of turn, where X is the result.</CardText>
-<Flavor>MORE TO LOVE: Friendly, nature-loving, Bunyonesque SEM seeks SEF looking for a huge commitment.
-. . .  seeks atog prince</Flavor>
+<Flavor>MORE TO LOVE: Friendly, nature-loving, Bunyonesque SEM seeks SEF looking for a huge commitment. . . . seeks atog prince</Flavor>
 <Artist>Jeff Laubenstein</Artist>
 <Multiverseid>9671</Multiverseid>
 <Set>Unglued</Set>
@@ -897,7 +887,8 @@ For each other card named Cardboard Carapace you have with you outside the game,
 <Type>Creature — Gus 2/2</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Gus enters the battlefield with a +1/+1 counter on it for each Magic game you have lost to one of your opponents since you last won a game against them.</CardText>
-<Flavor>"Now I lay me down to sleep — What are you starin' at?"</Flavor>
+<Flavor>"Now I lay me down to sleep—
+What are you starin' at?"</Flavor>
 <Artist>DiTerlizzi</Artist>
 <Multiverseid>9670</Multiverseid>
 <Set>Unglued</Set>
@@ -1068,7 +1059,7 @@ When you speak in your normal voice, sacrifice Bronze Calendar.</CardText>
 <Type>Artifact</Type>
 <ManaCost>4 (4)</ManaCost>
 <CardText>{2}, {T}: Move a counter from one permanent onto another. If the second permanent refers to any kind of counter, the moved counter becomes one of those counters. Otherwise, it becomes a +1/+1 counter.</CardText>
-<Flavor>Only a villain would unleash a giant fan on anyone!</Flavor>
+<Flavor>Only a villain would unleash a giant fan on anyone</Flavor>
 <Artist>Randy Gallegos</Artist>
 <Multiverseid>9767</Multiverseid>
 <Set>Unglued</Set>
@@ -1171,8 +1162,7 @@ When you speak in your normal voice, sacrifice Bronze Calendar.</CardText>
 <Type>Artifact</Type>
 <ManaCost>4 (4)</ManaCost>
 <CardText>{4}, {T}, Sacrifice Spatula of the Ages: You may put a silver-bordered permanent card from your hand onto the battlefield.</CardText>
-<Flavor>At last Urza's powers were focused through the incredible artifact.
-"Who wants pancakes?" he asked.</Flavor>
+<Flavor>At last Urza's powers were focused through the incredible artifact. "Who wants pancakes?" he asked.</Flavor>
 <Artist>Melissa A. Benson</Artist>
 <Multiverseid>9740</Multiverseid>
 <Set>Unglued</Set>

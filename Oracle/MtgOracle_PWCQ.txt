@@ -1,0 +1,100 @@
+<Card>
+<SetId>PWCQ</SetId>
+<No>2013</No>
+<Name>Vengevine</Name>
+<Type>Creature — Elemental 4/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Haste
+Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.</CardText>
+<Flavor>Leave but a shred of root and it will return, bursting with vigor.</Flavor>
+<Artist>Trevor Claxton</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/12/07: If you cast your second creature spell in a turn and <Vengevine> is in your graveyard, <Vengevine>'s second ability triggers and goes on the stack on top of that spell. The ability will resolve, allowing you to return <Vengevine> to the battlefield before the creature spell resolves. The ability resolves even if that creature spell is countered.
+2018/12/07: <Vengevine>'s triggered ability works only if <Vengevine> is already in your graveyard as you finish casting your second creature spell in a turn and if it remains there until the ability resolves.
+2018/12/07: <Vengevine>'s triggered ability checks the spells you cast over the course of the entire turn, not just the ones you cast while <Vengevine> is in your graveyard. For example, if you cast a creature spell, then <Vengevine> is put into your graveyard, then you cast another creature spell, <Vengevine>'s ability triggers.
+2018/12/07: <Vengevine>'s ability triggers only for the second creature spell you cast in a turn. It won't trigger for the third, fourth, or so on. It also doesn't matter how many noncreature spells you cast in a turn; the ability counts only the creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Magic Cup Qualifiers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWCQ</SetId>
+<No>2014</No>
+<Name>Geist of Saint Traft</Name>
+<Type>Legendary Creature — Spirit Cleric 2/2</Type>
+<ManaCost>1WU (3)</ManaCost>
+<CardText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/09/22: You declare which player or planeswalker the token is attacking as you put it onto the battlefield. It doesn't have to be the same player or planeswalker <Geist of Saint Traft> is attacking.
+2011/09/22: Although the token is attacking, it was never declared as an attacking creature (for purposes of abilities that trigger whenever a creature attacks, for example).
+2017/07/17: <Geist of Saint Traft> is banned as a commander in Duel Commander format, but it may be part of your deck.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Magic Cup Qualifiers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWCQ</SetId>
+<No>2015</No>
+<Name>Thalia, Guardian of Thraben</Name>
+<Type>Legendary Creature — Human Soldier 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>First strike
+Noncreature spells cost {1} more to cast.</CardText>
+<Flavor>"Thraben is our home and I will not see it fall to this unhallowed horde."</Flavor>
+<Artist>Steve Argyle</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/03/16: Thalia's ability affects each spell that's not a creature spell, including your own.
+2018/03/16: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Magic Cup Qualifiers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWCQ</SetId>
+<No>2016</No>
+<Name>Abrupt Decay</Name>
+<Type>Instant</Type>
+<ManaCost>BG (2)</ManaCost>
+<CardText>This spell can't be countered.
+Destroy target nonland permanent with converted mana cost 3 or less.</CardText>
+<Flavor>The worst part isn't the pain, or the smell, or even the fear of death. It's hearing the clatter of bone on stone and knowing the bones are yours.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2017/03/14: The converted mana cost of a creature token is 0, unless that token is a copy of another creature, in which case it copies that creature's mana cost.
+2017/03/14: If a permanent has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Magic Cup Qualifiers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PWCQ</SetId>
+<No>2017</No>
+<Name>Inkmoth Nexus</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Artist>Sung Choi</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2011/06/01: If <Inkmoth Nexus> entered the battlefield this turn and it's not a creature, it can be tapped for mana. If it becomes a creature that turn, it can't attack or be tapped for mana.
+2011/06/01: If you've controlled <Inkmoth Nexus> continuously since your most recent turn began and it becomes a creature, it can attack or be tapped for mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>World Magic Cup Qualifiers</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

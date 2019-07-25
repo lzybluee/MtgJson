@@ -991,9 +991,7 @@ When a Dragon enters the battlefield, you may return Bladewing's Thrall from you
 <Type>Sorcery</Type>
 <ManaCost>6B (7)</ManaCost>
 <CardText>Any number of target players each discard a number of cards equal to the highest converted mana cost among permanents you control.</CardText>
-<Flavor>"Hear only the Cabal's voice.
-See only the Cabal's way.
-Speak only the Cabal's word."
+<Flavor>"Hear only the Cabal's voice. See only the Cabal's way. Speak only the Cabal's word."
 —Cabal mantra</Flavor>
 <Artist>Scott M. Fischer</Artist>
 <Multiverseid>44491</Multiverseid>
@@ -1736,6 +1734,7 @@ Goblins you control have haste.</CardText>
 <Rulings>2018/04/27: <Goblin Warchief>'s effect reduces only generic mana in the cost of Goblin spells you cast. For example, it doesn't reduce the cost of Skirk Prospector below {R}.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Scourge</Set>
 <Rarity>Uncommon</Rarity>
 </Card>

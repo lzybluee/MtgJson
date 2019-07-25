@@ -1,0 +1,144 @@
+<Card>
+<SetId>J15</SetId>
+<No>1</No>
+<Name>Temporal Manipulation</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Take an extra turn after this one.</CardText>
+<Flavor>Doing something at the last minute isn't so bad when you can make that minute last.</Flavor>
+<Artist>Franz Vohwinkel</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2004/10/04: If multiple "extra turn" effects resolve in the same turn, take them in the reverse of the order that the effects resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>2</No>
+<Name>Shardless Agent</Name>
+<Type>Artifact Creature — Human Rogue 2/2</Type>
+<ManaCost>1GU (3)</ManaCost>
+<CardText>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>3</No>
+<Name>Rishadan Port</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}: Tap target land.</CardText>
+<Flavor>Rishada is the gateway to free trade — but the key will cost you.</Flavor>
+<Artist>Jonas De Ro</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/03/16: Once you announce that you're casting a spell or activating an ability, no player may take other actions until the spell or ability has been paid for. Notably, players can't try to tap your lands to stop you from paying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>4</No>
+<Name>Ravages of War</Name>
+<Type>Sorcery</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Destroy all lands.</CardText>
+<Flavor>"Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a great war."
+—Lao Tzu, Tao Te Ching, trans. Feng and English</Flavor>
+<Artist>Fang Yue</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>5</No>
+<Name>Damnation</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Destroy all creatures. They can't be regenerated.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2007/02/01: This is the timeshifted version of Wrath of God.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>6</No>
+<Name>Dualcaster Mage</Name>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>Flash
+When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.</CardText>
+<Flavor>"It has been my experience that disasters like to strike in pairs."</Flavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2016/06/08: <Dualcaster Mage>'s triggered ability can target (and copy) any instant or sorcery spell, not just one with targets. It doesn't matter who controls it.
+2016/06/08: As <Dualcaster Mage>'s triggered ability resolves, it creates a copy of a spell on the stack. The copy isn't cast, so abilities that trigger when a player casts a spell won't trigger.
+2016/06/08: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2016/06/08: You can't choose to pay any additional costs for the copy. However, effects based on any additional or alternative costs paid for the targeted spell are copied as though those same costs were paid for the copy.
+2016/06/08: If the spell is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. You can't choose a different one.
+2016/06/08: If the spell has an X whose value was determined as it was cast (like Earthquake does), the copy has the same value of X.
+2016/06/08: If the copy says that it affects "you," it affects the controller of the copy, not the controller of the original spell. Similarly, if the copy says that it affects an "opponent," it affects an opponent of the copy's controller, not an opponent of the original spell's controller.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>7</No>
+<Name>Feldon of the Third Path</Name>
+<Type>Legendary Creature — Human Artificer 2/3</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>{2}{R}, {T}: Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.</CardText>
+<Flavor>"She will come back to me."</Flavor>
+<Artist>Chase Stone</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2014/11/07: The token copies exactly what was printed on the original creature card (except that the copy is also an artifact) and nothing else.
+2014/11/07: If the copied creature card has {X} in its mana cost, X is 0.
+2014/11/07: Any enters-the-battlefield abilities of the copied creature card will trigger when the token enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the copied creature card will also work.
+2014/11/07: If another creature becomes a copy of, or enters the battlefield as a copy of, the token, that creature will copy the creature card the token is copying, except it will also be an artifact. This is true even if the creature card that was copied by <Feldon of the Third Path> is no longer in the graveyard at that time. However, the new copy won't gain haste and you won't sacrifice it at the beginning of the next end step.
+2014/11/07: If Feldon's ability creates multiple tokens due to a replacement effect (such as the one Doubling Season creates), each of those tokens will gain haste and you'll sacrifice each of them.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J15</SetId>
+<No>8</No>
+<Name>Wasteland</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.</CardText>
+<Flavor>The land was left depleted and empty, an unsettling taste of things to come.</Flavor>
+<Artist>Steven Belledin</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2015</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

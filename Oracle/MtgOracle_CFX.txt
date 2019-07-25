@@ -371,7 +371,7 @@ At the beginning of your end step, you may gain life equal to the power of targe
 <Flavor>The lives of elves are long, but their memories are longer. Even after death, they do not desert their homes.</Flavor>
 <Artist>Wayne Reynolds</Artist>
 <Multiverseid>189874</Multiverseid>
-<Rulings>2009/02/01: This ability triggers and resolves before "until end of turn" effects have worn off.</Rulings>
+<Rulings>2018/12/07: If an effect changes a creature's power "until end of turn," it will still have the modified power during your end step.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -517,7 +517,7 @@ When Faerie Mechanist enters the battlefield, look at the top three cards of you
 <CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
 {U}, {T}: Draw a card, then discard a card.</CardText>
 <Flavor>The battle was won in the commander's head before the first weapon was drawn.</Flavor>
-<Artist>Volkan Baga</Artist>
+<Artist>Volkan Baǵa</Artist>
 <Multiverseid>184993</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -551,8 +551,8 @@ When Faerie Mechanist enters the battlefield, look at the top three cards of you
 <Name>Inkwell Leviathan</Name>
 <Type>Artifact Creature — Leviathan 7/11</Type>
 <ManaCost>7UU (9)</ManaCost>
-<CardText>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
-Trample
+<CardText>Trample
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
 Shroud (This creature can't be the target of spells or abilities.)</CardText>
 <Flavor>"Into its maw went the seventh sea, never to be seen again while the world remains."
 —Esper fable</Flavor>
@@ -881,6 +881,7 @@ Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield.
 <Flavor>Not once in the history of Grixis has anyone died of old age.</Flavor>
 <Artist>Pete Venters</Artist>
 <Multiverseid>157732</Multiverseid>
+<Rulings>2018/07/13: In a Two-Headed Giant game, <Infectious Horror>'s ability causes the opposing team to lose 4 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1085,8 +1086,9 @@ If X is 5 or more, this spell can't be countered and the damage can't be prevent
 <Flavor>For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.</Flavor>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>186613</Multiverseid>
-<Rulings>2009/02/01: <Banefire> checks the number you chose for X, not the amount of mana you actually spent.
-2009/02/01: <Banefire> can be targeted by spells that try to counter it (such as Countersquall) regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.</Rulings>
+<Rulings>2018/07/13: To determine whether it can be countered and its damage can be prevented, <Banefire> checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal.
+2018/07/13: <Banefire> can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.
+2018/07/13: If its target is illegal by the time <Banefire> tries to resolve, the spell isn't countered, but it doesn't resolve. The target won't be dealt damage.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1848,7 +1850,7 @@ Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a b
 <Type>Creature — Hydra 0/0</Type>
 <ManaCost>XRG (2)</ManaCost>
 <CardText>Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.
-{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to any target.</CardText>
+{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: It deals 1 damage to any target.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>183068</Multiverseid>
 <Rulings>2009/02/01: For example, if X is 4, <Apocalypse Hydra> enters the battlefield with four +1/+1 counters on it, but if X is 5, it enters the battlefield with ten +1/+1 counters on it.
@@ -1947,6 +1949,7 @@ When Child of Alara dies, destroy all nonland permanents. They can't be regenera
 <Flavor>Each of the twenty-three winds of Esper is named and chronicled, and every possible interaction with the flow of magic is exhaustively detailed.</Flavor>
 <Artist>Anthony Francisco</Artist>
 <Multiverseid>186327</Multiverseid>
+<Rulings>2018/12/07: A spell that can't be countered is a legal target for <Countersquall>. The spell won't be countered when <Countersquall> resolves, but its controller still loses 2 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

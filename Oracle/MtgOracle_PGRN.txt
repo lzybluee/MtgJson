@@ -1,0 +1,1090 @@
+<Card>
+<SetId>PGRN</SetId>
+<No>4s</No>
+<Name>Citywide Bust</Name>
+<Type>Sorcery</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Destroy all creatures with toughness 4 or greater.</CardText>
+<Flavor>"Oh, you fellas are going to love the lockup. Excellent gruel. Very low ceilings."
+—Libuse, Boros sergeant</Flavor>
+<Artist>Victor Adame Minguez</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>6</No>
+<Name>Conclave Tribunal</Name>
+<Type>Enchantment</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Conclave Tribunal enters the battlefield, exile target nonland permanent an opponent controls until Conclave Tribunal leaves the battlefield.</CardText>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/10/05: If <Conclave Tribunal> leaves the battlefield before its triggered ability resolves, the target permanent won't be exiled.
+2018/10/05: Auras attached to the exiled permanent will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist. When the card returns to the battlefield, it will be a new object with no connection to the card that was exiled.
+2018/10/05: If a token is exiled this way, it will cease to exist and won't return to the battlefield.
+2018/10/05: You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell.
+2018/10/05: Convoke doesn't change a spell's mana cost or converted mana cost.
+2018/10/05: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2018/10/05: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2018/10/05: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2018/10/05: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}.
+2018/10/05: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>8s</No>
+<Name>Dawn of Hope</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Whenever you gain life, you may pay {2}. If you do, draw a card.
+{3}{W}: Create a 1/1 white Soldier creature token with lifelink.</CardText>
+<Flavor>"To wage war, secure peace within yourself."
+—Emmara</Flavor>
+<Artist>Sung Choi</Artist>
+<Rulings>2018/10/05: <Dawn of Hope>'s first ability triggers just once for each life-gaining event, whether it's 1 life from Vicious Rumors or 3 life from Creeping Chill.
+2018/10/05: You can't pay {2} multiple times to draw more than one card each time you resolve <Dawn of Hope>'s triggered ability.
+2018/10/05: Each creature with lifelink dealing combat damage causes a separate life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, <Dawn of Hope>'s ability will trigger twice. However, if a single creature you control with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once.
+2018/10/05: If you gain an amount of life "for each" of something, that life is gained as one event and <Dawn of Hope>'s first ability triggers only once.
+2018/10/05: In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it caused your team's life total to increase.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>19s</No>
+<Name>Light of the Legion</Name>
+<Type>Creature — Angel 5/5</Type>
+<ManaCost>4WW (6)</ManaCost>
+<CardText>Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Light of the Legion dies, put a +1/+1 counter on each white creature you control.</CardText>
+<Artist>Alex Konstad</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: If another white creature you control is dealt lethal damage at the same time as <Light of the Legion>, they're destroyed at the same time. That creature won't receive a counter from <Light of the Legion>'s ability in time to save it.
+2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
+2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
+2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>30s</No>
+<Name>Venerated Loxodon</Name>
+<Type>Creature — Elephant Cleric 4/4</Type>
+<ManaCost>4W (5)</ManaCost>
+<CardText>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+When Venerated Loxodon enters the battlefield, put a +1/+1 counter on each creature that convoked it.</CardText>
+<Artist>Zack Stella</Artist>
+<Watermark>Selesnya</Watermark>
+<Rulings>2018/10/05: You can't tap more creatures to convoke <Venerated Loxodon> than it takes to pay for its total cost. This means that normally no more than five creatures can convoke it.
+2018/10/05: You can tap an untapped creature you haven't controlled continuously since the beginning of your most recent turn to convoke a spell.
+2018/10/05: Convoke doesn't change a spell's mana cost or converted mana cost.
+2018/10/05: When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated.
+2018/10/05: Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs.
+2018/10/05: Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors.
+2018/10/05: When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Worldsoul Colossus (a spell with convoke and mana cost {X}{G}{W}) and choose X to be 3, the total cost is {3}{G}{W}. If you tap two green creatures and two white creatures, you'll have to pay {1}.
+2018/10/05: If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped before you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>44s</No>
+<Name>Mission Briefing</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</CardText>
+<Artist>Matt Stewart</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: The instant or sorcery card you choose may be one that you just surveilled into your graveyard.
+2018/10/05: <Mission Briefing> doesn't change when you can cast the chosen card. For example, if you choose a sorcery card, you can cast it only during your main phase when the stack is empty.
+2018/10/05: <Mission Briefing> is still on the stack while you choose an instant or sorcery card in your graveyard. Your <Mission Briefing> can't be to give yourself that same <Mission Briefing>.
+2018/10/05: If you cast a spell this way and that card is exiled, it's considered a new object in the zone it's put into. It won't be exiled if it's put into your graveyard later in the turn.
+2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>47s</No>
+<Name>Narcomoeba</Name>
+<Type>Creature — Illusion 1/1</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.</CardText>
+<Flavor>"What bait do you cast to catch a dream?"
+—Ravnican riddle</Flavor>
+<Artist>Howard Lyon</Artist>
+<Rulings>2007/05/01: If <Narcomoeba> is revealed or looked at while moving from your library to your graveyard (such as with Mind Funeral), its ability will trigger when it's put into your graveyard. It was still in your library while it was revealed or being looked at.
+2007/05/01: If <Narcomoeba> is removed from your graveyard before its ability resolves, it won't be put onto the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>51s</No>
+<Name>Quasiduplicate</Name>
+<Type>Sorcery</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Create a token that's a copy of target creature you control.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</CardText>
+<Flavor>"My greatest creation—me!"</Flavor>
+<Artist>Dmitry Burmak</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: The token copies exactly what is printed on the creature and nothing else (unless that creature is copying something else or is a token; see below). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras and/or Equipment attached to it, or any non-copy effects that changed its power, toughness, types, color, and so on.
+2018/10/05: If the copied creature has {X} in its mana cost, X is 0.
+2018/10/05: If the copied creature is copying something else, the token enters the battlefield as whatever that creature is copying.
+2018/10/05: If the copied creature is itself a token, the token created by <Quasiduplicate> copies the original characteristics of that token as stated by the effect that created it.
+2018/10/05: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "As [this creature] enters the battlefield" or "[This creature] enters the battlefield with" abilities of the copied creature will also work.
+2018/10/05: You must still follow any timing restrictions and permissions, including those based on the card's type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery.
+2018/10/05: A spell cast using jump-start will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way.
+2018/10/05: If an effect allows you to pay an alternative cost rather than a spell's mana cost, you may pay that alternative cost when you jump-start a spell. You'll still discard a card as an additional cost to cast it.
+2018/10/05: If a card with jump-start is put into your graveyard during your turn, you'll be able to cast it right away if it's legal to do so, before an opponent can take any actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>54</No>
+<Name>Sinister Sabotage</Name>
+<Type>Instant</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Counter target spell.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</CardText>
+<Flavor>"We have intel that some guilds have fallen under an invader's influence. Until we're sure, no venture succeeds."
+—Lazav</Flavor>
+<Artist>Mathias Kollros</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/10/05: A spell that can't be countered is a legal target for <Sinister Sabotage>. The spell won't be countered when <Sinister Sabotage> resolves, but you'll still surveil 1.
+2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.
+2018/10/05: Some spells that instruct you to surveil require targets. You can't cast a spell without choosing legal targets. If all of those targets become illegal, the spell doesn't resolve and you won't surveil.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>63s</No>
+<Name>Blood Operative</Name>
+<Type>Creature — Vampire Assassin 3/1</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Lifelink
+When Blood Operative enters the battlefield, you may exile target card from a graveyard.
+Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 life. If you do, return Blood Operative to your hand.</CardText>
+<Artist>Livia Prima</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: If you surveil and put <Blood Operative> into your graveyard as you do so, its ability triggers once you've finished surveilling.
+2018/10/05: No player may take actions between the time you choose to pay 3 life and the time you return <Blood Operative> to your hand.
+2018/10/05: An ability that triggers "whenever you surveil" triggers after you're done surveilling, even if you have fewer cards in your library than the number of cards you're instructed to surveil. It even triggers if you have no cards in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>71s</No>
+<Name>Gruesome Menagerie</Name>
+<Type>Sorcery</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Choose a creature card with converted mana cost 1 in your graveyard, then do the same for creature cards with converted mana costs 2 and 3. Return those cards to the battlefield.</CardText>
+<Flavor>"Variety is also the spice of death."
+—Covraya, Golgari shaman</Flavor>
+<Artist>Yeong-Hao Han</Artist>
+<Rulings>2018/10/05: <Gruesome Menagerie> doesn't target the cards to return. You choose them while it's resolving. No players may take actions between the time you make each choice and the time you return them to the battlefield.
+2018/10/05: If a card in your graveyard has {X} in its mana cost, X is considered to be 0.
+2018/10/05: If you don't have a creature card in your graveyard with one converted mana cost, you just continue on to the next.
+2018/10/05: All of the returned cards enter the battlefield at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>75s</No>
+<Name>Mausoleum Secrets</Name>
+<Type>Instant</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Undergrowth — Search your library for a black card with converted mana cost less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle your library.</CardText>
+<Artist>Adam Paquette</Artist>
+<Watermark>Golgari</Watermark>
+<Rulings>2018/10/05: A land card that produces black mana, even a Swamp, normally has no color.
+2018/10/05: If a card in your library has {X} in its mana cost, X is considered to be 0.
+2018/10/05: Creature cards with other types, such as artifact creature cards, count for undergrowth abilities.
+2018/10/05: Because tokens aren't cards, they never count for undergrowth abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>79</No>
+<Name>Necrotic Wound</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Undergrowth — Target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard. If that creature would die this turn, exile it instead.</CardText>
+<Flavor>The assassins of Ochran distill toxins from the remains of the previous victims.</Flavor>
+<Artist>Randy Vargas</Artist>
+<Rulings>2018/10/05: The value of X is determined only as the undergrowth ability resolves. If the number of creature cards in your graveyard changes later in the turn, the target creature is unaffected.
+2018/10/05: <Necrotic Wound>'s replacement effect will exile the target creature if it would die this turn for any reason, not just immediately after <Necrotic Wound> resolves.
+2018/10/05: If you have no creature cards in your graveyard, the target creature gets -0/-0, and it will still be exiled if it would die this turn.
+2018/10/05: Creature cards with other types, such as artifact creature cards, count for undergrowth abilities.
+2018/10/05: Because tokens aren't cards, they never count for undergrowth abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>84s</No>
+<Name>Ritual of Soot</Name>
+<Type>Sorcery</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Destroy all creatures with converted mana cost 3 or less.</CardText>
+<Flavor>Only the patrol's armor was found, so tainted with the acrid smell of sudden death that it could never be worn again.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Rulings>2018/10/05: Tokens that aren't a copy of something else don't have a mana cost. Anything without a mana cost normally has a converted mana cost of 0.
+2018/10/05: If a permanent has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>109s</No>
+<Name>Legion Warboss</Name>
+<Type>Creature — Goblin Soldier 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able.</CardText>
+<Artist>Alex Konstad</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: If the token can't attack for any reason (such as becoming tapped), then it doesn't attack. If there's a cost associated with having it attack, its controller isn't forced to pay that cost, so it doesn't have to attack in that case either.
+2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
+2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
+2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>113s</No>
+<Name>Risk Factor</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Target opponent may have Risk Factor deal 4 damage to them. If that player doesn't, you draw three cards.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</CardText>
+<Artist>Chris Seaman</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: If the target player is an illegal target by the time <Risk Factor> tries to resolve, the spell doesn't resolve. You don't draw three cards.
+2018/10/05: You must still follow any timing restrictions and permissions, including those based on the card's type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery.
+2018/10/05: A spell cast using jump-start will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way.
+2018/10/05: If an effect allows you to pay an alternative cost rather than a spell's mana cost, you may pay that alternative cost when you jump-start a spell. You'll still discard a card as an additional cost to cast it.
+2018/10/05: If a card with jump-start is put into your graveyard during your turn, you'll be able to cast it right away if it's legal to do so, before an opponent can take any actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>115s</No>
+<Name>Runaway Steam-Kin</Name>
+<Type>Creature — Elemental 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever you cast a red spell, if Runaway Steam-Kin has fewer than three +1/+1 counters on it, put a +1/+1 counter on Runaway Steam-Kin.
+Remove three +1/+1 counters from Runaway Steam-Kin: Add {R}{R}{R}.</CardText>
+<Artist>Jason Felix</Artist>
+<Rulings>2018/10/05: <Runaway Steam-Kin> has to be on the battlefield for its ability to trigger. Casting it won't trigger its own ability.
+2018/10/05: <Runaway Steam-Kin>'s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/10/05: If <Runaway Steam-Kin> has three or more +1/+1 counters on it after you're done paying for a red spell, its ability doesn't trigger at all. If it has three or more +1/+1 counters on it as its triggered ability resolves, it doesn't get a +1/+1 counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>123s</No>
+<Name>Beast Whisperer</Name>
+<Type>Creature — Elf Druid 2/3</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Whenever you cast a creature spell, draw a card.</CardText>
+<Flavor>"The tiniest mouse speaks louder to me than all the festival crowds on Tin Street."</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2018/10/05: <Beast Whisperer>'s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>124s</No>
+<Name>Bounty of Might</Name>
+<Type>Instant</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.</CardText>
+<Flavor>"I am the very soul of battle, but even I would never advise open war with the Conclave."
+—Aurelia</Flavor>
+<Artist>Even Amundsen</Artist>
+<Rulings>2018/10/05: You may choose the same creature as a target multiple times since <Bounty of Might> says "target creature" multiple times. You may give three different creatures +3/+3 each, one creature +6/+6 and another creature +3/+3, or a single creature +9/+9.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>132s</No>
+<Name>Hatchery Spider</Name>
+<Type>Creature — Spider 5/7</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Reach
+Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>Livia Prima</Artist>
+<Watermark>Golgari</Watermark>
+<Rulings>2018/10/05: <Hatchery Spider>'s ability triggers as you cast it, and that ability resolves before the spell itself. It resolves even if that spell is countered.
+2018/10/05: If a card in your library has {X} in its mana cost, X is considered to be 0.
+2018/10/05: A land card that produces green mana, even a Forest, normally has no color.
+2018/10/05: Creature cards with other types, such as artifact creature cards, count for undergrowth abilities.
+2018/10/05: Because tokens aren't cards, they never count for undergrowth abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>148s</No>
+<Name>Vivid Revival</Name>
+<Type>Sorcery</Type>
+<ManaCost>4G (5)</ManaCost>
+<CardText>Return up to three target multicolored cards from your graveyard to your hand. Exile Vivid Revival.</CardText>
+<Flavor>Golgari crops bloom in strange soil, touched only by long-traveled light.</Flavor>
+<Artist>Yeong-Hao Han</Artist>
+<Rulings>2018/10/05: If some, but not all, targets for <Vivid Revival> become illegal, the remaining targets are returned to your hand and <Vivid Revival> is exiled. If all of its targets become illegal, <Vivid Revival> doesn't resolve and it's put into your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>152s</No>
+<Name>Assassin's Trophy</Name>
+<Type>Instant</Type>
+<ManaCost>BG (2)</ManaCost>
+<CardText>Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.</CardText>
+<Flavor>A power vacuum for the Azorius. A keepsake for Vraska.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/10/05: If the target permanent is an illegal target by the time <Assassin's Trophy> tries to resolve, the spell doesn't resolve. No player searches their library.
+2018/10/05: If the target permanent is a legal target but isn't destroyed, most likely because it has indestructible, its controller may search their library.
+2018/10/05: If the permanent's controller doesn't search their library, they don't shuffle their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>153s</No>
+<Name>Aurelia, Exemplar of Justice</Name>
+<Type>Legendary Creature — Angel 2/5</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, choose up to one target creature you control. Until end of turn, that creature gets +2/+0, gains trample if it's red, and gains vigilance if it's white.</CardText>
+<Artist>Chris Rahn</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: Aurelia's last ability resolves before attackers are chosen.
+2018/10/05: The target creature gains trample and vigilance if it's both red and white. It gets +2/+0 only once, even if it's both red and white, and even if it's neither red nor white.
+2018/10/05: Once Aurelia's last ability has resolved, the creature keeps whatever bonuses it got from that ability even if its colors change.
+2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
+2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
+2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>156</No>
+<Name>Boros Challenger</Name>
+<Type>Creature — Human Soldier 2/3</Type>
+<ManaCost>RW (2)</ManaCost>
+<CardText>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{2}{R}{W}: Boros Challenger gets +1/+1 until end of turn.</CardText>
+<Artist>Lucas Graciano</Artist>
+<Rulings>2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
+2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
+2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>165s</No>
+<Name>Deafening Clarion</Name>
+<Type>Sorcery</Type>
+<ManaCost>1RW (3)</ManaCost>
+<CardText>Choose one or both —
+• Deafening Clarion deals 3 damage to each creature.
+• Creatures you control gain lifelink until end of turn.</CardText>
+<Flavor>"Commander, what's the signal to attack?"
+"You'll know."</Flavor>
+<Artist>Adam Paquette</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: <Deafening Clarion>'s second mode affects only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't gain lifelink.
+2018/10/05: A creature you control that's dealt lethal damage by <Deafening Clarion>'s first mode will still be on the battlefield to gain lifelink from the spell's second mode before that creature dies.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>168</No>
+<Name>Emmara, Soul of the Accord</Name>
+<Type>Legendary Creature — Elf Cleric 2/2</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white Soldier creature token with lifelink.</CardText>
+<Artist>Randy Vargas</Artist>
+<Rulings>2018/10/05: Emmara's ability is a triggered ability, not an activated ability. It doesn't allow you to tap Emmara whenever you want; rather, you need some other way of tapping it, such as by attacking.
+2018/10/05: For the ability to trigger, Emmara has to actually change from untapped to tapped. If an effect attempts to tap Emmara, but it was already tapped at the time, this ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>168s</No>
+<Name>Emmara, Soul of the Accord</Name>
+<Type>Legendary Creature — Elf Cleric 2/2</Type>
+<ManaCost>GW (2)</ManaCost>
+<CardText>Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white Soldier creature token with lifelink.</CardText>
+<Flavor>"Whatever hatred destroys, a single act of trust can revive."</Flavor>
+<Artist>Mark Winters</Artist>
+<Watermark>Selesnya</Watermark>
+<Rulings>2018/10/05: Emmara's ability is a triggered ability, not an activated ability. It doesn't allow you to tap Emmara whenever you want; rather, you need some other way of tapping it, such as by attacking.
+2018/10/05: For the ability to trigger, Emmara has to actually change from untapped to tapped. If an effect attempts to tap Emmara, but it was already tapped at the time, this ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>170s</No>
+<Name>Etrata, the Silencer</Name>
+<Type>Legendary Creature — Vampire Assassin 3/5</Type>
+<ManaCost>2UB (4)</ManaCost>
+<CardText>Etrata, the Silencer can't be blocked.
+Whenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata's owner shuffles Etrata into their library.</CardText>
+<Artist>Bastien L. Deharme</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: If the player controls no creatures, Etrata's ability doesn't resolve. Etrata remains on the battlefield and its owner doesn't shuffle their library. The same is true if the target creature is an illegal target when Etrata's ability tries to resolve.
+2018/10/05: If Etrata leaves the battlefield while its triggered ability is on the stack, it remains in its new zone and Etrata's owner shuffles their library.
+2018/10/05: If Etrata's ability exiles a token creature, it won't count to determine whether three cards are exiled with hit counters.
+2018/10/05: Etrata's owner shuffles it into their library as the triggered ability resolves, regardless of how many cards are in exile or whether the player loses the game.
+2018/10/05: In a Commander game, if Etrata is your commander, you may put it into the command zone as its ability resolves. You'll still shuffle your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>171</No>
+<Name>Firemind's Research</Name>
+<Type>Enchantment</Type>
+<ManaCost>UR (2)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
+{1}{U}, Remove two charge counters from Firemind's Research: Draw a card.
+{1}{R}, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.</CardText>
+<Artist>Robbie Trevino</Artist>
+<Rulings>2018/10/05: The triggered ability of <Firemind's Research> resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>171s</No>
+<Name>Firemind's Research</Name>
+<Type>Enchantment</Type>
+<ManaCost>UR (2)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
+{1}{U}, Remove two charge counters from Firemind's Research: Draw a card.
+{1}{R}, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.</CardText>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2018/10/05: The triggered ability of <Firemind's Research> resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>179s</No>
+<Name>Ionize</Name>
+<Type>Instant</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Counter target spell. Ionize deals 2 damage to that spell's controller.</CardText>
+<Flavor>"Countermagic is a simple process of breaking matter into its elementary particles."</Flavor>
+<Artist>Chase Stone</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: A spell that can't be countered is a legal target for <Ionize>. The spell won't be countered when <Ionize> resolves, but <Ionize> still deals 2 damage to that spell's controller.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>180s</No>
+<Name>Izoni, Thousand-Eyed</Name>
+<Type>Legendary Creature — Elf Shaman 2/3</Type>
+<ManaCost>2BBGG (6)</ManaCost>
+<CardText>Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.
+{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Golgari</Watermark>
+<Rulings>2018/10/05: You can activate Izoni's last ability while its undergrowth ability is on the stack. This will increase the number of Insect tokens you'll create.
+2018/10/05: Creature cards with other types, such as artifact creature cards, count for undergrowth abilities.
+2018/10/05: Because tokens aren't cards, they never count for undergrowth abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>183s</No>
+<Name>Knight of Autumn</Name>
+<Type>Creature — Dryad Knight 2/1</Type>
+<ManaCost>1GW (3)</ManaCost>
+<CardText>When Knight of Autumn enters the battlefield, choose one —
+• Put two +1/+1 counters on Knight of Autumn.
+• Destroy target artifact or enchantment.
+• You gain 4 life.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Watermark>Selesnya</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>184s</No>
+<Name>Lazav, the Multifarious</Name>
+<Type>Legendary Creature — Shapeshifter 1/3</Type>
+<ManaCost>UB (2)</ManaCost>
+<CardText>When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{X}: Lazav, the Multifarious becomes a copy of target creature card in your graveyard with converted mana cost X, except its name is Lazav, the Multifarious, it's legendary in addition to its other types, and it has this ability.</CardText>
+<Artist>Yongjae Choi</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: Lazav copies exactly what was printed on the original card and nothing else, except the characteristics it specifically modifies. It doesn't copy any information about the object the card was before it was put into your graveyard.
+2018/10/05: Any effects that applied to Lazav before it becomes a copy of another card will continue to apply once it's become a copy. The same is true of any counters that are on Lazav.
+2018/10/05: If a card in your graveyard has {X} in its mana cost, X is considered to be 0.
+2018/10/05: Because Lazav isn't entering the battlefield when it becomes a copy of a card, any "When this enters the battlefield" or "This enters the battlefield with" abilities of the copied card won't apply.
+2018/10/05: If the copied card has an ability that can be activated only once each turn, copying that card a second time will allow you to activate the new instance of that ability.
+2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>192s</No>
+<Name>Niv-Mizzet, Parun</Name>
+<Type>Legendary Creature — Dragon Wizard 5/5</Type>
+<ManaCost>UUURRR (6)</ManaCost>
+<CardText>This spell can't be countered.
+Flying
+Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target.
+Whenever a player casts an instant or sorcery spell, you draw a card.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: If an effect instructs you to draw multiple cards, Niv-Mizzet's first triggered ability triggers that many times. You choose targets for those abilities after you've drawn all of the cards.
+2018/10/05: If a spell or ability causes you to put cards into your hand without specifically using the word "draw," Niv-Mizzet's first triggered ability won't trigger.
+2018/10/05: Niv-Mizzet's second triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered. This causes its first triggered ability to trigger, and that also resolves before the spell.
+2018/10/05: Players can cast spells and activate abilities after Niv-Mizzet's second triggered ability resolves but before the spell that caused it to trigger does. Notably, the card you draw may be able to counter that spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>203s</No>
+<Name>Swiftblade Vindicator</Name>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>RW (2)</ManaCost>
+<CardText>Double strike, vigilance, trample</CardText>
+<Flavor>A swiftblade is an artist, each fiery trail of their blades a fleeting masterpiece traced on the air.</Flavor>
+<Artist>Viktor Titov</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: If an attacking creature with double strike and trample destroys all of its blocking creatures with first-strike combat damage, all of its normal combat damage is assigned to the player or planeswalker that creature's attacking.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>204s</No>
+<Name>Tajic, Legion's Edge</Name>
+<Type>Legendary Creature — Human Soldier 3/2</Type>
+<ManaCost>1RW (3)</ManaCost>
+<CardText>Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Prevent all noncombat damage that would be dealt to other creatures you control.
+{R}{W}: Tajic, Legion's Edge gains first strike until end of turn.</CardText>
+<Artist>Anthony Palumbo</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: If Tajic and other creatures you control would be dealt lethal noncombat damage at the same time, the damage that would be dealt to your other creatures is prevented.
+2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
+2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
+2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>205s</No>
+<Name>Thief of Sanity</Name>
+<Type>Creature — Specter 2/2</Type>
+<ManaCost>1UB (3)</ManaCost>
+<CardText>Flying
+Whenever Thief of Sanity deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: <Thief of Sanity>'s effect doesn't change when you can cast the exiled card. For example, if you exile a sorcery card, you can cast it only during your main phase when the stack is empty.
+2018/10/05: An effect that instructs you to "cast" a card doesn't allow you to play lands.
+2018/10/05: You can still cast the exiled card if <Thief of Sanity> leaves the battlefield or leaves your control. If another player gains control of <Thief of Sanity>, that player can't cast the exiled card.
+2018/10/05: Casting an exiled card causes it to leave exile. You can't cast it multiple times.
+2018/10/05: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, any spells or permanents you control from <Thief of Sanity>'s effect are exiled, and any of the face-down exiled cards remain face down indefinitely. No player may look at them.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>206</No>
+<Name>Thought Erasure</Name>
+<Type>Sorcery</Type>
+<ManaCost>UB (2)</ManaCost>
+<CardText>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</CardText>
+<Flavor>"It's truly the highest honor, isn't it? To be remembered? Pity for you."</Flavor>
+<Artist>Anna Steinbauer</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/10/05: You surveil 1 even if the opponent doesn't discard a card, perhaps because they had no cards in hand at all.
+2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.
+2018/10/05: Some spells that instruct you to surveil require targets. You can't cast a spell without choosing legal targets. If all of those targets become illegal, the spell doesn't resolve and you won't surveil.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>207s</No>
+<Name>Thousand-Year Storm</Name>
+<Type>Enchantment</Type>
+<ManaCost>4UR (6)</ManaCost>
+<CardText>Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.</CardText>
+<Flavor>Ral's storm crackled with mystical detections: Planeswalkers were infiltrating Ravnica.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/10/05: Spells you've cast that were countered were still cast, and so will add copies when <Thousand-Year Storm>'s ability resolves for later spells in the turn.
+2018/10/05: If an effect instructs you to cast multiple spells, they're cast one at a time in any order.
+2018/10/05: <Thousand-Year Storm>'s ability will copy any instant or sorcery spell, not just one with targets.
+2018/10/05: Copies are created even if the spell that caused <Thousand-Year Storm>'s ability to trigger has been countered by the time that ability resolves. The copies resolve before the original spell.
+2018/10/05: The copies will have the same targets as the spell they're copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. The new targets must be legal.
+2018/10/05: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copies will have the same mode or modes. You can't choose different ones.
+2018/10/05: If the spell that's copied has an X whose value was determined as it was cast, the copies will have the same value of X.
+2018/10/05: If the spell has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2018/10/05: You can't choose to pay any additional costs for the copies. However, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too.
+2018/10/05: The copies that <Thousand-Year Storm>'s ability creates are created on the stack, so they're not "cast." Abilities that trigger when a player casts a spell (such as that of <Thousand-Year Storm> itself) won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>208s</No>
+<Name>Trostani Discordant</Name>
+<Type>Legendary Creature — Dryad 1/4</Type>
+<ManaCost>3GW (5)</ManaCost>
+<CardText>Other creatures you control get +1/+1.
+When Trostani Discordant enters the battlefield, create two 1/1 white Soldier creature tokens with lifelink.
+At the beginning of your end step, each player gains control of all creatures they own.</CardText>
+<Artist>Chase Stone</Artist>
+<Watermark>Selesnya</Watermark>
+<Rulings>2018/10/05: The owner of a token is the player who created it.
+2018/10/05: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to other creatures you control may become lethal if Trostani leaves the battlefield during that turn.
+2018/10/05: If a creature has an ability that triggers at the beginning of each end step and Trostani's ability causes you to gain control of it, the ability of that creature is still controlled by the creature's former controller. If the creature has an ability that triggers at the beginning of your end step, that ability doesn't trigger when you gain control of it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>211s</No>
+<Name>Underrealm Lich</Name>
+<Type>Creature — Zombie Elf Shaman 4/3</Type>
+<ManaCost>3BG (5)</ManaCost>
+<CardText>If you would draw a card, instead look at the top three cards of your library, then put one into your hand and the rest into your graveyard.
+Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap it.</CardText>
+<Flavor>"You've strayed, overworlder."</Flavor>
+<Artist>Anna Steinbauer</Artist>
+<Watermark>Golgari</Watermark>
+<Rulings>2018/10/05: If an effect instructs you to draw multiple cards, each draw is performed—and replaced by <Underrealm Lich>'s ability—one at a time. This means that if you're drawing two cards, you'll look at the top three cards of your library, put one into your hand, put the other two into your graveyard, and then repeat the process with the next three cards in your library.
+2018/10/05: <Underrealm Lich>'s first ability applies even if you have fewer than three cards in your library. If you have no cards in your library, you can't lose the game for trying to draw a card from an empty library.
+2018/10/05: You can activate <Underrealm Lich>'s last ability even if it's already tapped. It can't be tapped again, but it still gains indestructible.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>221sa</No>
+<Name>Assure (Assure/Assemble)</Name>
+<Type>Instant</Type>
+<ManaCost>{G/W}{G/W} (2)</ManaCost>
+<CardText>Put a +1/+1 counter on target creature. That creature gains indestructible until end of turn.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Watermark>Selesnya</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Assemble (Assure/Assemble)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>221sb</No>
+<Name>Assemble (Assure/Assemble)</Name>
+<Type>Instant</Type>
+<ManaCost>4GW (6)</ManaCost>
+<CardText>Create three 2/2 green and white Elf Knight creature tokens with vigilance.</CardText>
+<Artist>Jason A. Engle</Artist>
+<Watermark>Selesnya</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Assure (Assure/Assemble)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>222sa</No>
+<Name>Connive (Connive/Concoct)</Name>
+<Type>Sorcery</Type>
+<ManaCost>2{U/B}{U/B} (4)</ManaCost>
+<CardText>Gain control of target creature with power 2 or less.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: <Connive>'s effect lasts indefinitely. It doesn't wear off during the cleanup step, and it doesn't expire if the creature's power becomes greater after <Connive> has resolved.
+2018/10/05: The creature card you return with Concoct may be one that you just surveilled into your graveyard.
+2018/10/05: No player may take actions between the time you surveil and the time you return a creature card to the battlefield.
+2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Concoct (Connive/Concoct)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>222sb</No>
+<Name>Concoct (Connive/Concoct)</Name>
+<Type>Sorcery</Type>
+<ManaCost>3UB (5)</ManaCost>
+<CardText>Surveil 3, then return a creature card from your graveyard to the battlefield.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: Connive's effect lasts indefinitely. It doesn't wear off during the cleanup step, and it doesn't expire if the creature's power becomes greater after Connive has resolved.
+2018/10/05: The creature card you return with <Concoct> may be one that you just surveilled into your graveyard.
+2018/10/05: No player may take actions between the time you surveil and the time you return a creature card to the battlefield.
+2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Connive (Connive/Concoct)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>224sa</No>
+<Name>Expansion (Expansion/Explosion)</Name>
+<Type>Instant</Type>
+<ManaCost>{U/R}{U/R} (2)</ManaCost>
+<CardText>Copy target instant or sorcery spell with converted mana cost 4 or less. You may choose new targets for the copy.</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: <Expansion> can copy any instant or sorcery spell with an appropriate converted mana cost, not just one with targets.
+2018/10/05: If a spell has {X} in its mana cost, include the value chosen for that X when determining the converted mana cost of that spell.
+2018/10/05: The copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2018/10/05: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2018/10/05: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. A different mode can't be chosen.
+2018/10/05: If the spell that's copied has an X whose value was determined as it was cast (like Banefire does), the copy will have the same value of X.
+2018/10/05: If the spell has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2018/10/05: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.
+2018/10/05: If you copy a spell, you control the copy. It will resolve before the original spell does.
+2018/10/05: If one of Explosion's two targets becomes illegal, the other is affected as appropriate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Explosion (Expansion/Explosion)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>224sb</No>
+<Name>Explosion (Expansion/Explosion)</Name>
+<Type>Instant</Type>
+<ManaCost>XUURR (4)</ManaCost>
+<CardText>Explosion deals X damage to any target. Target player draws X cards.</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: Expansion can copy any instant or sorcery spell with an appropriate converted mana cost, not just one with targets.
+2018/10/05: If a spell has {X} in its mana cost, include the value chosen for that X when determining the converted mana cost of that spell.
+2018/10/05: The copy is created on the stack, so it's not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2018/10/05: The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal).
+2018/10/05: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy will have the same mode. A different mode can't be chosen.
+2018/10/05: If the spell that's copied has an X whose value was determined as it was cast (like Banefire does), the copy will have the same value of X.
+2018/10/05: If the spell has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2018/10/05: The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy.
+2018/10/05: If you copy a spell, you control the copy. It will resolve before the original spell does.
+2018/10/05: If one of <Explosion>'s two targets becomes illegal, the other is affected as appropriate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Expansion (Expansion/Explosion)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>225sa</No>
+<Name>Find (Find/Finality)</Name>
+<Type>Sorcery</Type>
+<ManaCost>{B/G}{B/G} (2)</ManaCost>
+<CardText>Return up to two target creature cards from your graveyard to your hand.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Watermark>Golgari</Watermark>
+<Rulings>2018/10/05: Finality doesn't target the creature to receive +1/+1 counters. You can cast it even if you control no creatures.
+2018/10/05: Finality affects only creatures on the battlefield at the time it resolves. Creatures that enter the battlefield later in the turn won't get -4/-4.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Finality (Find/Finality)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>225sb</No>
+<Name>Finality (Find/Finality)</Name>
+<Type>Sorcery</Type>
+<ManaCost>4BG (6)</ManaCost>
+<CardText>You may put two +1/+1 counters on a creature you control. Then all creatures get -4/-4 until end of turn.</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Watermark>Golgari</Watermark>
+<Rulings>2018/10/05: <Finality> doesn't target the creature to receive +1/+1 counters. You can cast it even if you control no creatures.
+2018/10/05: <Finality> affects only creatures on the battlefield at the time it resolves. Creatures that enter the battlefield later in the turn won't get -4/-4.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Find (Find/Finality)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>229sa</No>
+<Name>Response (Response/Resurgence)</Name>
+<Type>Instant</Type>
+<ManaCost>{R/W}{R/W} (2)</ManaCost>
+<CardText>Response deals 5 damage to target attacking or blocking creature.</CardText>
+<Artist>Daarken</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: Resurgence affects only creatures you control at the time it resolves. Creatures that come under your control later in the turn won't gain first strike and vigilance.
+2018/10/05: If you cast Resurgence when it's not a main phase (perhaps with Omnispell Adept's ability), creatures you control gain first strike and vigilance, but there's no additional combat phase or main phase. If you cast it during an opponent's main phase, there are additional combat and main phases, but that player attacks during that combat phase, not you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Resurgence (Response/Resurgence)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>229sb</No>
+<Name>Resurgence (Response/Resurgence)</Name>
+<Type>Sorcery</Type>
+<ManaCost>3RW (5)</ManaCost>
+<CardText>Creatures you control gain first strike and vigilance until end of turn. After this main phase, there is an additional combat phase followed by an additional main phase.</CardText>
+<Artist>Daarken</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: <Resurgence> affects only creatures you control at the time it resolves. Creatures that come under your control later in the turn won't gain first strike and vigilance.
+2018/10/05: If you cast <Resurgence> when it's not a main phase (perhaps with Omnispell Adept's ability), creatures you control gain first strike and vigilance, but there's no additional combat phase or main phase. If you cast it during an opponent's main phase, there are additional combat and main phases, but that player attacks during that combat phase, not you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Response (Response/Resurgence)</OtherPart>
+</Card>
+

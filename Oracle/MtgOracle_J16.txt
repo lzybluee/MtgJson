@@ -1,0 +1,137 @@
+<Card>
+<SetId>J16</SetId>
+<No>2</No>
+<Name>Mana Drain</Name>
+<Type>Instant</Type>
+<ManaCost>UU (2)</ManaCost>
+<CardText>Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's converted mana cost.</CardText>
+<Flavor>"Power is wasted on the weak. They never keep it for long."
+—Nicol Bolas</Flavor>
+<Artist>Mike Bierek</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2017/11/17: <Mana Drain> can target a spell that can't be countered. When <Mana Drain> resolves, that spell won't be countered, but you'll still add mana at the beginning of your next main phase.
+2017/11/17: If the target spell is an illegal target when <Mana Drain> tries to resolve, it won't resolve and none of its effects will happen. You won't get any mana.
+2017/11/17: <Mana Drain>'s delayed triggered ability will usually trigger at the beginning of your precombat main phase. However, if you cast <Mana Drain> during your precombat main phase or during your combat phase, its delayed triggered ability will trigger at the beginning of that turn's postcombat main phase.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J16</SetId>
+<No>3</No>
+<Name>Azusa, Lost but Seeking</Name>
+<Type>Legendary Creature — Human Monk 1/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>You may play two additional lands on each of your turns.</CardText>
+<Flavor>"I do not miss Jukai Forest. It is not my home. My home is Kamigawa, its people my family. Wherever I set my pack and rest my head, I am home."</Flavor>
+<Artist>Winona Nelson</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/03/16: Azusa's ability is cumulative with other effects that allow you to play additional lands, such as that of Wayward Swordtooth (from the Rivals of Ixalan set).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J16</SetId>
+<No>4</No>
+<Name>Command Beacon</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.</CardText>
+<Flavor>"I gazed once into that light. Now it burns in my mind, forever denying me rest."
+—Riku of Two Reflections</Flavor>
+<Artist>Jonas De Ro</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/11/04: If you cast a commander from your hand, the additional cost based on the number of times you've cast it from your command zone (sometimes referred to as the "commander tax") doesn't apply. Additionally, that casting won't add to the tax if you later cast the commander from the command zone.
+2015/11/04: If your commander isn't in the command zone (or you're not playing Commander) as the last ability resolves, nothing happens.
+2016/11/08: If you have two commanders with the partner ability in the command zone, <Command Beacon>'s effect puts one of your choice into your hand, not both.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J16</SetId>
+<No>5</No>
+<Name>Mystic Confluence</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Choose three. You may choose the same mode more than once.
+• Counter target spell unless its controller pays {3}.
+• Return target creature to its owner's hand.
+• Draw a card.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/11/04: You choose the modes as you cast the spell. Once modes are chosen, they can't be changed.
+2015/11/04: If a mode requires a target, you can select that mode only if there's a legal target available. Ignore the targeting requirements for modes you don't choose. Each time you select that mode, you can choose a different target, or you can choose the same target.
+2015/11/04: No matter which combination of modes you choose, you always follow the instructions of a Confluence in the order they are written. If the same mode is chosen more than once, you choose their relative order as you cast the spell.
+2015/11/04: No player can cast spells or activate abilities in between the modes of a resolving spell.
+2015/11/04: If a Confluence is copied, the effect that creates the copy will usually allow you to choose new targets, but you can't choose new modes.
+2015/11/04: If all targets for the chosen modes become illegal before the Confluence resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J16</SetId>
+<No>6</No>
+<Name>Imperial Seal</Name>
+<Type>Sorcery</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</CardText>
+<Flavor>"If Heaven has placed it in your hands, it means that the throne is destined to be yours."</Flavor>
+<Artist>Li Tie</Artist>
+<Watermark>Wotc</Watermark>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J16</SetId>
+<No>7</No>
+<Name>Defense of the Heart</Name>
+<Type>Enchantment</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library.</CardText>
+<Artist>Jack Wang</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2004/10/04: In a multiplayer game, it triggers if at least one opponent controls three or more creatures.
+2004/10/04: You choose how many cards to put onto the battlefield during the resolution after you look through your library. You do not choose as the ability goes on the stack.
+2004/10/04: This triggered ability only triggers if your opponent controls 3 or more creatures at the beginning of upkeep. This condition is checked again on resolution.
+2010/06/15: If this card is not on the battlefield at the time it resolves, then you can't sacrifice it. You still perform the search and put any creature cards you find onto the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J16</SetId>
+<No>8</No>
+<Name>Zur the Enchanter</Name>
+<Type>Legendary Creature — Human Wizard 1/4</Type>
+<ManaCost>1WUB (4)</ManaCost>
+<CardText>Flying
+Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.</CardText>
+<Flavor>Zur remained aloof from Terisiare's suffering, intent only on his own perfection.</Flavor>
+<Artist>Josu Hernaiz</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2015/01/19: <Zur the Enchanter> is banned as a commander in Duel Commander format, but it may be part of your deck.
+2017/03/14: An Aura put onto the battlefield without being cast doesn't target anything, so it could be attached to a permanent with shroud or hexproof. However, the Aura's enchant ability restricts what it can be attached to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2016</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

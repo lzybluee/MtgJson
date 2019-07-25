@@ -22,7 +22,7 @@
 <ManaCost>W (1)</ManaCost>
 <CardText>Enchant creature you control
 Enchanted creature is a Flagbearer.
-While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.</CardText>
+While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.</CardText>
 <Artist>Darrell Riche</Artist>
 <Multiverseid>26791</Multiverseid>
 <Rulings>2004/10/04: If this card is ever on a creature you don't control, it is put into the graveyard as a State-Based Action.</Rulings>
@@ -38,7 +38,7 @@ While choosing targets as part of casting a spell or activating an ability, your
 <Name>Coalition Honor Guard</Name>
 <Type>Creature — Human Flagbearer 2/4</Type>
 <ManaCost>3W (4)</ManaCost>
-<CardText>While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.</CardText>
+<CardText>While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.</CardText>
 <Flavor>Giving little thought to their own defense, they carried the flag that united their army.</Flavor>
 <Artist>Eric Peterson</Artist>
 <Multiverseid>26371</Multiverseid>
@@ -291,7 +291,7 @@ Enchanted creature has protection from green and from blue.</CardText>
 <Name>Standard Bearer</Name>
 <Type>Creature — Human Flagbearer 1/1</Type>
 <ManaCost>1W (2)</ManaCost>
-<CardText>While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.</CardText>
+<CardText>While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.</CardText>
 <Flavor>The standard was a rallying point for the army and a target for the enemy.</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>26783</Multiverseid>
@@ -310,7 +310,7 @@ Enchanted creature has protection from green and from blue.</CardText>
 <CardText>{R}, {T}: Target creature gets +2/+0 until end of turn.
 {G}, {T}: Add one mana of any color.</CardText>
 <Flavor>"The sea holds all that you need. You simply must know how to ask for it."</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>25853</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -447,7 +447,7 @@ If Cetavolver was kicked with its {G} kicker, it enters the battlefield with a +
 <ManaCost>1U (2)</ManaCost>
 <CardText>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
 Return target creature to its owner's hand. If this spell was kicked, it deals 2 damage to another target creature.</CardText>
-<Flavor>"You're not my Hanna"
+<Flavor>"You're not my Hanna!"
 —Gerrard, to Yawgmoth</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>26797</Multiverseid>
@@ -921,7 +921,7 @@ Draw a card.</CardText>
 <Name>Bloodfire Colossus</Name>
 <Type>Creature — Giant 6/6</Type>
 <ManaCost>6RR (8)</ManaCost>
-<CardText>{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.</CardText>
+<CardText>{R}, Sacrifice Bloodfire Colossus: It deals 6 damage to each creature and each player.</CardText>
 <Flavor>It took all its strength to contain the fire within.</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>28807</Multiverseid>
@@ -938,7 +938,7 @@ Draw a card.</CardText>
 <Name>Bloodfire Dwarf</Name>
 <Type>Creature — Dwarf 1/1</Type>
 <ManaCost>R (1)</ManaCost>
-<CardText>{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.</CardText>
+<CardText>{R}, Sacrifice Bloodfire Dwarf: It deals 1 damage to each creature without flying.</CardText>
 <Flavor>For them, the only honorable death is one that leaves a crater.</Flavor>
 <Artist>Ron Spencer</Artist>
 <Multiverseid>26806</Multiverseid>
@@ -971,7 +971,7 @@ Draw a card.</CardText>
 <Name>Bloodfire Kavu</Name>
 <Type>Creature — Kavu 2/2</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.</CardText>
+<CardText>{R}, Sacrifice Bloodfire Kavu: It deals 2 damage to each creature.</CardText>
 <Flavor>Heart of fire, blood of lava, teeth of stone.</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>28806</Multiverseid>
@@ -1023,7 +1023,7 @@ Destroy target land. If this spell was kicked, destroy another target land.</Car
 <CardText>Dwarven Patrol doesn't untap during your untap step.
 Whenever you cast a nonred spell, untap Dwarven Patrol.</CardText>
 <Flavor>Dwarves never worry about who watches their backs.</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>26672</Multiverseid>
 <Rulings>2004/10/04: Remember that lands are not spells.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1832,9 +1832,7 @@ When Jungle Barrier enters the battlefield, draw a card.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>2WB (4)</ManaCost>
 <CardText>Pay 2 life: Prevent the next 1 damage that would be dealt to target creature this turn.</CardText>
-<Flavor>Honor the brave who fought,
-Honor the dead who fell,
-Honor the world they saved.
+<Flavor>Honor the brave who fought, Honor the dead who fell, Honor the world they saved.
 —Memorial inscription</Flavor>
 <Artist>Anthony S. Waters</Artist>
 <Multiverseid>25825</Multiverseid>
@@ -1921,7 +1919,7 @@ When Mystic Snake enters the battlefield, counter target spell.</CardText>
 <CardText>Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.</CardText>
 <Flavor>"We have fought this far and lost too much. We will not turn back."
 —Grizzlegom</Flavor>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt & Tim Hildebrandt</Artist>
 <Multiverseid>23198</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2131,22 +2129,6 @@ Enchanted creature gets +2/+2 and has trample.</CardText>
 
 <Card>
 <SetId>AP</SetId>
-<No>128a</No>
-<Name>Fire (Fire/Ice)</Name>
-<Type>Instant</Type>
-<ManaCost>1R (2)</ManaCost>
-<CardText>Fire deals 2 damage divided as you choose among one or two targets.</CardText>
-<Artist>Franz Vohwinkel</Artist>
-<Multiverseid>27166</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Apocalypse</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Ice (Fire/Ice)</OtherPart>
-</Card>
-
-<Card>
-<SetId>AP</SetId>
 <No>128b</No>
 <Name>Ice (Fire/Ice)</Name>
 <Type>Instant</Type>
@@ -2155,27 +2137,14 @@ Enchanted creature gets +2/+2 and has trample.</CardText>
 Draw a card.</CardText>
 <Artist>Franz Vohwinkel</Artist>
 <Multiverseid>27166</Multiverseid>
+<Rulings>2018/12/07: You divide the damage as you cast Fire, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast Fire, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2018/12/07: If Fire targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2.
+2018/12/07: If the target permanent becomes an illegal target for <Ice>, the spell doesn't resolve. You don't draw a card.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Apocalypse</Set>
 <Rarity>Uncommon</Rarity>
 <OtherPart>Fire (Fire/Ice)</OtherPart>
-</Card>
-
-<Card>
-<SetId>AP</SetId>
-<No>129a</No>
-<Name>Illusion (Illusion/Reality)</Name>
-<Type>Instant</Type>
-<ManaCost>U (1)</ManaCost>
-<CardText>Target spell or permanent becomes the color of your choice until end of turn.</CardText>
-<Artist>David Martin</Artist>
-<Multiverseid>27164</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Apocalypse</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Reality (Illusion/Reality)</OtherPart>
 </Card>
 
 <Card>
@@ -2196,23 +2165,6 @@ Draw a card.</CardText>
 
 <Card>
 <SetId>AP</SetId>
-<No>130a</No>
-<Name>Life (Life/Death)</Name>
-<Type>Sorcery</Type>
-<ManaCost>G (1)</ManaCost>
-<CardText>All lands you control become 1/1 creatures until end of turn. They're still lands.</CardText>
-<Artist>Edward P. Beard, Jr.</Artist>
-<Multiverseid>27162</Multiverseid>
-<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Apocalypse</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Death (Life/Death)</OtherPart>
-</Card>
-
-<Card>
-<SetId>AP</SetId>
 <No>130b</No>
 <Name>Death (Life/Death)</Name>
 <Type>Sorcery</Type>
@@ -2220,6 +2172,7 @@ Draw a card.</CardText>
 <CardText>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</CardText>
 <Artist>Edward P. Beard, Jr.</Artist>
 <Multiverseid>27162</Multiverseid>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Apocalypse</Set>
@@ -2229,28 +2182,12 @@ Draw a card.</CardText>
 
 <Card>
 <SetId>AP</SetId>
-<No>131a</No>
-<Name>Night (Night/Day)</Name>
-<Type>Instant</Type>
-<ManaCost>B (1)</ManaCost>
-<CardText>Target creature gets -1/-1 until end of turn.</CardText>
-<Artist>Christopher Moeller</Artist>
-<Multiverseid>26691</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Apocalypse</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Day (Night/Day)</OtherPart>
-</Card>
-
-<Card>
-<SetId>AP</SetId>
 <No>131b</No>
 <Name>Day (Night/Day)</Name>
 <Type>Instant</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>Creatures target player controls get +1/+1 until end of turn.</CardText>
-<Artist>Christopher Moeller</Artist>
+<Artist>Anthony S. Waters</Artist>
 <Multiverseid>26691</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -2266,29 +2203,13 @@ Draw a card.</CardText>
 <Type>Instant</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Exile target attacking creature.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
+<Artist>Greg Hildebrandt</Artist>
 <Multiverseid>27167</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Apocalypse</Set>
 <Rarity>Uncommon</Rarity>
 <OtherPart>Chaos (Order/Chaos)</OtherPart>
-</Card>
-
-<Card>
-<SetId>AP</SetId>
-<No>132b</No>
-<Name>Chaos (Order/Chaos)</Name>
-<Type>Instant</Type>
-<ManaCost>2R (3)</ManaCost>
-<CardText>Creatures can't block this turn.</CardText>
-<Artist>Greg & Tim Hildebrandt</Artist>
-<Multiverseid>27167</Multiverseid>
-<Vintage>Legal</Vintage>
-<Legacy>Legal</Legacy>
-<Set>Apocalypse</Set>
-<Rarity>Uncommon</Rarity>
-<OtherPart>Order (Order/Chaos)</OtherPart>
 </Card>
 
 <Card>
