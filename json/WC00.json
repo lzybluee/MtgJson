@@ -16,6 +16,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -25,8 +26,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgstocksId": 41164,
             "name": "Absolute Law",
             "number": "nl2sba",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.99,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.99,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.99,
+                    "2019-06-09": 0.99,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 0.99,
+                    "2019-07-14": 0.99,
+                    "2019-07-21": 0.99
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "USG",
                 "WC00"
@@ -43,6 +63,7 @@
             "scryfallOracleId": "f4aa8391-34d5-4ad2-a981-9aa08f8229db",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164490,
             "text": "All creatures have protection from red.",
             "type": "Enchantment",
             "types": [
@@ -64,6 +85,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -74,9 +96,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}",
+            "mtgstocksId": 41168,
             "name": "Academy Rector",
             "number": "nl1",
             "power": "1",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 23.98,
+                    "2019-05-05": 23.91,
+                    "2019-05-12": 23.64,
+                    "2019-05-19": 22.41,
+                    "2019-05-26": 22.32,
+                    "2019-06-02": 21.94,
+                    "2019-06-09": 22.49,
+                    "2019-06-16": 23.5,
+                    "2019-06-23": 21.24,
+                    "2019-06-30": 22.49,
+                    "2019-07-07": 22.91,
+                    "2019-07-14": 21.22,
+                    "2019-07-21": 20.38
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "UDS",
                 "WC00"
@@ -100,6 +141,7 @@
                 "Cleric"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164491,
             "text": "When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.",
             "toughness": "2",
             "type": "Creature — Human Cleric",
@@ -121,6 +163,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -130,8 +173,27 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41049,
             "name": "Adarkar Wastes",
             "number": "tvdl319",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 4.59,
+                    "2019-05-05": 4.26,
+                    "2019-05-12": 3.6,
+                    "2019-05-19": 3.56,
+                    "2019-05-26": 3.6,
+                    "2019-06-02": 3.92,
+                    "2019-06-09": 3.6,
+                    "2019-06-16": 3.92,
+                    "2019-06-23": 4.24,
+                    "2019-06-30": 4.24,
+                    "2019-07-07": 4.23,
+                    "2019-07-14": 3.95,
+                    "2019-07-21": 3.83
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "5ED",
@@ -149,6 +211,7 @@
             "scryfallOracleId": "d5ad26cc-2bdb-46b7-b8bf-dd099d5fa09b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164243,
             "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.",
             "type": "Land",
             "types": [
@@ -171,6 +234,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -183,8 +247,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{U}",
+            "mtgstocksId": 40983,
             "name": "Annul",
             "number": "jf59sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.79,
+                    "2019-05-05": 0.79,
+                    "2019-05-12": 0.52,
+                    "2019-05-19": 0.25,
+                    "2019-05-26": 0.25,
+                    "2019-06-02": 0.25,
+                    "2019-06-09": 0.25,
+                    "2019-06-16": 0.25,
+                    "2019-06-23": 0.32,
+                    "2019-06-30": 0.32,
+                    "2019-07-07": 0.32,
+                    "2019-07-14": 0.32,
+                    "2019-07-21": 0.32
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "MRD",
                 "THS",
@@ -199,6 +282,7 @@
             "scryfallOracleId": "d08e9784-75f7-4164-ac48-d06160f8c56b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163888,
             "text": "Counter target artifact or enchantment spell.",
             "type": "Instant",
             "types": [
@@ -221,6 +305,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -234,8 +319,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgstocksId": 41200,
             "name": "Arc Lightning",
             "number": "jk174",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.37,
+                    "2019-05-05": 0.23,
+                    "2019-05-12": 0.2,
+                    "2019-05-19": 0.2,
+                    "2019-05-26": 0.2,
+                    "2019-06-02": 0.2,
+                    "2019-06-09": 0.22,
+                    "2019-06-16": 0.2,
+                    "2019-06-23": 0.49,
+                    "2019-06-30": 0.35,
+                    "2019-07-07": 0.35,
+                    "2019-07-14": 0.23,
+                    "2019-07-21": 0.37
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "BRB",
                 "HOP",
@@ -263,6 +367,7 @@
             "scryfallOracleId": "5acc8b39-3c3e-4012-8cfd-ac3c2c4ca982",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164526,
             "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.",
             "type": "Sorcery",
             "types": [
@@ -284,6 +389,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -293,8 +399,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}",
+            "mtgstocksId": 41165,
             "name": "Armageddon",
             "number": "nl4sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.99,
+                    "2019-05-05": 2.86,
+                    "2019-05-12": 2.98,
+                    "2019-05-19": 2.24,
+                    "2019-05-26": 2.64,
+                    "2019-06-02": 2.64,
+                    "2019-06-09": 2.24,
+                    "2019-06-16": 2.53,
+                    "2019-06-23": 2.53,
+                    "2019-06-30": 2.53,
+                    "2019-07-07": 2.58,
+                    "2019-07-14": 2.57,
+                    "2019-07-21": 2.56
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "2ED",
                 "3ED",
@@ -331,6 +456,7 @@
             "scryfallOracleId": "c9ed8b01-959a-47d6-891e-0abbdccf6e4f",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164492,
             "text": "Destroy all lands.",
             "type": "Sorcery",
             "types": [
@@ -349,6 +475,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -356,11 +483,31 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgstocksId": 41169,
             "name": "Ashnod's Altar",
             "number": "nl274",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 3.99,
+                    "2019-05-05": 3.99,
+                    "2019-05-12": 3.99,
+                    "2019-05-19": 3.99,
+                    "2019-05-26": 3.99,
+                    "2019-06-02": 3.99,
+                    "2019-06-09": 3.99,
+                    "2019-06-16": 3.99,
+                    "2019-06-23": 4.09,
+                    "2019-06-30": 4.09,
+                    "2019-07-07": 4.2,
+                    "2019-07-14": 4.09,
+                    "2019-07-21": 4.15
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "5ED",
                 "6ED",
@@ -378,6 +525,7 @@
             "scryfallOracleId": "4d18bcba-a346-445e-a182-6cc30b7e066d",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164493,
             "text": "Sacrifice a creature: Add {C}{C}.",
             "type": "Artifact",
             "types": [
@@ -400,6 +548,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -409,8 +558,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgstocksId": 41050,
             "name": "Attunement",
             "number": "tvdl61",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.99,
+                    "2019-05-05": 9.99,
+                    "2019-05-12": 0.93,
+                    "2019-05-19": 0.75,
+                    "2019-05-26": 0.38,
+                    "2019-06-02": 0.62,
+                    "2019-06-09": 0.75,
+                    "2019-06-16": 0.62,
+                    "2019-06-23": 9.99,
+                    "2019-06-30": 9.99,
+                    "2019-07-07": 5.62,
+                    "2019-07-14": 1.25,
+                    "2019-07-21": 9.49
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "USG",
                 "WC00"
@@ -427,6 +595,7 @@
             "scryfallOracleId": "5ea46ccf-5e36-4889-bf64-00d4f327e9b2",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164244,
             "text": "Return Attunement to its owner's hand: Draw three cards, then discard four cards.",
             "type": "Enchantment",
             "types": [
@@ -449,6 +618,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -459,8 +629,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgstocksId": 41166,
             "name": "Aura Fracture",
             "number": "nl2sbb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.99,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.99,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.35,
+                    "2019-06-02": 0.35,
+                    "2019-06-09": 0.67,
+                    "2019-06-16": 0.67,
+                    "2019-06-23": 0.67,
+                    "2019-06-30": 0.67,
+                    "2019-07-07": 0.34,
+                    "2019-07-14": 0.67,
+                    "2019-07-21": 0.99
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "PCY",
                 "WC00"
@@ -472,6 +661,7 @@
             "scryfallOracleId": "3495d83a-b103-42be-8708-9ce971b352bd",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164494,
             "text": "Sacrifice a land: Destroy target enchantment.",
             "type": "Enchantment",
             "types": [
@@ -493,6 +683,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -503,9 +694,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgstocksId": 41331,
             "name": "Avalanche Riders",
             "number": "jk74",
             "power": "2",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.3,
+                    "2019-05-05": 0.3,
+                    "2019-05-12": 0.28,
+                    "2019-05-19": 0.31,
+                    "2019-05-26": 0.31,
+                    "2019-06-02": 0.32,
+                    "2019-06-09": 0.32,
+                    "2019-06-16": 0.31,
+                    "2019-06-23": 0.31,
+                    "2019-06-30": 0.33,
+                    "2019-07-07": 0.31,
+                    "2019-07-14": 0.31,
+                    "2019-07-21": 0.3
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "F04",
                 "PRM",
@@ -524,6 +734,7 @@
                 "Nomad"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164955,
             "text": "Haste\nEcho {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Avalanche Riders enters the battlefield, destroy target land.",
             "toughness": "2",
             "type": "Creature — Human Nomad",
@@ -546,6 +757,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -557,9 +769,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}",
+            "mtgstocksId": 41202,
             "name": "Birds of Paradise",
             "number": "jk217",
             "power": "0",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 3.19,
+                    "2019-05-05": 3.08,
+                    "2019-05-12": 3.08,
+                    "2019-05-19": 3.08,
+                    "2019-05-26": 3.08,
+                    "2019-06-02": 3.19,
+                    "2019-06-09": 3.17,
+                    "2019-06-16": 3.29,
+                    "2019-06-23": 3.08,
+                    "2019-06-30": 3.08,
+                    "2019-07-07": 3.19,
+                    "2019-07-14": 3.19,
+                    "2019-07-21": 3.08
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "2ED",
@@ -599,6 +830,7 @@
                 "Bird"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164528,
             "text": "Flying\n{T}: Add one mana of any color.",
             "toughness": "1",
             "type": "Creature — Bird",
@@ -624,6 +856,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -635,9 +868,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}",
+            "mtgstocksId": 41167,
             "name": "Birds of Paradise",
             "number": "nl217",
             "power": "0",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 3.49,
+                    "2019-05-05": 3.49,
+                    "2019-05-12": 3.25,
+                    "2019-05-19": 3.49,
+                    "2019-05-26": 3.37,
+                    "2019-06-02": 3.25,
+                    "2019-06-09": 3.28,
+                    "2019-06-16": 3.22,
+                    "2019-06-23": 3.22,
+                    "2019-06-30": 3.24,
+                    "2019-07-07": 3.25,
+                    "2019-07-14": 3.25,
+                    "2019-07-21": 3.25
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "2ED",
@@ -677,6 +929,7 @@
                 "Bird"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164495,
             "text": "Flying\n{T}: Add one mana of any color.",
             "toughness": "1",
             "type": "Creature — Bird",
@@ -702,6 +955,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -713,9 +967,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgstocksId": 41203,
             "name": "Blastoderm",
             "number": "jk102",
             "power": "5",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.2,
+                    "2019-05-05": 0.22,
+                    "2019-05-12": 0.2,
+                    "2019-05-19": 0.2,
+                    "2019-05-26": 0.22,
+                    "2019-06-02": 0.22,
+                    "2019-06-09": 0.2,
+                    "2019-06-16": 0.18,
+                    "2019-06-23": 0.2,
+                    "2019-06-30": 0.2,
+                    "2019-07-07": 0.29,
+                    "2019-07-14": 0.2,
+                    "2019-07-21": 0.2
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "DDD",
                 "F05",
@@ -735,6 +1008,7 @@
                 "Beast"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164529,
             "text": "Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)",
             "toughness": "5",
             "type": "Creature — Beast",
@@ -758,6 +1032,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -815,6 +1090,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -822,11 +1098,31 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgstocksId": 41204,
             "name": "Boil",
             "number": "jk169sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.4,
+                    "2019-05-05": 0.4,
+                    "2019-05-12": 0.3,
+                    "2019-05-19": 0.3,
+                    "2019-05-26": 0.3,
+                    "2019-06-02": 0.3,
+                    "2019-06-09": 0.3,
+                    "2019-06-16": 0.3,
+                    "2019-06-23": 0.3,
+                    "2019-06-30": 0.3,
+                    "2019-07-07": 0.3,
+                    "2019-07-14": 0.4,
+                    "2019-07-21": 0.4
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "7ED",
@@ -845,6 +1141,7 @@
             "scryfallOracleId": "3a51485b-31b2-4fa5-824a-a919f9d28ca8",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164530,
             "text": "Destroy all Islands.",
             "type": "Instant",
             "types": [
@@ -867,6 +1164,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -933,6 +1231,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -985,13 +1284,13 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
@@ -1036,13 +1335,13 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
@@ -1086,6 +1385,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1156,6 +1456,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1165,8 +1466,27 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41175,
             "name": "City of Brass",
             "number": "nl321",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.48,
+                    "2019-05-05": 2.48,
+                    "2019-05-12": 8.07,
+                    "2019-05-19": 10.79,
+                    "2019-05-26": 14.31,
+                    "2019-06-02": 2.95,
+                    "2019-06-09": 3.47,
+                    "2019-06-16": 3.52,
+                    "2019-06-23": 3.13,
+                    "2019-06-30": 2.25,
+                    "2019-07-07": 3.45,
+                    "2019-07-14": 3.51,
+                    "2019-07-21": 5.06
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "5ED",
                 "6ED",
@@ -1208,6 +1528,7 @@
             "scryfallOracleId": "f25351e3-539b-4bbc-b92d-6480acf4d722",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164498,
             "text": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color.",
             "type": "Land",
             "types": [
@@ -1230,6 +1551,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1241,8 +1563,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{U}",
+            "mtgstocksId": 41174,
             "name": "Confiscate",
             "number": "nl66",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.43,
+                    "2019-05-05": 2.43,
+                    "2019-05-12": 2.4,
+                    "2019-05-19": 2.4,
+                    "2019-05-26": 2.76,
+                    "2019-06-02": 2.76,
+                    "2019-06-09": 2.19,
+                    "2019-06-16": 2.46,
+                    "2019-06-23": 2.72,
+                    "2019-06-30": 2.76,
+                    "2019-07-07": 2.76,
+                    "2019-07-14": 2.19,
+                    "2019-07-21": 2.17
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "7ED",
                 "8ED",
@@ -1266,6 +1607,7 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164499,
             "text": "Enchant permanent (Target a permanent as you cast this. This card enters the battlefield attached to that permanent.)\nYou control enchanted permanent.",
             "type": "Enchantment — Aura",
             "types": [
@@ -1287,6 +1629,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1297,8 +1640,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{U}{U}",
+            "mtgstocksId": 41053,
             "name": "Counterspell",
             "number": "tvdl61b",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.99,
+                    "2019-05-05": 1.99,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.99,
+                    "2019-05-26": 1.5,
+                    "2019-06-02": 1.99,
+                    "2019-06-09": 1.99,
+                    "2019-06-16": 1.98,
+                    "2019-06-23": 1.98,
+                    "2019-06-30": 1.99,
+                    "2019-07-07": 0.91,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 0.97
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "2ED",
                 "3ED",
@@ -1347,6 +1709,7 @@
             "scryfallOracleId": "cc187110-1148-4090-bbb8-e205694a39f5",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164247,
             "text": "Counter target spell.",
             "type": "Instant",
             "types": [
@@ -1369,6 +1732,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1381,8 +1745,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgstocksId": 41867,
             "name": "Creeping Mold",
             "number": "jk220",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.25,
+                    "2019-05-05": 0.5,
+                    "2019-05-12": 0.5,
+                    "2019-05-19": 0.5,
+                    "2019-05-26": 0.75,
+                    "2019-06-02": 0.75,
+                    "2019-06-09": 0.5,
+                    "2019-06-16": 0.75,
+                    "2019-06-23": 0.75,
+                    "2019-06-30": 0.62,
+                    "2019-07-07": 0.62,
+                    "2019-07-14": 0.49,
+                    "2019-07-21": 0.37
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "6ED",
@@ -1403,6 +1786,7 @@
             "scryfallOracleId": "59180e94-ccdf-4d9f-9a4a-fe55497d0d63",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164532,
             "text": "Destroy target artifact, enchantment, or land.",
             "type": "Sorcery",
             "types": [
@@ -1428,6 +1812,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1440,8 +1825,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgstocksId": 41205,
             "name": "Creeping Mold",
             "number": "jk220sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.25,
+                    "2019-05-05": 0.5,
+                    "2019-05-12": 0.25,
+                    "2019-05-19": 0.25,
+                    "2019-05-26": 0.5,
+                    "2019-06-02": 0.5,
+                    "2019-06-09": 0.25,
+                    "2019-06-16": 0.5,
+                    "2019-06-23": 0.75,
+                    "2019-06-30": 0.61,
+                    "2019-07-07": 0.61,
+                    "2019-07-14": 0.61,
+                    "2019-07-21": 0.46
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "6ED",
@@ -1462,6 +1866,7 @@
             "scryfallOracleId": "59180e94-ccdf-4d9f-9a4a-fe55497d0d63",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164531,
             "text": "Destroy target artifact, enchantment, or land.",
             "type": "Sorcery",
             "types": [
@@ -1482,6 +1887,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1491,8 +1897,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
+            "mtgstocksId": 40985,
             "name": "Crumbling Sanctuary",
             "number": "jf292",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.5,
+                    "2019-05-05": 1.15,
+                    "2019-05-12": 1.15,
+                    "2019-05-19": 0.79,
+                    "2019-05-26": 0.77,
+                    "2019-06-02": 0.79,
+                    "2019-06-09": 1.4,
+                    "2019-06-16": 1.5,
+                    "2019-06-23": 1.5,
+                    "2019-06-30": 1.5,
+                    "2019-07-07": 1.15,
+                    "2019-07-14": 1.4,
+                    "2019-07-21": 1.45
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "MMQ",
                 "WC00"
@@ -1513,6 +1938,7 @@
             "scryfallOracleId": "f9269fda-e1e6-4e10-9a64-26e8c0f38b0c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163891,
             "text": "If damage would be dealt to a player, that player exiles that many cards from the top of their library instead.",
             "type": "Artifact",
             "types": [
@@ -1530,6 +1956,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1538,8 +1965,27 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 40992,
             "name": "Crystal Vein",
             "number": "jf322",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.0,
+                    "2019-05-05": 1.0,
+                    "2019-05-12": 1.0,
+                    "2019-05-19": 1.0,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.62,
+                    "2019-06-09": 0.62,
+                    "2019-06-16": 0.35,
+                    "2019-06-23": 0.43,
+                    "2019-06-30": 0.71,
+                    "2019-07-07": 0.5,
+                    "2019-07-14": 0.71,
+                    "2019-07-21": 0.35
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "C14",
@@ -1555,6 +2001,7 @@
             "scryfallOracleId": "616d6013-24f4-4999-9bf3-5b0764e52fa6",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163892,
             "text": "{T}: Add {C}.\n{T}, Sacrifice Crystal Vein: Add {C}{C}.",
             "type": "Land",
             "types": [
@@ -1573,6 +2020,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1582,8 +2030,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgstocksId": 41051,
             "name": "Cursed Totem",
             "number": "tvdl278sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 3.25,
+                    "2019-05-05": 3.25,
+                    "2019-05-12": 2.99,
+                    "2019-05-19": 2.92,
+                    "2019-05-26": 2.84,
+                    "2019-06-02": 2.99,
+                    "2019-06-09": 2.99,
+                    "2019-06-16": 3.12,
+                    "2019-06-23": 6.62,
+                    "2019-06-30": 6.49,
+                    "2019-07-07": 6.49,
+                    "2019-07-14": 6.49,
+                    "2019-07-21": 9.49
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "MIR",
@@ -1609,6 +2076,7 @@
             "scryfallOracleId": "6225a704-430a-4f56-ad87-0e8d87f285f5",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164249,
             "text": "Activated abilities of creatures can't be activated.",
             "type": "Artifact",
             "types": [
@@ -1630,6 +2098,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1640,8 +2109,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
+            "mtgstocksId": 41055,
             "name": "Daze",
             "number": "tvdl30sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.99,
+                    "2019-05-05": 1.99,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.99,
+                    "2019-05-26": 1.99,
+                    "2019-06-02": 1.99,
+                    "2019-06-09": 1.99,
+                    "2019-06-16": 1.99,
+                    "2019-06-23": 2.24,
+                    "2019-06-30": 2.24,
+                    "2019-07-07": 2.26,
+                    "2019-07-14": 2.05,
+                    "2019-07-21": 2.06
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "DD2",
                 "EMA",
@@ -1662,6 +2150,7 @@
             "scryfallOracleId": "70486bee-6ee7-41ea-b834-8caf4699302b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164251,
             "text": "You may return an Island you control to its owner's hand rather than pay this spell's mana cost.\nCounter target spell unless its controller pays {1}.",
             "type": "Instant",
             "types": [
@@ -1680,6 +2169,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1690,8 +2180,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgstocksId": 41172,
             "name": "Defense Grid",
             "number": "nl125sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 6.41,
+                    "2019-05-05": 6.33,
+                    "2019-05-12": 6.27,
+                    "2019-05-19": 6.39,
+                    "2019-05-26": 4.89,
+                    "2019-06-02": 6.06,
+                    "2019-06-09": 6.09,
+                    "2019-06-16": 6.33,
+                    "2019-06-23": 6.33,
+                    "2019-06-30": 6.33,
+                    "2019-07-07": 6.33,
+                    "2019-07-14": 6.09,
+                    "2019-07-21": 5.44
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "8ED",
                 "9ED",
@@ -1715,6 +2224,7 @@
             "scryfallOracleId": "22ba474e-f6e6-450d-a4cf-0739f0b51079",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164500,
             "text": "Each spell costs {3} more to cast except during its controller's turn.",
             "type": "Artifact",
             "types": [
@@ -1732,6 +2242,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1740,8 +2251,27 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41206,
             "name": "Dust Bowl",
             "number": "jk316",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 6.89,
+                    "2019-05-05": 6.89,
+                    "2019-05-12": 6.89,
+                    "2019-05-19": 6.89,
+                    "2019-05-26": 6.89,
+                    "2019-06-02": 6.89,
+                    "2019-06-09": 6.89,
+                    "2019-06-16": 6.87,
+                    "2019-06-23": 6.89,
+                    "2019-06-30": 6.36,
+                    "2019-07-07": 6.85,
+                    "2019-07-14": 6.83,
+                    "2019-07-21": 6.88
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "EXP",
                 "MMQ",
@@ -1754,6 +2284,7 @@
             "scryfallOracleId": "d3df7128-31dd-4d71-90be-87e2e9ff51b4",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164533,
             "text": "{T}: Add {C}.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land.",
             "type": "Land",
             "types": [
@@ -1775,6 +2306,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1784,8 +2316,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
+            "mtgstocksId": 41054,
             "name": "Energy Field",
             "number": "tvdl73",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 4.88,
+                    "2019-05-05": 4.88,
+                    "2019-05-12": 4.85,
+                    "2019-05-19": 4.85,
+                    "2019-05-26": 3.45,
+                    "2019-06-02": 3.45,
+                    "2019-06-09": 4.85,
+                    "2019-06-16": 4.85,
+                    "2019-06-23": 4.97,
+                    "2019-06-30": 5.1,
+                    "2019-07-07": 5.74,
+                    "2019-07-14": 4.88,
+                    "2019-07-21": 5.37
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "USG",
                 "WC00"
@@ -1806,6 +2357,7 @@
             "scryfallOracleId": "fbf7a7f4-9915-4a53-84b3-e55e9f487323",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164252,
             "text": "Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field.",
             "type": "Enchantment",
             "types": [
@@ -1828,6 +2380,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1837,8 +2390,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgstocksId": 41173,
             "name": "Energy Flux",
             "number": "nl78sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.99,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.99,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.99,
+                    "2019-06-09": 0.99,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 0.99,
+                    "2019-07-14": 0.99,
+                    "2019-07-21": 1.0
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "3ED",
                 "4BB",
@@ -1860,6 +2432,7 @@
             "scryfallOracleId": "7a756cd1-29a8-4edf-bb74-fbb5b4020022",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164501,
             "text": "All artifacts have \"At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.\"",
             "type": "Enchantment",
             "types": [
@@ -1882,6 +2455,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1891,8 +2465,16 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgstocksId": 41179,
             "name": "Enlightened Tutor",
             "number": "nl19",
+            "prices": {
+                "paper": {
+                    "2019-05-12": 9.78,
+                    "2019-06-23": 7.18
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "EMA",
@@ -1914,6 +2496,7 @@
             "scryfallOracleId": "c5229c17-b7be-4b05-b683-f2277edc4849",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164502,
             "text": "Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.",
             "type": "Instant",
             "types": [
@@ -1939,6 +2522,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1948,8 +2532,21 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgstocksId": 41063,
             "name": "Enlightened Tutor",
             "number": "tvdl19",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 10.84,
+                    "2019-05-05": 19.99,
+                    "2019-06-23": 11.24,
+                    "2019-06-30": 19.99,
+                    "2019-07-07": 19.99,
+                    "2019-07-14": 19.99,
+                    "2019-07-21": 18.99
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "EMA",
@@ -1971,6 +2568,7 @@
             "scryfallOracleId": "c5229c17-b7be-4b05-b683-f2277edc4849",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164253,
             "text": "Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.",
             "type": "Instant",
             "types": [
@@ -1996,6 +2594,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2009,8 +2608,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgstocksId": 41056,
             "name": "Erase",
             "number": "tvdl7sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 3.0,
+                    "2019-05-05": 3.0,
+                    "2019-05-12": 0.75,
+                    "2019-05-19": 0.73,
+                    "2019-05-26": 0.51,
+                    "2019-06-02": 0.75,
+                    "2019-06-09": 0.75,
+                    "2019-06-16": 0.75,
+                    "2019-06-23": 3.0,
+                    "2019-06-30": 3.0,
+                    "2019-07-07": 3.0,
+                    "2019-07-14": 0.75,
+                    "2019-07-21": 1.23
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "KTK",
                 "M13",
@@ -2029,6 +2647,7 @@
             "scryfallOracleId": "c2ceb15c-5d02-4cf4-a7c9-c1a40b7ca667",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164254,
             "text": "Exile target enchantment.",
             "type": "Instant",
             "types": [
@@ -2051,6 +2670,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2061,8 +2681,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgstocksId": 41176,
             "name": "Fecundity",
             "number": "nl251",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.76,
+                    "2019-05-05": 0.66,
+                    "2019-05-12": 0.85,
+                    "2019-05-19": 0.85,
+                    "2019-05-26": 0.86,
+                    "2019-06-02": 0.86,
+                    "2019-06-09": 0.85,
+                    "2019-06-16": 0.86,
+                    "2019-06-23": 1.13,
+                    "2019-06-30": 1.13,
+                    "2019-07-07": 1.13,
+                    "2019-07-14": 0.95,
+                    "2019-07-21": 0.76
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "8ED",
                 "BRB",
@@ -2083,6 +2722,7 @@
             "scryfallOracleId": "ffa64ac6-fe55-48b8-b015-849982cd7ad8",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164503,
             "text": "Whenever a creature dies, that creature's controller may draw a card.",
             "type": "Enchantment",
             "types": [
@@ -2104,6 +2744,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2113,8 +2754,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgstocksId": 41209,
             "name": "Flameshot",
             "number": "jk90sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.15,
+                    "2019-05-05": 0.18,
+                    "2019-05-12": 0.18,
+                    "2019-05-19": 0.18,
+                    "2019-05-26": 0.15,
+                    "2019-06-02": 0.15,
+                    "2019-06-09": 0.18,
+                    "2019-06-16": 0.18,
+                    "2019-06-23": 0.2,
+                    "2019-06-30": 0.23,
+                    "2019-07-07": 0.23,
+                    "2019-07-14": 0.2,
+                    "2019-07-21": 0.23
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "PCY",
                 "WC00"
@@ -2131,6 +2791,7 @@
             "scryfallOracleId": "26640648-6400-4b80-a78b-f519ab9cd09e",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164534,
             "text": "You may discard a Mountain card rather than pay this spell's mana cost.\nFlameshot deals 3 damage divided as you choose among one, two, or three target creatures.",
             "type": "Sorcery",
             "types": [
@@ -2150,6 +2811,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2167,17 +2829,44 @@
             "name": "Forest",
             "number": "jk347",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD1",
+                "DDD",
+                "DDE",
+                "DDG",
+                "DDH",
+                "DDJ",
                 "DDL",
                 "DDM",
                 "DDO",
@@ -2185,10 +2874,13 @@
                 "DDR",
                 "DDS",
                 "DDU",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
                 "EVG",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -2197,31 +2889,104 @@
                 "GRN",
                 "GS1",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
+                "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -2256,6 +3021,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2273,17 +3039,44 @@
             "name": "Forest",
             "number": "nl347",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD1",
+                "DDD",
+                "DDE",
+                "DDG",
+                "DDH",
+                "DDJ",
                 "DDL",
                 "DDM",
                 "DDO",
@@ -2291,10 +3084,13 @@
                 "DDR",
                 "DDS",
                 "DDU",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
                 "EVG",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -2303,31 +3099,104 @@
                 "GRN",
                 "GS1",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
+                "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -2365,6 +3234,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2372,11 +3242,31 @@
                 "duel": "Legal",
                 "legacy": "Banned",
                 "pauper": "Banned",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgstocksId": 41057,
             "name": "Frantic Search",
             "number": "tvdl32",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.99,
+                    "2019-05-05": 2.99,
+                    "2019-05-12": 2.99,
+                    "2019-05-19": 2.99,
+                    "2019-05-26": 2.62,
+                    "2019-06-02": 2.6,
+                    "2019-06-09": 2.99,
+                    "2019-06-16": 2.62,
+                    "2019-06-23": 2.97,
+                    "2019-06-30": 2.98,
+                    "2019-07-07": 2.98,
+                    "2019-07-14": 2.99,
+                    "2019-07-21": 2.99
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "ULG",
                 "UMA",
@@ -2399,6 +3289,7 @@
             "scryfallOracleId": "16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164255,
             "text": "Draw two cards, then discard two cards. Untap up to three lands.",
             "type": "Instant",
             "types": [
@@ -2417,6 +3308,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -2462,6 +3354,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2471,8 +3364,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgstocksId": 41177,
             "name": "Heart of Ramos",
             "number": "nl296sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.45,
+                    "2019-05-05": 0.45,
+                    "2019-05-12": 0.45,
+                    "2019-05-19": 0.45,
+                    "2019-05-26": 0.45,
+                    "2019-06-02": 0.45,
+                    "2019-06-09": 0.45,
+                    "2019-06-16": 0.46,
+                    "2019-06-23": 0.49,
+                    "2019-06-30": 0.49,
+                    "2019-07-07": 0.49,
+                    "2019-07-14": 0.46,
+                    "2019-07-21": 0.46
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "MMQ",
                 "WC00"
@@ -2489,6 +3401,7 @@
             "scryfallOracleId": "4c774c6e-c5a0-4018-b494-d3c521d2cac3",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164505,
             "text": "{T}: Add {R}.\nSacrifice Heart of Ramos: Add {R}.",
             "type": "Artifact",
             "types": [
@@ -2507,6 +3420,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2515,8 +3429,16 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41182,
             "name": "High Market",
             "number": "nl320b",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.14,
+                    "2019-05-12": 1.23
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "C15",
                 "CMA",
@@ -2531,6 +3453,7 @@
             "scryfallOracleId": "86fb3749-37d6-48a6-8524-71e996850307",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164506,
             "text": "{T}: Add {C}.\n{T}, Sacrifice a creature: You gain 1 life.",
             "type": "Land",
             "types": [
@@ -2550,6 +3473,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2564,20 +3488,64 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 40986,
             "name": "Island",
             "number": "jf335",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.99,
+                    "2019-05-05": 2.99,
+                    "2019-05-12": 2.84,
+                    "2019-05-19": 2.73,
+                    "2019-05-26": 1.99,
+                    "2019-06-02": 2.47,
+                    "2019-06-09": 1.99,
+                    "2019-06-16": 1.99,
+                    "2019-06-23": 2.47,
+                    "2019-06-30": 2.47,
+                    "2019-07-07": 2.94,
+                    "2019-07-14": 2.47,
+                    "2019-07-21": 2.94
+                },
+                "paperFoil": {}
+            },
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD2",
+                "DDE",
+                "DDF",
+                "DDH",
+                "DDI",
                 "DDJ",
                 "DDM",
                 "DDN",
@@ -2587,8 +3555,10 @@
                 "DDT",
                 "DDU",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -2596,35 +3566,105 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "JVC",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL02",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -2637,6 +3677,7 @@
             "supertypes": [
                 "Basic"
             ],
+            "tcgplayerProductId": 163894,
             "text": "({T}: Add {U}.)",
             "type": "Basic Land — Island",
             "types": [
@@ -2659,6 +3700,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2673,20 +3715,64 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41060,
             "name": "Island",
             "number": "tvdl335",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.87,
+                    "2019-05-05": 1.62,
+                    "2019-05-12": 0.25,
+                    "2019-05-19": 0.25,
+                    "2019-05-26": 0.25,
+                    "2019-06-02": 0.25,
+                    "2019-06-09": 0.25,
+                    "2019-06-16": 0.35,
+                    "2019-06-23": 0.45,
+                    "2019-06-30": 1.62,
+                    "2019-07-07": 1.62,
+                    "2019-07-14": 1.62,
+                    "2019-07-21": 2.84
+                },
+                "paperFoil": {}
+            },
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD2",
+                "DDE",
+                "DDF",
+                "DDH",
+                "DDI",
                 "DDJ",
                 "DDM",
                 "DDN",
@@ -2696,8 +3782,10 @@
                 "DDT",
                 "DDU",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -2705,35 +3793,105 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "JVC",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL02",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -2746,6 +3904,7 @@
             "supertypes": [
                 "Basic"
             ],
+            "tcgplayerProductId": 164256,
             "text": "({T}: Add {U}.)",
             "type": "Basic Land — Island",
             "types": [
@@ -2769,6 +3928,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2824,13 +3984,13 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}",
@@ -2869,6 +4029,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2878,8 +4039,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
+            "mtgstocksId": 41058,
             "name": "Lilting Refrain",
             "number": "tvdl83sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 6.99,
+                    "2019-05-05": 6.99,
+                    "2019-05-12": 7.45,
+                    "2019-05-19": 4.95,
+                    "2019-05-26": 0.45,
+                    "2019-06-02": 0.49,
+                    "2019-06-09": 4.95,
+                    "2019-06-16": 0.49,
+                    "2019-06-23": 6.99,
+                    "2019-06-30": 3.73,
+                    "2019-07-07": 0.46,
+                    "2019-07-14": 0.46,
+                    "2019-07-21": 0.7
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "USG",
                 "WC00"
@@ -2896,6 +4076,7 @@
             "scryfallOracleId": "f91a71b7-9bc0-4609-a312-ffede52dc0ad",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164257,
             "text": "At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.",
             "type": "Enchantment",
             "types": [
@@ -2918,6 +4099,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2929,7 +4111,6 @@
                 "modern": "Legal",
                 "oldschool": "Legal",
                 "pauper": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -3013,6 +4194,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3024,7 +4206,6 @@
                 "modern": "Legal",
                 "oldschool": "Legal",
                 "pauper": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -3103,6 +4284,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -3110,6 +4292,7 @@
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
@@ -3155,6 +4338,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -3162,6 +4346,7 @@
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
@@ -3207,6 +4392,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -3214,6 +4400,7 @@
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
@@ -3260,6 +4447,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3270,8 +4458,17 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}",
+            "mtgstocksId": 41181,
             "name": "Meekstone",
             "number": "nl299sb",
+            "prices": {
+                "paper": {
+                    "2019-05-12": 3.22,
+                    "2019-05-19": 4.51,
+                    "2019-05-26": 6.17
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "2ED",
                 "3ED",
@@ -3298,6 +4495,7 @@
             "scryfallOracleId": "5ba73182-30a7-4bad-9cb6-c0feecc2db33",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164509,
             "text": "Creatures with power 3 or greater don't untap during their controllers' untap steps.",
             "type": "Artifact",
             "types": [
@@ -3316,6 +4514,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -3326,9 +4525,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgstocksId": 40993,
             "name": "Metalworker",
             "number": "jf135",
             "power": "1",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 14.89,
+                    "2019-05-05": 14.95,
+                    "2019-05-12": 14.94,
+                    "2019-05-19": 14.89,
+                    "2019-05-26": 14.89,
+                    "2019-06-02": 14.62,
+                    "2019-06-09": 14.62,
+                    "2019-06-16": 14.28,
+                    "2019-06-23": 13.75,
+                    "2019-06-30": 13.91,
+                    "2019-07-07": 13.6,
+                    "2019-07-14": 13.76,
+                    "2019-07-21": 13.75
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "PRM",
                 "UDS",
@@ -3352,6 +4570,7 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 163898,
             "text": "{T}: Reveal any number of artifact cards in your hand. Add {C}{C} for each card revealed this way.",
             "toughness": "2",
             "type": "Artifact Creature — Construct",
@@ -3375,6 +4594,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3421,12 +4641,14 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
@@ -3470,12 +4692,14 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
@@ -3520,6 +4744,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3537,17 +4762,45 @@
             "name": "Mountain",
             "number": "jk343",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ARN",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD1",
+                "DD2",
+                "DDE",
+                "DDG",
+                "DDH",
+                "DDI",
                 "DDJ",
                 "DDK",
                 "DDL",
@@ -3556,10 +4809,13 @@
                 "DDS",
                 "DDT",
                 "DDU",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
                 "EVG",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -3567,33 +4823,104 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "JVC",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PD2",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -3628,6 +4955,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3637,8 +4965,27 @@
                 "vintage": "Restricted"
             },
             "manaCost": "{U}",
+            "mtgstocksId": 41062,
             "name": "Mystical Tutor",
             "number": "tvdl83",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 4.99,
+                    "2019-05-05": 4.99,
+                    "2019-05-12": 4.99,
+                    "2019-05-19": 4.99,
+                    "2019-05-26": 7.89,
+                    "2019-06-02": 7.89,
+                    "2019-06-09": 6.44,
+                    "2019-06-16": 7.88,
+                    "2019-06-23": 7.88,
+                    "2019-06-30": 8.28,
+                    "2019-07-07": 8.92,
+                    "2019-07-14": 7.88,
+                    "2019-07-21": 7.59
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "EMA",
@@ -3660,6 +5007,7 @@
             "scryfallOracleId": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164258,
             "text": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.",
             "type": "Instant",
             "types": [
@@ -3681,6 +5029,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -3742,6 +5091,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3751,8 +5101,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}{U}",
+            "mtgstocksId": 41061,
             "name": "Parallax Tide",
             "number": "tvdl37",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 3.75,
+                    "2019-05-05": 4.5,
+                    "2019-05-12": 3.63,
+                    "2019-05-19": 3.63,
+                    "2019-05-26": 3.73,
+                    "2019-06-02": 2.75,
+                    "2019-06-09": 2.75,
+                    "2019-06-16": 2.75,
+                    "2019-06-23": 2.75,
+                    "2019-06-30": 2.75,
+                    "2019-07-07": 2.36,
+                    "2019-07-14": 2.36,
+                    "2019-07-21": 1.97
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "WC00"
@@ -3764,6 +5133,7 @@
             "scryfallOracleId": "e36a92be-537d-4a63-858a-afaab064fbf7",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164260,
             "text": "Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Parallax Tide: Exile target land.\nWhen Parallax Tide leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Tide.",
             "type": "Enchantment",
             "types": [
@@ -3785,13 +5155,13 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
@@ -3833,13 +5203,13 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
@@ -3881,6 +5251,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3932,6 +5303,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3981,6 +5353,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4033,6 +5406,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4085,6 +5459,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4137,6 +5512,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4192,6 +5568,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4200,8 +5577,27 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41191,
             "name": "Phyrexian Tower",
             "number": "nl322",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 11.0,
+                    "2019-05-05": 11.0,
+                    "2019-05-12": 10.23,
+                    "2019-05-19": 10.23,
+                    "2019-05-26": 11.12,
+                    "2019-06-02": 11.12,
+                    "2019-06-09": 10.11,
+                    "2019-06-16": 11.12,
+                    "2019-06-23": 10.11,
+                    "2019-06-30": 10.01,
+                    "2019-07-07": 10.01,
+                    "2019-07-14": 10.01,
+                    "2019-07-21": 10.01
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "UMA",
                 "USG",
@@ -4216,6 +5612,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 164515,
             "text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}.",
             "type": "Legendary Land",
             "types": [
@@ -4235,6 +5632,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4252,17 +5650,43 @@
             "name": "Plains",
             "number": "tvdl331",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDE",
+                "DDF",
+                "DDG",
+                "DDH",
+                "DDI",
                 "DDK",
                 "DDL",
                 "DDN",
@@ -4273,6 +5697,7 @@
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -4280,36 +5705,104 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
                 "PDGM",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -4344,6 +5837,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4396,6 +5890,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4406,9 +5901,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgstocksId": 41189,
             "name": "Priest of Titania",
             "number": "jk270",
             "power": "1",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.87,
+                    "2019-05-05": 1.87,
+                    "2019-05-12": 1.87,
+                    "2019-05-19": 1.87,
+                    "2019-05-26": 3.51,
+                    "2019-06-02": 2.44,
+                    "2019-06-09": 1.91,
+                    "2019-06-16": 1.95,
+                    "2019-06-23": 1.82,
+                    "2019-06-30": 1.71,
+                    "2019-07-07": 0.88,
+                    "2019-07-14": 1.68,
+                    "2019-07-21": 1.75
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "C14",
                 "CMA",
@@ -4432,6 +5946,7 @@
                 "Druid"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164516,
             "text": "{T}: Add {G} for each Elf on the battlefield.",
             "toughness": "1",
             "type": "Creature — Elf Druid",
@@ -4458,6 +5973,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4468,9 +5984,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgstocksId": 41220,
             "name": "Priest of Titania",
             "number": "nl270",
             "power": "1",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.14,
+                    "2019-05-05": 2.07,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.99,
+                    "2019-05-26": 1.99,
+                    "2019-06-02": 1.8,
+                    "2019-06-09": 1.8,
+                    "2019-06-16": 1.89,
+                    "2019-06-23": 1.98,
+                    "2019-06-30": 1.98,
+                    "2019-07-07": 1.98,
+                    "2019-07-14": 2.06,
+                    "2019-07-21": 2.57
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "C14",
                 "CMA",
@@ -4494,6 +6029,7 @@
                 "Druid"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164546,
             "text": "{T}: Add {G} for each Elf on the battlefield.",
             "toughness": "1",
             "type": "Creature — Elf Druid",
@@ -4520,6 +6056,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4530,8 +6067,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgstocksId": 41211,
             "name": "Rack and Ruin",
             "number": "jk89sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.4,
+                    "2019-05-05": 0.39,
+                    "2019-05-12": 0.31,
+                    "2019-05-19": 0.31,
+                    "2019-05-26": 0.29,
+                    "2019-06-02": 0.3,
+                    "2019-06-09": 0.32,
+                    "2019-06-16": 0.3,
+                    "2019-06-23": 2.7,
+                    "2019-06-30": 0.46,
+                    "2019-07-07": 0.46,
+                    "2019-07-14": 0.4,
+                    "2019-07-21": 0.43
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "ULG",
                 "WC00",
@@ -4549,6 +6105,7 @@
             "scryfallOracleId": "e04552f4-41c1-40f3-996e-de796c9967e4",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164547,
             "text": "Destroy two target artifacts.",
             "type": "Instant",
             "types": [
@@ -4571,6 +6128,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -4581,8 +6139,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}",
+            "mtgstocksId": 41070,
             "name": "Replenish",
             "number": "tvdl15",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 24.98,
+                    "2019-05-05": 24.98,
+                    "2019-05-12": 27.48,
+                    "2019-05-19": 27.48,
+                    "2019-05-26": 32.97,
+                    "2019-06-02": 32.97,
+                    "2019-06-09": 29.98,
+                    "2019-06-16": 29.98,
+                    "2019-06-23": 27.49,
+                    "2019-06-30": 22.47,
+                    "2019-07-07": 21.85,
+                    "2019-07-14": 20.22,
+                    "2019-07-21": 19.77
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "UDS",
                 "WC00"
@@ -4607,6 +6184,7 @@
             "scryfallOracleId": "523ae937-5535-490d-96ea-07f331b5e5ad",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164263,
             "text": "Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)",
             "type": "Sorcery",
             "types": [
@@ -4625,6 +6203,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4677,6 +6256,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4729,6 +6309,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4785,6 +6366,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4794,8 +6376,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}",
+            "mtgstocksId": 40997,
             "name": "Rising Waters",
             "number": "jf38sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.75,
+                    "2019-05-05": 0.72,
+                    "2019-05-12": 0.74,
+                    "2019-05-19": 0.74,
+                    "2019-05-26": 0.74,
+                    "2019-06-02": 0.74,
+                    "2019-06-09": 0.7,
+                    "2019-06-16": 0.71,
+                    "2019-06-23": 0.74,
+                    "2019-06-30": 0.79,
+                    "2019-07-07": 0.74,
+                    "2019-07-14": 0.74,
+                    "2019-07-21": 0.87
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "WC00"
@@ -4807,6 +6408,7 @@
             "scryfallOracleId": "d4cbf380-1a05-48ea-9187-de931b00866d",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163922,
             "text": "Lands don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player untaps a land they control.",
             "type": "Enchantment",
             "types": [
@@ -4826,6 +6428,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4835,8 +6438,27 @@
                 "pauper": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 40999,
             "name": "Saprazzan Skerry",
             "number": "jf328",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.56,
+                    "2019-05-05": 0.53,
+                    "2019-05-12": 0.5,
+                    "2019-05-19": 0.47,
+                    "2019-05-26": 0.44,
+                    "2019-06-02": 0.44,
+                    "2019-06-09": 0.44,
+                    "2019-06-16": 0.44,
+                    "2019-06-23": 0.47,
+                    "2019-06-30": 0.5,
+                    "2019-07-07": 0.5,
+                    "2019-07-14": 0.5,
+                    "2019-07-21": 0.59
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "MMQ",
                 "WC00"
@@ -4848,6 +6470,7 @@
             "scryfallOracleId": "e4e6e796-39ce-4a63-8c61-c7c956d75d78",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163923,
             "text": "Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U}. If there are no depletion counters on Saprazzan Skerry, sacrifice it.",
             "type": "Land",
             "types": [
@@ -4869,6 +6492,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4879,8 +6503,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{G}",
+            "mtgstocksId": 41221,
             "name": "Saproling Burst",
             "number": "jk113",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.59,
+                    "2019-05-05": 0.59,
+                    "2019-05-12": 0.59,
+                    "2019-05-19": 0.59,
+                    "2019-05-26": 0.59,
+                    "2019-06-02": 0.59,
+                    "2019-06-09": 0.59,
+                    "2019-06-16": 0.59,
+                    "2019-06-23": 0.59,
+                    "2019-06-30": 0.59,
+                    "2019-07-07": 0.59,
+                    "2019-07-14": 0.59,
+                    "2019-07-21": 0.59
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "VMA",
@@ -4899,6 +6542,7 @@
             "scryfallOracleId": "7b31ecf8-5266-4376-ace0-8b873706c4ea",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164549,
             "text": "Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Saproling Burst: Create a green Saproling creature token. It has \"This creature's power and toughness are each equal to the number of fade counters on Saproling Burst.\"\nWhen Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can't be regenerated.",
             "type": "Enchantment",
             "types": [
@@ -4920,6 +6564,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4929,8 +6574,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgstocksId": 41188,
             "name": "Saproling Cluster",
             "number": "nl114",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.87,
+                    "2019-05-05": 0.87,
+                    "2019-05-12": 0.75,
+                    "2019-05-19": 0.75,
+                    "2019-05-26": 0.51,
+                    "2019-06-02": 0.63,
+                    "2019-06-09": 0.75,
+                    "2019-06-16": 0.75,
+                    "2019-06-23": 0.87,
+                    "2019-06-30": 0.87,
+                    "2019-07-07": 0.87,
+                    "2019-07-14": 0.75,
+                    "2019-07-21": 0.75
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "WC00"
@@ -4942,6 +6606,7 @@
             "scryfallOracleId": "3b64051e-d320-4991-bc9e-6e1435a23c17",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164517,
             "text": "{1}, Discard a card: Create a 1/1 green Saproling creature token. Any player may activate this ability.",
             "type": "Enchantment",
             "types": [
@@ -4964,6 +6629,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5025,6 +6691,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5086,6 +6753,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5147,6 +6815,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5157,8 +6826,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{U}",
+            "mtgstocksId": 41068,
             "name": "Seal of Removal",
             "number": "tvdl42",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.99,
+                    "2019-05-05": 2.99,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.75,
+                    "2019-05-26": 1.5,
+                    "2019-06-02": 1.5,
+                    "2019-06-09": 1.75,
+                    "2019-06-16": 1.5,
+                    "2019-06-23": 1.5,
+                    "2019-06-30": 1.5,
+                    "2019-07-07": 1.15,
+                    "2019-07-14": 1.5,
+                    "2019-07-21": 1.5
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "WC00"
@@ -5170,6 +6858,7 @@
             "scryfallOracleId": "f0801029-bcf7-4bdb-84bf-e88dcaa9dc03",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164267,
             "text": "Sacrifice Seal of Removal: Return target creature to its owner's hand.",
             "type": "Enchantment",
             "types": [
@@ -5191,6 +6880,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5262,6 +6952,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5305,6 +6996,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5314,8 +7006,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
+            "mtgstocksId": 41195,
             "name": "Snake Basket",
             "number": "nl312",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 7.75,
+                    "2019-05-05": 7.75,
+                    "2019-05-12": 4.95,
+                    "2019-05-19": 5.47,
+                    "2019-05-26": 5.0,
+                    "2019-06-02": 5.0,
+                    "2019-06-09": 4.95,
+                    "2019-06-16": 6.25,
+                    "2019-06-23": 6.25,
+                    "2019-06-30": 6.25,
+                    "2019-07-07": 6.25,
+                    "2019-07-14": 4.95,
+                    "2019-07-21": 4.95
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "VIS",
@@ -5333,6 +7044,7 @@
             "scryfallOracleId": "12236231-7c6e-4edc-87dc-737115843185",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164520,
             "text": "{X}, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery.",
             "type": "Artifact",
             "types": [
@@ -5354,6 +7066,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5361,11 +7074,31 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgstocksId": 41223,
             "name": "Splinter",
             "number": "jk121sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.55,
+                    "2019-05-05": 0.6,
+                    "2019-05-12": 0.99,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.69,
+                    "2019-06-02": 0.69,
+                    "2019-06-09": 0.99,
+                    "2019-06-16": 0.49,
+                    "2019-06-23": 0.49,
+                    "2019-06-30": 0.49,
+                    "2019-07-07": 0.49,
+                    "2019-07-14": 0.78,
+                    "2019-07-21": 0.99
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "BOK",
                 "UDS",
@@ -5391,6 +7124,7 @@
             "scryfallOracleId": "90f01e9f-68f1-4e41-97dc-8de990a91504",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164550,
             "text": "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library.",
             "type": "Sorcery",
             "types": [
@@ -5412,6 +7146,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5420,11 +7155,31 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgstocksId": 41224,
             "name": "Stone Rain",
             "number": "jk209",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.25,
+                    "2019-05-05": 0.25,
+                    "2019-05-12": 0.25,
+                    "2019-05-19": 0.25,
+                    "2019-05-26": 0.25,
+                    "2019-06-02": 0.25,
+                    "2019-06-09": 0.25,
+                    "2019-06-16": 0.25,
+                    "2019-06-23": 0.25,
+                    "2019-06-30": 0.25,
+                    "2019-07-07": 0.25,
+                    "2019-07-14": 0.25,
+                    "2019-07-21": 0.25
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "2ED",
                 "3ED",
@@ -5462,6 +7217,7 @@
             "scryfallOracleId": "6e880df6-fc00-43d2-a9c8-f575f40b78c6",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164551,
             "text": "Destroy target land.",
             "type": "Sorcery",
             "types": [
@@ -5483,6 +7239,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5492,8 +7249,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}",
+            "mtgstocksId": 41071,
             "name": "Submerge",
             "number": "tvdl48sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.1,
+                    "2019-05-05": 2.1,
+                    "2019-05-12": 2.0,
+                    "2019-05-19": 2.05,
+                    "2019-05-26": 2.1,
+                    "2019-06-02": 2.05,
+                    "2019-06-09": 2.0,
+                    "2019-06-16": 2.05,
+                    "2019-06-23": 2.55,
+                    "2019-06-30": 2.05,
+                    "2019-07-07": 2.05,
+                    "2019-07-14": 1.99,
+                    "2019-07-21": 1.89
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "WC00"
@@ -5505,6 +7281,7 @@
             "scryfallOracleId": "99427ebe-c00d-4206-84ca-9764f6e952c6",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164269,
             "text": "If an opponent controls a Forest and you control an Island, you may cast this spell without paying its mana cost.\nPut target creature on top of its owner's library.",
             "type": "Instant",
             "types": [
@@ -5522,6 +7299,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5531,8 +7309,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgstocksId": 41002,
             "name": "Tangle Wire",
             "number": "jf139a",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 2.07,
+                    "2019-05-05": 2.0,
+                    "2019-05-12": 2.0,
+                    "2019-05-19": 2.0,
+                    "2019-05-26": 1.75,
+                    "2019-06-02": 1.88,
+                    "2019-06-09": 1.88,
+                    "2019-06-16": 1.75,
+                    "2019-06-23": 1.75,
+                    "2019-06-30": 1.84,
+                    "2019-07-07": 1.84,
+                    "2019-07-14": 1.93,
+                    "2019-07-21": 1.97
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "NEM",
                 "V13",
@@ -5545,6 +7342,7 @@
             "scryfallOracleId": "c4ea0931-43e0-4214-9e0b-213eee3a7e69",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163924,
             "text": "Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nAt the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land they control for each fade counter on Tangle Wire.",
             "type": "Artifact",
             "types": [
@@ -5562,6 +7360,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5607,6 +7406,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5615,8 +7415,27 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgstocksId": 41194,
             "name": "Thran Quarry",
             "number": "nl329",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 1.76,
+                    "2019-05-05": 1.76,
+                    "2019-05-12": 1.76,
+                    "2019-05-19": 1.64,
+                    "2019-05-26": 1.47,
+                    "2019-06-02": 1.47,
+                    "2019-06-09": 1.51,
+                    "2019-06-16": 1.63,
+                    "2019-06-23": 1.88,
+                    "2019-06-30": 1.88,
+                    "2019-07-07": 1.81,
+                    "2019-07-14": 1.68,
+                    "2019-07-21": 1.64
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "PRM",
                 "PSUS",
@@ -5635,6 +7454,7 @@
             "scryfallOracleId": "57b4da3f-361a-4cbe-b77f-190ec33eefd8",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164521,
             "text": "At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color.",
             "type": "Land",
             "types": [
@@ -5657,6 +7477,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5707,6 +7528,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5717,9 +7539,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgstocksId": 41225,
             "name": "Uktabi Orangutan",
             "number": "jk260sb",
             "power": "2",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.75,
+                    "2019-05-05": 0.75,
+                    "2019-05-12": 0.75,
+                    "2019-05-19": 0.75,
+                    "2019-05-26": 0.75,
+                    "2019-06-02": 0.75,
+                    "2019-06-09": 0.75,
+                    "2019-06-16": 0.75,
+                    "2019-06-23": 0.83,
+                    "2019-06-30": 0.75,
+                    "2019-07-07": 0.75,
+                    "2019-07-14": 0.75,
+                    "2019-07-21": 0.75
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "6ED",
                 "PAL00",
@@ -5739,6 +7580,7 @@
                 "Ape"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 164552,
             "text": "When Uktabi Orangutan enters the battlefield, destroy target artifact.",
             "toughness": "2",
             "type": "Creature — Ape",
@@ -5758,6 +7600,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5768,8 +7611,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}",
+            "mtgstocksId": 41011,
             "name": "Voltaic Key",
             "number": "jf314",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.67,
+                    "2019-05-05": 0.59,
+                    "2019-05-12": 0.59,
+                    "2019-05-19": 0.69,
+                    "2019-05-26": 0.35,
+                    "2019-06-02": 0.47,
+                    "2019-06-09": 0.35,
+                    "2019-06-16": 0.35,
+                    "2019-06-23": 0.37,
+                    "2019-06-30": 0.37,
+                    "2019-07-07": 0.37,
+                    "2019-07-14": 0.38,
+                    "2019-07-21": 0.35
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "DDE",
                 "M11",
@@ -5784,6 +7646,7 @@
             "scryfallOracleId": "09aeea91-b1dc-443f-a509-4758f052c0a7",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 163927,
             "text": "{1}, {T}: Untap target artifact.",
             "type": "Artifact",
             "types": [
@@ -5802,18 +7665,37 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgstocksId": 41197,
             "name": "Whetstone",
             "number": "nl316",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 0.48,
+                    "2019-05-05": 0.48,
+                    "2019-05-12": 0.48,
+                    "2019-05-19": 0.41,
+                    "2019-05-26": 0.59,
+                    "2019-06-02": 0.7,
+                    "2019-06-09": 0.39,
+                    "2019-06-16": 0.44,
+                    "2019-06-23": 0.48,
+                    "2019-06-30": 0.48,
+                    "2019-07-07": 0.48,
+                    "2019-07-14": 0.39,
+                    "2019-07-21": 0.39
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "USG",
                 "WC00"
@@ -5838,6 +7720,7 @@
             "scryfallOracleId": "940e461c-b205-4075-bd1f-a1534c33db6c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164522,
             "text": "{3}: Each player puts the top two cards of their library into their graveyard.",
             "type": "Artifact",
             "types": [
@@ -5860,6 +7743,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5918,6 +7802,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5929,8 +7814,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
+            "mtgstocksId": 41072,
             "name": "Wrath of God",
             "number": "tvdl54",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 11.99,
+                    "2019-05-05": 11.99,
+                    "2019-05-12": 11.99,
+                    "2019-05-19": 11.99,
+                    "2019-05-26": 12.15,
+                    "2019-06-02": 12.15,
+                    "2019-06-09": 12.05,
+                    "2019-06-16": 12.14,
+                    "2019-06-23": 12.14,
+                    "2019-06-30": 6.99,
+                    "2019-07-07": 7.54,
+                    "2019-07-14": 11.24,
+                    "2019-07-21": 2.84
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "2ED",
@@ -5969,6 +7873,7 @@
             "scryfallOracleId": "34515b16-c9a4-4f98-8c77-416a7a523407",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164272,
             "text": "Destroy all creatures. They can't be regenerated.",
             "type": "Sorcery",
             "types": [
@@ -5993,6 +7898,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6004,8 +7910,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
+            "mtgstocksId": 41077,
             "name": "Wrath of God",
             "number": "tvdl54sb",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 4.7,
+                    "2019-05-05": 8.99,
+                    "2019-05-12": 8.99,
+                    "2019-05-19": 8.99,
+                    "2019-05-26": 8.99,
+                    "2019-06-02": 8.99,
+                    "2019-06-09": 8.99,
+                    "2019-06-16": 8.99,
+                    "2019-06-23": 6.99,
+                    "2019-06-30": 6.99,
+                    "2019-07-07": 6.99,
+                    "2019-07-14": 6.99,
+                    "2019-07-21": 6.99
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "10E",
                 "2ED",
@@ -6044,6 +7969,7 @@
             "scryfallOracleId": "34515b16-c9a4-4f98-8c77-416a7a523407",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164270,
             "text": "Destroy all creatures. They can't be regenerated.",
             "type": "Sorcery",
             "types": [
@@ -6069,6 +7995,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -6079,8 +8006,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{B}{B}",
+            "mtgstocksId": 41196,
             "name": "Yawgmoth's Bargain",
             "number": "nl75",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 4.99,
+                    "2019-05-05": 4.99,
+                    "2019-05-12": 4.93,
+                    "2019-05-19": 4.87,
+                    "2019-05-26": 4.93,
+                    "2019-06-02": 4.7,
+                    "2019-06-09": 4.99,
+                    "2019-06-16": 4.99,
+                    "2019-06-23": 4.99,
+                    "2019-06-30": 4.99,
+                    "2019-07-07": 4.99,
+                    "2019-07-14": 4.98,
+                    "2019-07-21": 4.93
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "UDS",
                 "VMA",
@@ -6093,6 +8039,7 @@
             "scryfallOracleId": "f7f76f39-a0de-4bda-86b6-0f291892fcec",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164524,
             "text": "Skip your draw step.\nPay 1 life: Draw a card.",
             "type": "Enchantment",
             "types": [
@@ -6114,6 +8061,7 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -6124,8 +8072,27 @@
                 "vintage": "Restricted"
             },
             "manaCost": "{2}{B}",
+            "mtgstocksId": 41199,
             "name": "Yawgmoth's Will",
             "number": "nl171",
+            "prices": {
+                "paper": {
+                    "2019-04-28": 31.4,
+                    "2019-05-05": 31.4,
+                    "2019-05-12": 30.63,
+                    "2019-05-19": 29.77,
+                    "2019-05-26": 29.77,
+                    "2019-06-02": 29.77,
+                    "2019-06-09": 29.77,
+                    "2019-06-16": 29.77,
+                    "2019-06-23": 32.16,
+                    "2019-06-30": 29.77,
+                    "2019-07-07": 28.91,
+                    "2019-07-14": 28.91,
+                    "2019-07-21": 29.61
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "G07",
                 "PRM",
@@ -6170,6 +8137,7 @@
             "scryfallOracleId": "322f0459-f394-44f0-977b-55fd0cbe0712",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 164525,
             "text": "Until end of turn, you may play cards from your graveyard.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead.",
             "type": "Sorcery",
             "types": [
@@ -6183,9 +8151,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "World Championship Decks 2000",
     "releaseDate": "2000-08-02",

@@ -4,9 +4,9 @@
 <Name>Sorin, Lord of Innistrad</Name>
 <Type>Legendary Planeswalker — Sorin (Loyalty: 3)</Type>
 <ManaCost>2WB (4)</ManaCost>
-<CardText>[+1]: Create a 1/1 black Vampire creature token with lifelink.
-[-2]: You get an emblem with "Creatures you control get +1/+0."
-[-6]: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.</CardText>
+<CardText>+1: Create a 1/1 black Vampire creature token with lifelink.
+-2: You get an emblem with "Creatures you control get +1/+0."
+-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>368535</Multiverseid>
 <Rulings>2011/01/22: The emblems are cumulative. If you get two of them, creatures you control will get +2/+0.
@@ -711,9 +711,9 @@ Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a b
 <Name>Tibalt, the Fiend-Blooded</Name>
 <Type>Legendary Planeswalker — Tibalt (Loyalty: 2)</Type>
 <ManaCost>RR (2)</ManaCost>
-<CardText>[+1]: Draw a card, then discard a card at random.
-[-4]: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
-[-6]: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.</CardText>
+<CardText>+1: Draw a card, then discard a card at random.
+-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
+-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>368531</Multiverseid>
 <Rulings>2012/05/01: The number of cards in the target player's hand is determined when Tibalt's second ability resolves.

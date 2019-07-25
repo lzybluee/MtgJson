@@ -4643,9 +4643,9 @@ Whenever one or more +1/+1 counters are put on another creature you control, you
 <Name>Narset Transcendent</Name>
 <Type>Legendary Planeswalker — Narset (Loyalty: 6)</Type>
 <ManaCost>2WU (4)</ManaCost>
-<CardText>[+1]: Look at the top card of your library. If it's a noncreature, nonland card, you may reveal it and put it into your hand.
-[-2]: When you cast your next instant or sorcery spell from your hand this turn, it gains rebound. (Exile the spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
-[-9]: You get an emblem with "Your opponents can't cast noncreature spells."</CardText>
+<CardText>+1: Look at the top card of your library. If it's a noncreature, nonland card, you may reveal it and put it into your hand.
+-2: When you cast your next instant or sorcery spell from your hand this turn, it gains rebound. (Exile the spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+-9: You get an emblem with "Your opponents can't cast noncreature spells."</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>394633</Multiverseid>
 <Rulings>2015/02/25: When resolving Narset's first ability, if the top card of your library is a creature or a land card, or if you don't wish to put it into your hand, it isn't revealed.
@@ -4749,9 +4749,9 @@ Whenever you sacrifice a creature, target opponent sacrifices a creature.</CardT
 <Name>Sarkhan Unbroken</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 4)</Type>
 <ManaCost>2GUR (5)</ManaCost>
-<CardText>[+1]: Draw a card, then add one mana of any color.
-[-2]: Create a 4/4 red Dragon creature token with flying.
-[-8]: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
+<CardText>+1: Draw a card, then add one mana of any color.
+-2: Create a 4/4 red Dragon creature token with flying.
+-8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>394675</Multiverseid>
 <Vintage>Legal</Vintage>

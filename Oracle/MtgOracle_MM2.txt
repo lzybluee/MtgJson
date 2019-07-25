@@ -72,9 +72,9 @@ When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner sh
 <Name>Karn Liberated</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 6)</Type>
 <ManaCost>7 (7)</ManaCost>
-<CardText>[+4]: Target player exiles a card from their hand.
-[-3]: Exile target permanent.
-[-14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
+<CardText>+4: Target player exiles a card from their hand.
+-3: Exile target permanent.
+-14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>397828</Multiverseid>
 <Rulings>2018/12/07: A game that restarts immediately ends the preceding game. The players in that game then immediately begin a new game. No player wins, loses, or draws the original game as a result of Karn's ability.
@@ -1226,9 +1226,9 @@ Whenever Surrakar Spellblade deals combat damage to a player, you may draw X car
 <Name>Tezzeret the Seeker</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 4)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>[+1]: Untap up to two target artifacts.
+<CardText>+1: Untap up to two target artifacts.
 -X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
-[-5]: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
+-5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
 <Artist>Anthony Francisco</Artist>
 <Multiverseid>397700</Multiverseid>
 <Rulings>2008/10/01: The first ability can target zero, one, or two artifacts. You may activate it with no targets just to put a loyalty counter on Tezzeret.

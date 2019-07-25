@@ -17,6 +17,9 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -78,6 +81,9 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -149,6 +155,9 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -189,6 +198,7 @@
                 "IMA",
                 "M13",
                 "M15",
+                "M20",
                 "MM2",
                 "ORI",
                 "PRIX",
@@ -230,6 +240,9 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -293,9 +306,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "DTK",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Tarkir Dragonfury",
     "parentCode": "DTK",

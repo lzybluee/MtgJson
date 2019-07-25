@@ -535,9 +535,9 @@ When Dreamcaller Siren enters the battlefield, if you control another Pirate, ta
 <Name>Jace, Cunning Castaway</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>[+1]: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
-[-2]: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
-[-5]: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
+<CardText>+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
+-2: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
+-5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Rulings>2017/09/29: The delayed triggered ability created by Jace's first ability can trigger more than once in a turn if creatures you control deal combat damage at different times in a turn (most likely because one or more has first strike) or if creatures you control deal combat damage to more than one player at once.
 2017/09/29: If a token created by Jace's second ability becomes the target of a spell, its ability triggers and goes on the stack on top of that spell. The ability will resolve first (causing the token to be sacrificed). Unless the spell has another target, it will then be countered when it tries to resolve for having no legal targets.
@@ -1843,8 +1843,8 @@ Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many
 <Name>Huatli, Warrior Poet</Name>
 <Type>Legendary Planeswalker — Huatli (Loyalty: 3)</Type>
 <ManaCost>3RW (5)</ManaCost>
-<CardText>[+2]: You gain life equal to the greatest power among creatures you control.
-[0]: Create a 3/3 green Dinosaur creature token with trample.
+<CardText>+2: You gain life equal to the greatest power among creatures you control.
+0: Create a 3/3 green Dinosaur creature token with trample.
 -X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Rulings>2017/09/29: The greatest power among creatures you control is determined as Huatli's first ability resolves. If that number is negative, you won't gain or lose any life.
@@ -1938,9 +1938,9 @@ When Tishana enters the battlefield, draw a card for each creature you control.<
 <Name>Vraska, Relic Seeker</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 6)</Type>
 <ManaCost>4BG (6)</ManaCost>
-<CardText>[+2]: Create a 2/2 black Pirate creature token with menace.
-[-3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
-[-10]: Target player's life total becomes 1.</CardText>
+<CardText>+2: Create a 2/2 black Pirate creature token with menace.
+-3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+-10: Target player's life total becomes 1.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2017/09/29: If the target artifact, creature, or enchantment is an illegal target by the time Vraska's second ability resolves, the entire ability doesn't resolve. You won't get a Treasure. If, on the other hand, the target is a legal target but isn't destroyed (most likely because it has indestructible), you will get a Treasure.
 2017/09/29: For a player's life total to become 1, what actually happens is that the player loses the appropriate amount of life (or in some rare cases, gains the appropriate amount of life). For example, if the targeted player's life total is 4 when this ability resolves, that player loses 3 life. Other cards that interact with life loss will interact with this effect accordingly.</Rulings>
@@ -1957,9 +1957,9 @@ When Tishana enters the battlefield, draw a card for each creature you control.<
 <Name>Vraska, Relic Seeker</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 6)</Type>
 <ManaCost>4BG (6)</ManaCost>
-<CardText>[+2]: Create a 2/2 black Pirate creature token with menace.
-[-3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
-[-10]: Target player's life total becomes 1.</CardText>
+<CardText>+2: Create a 2/2 black Pirate creature token with menace.
+-3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+-10: Target player's life total becomes 1.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2017/09/29: If the target artifact, creature, or enchantment is an illegal target by the time Vraska's second ability resolves, the entire ability doesn't resolve. You won't get a Treasure. If, on the other hand, the target is a legal target but isn't destroyed (most likely because it has indestructible), you will get a Treasure.
 2017/09/29: For a player's life total to become 1, what actually happens is that the player loses the appropriate amount of life (or in some rare cases, gains the appropriate amount of life). For example, if the targeted player's life total is 4 when this ability resolves, that player loses 3 life. Other cards that interact with life loss will interact with this effect accordingly.</Rulings>

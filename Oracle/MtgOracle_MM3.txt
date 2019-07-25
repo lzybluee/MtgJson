@@ -1472,9 +1472,9 @@ Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield.
 <Name>Liliana of the Veil</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>[+1]: Each player discards a card.
-[-2]: Target player sacrifices a creature.
-[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
+<CardText>+1: Each player discards a card.
+-2: Target player sacrifices a creature.
+-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>425901</Multiverseid>
 <Rulings>2018/12/07: You can activate Liliana's first ability even if some or all players will be unable to discard a card.
@@ -3112,9 +3112,9 @@ When Deputy of Acquittals enters the battlefield, you may return another target 
 <Name>Domri Rade</Name>
 <Type>Legendary Planeswalker — Domri (Loyalty: 3)</Type>
 <ManaCost>1RG (3)</ManaCost>
-<CardText>[+1]: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand.
-[-2]: Target creature you control fights another target creature.
-[-7]: You get an emblem with "Creatures you control have double strike, trample, hexproof, and haste."</CardText>
+<CardText>+1: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand.
+-2: Target creature you control fights another target creature.
+-7: You get an emblem with "Creatures you control have double strike, trample, hexproof, and haste."</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Multiverseid>425986</Multiverseid>
 <Rulings>2017/03/14: When resolving Domri's first ability, if the card you look at isn't a creature card, or if it's a creature card you don't want to put into your hand, you simply put it back on top of your library. You don't reveal it or say why you're putting it back.

@@ -15,7 +15,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isArena": true,
             "isOnlineOnly": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -26,6 +29,7 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -45,6 +49,7 @@
                 "M13",
                 "M14",
                 "M19",
+                "M20",
                 "MD1",
                 "PAL00",
                 "PANA",
@@ -77,9 +82,9 @@
     "isOnlineOnly": true,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "MTG Arena Promos",
     "releaseDate": "2018-07-14",

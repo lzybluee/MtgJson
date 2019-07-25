@@ -19,6 +19,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -28,10 +29,29 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{B}",
+            "mtgstocksId": 34308,
             "name": "Daxos the Returned",
             "names": [],
             "number": "43",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.08,
+                    "2019-05-05": 1.08,
+                    "2019-05-12": 1.07,
+                    "2019-05-19": 1.07,
+                    "2019-05-26": 1.07,
+                    "2019-06-02": 1.06,
+                    "2019-06-09": 1.05,
+                    "2019-06-16": 1.05,
+                    "2019-06-23": 1.0,
+                    "2019-06-30": 1.02,
+                    "2019-07-07": 0.99,
+                    "2019-07-14": 0.99,
+                    "2019-07-21": 0.99
+                }
+            },
             "printings": [
                 "C15",
                 "OC15",
@@ -74,6 +94,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 108441,
             "text": "Whenever you cast an enchantment spell, you get an experience counter.\n{1}{W}{B}: Create a white and black Spirit enchantment creature token. It has \"This creature's power and toughness are each equal to the number of experience counters you have.\"",
             "toughness": "2",
             "type": "Legendary Creature — Zombie Soldier",
@@ -99,6 +120,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -108,9 +130,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{U}",
+            "mtgstocksId": 34346,
             "name": "Ezuri, Claw of Progress",
             "number": "44",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.02,
+                    "2019-05-05": 1.02,
+                    "2019-05-12": 1.0,
+                    "2019-05-19": 1.02,
+                    "2019-05-26": 1.02,
+                    "2019-06-02": 1.04,
+                    "2019-06-09": 1.0,
+                    "2019-06-16": 1.01,
+                    "2019-06-23": 1.0,
+                    "2019-06-30": 1.0,
+                    "2019-07-07": 1.01,
+                    "2019-07-14": 1.01,
+                    "2019-07-21": 1.1
+                }
+            },
             "printings": [
                 "C15",
                 "OC15",
@@ -141,6 +182,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 108442,
             "text": "Whenever a creature with power 2 or less enters the battlefield under your control, you get an experience counter.\nAt the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have.",
             "toughness": "3",
             "type": "Legendary Creature — Elf Warrior",
@@ -166,6 +208,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -175,9 +218,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{W}",
+            "mtgstocksId": 34432,
             "name": "Kalemne, Disciple of Iroas",
             "number": "45",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.93,
+                    "2019-05-05": 0.93,
+                    "2019-05-12": 0.93,
+                    "2019-05-19": 0.93,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.92,
+                    "2019-06-09": 0.9,
+                    "2019-06-16": 0.9,
+                    "2019-06-23": 0.9,
+                    "2019-06-30": 0.9,
+                    "2019-07-07": 0.9,
+                    "2019-07-14": 0.9,
+                    "2019-07-21": 0.87
+                }
+            },
             "printings": [
                 "C15",
                 "CM2",
@@ -209,6 +271,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 108443,
             "text": "Double strike, vigilance\nWhenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter.\nKalemne, Disciple of Iroas gets +1/+1 for each experience counter you have.",
             "toughness": "3",
             "type": "Legendary Creature — Giant Soldier",
@@ -234,6 +297,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -243,9 +307,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{G}",
+            "mtgstocksId": 34461,
             "name": "Meren of Clan Nel Toth",
             "number": "49",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.84,
+                    "2019-05-05": 2.47,
+                    "2019-05-12": 2.44,
+                    "2019-05-19": 2.43,
+                    "2019-05-26": 2.45,
+                    "2019-06-02": 2.46,
+                    "2019-06-09": 2.46,
+                    "2019-06-16": 2.46,
+                    "2019-06-23": 2.42,
+                    "2019-06-30": 2.39,
+                    "2019-07-07": 2.39,
+                    "2019-07-14": 2.39,
+                    "2019-07-21": 2.45
+                }
+            },
             "printings": [
                 "C15",
                 "CMA",
@@ -289,6 +372,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 108444,
             "text": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's converted mana cost is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",
             "toughness": "4",
             "type": "Legendary Creature — Human Shaman",
@@ -314,6 +398,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -323,9 +408,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}{R}",
+            "mtgstocksId": 34468,
             "name": "Mizzix of the Izmagnus",
             "number": "50",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.79,
+                    "2019-05-05": 1.9,
+                    "2019-05-12": 1.85,
+                    "2019-05-19": 1.91,
+                    "2019-05-26": 1.92,
+                    "2019-06-02": 1.92,
+                    "2019-06-09": 1.92,
+                    "2019-06-16": 1.92,
+                    "2019-06-23": 1.92,
+                    "2019-06-30": 1.92,
+                    "2019-07-07": 1.92,
+                    "2019-07-14": 1.88,
+                    "2019-07-21": 1.84
+                }
+            },
             "printings": [
                 "C15",
                 "OC15",
@@ -380,6 +484,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 108445,
             "text": "Whenever you cast an instant or sorcery spell with converted mana cost greater than the number of experience counters you have, you get an experience counter.\nInstant and sorcery spells you cast cost {1} less to cast for each experience counter you have.",
             "toughness": "2",
             "type": "Legendary Creature — Goblin Wizard",
@@ -394,9 +499,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "C15",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Commander 2015 Oversized",
     "parentCode": "C15",

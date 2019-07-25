@@ -3967,9 +3967,9 @@ All creatures able to block Ochran Assassin do so.</CardText>
 <Name>Ral, Izzet Viceroy</Name>
 <Type>Legendary Planeswalker — Ral (Loyalty: 5)</Type>
 <ManaCost>3UR (5)</ManaCost>
-<CardText>[+1]: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
-[-3]: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
-[-8]: You get an emblem with "Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards."</CardText>
+<CardText>+1: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+-3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+-8: You get an emblem with "Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards."</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>452945</Multiverseid>
 <Rulings>2018/10/05: If you have only one card in your library, Ral's first ability puts it into your hand. Nothing is put into your graveyard.
@@ -4363,9 +4363,9 @@ Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap it.</Car
 <Name>Vraska, Golgari Queen</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 4)</Type>
 <ManaCost>2BG (4)</ManaCost>
-<CardText>[+2]: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.
-[-3]: Destroy target nonland permanent with converted mana cost 3 or less.
-[-9]: You get an emblem with "Whenever a creature you control deals combat damage to a player, that player loses the game."</CardText>
+<CardText>+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.
+-3: Destroy target nonland permanent with converted mana cost 3 or less.
+-9: You get an emblem with "Whenever a creature you control deals combat damage to a player, that player loses the game."</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>452963</Multiverseid>
 <Rulings>2018/10/05: You choose whether to sacrifice a permanent (and which one to sacrifice) while Vraska's first ability is resolving. No player may take actions between the time you choose which permanent to sacrifice and the time you do so.
@@ -5578,9 +5578,9 @@ As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it ent
 <Name>Ral, Caller of Storms</Name>
 <Type>Legendary Planeswalker — Ral (Loyalty: 4)</Type>
 <ManaCost>4UR (6)</ManaCost>
-<CardText>[+1]: Draw a card.
-[-2]: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets.
-[-7]: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature your opponents control.</CardText>
+<CardText>+1: Draw a card.
+-2: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets.
+-7: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature your opponents control.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>455605</Multiverseid>
 <Rulings>2018/10/05: If some of the targets become illegal for Ral's second ability, the original division of damage still applies, and the damage that would have been dealt to illegal targets isn't dealt at all.</Rulings>
@@ -5651,9 +5651,9 @@ Whenever Ral's Staticaster attacks, if you control a Ral planeswalker, Ral's Sta
 <Name>Vraska, Regal Gorgon</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 5)</Type>
 <ManaCost>5BG (7)</ManaCost>
-<CardText>[+2]: Put a +1/+1 counter on up to one target creature. That creature gains menace until end of turn.
-[-3]: Destroy target creature.
-[-10]: For each creature card in your graveyard, put a +1/+1 counter on each creature you control.</CardText>
+<CardText>+2: Put a +1/+1 counter on up to one target creature. That creature gains menace until end of turn.
+-3: Destroy target creature.
+-10: For each creature card in your graveyard, put a +1/+1 counter on each creature you control.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>455609</Multiverseid>
 <Vintage>Legal</Vintage>

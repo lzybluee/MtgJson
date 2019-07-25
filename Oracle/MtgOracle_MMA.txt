@@ -236,9 +236,9 @@ Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains fl
 <Name>Elspeth, Knight-Errant</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>[+1]: Create a 1/1 white Soldier creature token.
-[+1]: Target creature gets +3/+3 and gains flying until end of turn.
-[-8]: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
+<CardText>+1: Create a 1/1 white Soldier creature token.
++1: Target creature gets +3/+3 and gains flying until end of turn.
+-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
 <Artist>Volkan Baǵa</Artist>
 <Multiverseid>370551</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
@@ -3654,9 +3654,9 @@ If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and
 <Name>Sarkhan Vol</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 4)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>[+1]: Creatures you control get +1/+1 and gain haste until end of turn.
-[-2]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
-[-6]: Create five 4/4 red Dragon creature tokens with flying.</CardText>
+<CardText>+1: Creatures you control get +1/+1 and gain haste until end of turn.
+-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+-6: Create five 4/4 red Dragon creature tokens with flying.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>370566</Multiverseid>
 <Rulings>2008/10/01: You may activate the first ability even if you control no creatures. <Sarkhan Vol> gains a loyalty counter, but the ability will have no effect.

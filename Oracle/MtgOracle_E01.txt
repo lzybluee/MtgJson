@@ -168,9 +168,9 @@ When Flickerwisp enters the battlefield, exile another target permanent. Return 
 <Name>Gideon Jura</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 6)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>[+2]: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
-[-2]: Destroy target tapped creature.
-[0]: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<CardText>+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
+-2: Destroy target tapped creature.
+0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>430549</Multiverseid>
 <Rulings>2010/06/15: <Gideon Jura>'s first ability causes creatures to attack him if able. If, during the affected player's declare attackers step, a creature they control is tapped, is affected by a spell or ability that says it can't attack, or is affected by "summoning sickness," then that creature doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so the creature doesn't have to attack in that case either.
@@ -788,9 +788,9 @@ First strike (This creature deals combat damage before creatures without first s
 <Name>Chandra, Pyromaster</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
-[0]: Exile the top card of your library. You may play it this turn.
-[-7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>430581</Multiverseid>
 <Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
@@ -1286,9 +1286,9 @@ Remove three quest counters from Khalni Heart Expedition and sacrifice it: Searc
 <Name>Nissa, Worldwaker</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+1]: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
-[+1]: Untap up to four target Forests.
-[-7]: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
+<CardText>+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
++1: Untap up to four target Forests.
+-7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>430607</Multiverseid>
 <Rulings>2014/07/18: The type-changing effects of the first and third abilities don't have a duration. They last indefinitely.
@@ -1622,9 +1622,9 @@ Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.</Card
 <Name>Nicol Bolas, Planeswalker</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 5)</Type>
 <ManaCost>4UBBR (8)</ManaCost>
-<CardText>[+3]: Destroy target noncreature permanent.
-[-2]: Gain control of target creature.
-[-9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
+<CardText>+3: Destroy target noncreature permanent.
+-2: Gain control of target creature.
+-9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>430624</Multiverseid>
 <Rulings>2009/02/01: The control-change effect has no duration. It will last until the game ends or the affected creature leaves the battlefield. It may be superseded by a later control-change effect.

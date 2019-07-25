@@ -16,6 +16,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -72,6 +75,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -132,6 +138,9 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -139,6 +148,7 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{U}",
@@ -147,23 +157,21 @@
             "number": "5",
             "prices": {
                 "paper": {
-                    "2019-01-23": 2.13,
-                    "2019-01-30": 2.11,
-                    "2019-02-06": 2.11,
-                    "2019-02-13": 2.11,
-                    "2019-02-20": 2.11,
-                    "2019-02-27": 2.09,
-                    "2019-03-06": 2.11,
-                    "2019-03-13": 2.11,
-                    "2019-03-20": 2.14,
-                    "2019-03-27": 2.12,
-                    "2019-04-03": 2.11,
-                    "2019-04-10": 2.11,
-                    "2019-04-17": 2.11,
-                    "2019-04-24": 2.06,
-                    "2019-05-01": 2.22,
-                    "2019-05-08": 2.22
-                }
+                    "2019-04-28": 2.11,
+                    "2019-05-05": 2.22,
+                    "2019-05-12": 2.14,
+                    "2019-05-19": 2.13,
+                    "2019-05-26": 2.14,
+                    "2019-06-02": 2.12,
+                    "2019-06-09": 2.11,
+                    "2019-06-16": 2.11,
+                    "2019-06-23": 2.06,
+                    "2019-06-30": 2.04,
+                    "2019-07-07": 2.11,
+                    "2019-07-14": 2.06,
+                    "2019-07-21": 2.05
+                },
+                "paperFoil": {}
             },
             "printings": [
                 "2ED",
@@ -182,7 +190,7 @@
                 "SS1",
                 "SUM"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [
                 {
                     "date": "2004-10-04",
@@ -217,6 +225,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -267,15 +278,21 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
                 "pauper": "Legal",
                 "penny": "Legal",
+                "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{R}",
@@ -288,14 +305,15 @@
                 "M11",
                 "M12",
                 "M14",
+                "M20",
                 "MM3",
                 "PMEI"
             ],
             "rarity": "common",
             "rulings": [
                 {
-                    "date": "2018-03-16",
-                    "text": "If the target creature is an illegal target by the time Chandra’s Outrage resolves, the spell doesn’t resolve. No player is dealt damage."
+                    "date": "2019-07-12",
+                    "text": "If the target creature is an illegal target by the time Chandra’s Outrage tries to resolve, the spell doesn’t resolve. No player is dealt damage."
                 }
             ],
             "scryfallId": "b00553c7-d3f9-4d77-8433-2f425361516f",
@@ -326,14 +344,20 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
                 "penny": "Legal",
+                "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
@@ -342,21 +366,22 @@
             "power": "1",
             "printings": [
                 "M11",
+                "M20",
                 "PMEI"
             ],
             "rarity": "uncommon",
             "rulings": [
                 {
-                    "date": "2010-08-15",
-                    "text": "Combat damage is the damage that’s dealt automatically by attacking and blocking creatures, even if it’s redirected (by Harm’s Way, perhaps). Noncombat damage is any other damage (generally, it’s damage dealt as the result of a spell or ability)."
+                    "date": "2019-07-12",
+                    "text": "Combat damage is the damage that’s dealt automatically by attacking and blocking creatures. Any other damage is noncombat damage, even if it’s dealt during a combat phase by an attacking or blocking creature."
                 },
                 {
-                    "date": "2010-08-15",
-                    "text": "The ability triggers just once for each event in which an opponent is dealt noncombat damage, regardless of how much damage that player is dealt. For example, if Lava Axe deals 5 damage to an opponent, Chandra’s Spitfire gets just +3/+0."
+                    "date": "2019-07-12",
+                    "text": "The last ability of Chandra’s Spitfire triggers just once for each event in which an opponent is dealt noncombat damage, regardless of how much damage that player is dealt."
                 },
                 {
-                    "date": "2010-08-15",
-                    "text": "In a multiplayer game, if a source such as Earthquake deals damage to multiple opponents at the same time, the ability will trigger that many times."
+                    "date": "2019-07-12",
+                    "text": "In a multiplayer game, if a source deals damage to multiple opponents at the same time, the last ability of Chandra’s Spitfire will trigger as many times as there are opponents who were dealt damage."
                 }
             ],
             "scryfallId": "af1d86fc-385c-498b-9aa6-c97cd7f884f0",
@@ -390,6 +415,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -438,6 +466,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -506,14 +537,19 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "modern": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}",
@@ -522,6 +558,7 @@
             "printings": [
                 "A25",
                 "BTD",
+                "MH1",
                 "MP2",
                 "PAL01",
                 "PMEI",
@@ -558,6 +595,9 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -566,6 +606,7 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "penny": "Legal",
                 "vintage": "Legal"
             },
@@ -575,23 +616,21 @@
             "number": "4",
             "prices": {
                 "paper": {
-                    "2019-01-23": 0.0,
-                    "2019-01-30": 0.0,
-                    "2019-02-06": 0.0,
-                    "2019-02-13": 0.0,
-                    "2019-02-20": 0.0,
-                    "2019-02-27": 0.0,
-                    "2019-03-06": 0.0,
-                    "2019-03-13": 0.0,
-                    "2019-03-20": 0.0,
-                    "2019-03-27": 0.0,
-                    "2019-04-03": 0.0,
-                    "2019-04-10": 0.0,
-                    "2019-04-17": 0.0,
-                    "2019-04-24": 0.0,
-                    "2019-05-01": 0.0,
-                    "2019-05-08": 0.0
-                }
+                    "2019-04-28": 1.49,
+                    "2019-05-05": 1.48,
+                    "2019-05-12": 1.49,
+                    "2019-05-19": 1.49,
+                    "2019-05-26": 1.51,
+                    "2019-06-02": 1.64,
+                    "2019-06-09": 1.51,
+                    "2019-06-16": 1.49,
+                    "2019-06-23": 1.49,
+                    "2019-06-30": 1.49,
+                    "2019-07-07": 1.49,
+                    "2019-07-14": 1.51,
+                    "2019-07-21": 1.51
+                },
+                "paperFoil": {}
             },
             "printings": [
                 "2ED",
@@ -627,7 +666,7 @@
                 "SUM",
                 "WC04"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [
                 {
                     "date": "2017-11-17",
@@ -672,8 +711,11 @@
             "flavorText": "Der Löwe zwinkerte\n—Ausdruck der Femeref für \"noch einmal davongekommen",
             "foreignData": [],
             "frameVersion": "1997",
-            "hasFoil": true,
+            "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -723,6 +765,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -765,6 +810,62 @@
             "watermark": "mirran"
         },
         {
+            "artist": "Wesley Burt & コーヘー",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 2.0,
+            "flavorText": "「司令官、ディミーアのスパイを捕らえ、その遺灰を監禁しました。」\n――ウォジェクの警備兵、クラム",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{R}",
+            "name": "Lava Coil",
+            "number": "33",
+            "printings": [
+                "GRN",
+                "PMEI"
+            ],
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2018-10-05",
+                    "text": "Lava Coil’s replacement effect will exile the target creature if it would die this turn for any reason, not just due to lethal damage. It applies to the target creature even if Lava Coil deals no damage to it (due to a prevention effect)."
+                }
+            ],
+            "scryfallId": "e165d16a-06c7-4373-9c36-89e127e669dd",
+            "scryfallIllustrationId": "8ccebed1-8cd9-4468-80ac-37a35cf24933",
+            "scryfallOracleId": "fa71db44-5181-4c51-8b24-7fbedf36e3ca",
+            "subtypes": [],
+            "supertypes": [],
+            "text": "Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "1eae419e-c788-5e2b-b6d7-99a4376117f7"
+        },
+        {
             "artist": "Andrew Robinson",
             "borderColor": "black",
             "colorIdentity": [
@@ -776,9 +877,12 @@
             "convertedManaCost": 4.0,
             "flavorText": "Quick enough to avoid jhovalls when alone and fierce enough to attack them in packs, the hounds were as at home in the mountains as the Mercadians were atop theirs.",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -795,23 +899,21 @@
             "number": "10",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.42,
-                    "2019-01-30": 0.43,
-                    "2019-02-06": 0.43,
-                    "2019-02-13": 0.44,
-                    "2019-02-20": 0.44,
-                    "2019-02-27": 0.44,
-                    "2019-03-06": 0.44,
-                    "2019-03-13": 0.43,
-                    "2019-03-20": 0.44,
-                    "2019-03-27": 0.43,
-                    "2019-04-03": 0.44,
-                    "2019-04-10": 0.44,
-                    "2019-04-17": 0.44,
-                    "2019-04-24": 0.44,
-                    "2019-05-01": 0.44,
-                    "2019-05-08": 0.44
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.44,
+                    "2019-05-05": 0.43,
+                    "2019-05-12": 0.44,
+                    "2019-05-19": 0.44,
+                    "2019-05-26": 0.44,
+                    "2019-06-02": 0.44,
+                    "2019-06-09": 0.44,
+                    "2019-06-16": 0.44,
+                    "2019-06-23": 0.44,
+                    "2019-06-30": 0.44,
+                    "2019-07-07": 0.44,
+                    "2019-07-14": 0.44,
+                    "2019-07-21": 0.44
                 }
             },
             "printings": [
@@ -819,7 +921,7 @@
                 "PMEI",
                 "PRM"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [],
             "scryfallId": "b9565a78-c6c4-4a32-8e0e-b1fda6bf879d",
             "scryfallIllustrationId": "e43344bb-b58c-40a3-860b-46c0b95cc5f7",
@@ -851,6 +953,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -858,7 +963,6 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "pauper": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}",
@@ -899,6 +1003,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -948,9 +1055,12 @@
             "convertedManaCost": 3.0,
             "flavorText": "It takes no prisoners, but it keeps the choicest bits for Phyrexia.",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -978,7 +1088,7 @@
                 "MBS",
                 "PMEI"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [],
             "scryfallId": "c0a29ba4-fe8b-442f-a8b5-8cce7c765011",
             "scryfallIllustrationId": "e8b757e1-835b-4cb8-879e-8f4448edf7c2",
@@ -1011,6 +1121,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1056,9 +1169,12 @@
             ],
             "convertedManaCost": 2.0,
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1075,30 +1191,28 @@
             "number": "9",
             "prices": {
                 "paper": {
-                    "2019-01-23": 0.0,
-                    "2019-01-30": 0.0,
-                    "2019-02-06": 0.0,
-                    "2019-02-13": 0.0,
-                    "2019-02-20": 0.0,
-                    "2019-02-27": 0.0,
-                    "2019-03-06": 0.0,
-                    "2019-03-13": 0.0,
-                    "2019-03-20": 0.0,
-                    "2019-03-27": 0.0,
-                    "2019-04-03": 0.0,
-                    "2019-04-10": 0.0,
-                    "2019-04-17": 0.0,
-                    "2019-04-24": 0.0,
-                    "2019-05-01": 0.0,
-                    "2019-05-08": 0.0
-                }
+                    "2019-04-28": 4.43,
+                    "2019-05-05": 4.42,
+                    "2019-05-12": 4.4,
+                    "2019-05-19": 4.37,
+                    "2019-05-26": 4.36,
+                    "2019-06-02": 4.36,
+                    "2019-06-09": 4.28,
+                    "2019-06-16": 4.28,
+                    "2019-06-23": 4.18,
+                    "2019-06-30": 4.05,
+                    "2019-07-07": 4.08,
+                    "2019-07-14": 4.08,
+                    "2019-07-21": 4.21
+                },
+                "paperFoil": {}
             },
             "printings": [
                 "PMEI",
                 "PRM",
                 "UDS"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [
                 {
                     "date": "2004-10-04",
@@ -1133,6 +1247,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1172,6 +1289,7 @@
                 "M14",
                 "M15",
                 "M19",
+                "M20",
                 "ME4",
                 "ORI",
                 "PMEI",
@@ -1200,6 +1318,79 @@
             "uuid": "efc5a359-1290-532b-8b20-14af00eaa19b"
         },
         {
+            "artist": "Randy Gallegos",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 1.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{R}",
+            "name": "Shock",
+            "number": "32",
+            "printings": [
+                "10E",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
+                "AER",
+                "BBD",
+                "BTD",
+                "DDN",
+                "DPA",
+                "FNM",
+                "M12",
+                "M14",
+                "M19",
+                "M20",
+                "ONS",
+                "PMEI",
+                "PRM",
+                "PS11",
+                "PSAL",
+                "STH",
+                "WC98",
+                "WC99"
+            ],
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "843f290b-8c1d-4124-99c7-e11b8b4481cf",
+            "scryfallIllustrationId": "50db0b2e-d125-4b77-82f6-03944f9b515b",
+            "scryfallOracleId": "a9d288b8-cdc1-4e55-a0c9-d6edfc95e65d",
+            "subtypes": [],
+            "supertypes": [],
+            "text": "Shock deals 2 damage to any target.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "4ebc3772-e13a-5bee-9cb2-e9a011a9352b"
+        },
+        {
             "artist": "Ian Miller",
             "borderColor": "black",
             "colorIdentity": [
@@ -1214,6 +1405,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1267,9 +1461,12 @@
             ],
             "convertedManaCost": 3.0,
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1288,7 +1485,7 @@
                 "PLS",
                 "PMEI"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [
                 {
                     "date": "2004-10-04",
@@ -1323,9 +1520,12 @@
             "convertedManaCost": 5.0,
             "flavorText": "\"As it moved, the wurm's spines gathered up bits of flowstone, which took the shapes of dead villagers' heads. Each head spoke a single sound, but if taken together, they said, 'Alas for the living.'\" —Dal myth of the wurm",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1346,23 +1546,21 @@
             "power": "5",
             "prices": {
                 "paper": {
-                    "2019-01-23": 0.0,
-                    "2019-01-30": 0.0,
-                    "2019-02-06": 0.0,
-                    "2019-02-13": 0.0,
-                    "2019-02-20": 0.0,
-                    "2019-02-27": 0.0,
-                    "2019-03-06": 0.0,
-                    "2019-03-13": 0.0,
-                    "2019-03-20": 0.0,
-                    "2019-03-27": 0.0,
-                    "2019-04-03": 0.0,
-                    "2019-04-10": 0.0,
-                    "2019-04-17": 0.0,
-                    "2019-04-24": 0.0,
-                    "2019-05-01": 0.0,
-                    "2019-05-08": 0.0
-                }
+                    "2019-04-28": 3.2,
+                    "2019-05-05": 3.23,
+                    "2019-05-12": 3.2,
+                    "2019-05-19": 3.2,
+                    "2019-05-26": 3.2,
+                    "2019-06-02": 3.2,
+                    "2019-06-09": 3.2,
+                    "2019-06-16": 3.23,
+                    "2019-06-23": 3.2,
+                    "2019-06-30": 3.2,
+                    "2019-07-07": 3.2,
+                    "2019-07-14": 3.26,
+                    "2019-07-21": 3.26
+                },
+                "paperFoil": {}
             },
             "printings": [
                 "10E",
@@ -1377,7 +1575,7 @@
                 "STH",
                 "TPR"
             ],
-            "rarity": "rare",
+            "rarity": "common",
             "rulings": [],
             "scryfallId": "e0c70431-d1d1-494c-a75e-54734e489c02",
             "scryfallIllustrationId": "57d71c32-a590-4564-92c1-a9465bef7519",
@@ -1408,6 +1606,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1469,6 +1670,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1536,9 +1740,12 @@
             "convertedManaCost": 4.0,
             "flavorText": "Funny how money and war travel so well together.",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1554,23 +1761,21 @@
             "number": "12",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.52,
-                    "2019-01-30": 0.54,
-                    "2019-02-06": 0.55,
-                    "2019-02-13": 0.52,
-                    "2019-02-20": 0.53,
-                    "2019-02-27": 0.53,
-                    "2019-03-06": 0.53,
-                    "2019-03-13": 0.53,
-                    "2019-03-20": 0.52,
-                    "2019-03-27": 0.53,
-                    "2019-04-03": 0.53,
-                    "2019-04-10": 0.54,
-                    "2019-04-17": 0.54,
-                    "2019-04-24": 0.55,
-                    "2019-05-01": 0.68,
-                    "2019-05-08": 0.55
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.69,
+                    "2019-05-05": 0.62,
+                    "2019-05-12": 0.55,
+                    "2019-05-19": 0.62,
+                    "2019-05-26": 0.63,
+                    "2019-06-02": 0.71,
+                    "2019-06-09": 0.55,
+                    "2019-06-16": 0.68,
+                    "2019-06-23": 0.54,
+                    "2019-06-30": 0.53,
+                    "2019-07-07": 0.57,
+                    "2019-07-14": 0.52,
+                    "2019-07-21": 0.53
                 }
             },
             "printings": [
@@ -1578,7 +1783,7 @@
                 "PMEI",
                 "PRM"
             ],
-            "rarity": "rare",
+            "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "2c4077d6-d98c-4fdd-ba57-0781aa21f68b",
             "scryfallIllustrationId": "bc1ba4c1-d91a-4d65-81b2-964e5be63480",
@@ -1612,6 +1817,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1654,14 +1862,14 @@
     "isOnlineOnly": false,
     "keyruneCode": "PMEI",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Magazine Inserts",
     "releaseDate": "1995-01-01",
     "tokens": [],
-    "totalSetSize": 26,
+    "totalSetSize": 28,
     "translations": {},
     "type": "promo"
 }

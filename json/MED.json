@@ -17,6 +17,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -28,6 +31,7 @@
             },
             "loyalty": "4",
             "manaCost": "{3}{G}{W}",
+            "mtgoId": 71562,
             "mtgstocksId": 47798,
             "multiverseId": 460126,
             "name": "Ajani, Mentor of Heroes",
@@ -35,22 +39,21 @@
             "originalText": "+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.\n+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−8: You gain 100 life.",
             "originalType": "Legendary Planeswalker — Ajani",
             "prices": {
-                "paper": {
-                    "2019-01-30": 35.49,
-                    "2019-02-06": 30.96,
-                    "2019-02-13": 30.0,
-                    "2019-02-20": 29.99,
-                    "2019-02-27": 28.99,
-                    "2019-03-06": 29.99,
-                    "2019-03-13": 33.21,
-                    "2019-03-20": 34.9,
-                    "2019-03-27": 37.4,
-                    "2019-04-03": 38.0,
-                    "2019-04-10": 39.0,
-                    "2019-04-17": 36.47,
-                    "2019-04-24": 36.05,
-                    "2019-05-01": 34.98,
-                    "2019-05-08": 39.81
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 35.7,
+                    "2019-05-05": 37.95,
+                    "2019-05-12": 39.64,
+                    "2019-05-19": 37.04,
+                    "2019-05-26": 39.99,
+                    "2019-06-02": 39.99,
+                    "2019-06-09": 38.5,
+                    "2019-06-16": 37.02,
+                    "2019-06-23": 38.32,
+                    "2019-06-30": 38.69,
+                    "2019-07-07": 38.32,
+                    "2019-07-14": 36.47,
+                    "2019-07-21": 35.52
                 }
             },
             "printings": [
@@ -83,7 +86,7 @@
             ],
             "tcgplayerProductId": 183447,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/c44e39dbc9fad8ef",
-            "text": "+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.\n+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−8: You gain 100 life.",
+            "text": "[+1]: Distribute three +1/+1 counters among one, two, or three target creatures you control.\n[+1]: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n[−8]: You gain 100 life.",
             "type": "Legendary Planeswalker — Ajani",
             "types": [
                 "Planeswalker"
@@ -106,6 +109,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -116,6 +122,7 @@
             },
             "loyalty": "3",
             "manaCost": "{1}{U}{R}",
+            "mtgoId": 71568,
             "mtgstocksId": 47801,
             "multiverseId": 460127,
             "name": "Dack Fayden",
@@ -124,22 +131,21 @@
             "originalText": "+1: Target player draws two cards, then discards two cards.\n−2: Gain control of target artifact.\n−6: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
             "originalType": "Legendary Planeswalker — Dack",
             "prices": {
-                "paper": {
-                    "2019-01-30": 56.74,
-                    "2019-02-06": 54.99,
-                    "2019-02-13": 52.93,
-                    "2019-02-20": 49.92,
-                    "2019-02-27": 50.84,
-                    "2019-03-06": 52.77,
-                    "2019-03-13": 55.45,
-                    "2019-03-20": 55.89,
-                    "2019-03-27": 58.09,
-                    "2019-04-03": 60.3,
-                    "2019-04-10": 61.99,
-                    "2019-04-17": 60.29,
-                    "2019-04-24": 60.59,
-                    "2019-05-01": 57.95,
-                    "2019-05-08": 58.09
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 58.79,
+                    "2019-05-05": 57.95,
+                    "2019-05-12": 61.89,
+                    "2019-05-19": 79.99,
+                    "2019-05-26": 99.95,
+                    "2019-06-02": 87.81,
+                    "2019-06-09": 85.99,
+                    "2019-06-16": 84.99,
+                    "2019-06-23": 82.43,
+                    "2019-06-30": 78.97,
+                    "2019-07-07": 79.94,
+                    "2019-07-14": 79.99,
+                    "2019-07-21": 79.97
                 }
             },
             "printings": [
@@ -187,7 +193,7 @@
             ],
             "tcgplayerProductId": 183448,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/23a806d656e7a606",
-            "text": "+1: Target player draws two cards, then discards two cards.\n−2: Gain control of target artifact.\n−6: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
+            "text": "[+1]: Target player draws two cards, then discards two cards.\n[−2]: Gain control of target artifact.\n[−6]: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
             "type": "Legendary Planeswalker — Dack",
             "types": [
                 "Planeswalker"
@@ -210,6 +216,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -222,6 +231,7 @@
             "manaCost": "{1}{B}{R}",
             "mcmId": 363615,
             "mcmMetaId": 223548,
+            "mtgoId": 69969,
             "mtgstocksId": 40509,
             "multiverseId": 456591,
             "name": "Daretti, Ingenious Iconoclast",
@@ -230,23 +240,21 @@
             "originalText": "+1: Create a 1/1 colorless Construct artifact creature token with defender.\n−1: You may sacrifice an artifact. If you do, destroy target artifact or creature.\n−6: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.",
             "originalType": "Legendary Planeswalker — Daretti",
             "prices": {
-                "paper": {
-                    "2019-01-23": 27.11,
-                    "2019-01-30": 26.96,
-                    "2019-02-06": 28.1,
-                    "2019-02-13": 28.83,
-                    "2019-02-20": 29.97,
-                    "2019-02-27": 29.99,
-                    "2019-03-06": 29.95,
-                    "2019-03-13": 30.0,
-                    "2019-03-20": 30.0,
-                    "2019-03-27": 29.99,
-                    "2019-04-03": 32.33,
-                    "2019-04-10": 34.32,
-                    "2019-04-17": 33.37,
-                    "2019-04-24": 32.27,
-                    "2019-05-01": 29.99,
-                    "2019-05-08": 30.54
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 29.99,
+                    "2019-05-05": 29.99,
+                    "2019-05-12": 30.54,
+                    "2019-05-19": 31.56,
+                    "2019-05-26": 33.09,
+                    "2019-06-02": 33.37,
+                    "2019-06-09": 34.77,
+                    "2019-06-16": 35.0,
+                    "2019-06-23": 34.77,
+                    "2019-06-30": 33.34,
+                    "2019-07-07": 32.54,
+                    "2019-07-14": 31.09,
+                    "2019-07-21": 29.98
                 }
             },
             "printings": [
@@ -281,7 +289,7 @@
             ],
             "tcgplayerProductId": 175245,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/bd44118c750be4d7",
-            "text": "+1: Create a 1/1 colorless Construct artifact creature token with defender.\n−1: You may sacrifice an artifact. If you do, destroy target artifact or creature.\n−6: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.",
+            "text": "[+1]: Create a 1/1 colorless Construct artifact creature token with defender.\n[−1]: You may sacrifice an artifact. If you do, destroy target artifact or creature.\n[−6]: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.",
             "type": "Legendary Planeswalker — Daretti",
             "types": [
                 "Planeswalker"
@@ -304,6 +312,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -318,6 +329,7 @@
             },
             "loyalty": "5",
             "manaCost": "{2}{R}{G}",
+            "mtgoId": 71574,
             "mtgstocksId": 47799,
             "multiverseId": 460128,
             "name": "Domri, Chaos Bringer",
@@ -325,22 +337,21 @@
             "originalText": "+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot.\n−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n−8: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\"",
             "originalType": "Legendary Planeswalker — Domri",
             "prices": {
-                "paper": {
-                    "2019-01-30": 32.5,
-                    "2019-02-06": 38.0,
-                    "2019-02-13": 32.45,
-                    "2019-02-20": 30.88,
-                    "2019-02-27": 29.2,
-                    "2019-03-06": 32.03,
-                    "2019-03-13": 30.99,
-                    "2019-03-20": 31.83,
-                    "2019-03-27": 31.12,
-                    "2019-04-03": 30.99,
-                    "2019-04-10": 30.87,
-                    "2019-04-17": 30.98,
-                    "2019-04-24": 30.0,
-                    "2019-05-01": 28.11,
-                    "2019-05-08": 27.25
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 29.0,
+                    "2019-05-05": 27.95,
+                    "2019-05-12": 27.5,
+                    "2019-05-19": 26.91,
+                    "2019-05-26": 25.99,
+                    "2019-06-02": 25.99,
+                    "2019-06-09": 25.27,
+                    "2019-06-16": 25.03,
+                    "2019-06-23": 25.03,
+                    "2019-06-30": 25.02,
+                    "2019-07-07": 24.99,
+                    "2019-07-14": 25.25,
+                    "2019-07-21": 23.38
                 }
             },
             "printings": [
@@ -385,7 +396,7 @@
             ],
             "tcgplayerProductId": 183451,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/225118a8889ee53b",
-            "text": "+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters the battlefield with your choice of a +1/+1 counter or haste.)\n−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n−8: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\"",
+            "text": "[+1]: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters the battlefield with your choice of a +1/+1 counter or haste.)\n[−3]: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n[−8]: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\"",
             "type": "Legendary Planeswalker — Domri",
             "types": [
                 "Planeswalker"
@@ -406,6 +417,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -419,6 +433,7 @@
             "manaCost": "{2}{W}{W}",
             "mcmId": 363611,
             "mcmMetaId": 10099,
+            "mtgoId": 69965,
             "mtgstocksId": 40505,
             "multiverseId": 456589,
             "name": "Elspeth, Knight-Errant",
@@ -427,23 +442,21 @@
             "originalText": "+1: Create a 1/1 white Soldier creature token.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
             "originalType": "Legendary Planeswalker — Elspeth",
             "prices": {
-                "paper": {
-                    "2019-01-23": 79.99,
-                    "2019-01-30": 86.04,
-                    "2019-02-06": 98.03,
-                    "2019-02-13": 83.99,
-                    "2019-02-20": 85.04,
-                    "2019-02-27": 85.0,
-                    "2019-03-06": 88.79,
-                    "2019-03-13": 88.79,
-                    "2019-03-20": 95.52,
-                    "2019-03-27": 99.01,
-                    "2019-04-03": 98.03,
-                    "2019-04-10": 111.99,
-                    "2019-04-17": 114.55,
-                    "2019-04-24": 113.0,
-                    "2019-05-01": 137.5,
-                    "2019-05-08": 123.55
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 113.0,
+                    "2019-05-05": 109.99,
+                    "2019-05-12": 123.55,
+                    "2019-05-19": 115.54,
+                    "2019-05-26": 109.99,
+                    "2019-06-02": 109.99,
+                    "2019-06-09": 109.99,
+                    "2019-06-16": 109.99,
+                    "2019-06-23": 108.88,
+                    "2019-06-30": 108.44,
+                    "2019-07-07": 107.47,
+                    "2019-07-14": 97.62,
+                    "2019-07-21": 94.01
                 }
             },
             "printings": [
@@ -480,7 +493,7 @@
             ],
             "tcgplayerProductId": 175241,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b8686c2250532a36",
-            "text": "+1: Create a 1/1 white Soldier creature token.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
+            "text": "[+1]: Create a 1/1 white Soldier creature token.\n[+1]: Target creature gets +3/+3 and gains flying until end of turn.\n[−8]: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
             "type": "Legendary Planeswalker — Elspeth",
             "types": [
                 "Planeswalker"
@@ -502,7 +515,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -515,17 +531,41 @@
             },
             "loyalty": "5",
             "manaCost": "{5}{B}{G}",
+            "mtgoId": 72198,
+            "mtgstocksId": 48364,
             "multiverseId": 463946,
             "name": "Garruk, Apex Predator",
+            "names": [],
             "number": "WS5",
             "originalText": "+1: Destroy another target planeswalker.\n+1: Create a 3/3 black Beast creature token with deathtouch.\n−3: Destroy target creature. You gain life equal to its toughness.\n−8: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
             "originalType": "Legendary Planeswalker — Garruk",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 69.97,
+                    "2019-05-05": 79.77,
+                    "2019-05-12": 48.61,
+                    "2019-05-19": 48.64,
+                    "2019-05-26": 42.38,
+                    "2019-06-02": 39.99,
+                    "2019-06-09": 40.26,
+                    "2019-06-16": 40.13,
+                    "2019-06-23": 39.99,
+                    "2019-06-30": 39.7,
+                    "2019-07-07": 39.98,
+                    "2019-07-14": 39.85,
+                    "2019-07-21": 39.7
+                }
+            },
             "printings": [
                 "M15",
                 "MED",
                 "PS14"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/26b1e858b9ba898e",
+                "tcgplayer": "https://mtgjson.com/links/d15519a8baebe01b"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -554,7 +594,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Destroy another target planeswalker.\n+1: Create a 3/3 black Beast creature token with deathtouch.\n−3: Destroy target creature. You gain life equal to its toughness.\n−8: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
+            "tcgplayerProductId": 188903,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/d15519a8baebe01b",
+            "text": "[+1]: Destroy another target planeswalker.\n[+1]: Create a 3/3 black Beast creature token with deathtouch.\n[−3]: Destroy target creature. You gain life equal to its toughness.\n[−8]: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
             "type": "Legendary Planeswalker — Garruk",
             "types": [
                 "Planeswalker"
@@ -574,7 +616,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -589,17 +634,40 @@
             },
             "loyalty": "4",
             "manaCost": "{1}{W}{W}",
+            "mtgoId": 72202,
+            "mtgstocksId": 48363,
             "multiverseId": 463943,
             "name": "Gideon Blackblade",
             "number": "WS2",
             "originalText": "As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent.",
             "originalType": "Legendary Planeswalker — Gideon",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 79.99,
+                    "2019-05-05": 129.0,
+                    "2019-05-12": 65.0,
+                    "2019-05-19": 59.98,
+                    "2019-05-26": 56.47,
+                    "2019-06-02": 50.99,
+                    "2019-06-09": 48.99,
+                    "2019-06-16": 47.98,
+                    "2019-06-23": 45.0,
+                    "2019-06-30": 44.49,
+                    "2019-07-07": 42.8,
+                    "2019-07-14": 43.09,
+                    "2019-07-21": 39.99
+                }
+            },
             "printings": [
                 "MED",
                 "PWAR",
                 "WAR"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/a8f9584dce722ab3",
+                "tcgplayer": "https://mtgjson.com/links/daade078a6a6f66e"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -632,7 +700,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent.",
+            "tcgplayerProductId": 188901,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/daade078a6a6f66e",
+            "text": "As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n[+1]: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n[−6]: Exile target nonland permanent.",
             "type": "Legendary Planeswalker — Gideon",
             "types": [
                 "Planeswalker"
@@ -652,7 +722,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -664,11 +737,30 @@
             },
             "loyalty": "3",
             "manaCost": "{2}{U}{U}",
+            "mtgoId": 72194,
+            "mtgstocksId": 48360,
             "multiverseId": 463944,
             "name": "Jace, the Mind Sculptor",
             "number": "WS3",
             "originalText": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n−1: Return target creature to its owner's hand.\n−12: Exile all cards from target player's library, then that player shuffles their hand into their library.",
             "originalType": "Legendary Planeswalker — Jace",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-05-05": 665.0,
+                    "2019-05-12": 450.0,
+                    "2019-05-19": 350.0,
+                    "2019-05-26": 339.98,
+                    "2019-06-02": 329.97,
+                    "2019-06-09": 299.87,
+                    "2019-06-16": 329.79,
+                    "2019-06-23": 310.0,
+                    "2019-06-30": 300.0,
+                    "2019-07-07": 297.12,
+                    "2019-07-14": 294.58,
+                    "2019-07-21": 289.99
+                }
+            },
             "printings": [
                 "A25",
                 "EMA",
@@ -677,7 +769,10 @@
                 "VMA",
                 "WWK"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/6aa938612c1c4d8b",
+                "tcgplayer": "https://mtgjson.com/links/c447627ce7b4edab"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -698,7 +793,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n−1: Return target creature to its owner's hand.\n−12: Exile all cards from target player's library, then that player shuffles their hand into their library.",
+            "tcgplayerProductId": 188896,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/c447627ce7b4edab",
+            "text": "[+2]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n[0]: Draw three cards, then put two cards from your hand on top of your library in any order.\n[−1]: Return target creature to its owner's hand.\n[−12]: Exile all cards from target player's library, then that player shuffles their hand into their library.",
             "type": "Legendary Planeswalker — Jace",
             "types": [
                 "Planeswalker"
@@ -719,6 +816,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -733,6 +833,7 @@
             },
             "loyalty": "5",
             "manaCost": "{2}{R}{R}{R}",
+            "mtgoId": 71570,
             "mtgstocksId": 47797,
             "multiverseId": 460125,
             "name": "Jaya Ballard",
@@ -741,22 +842,21 @@
             "originalText": "+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.\n+1: Discard up to three cards, then draw that many cards.\n−8: You get an emblem with \"You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.\"",
             "originalType": "Legendary Planeswalker — Jaya",
             "prices": {
-                "paper": {
-                    "2019-01-30": 19.12,
-                    "2019-02-06": 19.65,
-                    "2019-02-13": 19.65,
-                    "2019-02-20": 19.65,
-                    "2019-02-27": 19.5,
-                    "2019-03-06": 19.88,
-                    "2019-03-13": 19.99,
-                    "2019-03-20": 19.99,
-                    "2019-03-27": 19.99,
-                    "2019-04-03": 19.99,
-                    "2019-04-10": 19.99,
-                    "2019-04-17": 19.98,
-                    "2019-04-24": 19.98,
-                    "2019-05-01": 19.99,
-                    "2019-05-08": 19.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 19.99,
+                    "2019-05-05": 19.99,
+                    "2019-05-12": 19.99,
+                    "2019-05-19": 20.0,
+                    "2019-05-26": 19.99,
+                    "2019-06-02": 19.99,
+                    "2019-06-09": 19.99,
+                    "2019-06-16": 19.99,
+                    "2019-06-23": 19.98,
+                    "2019-06-30": 19.95,
+                    "2019-07-07": 19.99,
+                    "2019-07-14": 19.99,
+                    "2019-07-21": 19.99
                 }
             },
             "printings": [
@@ -798,7 +898,7 @@
             ],
             "tcgplayerProductId": 183446,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/41ba9b7e5a6780dc",
-            "text": "+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.\n+1: Discard up to three cards, then draw that many cards.\n−8: You get an emblem with \"You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.\"",
+            "text": "[+1]: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.\n[+1]: Discard up to three cards, then draw that many cards.\n[−8]: You get an emblem with \"You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.\"",
             "type": "Legendary Planeswalker — Jaya",
             "types": [
                 "Planeswalker"
@@ -815,6 +915,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -829,6 +932,7 @@
             },
             "loyalty": "5",
             "manaCost": "{4}",
+            "mtgoId": 71572,
             "mtgstocksId": 47795,
             "multiverseId": 460122,
             "name": "Karn, Scion of Urza",
@@ -837,22 +941,21 @@
             "originalText": "+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.\n−1: Put a card you own with a silver counter on it from exile into your hand.\n−2: Create a 0/0 colorless Construct artifact creature token with \"This creature gets +1/+1 for each artifact you control.\"",
             "originalType": "Legendary Planeswalker — Karn",
             "prices": {
-                "paper": {
-                    "2019-01-30": 70.7,
-                    "2019-02-06": 68.6,
-                    "2019-02-13": 66.15,
-                    "2019-02-20": 68.6,
-                    "2019-02-27": 64.99,
-                    "2019-03-06": 69.47,
-                    "2019-03-13": 70.0,
-                    "2019-03-20": 69.99,
-                    "2019-03-27": 75.99,
-                    "2019-04-03": 79.99,
-                    "2019-04-10": 94.0,
-                    "2019-04-17": 79.99,
-                    "2019-04-24": 77.97,
-                    "2019-05-01": 73.29,
-                    "2019-05-08": 71.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 79.21,
+                    "2019-05-05": 72.42,
+                    "2019-05-12": 74.77,
+                    "2019-05-19": 74.77,
+                    "2019-05-26": 76.09,
+                    "2019-06-02": 75.48,
+                    "2019-06-09": 71.62,
+                    "2019-06-16": 75.45,
+                    "2019-06-23": 74.92,
+                    "2019-06-30": 79.58,
+                    "2019-07-07": 76.23,
+                    "2019-07-14": 77.99,
+                    "2019-07-21": 78.95
                 }
             },
             "printings": [
@@ -886,7 +989,7 @@
             ],
             "tcgplayerProductId": 183443,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/a84591768148c4e0",
-            "text": "+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.\n−1: Put a card you own with a silver counter on it from exile into your hand.\n−2: Create a 0/0 colorless Construct artifact creature token with \"This creature gets +1/+1 for each artifact you control.\"",
+            "text": "[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.\n[−1]: Put a card you own with a silver counter on it from exile into your hand.\n[−2]: Create a 0/0 colorless Construct artifact creature token with \"This creature gets +1/+1 for each artifact you control.\"",
             "type": "Legendary Planeswalker — Karn",
             "types": [
                 "Planeswalker"
@@ -909,6 +1012,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -923,6 +1029,7 @@
             },
             "loyalty": "3",
             "manaCost": "{1}{W}{B}",
+            "mtgoId": 71566,
             "mtgstocksId": 47800,
             "multiverseId": 460129,
             "name": "Kaya, Orzhov Usurper",
@@ -930,22 +1037,21 @@
             "originalText": "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.\n−1: Exile target nonland permanent with converted mana cost 1 or less.\n−5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.",
             "originalType": "Legendary Planeswalker — Kaya",
             "prices": {
-                "paper": {
-                    "2019-01-30": 26.5,
-                    "2019-02-06": 35.0,
-                    "2019-02-13": 27.25,
-                    "2019-02-20": 31.09,
-                    "2019-02-27": 49.99,
-                    "2019-03-06": 54.99,
-                    "2019-03-13": 49.95,
-                    "2019-03-20": 54.63,
-                    "2019-03-27": 55.0,
-                    "2019-04-03": 64.75,
-                    "2019-04-10": 64.94,
-                    "2019-04-17": 71.86,
-                    "2019-04-24": 69.99,
-                    "2019-05-01": 71.0,
-                    "2019-05-08": 69.46
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 72.89,
+                    "2019-05-05": 71.0,
+                    "2019-05-12": 64.99,
+                    "2019-05-19": 64.99,
+                    "2019-05-26": 63.0,
+                    "2019-06-02": 63.52,
+                    "2019-06-09": 62.99,
+                    "2019-06-16": 62.57,
+                    "2019-06-23": 61.75,
+                    "2019-06-30": 60.79,
+                    "2019-07-07": 60.9,
+                    "2019-07-14": 59.87,
+                    "2019-07-21": 59.75
                 }
             },
             "printings": [
@@ -982,7 +1088,7 @@
             ],
             "tcgplayerProductId": 183452,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0d4cd47dad3b77b6",
-            "text": "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.\n−1: Exile target nonland permanent with converted mana cost 1 or less.\n−5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.",
+            "text": "[+1]: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.\n[−1]: Exile target nonland permanent with converted mana cost 1 or less.\n[−5]: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.",
             "type": "Legendary Planeswalker — Kaya",
             "types": [
                 "Planeswalker"
@@ -1003,6 +1109,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1017,6 +1126,7 @@
             "manaCost": "{1}{B}{B}",
             "mcmId": 363614,
             "mcmMetaId": 223052,
+            "mtgoId": 69975,
             "mtgstocksId": 40510,
             "multiverseId": 456590,
             "name": "Liliana, the Last Hope",
@@ -1025,23 +1135,21 @@
             "originalText": "+1: Up to one target creature gets -2/-1 until your next turn.\n−2: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.\n−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
             "originalType": "Legendary Planeswalker — Liliana",
             "prices": {
-                "paper": {
-                    "2019-01-23": 126.54,
-                    "2019-01-30": 122.09,
-                    "2019-02-06": 120.0,
-                    "2019-02-13": 120.0,
-                    "2019-02-20": 120.0,
-                    "2019-02-27": 122.5,
-                    "2019-03-06": 120.46,
-                    "2019-03-13": 124.99,
-                    "2019-03-20": 129.04,
-                    "2019-03-27": 129.99,
-                    "2019-04-03": 137.0,
-                    "2019-04-10": 142.6,
-                    "2019-04-17": 149.04,
-                    "2019-04-24": 168.87,
-                    "2019-05-01": 171.94,
-                    "2019-05-08": 199.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 175.0,
+                    "2019-05-05": 175.0,
+                    "2019-05-12": 199.99,
+                    "2019-05-19": 182.04,
+                    "2019-05-26": 199.75,
+                    "2019-06-02": 179.49,
+                    "2019-06-09": 178.07,
+                    "2019-06-16": 178.53,
+                    "2019-06-23": 178.07,
+                    "2019-06-30": 175.99,
+                    "2019-07-07": 159.0,
+                    "2019-07-14": 149.99,
+                    "2019-07-21": 149.1
                 }
             },
             "printings": [
@@ -1081,7 +1189,7 @@
             ],
             "tcgplayerProductId": 175244,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/4837dd38c4457562",
-            "text": "+1: Up to one target creature gets -2/-1 until your next turn.\n−2: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.\n−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
+            "text": "[+1]: Up to one target creature gets -2/-1 until your next turn.\n[−2]: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.\n[−7]: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -1103,7 +1211,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1116,17 +1227,40 @@
             },
             "loyalty": "4",
             "manaCost": "{2}{R}{W}",
+            "mtgoId": 72196,
+            "mtgstocksId": 48365,
             "multiverseId": 463948,
             "name": "Nahiri, the Harbinger",
             "number": "WS7",
             "originalText": "+2: You may discard a card. If you do, draw a card.\n−2: Exile target enchantment, tapped artifact, or tapped creature.\n−8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.",
             "originalType": "Legendary Planeswalker — Nahiri",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 59.98,
+                    "2019-05-05": 77.47,
+                    "2019-05-12": 48.97,
+                    "2019-05-19": 47.98,
+                    "2019-05-26": 51.25,
+                    "2019-06-02": 49.99,
+                    "2019-06-09": 47.9,
+                    "2019-06-16": 47.49,
+                    "2019-06-23": 44.95,
+                    "2019-06-30": 44.95,
+                    "2019-07-07": 43.99,
+                    "2019-07-14": 41.95,
+                    "2019-07-21": 41.53
+                }
+            },
             "printings": [
                 "MED",
                 "PSOI",
                 "SOI"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/a095788a7431786d",
+                "tcgplayer": "https://mtgjson.com/links/21c549dc5b91f856"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -1151,7 +1285,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: You may discard a card. If you do, draw a card.\n−2: Exile target enchantment, tapped artifact, or tapped creature.\n−8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.",
+            "tcgplayerProductId": 188905,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/21c549dc5b91f856",
+            "text": "[+2]: You may discard a card. If you do, draw a card.\n[−2]: Exile target enchantment, tapped artifact, or tapped creature.\n[−8]: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.",
             "type": "Legendary Planeswalker — Nahiri",
             "types": [
                 "Planeswalker"
@@ -1175,7 +1311,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1190,17 +1329,41 @@
             },
             "loyalty": "4",
             "manaCost": "{U}{B}{B}{B}{R}",
+            "mtgoId": 72208,
+            "mtgstocksId": 48366,
             "multiverseId": 463947,
             "name": "Nicol Bolas, Dragon-God",
             "number": "WS6",
             "originalText": "Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",
             "originalType": "Legendary Planeswalker — Bolas",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 169.99,
+                    "2019-05-05": 190.0,
+                    "2019-05-12": 148.99,
+                    "2019-05-19": 131.45,
+                    "2019-05-26": 129.0,
+                    "2019-06-02": 129.49,
+                    "2019-06-09": 124.0,
+                    "2019-06-16": 119.69,
+                    "2019-06-23": 110.05,
+                    "2019-06-30": 103.32,
+                    "2019-07-07": 98.55,
+                    "2019-07-14": 91.99,
+                    "2019-07-21": 91.99
+                }
+            },
             "printings": [
                 "MED",
+                "PS19",
                 "PWAR",
                 "WAR"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/832b9e3cde0d9156",
+                "tcgplayer": "https://mtgjson.com/links/3044f7bd6e510370"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -1245,7 +1408,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",
+            "tcgplayerProductId": 188904,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/3044f7bd6e510370",
+            "text": "Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.\n[+1]: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n[−3]: Destroy target creature or planeswalker.\n[−8]: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",
             "type": "Legendary Planeswalker — Bolas",
             "types": [
                 "Planeswalker"
@@ -1270,6 +1435,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1283,6 +1451,7 @@
             "manaCost": "{4}{U}{B}{B}{R}",
             "mcmId": 363617,
             "mcmMetaId": 10388,
+            "mtgoId": 69967,
             "mtgstocksId": 40511,
             "multiverseId": 456592,
             "name": "Nicol Bolas, Planeswalker",
@@ -1290,23 +1459,21 @@
             "originalText": "+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.\n−9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.",
             "originalType": "Legendary Planeswalker — Bolas",
             "prices": {
-                "paper": {
-                    "2019-01-23": 42.67,
-                    "2019-01-30": 40.49,
-                    "2019-02-06": 40.0,
-                    "2019-02-13": 40.0,
-                    "2019-02-20": 39.98,
-                    "2019-02-27": 40.04,
-                    "2019-03-06": 40.04,
-                    "2019-03-13": 40.04,
-                    "2019-03-20": 40.0,
-                    "2019-03-27": 40.0,
-                    "2019-04-03": 50.61,
-                    "2019-04-10": 53.44,
-                    "2019-04-17": 53.33,
-                    "2019-04-24": 54.98,
-                    "2019-05-01": 53.41,
-                    "2019-05-08": 73.54
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 53.66,
+                    "2019-05-05": 79.82,
+                    "2019-05-12": 67.21,
+                    "2019-05-19": 64.05,
+                    "2019-05-26": 99.95,
+                    "2019-06-02": 98.95,
+                    "2019-06-09": 96.98,
+                    "2019-06-16": 94.97,
+                    "2019-06-23": 85.5,
+                    "2019-06-30": 85.0,
+                    "2019-07-07": 66.52,
+                    "2019-07-14": 64.93,
+                    "2019-07-21": 64.93
                 }
             },
             "printings": [
@@ -1348,7 +1515,7 @@
             ],
             "tcgplayerProductId": 175247,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b477de83fda26bb7",
-            "text": "+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.\n−9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.",
+            "text": "[+3]: Destroy target noncreature permanent.\n[−2]: Gain control of target creature.\n[−9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.",
             "type": "Legendary Planeswalker — Bolas",
             "types": [
                 "Planeswalker"
@@ -1371,6 +1538,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isArena": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1387,6 +1558,7 @@
             "manaCost": "{3}{U}{R}",
             "mcmId": 363616,
             "mcmMetaId": 265087,
+            "mtgoId": 69973,
             "mtgstocksId": 40506,
             "multiverseId": 456593,
             "name": "Ral, Izzet Viceroy",
@@ -1394,23 +1566,21 @@
             "originalText": "+1: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.\n−3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.\n−8: You get an emblem with \"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.\"",
             "originalType": "Legendary Planeswalker — Ral",
             "prices": {
-                "paper": {
-                    "2019-01-23": 48.5,
-                    "2019-01-30": 47.29,
-                    "2019-02-06": 47.25,
-                    "2019-02-13": 45.0,
-                    "2019-02-20": 45.63,
-                    "2019-02-27": 45.0,
-                    "2019-03-06": 46.26,
-                    "2019-03-13": 45.63,
-                    "2019-03-20": 45.63,
-                    "2019-03-27": 48.89,
-                    "2019-04-03": 42.5,
-                    "2019-04-10": 39.99,
-                    "2019-04-17": 44.99,
-                    "2019-04-24": 43.45,
-                    "2019-05-01": 48.89,
-                    "2019-05-08": 47.44
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 44.9,
+                    "2019-05-05": 47.99,
+                    "2019-05-12": 49.42,
+                    "2019-05-19": 45.5,
+                    "2019-05-26": 44.49,
+                    "2019-06-02": 44.98,
+                    "2019-06-09": 44.98,
+                    "2019-06-16": 43.67,
+                    "2019-06-23": 43.35,
+                    "2019-06-30": 42.57,
+                    "2019-07-07": 41.99,
+                    "2019-07-14": 40.16,
+                    "2019-07-21": 40.1
                 }
             },
             "printings": [
@@ -1456,7 +1626,7 @@
             ],
             "tcgplayerProductId": 175246,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e915a81d3daa2f88",
-            "text": "+1: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.\n-3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.\n-8: You get an emblem with \"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.\"",
+            "text": "[+1]: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.\n[-3]: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.\n[-8]: You get an emblem with \"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.\"",
             "type": "Legendary Planeswalker — Ral",
             "types": [
                 "Planeswalker"
@@ -1480,7 +1650,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1493,16 +1666,40 @@
             },
             "loyalty": "4",
             "manaCost": "{2}{G}{U}{R}",
+            "mtgoId": 72204,
+            "mtgstocksId": 48367,
             "multiverseId": 463949,
             "name": "Sarkhan Unbroken",
+            "names": [],
             "number": "WS8",
             "originalText": "+1: Draw a card, then add one mana of any color.\n−2: Create a 4/4 red Dragon creature token with flying.\n−8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.",
             "originalType": "Legendary Planeswalker — Sarkhan",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 43.99,
+                    "2019-05-05": 55.86,
+                    "2019-05-12": 35.0,
+                    "2019-05-19": 30.16,
+                    "2019-05-26": 30.33,
+                    "2019-06-02": 29.97,
+                    "2019-06-09": 29.99,
+                    "2019-06-16": 28.99,
+                    "2019-06-23": 27.88,
+                    "2019-06-30": 28.5,
+                    "2019-07-07": 28.48,
+                    "2019-07-14": 28.14,
+                    "2019-07-21": 27.96
+                }
+            },
             "printings": [
                 "DTK",
                 "MED"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/65205a53d5424eae",
+                "tcgplayer": "https://mtgjson.com/links/e0530114c80a76dc"
+            },
             "rarity": "mythic",
             "rulings": [],
             "scryfallId": "6d0f3a05-7bd1-45f0-984e-670ef43554b7",
@@ -1514,7 +1711,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Draw a card, then add one mana of any color.\n−2: Create a 4/4 red Dragon creature token with flying.\n−8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.",
+            "tcgplayerProductId": 188907,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e0530114c80a76dc",
+            "text": "[+1]: Draw a card, then add one mana of any color.\n[−2]: Create a 4/4 red Dragon creature token with flying.\n[−8]: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.",
             "type": "Legendary Planeswalker — Sarkhan",
             "types": [
                 "Planeswalker"
@@ -1535,6 +1734,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1546,6 +1748,7 @@
             },
             "loyalty": "4",
             "manaCost": "{3}{B}{B}{B}",
+            "mtgoId": 71560,
             "mtgstocksId": 47796,
             "multiverseId": 460124,
             "name": "Sorin Markov",
@@ -1553,22 +1756,21 @@
             "originalText": "+2: Sorin Markov deals 2 damage to any target and you gain 2 life.\n−3: Target opponent's life total becomes 10.\n−7: You control target player during that player's next turn.",
             "originalType": "Legendary Planeswalker — Sorin",
             "prices": {
-                "paper": {
-                    "2019-01-30": 35.45,
-                    "2019-02-06": 42.5,
-                    "2019-02-13": 43.04,
-                    "2019-02-20": 39.57,
-                    "2019-02-27": 38.41,
-                    "2019-03-06": 41.09,
-                    "2019-03-13": 39.55,
-                    "2019-03-20": 36.42,
-                    "2019-03-27": 35.24,
-                    "2019-04-03": 39.99,
-                    "2019-04-10": 41.99,
-                    "2019-04-17": 40.0,
-                    "2019-04-24": 41.0,
-                    "2019-05-01": 40.0,
-                    "2019-05-08": 49.95
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 40.0,
+                    "2019-05-05": 40.0,
+                    "2019-05-12": 47.44,
+                    "2019-05-19": 44.97,
+                    "2019-05-26": 41.99,
+                    "2019-06-02": 41.99,
+                    "2019-06-09": 41.99,
+                    "2019-06-16": 42.29,
+                    "2019-06-23": 40.0,
+                    "2019-06-30": 41.99,
+                    "2019-07-07": 43.47,
+                    "2019-07-14": 44.02,
+                    "2019-07-21": 43.82
                 }
             },
             "printings": [
@@ -1658,7 +1860,7 @@
             ],
             "tcgplayerProductId": 183445,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/fd4c002daa84d26e",
-            "text": "+2: Sorin Markov deals 2 damage to any target and you gain 2 life.\n−3: Target opponent's life total becomes 10.\n−7: You control target player during that player's next turn.",
+            "text": "[+2]: Sorin Markov deals 2 damage to any target and you gain 2 life.\n[−3]: Target opponent's life total becomes 10.\n[−7]: You control target player during that player's next turn.",
             "type": "Legendary Planeswalker — Sorin",
             "types": [
                 "Planeswalker"
@@ -1679,6 +1881,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1690,6 +1895,7 @@
             },
             "loyalty": "4",
             "manaCost": "{3}{U}{U}",
+            "mtgoId": 71564,
             "mtgstocksId": 47794,
             "multiverseId": 460123,
             "name": "Tamiyo, the Moon Sage",
@@ -1698,22 +1904,21 @@
             "originalText": "+1: Tap target permanent. It doesn't untap during its controller's next untap step.\n−2: Draw a card for each tapped creature target player controls.\n−8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
             "originalType": "Legendary Planeswalker — Tamiyo",
             "prices": {
-                "paper": {
-                    "2019-01-30": 70.98,
-                    "2019-02-06": 70.25,
-                    "2019-02-13": 69.99,
-                    "2019-02-20": 69.99,
-                    "2019-02-27": 69.99,
-                    "2019-03-06": 70.0,
-                    "2019-03-13": 66.05,
-                    "2019-03-20": 66.0,
-                    "2019-03-27": 65.0,
-                    "2019-04-03": 69.99,
-                    "2019-04-10": 65.99,
-                    "2019-04-17": 67.0,
-                    "2019-04-24": 69.69,
-                    "2019-05-01": 65.97,
-                    "2019-05-08": 76.52
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 67.0,
+                    "2019-05-05": 67.0,
+                    "2019-05-12": 78.15,
+                    "2019-05-19": 74.52,
+                    "2019-05-26": 74.98,
+                    "2019-06-02": 68.62,
+                    "2019-06-09": 70.0,
+                    "2019-06-16": 72.48,
+                    "2019-06-23": 79.95,
+                    "2019-06-30": 77.75,
+                    "2019-07-07": 77.5,
+                    "2019-07-14": 77.5,
+                    "2019-07-21": 79.99
                 }
             },
             "printings": [
@@ -1762,7 +1967,7 @@
             ],
             "tcgplayerProductId": 183444,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/002bf175b860da75",
-            "text": "+1: Tap target permanent. It doesn't untap during its controller's next untap step.\n−2: Draw a card for each tapped creature target player controls.\n−8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
+            "text": "[+1]: Tap target permanent. It doesn't untap during its controller's next untap step.\n[−2]: Draw a card for each tapped creature target player controls.\n[−8]: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
             "type": "Legendary Planeswalker — Tamiyo",
             "types": [
                 "Planeswalker"
@@ -1785,6 +1990,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isArena": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1801,6 +2010,7 @@
             "manaCost": "{3}{W}{U}",
             "mcmId": 363612,
             "mcmMetaId": 239487,
+            "mtgoId": 69971,
             "mtgstocksId": 40507,
             "multiverseId": 456594,
             "name": "Teferi, Hero of Dominaria",
@@ -1809,23 +2019,21 @@
             "originalText": "+1: Draw a card. At the beginning of the next end step, untap two lands.\n−3: Put target nonland permanent into its owner's library third from the top.\n−8: You get an emblem with \"Whenever you draw a card, exile target permanent an opponent controls.\"",
             "originalType": "Legendary Planeswalker — Teferi",
             "prices": {
-                "paper": {
-                    "2019-01-23": 229.54,
-                    "2019-01-30": 223.69,
-                    "2019-02-06": 210.09,
-                    "2019-02-13": 221.84,
-                    "2019-02-20": 222.89,
-                    "2019-02-27": 223.69,
-                    "2019-03-06": 209.0,
-                    "2019-03-13": 209.0,
-                    "2019-03-20": 232.5,
-                    "2019-03-27": 215.0,
-                    "2019-04-03": 225.0,
-                    "2019-04-10": 300.0,
-                    "2019-04-17": 289.0,
-                    "2019-04-24": 275.5,
-                    "2019-05-01": 272.5,
-                    "2019-05-08": 348.89
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 275.0,
+                    "2019-05-05": 300.0,
+                    "2019-05-12": 300.0,
+                    "2019-05-19": 349.42,
+                    "2019-05-26": 348.36,
+                    "2019-06-02": 336.4,
+                    "2019-06-09": 324.44,
+                    "2019-06-16": 330.84,
+                    "2019-06-23": 324.44,
+                    "2019-06-30": 319.72,
+                    "2019-07-07": 299.99,
+                    "2019-07-14": 291.73,
+                    "2019-07-21": 290.0
                 }
             },
             "printings": [
@@ -1860,7 +2068,7 @@
             ],
             "tcgplayerProductId": 175242,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/a56f42ec22b545ba",
-            "text": "+1: Draw a card. At the beginning of the next end step, untap up to two lands.\n−3: Put target nonland permanent into its owner's library third from the top.\n−8: You get an emblem with \"Whenever you draw a card, exile target permanent an opponent controls.\"",
+            "text": "[+1]: Draw a card. At the beginning of the next end step, untap up to two lands.\n[−3]: Put target nonland permanent into its owner's library third from the top.\n[−8]: You get an emblem with \"Whenever you draw a card, exile target permanent an opponent controls.\"",
             "type": "Legendary Planeswalker — Teferi",
             "types": [
                 "Planeswalker"
@@ -1880,7 +2088,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1892,18 +2103,41 @@
             },
             "loyalty": "4",
             "manaCost": "{3}{U}{U}",
+            "mtgoId": 72206,
+            "mtgstocksId": 48362,
             "multiverseId": 463945,
             "name": "Tezzeret the Seeker",
             "number": "WS4",
             "originalText": "+1: Untap up to two target artifacts.\n−X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.\n−5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",
             "originalType": "Legendary Planeswalker — Tezzeret",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 92.98,
+                    "2019-05-05": 129.0,
+                    "2019-05-12": 69.5,
+                    "2019-05-19": 65.5,
+                    "2019-05-26": 68.88,
+                    "2019-06-02": 67.23,
+                    "2019-06-09": 65.5,
+                    "2019-06-16": 61.99,
+                    "2019-06-23": 59.97,
+                    "2019-06-30": 59.88,
+                    "2019-07-07": 55.72,
+                    "2019-07-14": 55.72,
+                    "2019-07-21": 55.0
+                }
+            },
             "printings": [
                 "ALA",
                 "DDF",
                 "MED",
                 "MM2"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/507cdb7b9de155f5",
+                "tcgplayer": "https://mtgjson.com/links/f25a09fee61a512a"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -1940,7 +2174,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Untap up to two target artifacts.\n−X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.\n−5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",
+            "tcgplayerProductId": 188902,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/f25a09fee61a512a",
+            "text": "[+1]: Untap up to two target artifacts.\n−X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.\n[−5]: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",
             "type": "Legendary Planeswalker — Tezzeret",
             "types": [
                 "Planeswalker"
@@ -1963,6 +2199,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1976,6 +2215,7 @@
             "manaCost": "{2}{U}{B}",
             "mcmId": 363613,
             "mcmMetaId": 202400,
+            "mtgoId": 69963,
             "mtgstocksId": 40508,
             "multiverseId": 456595,
             "name": "Tezzeret, Agent of Bolas",
@@ -1983,23 +2223,21 @@
             "originalText": "+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−1: Target artifact becomes an artifact creature with base power and toughness 5/5.\n−4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.",
             "originalType": "Legendary Planeswalker — Tezzeret",
             "prices": {
-                "paper": {
-                    "2019-01-23": 47.29,
-                    "2019-01-30": 45.9,
-                    "2019-02-06": 44.99,
-                    "2019-02-13": 44.99,
-                    "2019-02-20": 44.99,
-                    "2019-02-27": 44.99,
-                    "2019-03-06": 46.29,
-                    "2019-03-13": 48.5,
-                    "2019-03-20": 49.15,
-                    "2019-03-27": 52.13,
-                    "2019-04-03": 60.0,
-                    "2019-04-10": 72.5,
-                    "2019-04-17": 67.54,
-                    "2019-04-24": 66.47,
-                    "2019-05-01": 67.99,
-                    "2019-05-08": 67.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 66.47,
+                    "2019-05-05": 64.98,
+                    "2019-05-12": 65.0,
+                    "2019-05-19": 65.99,
+                    "2019-05-26": 60.62,
+                    "2019-06-02": 58.95,
+                    "2019-06-09": 58.88,
+                    "2019-06-16": 57.99,
+                    "2019-06-23": 57.99,
+                    "2019-06-30": 57.99,
+                    "2019-07-07": 57.49,
+                    "2019-07-14": 52.99,
+                    "2019-07-21": 50.49
                 }
             },
             "printings": [
@@ -2041,7 +2279,7 @@
             ],
             "tcgplayerProductId": 175243,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/f9a113928f84781d",
-            "text": "+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−1: Target artifact becomes an artifact creature with base power and toughness 5/5.\n−4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.",
+            "text": "[+1]: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n[−1]: Target artifact becomes an artifact creature with base power and toughness 5/5.\n[−4]: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.",
             "type": "Legendary Planeswalker — Tezzeret",
             "types": [
                 "Planeswalker"
@@ -2057,7 +2295,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": true,
+            "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2070,18 +2311,41 @@
             },
             "loyalty": "7",
             "manaCost": "{8}",
+            "mtgoId": 72200,
+            "mtgstocksId": 48361,
             "multiverseId": 463942,
             "name": "Ugin, the Spirit Dragon",
             "number": "WS1",
             "originalText": "+2: Ugin, the Spirit Dragon deals 3 damage to any target.\n−X: Exile each permanent with converted mana cost X or less that's one or more colors.\n−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
             "originalType": "Legendary Planeswalker — Ugin",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 246.99,
+                    "2019-05-05": 367.99,
+                    "2019-05-12": 259.99,
+                    "2019-05-19": 239.98,
+                    "2019-05-26": 226.6,
+                    "2019-06-02": 212.48,
+                    "2019-06-09": 199.99,
+                    "2019-06-16": 199.69,
+                    "2019-06-23": 197.99,
+                    "2019-06-30": 199.69,
+                    "2019-07-07": 199.84,
+                    "2019-07-14": 194.07,
+                    "2019-07-21": 183.07
+                }
+            },
             "printings": [
                 "FRF",
                 "MED",
                 "PRM",
                 "UGIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "mtgstocks": "https://mtgjson.com/links/967e2182b6893ed1",
+                "tcgplayer": "https://mtgjson.com/links/2370faf5812e9697"
+            },
             "rarity": "mythic",
             "rulings": [
                 {
@@ -2102,7 +2366,9 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: Ugin, the Spirit Dragon deals 3 damage to any target.\n−X: Exile each permanent with converted mana cost X or less that's one or more colors.\n−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+            "tcgplayerProductId": 188898,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/2370faf5812e9697",
+            "text": "[+2]: Ugin, the Spirit Dragon deals 3 damage to any target.\n−X: Exile each permanent with converted mana cost X or less that's one or more colors.\n[−10]: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
             "type": "Legendary Planeswalker — Ugin",
             "types": [
                 "Planeswalker"
@@ -2125,6 +2391,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isArena": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2141,6 +2411,7 @@
             "manaCost": "{2}{B}{G}",
             "mcmId": 364127,
             "mcmMetaId": 265312,
+            "mtgoId": 69977,
             "mtgstocksId": 41995,
             "multiverseId": 456596,
             "name": "Vraska, Golgari Queen",
@@ -2149,23 +2420,21 @@
             "originalText": "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n−3: Destroy target nonland permanent with converted mana cost 3 or less.\n−9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
             "originalType": "Legendary Planeswalker — Vraska",
             "prices": {
-                "paper": {
-                    "2019-01-23": 53.0,
-                    "2019-01-30": 52.0,
-                    "2019-02-06": 50.62,
-                    "2019-02-13": 49.98,
-                    "2019-02-20": 47.0,
-                    "2019-02-27": 46.0,
-                    "2019-03-06": 45.96,
-                    "2019-03-13": 45.96,
-                    "2019-03-20": 45.98,
-                    "2019-03-27": 46.0,
-                    "2019-04-03": 45.96,
-                    "2019-04-10": 45.96,
-                    "2019-04-17": 46.0,
-                    "2019-04-24": 46.24,
-                    "2019-05-01": 49.63,
-                    "2019-05-08": 54.05
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 48.0,
+                    "2019-05-05": 50.25,
+                    "2019-05-12": 53.57,
+                    "2019-05-19": 54.97,
+                    "2019-05-26": 57.47,
+                    "2019-06-02": 58.25,
+                    "2019-06-09": 54.95,
+                    "2019-06-16": 54.82,
+                    "2019-06-23": 50.0,
+                    "2019-06-30": 51.49,
+                    "2019-07-07": 52.0,
+                    "2019-07-14": 49.23,
+                    "2019-07-21": 51.49
                 }
             },
             "printings": [
@@ -2203,7 +2472,7 @@
             ],
             "tcgplayerProductId": 176849,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/92f1950055b197e7",
-            "text": "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n-3: Destroy target nonland permanent with converted mana cost 3 or less.\n-9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
+            "text": "[+2]: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n[-3]: Destroy target nonland permanent with converted mana cost 3 or less.\n[-9]: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
             "type": "Legendary Planeswalker — Vraska",
             "types": [
                 "Planeswalker"
@@ -2218,15 +2487,39 @@
     "mcmId": 2373,
     "mcmName": "Guilds of Ravnica: Mythic Edition",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "mtgoCode": "MS4",
     "name": "Mythic Edition",
     "releaseDate": "2018-10-05",
     "tcgplayerGroupId": 2326,
     "tokens": [
+        {
+            "artist": "Dave Kendall",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "layout": "normal",
+            "name": "Beast",
+            "number": "W1",
+            "power": "3",
+            "reverseRelated": [
+                "Garruk, Apex Predator"
+            ],
+            "scryfallId": "2daf6591-606e-4a36-b279-02aad7e1110c",
+            "scryfallIllustrationId": "b05973d9-da42-4d1d-bbce-f89835836063",
+            "scryfallOracleId": "3c27a325-4490-44e6-aa9a-b591697486c8",
+            "text": "Deathtouch",
+            "toughness": "3",
+            "type": "Token Creature — Beast",
+            "uuid": "e6c8e5d4-8c1c-5acc-bc3d-83773d065915"
+        },
         {
             "artist": "Victor Adame Minguez",
             "borderColor": "black",
@@ -2272,7 +2565,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Dack Fayden Emblem",
             "number": "R2",
             "reverseRelated": [
@@ -2290,7 +2583,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Domri, Chaos Bringer Emblem",
             "number": "R3",
             "reverseRelated": [],
@@ -2302,11 +2595,35 @@
             "uuid": "8accdc1a-639d-5fb0-a6e8-95c00d36df45"
         },
         {
+            "artist": "Raymond Swanland",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "layout": "normal",
+            "name": "Dragon",
+            "number": "W2",
+            "power": "4",
+            "reverseRelated": [
+                "Sarkhan Unbroken"
+            ],
+            "scryfallId": "5fb1fa28-7704-4b0b-a3d0-2d003e257b9a",
+            "scryfallIllustrationId": "85fa7926-2d9d-4f56-8dc8-acdd2f1c425e",
+            "scryfallOracleId": "c8790543-9399-4312-9b15-aa8a45c8fec7",
+            "text": "Flying",
+            "toughness": "4",
+            "type": "Token Creature — Dragon",
+            "uuid": "bd014a07-d3e6-58db-a1db-538305c2697b"
+        },
+        {
             "artist": "Zack Stella",
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Elspeth, Knight-Errant Emblem",
             "number": "G4",
             "reverseRelated": [
@@ -2320,11 +2637,29 @@
             "uuid": "a8906abf-57d4-539a-ae90-eaef257b7708"
         },
         {
+            "artist": "Victor Adame Minguez",
+            "borderColor": "black",
+            "colorIdentity": [],
+            "colors": [],
+            "layout": "emblem",
+            "name": "Garruk, Apex Predator Emblem",
+            "number": "W3",
+            "reverseRelated": [
+                "Garruk, Apex Predator"
+            ],
+            "scryfallId": "0aaa3cf1-b6ef-4067-aa25-e99cf3bd82a8",
+            "scryfallIllustrationId": "6b3ebe4e-484e-4690-b007-a251d071aea3",
+            "scryfallOracleId": "f1df1017-8d03-46c8-a47c-4a301f326550",
+            "text": "Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.",
+            "type": "Emblem — Garruk",
+            "uuid": "c501f0ee-7f90-511d-941a-eeeb3029a2f3"
+        },
+        {
             "artist": "Kieran Yanner",
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Jaya Ballard Emblem",
             "number": "R4",
             "reverseRelated": [
@@ -2342,7 +2677,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Liliana, the Last Hope Emblem",
             "number": "G5",
             "reverseRelated": [
@@ -2360,7 +2695,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Ral, Izzet Viceroy Emblem",
             "number": "G6",
             "reverseRelated": [],
@@ -2399,7 +2734,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Tamiyo, the Moon Sage Emblem",
             "number": "R5",
             "reverseRelated": [
@@ -2417,7 +2752,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Teferi, Hero of Dominaria Emblem",
             "number": "G7",
             "reverseRelated": [
@@ -2435,7 +2770,7 @@
             "borderColor": "black",
             "colorIdentity": [],
             "colors": [],
-            "layout": "normal",
+            "layout": "emblem",
             "name": "Vraska, Golgari Queen Emblem",
             "number": "G8",
             "reverseRelated": [

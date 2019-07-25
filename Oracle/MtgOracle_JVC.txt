@@ -4,9 +4,9 @@
 <Name>Jace Beleren</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>[+2]: Each player draws a card.
-[-1]: Target player draws a card.
-[-10]: Target player puts the top twenty cards of their library into their graveyard.</CardText>
+<CardText>+2: Each player draws a card.
+-1: Target player draws a card.
+-10: Target player puts the top twenty cards of their library into their graveyard.</CardText>
 <Artist>Kev Walker</Artist>
 <Multiverseid>185816</Multiverseid>
 <Rulings>2009/10/01: If there are fewer than twenty cards in the targeted player's library, that player puts all the cards from their library into their graveyard.</Rulings>
@@ -629,9 +629,9 @@ Draw two cards.</CardText>
 <Name>Chandra Nalaar</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 6)</Type>
 <ManaCost>3RR (5)</ManaCost>
-<CardText>[+1]: Chandra Nalaar deals 1 damage to target player or planeswalker.
+<CardText>+1: Chandra Nalaar deals 1 damage to target player or planeswalker.
 -X: Chandra Nalaar deals X damage to target creature.
-[-8]: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</CardText>
+-8: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</CardText>
 <Artist>Kev Walker</Artist>
 <Multiverseid>185815</Multiverseid>
 <Rulings>2007/10/01: To activate the second ability, you choose a value of X equal to or less than the number of loyalty counters on <Chandra Nalaar>. You may choose 0. You can't choose a negative number.</Rulings>

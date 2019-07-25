@@ -15,6 +15,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -31,23 +34,21 @@
             "name": "Ajani Steadfast",
             "number": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 42.0,
-                    "2019-01-30": 41.1,
-                    "2019-02-06": 40.2,
-                    "2019-02-13": 40.1,
-                    "2019-02-20": 40.0,
-                    "2019-02-27": 39.99,
-                    "2019-03-06": 40.0,
-                    "2019-03-13": 40.1,
-                    "2019-03-20": 40.39,
-                    "2019-03-27": 39.99,
-                    "2019-04-03": 40.39,
-                    "2019-04-10": 40.0,
-                    "2019-04-17": 40.0,
-                    "2019-04-24": 40.0,
-                    "2019-05-01": 40.0,
-                    "2019-05-08": 39.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 39.99,
+                    "2019-05-05": 40.0,
+                    "2019-05-12": 39.99,
+                    "2019-05-19": 39.98,
+                    "2019-05-26": 40.1,
+                    "2019-06-02": 39.99,
+                    "2019-06-09": 40.1,
+                    "2019-06-16": 41.49,
+                    "2019-06-23": 40.99,
+                    "2019-06-30": 41.49,
+                    "2019-07-07": 41.49,
+                    "2019-07-14": 41.99,
+                    "2019-07-21": 41.1
                 }
             },
             "printings": [
@@ -87,7 +88,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91630,
-            "text": "+1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.\n−7: You get an emblem with \"If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.\"",
+            "text": "[+1]: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.\n[−2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.\n[−7]: You get an emblem with \"If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.\"",
             "type": "Legendary Planeswalker — Ajani",
             "types": [
                 "Planeswalker"
@@ -108,6 +109,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -124,23 +128,21 @@
             "name": "Chandra, Pyromaster",
             "number": "134",
             "prices": {
-                "paper": {
-                    "2019-01-23": 33.72,
-                    "2019-01-30": 34.99,
-                    "2019-02-06": 34.35,
-                    "2019-02-13": 34.35,
-                    "2019-02-20": 33.72,
-                    "2019-02-27": 33.49,
-                    "2019-03-06": 33.72,
-                    "2019-03-13": 34.48,
-                    "2019-03-20": 34.48,
-                    "2019-03-27": 33.49,
-                    "2019-04-03": 33.49,
-                    "2019-04-10": 34.87,
-                    "2019-04-17": 34.91,
-                    "2019-04-24": 34.53,
-                    "2019-05-01": 34.53,
-                    "2019-05-08": 33.72
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 34.74,
+                    "2019-05-05": 34.53,
+                    "2019-05-12": 33.48,
+                    "2019-05-19": 33.76,
+                    "2019-05-26": 34.99,
+                    "2019-06-02": 34.0,
+                    "2019-06-09": 33.65,
+                    "2019-06-16": 33.14,
+                    "2019-06-23": 33.25,
+                    "2019-06-30": 33.24,
+                    "2019-07-07": 33.25,
+                    "2019-07-14": 33.25,
+                    "2019-07-21": 33.25
                 }
             },
             "printings": [
@@ -200,7 +202,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91633,
-            "text": "+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n0: Exile the top card of your library. You may play it this turn.\n−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
+            "text": "[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[−7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
             "type": "Legendary Planeswalker — Chandra",
             "types": [
                 "Planeswalker"
@@ -223,6 +225,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -239,23 +244,21 @@
             "name": "Garruk, Apex Predator",
             "number": "210",
             "prices": {
-                "paper": {
-                    "2019-01-23": 46.93,
-                    "2019-01-30": 47.5,
-                    "2019-02-06": 47.5,
-                    "2019-02-13": 49.01,
-                    "2019-02-20": 49.2,
-                    "2019-02-27": 49.2,
-                    "2019-03-06": 48.26,
-                    "2019-03-13": 49.01,
-                    "2019-03-20": 49.2,
-                    "2019-03-27": 49.68,
-                    "2019-04-03": 49.39,
-                    "2019-04-10": 50.0,
-                    "2019-04-17": 49.99,
-                    "2019-04-24": 49.69,
-                    "2019-05-01": 49.69,
-                    "2019-05-08": 48.45
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 49.69,
+                    "2019-05-05": 46.99,
+                    "2019-05-12": 48.45,
+                    "2019-05-19": 48.45,
+                    "2019-05-26": 48.45,
+                    "2019-06-02": 48.45,
+                    "2019-06-09": 49.67,
+                    "2019-06-16": 49.94,
+                    "2019-06-23": 49.99,
+                    "2019-06-30": 49.67,
+                    "2019-07-07": 49.67,
+                    "2019-07-14": 49.39,
+                    "2019-07-21": 49.39
                 }
             },
             "printings": [
@@ -292,7 +295,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91635,
-            "text": "+1: Destroy another target planeswalker.\n+1: Create a 3/3 black Beast creature token with deathtouch.\n−3: Destroy target creature. You gain life equal to its toughness.\n−8: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
+            "text": "[+1]: Destroy another target planeswalker.\n[+1]: Create a 3/3 black Beast creature token with deathtouch.\n[−3]: Destroy target creature. You gain life equal to its toughness.\n[−8]: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
             "type": "Legendary Planeswalker — Garruk",
             "types": [
                 "Planeswalker"
@@ -313,6 +316,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -329,23 +335,21 @@
             "name": "Jace, the Living Guildpact",
             "number": "62",
             "prices": {
-                "paper": {
-                    "2019-01-23": 29.28,
-                    "2019-01-30": 29.99,
-                    "2019-02-06": 29.99,
-                    "2019-02-13": 29.98,
-                    "2019-02-20": 29.14,
-                    "2019-02-27": 29.28,
-                    "2019-03-06": 29.99,
-                    "2019-03-13": 28.99,
-                    "2019-03-20": 29.28,
-                    "2019-03-27": 29.14,
-                    "2019-04-03": 29.14,
-                    "2019-04-10": 29.14,
-                    "2019-04-17": 29.14,
-                    "2019-04-24": 29.0,
-                    "2019-05-01": 29.0,
-                    "2019-05-08": 29.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 29.0,
+                    "2019-05-05": 29.07,
+                    "2019-05-12": 28.41,
+                    "2019-05-19": 28.41,
+                    "2019-05-26": 28.49,
+                    "2019-06-02": 28.74,
+                    "2019-06-09": 28.99,
+                    "2019-06-16": 28.99,
+                    "2019-06-23": 29.0,
+                    "2019-06-30": 28.99,
+                    "2019-07-07": 28.49,
+                    "2019-07-14": 28.91,
+                    "2019-07-21": 28.74
                 }
             },
             "printings": [
@@ -373,7 +377,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91631,
-            "text": "+1: Look at the top two cards of your library. Put one of them into your graveyard.\n−3: Return another target nonland permanent to its owner's hand.\n−8: Each player shuffles their hand and graveyard into their library. You draw seven cards.",
+            "text": "[+1]: Look at the top two cards of your library. Put one of them into your graveyard.\n[−3]: Return another target nonland permanent to its owner's hand.\n[−8]: Each player shuffles their hand and graveyard into their library. You draw seven cards.",
             "type": "Legendary Planeswalker — Jace",
             "types": [
                 "Planeswalker"
@@ -394,6 +398,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -410,23 +417,21 @@
             "name": "Liliana Vess",
             "number": "103",
             "prices": {
-                "paper": {
-                    "2019-01-23": 53.99,
-                    "2019-01-30": 54.49,
-                    "2019-02-06": 53.99,
-                    "2019-02-13": 52.48,
-                    "2019-02-20": 53.99,
-                    "2019-02-27": 54.49,
-                    "2019-03-06": 54.98,
-                    "2019-03-13": 54.49,
-                    "2019-03-20": 55.96,
-                    "2019-03-27": 54.99,
-                    "2019-04-03": 54.99,
-                    "2019-04-10": 53.99,
-                    "2019-04-17": 53.99,
-                    "2019-04-24": 54.62,
-                    "2019-05-01": 54.62,
-                    "2019-05-08": 52.8
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 51.37,
+                    "2019-05-05": 52.8,
+                    "2019-05-12": 50.87,
+                    "2019-05-19": 53.51,
+                    "2019-05-26": 53.51,
+                    "2019-06-02": 57.31,
+                    "2019-06-09": 57.31,
+                    "2019-06-16": 57.95,
+                    "2019-06-23": 56.62,
+                    "2019-06-30": 55.69,
+                    "2019-07-07": 55.69,
+                    "2019-07-14": 55.69,
+                    "2019-07-21": 55.69
                 }
             },
             "printings": [
@@ -456,7 +461,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91632,
-            "text": "+1: Target player discards a card.\n−2: Search your library for a card, then shuffle your library and put that card on top of it.\n−8: Put all creature cards from all graveyards onto the battlefield under your control.",
+            "text": "[+1]: Target player discards a card.\n[−2]: Search your library for a card, then shuffle your library and put that card on top of it.\n[−8]: Put all creature cards from all graveyards onto the battlefield under your control.",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -477,6 +482,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -493,23 +501,21 @@
             "name": "Nissa, Worldwaker",
             "number": "187",
             "prices": {
-                "paper": {
-                    "2019-01-23": 45.0,
-                    "2019-01-30": 45.0,
-                    "2019-02-06": 45.0,
-                    "2019-02-13": 45.0,
-                    "2019-02-20": 45.0,
-                    "2019-02-27": 45.0,
-                    "2019-03-06": 47.95,
-                    "2019-03-13": 48.22,
-                    "2019-03-20": 48.22,
-                    "2019-03-27": 46.49,
-                    "2019-04-03": 47.47,
-                    "2019-04-10": 48.22,
-                    "2019-04-17": 48.22,
-                    "2019-04-24": 47.95,
-                    "2019-05-01": 48.22,
-                    "2019-05-08": 48.22
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 47.95,
+                    "2019-05-05": 48.48,
+                    "2019-05-12": 48.22,
+                    "2019-05-19": 48.48,
+                    "2019-05-26": 49.24,
+                    "2019-06-02": 48.22,
+                    "2019-06-09": 48.48,
+                    "2019-06-16": 48.22,
+                    "2019-06-23": 47.95,
+                    "2019-06-30": 47.95,
+                    "2019-07-07": 46.99,
+                    "2019-07-14": 48.22,
+                    "2019-07-21": 46.99
                 }
             },
             "printings": [
@@ -539,7 +545,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91634,
-            "text": "+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.\n+1: Untap up to four target Forests.\n−7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.",
+            "text": "[+1]: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.\n[+1]: Untap up to four target Forests.\n[−7]: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.",
             "type": "Legendary Planeswalker — Nissa",
             "types": [
                 "Planeswalker"
@@ -552,9 +558,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "San Diego Comic-Con 2014",
     "releaseDate": "2014-07-08",

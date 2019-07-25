@@ -99,9 +99,9 @@ If an opponent would search a library, that player searches the top four cards o
 <Name>Gideon of the Trials</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
 <ManaCost>1WW (3)</ManaCost>
-<CardText>[+1]: Until your next turn, prevent all damage target permanent would deal.
-[0]: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
-[0]: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
+<CardText>+1: Until your next turn, prevent all damage target permanent would deal.
+0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+0: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
 <Artist>Izzy</Artist>
 <Rulings>2017/04/18: Gideon's first ability will continue to prevent damage dealt by the target permanent even if Gideon leaves the battlefield before your next turn.
 2017/04/18: Gideon's second ability doesn't count as a creature entering the battlefield. Gideon was already on the battlefield; he only changed his types.
@@ -516,9 +516,9 @@ At the beginning of enchanted player's upkeep, that player sacrifices a creature
 <Name>Liliana, Death's Majesty</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+1]: Create a 2/2 black Zombie creature token. Put the top two cards of your library into your graveyard.
-[-3]: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.
-[-7]: Destroy all non-Zombie creatures.</CardText>
+<CardText>+1: Create a 2/2 black Zombie creature token. Put the top two cards of your library into your graveyard.
+-3: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.
+-7: Destroy all non-Zombie creatures.</CardText>
 <Artist>Chris Rallis</Artist>
 <Rulings>2017/04/18: A creature that is a Zombie and has other types, such as a Zombie Jackal, isn't a non-Zombie creature.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1005,9 +1005,9 @@ Whenever Neheb, the Worthy deals combat damage to a player, each player discards
 <Name>Nissa, Steward of Elements</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: X)</Type>
 <ManaCost>XGU (2)</ManaCost>
-<CardText>[+2]: Scry 2.
-[0]: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
-[-6]: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.</CardText>
+<CardText>+2: Scry 2.
+0: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
+-6: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.</CardText>
 <Artist>Howard Lyon</Artist>
 <Rulings>2017/04/18: If X is 0, Nissa enters the battlefield with no loyalty and is put into her owner's graveyard before you can activate her abilities.
 2017/04/18: While resolving Nissa's second ability, if you can't or don't put the card onto the battlefield, it remains on top of your library.

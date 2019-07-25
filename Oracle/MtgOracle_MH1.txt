@@ -492,9 +492,9 @@ Whenever Rhox Veteran attacks, tap target creature an opponent controls.</CardTe
 <Name>Serra the Benevolent</Name>
 <Type>Legendary Planeswalker — Serra (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>[+2]: Creatures you control with flying get +1/+1 until end of turn.
-[-3]: Create a 4/4 white Angel creature token with flying and vigilance.
-[-6]: You get an emblem with "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."</CardText>
+<CardText>+2: Creatures you control with flying get +1/+1 until end of turn.
+-3: Create a 4/4 white Angel creature token with flying and vigilance.
+-6: You get an emblem with "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>463975</Multiverseid>
 <Rulings>2019/06/14: Serra's first ability affects only creatures you control with flying at the time it resolves. Creatures you begin to control later in the turn or that gain flying later in the turn won't get +1/+1.
@@ -4270,9 +4270,9 @@ Whenever you or a permanent you control becomes the target of a spell or ability
 <Name>Wrenn and Six</Name>
 <Type>Legendary Planeswalker — Wrenn (Loyalty: 3)</Type>
 <ManaCost>RG (2)</ManaCost>
-<CardText>[+1]: Return up to one target land card from your graveyard to your hand.
-[-1]: Wrenn and Six deals 1 damage to any target.
-[-7]: You get an emblem with "Instant and sorcery cards in your graveyard have retrace." (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)</CardText>
+<CardText>+1: Return up to one target land card from your graveyard to your hand.
+-1: Wrenn and Six deals 1 damage to any target.
+-7: You get an emblem with "Instant and sorcery cards in your graveyard have retrace." (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>464166</Multiverseid>
 <Rulings>2019/06/14: When a spell you cast with retrace resolves or is countered, it's put back into your graveyard. You may use the retrace ability to cast it again.</Rulings>

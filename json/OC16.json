@@ -23,6 +23,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -32,9 +33,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}{W}{U}{B}",
+            "mtgstocksId": 34235,
             "name": "Atraxa, Praetors' Voice",
             "number": "28",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 21.99,
+                    "2019-05-05": 16.74,
+                    "2019-05-12": 20.74,
+                    "2019-05-19": 19.99,
+                    "2019-05-26": 19.99,
+                    "2019-06-02": 20.49,
+                    "2019-06-09": 18.99,
+                    "2019-06-16": 18.97,
+                    "2019-06-23": 19.99,
+                    "2019-06-30": 18.95,
+                    "2019-07-07": 18.99,
+                    "2019-07-14": 19.99,
+                    "2019-07-21": 19.02
+                }
+            },
             "printings": [
                 "C16",
                 "CM2",
@@ -78,6 +98,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 125317,
             "text": "Flying, vigilance, deathtouch, lifelink\nAt the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
             "toughness": "4",
             "type": "Legendary Creature — Angel Horror",
@@ -107,6 +128,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -116,10 +138,29 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{U}{B}{R}",
+            "mtgstocksId": 34266,
             "name": "Breya, Etherium Shaper",
             "names": [],
             "number": "29",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.99,
+                    "2019-05-05": 1.15,
+                    "2019-05-12": 1.0,
+                    "2019-05-19": 1.0,
+                    "2019-05-26": 1.0,
+                    "2019-06-02": 1.34,
+                    "2019-06-09": 1.0,
+                    "2019-06-16": 1.27,
+                    "2019-06-23": 1.0,
+                    "2019-06-30": 1.0,
+                    "2019-07-07": 1.59,
+                    "2019-07-14": 1.31,
+                    "2019-07-21": 1.0
+                }
+            },
             "printings": [
                 "C16",
                 "OC16",
@@ -149,6 +190,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 125318,
             "text": "When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue Thopter artifact creature tokens with flying.\n{2}, Sacrifice two artifacts: Choose one —\n• Breya deals 3 damage to target player or planeswalker.\n• Target creature gets -4/-4 until end of turn.\n• You gain 5 life.",
             "toughness": "4",
             "type": "Legendary Artifact Creature — Human",
@@ -180,6 +222,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -189,9 +232,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{R}{G}{W}{U}",
+            "mtgstocksId": 34446,
             "name": "Kynaios and Tiro of Meletis",
             "number": "36",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.73,
+                    "2019-05-05": 0.73,
+                    "2019-05-12": 0.73,
+                    "2019-05-19": 0.73,
+                    "2019-05-26": 0.73,
+                    "2019-06-02": 0.73,
+                    "2019-06-09": 0.73,
+                    "2019-06-16": 0.72,
+                    "2019-06-23": 0.73,
+                    "2019-06-30": 0.74,
+                    "2019-07-07": 0.75,
+                    "2019-07-14": 0.74,
+                    "2019-07-21": 0.75
+                }
+            },
             "printings": [
                 "C16",
                 "OC16",
@@ -218,6 +280,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 125319,
             "text": "At the beginning of your end step, draw a card. Each player may put a land card from their hand onto the battlefield, then each opponent who didn't draws a card.",
             "toughness": "8",
             "type": "Legendary Creature — Human Soldier",
@@ -247,6 +310,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -256,9 +320,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}{R}{G}{W}",
+            "mtgstocksId": 34548,
             "name": "Saskia the Unyielding",
             "number": "41",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.93,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.95,
+                    "2019-05-19": 0.95,
+                    "2019-05-26": 0.95,
+                    "2019-06-02": 0.95,
+                    "2019-06-09": 0.95,
+                    "2019-06-16": 0.95,
+                    "2019-06-23": 0.95,
+                    "2019-06-30": 0.93,
+                    "2019-07-07": 0.95,
+                    "2019-07-14": 0.95,
+                    "2019-07-21": 0.93
+                }
+            },
             "printings": [
                 "C16",
                 "OC16",
@@ -293,6 +376,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 125320,
             "text": "Vigilance, haste\nAs Saskia the Unyielding enters the battlefield, choose a player.\nWhenever a creature you control deals combat damage to a player, it deals that much damage to the chosen player.",
             "toughness": "4",
             "type": "Legendary Creature — Human Soldier",
@@ -322,6 +406,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -331,9 +416,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{U}{B}{R}{G}",
+            "mtgstocksId": 34639,
             "name": "Yidris, Maelstrom Wielder",
             "number": "50",
             "power": "5",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.87,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.92,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.85,
+                    "2019-06-02": 0.85,
+                    "2019-06-09": 0.92,
+                    "2019-06-16": 0.92,
+                    "2019-06-23": 0.92,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 0.99,
+                    "2019-07-14": 0.99,
+                    "2019-07-21": 0.92
+                }
+            },
             "printings": [
                 "C16",
                 "OC16",
@@ -380,6 +484,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 125321,
             "text": "Trample\nWhenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast spells from your hand this turn, they gain cascade. (When you cast the spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)",
             "toughness": "4",
             "type": "Legendary Creature — Ogre Wizard",
@@ -394,9 +499,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "C16",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Commander 2016 Oversized",
     "parentCode": "C16",

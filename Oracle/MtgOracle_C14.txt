@@ -176,9 +176,9 @@ When Hallowed Spiritkeeper dies, create X 1/1 white Spirit creature tokens with 
 <Name>Nahiri, the Lithomancer</Name>
 <Type>Legendary Planeswalker — Nahiri (Loyalty: 3)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>[+2]: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
-[-2]: You may put an Equipment card from your hand or graveyard onto the battlefield.
-[-10]: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
+<CardText>+2: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
+-2: You may put an Equipment card from your hand or graveyard onto the battlefield.
+-10: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
 Nahiri, the Lithomancer can be your commander.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>389612</Multiverseid>
@@ -340,9 +340,9 @@ Lieutenant — As long as you control your commander, Stormsurge Kraken gets +2/
 <Name>Teferi, Temporal Archmage</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+1]: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
-[-1]: Untap up to four target permanents.
-[-10]: You get an emblem with "You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant."
+<CardText>+1: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+-1: Untap up to four target permanents.
+-10: You get an emblem with "You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant."
 Teferi, Temporal Archmage can be your commander.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Multiverseid>389712</Multiverseid>
@@ -492,9 +492,9 @@ Destroy target nonblack creature.</CardText>
 <Name>Ob Nixilis of the Black Oath</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 3)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+2]: Each opponent loses 1 life. You gain life equal to the life lost this way.
-[-2]: Create a 5/5 black Demon creature token with flying. You lose 2 life.
-[-8]: You get an emblem with "{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
+<CardText>+2: Each opponent loses 1 life. You gain life equal to the life lost this way.
+-2: Create a 5/5 black Demon creature token with flying. You lose 2 life.
+-8: You get an emblem with "{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
 Ob Nixilis of the Black Oath can be your commander.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>389618</Multiverseid>
@@ -604,9 +604,9 @@ If a source controlled by one of the chosen players would deal damage to the oth
 <Name>Daretti, Scrap Savant</Name>
 <Type>Legendary Planeswalker — Daretti (Loyalty: 3)</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>[+2]: Discard up to two cards, then draw that many cards.
-[-2]: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
-[-10]: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
+<CardText>+2: Discard up to two cards, then draw that many cards.
+-2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
+-10: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
 Daretti, Scrap Savant can be your commander.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>389478</Multiverseid>
@@ -805,9 +805,9 @@ All creatures attack each combat if able.
 <Name>Freyalise, Llanowar's Fury</Name>
 <Type>Legendary Planeswalker — Freyalise (Loyalty: 3)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+2]: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."
-[-2]: Destroy target artifact or enchantment.
-[-6]: Draw a card for each green creature you control.
+<CardText>+2: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."
+-2: Destroy target artifact or enchantment.
+-6: Draw a card for each green creature you control.
 Freyalise, Llanowar's Fury can be your commander.</CardText>
 <Artist>Adam Paquette</Artist>
 <Multiverseid>389530</Multiverseid>

@@ -1294,9 +1294,9 @@ Whenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast 
 <Name>Daretti, Ingenious Iconoclast</Name>
 <Type>Legendary Planeswalker — Daretti (Loyalty: 3)</Type>
 <ManaCost>1BR (3)</ManaCost>
-<CardText>[+1]: Create a 1/1 colorless Construct artifact creature token with defender.
-[-1]: You may sacrifice an artifact. If you do, destroy target artifact or creature.
-[-6]: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.</CardText>
+<CardText>+1: Create a 1/1 colorless Construct artifact creature token with defender.
+-1: You may sacrifice an artifact. If you do, destroy target artifact or creature.
+-6: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Rulings>2016/08/23: For the second ability, you choose the target artifact or creature as you activate the ability. You choose whether to sacrifice an artifact and which artifact to sacrifice as the ability resolves.
 2016/08/23: For the last ability, if you choose an artifact on the battlefield as the target, and that artifact is no longer on the battlefield as the ability tries to resolve, the ability won't resolve and none of its effects will happen. You won't get any tokens. This is true even if the card that represented that artifact is now in a graveyard. That card will be a different object than it was on the battlefield.</Rulings>
@@ -1312,9 +1312,9 @@ Whenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast 
 <Name>Kaya, Ghost Assassin</Name>
 <Type>Legendary Planeswalker — Kaya (Loyalty: 5)</Type>
 <ManaCost>2WB (4)</ManaCost>
-<CardText>[0]: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
-[-1]: Each opponent loses 2 life and you gain 2 life.
-[-2]: Each opponent discards a card and you draw a card.</CardText>
+<CardText>0: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
+-1: Each opponent loses 2 life and you gain 2 life.
+-2: Each opponent discards a card and you draw a card.</CardText>
 <Artist>Chris Rallis</Artist>
 <Rulings>2016/08/23: You choose whether or not to target a creature as you activate the first ability. If you chose a target creature, you choose whether to exile Kaya or that creature as the ability resolves. If you chose a creature and that creature is no longer a legal target as the ability tries to resolve, the ability doesn't resolve and none of its effects happen. You won't exile Kaya or lose 2 life.
 2016/08/23: If you didn't choose a target creature for the first ability, and Kaya isn't on the battlefield as the ability resolves, you'll just lose 2 life. No card will be exiled or returned to the battlefield.
@@ -3506,9 +3506,9 @@ Whenever your commander is put into the command zone from anywhere, draw a card.
 <Name>Lord Windgrace</Name>
 <Type>Legendary Planeswalker — Windgrace (Loyalty: 5)</Type>
 <ManaCost>2BRG (5)</ManaCost>
-<CardText>[+2]: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
-[-3]: Return up to two target land cards from your graveyard to the battlefield.
-[-11]: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
+<CardText>+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
+-3: Return up to two target land cards from your graveyard to the battlefield.
+-11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
 Lord Windgrace can be your commander.</CardText>
 <Artist>Bram Sels</Artist>
 <Rulings>2018/07/13: If you have no cards in hand as <Lord Windgrace>'s first ability resolves, you'll discard nothing then you'll draw one card.
@@ -3678,9 +3678,9 @@ Reveal cards from the top of your library until you reveal a nonland permanent c
 <Name>Saheeli, the Gifted</Name>
 <Type>Legendary Planeswalker — Saheeli (Loyalty: 4)</Type>
 <ManaCost>2UR (4)</ManaCost>
-<CardText>[+1]: Create a 1/1 colorless Servo artifact creature token.
-[+1]: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
-[-7]: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
+<CardText>+1: Create a 1/1 colorless Servo artifact creature token.
++1: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
+-7: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
 Saheeli, the Gifted can be your commander.</CardText>
 <Artist>Ryan Pancoast</Artist>
 <Rulings>2018/07/13: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions (such as that of Saheeli's second ability). The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
@@ -4248,9 +4248,9 @@ If a creature an opponent controls would die, instead exile it and put a number 
 <Name>Estrid, the Masked</Name>
 <Type>Legendary Planeswalker — Estrid (Loyalty: 3)</Type>
 <ManaCost>1GWU (4)</ManaCost>
-<CardText>[+2]: Untap each enchanted permanent you control.
-[-1]: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
-[-7]: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
+<CardText>+2: Untap each enchanted permanent you control.
+-1: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
+-7: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
 Estrid, the Masked can be your commander.</CardText>
 <Artist>Johannes Voss</Artist>
 <Rulings>2018/07/13: An enchanted permanent is one with an Aura attached to it. Enchantment permanents you control that don't have Auras attached to them aren't enchanted.
@@ -4513,9 +4513,9 @@ Reveal the player you chose: Choose new targets for target spell or ability if i
 <Name>Aminatou, the Fateshifter</Name>
 <Type>Legendary Planeswalker — Aminatou (Loyalty: 3)</Type>
 <ManaCost>WUB (3)</ManaCost>
-<CardText>[+1]: Draw a card, then put a card from your hand on top of your library.
-[-1]: Exile another target permanent you own, then return it to the battlefield under your control.
-[-6]: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
+<CardText>+1: Draw a card, then put a card from your hand on top of your library.
+-1: Exile another target permanent you own, then return it to the battlefield under your control.
+-6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
 Aminatou, the Fateshifter can be your commander.</CardText>
 <Artist>Seb McKinnon</Artist>
 <Rulings>2018/07/13: You draw a card and put one back all while Aminatou's first ability is resolving. Nothing can happen between the two, and no player may choose to take actions.
@@ -4771,9 +4771,9 @@ Enchanted creature gets +3/+3.</CardText>
 <Name>Jiang Yanggu</Name>
 <Type>Legendary Planeswalker — Yanggu (Loyalty: 4)</Type>
 <ManaCost>4G (5)</ManaCost>
-<CardText>[+1]: Target creature gets +2/+2 until end of turn.
-[-1]: If you don't control a creature named Mowu, create Mowu, a legendary 3/3 green Hound creature token.
-[-5]: Until end of turn, target creature gains trample and gets +X/+X, where X is the number of lands you control.</CardText>
+<CardText>+1: Target creature gets +2/+2 until end of turn.
+-1: If you don't control a creature named Mowu, create Mowu, a legendary 3/3 green Hound creature token.
+-5: Until end of turn, target creature gains trample and gets +X/+X, where X is the number of lands you control.</CardText>
 <Artist>Tingting Yeh</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4787,9 +4787,9 @@ Enchanted creature gets +3/+3.</CardText>
 <Name>Mu Yanling</Name>
 <Type>Legendary Planeswalker — Yanling (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+2]: Target creature can't be blocked this turn.
-[-3]: Draw two cards.
-[-10]: Tap all creatures your opponents control. You take an extra turn after this one.</CardText>
+<CardText>+2: Target creature can't be blocked this turn.
+-3: Draw two cards.
+-10: Tap all creatures your opponents control. You take an extra turn after this one.</CardText>
 <Artist>林玄泰</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

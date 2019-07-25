@@ -15,6 +15,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -31,23 +34,21 @@
             "name": "Chandra, Flamecaller",
             "number": "104",
             "prices": {
-                "paper": {
-                    "2019-01-23": 23.99,
-                    "2019-01-30": 24.49,
-                    "2019-02-06": 24.99,
-                    "2019-02-13": 24.99,
-                    "2019-02-20": 24.99,
-                    "2019-02-27": 24.0,
-                    "2019-03-06": 24.49,
-                    "2019-03-13": 24.49,
-                    "2019-03-20": 24.99,
-                    "2019-03-27": 24.49,
-                    "2019-04-03": 24.49,
-                    "2019-04-10": 23.8,
-                    "2019-04-17": 24.99,
-                    "2019-04-24": 23.99,
-                    "2019-05-01": 23.99,
-                    "2019-05-08": 24.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 23.8,
+                    "2019-05-05": 24.99,
+                    "2019-05-12": 24.99,
+                    "2019-05-19": 24.99,
+                    "2019-05-26": 25.16,
+                    "2019-06-02": 25.33,
+                    "2019-06-09": 23.99,
+                    "2019-06-16": 25.55,
+                    "2019-06-23": 25.33,
+                    "2019-06-30": 25.76,
+                    "2019-07-07": 25.16,
+                    "2019-07-14": 29.98,
+                    "2019-07-21": 30.0
                 }
             },
             "printings": [
@@ -76,7 +77,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 120964,
-            "text": "+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.\n0: Discard all the cards in your hand, then draw that many cards plus one.\n−X: Chandra, Flamecaller deals X damage to each creature.",
+            "text": "[+1]: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.\n[0]: Discard all the cards in your hand, then draw that many cards plus one.\n−X: Chandra, Flamecaller deals X damage to each creature.",
             "type": "Legendary Planeswalker — Chandra",
             "types": [
                 "Planeswalker"
@@ -97,6 +98,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -113,23 +117,21 @@
             "name": "Gideon, Ally of Zendikar",
             "number": "29",
             "prices": {
-                "paper": {
-                    "2019-01-23": 45.99,
-                    "2019-01-30": 45.43,
-                    "2019-02-06": 44.99,
-                    "2019-02-13": 39.99,
-                    "2019-02-20": 44.99,
-                    "2019-02-27": 44.5,
-                    "2019-03-06": 43.87,
-                    "2019-03-13": 41.98,
-                    "2019-03-20": 44.75,
-                    "2019-03-27": 42.92,
-                    "2019-04-03": 44.03,
-                    "2019-04-10": 42.99,
-                    "2019-04-17": 42.99,
-                    "2019-04-24": 44.99,
-                    "2019-05-01": 46.17,
-                    "2019-05-08": 46.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 45.35,
+                    "2019-05-05": 48.37,
+                    "2019-05-12": 48.37,
+                    "2019-05-19": 49.74,
+                    "2019-05-26": 49.99,
+                    "2019-06-02": 46.68,
+                    "2019-06-09": 45.49,
+                    "2019-06-16": 49.62,
+                    "2019-06-23": 49.49,
+                    "2019-06-30": 49.87,
+                    "2019-07-07": 49.99,
+                    "2019-07-14": 49.87,
+                    "2019-07-21": 49.87
                 }
             },
             "printings": [
@@ -166,7 +168,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 120963,
-            "text": "+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n0: Create a 2/2 white Knight Ally creature token.\n−4: You get an emblem with \"Creatures you control get +1/+1.\"",
+            "text": "[+1]: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n[0]: Create a 2/2 white Knight Ally creature token.\n[−4]: You get an emblem with \"Creatures you control get +1/+1.\"",
             "type": "Legendary Planeswalker — Gideon",
             "types": [
                 "Planeswalker"
@@ -187,6 +189,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -203,23 +208,21 @@
             "name": "Jace, Unraveler of Secrets",
             "number": "69",
             "prices": {
-                "paper": {
-                    "2019-01-23": 20.24,
-                    "2019-01-30": 19.99,
-                    "2019-02-06": 19.99,
-                    "2019-02-13": 20.48,
-                    "2019-02-20": 20.3,
-                    "2019-02-27": 19.99,
-                    "2019-03-06": 19.99,
-                    "2019-03-13": 20.05,
-                    "2019-03-20": 20.3,
-                    "2019-03-27": 20.05,
-                    "2019-04-03": 20.3,
-                    "2019-04-10": 20.48,
-                    "2019-04-17": 20.11,
-                    "2019-04-24": 20.48,
-                    "2019-05-01": 20.8,
-                    "2019-05-08": 20.8
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 20.94,
+                    "2019-05-05": 21.12,
+                    "2019-05-12": 20.8,
+                    "2019-05-19": 21.18,
+                    "2019-05-26": 21.37,
+                    "2019-06-02": 21.18,
+                    "2019-06-09": 21.15,
+                    "2019-06-16": 21.29,
+                    "2019-06-23": 21.64,
+                    "2019-06-30": 21.49,
+                    "2019-07-07": 22.46,
+                    "2019-07-14": 22.99,
+                    "2019-07-21": 23.12
                 }
             },
             "printings": [
@@ -253,7 +256,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 120961,
-            "text": "+1: Scry 1, then draw a card.\n−2: Return target creature to its owner's hand.\n−8: You get an emblem with \"Whenever an opponent casts their first spell each turn, counter that spell.\"",
+            "text": "[+1]: Scry 1, then draw a card.\n[−2]: Return target creature to its owner's hand.\n[−8]: You get an emblem with \"Whenever an opponent casts their first spell each turn, counter that spell.\"",
             "type": "Legendary Planeswalker — Jace",
             "types": [
                 "Planeswalker"
@@ -274,6 +277,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -290,23 +296,21 @@
             "name": "Liliana, the Last Hope",
             "number": "93",
             "prices": {
-                "paper": {
-                    "2019-01-23": 130.0,
-                    "2019-01-30": 129.99,
-                    "2019-02-06": 129.99,
-                    "2019-02-13": 129.99,
-                    "2019-02-20": 129.99,
-                    "2019-02-27": 129.99,
-                    "2019-03-06": 129.99,
-                    "2019-03-13": 129.61,
-                    "2019-03-20": 123.48,
-                    "2019-03-27": 130.0,
-                    "2019-04-03": 134.99,
-                    "2019-04-10": 134.99,
-                    "2019-04-17": 139.67,
-                    "2019-04-24": 134.99,
-                    "2019-05-01": 139.66,
-                    "2019-05-08": 144.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 144.4,
+                    "2019-05-05": 144.4,
+                    "2019-05-12": 144.7,
+                    "2019-05-19": 142.2,
+                    "2019-05-26": 144.98,
+                    "2019-06-02": 143.7,
+                    "2019-06-09": 142.2,
+                    "2019-06-16": 143.99,
+                    "2019-06-23": 132.99,
+                    "2019-06-30": 137.97,
+                    "2019-07-07": 140.0,
+                    "2019-07-14": 130.0,
+                    "2019-07-21": 137.97
                 }
             },
             "printings": [
@@ -340,7 +344,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 120960,
-            "text": "+1: Up to one target creature gets -2/-1 until your next turn.\n−2: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.\n−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
+            "text": "[+1]: Up to one target creature gets -2/-1 until your next turn.\n[−2]: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.\n[−7]: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -361,6 +365,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -377,23 +384,21 @@
             "name": "Nissa, Voice of Zendikar",
             "number": "138",
             "prices": {
-                "paper": {
-                    "2019-01-23": 23.4,
-                    "2019-01-30": 23.4,
-                    "2019-02-06": 22.48,
-                    "2019-02-13": 22.48,
-                    "2019-02-20": 22.9,
-                    "2019-02-27": 22.9,
-                    "2019-03-06": 23.69,
-                    "2019-03-13": 23.71,
-                    "2019-03-20": 24.72,
-                    "2019-03-27": 24.93,
-                    "2019-04-03": 24.93,
-                    "2019-04-10": 24.93,
-                    "2019-04-17": 24.9,
-                    "2019-04-24": 24.96,
-                    "2019-05-01": 24.97,
-                    "2019-05-08": 24.98
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 24.97,
+                    "2019-05-05": 24.98,
+                    "2019-05-12": 25.03,
+                    "2019-05-19": 25.25,
+                    "2019-05-26": 25.64,
+                    "2019-06-02": 26.84,
+                    "2019-06-09": 25.57,
+                    "2019-06-16": 29.94,
+                    "2019-06-23": 29.82,
+                    "2019-06-30": 29.97,
+                    "2019-07-07": 29.97,
+                    "2019-07-14": 29.99,
+                    "2019-07-21": 30.05
                 }
             },
             "printings": [
@@ -415,7 +420,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 120962,
-            "text": "+1: Create a 0/1 green Plant creature token.\n−2: Put a +1/+1 counter on each creature you control.\n−7: You gain X life and draw X cards, where X is the number of lands you control.",
+            "text": "[+1]: Create a 0/1 green Plant creature token.\n[−2]: Put a +1/+1 counter on each creature you control.\n[−7]: You gain X life and draw X cards, where X is the number of lands you control.",
             "type": "Legendary Planeswalker — Nissa",
             "types": [
                 "Planeswalker"
@@ -428,9 +433,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "San Diego Comic-Con 2016",
     "releaseDate": "2016-10-01",

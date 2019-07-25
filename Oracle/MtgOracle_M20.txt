@@ -25,9 +25,9 @@
 <Name>Ajani, Strength of the Pride</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 5)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>[+1]: You gain life equal to the number of creatures you control plus the number of planeswalkers you control.
-[-2]: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
-[0]: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control.</CardText>
+<CardText>+1: You gain life equal to the number of creatures you control plus the number of planeswalkers you control.
+-2: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
+0: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>466756</Multiverseid>
 <Rulings>2019/07/12: If a planeswalker you control is also a creature (most likely because it's Gideon), it will be counted twice as Ajani's first ability resolves.
@@ -1287,9 +1287,9 @@ You may cast spells as though they had flash.</CardText>
 <Name>Mu Yanling, Sky Dancer</Name>
 <Type>Legendary Planeswalker — Yanling (Loyalty: 2)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>[+2]: Until your next turn, up to one target creature gets -2/-0 and loses flying.
-[-3]: Create a 4/4 blue Elemental Bird creature token with flying.
-[-8]: You get an emblem with "Islands you control have '{T}: Draw a card.'"</CardText>
+<CardText>+2: Until your next turn, up to one target creature gets -2/-0 and loses flying.
+-3: Create a 4/4 blue Elemental Bird creature token with flying.
+-8: You get an emblem with "Islands you control have '{T}: Draw a card.'"</CardText>
 <Artist>G-host Lee</Artist>
 <Multiverseid>466822</Multiverseid>
 <Rulings>2019/07/12: Mu Yanling's first ability can target a creature that doesn't have flying. The creature just gets -2/-0.
@@ -2190,9 +2190,9 @@ If a card would be put into an opponent's graveyard from anywhere, exile it inst
 <Name>Sorin, Imperious Bloodlord</Name>
 <Type>Legendary Planeswalker — Sorin (Loyalty: 4)</Type>
 <ManaCost>2B (3)</ManaCost>
-<CardText>[+1]: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it.
-[+1]: You may sacrifice a Vampire. When you do, Sorin, Imperious Bloodlord deals 3 damage to any target and you gain 3 life.
-[-3]: You may put a Vampire creature card from your hand onto the battlefield.</CardText>
+<CardText>+1: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it.
++1: You may sacrifice a Vampire. When you do, Sorin, Imperious Bloodlord deals 3 damage to any target and you gain 3 life.
+-3: You may put a Vampire creature card from your hand onto the battlefield.</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>466869</Multiverseid>
 <Rulings>2019/07/12: Multiple instances of deathtouch and/or lifelink on the same creature are redundant.
@@ -2412,9 +2412,9 @@ When Cavalier of Flame dies, it deals X damage to each opponent and each planesw
 <Name>Chandra, Acolyte of Flame</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>1RR (3)</ManaCost>
-<CardText>[0]: Put a loyalty counter on each red planeswalker you control.
-[0]: Create two 1/1 red Elemental creature tokens. They gain haste. Sacrifice them at the beginning of the next end step.
-[-2]: You may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard. If that card would be put into your graveyard this turn, exile it instead.</CardText>
+<CardText>0: Put a loyalty counter on each red planeswalker you control.
+0: Create two 1/1 red Elemental creature tokens. They gain haste. Sacrifice them at the beginning of the next end step.
+-2: You may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard. If that card would be put into your graveyard this turn, exile it instead.</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>466880</Multiverseid>
 <Rulings>2019/07/12: Chandra's first ability will put a counter on herself as well as any other red planeswalkers you control. This doesn't cause any other planeswalkers' loyalty abilities to be activated.
@@ -2435,8 +2435,8 @@ When Cavalier of Flame dies, it deals X damage to each opponent and each planesw
 <Type>Legendary Planeswalker — Chandra (Loyalty: 6)</Type>
 <ManaCost>4RR (6)</ManaCost>
 <CardText>This spell can't be countered.
-[+2]: Each opponent gets an emblem with "At the beginning of your upkeep, this emblem deals 1 damage to you."
-[-3]: Chandra, Awakened Inferno deals 3 damage to each non-Elemental creature.
++2: Each opponent gets an emblem with "At the beginning of your upkeep, this emblem deals 1 damage to you."
+-3: Chandra, Awakened Inferno deals 3 damage to each non-Elemental creature.
 -X: Chandra, Awakened Inferno deals X damage to target creature or planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>466881</Multiverseid>
@@ -2461,9 +2461,9 @@ When Cavalier of Flame dies, it deals X damage to each opponent and each planesw
 <Name>Chandra, Novice Pyromancer</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 5)</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>[+1]: Elementals you control get +2/+0 until end of turn.
-[-1]: Add {R}{R}.
-[-2]: Chandra, Novice Pyromancer deals 2 damage to any target.</CardText>
+<CardText>+1: Elementals you control get +2/+0 until end of turn.
+-1: Add {R}{R}.
+-2: Chandra, Novice Pyromancer deals 2 damage to any target.</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>466882</Multiverseid>
 <Rulings>2019/07/12: Chandra's first ability affects only Elementals you control at the time it resolves. Elementals you begin to control later in the turn won't get +2/+0.
@@ -3808,9 +3808,9 @@ Other Elementals you control have trample.</CardText>
 <Name>Vivien, Arkbow Ranger</Name>
 <Type>Legendary Planeswalker — Vivien (Loyalty: 4)</Type>
 <ManaCost>1GGG (4)</ManaCost>
-<CardText>[+1]: Distribute two +1/+1 counters among up to two target creatures. They gain trample until end of turn.
-[-3]: Target creature you control deals damage equal to its power to target creature or planeswalker.
-[-5]: You may choose a creature card you own from outside the game, reveal it, and put it into your hand.</CardText>
+<CardText>+1: Distribute two +1/+1 counters among up to two target creatures. They gain trample until end of turn.
+-3: Target creature you control deals damage equal to its power to target creature or planeswalker.
+-5: You may choose a creature card you own from outside the game, reveal it, and put it into your hand.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>466953</Multiverseid>
 <Rulings>2019/07/12: You choose how the counters will be distributed as you activate Vivien's first ability. Each target creature must be assigned at least one counter. This means that you can't put two counters on one creature but give two creatures trample.
@@ -5348,9 +5348,9 @@ Whenever another multicolored creature you control dies, return it to its owner'
 <Name>Ajani, Inspiring Leader</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 5)</Type>
 <ManaCost>4WW (6)</ManaCost>
-<CardText>[+2]: You gain 2 life. Put two +1/+1 counters on up to one target creature.
-[-3]: Exile target creature. Its controller gains 2 life.
-[-10]: Creatures you control gain flying and double strike until end of turn.</CardText>
+<CardText>+2: You gain 2 life. Put two +1/+1 counters on up to one target creature.
+-3: Exile target creature. Its controller gains 2 life.
+-10: Creatures you control gain flying and double strike until end of turn.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>469835</Multiverseid>
 <Rulings>2019/07/12: You may activate Ajani's first ability without choosing any target. If you do, you will gain 2 life. However, if you do choose a target and the target creature is an illegal target by the time the ability tries to resolve, the ability doesn't resolve. You won't gain 2 life.
@@ -5427,9 +5427,9 @@ As long as you have 25 or more life, Twinblade Paladin has double strike. (It de
 <Name>Mu Yanling, Celestial Wind</Name>
 <Type>Legendary Planeswalker — Yanling (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+1]: Until your next turn, up to one target creature gets -5/-0.
-[-3]: Return up to two target creatures to their owners' hands.
-[-7]: Creatures you control with flying get +5/+5 until end of turn.</CardText>
+<CardText>+1: Until your next turn, up to one target creature gets -5/-0.
+-3: Return up to two target creatures to their owners' hands.
+-7: Creatures you control with flying get +5/+5 until end of turn.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>469839</Multiverseid>
 <Rulings>2019/07/12: Mu Yanling's last ability affects only creatures you control with flying at the time it resolves. Creatures you begin to control later in the turn (or creatures that that gain flying later in the turn) won't get +5/+5.
@@ -5502,9 +5502,9 @@ When Yanling's Harbinger enters the battlefield, you may search your library and
 <Name>Sorin, Vampire Lord</Name>
 <Type>Legendary Planeswalker — Sorin (Loyalty: 4)</Type>
 <ManaCost>4BB (6)</ManaCost>
-<CardText>[+1]: Up to one target creature gets +2/+0 until end of turn.
-[-2]: Sorin, Vampire Lord deals 4 damage to any target. You gain 4 life.
-[-8]: Until end of turn, each Vampire you control gains "{T}: Gain control of target creature."</CardText>
+<CardText>+1: Up to one target creature gets +2/+0 until end of turn.
+-2: Sorin, Vampire Lord deals 4 damage to any target. You gain 4 life.
+-8: Until end of turn, each Vampire you control gains "{T}: Gain control of target creature."</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>469843</Multiverseid>
 <Rulings>2019/07/12: If the chosen target is an illegal target by the time Sorin's second ability tries to resolve, the ability doesn't resolve. You won't gain 4 life.
@@ -5578,9 +5578,9 @@ At the beginning of your end step, if an opponent lost life this turn, put a +1/
 <Name>Chandra, Flame's Fury</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>[+1]: Chandra, Flame's Fury deals 2 damage to any target.
-[-2]: Chandra, Flame's Fury deals 4 damage to target creature and 2 damage to that creature's controller.
-[-8]: Chandra, Flame's Fury deals 10 damage to target player and each creature that player controls.</CardText>
+<CardText>+1: Chandra, Flame's Fury deals 2 damage to any target.
+-2: Chandra, Flame's Fury deals 4 damage to target creature and 2 damage to that creature's controller.
+-8: Chandra, Flame's Fury deals 10 damage to target player and each creature that player controls.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>469847</Multiverseid>
 <Rulings>2019/07/12: If the target creature is an illegal target by the time Chandra's second ability resolves, the ability doesn't resolve. No player is dealt damage. Similarly, if the target player is an illegal target by the time Chandra's last ability resolves, no creatures are dealt damage.
@@ -5657,9 +5657,9 @@ At the beginning of your end step, if an opponent lost life this turn, put a +1/
 <Name>Vivien, Nature's Avenger</Name>
 <Type>Legendary Planeswalker — Vivien (Loyalty: 3)</Type>
 <ManaCost>4GG (6)</ManaCost>
-<CardText>[+1]: Put three +1/+1 counters on up to one target creature.
-[-1]: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
-[-6]: Target creature gets +10/+10 and gains trample until end of turn.</CardText>
+<CardText>+1: Put three +1/+1 counters on up to one target creature.
+-1: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+-6: Target creature gets +10/+10 and gains trample until end of turn.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>469851</Multiverseid>
 <Rulings>2019/07/12: If there are no creature cards in your library as Vivien's second ability resolves, you reveal your library then put it back in a random order.</Rulings>

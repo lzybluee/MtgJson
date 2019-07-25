@@ -289,9 +289,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <Name>Gideon of the Trials</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
 <ManaCost>1WW (3)</ManaCost>
-<CardText>[+1]: Until your next turn, prevent all damage target permanent would deal.
-[0]: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
-[0]: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
+<CardText>+1: Until your next turn, prevent all damage target permanent would deal.
+0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+0: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
 <Artist>Izzy</Artist>
 <Multiverseid>426716</Multiverseid>
 <Rulings>2017/04/18: Gideon's first ability will continue to prevent damage dealt by the target permanent even if Gideon leaves the battlefield before your next turn.
@@ -1948,9 +1948,9 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</CardText>
 <Name>Liliana, Death's Majesty</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+1]: Create a 2/2 black Zombie creature token. Put the top two cards of your library into your graveyard.
-[-3]: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.
-[-7]: Destroy all non-Zombie creatures.</CardText>
+<CardText>+1: Create a 2/2 black Zombie creature token. Put the top two cards of your library into your graveyard.
+-3: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.
+-7: Destroy all non-Zombie creatures.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>426799</Multiverseid>
 <Rulings>2017/04/18: A creature that is a Zombie and has other types, such as a Zombie Jackal, isn't a non-Zombie creature.</Rulings>
@@ -4035,9 +4035,9 @@ Whenever Neheb, the Worthy deals combat damage to a player, each player discards
 <Name>Nissa, Steward of Elements</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: X)</Type>
 <ManaCost>XGU (2)</ManaCost>
-<CardText>[+2]: Scry 2.
-[0]: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
-[-6]: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.</CardText>
+<CardText>+2: Scry 2.
+0: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.
+-6: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.</CardText>
 <Artist>Howard Lyon</Artist>
 <Multiverseid>426906</Multiverseid>
 <Rulings>2017/04/18: If X is 0, Nissa enters the battlefield with no loyalty and is put into her owner's graveyard before you can activate her abilities.
@@ -5828,9 +5828,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <Name>Gideon, Martial Paragon</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 5)</Type>
 <ManaCost>4W (5)</ManaCost>
-<CardText>[+2]: Untap all creatures you control. Those creatures get +1/+1 until end of turn.
-[0]: Until end of turn, Gideon, Martial Paragon becomes a 5/5 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
-[-10]: Creatures you control get +2/+2 until end of turn. Tap all creatures your opponents control.</CardText>
+<CardText>+2: Untap all creatures you control. Those creatures get +1/+1 until end of turn.
+0: Until end of turn, Gideon, Martial Paragon becomes a 5/5 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+-10: Creatures you control get +2/+2 until end of turn. Tap all creatures your opponents control.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>429662</Multiverseid>
 <Rulings>2017/04/18: All creatures you control get +1/+1 from Gideon's first ability, not just the ones that it untapped.
@@ -5923,9 +5923,9 @@ Creatures you control get +1/+1.</CardText>
 <Name>Liliana, Death Wielder</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
 <ManaCost>5BB (7)</ManaCost>
-<CardText>[+2]: Put a -1/-1 counter on up to one target creature.
-[-3]: Destroy target creature with a -1/-1 counter on it.
-[-10]: Return all creature cards from your graveyard to the battlefield.</CardText>
+<CardText>+2: Put a -1/-1 counter on up to one target creature.
+-3: Destroy target creature with a -1/-1 counter on it.
+-10: Return all creature cards from your graveyard to the battlefield.</CardText>
 <Artist>Clint Cearley</Artist>
 <Multiverseid>429667</Multiverseid>
 <Vintage>Legal</Vintage>

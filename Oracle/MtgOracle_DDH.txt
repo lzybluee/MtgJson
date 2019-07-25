@@ -4,9 +4,9 @@
 <Name>Ajani Vengeant</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 3)</Type>
 <ManaCost>2RW (4)</ManaCost>
-<CardText>[+1]: Target permanent doesn't untap during its controller's next untap step.
-[-2]: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
-[-7]: Destroy all lands target player controls.</CardText>
+<CardText>+1: Target permanent doesn't untap during its controller's next untap step.
+-2: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
+-7: Destroy all lands target player controls.</CardText>
 <Artist>Izzy</Artist>
 <Multiverseid>266299</Multiverseid>
 <Rulings>2008/10/01: You may target any permanent with <Ajani Vengeant>'s first ability. It doesn't have to be tapped.
@@ -753,9 +753,9 @@ Sapseep Forest enters the battlefield tapped.
 <Name>Nicol Bolas, Planeswalker</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 5)</Type>
 <ManaCost>4UBBR (8)</ManaCost>
-<CardText>[+3]: Destroy target noncreature permanent.
-[-2]: Gain control of target creature.
-[-9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
+<CardText>+3: Destroy target noncreature permanent.
+-2: Gain control of target creature.
+-9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
 <Artist>Izzy</Artist>
 <Multiverseid>266154</Multiverseid>
 <Rulings>2009/02/01: The control-change effect has no duration. It will last until the game ends or the affected creature leaves the battlefield. It may be superseded by a later control-change effect.

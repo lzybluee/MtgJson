@@ -4,9 +4,9 @@
 <Name>Karn, Scion of Urza</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
 <ManaCost>4 (4)</ManaCost>
-<CardText>[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
-[-1]: Put a card you own with a silver counter on it from exile into your hand.
-[-2]: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
+<CardText>+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+-1: Put a card you own with a silver counter on it from exile into your hand.
+-2: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
 <Artist>Chase Stone</Artist>
 <Rulings>2018/04/27: A token created by Karn's last ability will count itself, so it'll be at least 1/1.
 2018/04/27: Karn is colorless but not an artifact. The Construct tokens created by Karn's last ability don't count Karn.</Rulings>
@@ -23,9 +23,9 @@
 <Name>Karn, Scion of Urza</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
 <ManaCost>4 (4)</ManaCost>
-<CardText>[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
-[-1]: Put a card you own with a silver counter on it from exile into your hand.
-[-2]: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
+<CardText>+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+-1: Put a card you own with a silver counter on it from exile into your hand.
+-2: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
 <Artist>Chase Stone</Artist>
 <Rulings>2018/04/27: A token created by Karn's last ability will count itself, so it'll be at least 1/1.
 2018/04/27: Karn is colorless but not an artifact. The Construct tokens created by Karn's last ability don't count Karn.</Rulings>
@@ -1026,9 +1026,9 @@ At the beginning of your end step, if two or more permanents you don't control h
 <Name>Jaya Ballard</Name>
 <Type>Legendary Planeswalker — Jaya (Loyalty: 5)</Type>
 <ManaCost>2RRR (5)</ManaCost>
-<CardText>[+1]: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
-[+1]: Discard up to three cards, then draw that many cards.
-[-8]: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
+<CardText>+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
++1: Discard up to three cards, then draw that many cards.
+-8: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Rulings>2018/04/27: Mana produced by Jaya's first ability can be spent among any number of instant and/or sorcery spells.
 2018/04/27: You choose how many cards to discard while Jaya's second ability is resolving. You can choose to discard zero cards this way (and then draw zero cards) if you wish.
@@ -1797,9 +1797,9 @@ Shanna gets +1/+1 for each creature you control.</CardText>
 <Name>Teferi, Hero of Dominaria</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 4)</Type>
 <ManaCost>3WU (5)</ManaCost>
-<CardText>[+1]: Draw a card. At the beginning of the next end step, untap up to two lands.
-[-3]: Put target nonland permanent into its owner's library third from the top.
-[-8]: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
+<CardText>+1: Draw a card. At the beginning of the next end step, untap up to two lands.
+-3: Put target nonland permanent into its owner's library third from the top.
+-8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
 <Artist>Chris Rallis</Artist>
 <Rulings>2018/04/27: You don't decide which two lands to untap until the next end step.
 2018/04/27: You choose the target for the triggered ability of Teferi's emblem after you've seen the card you drew.</Rulings>

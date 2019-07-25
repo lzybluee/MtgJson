@@ -4,9 +4,9 @@
 <Name>Nissa, Voice of Zendikar</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ManaCost>1GG (3)</ManaCost>
-<CardText>[+1]: Create a 0/1 green Plant creature token.
-[-2]: Put a +1/+1 counter on each creature you control.
-[-7]: You gain X life and draw X cards, where X is the number of lands you control.</CardText>
+<CardText>+1: Create a 0/1 green Plant creature token.
+-2: Put a +1/+1 counter on each creature you control.
+-7: You gain X life and draw X cards, where X is the number of lands you control.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>417424</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -628,9 +628,9 @@ When Khalni Garden enters the battlefield, create a 0/1 green Plant creature tok
 <Name>Ob Nixilis Reignited</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+1]: You draw a card and you lose 1 life.
-[-3]: Destroy target creature.
-[-8]: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
+<CardText>+1: You draw a card and you lose 1 life.
+-3: Destroy target creature.
+-8: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>417459</Multiverseid>
 <Rulings>2015/08/25: The emblem created by <Ob Nixilis Reignited>'s last ability is both owned and controlled by the target opponent. In a multiplayer game, if you own <Ob Nixilis Reignited> and use him to give one of your opponents an emblem, the emblem remains even if you leave the game.</Rulings>

@@ -15,6 +15,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -35,23 +38,21 @@
             "name": "Ajani's Last Stand",
             "number": "4s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.03,
-                    "2019-01-30": 1.0,
-                    "2019-02-06": 1.04,
-                    "2019-02-13": 1.0,
-                    "2019-02-20": 1.02,
-                    "2019-02-27": 1.0,
-                    "2019-03-06": 1.0,
-                    "2019-03-13": 1.0,
-                    "2019-03-20": 1.0,
-                    "2019-03-27": 1.0,
-                    "2019-04-03": 1.0,
-                    "2019-04-10": 1.03,
-                    "2019-04-17": 1.18,
-                    "2019-04-24": 1.0,
-                    "2019-05-01": 1.16,
-                    "2019-05-08": 1.18
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.18,
+                    "2019-05-05": 1.18,
+                    "2019-05-12": 1.19,
+                    "2019-05-19": 1.19,
+                    "2019-05-26": 1.19,
+                    "2019-06-02": 1.19,
+                    "2019-06-09": 1.19,
+                    "2019-06-16": 1.18,
+                    "2019-06-23": 1.07,
+                    "2019-06-30": 1.06,
+                    "2019-07-07": 1.07,
+                    "2019-07-14": 1.04,
+                    "2019-07-21": 1.0
                 }
             },
             "printings": [
@@ -100,6 +101,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -120,23 +124,21 @@
             "name": "Ajani, Adversary of Tyrants",
             "number": "3s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 19.0,
-                    "2019-01-30": 18.9,
-                    "2019-02-06": 18.99,
-                    "2019-02-13": 18.22,
-                    "2019-02-20": 18.11,
-                    "2019-02-27": 18.22,
-                    "2019-03-06": 18.0,
-                    "2019-03-13": 17.96,
-                    "2019-03-20": 17.96,
-                    "2019-03-27": 17.93,
-                    "2019-04-03": 17.99,
-                    "2019-04-10": 17.99,
-                    "2019-04-17": 17.87,
-                    "2019-04-24": 17.87,
-                    "2019-05-01": 17.9,
-                    "2019-05-08": 17.88
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 17.79,
+                    "2019-05-05": 17.87,
+                    "2019-05-12": 17.87,
+                    "2019-05-19": 17.79,
+                    "2019-05-26": 17.94,
+                    "2019-06-02": 17.89,
+                    "2019-06-09": 17.69,
+                    "2019-06-16": 17.29,
+                    "2019-06-23": 17.87,
+                    "2019-06-30": 17.87,
+                    "2019-07-07": 17.29,
+                    "2019-07-14": 17.23,
+                    "2019-07-21": 17.26
                 }
             },
             "printings": [
@@ -160,7 +162,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 169963,
-            "text": "+1: Put a +1/+1 counter on each of up to two target creatures.\n−2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.\n−7: You get an emblem with \"At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.\"",
+            "text": "[+1]: Put a +1/+1 counter on each of up to two target creatures.\n[−2]: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.\n[−7]: You get an emblem with \"At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.\"",
             "type": "Legendary Planeswalker — Ajani",
             "types": [
                 "Planeswalker"
@@ -182,6 +184,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -201,23 +206,21 @@
             "name": "Alpine Moon",
             "number": "128s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.92,
-                    "2019-01-30": 4.88,
-                    "2019-02-06": 4.92,
-                    "2019-02-13": 4.92,
-                    "2019-02-20": 4.95,
-                    "2019-02-27": 4.72,
-                    "2019-03-06": 4.64,
-                    "2019-03-13": 4.64,
-                    "2019-03-20": 4.63,
-                    "2019-03-27": 4.49,
-                    "2019-04-03": 4.41,
-                    "2019-04-10": 4.41,
-                    "2019-04-17": 4.49,
-                    "2019-04-24": 4.38,
-                    "2019-05-01": 4.45,
-                    "2019-05-08": 4.25
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.35,
+                    "2019-05-05": 4.35,
+                    "2019-05-12": 4.25,
+                    "2019-05-19": 4.25,
+                    "2019-05-26": 4.05,
+                    "2019-06-02": 4.2,
+                    "2019-06-09": 4.05,
+                    "2019-06-16": 4.27,
+                    "2019-06-23": 4.29,
+                    "2019-06-30": 4.32,
+                    "2019-07-07": 4.29,
+                    "2019-07-14": 4.17,
+                    "2019-07-21": 4.22
                 }
             },
             "printings": [
@@ -263,6 +266,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -282,23 +288,21 @@
             "name": "Amulet of Safekeeping",
             "number": "226s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.61,
-                    "2019-01-30": 2.53,
-                    "2019-02-06": 2.43,
-                    "2019-02-13": 2.48,
-                    "2019-02-20": 2.49,
-                    "2019-02-27": 2.49,
-                    "2019-03-06": 2.5,
-                    "2019-03-13": 2.59,
-                    "2019-03-20": 2.64,
-                    "2019-03-27": 2.63,
-                    "2019-04-03": 2.58,
-                    "2019-04-10": 2.49,
-                    "2019-04-17": 2.42,
-                    "2019-04-24": 2.17,
-                    "2019-05-01": 2.08,
-                    "2019-05-08": 2.03
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.15,
+                    "2019-05-05": 2.05,
+                    "2019-05-12": 2.04,
+                    "2019-05-19": 2.09,
+                    "2019-05-26": 2.25,
+                    "2019-06-02": 2.29,
+                    "2019-06-09": 2.31,
+                    "2019-06-16": 2.33,
+                    "2019-06-23": 2.42,
+                    "2019-06-30": 2.3,
+                    "2019-07-07": 2.29,
+                    "2019-07-14": 2.15,
+                    "2019-07-21": 2.15
                 }
             },
             "printings": [
@@ -335,6 +339,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -354,23 +361,21 @@
             "name": "Apex of Power",
             "number": "129s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.96,
-                    "2019-01-30": 3.95,
-                    "2019-02-06": 3.96,
-                    "2019-02-13": 3.98,
-                    "2019-02-20": 3.9,
-                    "2019-02-27": 3.83,
-                    "2019-03-06": 3.79,
-                    "2019-03-13": 3.73,
-                    "2019-03-20": 3.75,
-                    "2019-03-27": 3.79,
-                    "2019-04-03": 3.64,
-                    "2019-04-10": 3.6,
-                    "2019-04-17": 3.53,
-                    "2019-04-24": 3.51,
-                    "2019-05-01": 3.52,
-                    "2019-05-08": 3.51
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.52,
+                    "2019-05-05": 3.52,
+                    "2019-05-12": 3.55,
+                    "2019-05-19": 3.5,
+                    "2019-05-26": 3.5,
+                    "2019-06-02": 3.5,
+                    "2019-06-09": 3.5,
+                    "2019-06-16": 3.5,
+                    "2019-06-23": 3.37,
+                    "2019-06-30": 3.37,
+                    "2019-07-07": 3.36,
+                    "2019-07-14": 3.36,
+                    "2019-07-21": 3.34
                 }
             },
             "printings": [
@@ -428,6 +433,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -448,23 +456,21 @@
             "number": "212s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 15.49,
-                    "2019-01-30": 15.64,
-                    "2019-02-06": 15.64,
-                    "2019-02-13": 15.89,
-                    "2019-02-20": 16.14,
-                    "2019-02-27": 16.48,
-                    "2019-03-06": 17.0,
-                    "2019-03-13": 17.05,
-                    "2019-03-20": 17.5,
-                    "2019-03-27": 16.74,
-                    "2019-04-03": 16.74,
-                    "2019-04-10": 22.3,
-                    "2019-04-17": 22.3,
-                    "2019-04-24": 21.35,
-                    "2019-05-01": 21.83,
-                    "2019-05-08": 23.1
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 21.83,
+                    "2019-05-05": 21.35,
+                    "2019-05-12": 20.15,
+                    "2019-05-19": 17.6,
+                    "2019-05-26": 20.15,
+                    "2019-06-02": 21.99,
+                    "2019-06-09": 24.99,
+                    "2019-06-16": 23.65,
+                    "2019-06-23": 24.99,
+                    "2019-06-30": 25.0,
+                    "2019-07-07": 24.29,
+                    "2019-07-14": 21.99,
+                    "2019-07-21": 21.76
                 }
             },
             "printings": [
@@ -515,7 +521,85 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{X}{R}",
+            "mcmId": 360962,
+            "mcmMetaId": 10327,
+            "name": "Banefire",
+            "number": "130p",
+            "printings": [
+                "CON",
+                "DDN",
+                "DPA",
+                "M19",
+                "MM2",
+                "PM19",
+                "PS11"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "To determine whether it can be countered and its damage can be prevented, Banefire checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "Banefire can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter Banefire won’t do anything. Any other effects those spells have will work as normal."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "If its target is illegal by the time Banefire tries to resolve, the spell isn’t countered, but it doesn’t resolve. The target won’t be dealt damage."
+                }
+            ],
+            "scryfallId": "d8dc891c-b2f3-4193-a504-440a3efc27e8",
+            "scryfallIllustrationId": "bafd83df-55d2-4bb9-8e59-f314c3ca4fd1",
+            "scryfallOracleId": "5eff8a06-e0d6-435a-a7c0-db9f9d98636a",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 193337,
+            "text": "Banefire deals X damage to any target.\nIf X is 5 or more, this spell can't be countered and the damage can't be prevented.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "6235f3a7-15f4-5690-b4e7-bac34fb28e05",
+            "variations": [
+                "97779569-63d5-5679-9f58-cc68a1b9fa6d"
+            ]
+        },
+        {
+            "artist": "Raymond Swanland",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 1.0,
+            "flavorText": "For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -535,23 +619,21 @@
             "name": "Banefire",
             "number": "130s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 6.95,
-                    "2019-01-30": 7.02,
-                    "2019-02-06": 7.07,
-                    "2019-02-13": 7.18,
-                    "2019-02-20": 6.99,
-                    "2019-02-27": 6.95,
-                    "2019-03-06": 6.8,
-                    "2019-03-13": 6.63,
-                    "2019-03-20": 6.84,
-                    "2019-03-27": 6.8,
-                    "2019-04-03": 6.63,
-                    "2019-04-10": 6.46,
-                    "2019-04-17": 5.99,
-                    "2019-04-24": 5.95,
-                    "2019-05-01": 5.95,
-                    "2019-05-08": 5.69
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.95,
+                    "2019-05-05": 5.63,
+                    "2019-05-12": 5.7,
+                    "2019-05-19": 5.57,
+                    "2019-05-26": 5.49,
+                    "2019-06-02": 5.52,
+                    "2019-06-09": 5.3,
+                    "2019-06-16": 5.1,
+                    "2019-06-23": 5.1,
+                    "2019-06-30": 5.0,
+                    "2019-07-07": 4.99,
+                    "2019-07-14": 5.07,
+                    "2019-07-21": 4.99
                 }
             },
             "printings": [
@@ -589,7 +671,10 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "97779569-63d5-5679-9f58-cc68a1b9fa6d"
+            "uuid": "97779569-63d5-5679-9f58-cc68a1b9fa6d",
+            "variations": [
+                "6235f3a7-15f4-5690-b4e7-bac34fb28e05"
+            ]
         },
         {
             "artist": "Jason A. Engle",
@@ -606,6 +691,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -626,23 +714,21 @@
             "number": "88s",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.75,
-                    "2019-01-30": 4.47,
-                    "2019-02-06": 4.49,
-                    "2019-02-13": 4.47,
-                    "2019-02-20": 4.68,
-                    "2019-02-27": 4.71,
-                    "2019-03-06": 4.73,
-                    "2019-03-13": 4.55,
-                    "2019-03-20": 4.71,
-                    "2019-03-27": 4.42,
-                    "2019-04-03": 4.17,
-                    "2019-04-10": 4.19,
-                    "2019-04-17": 4.19,
-                    "2019-04-24": 4.08,
-                    "2019-05-01": 4.08,
-                    "2019-05-08": 4.03
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.08,
+                    "2019-05-05": 4.08,
+                    "2019-05-12": 4.0,
+                    "2019-05-19": 3.99,
+                    "2019-05-26": 3.99,
+                    "2019-06-02": 3.99,
+                    "2019-06-09": 3.98,
+                    "2019-06-16": 3.94,
+                    "2019-06-23": 3.98,
+                    "2019-06-30": 3.98,
+                    "2019-07-07": 3.99,
+                    "2019-07-14": 3.86,
+                    "2019-07-21": 3.84
                 }
             },
             "printings": [
@@ -678,6 +764,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -697,23 +786,21 @@
             "name": "Chaos Wand",
             "number": "228s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.84,
-                    "2019-01-30": 2.75,
-                    "2019-02-06": 2.72,
-                    "2019-02-13": 2.7,
-                    "2019-02-20": 2.73,
-                    "2019-02-27": 2.69,
-                    "2019-03-06": 2.7,
-                    "2019-03-13": 2.73,
-                    "2019-03-20": 2.73,
-                    "2019-03-27": 2.7,
-                    "2019-04-03": 2.69,
-                    "2019-04-10": 2.71,
-                    "2019-04-17": 2.69,
-                    "2019-04-24": 2.67,
-                    "2019-05-01": 2.69,
-                    "2019-05-08": 2.7
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.69,
+                    "2019-05-05": 2.77,
+                    "2019-05-12": 2.7,
+                    "2019-05-19": 2.75,
+                    "2019-05-26": 2.78,
+                    "2019-06-02": 2.87,
+                    "2019-06-09": 2.87,
+                    "2019-06-16": 2.84,
+                    "2019-06-23": 2.83,
+                    "2019-06-30": 2.84,
+                    "2019-07-07": 2.83,
+                    "2019-07-14": 2.78,
+                    "2019-07-21": 2.84
                 }
             },
             "printings": [
@@ -779,6 +866,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -799,23 +889,21 @@
             "number": "214s",
             "power": "7",
             "prices": {
-                "paper": {
-                    "2019-01-23": 15.25,
-                    "2019-01-30": 15.06,
-                    "2019-02-06": 14.97,
-                    "2019-02-13": 14.49,
-                    "2019-02-20": 14.24,
-                    "2019-02-27": 14.0,
-                    "2019-03-06": 13.89,
-                    "2019-03-13": 13.41,
-                    "2019-03-20": 13.29,
-                    "2019-03-27": 13.27,
-                    "2019-04-03": 12.78,
-                    "2019-04-10": 12.61,
-                    "2019-04-17": 11.99,
-                    "2019-04-24": 11.88,
-                    "2019-05-01": 11.97,
-                    "2019-05-08": 11.93
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 11.88,
+                    "2019-05-05": 11.96,
+                    "2019-05-12": 11.88,
+                    "2019-05-19": 11.93,
+                    "2019-05-26": 11.89,
+                    "2019-06-02": 11.62,
+                    "2019-06-09": 11.76,
+                    "2019-06-16": 11.59,
+                    "2019-06-23": 11.51,
+                    "2019-06-30": 11.51,
+                    "2019-07-07": 11.5,
+                    "2019-07-14": 10.42,
+                    "2019-07-21": 10.24
                 }
             },
             "printings": [
@@ -878,7 +966,67 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{W}{W}",
+            "mcmId": 360935,
+            "mcmMetaId": 263394,
+            "name": "Cleansing Nova",
+            "number": "9p",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "388703ff-16c5-46a6-bb05-a9c60ed6f06f",
+            "scryfallIllustrationId": "6ab56a7c-efb7-46b6-8e76-61ef81f0e5ea",
+            "scryfallOracleId": "aff34f28-f707-4458-8af3-1bd5b13a6b10",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 193327,
+            "text": "Choose one —\n• Destroy all creatures.\n• Destroy all artifacts and enchantments.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "0218367d-b3d7-5191-93e0-dc3c569c5061",
+            "variations": [
+                "612f2ae2-1b7d-551c-ae5a-b73f84c1976b"
+            ]
+        },
+        {
+            "artist": "Noah Bradley",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 5.0,
+            "flavorText": "In their final moments, the demons gazed upon grace in its purest form.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -898,23 +1046,21 @@
             "name": "Cleansing Nova",
             "number": "9s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 6.97,
-                    "2019-01-30": 6.98,
-                    "2019-02-06": 7.07,
-                    "2019-02-13": 7.0,
-                    "2019-02-20": 6.97,
-                    "2019-02-27": 7.0,
-                    "2019-03-06": 6.73,
-                    "2019-03-13": 6.95,
-                    "2019-03-20": 6.95,
-                    "2019-03-27": 7.59,
-                    "2019-04-03": 7.01,
-                    "2019-04-10": 6.94,
-                    "2019-04-17": 6.87,
-                    "2019-04-24": 6.68,
-                    "2019-05-01": 6.74,
-                    "2019-05-08": 6.51
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.74,
+                    "2019-05-05": 6.49,
+                    "2019-05-12": 6.53,
+                    "2019-05-19": 6.49,
+                    "2019-05-26": 6.46,
+                    "2019-06-02": 6.41,
+                    "2019-06-09": 6.47,
+                    "2019-06-16": 6.26,
+                    "2019-06-23": 6.12,
+                    "2019-06-30": 6.02,
+                    "2019-07-07": 5.99,
+                    "2019-07-14": 5.93,
+                    "2019-07-21": 5.61
                 }
             },
             "printings": [
@@ -934,7 +1080,10 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "612f2ae2-1b7d-551c-ae5a-b73f84c1976b"
+            "uuid": "612f2ae2-1b7d-551c-ae5a-b73f84c1976b",
+            "variations": [
+                "0218367d-b3d7-5191-93e0-dc3c569c5061"
+            ]
         },
         {
             "artist": "Ron Spencer",
@@ -947,6 +1096,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -966,23 +1118,21 @@
             "name": "Crucible of Worlds",
             "number": "229s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 29.99,
-                    "2019-01-30": 29.99,
-                    "2019-02-06": 29.99,
-                    "2019-02-13": 30.0,
-                    "2019-02-20": 30.0,
-                    "2019-02-27": 29.99,
-                    "2019-03-06": 30.75,
-                    "2019-03-13": 30.75,
-                    "2019-03-20": 32.68,
-                    "2019-03-27": 29.97,
-                    "2019-04-03": 33.78,
-                    "2019-04-10": 34.11,
-                    "2019-04-17": 33.56,
-                    "2019-04-24": 33.98,
-                    "2019-05-01": 34.95,
-                    "2019-05-08": 34.11
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 34.5,
+                    "2019-05-05": 35.0,
+                    "2019-05-12": 34.79,
+                    "2019-05-19": 34.76,
+                    "2019-05-26": 35.0,
+                    "2019-06-02": 37.62,
+                    "2019-06-09": 46.95,
+                    "2019-06-16": 48.99,
+                    "2019-06-23": 49.49,
+                    "2019-06-30": 46.0,
+                    "2019-07-07": 46.0,
+                    "2019-07-14": 45.5,
+                    "2019-07-21": 44.63
                 }
             },
             "printings": [
@@ -1033,6 +1183,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1053,23 +1206,21 @@
             "number": "134s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.99,
-                    "2019-01-30": 1.99,
-                    "2019-02-06": 1.99,
-                    "2019-02-13": 1.99,
-                    "2019-02-20": 1.97,
-                    "2019-02-27": 1.79,
-                    "2019-03-06": 1.79,
-                    "2019-03-13": 1.79,
-                    "2019-03-20": 1.77,
-                    "2019-03-27": 1.74,
-                    "2019-04-03": 1.74,
-                    "2019-04-10": 1.59,
-                    "2019-04-17": 1.59,
-                    "2019-04-24": 1.59,
-                    "2019-05-01": 1.74,
-                    "2019-05-08": 1.59
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.65,
+                    "2019-05-05": 1.58,
+                    "2019-05-12": 1.59,
+                    "2019-05-19": 1.66,
+                    "2019-05-26": 1.57,
+                    "2019-06-02": 1.74,
+                    "2019-06-09": 1.72,
+                    "2019-06-16": 1.75,
+                    "2019-06-23": 1.77,
+                    "2019-06-30": 1.77,
+                    "2019-07-07": 1.78,
+                    "2019-07-14": 1.74,
+                    "2019-07-21": 1.7
                 }
             },
             "printings": [
@@ -1126,6 +1277,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isFullArt": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1146,23 +1301,21 @@
             "number": "90",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 20.69,
-                    "2019-01-30": 21.0,
-                    "2019-02-06": 20.46,
-                    "2019-02-13": 20.46,
-                    "2019-02-20": 19.99,
-                    "2019-02-27": 19.99,
-                    "2019-03-06": 19.99,
-                    "2019-03-13": 19.49,
-                    "2019-03-20": 19.23,
-                    "2019-03-27": 18.49,
-                    "2019-04-03": 18.49,
-                    "2019-04-10": 17.99,
-                    "2019-04-17": 17.99,
-                    "2019-04-24": 16.49,
-                    "2019-05-01": 16.9,
-                    "2019-05-08": 16.83
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 17.58,
+                    "2019-05-05": 16.66,
+                    "2019-05-12": 16.66,
+                    "2019-05-19": 17.25,
+                    "2019-05-26": 16.64,
+                    "2019-06-02": 15.56,
+                    "2019-06-09": 15.54,
+                    "2019-06-16": 15.34,
+                    "2019-06-23": 15.55,
+                    "2019-06-30": 15.53,
+                    "2019-07-07": 15.26,
+                    "2019-07-14": 15.12,
+                    "2019-07-21": 14.84
                 }
             },
             "printings": [
@@ -1204,6 +1357,86 @@
             ],
             "uuid": "97d106d2-5270-5a8d-afc0-6e2fcd175edf",
             "variations": [
+                "16ebb166-5948-5670-a7e0-bf049f37dcbe",
+                "a5b2d940-16cf-5080-806c-c5b190e47d6a"
+            ]
+        },
+        {
+            "artist": "Nils Hamm",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "flavorText": "For the necromancer barons, killing and recruitment are one and the same.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{B}{B}",
+            "mcmId": 360952,
+            "mcmMetaId": 10151,
+            "name": "Death Baron",
+            "number": "90p",
+            "power": "2",
+            "printings": [
+                "ALA",
+                "HOP",
+                "M19",
+                "PM19",
+                "PRM"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "A creature that’s both a Skeleton and a Zombie will get the bonus only once."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "Death Baron doesn’t normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "Because damage remains marked on a creature until it’s removed as the turn ends, nonlethal damage dealt to a Skeleton or Zombie you control may become lethal if Death Baron leaves the battlefield during that turn."
+                }
+            ],
+            "scryfallId": "13edd66d-5d4c-4e3a-ac35-cb74f05a6c55",
+            "scryfallIllustrationId": "ae4268e4-743c-4993-a791-13bb8aec68bd",
+            "scryfallOracleId": "99024aa8-5687-4d38-8a4b-feef42d6c1ff",
+            "subtypes": [
+                "Zombie",
+                "Wizard"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193336,
+            "text": "Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.",
+            "toughness": "2",
+            "type": "Creature — Zombie Wizard",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "16ebb166-5948-5670-a7e0-bf049f37dcbe",
+            "variations": [
+                "97d106d2-5270-5a8d-afc0-6e2fcd175edf",
                 "a5b2d940-16cf-5080-806c-c5b190e47d6a"
             ]
         },
@@ -1222,6 +1455,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1242,23 +1478,21 @@
             "number": "90s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 5.68,
-                    "2019-01-30": 5.43,
-                    "2019-02-06": 5.41,
-                    "2019-02-13": 5.14,
-                    "2019-02-20": 5.2,
-                    "2019-02-27": 4.78,
-                    "2019-03-06": 4.5,
-                    "2019-03-13": 4.5,
-                    "2019-03-20": 4.5,
-                    "2019-03-27": 4.49,
-                    "2019-04-03": 5.39,
-                    "2019-04-10": 5.56,
-                    "2019-04-17": 5.74,
-                    "2019-04-24": 5.99,
-                    "2019-05-01": 6.5,
-                    "2019-05-08": 6.63
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.34,
+                    "2019-05-05": 6.63,
+                    "2019-05-12": 6.75,
+                    "2019-05-19": 6.88,
+                    "2019-05-26": 6.82,
+                    "2019-06-02": 6.82,
+                    "2019-06-09": 6.89,
+                    "2019-06-16": 6.9,
+                    "2019-06-23": 7.0,
+                    "2019-06-30": 6.9,
+                    "2019-07-07": 6.87,
+                    "2019-07-14": 6.62,
+                    "2019-07-21": 6.89
                 }
             },
             "printings": [
@@ -1300,7 +1534,69 @@
             ],
             "uuid": "a5b2d940-16cf-5080-806c-c5b190e47d6a",
             "variations": [
-                "97d106d2-5270-5a8d-afc0-6e2fcd175edf"
+                "97d106d2-5270-5a8d-afc0-6e2fcd175edf",
+                "16ebb166-5948-5670-a7e0-bf049f37dcbe"
+            ]
+        },
+        {
+            "artist": "Chris Rahn",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 5.0,
+            "flavorText": "A knight's devotion to their steed goes only so far.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{R}{R}",
+            "mcmId": 360964,
+            "mcmMetaId": 263551,
+            "name": "Demanding Dragon",
+            "number": "135p",
+            "power": "5",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "addcf981-4b26-4f35-abb9-fa3536ed1b9c",
+            "scryfallIllustrationId": "18890a94-bf1b-446c-9786-2cc240f1acf3",
+            "scryfallOracleId": "c8f1e3bd-bbf0-4750-b054-03553fc61850",
+            "subtypes": [
+                "Dragon"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193338,
+            "text": "Flying\nWhen Demanding Dragon enters the battlefield, it deals 5 damage to target opponent unless that player sacrifices a creature.",
+            "toughness": "5",
+            "type": "Creature — Dragon",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "88772b97-61b6-543f-ba8e-e93010a22362",
+            "variations": [
+                "a9aabbdd-d3fd-575c-98c0-dc67a30da41f"
             ]
         },
         {
@@ -1318,6 +1614,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1338,23 +1637,21 @@
             "number": "135s",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.24,
-                    "2019-01-30": 3.11,
-                    "2019-02-06": 3.12,
-                    "2019-02-13": 2.99,
-                    "2019-02-20": 3.06,
-                    "2019-02-27": 3.06,
-                    "2019-03-06": 2.99,
-                    "2019-03-13": 3.0,
-                    "2019-03-20": 2.92,
-                    "2019-03-27": 2.9,
-                    "2019-04-03": 2.9,
-                    "2019-04-10": 2.84,
-                    "2019-04-17": 2.84,
-                    "2019-04-24": 2.82,
-                    "2019-05-01": 2.82,
-                    "2019-05-08": 2.75
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.82,
+                    "2019-05-05": 2.82,
+                    "2019-05-12": 2.73,
+                    "2019-05-19": 2.74,
+                    "2019-05-26": 2.74,
+                    "2019-06-02": 2.75,
+                    "2019-06-09": 2.73,
+                    "2019-06-16": 2.66,
+                    "2019-06-23": 2.55,
+                    "2019-06-30": 2.49,
+                    "2019-07-07": 2.4,
+                    "2019-07-14": 2.37,
+                    "2019-07-21": 2.47
                 }
             },
             "printings": [
@@ -1377,7 +1674,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "a9aabbdd-d3fd-575c-98c0-dc67a30da41f"
+            "uuid": "a9aabbdd-d3fd-575c-98c0-dc67a30da41f",
+            "variations": [
+                "88772b97-61b6-543f-ba8e-e93010a22362"
+            ]
         },
         {
             "artist": "Igor Kieryluk",
@@ -1393,6 +1693,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isFullArt": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1413,23 +1717,21 @@
             "number": "91",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.49,
-                    "2019-01-30": 1.5,
-                    "2019-02-06": 1.55,
-                    "2019-02-13": 1.55,
-                    "2019-02-20": 1.54,
-                    "2019-02-27": 1.5,
-                    "2019-03-06": 1.43,
-                    "2019-03-13": 1.43,
-                    "2019-03-20": 1.43,
-                    "2019-03-27": 1.41,
-                    "2019-04-03": 1.4,
-                    "2019-04-10": 1.3,
-                    "2019-04-17": 1.31,
-                    "2019-04-24": 1.25,
-                    "2019-05-01": 1.25,
-                    "2019-05-08": 1.29
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.25,
+                    "2019-05-05": 1.25,
+                    "2019-05-12": 1.43,
+                    "2019-05-19": 1.4,
+                    "2019-05-26": 1.36,
+                    "2019-06-02": 1.43,
+                    "2019-06-09": 1.39,
+                    "2019-06-16": 1.39,
+                    "2019-06-23": 1.43,
+                    "2019-06-30": 1.29,
+                    "2019-07-07": 1.34,
+                    "2019-07-14": 1.39,
+                    "2019-07-21": 1.34
                 }
             },
             "printings": [
@@ -1482,6 +1784,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1502,23 +1807,21 @@
             "number": "91s",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.31,
-                    "2019-01-30": 2.34,
-                    "2019-02-06": 2.29,
-                    "2019-02-13": 2.31,
-                    "2019-02-20": 2.32,
-                    "2019-02-27": 2.23,
-                    "2019-03-06": 2.23,
-                    "2019-03-13": 2.23,
-                    "2019-03-20": 2.23,
-                    "2019-03-27": 2.2,
-                    "2019-04-03": 2.2,
-                    "2019-04-10": 2.21,
-                    "2019-04-17": 2.21,
-                    "2019-04-24": 2.14,
-                    "2019-05-01": 2.2,
-                    "2019-05-08": 2.19
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.16,
+                    "2019-05-05": 2.2,
+                    "2019-05-12": 2.18,
+                    "2019-05-19": 2.18,
+                    "2019-05-26": 2.21,
+                    "2019-06-02": 2.2,
+                    "2019-06-09": 2.2,
+                    "2019-06-16": 2.15,
+                    "2019-06-23": 2.14,
+                    "2019-06-30": 2.12,
+                    "2019-07-07": 2.12,
+                    "2019-07-14": 2.11,
+                    "2019-07-21": 2.03
                 }
             },
             "printings": [
@@ -1567,6 +1870,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1576,6 +1882,7 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -1586,23 +1893,21 @@
             "name": "Desecrated Tomb",
             "number": "230",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.34,
-                    "2019-01-30": 0.34,
-                    "2019-02-06": 0.3,
-                    "2019-02-13": 0.3,
-                    "2019-02-20": 0.31,
-                    "2019-02-27": 0.39,
-                    "2019-03-06": 0.39,
-                    "2019-03-13": 0.37,
-                    "2019-03-20": 0.39,
-                    "2019-03-27": 0.44,
-                    "2019-04-03": 0.44,
-                    "2019-04-10": 0.49,
-                    "2019-04-17": 0.5,
-                    "2019-04-24": 0.5,
-                    "2019-05-01": 0.5,
-                    "2019-05-08": 0.5
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.5,
+                    "2019-05-05": 0.5,
+                    "2019-05-12": 0.5,
+                    "2019-05-19": 0.5,
+                    "2019-05-26": 0.5,
+                    "2019-06-02": 0.5,
+                    "2019-06-09": 0.53,
+                    "2019-06-16": 0.56,
+                    "2019-06-23": 0.65,
+                    "2019-06-30": 0.65,
+                    "2019-07-07": 0.67,
+                    "2019-07-14": 0.68,
+                    "2019-07-21": 0.67
                 }
             },
             "printings": [
@@ -1645,6 +1950,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1654,6 +1962,7 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -1664,23 +1973,21 @@
             "name": "Desecrated Tomb",
             "number": "230s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.25,
-                    "2019-01-30": 2.24,
-                    "2019-02-06": 2.23,
-                    "2019-02-13": 2.23,
-                    "2019-02-20": 2.21,
-                    "2019-02-27": 2.23,
-                    "2019-03-06": 2.17,
-                    "2019-03-13": 2.17,
-                    "2019-03-20": 2.23,
-                    "2019-03-27": 2.22,
-                    "2019-04-03": 2.21,
-                    "2019-04-10": 2.23,
-                    "2019-04-17": 2.16,
-                    "2019-04-24": 2.0,
-                    "2019-05-01": 2.0,
-                    "2019-05-08": 1.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.0,
+                    "2019-05-05": 2.0,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.99,
+                    "2019-05-26": 1.99,
+                    "2019-06-02": 1.98,
+                    "2019-06-09": 1.98,
+                    "2019-06-16": 1.98,
+                    "2019-06-23": 1.99,
+                    "2019-06-30": 1.98,
+                    "2019-07-07": 1.99,
+                    "2019-07-14": 1.98,
+                    "2019-07-21": 1.98
                 }
             },
             "printings": [
@@ -1722,6 +2029,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1740,23 +2050,21 @@
             "name": "Detection Tower",
             "number": "249s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.73,
-                    "2019-01-30": 4.59,
-                    "2019-02-06": 4.6,
-                    "2019-02-13": 4.61,
-                    "2019-02-20": 4.38,
-                    "2019-02-27": 4.39,
-                    "2019-03-06": 4.28,
-                    "2019-03-13": 4.49,
-                    "2019-03-20": 4.14,
-                    "2019-03-27": 4.14,
-                    "2019-04-03": 4.54,
-                    "2019-04-10": 4.5,
-                    "2019-04-17": 4.14,
-                    "2019-04-24": 4.37,
-                    "2019-05-01": 4.37,
-                    "2019-05-08": 4.28
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.28,
+                    "2019-05-05": 4.48,
+                    "2019-05-12": 4.28,
+                    "2019-05-19": 4.45,
+                    "2019-05-26": 4.14,
+                    "2019-06-02": 3.99,
+                    "2019-06-09": 3.99,
+                    "2019-06-16": 3.95,
+                    "2019-06-23": 4.18,
+                    "2019-06-30": 4.11,
+                    "2019-07-07": 4.0,
+                    "2019-07-14": 3.99,
+                    "2019-07-21": 3.99
                 }
             },
             "printings": [
@@ -1806,6 +2114,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1827,23 +2138,21 @@
             "number": "136s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.77,
-                    "2019-01-30": 1.76,
-                    "2019-02-06": 1.73,
-                    "2019-02-13": 1.68,
-                    "2019-02-20": 1.7,
-                    "2019-02-27": 1.67,
-                    "2019-03-06": 1.67,
-                    "2019-03-13": 1.71,
-                    "2019-03-20": 1.67,
-                    "2019-03-27": 1.59,
-                    "2019-04-03": 1.64,
-                    "2019-04-10": 1.61,
-                    "2019-04-17": 1.58,
-                    "2019-04-24": 1.59,
-                    "2019-05-01": 1.52,
-                    "2019-05-08": 1.51
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.53,
+                    "2019-05-05": 1.51,
+                    "2019-05-12": 1.51,
+                    "2019-05-19": 1.49,
+                    "2019-05-26": 1.49,
+                    "2019-06-02": 1.49,
+                    "2019-06-09": 1.49,
+                    "2019-06-16": 1.46,
+                    "2019-06-23": 1.49,
+                    "2019-06-30": 1.47,
+                    "2019-07-07": 1.48,
+                    "2019-07-14": 1.4,
+                    "2019-07-21": 1.35
                 }
             },
             "printings": [
@@ -1883,6 +2192,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1904,23 +2216,21 @@
             "number": "52s",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.77,
-                    "2019-01-30": 0.79,
-                    "2019-02-06": 0.77,
-                    "2019-02-13": 0.75,
-                    "2019-02-20": 0.75,
-                    "2019-02-27": 0.75,
-                    "2019-03-06": 0.75,
-                    "2019-03-13": 0.75,
-                    "2019-03-20": 0.8,
-                    "2019-03-27": 0.87,
-                    "2019-04-03": 0.8,
-                    "2019-04-10": 0.8,
-                    "2019-04-17": 0.84,
-                    "2019-04-24": 0.79,
-                    "2019-05-01": 0.8,
-                    "2019-05-08": 0.8
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.79,
+                    "2019-05-05": 0.75,
+                    "2019-05-12": 0.8,
+                    "2019-05-19": 0.86,
+                    "2019-05-26": 0.86,
+                    "2019-06-02": 0.86,
+                    "2019-06-09": 0.8,
+                    "2019-06-16": 0.8,
+                    "2019-06-23": 0.8,
+                    "2019-06-30": 0.75,
+                    "2019-07-07": 0.8,
+                    "2019-07-14": 0.75,
+                    "2019-07-21": 0.78
                 }
             },
             "printings": [
@@ -1975,6 +2285,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1994,23 +2307,21 @@
             "name": "Dragon's Hoard",
             "number": "232s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.06,
-                    "2019-01-30": 4.0,
-                    "2019-02-06": 4.09,
-                    "2019-02-13": 3.99,
-                    "2019-02-20": 4.0,
-                    "2019-02-27": 3.99,
-                    "2019-03-06": 4.0,
-                    "2019-03-13": 4.28,
-                    "2019-03-20": 4.28,
-                    "2019-03-27": 4.27,
-                    "2019-04-03": 4.28,
-                    "2019-04-10": 4.17,
-                    "2019-04-17": 4.21,
-                    "2019-04-24": 4.14,
-                    "2019-05-01": 4.15,
-                    "2019-05-08": 4.05
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.18,
+                    "2019-05-05": 4.01,
+                    "2019-05-12": 4.0,
+                    "2019-05-19": 4.0,
+                    "2019-05-26": 4.0,
+                    "2019-06-02": 4.0,
+                    "2019-06-09": 3.99,
+                    "2019-06-16": 4.0,
+                    "2019-06-23": 4.0,
+                    "2019-06-30": 4.0,
+                    "2019-07-07": 3.99,
+                    "2019-07-14": 3.87,
+                    "2019-07-21": 3.99
                 }
             },
             "printings": [
@@ -2046,7 +2357,72 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{G}{G}",
+            "mcmId": 360970,
+            "mcmMetaId": 263356,
+            "name": "Elvish Clancaller",
+            "number": "179p",
+            "power": "1",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "0f18dbbb-498c-4180-b467-f97b372d050b",
+            "scryfallIllustrationId": "961d85bc-18eb-4dbe-8d58-53e0a78d3ee5",
+            "scryfallOracleId": "a8f5440e-5d4b-420a-8cfd-27a3c72be0d2",
+            "subtypes": [
+                "Elf",
+                "Druid"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193340,
+            "text": "Other Elves you control get +1/+1.\n{4}{G}{G}, {T}: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.",
+            "toughness": "1",
+            "type": "Creature — Elf Druid",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "9dd86cab-3722-5d48-b697-ee8998164c1c",
+            "variations": [
+                "87272575-bce8-5202-a6d5-92b3eab0a944"
+            ]
+        },
+        {
+            "artist": "Matt Stewart",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 2.0,
+            "flavorText": "No single root feeds the forest.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2067,23 +2443,21 @@
             "number": "179s",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 5.29,
-                    "2019-01-30": 5.18,
-                    "2019-02-06": 5.29,
-                    "2019-02-13": 5.28,
-                    "2019-02-20": 5.24,
-                    "2019-02-27": 5.25,
-                    "2019-03-06": 5.25,
-                    "2019-03-13": 5.27,
-                    "2019-03-20": 5.22,
-                    "2019-03-27": 5.2,
-                    "2019-04-03": 5.4,
-                    "2019-04-10": 5.39,
-                    "2019-04-17": 5.37,
-                    "2019-04-24": 5.39,
-                    "2019-05-01": 5.19,
-                    "2019-05-08": 5.01
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.36,
+                    "2019-05-05": 5.02,
+                    "2019-05-12": 4.99,
+                    "2019-05-19": 5.01,
+                    "2019-05-26": 4.99,
+                    "2019-06-02": 4.99,
+                    "2019-06-09": 4.97,
+                    "2019-06-16": 4.84,
+                    "2019-06-23": 4.89,
+                    "2019-06-30": 4.89,
+                    "2019-07-07": 4.58,
+                    "2019-07-14": 4.5,
+                    "2019-07-21": 4.5
                 }
             },
             "printings": [
@@ -2107,7 +2481,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "87272575-bce8-5202-a6d5-92b3eab0a944"
+            "uuid": "87272575-bce8-5202-a6d5-92b3eab0a944",
+            "variations": [
+                "9dd86cab-3722-5d48-b697-ee8998164c1c"
+            ]
         },
         {
             "artist": "Winona Nelson",
@@ -2123,6 +2500,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2143,23 +2523,21 @@
             "number": "180",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.85,
-                    "2019-01-30": 0.77,
-                    "2019-02-06": 0.77,
-                    "2019-02-13": 0.85,
-                    "2019-02-20": 0.78,
-                    "2019-02-27": 0.85,
-                    "2019-03-06": 0.85,
-                    "2019-03-13": 0.74,
-                    "2019-03-20": 0.76,
-                    "2019-03-27": 0.85,
-                    "2019-04-03": 0.89,
-                    "2019-04-10": 0.9,
-                    "2019-04-17": 0.86,
-                    "2019-04-24": 0.75,
-                    "2019-05-01": 0.65,
-                    "2019-05-08": 0.66
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.73,
+                    "2019-05-05": 0.65,
+                    "2019-05-12": 0.64,
+                    "2019-05-19": 0.57,
+                    "2019-05-26": 0.5,
+                    "2019-06-02": 0.6,
+                    "2019-06-09": 0.65,
+                    "2019-06-16": 0.75,
+                    "2019-06-23": 0.75,
+                    "2019-06-30": 0.73,
+                    "2019-07-07": 0.79,
+                    "2019-07-14": 0.73,
+                    "2019-07-21": 0.73
                 }
             },
             "printings": [
@@ -2202,6 +2580,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2222,23 +2603,21 @@
             "name": "Fraying Omnipotence",
             "number": "97s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.67,
-                    "2019-01-30": 1.63,
-                    "2019-02-06": 1.6,
-                    "2019-02-13": 1.5,
-                    "2019-02-20": 1.5,
-                    "2019-02-27": 1.5,
-                    "2019-03-06": 1.6,
-                    "2019-03-13": 1.66,
-                    "2019-03-20": 1.65,
-                    "2019-03-27": 1.67,
-                    "2019-04-03": 1.63,
-                    "2019-04-10": 1.63,
-                    "2019-04-17": 1.6,
-                    "2019-04-24": 1.6,
-                    "2019-05-01": 1.67,
-                    "2019-05-08": 1.67
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.74,
+                    "2019-05-05": 1.67,
+                    "2019-05-12": 1.67,
+                    "2019-05-19": 1.66,
+                    "2019-05-26": 1.55,
+                    "2019-06-02": 1.6,
+                    "2019-06-09": 1.5,
+                    "2019-06-16": 1.49,
+                    "2019-06-23": 1.55,
+                    "2019-06-30": 1.48,
+                    "2019-07-07": 1.5,
+                    "2019-07-14": 1.5,
+                    "2019-07-21": 1.5
                 }
             },
             "printings": [
@@ -2291,7 +2670,70 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{G}{G}{G}{G}{G}",
+            "mcmId": 360971,
+            "mcmMetaId": 263125,
+            "name": "Gigantosaurus",
+            "number": "185p",
+            "power": "10",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "5873ee84-1fb8-401b-8c4b-1b4c28e9dd6c",
+            "scryfallIllustrationId": "be4a92b7-bedc-4e08-b9f6-3cd8abcc67dd",
+            "scryfallOracleId": "e666bae7-dd51-4921-8b89-7e8d423caba0",
+            "subtypes": [
+                "Dinosaur"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193342,
+            "toughness": "10",
+            "type": "Creature — Dinosaur",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "09d31ecc-a09d-5118-8f74-6ec32ddcb0a1",
+            "variations": [
+                "135348f9-8bb7-57e3-b0f0-35c73fc29e6a"
+            ]
+        },
+        {
+            "artist": "Jonathan Kuo",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 5.0,
+            "flavorText": "\"Each tooth is the length of a horse, and new ones grow in every sixteen days. Let's get a closer look!\"\n—Vivien Reid",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2312,23 +2754,21 @@
             "number": "185s",
             "power": "10",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.6,
-                    "2019-01-30": 3.6,
-                    "2019-02-06": 3.57,
-                    "2019-02-13": 3.5,
-                    "2019-02-20": 3.56,
-                    "2019-02-27": 3.6,
-                    "2019-03-06": 3.5,
-                    "2019-03-13": 3.47,
-                    "2019-03-20": 3.5,
-                    "2019-03-27": 3.45,
-                    "2019-04-03": 3.39,
-                    "2019-04-10": 3.38,
-                    "2019-04-17": 3.36,
-                    "2019-04-24": 3.36,
-                    "2019-05-01": 3.36,
-                    "2019-05-08": 3.33
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.37,
+                    "2019-05-05": 3.33,
+                    "2019-05-12": 3.25,
+                    "2019-05-19": 3.2,
+                    "2019-05-26": 3.16,
+                    "2019-06-02": 3.16,
+                    "2019-06-09": 3.16,
+                    "2019-06-16": 3.11,
+                    "2019-06-23": 3.15,
+                    "2019-06-30": 3.22,
+                    "2019-07-07": 3.12,
+                    "2019-07-14": 3.24,
+                    "2019-07-21": 3.34
                 }
             },
             "printings": [
@@ -2350,7 +2790,81 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "135348f9-8bb7-57e3-b0f0-35c73fc29e6a"
+            "uuid": "135348f9-8bb7-57e3-b0f0-35c73fc29e6a",
+            "variations": [
+                "09d31ecc-a09d-5118-8f74-6ec32ddcb0a1"
+            ]
+        },
+        {
+            "artist": "Jakub Kasper",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 4.0,
+            "flavorText": "\"Folks 'round here are too in love with their contraptions. Does them some good if we smash every one so often.\"",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{R}{R}",
+            "mcmId": 360966,
+            "mcmMetaId": 263422,
+            "name": "Goblin Trashmaster",
+            "number": "144p",
+            "power": "3",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "Because damage remains marked on a creature until it’s removed as the turn ends, nonlethal damage dealt to a Goblin you control may become lethal if Goblin Trashmaster leaves the battlefield during that turn."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "You can sacrifice Goblin Trashmaster to pay the cost for its own ability."
+                }
+            ],
+            "scryfallId": "9cd13e25-b2d1-4f90-8540-6e38e168f0f9",
+            "scryfallIllustrationId": "4a451f77-3f9d-45ea-be78-5e229028c901",
+            "scryfallOracleId": "0283bf5e-ddf2-4a4a-a7cf-d3e27eed7e7d",
+            "subtypes": [
+                "Goblin",
+                "Warrior"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193339,
+            "text": "Other Goblins you control get +1/+1.\nSacrifice a Goblin: Destroy target artifact.",
+            "toughness": "3",
+            "type": "Creature — Goblin Warrior",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "0eb79d59-5f9e-57ed-8240-b84910c2c32d",
+            "variations": [
+                "5826930c-4b7f-5364-8829-df6a50f243e2"
+            ]
         },
         {
             "artist": "Jakub Kasper",
@@ -2367,6 +2881,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2387,23 +2904,21 @@
             "number": "144s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.49,
-                    "2019-01-30": 4.49,
-                    "2019-02-06": 3.95,
-                    "2019-02-13": 3.9,
-                    "2019-02-20": 4.49,
-                    "2019-02-27": 3.9,
-                    "2019-03-06": 3.9,
-                    "2019-03-13": 3.73,
-                    "2019-03-20": 3.9,
-                    "2019-03-27": 3.79,
-                    "2019-04-03": 3.85,
-                    "2019-04-10": 3.73,
-                    "2019-04-17": 3.9,
-                    "2019-04-24": 3.9,
-                    "2019-05-01": 3.85,
-                    "2019-05-08": 3.9
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.99,
+                    "2019-05-05": 3.95,
+                    "2019-05-12": 3.82,
+                    "2019-05-19": 3.55,
+                    "2019-05-26": 3.6,
+                    "2019-06-02": 3.72,
+                    "2019-06-09": 3.58,
+                    "2019-06-16": 3.6,
+                    "2019-06-23": 3.82,
+                    "2019-06-30": 3.64,
+                    "2019-07-07": 3.57,
+                    "2019-07-14": 3.64,
+                    "2019-07-21": 3.95
                 }
             },
             "printings": [
@@ -2436,7 +2951,87 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "5826930c-4b7f-5364-8829-df6a50f243e2"
+            "uuid": "5826930c-4b7f-5364-8829-df6a50f243e2",
+            "variations": [
+                "0eb79d59-5f9e-57ed-8240-b84910c2c32d"
+            ]
+        },
+        {
+            "artist": "Svetlin Velinov",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 4.0,
+            "flavorText": "You don't want to know how she got that name.",
+            "foreignData": [],
+            "frameEffect": "legendary",
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{G}",
+            "mcmId": 360972,
+            "mcmMetaId": 263392,
+            "name": "Goreclaw, Terror of Qal Sisma",
+            "number": "186p",
+            "power": "4",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "If you cast a creature spell that will enter the battlefield with a number of +1/+1 counters, such as Hungering Hydra, those counters aren’t considered when determining whether Goreclaw reduces that spell’s cost. Similarly, effects that will raise the creature’s power once it has entered the battlefield won’t apply."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "If another creature has an ability that changes its power when it attacks, such as Brawl-Bash Ogre, you may have that ability resolve before Goreclaw’s last ability."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "Goreclaw’s last ability affects only creatures you control with the appropriate power at the time it resolves. Creatures you begin to control later in the turn won’t get either bonus, and a creature you control whose power decreases later in the turn won’t lose either bonus."
+                }
+            ],
+            "scryfallId": "430e64a3-6604-419a-bbb7-769362114788",
+            "scryfallIllustrationId": "d2e0d940-6b94-42d7-9573-d605151269e7",
+            "scryfallOracleId": "befb211f-37ca-4083-98d4-9ff1f28be3f2",
+            "subtypes": [
+                "Bear"
+            ],
+            "supertypes": [
+                "Legendary"
+            ],
+            "tcgplayerProductId": 193343,
+            "text": "Creature spells you cast with power 4 or greater cost {2} less to cast.\nWhenever Goreclaw, Terror of Qal Sisma attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.",
+            "toughness": "3",
+            "type": "Legendary Creature — Bear",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "0ebbf4b6-4cc0-5587-9f3d-7ae8be2f4dfb",
+            "variations": [
+                "382bcc09-e883-5f66-b992-12d7acd1309b"
+            ]
         },
         {
             "artist": "Svetlin Velinov",
@@ -2454,6 +3049,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2474,23 +3072,21 @@
             "number": "186s",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 6.24,
-                    "2019-01-30": 6.32,
-                    "2019-02-06": 6.4,
-                    "2019-02-13": 6.41,
-                    "2019-02-20": 6.58,
-                    "2019-02-27": 6.5,
-                    "2019-03-06": 6.4,
-                    "2019-03-13": 6.33,
-                    "2019-03-20": 6.46,
-                    "2019-03-27": 6.38,
-                    "2019-04-03": 6.74,
-                    "2019-04-10": 6.52,
-                    "2019-04-17": 6.35,
-                    "2019-04-24": 6.34,
-                    "2019-05-01": 6.41,
-                    "2019-05-08": 6.41
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.52,
+                    "2019-05-05": 6.6,
+                    "2019-05-12": 6.41,
+                    "2019-05-19": 6.34,
+                    "2019-05-26": 6.48,
+                    "2019-06-02": 6.66,
+                    "2019-06-09": 6.74,
+                    "2019-06-16": 6.45,
+                    "2019-06-23": 6.74,
+                    "2019-06-30": 6.57,
+                    "2019-07-07": 5.79,
+                    "2019-07-14": 5.87,
+                    "2019-07-21": 5.9
                 }
             },
             "printings": [
@@ -2528,7 +3124,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "382bcc09-e883-5f66-b992-12d7acd1309b"
+            "uuid": "382bcc09-e883-5f66-b992-12d7acd1309b",
+            "variations": [
+                "0ebbf4b6-4cc0-5587-9f3d-7ae8be2f4dfb"
+            ]
         },
         {
             "artist": "Mark Behm",
@@ -2545,6 +3144,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2565,23 +3167,21 @@
             "number": "99s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.47,
-                    "2019-01-30": 3.33,
-                    "2019-02-06": 3.24,
-                    "2019-02-13": 3.2,
-                    "2019-02-20": 3.22,
-                    "2019-02-27": 3.05,
-                    "2019-03-06": 3.0,
-                    "2019-03-13": 3.1,
-                    "2019-03-20": 3.0,
-                    "2019-03-27": 3.0,
-                    "2019-04-03": 2.82,
-                    "2019-04-10": 2.83,
-                    "2019-04-17": 2.63,
-                    "2019-04-24": 2.49,
-                    "2019-05-01": 2.52,
-                    "2019-05-08": 2.52
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.53,
+                    "2019-05-05": 2.51,
+                    "2019-05-12": 2.5,
+                    "2019-05-19": 2.44,
+                    "2019-05-26": 2.33,
+                    "2019-06-02": 2.45,
+                    "2019-06-09": 2.41,
+                    "2019-06-16": 2.27,
+                    "2019-06-23": 2.26,
+                    "2019-06-30": 2.27,
+                    "2019-07-07": 2.27,
+                    "2019-07-14": 2.19,
+                    "2019-07-21": 2.21
                 }
             },
             "printings": [
@@ -2621,6 +3221,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isFullArt": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2640,23 +3244,21 @@
             "number": "145",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.75,
-                    "2019-01-30": 1.72,
-                    "2019-02-06": 1.75,
-                    "2019-02-13": 1.75,
-                    "2019-02-20": 1.86,
-                    "2019-02-27": 1.87,
-                    "2019-03-06": 1.83,
-                    "2019-03-13": 1.87,
-                    "2019-03-20": 1.85,
-                    "2019-03-27": 1.87,
-                    "2019-04-03": 1.9,
-                    "2019-04-10": 1.99,
-                    "2019-04-17": 1.9,
-                    "2019-04-24": 1.96,
-                    "2019-05-01": 1.93,
-                    "2019-05-08": 1.95
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.93,
+                    "2019-05-05": 1.94,
+                    "2019-05-12": 1.95,
+                    "2019-05-19": 1.91,
+                    "2019-05-26": 1.88,
+                    "2019-06-02": 1.88,
+                    "2019-06-09": 1.89,
+                    "2019-06-16": 1.93,
+                    "2019-06-23": 1.98,
+                    "2019-06-30": 1.99,
+                    "2019-07-07": 1.9,
+                    "2019-07-14": 1.89,
+                    "2019-07-21": 1.9
                 }
             },
             "printings": [
@@ -2712,6 +3314,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2732,23 +3337,21 @@
             "number": "189s",
             "power": "0",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.51,
-                    "2019-01-30": 1.5,
-                    "2019-02-06": 1.54,
-                    "2019-02-13": 1.52,
-                    "2019-02-20": 1.56,
-                    "2019-02-27": 1.58,
-                    "2019-03-06": 1.58,
-                    "2019-03-13": 1.6,
-                    "2019-03-20": 1.62,
-                    "2019-03-27": 1.57,
-                    "2019-04-03": 1.57,
-                    "2019-04-10": 1.57,
-                    "2019-04-17": 1.76,
-                    "2019-04-24": 1.74,
-                    "2019-05-01": 1.77,
-                    "2019-05-08": 1.64
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.76,
+                    "2019-05-05": 1.73,
+                    "2019-05-12": 1.64,
+                    "2019-05-19": 1.62,
+                    "2019-05-26": 1.54,
+                    "2019-06-02": 1.57,
+                    "2019-06-09": 1.65,
+                    "2019-06-16": 1.65,
+                    "2019-06-23": 1.57,
+                    "2019-06-30": 1.57,
+                    "2019-07-07": 1.9,
+                    "2019-07-14": 1.89,
+                    "2019-07-21": 1.88
                 }
             },
             "printings": [
@@ -2788,6 +3391,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2807,23 +3413,21 @@
             "name": "Infernal Reckoning",
             "number": "102s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.92,
-                    "2019-01-30": 2.88,
-                    "2019-02-06": 2.83,
-                    "2019-02-13": 2.75,
-                    "2019-02-20": 2.79,
-                    "2019-02-27": 2.73,
-                    "2019-03-06": 2.72,
-                    "2019-03-13": 2.59,
-                    "2019-03-20": 2.66,
-                    "2019-03-27": 2.64,
-                    "2019-04-03": 2.6,
-                    "2019-04-10": 2.62,
-                    "2019-04-17": 2.49,
-                    "2019-04-24": 2.44,
-                    "2019-05-01": 2.45,
-                    "2019-05-08": 2.38
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.45,
+                    "2019-05-05": 2.49,
+                    "2019-05-12": 2.35,
+                    "2019-05-19": 2.25,
+                    "2019-05-26": 2.27,
+                    "2019-06-02": 2.33,
+                    "2019-06-09": 2.29,
+                    "2019-06-16": 2.25,
+                    "2019-06-23": 2.36,
+                    "2019-06-30": 2.35,
+                    "2019-07-07": 2.31,
+                    "2019-07-14": 2.21,
+                    "2019-07-21": 2.2
                 }
             },
             "printings": [
@@ -2869,6 +3473,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2889,23 +3496,21 @@
             "number": "104s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.61,
-                    "2019-01-30": 3.43,
-                    "2019-02-06": 3.27,
-                    "2019-02-13": 3.13,
-                    "2019-02-20": 3.04,
-                    "2019-02-27": 2.94,
-                    "2019-03-06": 2.99,
-                    "2019-03-13": 2.9,
-                    "2019-03-20": 2.97,
-                    "2019-03-27": 2.85,
-                    "2019-04-03": 2.57,
-                    "2019-04-10": 2.5,
-                    "2019-04-17": 2.45,
-                    "2019-04-24": 2.37,
-                    "2019-05-01": 2.37,
-                    "2019-05-08": 2.33
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.41,
+                    "2019-05-05": 2.32,
+                    "2019-05-12": 2.28,
+                    "2019-05-19": 2.29,
+                    "2019-05-26": 2.29,
+                    "2019-06-02": 2.49,
+                    "2019-06-09": 2.28,
+                    "2019-06-16": 2.22,
+                    "2019-06-23": 2.29,
+                    "2019-06-30": 2.25,
+                    "2019-07-07": 2.23,
+                    "2019-07-14": 2.24,
+                    "2019-07-21": 2.18
                 }
             },
             "printings": [
@@ -2973,6 +3578,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2993,23 +3601,21 @@
             "name": "Isolate",
             "number": "17s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.89,
-                    "2019-01-30": 2.74,
-                    "2019-02-06": 2.68,
-                    "2019-02-13": 2.68,
-                    "2019-02-20": 2.69,
-                    "2019-02-27": 2.61,
-                    "2019-03-06": 2.45,
-                    "2019-03-13": 2.45,
-                    "2019-03-20": 2.42,
-                    "2019-03-27": 2.11,
-                    "2019-04-03": 2.54,
-                    "2019-04-10": 2.39,
-                    "2019-04-17": 2.08,
-                    "2019-04-24": 2.0,
-                    "2019-05-01": 2.03,
-                    "2019-05-08": 1.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.0,
+                    "2019-05-05": 1.99,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 2.0,
+                    "2019-05-26": 2.0,
+                    "2019-06-02": 2.02,
+                    "2019-06-09": 2.0,
+                    "2019-06-16": 1.99,
+                    "2019-06-23": 2.0,
+                    "2019-06-30": 1.79,
+                    "2019-07-07": 1.99,
+                    "2019-07-14": 2.0,
+                    "2019-07-21": 2.0
                 }
             },
             "printings": [
@@ -3051,6 +3657,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3071,23 +3680,21 @@
             "number": "149s",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 5.28,
-                    "2019-01-30": 5.04,
-                    "2019-02-06": 5.01,
-                    "2019-02-13": 5.22,
-                    "2019-02-20": 5.27,
-                    "2019-02-27": 5.01,
-                    "2019-03-06": 5.01,
-                    "2019-03-13": 5.04,
-                    "2019-03-20": 5.02,
-                    "2019-03-27": 5.0,
-                    "2019-04-03": 5.44,
-                    "2019-04-10": 5.57,
-                    "2019-04-17": 5.0,
-                    "2019-04-24": 5.09,
-                    "2019-05-01": 5.18,
-                    "2019-05-08": 5.19
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.13,
+                    "2019-05-05": 5.12,
+                    "2019-05-12": 5.22,
+                    "2019-05-19": 5.38,
+                    "2019-05-26": 5.12,
+                    "2019-06-02": 5.25,
+                    "2019-06-09": 5.3,
+                    "2019-06-16": 5.17,
+                    "2019-06-23": 5.1,
+                    "2019-06-30": 5.05,
+                    "2019-07-07": 5.05,
+                    "2019-07-14": 5.05,
+                    "2019-07-21": 5.98
                 }
             },
             "printings": [
@@ -3131,6 +3738,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3152,23 +3762,21 @@
             "number": "21s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.46,
-                    "2019-01-30": 1.43,
-                    "2019-02-06": 1.42,
-                    "2019-02-13": 1.48,
-                    "2019-02-20": 1.48,
-                    "2019-02-27": 1.47,
-                    "2019-03-06": 1.43,
-                    "2019-03-13": 1.49,
-                    "2019-03-20": 1.49,
-                    "2019-03-27": 1.41,
-                    "2019-04-03": 1.43,
-                    "2019-04-10": 1.47,
-                    "2019-04-17": 1.45,
-                    "2019-04-24": 1.42,
-                    "2019-05-01": 1.42,
-                    "2019-05-08": 1.34
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.42,
+                    "2019-05-05": 1.34,
+                    "2019-05-12": 1.32,
+                    "2019-05-19": 1.32,
+                    "2019-05-26": 1.05,
+                    "2019-06-02": 1.22,
+                    "2019-06-09": 1.1,
+                    "2019-06-16": 1.11,
+                    "2019-06-23": 1.05,
+                    "2019-06-30": 1.04,
+                    "2019-07-07": 1.07,
+                    "2019-07-14": 1.04,
+                    "2019-07-21": 1.03
                 }
             },
             "printings": [
@@ -3223,7 +3831,81 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{W}{W}",
+            "mcmId": 360938,
+            "mcmMetaId": 263495,
+            "name": "Leonin Warleader",
+            "number": "23p",
+            "power": "4",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "You choose which players or planeswalkers the two tokens are attacking. They don’t have to be attacking the same player or planeswalker that Leonin Warleader is attacking, and they can each be attacking different players and/or planeswalkers."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "Although the tokens are attacking, they were never declared as attacking creatures (for the purposes of abilities that trigger whenever a creature attacks, for example)."
+                }
+            ],
+            "scryfallId": "3289bc5f-ecc6-4534-b34e-5b1385b29a45",
+            "scryfallIllustrationId": "bab657a9-01d5-4a4d-84d9-2d4e8fb43b2d",
+            "scryfallOracleId": "8b1351e6-165e-4ca3-96d5-4774b3176362",
+            "subtypes": [
+                "Cat",
+                "Soldier"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193328,
+            "text": "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.",
+            "toughness": "4",
+            "type": "Creature — Cat Soldier",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "c1b482e3-69de-5c18-a227-afd22fb152fc",
+            "variations": [
+                "52a9be61-81c4-588b-80fc-f3d80d28bf51"
+            ]
+        },
+        {
+            "artist": "Jakub Kasper",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 4.0,
+            "flavorText": "When one leonin hunts, many more are surely nearby.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3244,23 +3926,21 @@
             "number": "23s",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.22,
-                    "2019-01-30": 3.19,
-                    "2019-02-06": 3.15,
-                    "2019-02-13": 3.15,
-                    "2019-02-20": 3.06,
-                    "2019-02-27": 3.02,
-                    "2019-03-06": 3.01,
-                    "2019-03-13": 3.02,
-                    "2019-03-20": 3.02,
-                    "2019-03-27": 3.02,
-                    "2019-04-03": 3.02,
-                    "2019-04-10": 3.05,
-                    "2019-04-17": 3.0,
-                    "2019-04-24": 3.02,
-                    "2019-05-01": 3.14,
-                    "2019-05-08": 3.08
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.13,
+                    "2019-05-05": 3.1,
+                    "2019-05-12": 3.06,
+                    "2019-05-19": 3.02,
+                    "2019-05-26": 3.01,
+                    "2019-06-02": 3.02,
+                    "2019-06-09": 3.02,
+                    "2019-06-16": 3.02,
+                    "2019-06-23": 3.02,
+                    "2019-06-30": 3.02,
+                    "2019-07-07": 3.0,
+                    "2019-07-14": 3.0,
+                    "2019-07-21": 3.0
                 }
             },
             "printings": [
@@ -3293,7 +3973,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "52a9be61-81c4-588b-80fc-f3d80d28bf51"
+            "uuid": "52a9be61-81c4-588b-80fc-f3d80d28bf51",
+            "variations": [
+                "c1b482e3-69de-5c18-a227-afd22fb152fc"
+            ]
         },
         {
             "artist": "Bastien L. Deharme",
@@ -3310,6 +3993,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3329,23 +4015,21 @@
             "name": "Liliana's Contract",
             "number": "107s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.48,
-                    "2019-01-30": 3.46,
-                    "2019-02-06": 3.44,
-                    "2019-02-13": 3.31,
-                    "2019-02-20": 3.34,
-                    "2019-02-27": 3.46,
-                    "2019-03-06": 3.49,
-                    "2019-03-13": 3.49,
-                    "2019-03-20": 3.61,
-                    "2019-03-27": 3.5,
-                    "2019-04-03": 3.5,
-                    "2019-04-10": 3.49,
-                    "2019-04-17": 3.5,
-                    "2019-04-24": 3.5,
-                    "2019-05-01": 3.56,
-                    "2019-05-08": 3.82
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.61,
+                    "2019-05-05": 3.71,
+                    "2019-05-12": 3.98,
+                    "2019-05-19": 3.99,
+                    "2019-05-26": 3.78,
+                    "2019-06-02": 3.98,
+                    "2019-06-09": 3.73,
+                    "2019-06-16": 3.57,
+                    "2019-06-23": 3.6,
+                    "2019-06-30": 3.48,
+                    "2019-07-07": 3.49,
+                    "2019-07-14": 3.49,
+                    "2019-07-21": 3.44
                 }
             },
             "printings": [
@@ -3390,6 +4074,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3410,23 +4097,21 @@
             "name": "Liliana, Untouched by Death",
             "number": "106s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 12.91,
-                    "2019-01-30": 13.62,
-                    "2019-02-06": 12.25,
-                    "2019-02-13": 11.99,
-                    "2019-02-20": 12.26,
-                    "2019-02-27": 11.73,
-                    "2019-03-06": 11.58,
-                    "2019-03-13": 12.89,
-                    "2019-03-20": 11.0,
-                    "2019-03-27": 11.88,
-                    "2019-04-03": 19.09,
-                    "2019-04-10": 19.76,
-                    "2019-04-17": 20.47,
-                    "2019-04-24": 20.37,
-                    "2019-05-01": 20.03,
-                    "2019-05-08": 19.95
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 20.35,
+                    "2019-05-05": 19.88,
+                    "2019-05-12": 19.76,
+                    "2019-05-19": 19.99,
+                    "2019-05-26": 19.35,
+                    "2019-06-02": 18.99,
+                    "2019-06-09": 18.97,
+                    "2019-06-16": 16.88,
+                    "2019-06-23": 18.5,
+                    "2019-06-30": 18.99,
+                    "2019-07-07": 16.88,
+                    "2019-07-14": 15.95,
+                    "2019-07-21": 13.0
                 }
             },
             "printings": [
@@ -3464,7 +4149,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 169992,
-            "text": "+1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.\n−2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.\n−3: You may cast Zombie cards from your graveyard this turn.",
+            "text": "[+1]: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.\n[−2]: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.\n[−3]: You may cast Zombie cards from your graveyard this turn.",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -3481,6 +4166,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3490,6 +4178,7 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -3500,23 +4189,21 @@
             "name": "Magistrate's Scepter",
             "number": "238s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.89,
-                    "2019-01-30": 1.89,
-                    "2019-02-06": 1.84,
-                    "2019-02-13": 1.88,
-                    "2019-02-20": 1.82,
-                    "2019-02-27": 1.82,
-                    "2019-03-06": 1.83,
-                    "2019-03-13": 1.89,
-                    "2019-03-20": 1.86,
-                    "2019-03-27": 1.79,
-                    "2019-04-03": 1.9,
-                    "2019-04-10": 1.92,
-                    "2019-04-17": 1.95,
-                    "2019-04-24": 1.94,
-                    "2019-05-01": 1.94,
-                    "2019-05-08": 1.9
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.94,
+                    "2019-05-05": 1.91,
+                    "2019-05-12": 1.92,
+                    "2019-05-19": 1.95,
+                    "2019-05-26": 1.95,
+                    "2019-06-02": 1.94,
+                    "2019-06-09": 1.94,
+                    "2019-06-16": 1.95,
+                    "2019-06-23": 1.95,
+                    "2019-06-30": 1.99,
+                    "2019-07-07": 1.97,
+                    "2019-07-14": 1.95,
+                    "2019-07-21": 1.92
                 }
             },
             "printings": [
@@ -3559,6 +4246,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3568,7 +4258,6 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -3580,23 +4269,21 @@
             "number": "27s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.71,
-                    "2019-01-30": 1.69,
-                    "2019-02-06": 1.66,
-                    "2019-02-13": 1.65,
-                    "2019-02-20": 1.66,
-                    "2019-02-27": 1.66,
-                    "2019-03-06": 1.66,
-                    "2019-03-13": 1.67,
-                    "2019-03-20": 1.75,
-                    "2019-03-27": 1.74,
-                    "2019-04-03": 1.72,
-                    "2019-04-10": 1.69,
-                    "2019-04-17": 1.81,
-                    "2019-04-24": 1.69,
-                    "2019-05-01": 1.76,
-                    "2019-05-08": 1.69
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.77,
+                    "2019-05-05": 1.67,
+                    "2019-05-12": 1.73,
+                    "2019-05-19": 1.78,
+                    "2019-05-26": 1.69,
+                    "2019-06-02": 1.76,
+                    "2019-06-09": 1.71,
+                    "2019-06-16": 1.69,
+                    "2019-06-23": 1.66,
+                    "2019-06-30": 1.65,
+                    "2019-07-07": 1.59,
+                    "2019-07-14": 1.57,
+                    "2019-07-21": 1.55
                 }
             },
             "printings": [
@@ -3653,6 +4340,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3662,6 +4352,7 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -3672,23 +4363,21 @@
             "name": "Metamorphic Alteration",
             "number": "60s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.36,
-                    "2019-01-30": 2.24,
-                    "2019-02-06": 2.24,
-                    "2019-02-13": 2.06,
-                    "2019-02-20": 2.0,
-                    "2019-02-27": 2.0,
-                    "2019-03-06": 2.11,
-                    "2019-03-13": 1.99,
-                    "2019-03-20": 2.18,
-                    "2019-03-27": 2.02,
-                    "2019-04-03": 2.11,
-                    "2019-04-10": 2.11,
-                    "2019-04-17": 2.06,
-                    "2019-04-24": 2.0,
-                    "2019-05-01": 1.99,
-                    "2019-05-08": 1.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.0,
+                    "2019-05-05": 2.0,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 2.0,
+                    "2019-05-26": 2.0,
+                    "2019-06-02": 1.99,
+                    "2019-06-09": 1.99,
+                    "2019-06-16": 1.95,
+                    "2019-06-23": 1.99,
+                    "2019-06-30": 1.99,
+                    "2019-07-07": 1.99,
+                    "2019-07-14": 1.92,
+                    "2019-07-21": 1.72
                 }
             },
             "printings": [
@@ -3767,6 +4456,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3785,23 +4477,21 @@
             "number": "29",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.6,
-                    "2019-01-30": 1.68,
-                    "2019-02-06": 1.63,
-                    "2019-02-13": 1.55,
-                    "2019-02-20": 1.64,
-                    "2019-02-27": 1.65,
-                    "2019-03-06": 1.61,
-                    "2019-03-13": 1.5,
-                    "2019-03-20": 1.5,
-                    "2019-03-27": 1.49,
-                    "2019-04-03": 1.47,
-                    "2019-04-10": 1.29,
-                    "2019-04-17": 1.39,
-                    "2019-04-24": 1.29,
-                    "2019-05-01": 1.35,
-                    "2019-05-08": 1.37
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.34,
+                    "2019-05-05": 1.41,
+                    "2019-05-12": 1.38,
+                    "2019-05-19": 1.3,
+                    "2019-05-26": 1.28,
+                    "2019-06-02": 1.29,
+                    "2019-06-09": 1.36,
+                    "2019-06-16": 1.28,
+                    "2019-06-23": 1.31,
+                    "2019-06-30": 1.26,
+                    "2019-07-07": 1.27,
+                    "2019-07-14": 1.24,
+                    "2019-07-21": 1.23
                 }
             },
             "printings": [
@@ -3844,6 +4534,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3864,23 +4557,21 @@
             "number": "62s",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.63,
-                    "2019-01-30": 3.45,
-                    "2019-02-06": 3.43,
-                    "2019-02-13": 3.08,
-                    "2019-02-20": 3.1,
-                    "2019-02-27": 3.09,
-                    "2019-03-06": 3.1,
-                    "2019-03-13": 3.1,
-                    "2019-03-20": 3.1,
-                    "2019-03-27": 3.09,
-                    "2019-04-03": 3.04,
-                    "2019-04-10": 3.07,
-                    "2019-04-17": 2.99,
-                    "2019-04-24": 2.99,
-                    "2019-05-01": 2.99,
-                    "2019-05-08": 2.93
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.99,
+                    "2019-05-05": 2.91,
+                    "2019-05-12": 2.96,
+                    "2019-05-19": 2.76,
+                    "2019-05-26": 2.78,
+                    "2019-06-02": 2.75,
+                    "2019-06-09": 2.62,
+                    "2019-06-16": 2.76,
+                    "2019-06-23": 2.78,
+                    "2019-06-30": 2.79,
+                    "2019-07-07": 2.63,
+                    "2019-07-14": 2.52,
+                    "2019-07-21": 2.62
                 }
             },
             "printings": [
@@ -3934,6 +4625,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3953,23 +4647,21 @@
             "name": "Murder",
             "number": "110",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.97,
-                    "2019-01-30": 0.94,
-                    "2019-02-06": 0.92,
-                    "2019-02-13": 0.96,
-                    "2019-02-20": 0.9,
-                    "2019-02-27": 0.86,
-                    "2019-03-06": 0.82,
-                    "2019-03-13": 0.82,
-                    "2019-03-20": 0.86,
-                    "2019-03-27": 0.93,
-                    "2019-04-03": 0.94,
-                    "2019-04-10": 0.95,
-                    "2019-04-17": 0.94,
-                    "2019-04-24": 0.93,
-                    "2019-05-01": 0.95,
-                    "2019-05-08": 0.95
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.94,
+                    "2019-05-05": 0.97,
+                    "2019-05-12": 0.95,
+                    "2019-05-19": 0.94,
+                    "2019-05-26": 0.94,
+                    "2019-06-02": 0.96,
+                    "2019-06-09": 0.96,
+                    "2019-06-16": 0.92,
+                    "2019-06-23": 0.93,
+                    "2019-06-30": 0.89,
+                    "2019-07-07": 0.93,
+                    "2019-07-14": 0.86,
+                    "2019-07-21": 0.88
                 }
             },
             "printings": [
@@ -3978,6 +4670,7 @@
                 "EMN",
                 "M13",
                 "M19",
+                "M20",
                 "PM19",
                 "PRM"
             ],
@@ -4012,6 +4705,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4033,23 +4729,21 @@
             "number": "63s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.49,
-                    "2019-01-30": 1.49,
-                    "2019-02-06": 1.44,
-                    "2019-02-13": 1.44,
-                    "2019-02-20": 1.44,
-                    "2019-02-27": 1.43,
-                    "2019-03-06": 1.43,
-                    "2019-03-13": 1.43,
-                    "2019-03-20": 1.43,
-                    "2019-03-27": 1.42,
-                    "2019-04-03": 1.42,
-                    "2019-04-10": 1.42,
-                    "2019-04-17": 1.43,
-                    "2019-04-24": 1.29,
-                    "2019-05-01": 1.36,
-                    "2019-05-08": 1.29
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.36,
+                    "2019-05-05": 1.25,
+                    "2019-05-12": 1.28,
+                    "2019-05-19": 1.32,
+                    "2019-05-26": 1.0,
+                    "2019-06-02": 1.25,
+                    "2019-06-09": 1.22,
+                    "2019-06-16": 1.25,
+                    "2019-06-23": 1.23,
+                    "2019-06-30": 1.23,
+                    "2019-07-07": 1.23,
+                    "2019-07-14": 1.25,
+                    "2019-07-21": 1.27
                 }
             },
             "printings": [
@@ -4096,10 +4790,13 @@
             "convertedManaCost": 4.0,
             "faceConvertedManaCost": 0,
             "foreignData": [],
-            "frameEffect": "legendary",
+            "frameEffect": "originpwdfc",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -4123,23 +4820,21 @@
             ],
             "number": "218s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 69.28,
-                    "2019-01-30": 65.7,
-                    "2019-02-06": 67.04,
-                    "2019-02-13": 66.73,
-                    "2019-02-20": 66.34,
-                    "2019-02-27": 66.75,
-                    "2019-03-06": 66.51,
-                    "2019-03-13": 65.33,
-                    "2019-03-20": 67.91,
-                    "2019-03-27": 65.85,
-                    "2019-04-03": 67.39,
-                    "2019-04-10": 66.62,
-                    "2019-04-17": 66.62,
-                    "2019-04-24": 66.62,
-                    "2019-05-01": 65.85,
-                    "2019-05-08": 72.93
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 61.93,
+                    "2019-05-05": 68.42,
+                    "2019-05-12": 74.76,
+                    "2019-05-19": 77.26,
+                    "2019-05-26": 73.9,
+                    "2019-06-02": 71.72,
+                    "2019-06-09": 69.99,
+                    "2019-06-16": 69.99,
+                    "2019-06-23": 68.98,
+                    "2019-06-30": 68.99,
+                    "2019-07-07": 67.41,
+                    "2019-07-14": 69.48,
+                    "2019-07-21": 66.47
                 }
             },
             "printings": [
@@ -4203,7 +4898,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 170020,
-            "text": "+2: Draw two cards.\n−3: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.\n−4: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.\n−12: Exile all but the bottom card of target player's library.",
+            "text": "[+2]: Draw two cards.\n[−3]: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.\n[−4]: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.\n[−12]: Exile all but the bottom card of target player's library.",
             "type": "Legendary Planeswalker — Bolas",
             "types": [
                 "Planeswalker"
@@ -4226,10 +4921,13 @@
             "convertedManaCost": 4.0,
             "faceConvertedManaCost": 4.0,
             "foreignData": [],
-            "frameEffect": "legendary",
+            "frameEffect": "originpwdfc",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -4253,23 +4951,21 @@
             "number": "218s",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 69.28,
-                    "2019-01-30": 65.7,
-                    "2019-02-06": 67.04,
-                    "2019-02-13": 66.73,
-                    "2019-02-20": 66.34,
-                    "2019-02-27": 66.75,
-                    "2019-03-06": 66.51,
-                    "2019-03-13": 65.33,
-                    "2019-03-20": 67.91,
-                    "2019-03-27": 65.85,
-                    "2019-04-03": 67.39,
-                    "2019-04-10": 66.62,
-                    "2019-04-17": 66.62,
-                    "2019-04-24": 66.62,
-                    "2019-05-01": 65.85,
-                    "2019-05-08": 72.93
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 61.93,
+                    "2019-05-05": 68.42,
+                    "2019-05-12": 74.76,
+                    "2019-05-19": 77.26,
+                    "2019-05-26": 73.9,
+                    "2019-06-02": 71.72,
+                    "2019-06-09": 69.99,
+                    "2019-06-16": 69.99,
+                    "2019-06-23": 68.98,
+                    "2019-06-30": 68.99,
+                    "2019-07-07": 67.41,
+                    "2019-07-14": 69.48,
+                    "2019-07-21": 66.47
                 }
             },
             "printings": [
@@ -4357,6 +5053,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4376,23 +5075,21 @@
             "name": "Omniscience",
             "number": "65s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 14.74,
-                    "2019-01-30": 14.49,
-                    "2019-02-06": 14.0,
-                    "2019-02-13": 14.33,
-                    "2019-02-20": 14.99,
-                    "2019-02-27": 14.74,
-                    "2019-03-06": 14.99,
-                    "2019-03-13": 16.49,
-                    "2019-03-20": 15.83,
-                    "2019-03-27": 15.54,
-                    "2019-04-03": 15.71,
-                    "2019-04-10": 16.7,
-                    "2019-04-17": 17.98,
-                    "2019-04-24": 17.5,
-                    "2019-05-01": 17.27,
-                    "2019-05-08": 17.62
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 17.27,
+                    "2019-05-05": 17.38,
+                    "2019-05-12": 17.5,
+                    "2019-05-19": 17.38,
+                    "2019-05-26": 17.99,
+                    "2019-06-02": 19.04,
+                    "2019-06-09": 19.93,
+                    "2019-06-16": 19.99,
+                    "2019-06-23": 19.15,
+                    "2019-06-30": 18.99,
+                    "2019-07-07": 18.99,
+                    "2019-07-14": 18.99,
+                    "2019-07-21": 18.8
                 }
             },
             "printings": [
@@ -4448,6 +5145,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4457,7 +5157,6 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -4468,23 +5167,21 @@
             "name": "One with the Machine",
             "number": "66s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.83,
-                    "2019-01-30": 1.8,
-                    "2019-02-06": 1.79,
-                    "2019-02-13": 1.78,
-                    "2019-02-20": 1.79,
-                    "2019-02-27": 1.77,
-                    "2019-03-06": 1.78,
-                    "2019-03-13": 1.8,
-                    "2019-03-20": 1.84,
-                    "2019-03-27": 1.84,
-                    "2019-04-03": 1.85,
-                    "2019-04-10": 1.85,
-                    "2019-04-17": 1.79,
-                    "2019-04-24": 1.77,
-                    "2019-05-01": 1.71,
-                    "2019-05-08": 1.66
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.75,
+                    "2019-05-05": 1.71,
+                    "2019-05-12": 1.66,
+                    "2019-05-19": 1.65,
+                    "2019-05-26": 1.66,
+                    "2019-06-02": 1.7,
+                    "2019-06-09": 1.68,
+                    "2019-06-16": 1.7,
+                    "2019-06-23": 1.66,
+                    "2019-06-30": 1.66,
+                    "2019-07-07": 1.66,
+                    "2019-07-14": 1.66,
+                    "2019-07-21": 1.65
                 }
             },
             "printings": [
@@ -4526,6 +5223,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4545,23 +5245,21 @@
             "name": "Open the Graves",
             "number": "112s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.92,
-                    "2019-01-30": 1.91,
-                    "2019-02-06": 1.9,
-                    "2019-02-13": 1.92,
-                    "2019-02-20": 1.95,
-                    "2019-02-27": 1.99,
-                    "2019-03-06": 1.99,
-                    "2019-03-13": 1.97,
-                    "2019-03-20": 1.97,
-                    "2019-03-27": 1.95,
-                    "2019-04-03": 1.97,
-                    "2019-04-10": 1.92,
-                    "2019-04-17": 1.93,
-                    "2019-04-24": 1.92,
-                    "2019-05-01": 1.92,
-                    "2019-05-08": 1.91
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.91,
+                    "2019-05-05": 1.89,
+                    "2019-05-12": 1.92,
+                    "2019-05-19": 1.86,
+                    "2019-05-26": 1.89,
+                    "2019-06-02": 1.98,
+                    "2019-06-09": 2.02,
+                    "2019-06-16": 2.01,
+                    "2019-06-23": 1.92,
+                    "2019-06-30": 1.91,
+                    "2019-07-07": 1.91,
+                    "2019-07-14": 1.89,
+                    "2019-07-21": 1.88
                 }
             },
             "printings": [
@@ -4608,6 +5306,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4628,23 +5329,21 @@
             "number": "219s",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 8.99,
-                    "2019-01-30": 8.99,
-                    "2019-02-06": 8.98,
-                    "2019-02-13": 8.68,
-                    "2019-02-20": 8.75,
-                    "2019-02-27": 8.68,
-                    "2019-03-06": 8.13,
-                    "2019-03-13": 8.09,
-                    "2019-03-20": 8.16,
-                    "2019-03-27": 7.99,
-                    "2019-04-03": 7.49,
-                    "2019-04-10": 7.38,
-                    "2019-04-17": 7.27,
-                    "2019-04-24": 7.26,
-                    "2019-05-01": 7.02,
-                    "2019-05-08": 7.13
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 7.28,
+                    "2019-05-05": 7.13,
+                    "2019-05-12": 7.13,
+                    "2019-05-19": 7.02,
+                    "2019-05-26": 7.0,
+                    "2019-06-02": 7.0,
+                    "2019-06-09": 6.55,
+                    "2019-06-16": 6.19,
+                    "2019-06-23": 6.6,
+                    "2019-06-30": 6.24,
+                    "2019-07-07": 6.5,
+                    "2019-07-14": 6.24,
+                    "2019-07-21": 5.92
                 }
             },
             "printings": [
@@ -4696,6 +5395,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4715,23 +5417,21 @@
             "name": "Patient Rebuilding",
             "number": "67s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.57,
-                    "2019-01-30": 2.54,
-                    "2019-02-06": 2.51,
-                    "2019-02-13": 2.55,
-                    "2019-02-20": 2.62,
-                    "2019-02-27": 2.43,
-                    "2019-03-06": 2.49,
-                    "2019-03-13": 2.43,
-                    "2019-03-20": 2.49,
-                    "2019-03-27": 2.49,
-                    "2019-04-03": 2.49,
-                    "2019-04-10": 2.49,
-                    "2019-04-17": 2.39,
-                    "2019-04-24": 2.28,
-                    "2019-05-01": 2.38,
-                    "2019-05-08": 2.49
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.67,
+                    "2019-05-05": 2.49,
+                    "2019-05-12": 2.49,
+                    "2019-05-19": 2.49,
+                    "2019-05-26": 2.39,
+                    "2019-06-02": 2.24,
+                    "2019-06-09": 2.28,
+                    "2019-06-16": 2.12,
+                    "2019-06-23": 2.12,
+                    "2019-06-30": 2.17,
+                    "2019-07-07": 2.22,
+                    "2019-07-14": 2.18,
+                    "2019-07-21": 2.47
                 }
             },
             "printings": [
@@ -4777,6 +5477,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4798,23 +5501,21 @@
             "number": "192s",
             "power": "7",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.0,
-                    "2019-01-30": 1.03,
-                    "2019-02-06": 1.02,
-                    "2019-02-13": 1.03,
-                    "2019-02-20": 1.03,
-                    "2019-02-27": 1.04,
-                    "2019-03-06": 1.03,
-                    "2019-03-13": 1.04,
-                    "2019-03-20": 1.01,
-                    "2019-03-27": 1.0,
-                    "2019-04-03": 1.0,
-                    "2019-04-10": 1.0,
-                    "2019-04-17": 1.0,
-                    "2019-04-24": 1.0,
-                    "2019-05-01": 1.0,
-                    "2019-05-08": 1.04
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.0,
+                    "2019-05-05": 1.04,
+                    "2019-05-12": 1.02,
+                    "2019-05-19": 1.0,
+                    "2019-05-26": 1.02,
+                    "2019-06-02": 1.05,
+                    "2019-06-09": 1.03,
+                    "2019-06-16": 1.02,
+                    "2019-06-23": 1.07,
+                    "2019-06-30": 1.06,
+                    "2019-07-07": 1.02,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 1.02
                 }
             },
             "printings": [
@@ -4856,6 +5557,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4877,23 +5581,21 @@
             "number": "113s",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.0,
-                    "2019-01-30": 1.0,
-                    "2019-02-06": 1.0,
-                    "2019-02-13": 1.0,
-                    "2019-02-20": 1.01,
-                    "2019-02-27": 1.0,
-                    "2019-03-06": 1.0,
-                    "2019-03-13": 1.01,
-                    "2019-03-20": 1.08,
-                    "2019-03-27": 1.01,
-                    "2019-04-03": 1.01,
-                    "2019-04-10": 1.01,
-                    "2019-04-17": 1.01,
-                    "2019-04-24": 1.0,
-                    "2019-05-01": 1.0,
-                    "2019-05-08": 1.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.01,
+                    "2019-05-05": 1.0,
+                    "2019-05-12": 1.0,
+                    "2019-05-19": 1.01,
+                    "2019-05-26": 1.0,
+                    "2019-06-02": 1.0,
+                    "2019-06-09": 1.0,
+                    "2019-06-16": 1.0,
+                    "2019-06-23": 1.0,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 1.0,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 0.99
                 }
             },
             "printings": [
@@ -4956,6 +5658,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4976,23 +5681,21 @@
             "name": "Prodigious Growth",
             "number": "194s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.0,
-                    "2019-01-30": 0.99,
-                    "2019-02-06": 0.99,
-                    "2019-02-13": 0.99,
-                    "2019-02-20": 0.99,
-                    "2019-02-27": 0.99,
-                    "2019-03-06": 0.99,
-                    "2019-03-13": 0.99,
-                    "2019-03-20": 0.99,
-                    "2019-03-27": 0.99,
-                    "2019-04-03": 0.99,
-                    "2019-04-10": 0.99,
-                    "2019-04-17": 0.99,
-                    "2019-04-24": 0.99,
-                    "2019-05-01": 1.0,
-                    "2019-05-08": 0.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.0,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.99,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.99,
+                    "2019-06-09": 1.0,
+                    "2019-06-16": 1.0,
+                    "2019-06-23": 1.0,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 1.0,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 1.0
                 }
             },
             "printings": [
@@ -5027,6 +5730,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5043,23 +5749,21 @@
             "name": "Reliquary Tower",
             "number": "254",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.99,
-                    "2019-01-30": 4.0,
-                    "2019-02-06": 3.99,
-                    "2019-02-13": 4.0,
-                    "2019-02-20": 4.08,
-                    "2019-02-27": 4.06,
-                    "2019-03-06": 4.26,
-                    "2019-03-13": 4.25,
-                    "2019-03-20": 4.41,
-                    "2019-03-27": 4.52,
-                    "2019-04-03": 4.49,
-                    "2019-04-10": 4.47,
-                    "2019-04-17": 4.75,
-                    "2019-04-24": 4.7,
-                    "2019-05-01": 4.74,
-                    "2019-05-08": 4.86
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.74,
+                    "2019-05-05": 4.88,
+                    "2019-05-12": 4.85,
+                    "2019-05-19": 4.89,
+                    "2019-05-26": 4.8,
+                    "2019-06-02": 4.76,
+                    "2019-06-09": 4.94,
+                    "2019-06-16": 5.0,
+                    "2019-06-23": 4.95,
+                    "2019-06-30": 4.93,
+                    "2019-07-07": 4.92,
+                    "2019-07-14": 4.89,
+                    "2019-07-21": 4.94
                 }
             },
             "printings": [
@@ -5109,7 +5813,72 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{W}",
+            "mcmId": 360940,
+            "mcmMetaId": 263416,
+            "name": "Remorseful Cleric",
+            "number": "33p",
+            "power": "2",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "2e91e16a-f122-4f93-a350-c40b98d18c98",
+            "scryfallIllustrationId": "89f0805d-13e0-4497-b658-f5800b84cd6f",
+            "scryfallOracleId": "c40bc9f6-2b72-4ae1-b912-50075af59628",
+            "subtypes": [
+                "Spirit",
+                "Cleric"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193329,
+            "text": "Flying\nSacrifice Remorseful Cleric: Exile all cards from target player's graveyard.",
+            "toughness": "1",
+            "type": "Creature — Spirit Cleric",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "39a27c41-d7d4-5841-b431-724788b31b1b",
+            "variations": [
+                "078cd50b-7042-5dd8-bc97-551e8978b0be"
+            ]
+        },
+        {
+            "artist": "Grzegorz Rutkowski",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 2.0,
+            "flavorText": "A lifetime of keeping up appearances is not enough to earn an eternity of rest.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5130,23 +5899,21 @@
             "number": "33s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 6.25,
-                    "2019-01-30": 6.17,
-                    "2019-02-06": 6.2,
-                    "2019-02-13": 6.29,
-                    "2019-02-20": 6.23,
-                    "2019-02-27": 5.84,
-                    "2019-03-06": 5.87,
-                    "2019-03-13": 5.99,
-                    "2019-03-20": 5.59,
-                    "2019-03-27": 5.48,
-                    "2019-04-03": 5.48,
-                    "2019-04-10": 5.43,
-                    "2019-04-17": 5.18,
-                    "2019-04-24": 5.26,
-                    "2019-05-01": 5.21,
-                    "2019-05-08": 5.05
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.21,
+                    "2019-05-05": 5.06,
+                    "2019-05-12": 5.0,
+                    "2019-05-19": 5.0,
+                    "2019-05-26": 4.98,
+                    "2019-06-02": 4.99,
+                    "2019-06-09": 4.99,
+                    "2019-06-16": 4.9,
+                    "2019-06-23": 4.9,
+                    "2019-06-30": 4.68,
+                    "2019-07-07": 4.93,
+                    "2019-07-14": 4.83,
+                    "2019-07-21": 4.71
                 }
             },
             "printings": [
@@ -5170,7 +5937,91 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "078cd50b-7042-5dd8-bc97-551e8978b0be"
+            "uuid": "078cd50b-7042-5dd8-bc97-551e8978b0be",
+            "variations": [
+                "39a27c41-d7d4-5841-b431-724788b31b1b"
+            ]
+        },
+        {
+            "artist": "Volkan Baǵa",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 3.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{W}{W}",
+            "mcmId": 360988,
+            "mcmMetaId": 263369,
+            "name": "Resplendent Angel",
+            "number": "34p",
+            "power": "3",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "mythic",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "Resplendent Angel’s triggered ability checks if you gained 5 or more life total during the turn. It doesn’t matter if you also lost life or whether your life total is greater than it was at the beginning of the turn. It also doesn’t matter whether Resplendent Angel was on the battlefield when any of the life gain happened."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "You don’t need to have gained 5 life all at once to satisfy Resplendent Angel’s triggered ability."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "If you didn’t gain life during the turn before the end step begins, Resplendent Angel’s triggered ability won’t trigger at all. Gaining life during the end step won’t cause the ability to trigger."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "You create only one Angel token, no matter how many times you gained 5 or more life."
+                },
+                {
+                    "date": "2018-07-13",
+                    "text": "In a Two-Headed Giant game, life gained by your teammate won’t satisfy Resplendent Angel’s triggered ability, even though it caused your team’s life total to increase."
+                }
+            ],
+            "scryfallId": "9dc18282-0c5c-46bb-9964-3dd55e238059",
+            "scryfallIllustrationId": "42ae56ad-ba17-42a7-92d7-a78b9e8966a3",
+            "scryfallOracleId": "2ac93092-1a57-4cf7-8f03-1dca86d5c476",
+            "subtypes": [
+                "Angel"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193330,
+            "text": "Flying\nAt the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.\n{3}{W}{W}{W}: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink.",
+            "toughness": "3",
+            "type": "Creature — Angel",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "a4938223-a664-579f-94ee-9dff08925b54",
+            "variations": [
+                "45ebaf38-8804-5df7-be8f-9e75dcdf9b6d"
+            ]
         },
         {
             "artist": "Volkan Baǵa",
@@ -5186,6 +6037,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5206,23 +6060,21 @@
             "number": "34s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 25.6,
-                    "2019-01-30": 25.34,
-                    "2019-02-06": 25.11,
-                    "2019-02-13": 24.8,
-                    "2019-02-20": 24.6,
-                    "2019-02-27": 24.46,
-                    "2019-03-06": 24.46,
-                    "2019-03-13": 24.99,
-                    "2019-03-20": 23.99,
-                    "2019-03-27": 24.99,
-                    "2019-04-03": 24.63,
-                    "2019-04-10": 24.98,
-                    "2019-04-17": 24.05,
-                    "2019-04-24": 22.49,
-                    "2019-05-01": 22.38,
-                    "2019-05-08": 21.65
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 22.38,
+                    "2019-05-05": 22.26,
+                    "2019-05-12": 20.6,
+                    "2019-05-19": 20.38,
+                    "2019-05-26": 20.25,
+                    "2019-06-02": 20.6,
+                    "2019-06-09": 20.0,
+                    "2019-06-16": 19.99,
+                    "2019-06-23": 19.79,
+                    "2019-06-30": 19.45,
+                    "2019-07-07": 18.99,
+                    "2019-07-14": 19.83,
+                    "2019-07-21": 18.49
                 }
             },
             "printings": [
@@ -5266,7 +6118,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "45ebaf38-8804-5df7-be8f-9e75dcdf9b6d"
+            "uuid": "45ebaf38-8804-5df7-be8f-9e75dcdf9b6d",
+            "variations": [
+                "a4938223-a664-579f-94ee-9dff08925b54"
+            ]
         },
         {
             "artist": "Randy Vargas",
@@ -5283,6 +6138,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5303,23 +6161,21 @@
             "number": "200s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.07,
-                    "2019-01-30": 4.16,
-                    "2019-02-06": 4.0,
-                    "2019-02-13": 4.0,
-                    "2019-02-20": 4.0,
-                    "2019-02-27": 4.0,
-                    "2019-03-06": 3.99,
-                    "2019-03-13": 4.0,
-                    "2019-03-20": 4.0,
-                    "2019-03-27": 4.0,
-                    "2019-04-03": 4.08,
-                    "2019-04-10": 4.0,
-                    "2019-04-17": 4.0,
-                    "2019-04-24": 3.97,
-                    "2019-05-01": 3.81,
-                    "2019-05-08": 3.98
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.95,
+                    "2019-05-05": 3.96,
+                    "2019-05-12": 3.98,
+                    "2019-05-19": 3.75,
+                    "2019-05-26": 3.95,
+                    "2019-06-02": 3.98,
+                    "2019-06-09": 3.99,
+                    "2019-06-16": 3.96,
+                    "2019-06-23": 3.74,
+                    "2019-06-30": 3.95,
+                    "2019-07-07": 4.0,
+                    "2019-07-14": 3.98,
+                    "2019-07-21": 3.98
                 }
             },
             "printings": [
@@ -5376,7 +6232,80 @@
             "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{U}",
+            "mcmId": 360949,
+            "mcmMetaId": 263417,
+            "name": "Sai, Master Thopterist",
+            "number": "69p",
+            "power": "1",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "Sai’s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+                }
+            ],
+            "scryfallId": "35dfaec6-a1b0-43a4-a5cf-ff1f6ee7b3b1",
+            "scryfallIllustrationId": "00eccb31-25af-4131-a704-0b25daf8d4d7",
+            "scryfallOracleId": "52241b9c-7a69-4176-9234-8bdab09d8e64",
+            "subtypes": [
+                "Human",
+                "Artificer"
+            ],
+            "supertypes": [
+                "Legendary"
+            ],
+            "tcgplayerProductId": 193331,
+            "text": "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.\n{1}{U}, Sacrifice two artifacts: Draw a card.",
+            "toughness": "4",
+            "type": "Legendary Creature — Human Artificer",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "6b53ead8-8564-5bae-a12d-43e77045c933",
+            "variations": [
+                "2892005d-8096-5d59-82d0-a89c23ce9de8"
+            ]
+        },
+        {
+            "artist": "Adam Paquette",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 3.0,
+            "flavorText": "\"Industry without artistry is just a fancy way to fill the junkyard.\"",
+            "foreignData": [],
+            "frameEffect": "legendary",
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5397,23 +6326,21 @@
             "number": "69s",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 7.12,
-                    "2019-01-30": 7.12,
-                    "2019-02-06": 7.0,
-                    "2019-02-13": 6.99,
-                    "2019-02-20": 7.0,
-                    "2019-02-27": 7.03,
-                    "2019-03-06": 6.99,
-                    "2019-03-13": 6.99,
-                    "2019-03-20": 6.9,
-                    "2019-03-27": 6.91,
-                    "2019-04-03": 7.0,
-                    "2019-04-10": 6.99,
-                    "2019-04-17": 6.81,
-                    "2019-04-24": 6.9,
-                    "2019-05-01": 7.49,
-                    "2019-05-08": 7.49
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.99,
+                    "2019-05-05": 7.5,
+                    "2019-05-12": 7.5,
+                    "2019-05-19": 7.17,
+                    "2019-05-26": 7.59,
+                    "2019-06-02": 8.38,
+                    "2019-06-09": 9.02,
+                    "2019-06-16": 19.99,
+                    "2019-06-23": 19.99,
+                    "2019-06-30": 19.99,
+                    "2019-07-07": 19.49,
+                    "2019-07-14": 18.99,
+                    "2019-07-21": 18.5
                 }
             },
             "printings": [
@@ -5444,7 +6371,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "2892005d-8096-5d59-82d0-a89c23ce9de8"
+            "uuid": "2892005d-8096-5d59-82d0-a89c23ce9de8",
+            "variations": [
+                "6b53ead8-8564-5bae-a12d-43e77045c933"
+            ]
         },
         {
             "artist": "Daarken",
@@ -5460,6 +6390,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5479,23 +6412,21 @@
             "name": "Sarkhan's Unsealing",
             "number": "155s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.25,
-                    "2019-01-30": 3.17,
-                    "2019-02-06": 3.1,
-                    "2019-02-13": 3.05,
-                    "2019-02-20": 3.08,
-                    "2019-02-27": 3.07,
-                    "2019-03-06": 3.01,
-                    "2019-03-13": 3.05,
-                    "2019-03-20": 2.86,
-                    "2019-03-27": 2.85,
-                    "2019-04-03": 2.84,
-                    "2019-04-10": 2.86,
-                    "2019-04-17": 2.84,
-                    "2019-04-24": 2.75,
-                    "2019-05-01": 2.75,
-                    "2019-05-08": 2.63
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.71,
+                    "2019-05-05": 2.62,
+                    "2019-05-12": 2.6,
+                    "2019-05-19": 2.5,
+                    "2019-05-26": 2.6,
+                    "2019-06-02": 2.52,
+                    "2019-06-09": 2.5,
+                    "2019-06-16": 2.5,
+                    "2019-06-23": 2.5,
+                    "2019-06-30": 2.5,
+                    "2019-07-07": 2.5,
+                    "2019-07-14": 2.5,
+                    "2019-07-21": 2.5
                 }
             },
             "printings": [
@@ -5548,6 +6479,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5568,23 +6502,21 @@
             "name": "Sarkhan, Fireblood",
             "number": "154s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 22.7,
-                    "2019-01-30": 22.45,
-                    "2019-02-06": 21.72,
-                    "2019-02-13": 19.99,
-                    "2019-02-20": 19.93,
-                    "2019-02-27": 19.68,
-                    "2019-03-06": 19.49,
-                    "2019-03-13": 19.06,
-                    "2019-03-20": 19.06,
-                    "2019-03-27": 18.82,
-                    "2019-04-03": 18.06,
-                    "2019-04-10": 18.0,
-                    "2019-04-17": 18.0,
-                    "2019-04-24": 18.0,
-                    "2019-05-01": 18.0,
-                    "2019-05-08": 18.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 18.0,
+                    "2019-05-05": 18.0,
+                    "2019-05-12": 17.91,
+                    "2019-05-19": 17.92,
+                    "2019-05-26": 17.92,
+                    "2019-06-02": 17.79,
+                    "2019-06-09": 17.77,
+                    "2019-06-16": 17.49,
+                    "2019-06-23": 17.01,
+                    "2019-06-30": 16.18,
+                    "2019-07-07": 16.02,
+                    "2019-07-14": 15.99,
+                    "2019-07-21": 15.95
                 }
             },
             "printings": [
@@ -5612,7 +6544,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 170004,
-            "text": "+1: You may discard a card. If you do, draw a card.\n+1: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.\n−7: Create four 5/5 red Dragon creature tokens with flying.",
+            "text": "[+1]: You may discard a card. If you do, draw a card.\n[+1]: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.\n[−7]: Create four 5/5 red Dragon creature tokens with flying.",
             "type": "Legendary Planeswalker — Sarkhan",
             "types": [
                 "Planeswalker"
@@ -5634,6 +6566,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5653,23 +6588,21 @@
             "name": "Scapeshift",
             "number": "201s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 22.8,
-                    "2019-01-30": 22.67,
-                    "2019-02-06": 22.53,
-                    "2019-02-13": 22.4,
-                    "2019-02-20": 21.99,
-                    "2019-02-27": 20.77,
-                    "2019-03-06": 20.6,
-                    "2019-03-13": 20.53,
-                    "2019-03-20": 20.0,
-                    "2019-03-27": 20.0,
-                    "2019-04-03": 20.0,
-                    "2019-04-10": 20.0,
-                    "2019-04-17": 19.99,
-                    "2019-04-24": 19.99,
-                    "2019-05-01": 20.0,
-                    "2019-05-08": 20.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 20.0,
+                    "2019-05-05": 20.0,
+                    "2019-05-12": 20.0,
+                    "2019-05-19": 20.28,
+                    "2019-05-26": 20.0,
+                    "2019-06-02": 23.62,
+                    "2019-06-09": 25.7,
+                    "2019-06-16": 25.82,
+                    "2019-06-23": 26.7,
+                    "2019-06-30": 26.83,
+                    "2019-07-07": 26.83,
+                    "2019-07-14": 26.96,
+                    "2019-07-21": 25.99
                 }
             },
             "printings": [
@@ -5708,6 +6641,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5717,6 +6653,7 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -5727,23 +6664,21 @@
             "name": "Sigiled Sword of Valeron",
             "number": "244s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.65,
-                    "2019-01-30": 1.67,
-                    "2019-02-06": 1.68,
-                    "2019-02-13": 1.61,
-                    "2019-02-20": 1.62,
-                    "2019-02-27": 1.58,
-                    "2019-03-06": 1.52,
-                    "2019-03-13": 1.58,
-                    "2019-03-20": 1.58,
-                    "2019-03-27": 1.56,
-                    "2019-04-03": 1.64,
-                    "2019-04-10": 1.6,
-                    "2019-04-17": 1.55,
-                    "2019-04-24": 1.5,
-                    "2019-05-01": 1.5,
-                    "2019-05-08": 1.45
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.5,
+                    "2019-05-05": 1.44,
+                    "2019-05-12": 1.45,
+                    "2019-05-19": 1.46,
+                    "2019-05-26": 1.45,
+                    "2019-06-02": 1.49,
+                    "2019-06-09": 1.46,
+                    "2019-06-16": 1.43,
+                    "2019-06-23": 1.42,
+                    "2019-06-30": 1.47,
+                    "2019-07-07": 1.4,
+                    "2019-07-14": 1.36,
+                    "2019-07-21": 1.34
                 }
             },
             "printings": [
@@ -5790,6 +6725,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5810,23 +6748,21 @@
             "name": "Spit Flame",
             "number": "160s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.73,
-                    "2019-01-30": 1.79,
-                    "2019-02-06": 1.66,
-                    "2019-02-13": 1.79,
-                    "2019-02-20": 1.86,
-                    "2019-02-27": 1.79,
-                    "2019-03-06": 1.79,
-                    "2019-03-13": 1.58,
-                    "2019-03-20": 1.58,
-                    "2019-03-27": 1.7,
-                    "2019-04-03": 1.79,
-                    "2019-04-10": 1.69,
-                    "2019-04-17": 1.57,
-                    "2019-04-24": 1.53,
-                    "2019-05-01": 1.56,
-                    "2019-05-08": 1.5
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.56,
+                    "2019-05-05": 1.5,
+                    "2019-05-12": 1.5,
+                    "2019-05-19": 1.55,
+                    "2019-05-26": 1.74,
+                    "2019-06-02": 1.81,
+                    "2019-06-09": 1.63,
+                    "2019-06-16": 1.5,
+                    "2019-06-23": 1.49,
+                    "2019-06-30": 1.48,
+                    "2019-07-07": 1.5,
+                    "2019-07-14": 1.4,
+                    "2019-07-21": 1.48
                 }
             },
             "printings": [
@@ -5862,6 +6798,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5871,6 +6810,7 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
@@ -5882,23 +6822,21 @@
             "number": "39s",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.81,
-                    "2019-01-30": 1.85,
-                    "2019-02-06": 1.83,
-                    "2019-02-13": 1.82,
-                    "2019-02-20": 1.86,
-                    "2019-02-27": 1.84,
-                    "2019-03-06": 1.85,
-                    "2019-03-13": 1.82,
-                    "2019-03-20": 1.84,
-                    "2019-03-27": 1.81,
-                    "2019-04-03": 1.8,
-                    "2019-04-10": 1.81,
-                    "2019-04-17": 1.8,
-                    "2019-04-24": 1.79,
-                    "2019-05-01": 1.78,
-                    "2019-05-08": 1.77
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.81,
+                    "2019-05-05": 1.77,
+                    "2019-05-12": 1.79,
+                    "2019-05-19": 1.77,
+                    "2019-05-26": 1.68,
+                    "2019-06-02": 1.69,
+                    "2019-06-09": 1.66,
+                    "2019-06-16": 1.63,
+                    "2019-06-23": 1.66,
+                    "2019-06-30": 1.58,
+                    "2019-07-07": 1.65,
+                    "2019-07-14": 1.52,
+                    "2019-07-21": 1.57
                 }
             },
             "printings": [
@@ -5959,7 +6897,76 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{U}",
+            "mcmId": 360950,
+            "mcmMetaId": 263429,
+            "name": "Supreme Phantom",
+            "number": "76p",
+            "power": "1",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "Because damage remains marked on a creature until it’s removed as the turn ends, nonlethal damage dealt to a Spirit you control may become lethal if Supreme Phantom leaves the battlefield during that turn."
+                }
+            ],
+            "scryfallId": "4bcfdeac-e0f5-4f36-bdeb-22c6462c5682",
+            "scryfallIllustrationId": "f4258dc5-a08d-45e1-b7b5-0fbae9a06b54",
+            "scryfallOracleId": "9c5f4d02-eedb-4c6c-9f13-1b7a45382483",
+            "subtypes": [
+                "Spirit"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193332,
+            "text": "Flying\nOther Spirits you control get +1/+1.",
+            "toughness": "3",
+            "type": "Creature — Spirit",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "ebde66c2-13d7-5569-ada9-f2ba2433b3ea",
+            "variations": [
+                "10fa0188-7f14-51ed-9787-a1e061855d48"
+            ]
+        },
+        {
+            "artist": "Robbie Trevino",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 2.0,
+            "flavorText": "A king's knowledge does not vanish when the heart stops beating.",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5980,23 +6987,21 @@
             "number": "76s",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 7.08,
-                    "2019-01-30": 6.96,
-                    "2019-02-06": 6.49,
-                    "2019-02-13": 6.43,
-                    "2019-02-20": 6.47,
-                    "2019-02-27": 6.21,
-                    "2019-03-06": 6.17,
-                    "2019-03-13": 6.0,
-                    "2019-03-20": 5.95,
-                    "2019-03-27": 6.0,
-                    "2019-04-03": 6.0,
-                    "2019-04-10": 6.0,
-                    "2019-04-17": 5.83,
-                    "2019-04-24": 5.83,
-                    "2019-05-01": 5.9,
-                    "2019-05-08": 5.71
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.83,
+                    "2019-05-05": 5.83,
+                    "2019-05-12": 5.74,
+                    "2019-05-19": 5.61,
+                    "2019-05-26": 5.49,
+                    "2019-06-02": 5.51,
+                    "2019-06-09": 5.46,
+                    "2019-06-16": 5.33,
+                    "2019-06-23": 5.12,
+                    "2019-06-30": 5.03,
+                    "2019-07-07": 5.0,
+                    "2019-07-14": 4.99,
+                    "2019-07-21": 4.94
                 }
             },
             "printings": [
@@ -6024,7 +7029,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "10fa0188-7f14-51ed-9787-a1e061855d48"
+            "uuid": "10fa0188-7f14-51ed-9787-a1e061855d48",
+            "variations": [
+                "ebde66c2-13d7-5569-ada9-f2ba2433b3ea"
+            ]
         },
         {
             "artist": "Josh Hass",
@@ -6040,6 +7048,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6060,23 +7071,21 @@
             "name": "Tezzeret, Artifice Master",
             "number": "79s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 21.0,
-                    "2019-01-30": 19.99,
-                    "2019-02-06": 19.82,
-                    "2019-02-13": 18.96,
-                    "2019-02-20": 18.99,
-                    "2019-02-27": 17.99,
-                    "2019-03-06": 17.24,
-                    "2019-03-13": 16.54,
-                    "2019-03-20": 16.26,
-                    "2019-03-27": 16.13,
-                    "2019-04-03": 16.37,
-                    "2019-04-10": 15.47,
-                    "2019-04-17": 15.99,
-                    "2019-04-24": 15.99,
-                    "2019-05-01": 16.45,
-                    "2019-05-08": 17.87
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 15.99,
+                    "2019-05-05": 17.3,
+                    "2019-05-12": 17.74,
+                    "2019-05-19": 17.87,
+                    "2019-05-26": 17.86,
+                    "2019-06-02": 18.69,
+                    "2019-06-09": 18.96,
+                    "2019-06-16": 18.49,
+                    "2019-06-23": 18.0,
+                    "2019-06-30": 18.44,
+                    "2019-07-07": 18.13,
+                    "2019-07-14": 18.0,
+                    "2019-07-21": 18.0
                 }
             },
             "printings": [
@@ -6100,7 +7109,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 169983,
-            "text": "+1: Create a 1/1 colorless Thopter artifact creature token with flying.\n0: Draw a card. If you control three or more artifacts, draw two cards instead.\n−9: You get an emblem with \"At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library.\"",
+            "text": "[+1]: Create a 1/1 colorless Thopter artifact creature token with flying.\n[0]: Draw a card. If you control three or more artifacts, draw two cards instead.\n[−9]: You get an emblem with \"At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library.\"",
             "type": "Legendary Planeswalker — Tezzeret",
             "types": [
                 "Planeswalker"
@@ -6120,7 +7129,76 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{G}",
+            "mcmId": 360977,
+            "mcmMetaId": 263544,
+            "name": "Thorn Lieutenant",
+            "number": "203p",
+            "power": "2",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2018-07-13",
+                    "text": "Thorn Lieutenant’s triggered ability resolves before the spell or ability that caused it to trigger. It resolves even if that spell or ability is countered."
+                }
+            ],
+            "scryfallId": "5a283f46-2e30-42bd-9ef2-26b0b18ecf0e",
+            "scryfallIllustrationId": "51958bad-8da6-4807-96d0-c6df8516f6b8",
+            "scryfallOracleId": "2b761ce6-4fb1-4f22-b51c-d9f25f62b39a",
+            "subtypes": [
+                "Elf",
+                "Warrior"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193344,
+            "text": "Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.\n{5}{G}: Thorn Lieutenant gets +4/+4 until end of turn.",
+            "toughness": "3",
+            "type": "Creature — Elf Warrior",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "2629df43-4414-582e-8ba9-9c3b7b52911b",
+            "variations": [
+                "c7ec89fc-84cd-5d6b-8762-fff02c5b529c"
+            ]
+        },
+        {
+            "artist": "Uriah Voth",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 2.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6141,23 +7219,21 @@
             "number": "203s",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.77,
-                    "2019-01-30": 4.73,
-                    "2019-02-06": 4.56,
-                    "2019-02-13": 4.62,
-                    "2019-02-20": 4.73,
-                    "2019-02-27": 4.51,
-                    "2019-03-06": 4.51,
-                    "2019-03-13": 4.51,
-                    "2019-03-20": 4.62,
-                    "2019-03-27": 4.48,
-                    "2019-04-03": 4.42,
-                    "2019-04-10": 4.4,
-                    "2019-04-17": 4.27,
-                    "2019-04-24": 4.19,
-                    "2019-05-01": 3.98,
-                    "2019-05-08": 3.9
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.09,
+                    "2019-05-05": 3.8,
+                    "2019-05-12": 3.8,
+                    "2019-05-19": 3.57,
+                    "2019-05-26": 3.3,
+                    "2019-06-02": 3.17,
+                    "2019-06-09": 3.21,
+                    "2019-06-16": 3.01,
+                    "2019-06-23": 3.1,
+                    "2019-06-30": 3.0,
+                    "2019-07-07": 2.92,
+                    "2019-07-14": 2.48,
+                    "2019-07-21": 2.6
                 }
             },
             "printings": [
@@ -6186,7 +7262,10 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "c7ec89fc-84cd-5d6b-8762-fff02c5b529c"
+            "uuid": "c7ec89fc-84cd-5d6b-8762-fff02c5b529c",
+            "variations": [
+                "2629df43-4414-582e-8ba9-9c3b7b52911b"
+            ]
         },
         {
             "artist": "Aaron Miller",
@@ -6198,6 +7277,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6217,23 +7299,21 @@
             "name": "Transmogrifying Wand",
             "number": "247s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.4,
-                    "2019-01-30": 1.37,
-                    "2019-02-06": 1.34,
-                    "2019-02-13": 1.34,
-                    "2019-02-20": 1.37,
-                    "2019-02-27": 1.37,
-                    "2019-03-06": 1.37,
-                    "2019-03-13": 1.29,
-                    "2019-03-20": 1.34,
-                    "2019-03-27": 1.24,
-                    "2019-04-03": 1.34,
-                    "2019-04-10": 1.34,
-                    "2019-04-17": 1.24,
-                    "2019-04-24": 1.34,
-                    "2019-05-01": 1.26,
-                    "2019-05-08": 1.24
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.34,
+                    "2019-05-05": 1.24,
+                    "2019-05-12": 1.23,
+                    "2019-05-19": 1.24,
+                    "2019-05-26": 1.23,
+                    "2019-06-02": 1.32,
+                    "2019-06-09": 1.24,
+                    "2019-06-16": 1.23,
+                    "2019-06-23": 1.23,
+                    "2019-06-30": 1.18,
+                    "2019-07-07": 1.18,
+                    "2019-07-14": 1.02,
+                    "2019-07-21": 1.2
                 }
             },
             "printings": [
@@ -6283,6 +7363,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6303,23 +7386,21 @@
             "number": "225s",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 12.35,
-                    "2019-01-30": 12.33,
-                    "2019-02-06": 12.12,
-                    "2019-02-13": 11.7,
-                    "2019-02-20": 11.49,
-                    "2019-02-27": 11.16,
-                    "2019-03-06": 10.95,
-                    "2019-03-13": 10.78,
-                    "2019-03-20": 10.49,
-                    "2019-03-27": 10.49,
-                    "2019-04-03": 10.47,
-                    "2019-04-10": 10.48,
-                    "2019-04-17": 10.27,
-                    "2019-04-24": 10.0,
-                    "2019-05-01": 10.0,
-                    "2019-05-08": 9.98
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 10.14,
+                    "2019-05-05": 9.99,
+                    "2019-05-12": 9.99,
+                    "2019-05-19": 9.89,
+                    "2019-05-26": 9.99,
+                    "2019-06-02": 10.0,
+                    "2019-06-09": 9.99,
+                    "2019-06-16": 9.66,
+                    "2019-06-23": 9.53,
+                    "2019-06-30": 8.0,
+                    "2019-07-07": 7.99,
+                    "2019-07-14": 7.99,
+                    "2019-07-21": 7.99
                 }
             },
             "printings": [
@@ -6379,6 +7460,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6399,23 +7483,21 @@
             "number": "42s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.99,
-                    "2019-01-30": 2.0,
-                    "2019-02-06": 1.99,
-                    "2019-02-13": 1.99,
-                    "2019-02-20": 1.99,
-                    "2019-02-27": 1.93,
-                    "2019-03-06": 1.9,
-                    "2019-03-13": 1.87,
-                    "2019-03-20": 1.87,
-                    "2019-03-27": 1.77,
-                    "2019-04-03": 1.75,
-                    "2019-04-10": 1.76,
-                    "2019-04-17": 1.75,
-                    "2019-04-24": 1.68,
-                    "2019-05-01": 1.75,
-                    "2019-05-08": 1.85
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.74,
+                    "2019-05-05": 1.83,
+                    "2019-05-12": 1.8,
+                    "2019-05-19": 1.79,
+                    "2019-05-26": 1.85,
+                    "2019-06-02": 1.76,
+                    "2019-06-09": 1.76,
+                    "2019-06-16": 1.64,
+                    "2019-06-23": 1.67,
+                    "2019-06-30": 1.64,
+                    "2019-07-07": 1.67,
+                    "2019-07-14": 1.64,
+                    "2019-07-21": 1.58
                 }
             },
             "printings": [
@@ -6463,7 +7545,71 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "loyalty": "5",
+            "manaCost": "{3}{G}{G}",
+            "mcmId": 360996,
+            "mcmMetaId": 263135,
+            "name": "Vivien Reid",
+            "number": "208p",
+            "printings": [
+                "M19",
+                "PM19"
+            ],
+            "rarity": "mythic",
+            "rulings": [],
+            "scryfallId": "6f68268e-66e7-464f-b5e8-bfa6b81719ee",
+            "scryfallIllustrationId": "7851a7b1-4e02-409a-97fe-9d99d4300bc2",
+            "scryfallOracleId": "b5f20a6d-8c3e-452f-9d98-4886f0fa052a",
+            "subtypes": [
+                "Vivien"
+            ],
+            "supertypes": [
+                "Legendary"
+            ],
+            "tcgplayerProductId": 193345,
+            "text": "[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n[−3]: Destroy target artifact, enchantment, or creature with flying.\n[−8]: You get an emblem with \"Creatures you control get +2/+2 and have vigilance, trample, and indestructible.\"",
+            "type": "Legendary Planeswalker — Vivien",
+            "types": [
+                "Planeswalker"
+            ],
+            "uuid": "0981851f-f24f-529d-8854-8250db3c51f1",
+            "variations": [
+                "1e60b379-39e7-5edc-8091-422370b9fe93"
+            ]
+        },
+        {
+            "artist": "Anna Steinbauer",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 5.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6484,23 +7630,21 @@
             "name": "Vivien Reid",
             "number": "208s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 29.65,
-                    "2019-01-30": 29.55,
-                    "2019-02-06": 29.65,
-                    "2019-02-13": 29.65,
-                    "2019-02-20": 33.47,
-                    "2019-02-27": 33.74,
-                    "2019-03-06": 32.61,
-                    "2019-03-13": 33.18,
-                    "2019-03-20": 34.99,
-                    "2019-03-27": 35.0,
-                    "2019-04-03": 32.87,
-                    "2019-04-10": 33.74,
-                    "2019-04-17": 32.54,
-                    "2019-04-24": 33.34,
-                    "2019-05-01": 33.98,
-                    "2019-05-08": 34.49
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 33.98,
+                    "2019-05-05": 34.19,
+                    "2019-05-12": 34.5,
+                    "2019-05-19": 34.09,
+                    "2019-05-26": 34.16,
+                    "2019-06-02": 32.96,
+                    "2019-06-09": 31.92,
+                    "2019-06-16": 30.99,
+                    "2019-06-23": 29.29,
+                    "2019-06-30": 28.5,
+                    "2019-07-07": 28.75,
+                    "2019-07-14": 24.77,
+                    "2019-07-21": 24.5
                 }
             },
             "printings": [
@@ -6519,12 +7663,15 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 170016,
-            "text": "+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n−3: Destroy target artifact, enchantment, or creature with flying.\n−8: You get an emblem with \"Creatures you control get +2/+2 and have vigilance, trample, and indestructible.\"",
+            "text": "[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n[−3]: Destroy target artifact, enchantment, or creature with flying.\n[−8]: You get an emblem with \"Creatures you control get +2/+2 and have vigilance, trample, and indestructible.\"",
             "type": "Legendary Planeswalker — Vivien",
             "types": [
                 "Planeswalker"
             ],
-            "uuid": "1e60b379-39e7-5edc-8091-422370b9fe93"
+            "uuid": "1e60b379-39e7-5edc-8091-422370b9fe93",
+            "variations": [
+                "0981851f-f24f-529d-8854-8250db3c51f1"
+            ]
         },
         {
             "artist": "Johannes Voss",
@@ -6540,6 +7687,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6560,23 +7710,21 @@
             "name": "Vivien's Invocation",
             "number": "209s",
             "prices": {
-                "paper": {
-                    "2019-01-23": 1.04,
-                    "2019-01-30": 1.12,
-                    "2019-02-06": 1.29,
-                    "2019-02-13": 1.29,
-                    "2019-02-20": 1.17,
-                    "2019-02-27": 1.0,
-                    "2019-03-06": 1.0,
-                    "2019-03-13": 1.04,
-                    "2019-03-20": 1.0,
-                    "2019-03-27": 1.04,
-                    "2019-04-03": 1.2,
-                    "2019-04-10": 1.14,
-                    "2019-04-17": 1.16,
-                    "2019-04-24": 1.08,
-                    "2019-05-01": 1.0,
-                    "2019-05-08": 1.11
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.0,
+                    "2019-05-05": 1.11,
+                    "2019-05-12": 1.04,
+                    "2019-05-19": 1.03,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.99,
+                    "2019-06-09": 1.0,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 0.99,
+                    "2019-07-14": 0.99,
+                    "2019-07-21": 0.99
                 }
             },
             "printings": [
@@ -6622,6 +7770,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6643,23 +7794,21 @@
             "number": "84s",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 0.96,
-                    "2019-01-30": 0.99,
-                    "2019-02-06": 0.99,
-                    "2019-02-13": 0.99,
-                    "2019-02-20": 0.99,
-                    "2019-02-27": 0.98,
-                    "2019-03-06": 0.96,
-                    "2019-03-13": 0.99,
-                    "2019-03-20": 0.99,
-                    "2019-03-27": 0.99,
-                    "2019-04-03": 0.99,
-                    "2019-04-10": 0.99,
-                    "2019-04-17": 0.99,
-                    "2019-04-24": 0.99,
-                    "2019-05-01": 0.99,
-                    "2019-05-08": 0.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.99,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.99,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.99,
+                    "2019-06-09": 0.99,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 1.0,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 1.0
                 }
             },
             "printings": [
@@ -6706,15 +7855,15 @@
     "mcmId": 2337,
     "mcmName": "Core 2019: Promos",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Core Set 2019 Promos",
     "parentCode": "M19",
     "releaseDate": "2018-07-13",
     "tokens": [],
-    "totalSetSize": 77,
+    "totalSetSize": 92,
     "translations": {},
     "type": "promo"
 }

@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 public class Main {
 	
-    static boolean REORDER = false;
+    static boolean REORDER = true;
 
     static String[][] SETS = { { "Dominaria", "DOM" }, { "Rivals of Ixalan", "RIX" }, { "Ixalan", "XLN" },
             { "Hour of Devastation", "HOU" }, { "Amonkhet", "AKH" }, { "Aether Revolt", "AER" }, { "Kaladesh", "KLD" },
@@ -245,7 +245,7 @@ public class Main {
     static String printText(JSONObject card, String key, String desc) {
         if (card.has(key)) {
             out.append("<" + desc + ">"
-                    + card.getString(key).replaceAll("/P}", "P}").replaceAll("−", "-").replaceAll(" CHAOS", " {CHAOS}")
+                    + card.getString(key).replaceAll("/P}", "P}").replaceAll("−", "-").replaceAll(" CHAOS", " {CHAOS}").replaceAll("[\\[\\]]", "")
                     + "</" + desc + ">\n");
             return card.getString(key);
         } else {
@@ -369,7 +369,7 @@ public class Main {
     static void printFlavor(JSONObject card, String key, String desc) {
         if (card.has(key)) {
             out.append("<" + desc + ">" + card.getString(key).replaceAll("…", ". . .").replaceAll("\\*", "").replaceAll("\" —", "\"\n—")
-            		.replaceAll("\\. —", "\\.\n—") + "</" + desc + ">\n");
+            		.replaceAll("\\. —", "\\.\n—").replaceAll("\"—", "\"\n—") + "</" + desc + ">\n");
         }
     }
 
@@ -429,7 +429,9 @@ public class Main {
 
         printFlavor(card, "flavorText", "Flavor");
         printArtist(card, "artist", "Artist");
-        printWatermark(card, "watermark", "Watermark");
+        if(!set.contains("Duel Decks")) {
+        	printWatermark(card, "watermark", "Watermark");
+        }
         printEntry(card, "multiverseId", "Multiverseid");
         printRulings(card, "rulings", "Rulings");
         if (card.has("isReserved") && card.getBoolean("isReserved")) {
@@ -557,6 +559,8 @@ public class Main {
         	name = name + " Edition";
         } else if (name.equals("Master Edition")) {
         	name = "MTGO " + name;
+        } else if (name.equals("Commander Anthology Volume II")) {
+        	name = "Commander Anthology II";
         }
 
         HashMap<String, Vector<JSONObject>> map = new HashMap<>();
@@ -747,9 +751,6 @@ public class Main {
 
     public static void main(String[] args) {
     	for(File file : new File("Json").listFiles()) {
-    		if(!file.getName().contains("OE01")) {
-    			continue;
-    		}
     		String json = getJson(file);
             JSONObject set = new JSONObject(json);
             printSet(set);

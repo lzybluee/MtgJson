@@ -14,7 +14,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -25,6 +27,8 @@
                 "pauper": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40385,
+            "mtgoId": 40384,
             "name": "Ancient Den",
             "number": "36",
             "printings": [
@@ -46,7 +50,8 @@
                 "Artifact",
                 "Land"
             ],
-            "uuid": "f50eb417-34b0-581a-b4f3-7071d867b16d"
+            "uuid": "f50eb417-34b0-581a-b4f3-7071d867b16d",
+            "watermark": "mirran"
         },
         {
             "artist": "Mike Bierek",
@@ -63,7 +68,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -76,6 +83,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgoFoilId": 40301,
+            "mtgoId": 40300,
             "name": "Ardent Recruit",
             "number": "4",
             "power": "1",
@@ -99,7 +108,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "d986b484-bdfd-54b4-890d-9668eb7607a4"
+            "uuid": "d986b484-bdfd-54b4-890d-9668eb7607a4",
+            "watermark": "mirran"
         },
         {
             "artist": "Chris Rahn",
@@ -116,7 +126,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -128,6 +140,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}{U}",
+            "mtgoFoilId": 40277,
+            "mtgoId": 40276,
             "name": "Argent Sphinx",
             "number": "13",
             "power": "4",
@@ -164,7 +178,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "17d58473-deea-58a3-ad86-3ad27d05ae9f"
+            "uuid": "17d58473-deea-58a3-ad86-3ad27d05ae9f",
+            "watermark": "mirran"
         },
         {
             "artist": "Daarken",
@@ -181,7 +196,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -194,6 +211,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgoFoilId": 40261,
+            "mtgoId": 40260,
             "name": "Arrest",
             "number": "32",
             "printings": [
@@ -224,7 +243,8 @@
             "types": [
                 "Enchantment"
             ],
-            "uuid": "4337e8db-d570-5bca-86fb-db186d6d636e"
+            "uuid": "4337e8db-d570-5bca-86fb-db186d6d636e",
+            "watermark": "mirran"
         },
         {
             "artist": "Paolo Parente",
@@ -241,7 +261,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -253,6 +275,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{B}",
+            "mtgoFoilId": 40391,
+            "mtgoId": 40390,
             "name": "Barter in Blood",
             "number": "76",
             "printings": [
@@ -290,7 +314,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "d2f74643-6ff8-591b-a308-12a7665f1135"
+            "uuid": "d2f74643-6ff8-591b-a308-12a7665f1135",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Daniel Ljunggren",
@@ -307,7 +332,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -318,6 +345,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{X}{B}{B}",
+            "mtgoFoilId": 40313,
+            "mtgoId": 40312,
             "name": "Black Sun's Zenith",
             "number": "81",
             "printings": [
@@ -344,7 +373,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "2c6e92a6-4e99-5ac9-8305-255f48d008f0"
+            "uuid": "2c6e92a6-4e99-5ac9-8305-255f48d008f0",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Brian Snõddy",
@@ -356,7 +386,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -366,6 +398,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40423,
+            "mtgoId": 40422,
             "name": "Blinkmoth Nexus",
             "number": "37",
             "printings": [
@@ -404,7 +438,8 @@
             "types": [
                 "Land"
             ],
-            "uuid": "7a275e9a-32e9-507f-9569-8566eededda4"
+            "uuid": "7a275e9a-32e9-507f-9569-8566eededda4",
+            "watermark": "mirran"
         },
         {
             "artist": "Darrell Riche",
@@ -416,7 +451,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -429,6 +466,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}",
+            "mtgoFoilId": 40375,
+            "mtgoId": 40374,
             "name": "Bonesplitter",
             "number": "20",
             "printings": [
@@ -454,7 +493,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "89e5ac09-ef62-5291-a2fa-0dde28a5d04b"
+            "uuid": "89e5ac09-ef62-5291-a2fa-0dde28a5d04b",
+            "watermark": "mirran"
         },
         {
             "artist": "Don Hazeltine",
@@ -470,7 +510,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -478,8 +520,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40215,
+            "mtgoId": 40214,
             "name": "Coastal Tower",
             "number": "38",
             "printings": [
@@ -500,7 +545,8 @@
             "types": [
                 "Land"
             ],
-            "uuid": "4a80ebbd-0a21-59e7-be9d-8fb71bad2709"
+            "uuid": "4a80ebbd-0a21-59e7-be9d-8fb71bad2709",
+            "watermark": "mirran"
         },
         {
             "artist": "Daren Bader",
@@ -516,7 +562,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -524,9 +572,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgoFoilId": 40449,
+            "mtgoId": 40448,
             "name": "Condemn",
             "number": "22",
             "printings": [
@@ -559,7 +610,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "7337d566-1be8-5c1b-ba89-cc26714fea1a"
+            "uuid": "7337d566-1be8-5c1b-ba89-cc26714fea1a",
+            "watermark": "mirran"
         },
         {
             "artist": "Anthony Palumbo",
@@ -571,7 +623,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -583,6 +637,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40249,
+            "mtgoId": 40248,
             "name": "Contagion Clasp",
             "number": "67",
             "printings": [
@@ -629,7 +685,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "62965877-e642-5d89-bd34-ea5db0d0abd9"
+            "uuid": "62965877-e642-5d89-bd34-ea5db0d0abd9",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Ron Spencer",
@@ -642,7 +699,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -650,10 +709,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{7}",
+            "mtgoFoilId": 40401,
+            "mtgoId": 40400,
             "name": "Darksteel Gargoyle",
             "number": "19",
             "power": "3",
@@ -677,7 +737,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "e7d301df-f503-50dd-a82a-14e735c66af4"
+            "uuid": "e7d301df-f503-50dd-a82a-14e735c66af4",
+            "watermark": "mirran"
         },
         {
             "artist": "Erica Yang",
@@ -689,7 +750,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -701,6 +764,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{6}",
+            "mtgoFoilId": 40255,
+            "mtgoId": 40254,
             "name": "Darksteel Sentinel",
             "number": "16",
             "power": "3",
@@ -724,7 +789,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "282e5ef0-ccba-53ad-b853-b3028276c43b"
+            "uuid": "282e5ef0-ccba-53ad-b853-b3028276c43b",
+            "watermark": "mirran"
         },
         {
             "artist": "Pete Venters",
@@ -741,7 +807,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -753,6 +821,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}",
+            "mtgoId": 40426,
             "name": "Desecration Elemental",
             "number": "57",
             "power": "8",
@@ -784,7 +853,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "3a07493d-8f74-5554-9b8e-cb13939fb037"
+            "uuid": "3a07493d-8f74-5554-9b8e-cb13939fb037",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Scott M. Fischer",
@@ -800,7 +870,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -811,6 +883,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}",
+            "mtgoFoilId": 40131,
+            "mtgoId": 40130,
             "name": "Diabolic Servitude",
             "number": "75",
             "printings": [
@@ -837,7 +911,8 @@
             "types": [
                 "Enchantment"
             ],
-            "uuid": "49614bff-7328-50e0-846a-d597cf03b5f2"
+            "uuid": "49614bff-7328-50e0-846a-d597cf03b5f2",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Erica Yang",
@@ -854,7 +929,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -862,9 +939,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgoFoilId": 40333,
+            "mtgoId": 40332,
             "name": "Dispatch",
             "number": "23",
             "printings": [
@@ -889,7 +969,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "5b861d55-6088-50ac-8251-08caa267c692"
+            "uuid": "5b861d55-6088-50ac-8251-08caa267c692",
+            "watermark": "mirran"
         },
         {
             "artist": "Kev Walker",
@@ -907,7 +988,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -919,6 +1002,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{B}{G}",
+            "mtgoFoilId": 40443,
+            "mtgoId": 40442,
             "name": "Drooling Groodion",
             "number": "64",
             "power": "4",
@@ -943,7 +1028,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "c1007213-62b0-5cfe-a647-002dc3eecf07"
+            "uuid": "c1007213-62b0-5cfe-a647-002dc3eecf07",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Thomas M. Baxa",
@@ -955,7 +1041,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -967,6 +1055,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{6}",
+            "mtgoFoilId": 40395,
+            "mtgoId": 40394,
             "name": "Duplicant",
             "number": "17",
             "power": "2",
@@ -1018,7 +1108,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "e4a8bfb2-d819-51a4-863c-a49488eb3022"
+            "uuid": "e4a8bfb2-d819-51a4-863c-a49488eb3022",
+            "watermark": "mirran"
         },
         {
             "artist": "Carl Critchlow",
@@ -1035,7 +1126,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1046,6 +1139,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}",
+            "mtgoFoilId": 40129,
+            "mtgoId": 40128,
             "name": "Exhume",
             "number": "70",
             "printings": [
@@ -1066,7 +1161,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "ce48859f-4e4d-53c6-818f-2f28391ea3e1"
+            "uuid": "ce48859f-4e4d-53c6-818f-2f28391ea3e1",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Johann Bodin",
@@ -1082,7 +1178,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1094,6 +1192,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}",
+            "mtgoId": 40292,
             "name": "Flesh-Eater Imp",
             "number": "58",
             "power": "2",
@@ -1116,7 +1215,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "4134f904-6e02-5068-9c51-cb7a4aa7b634"
+            "uuid": "4134f904-6e02-5068-9c51-cb7a4aa7b634",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Aleksi Briclot",
@@ -1130,7 +1230,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1141,6 +1243,8 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40113,
+            "mtgoId": 40112,
             "name": "Forbidding Watchtower",
             "number": "39",
             "printings": [
@@ -1169,7 +1273,8 @@
             "types": [
                 "Land"
             ],
-            "uuid": "2d666b5f-cec5-53a5-9a65-44deaacc5c00"
+            "uuid": "2d666b5f-cec5-53a5-9a65-44deaacc5c00",
+            "watermark": "mirran"
         },
         {
             "artist": "Mark Tedin",
@@ -1183,7 +1288,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1198,20 +1305,49 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40269,
+            "mtgoId": 40268,
             "name": "Forest",
             "number": "86",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD1",
+                "DDD",
+                "DDE",
+                "DDG",
+                "DDH",
+                "DDJ",
                 "DDL",
                 "DDM",
                 "DDO",
@@ -1219,10 +1355,13 @@
                 "DDR",
                 "DDS",
                 "DDU",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
                 "EVG",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -1231,31 +1370,104 @@
                 "GRN",
                 "GS1",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
+                "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -1291,7 +1503,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1306,20 +1520,49 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40337,
+            "mtgoId": 40336,
             "name": "Forest",
             "number": "87",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD1",
+                "DDD",
+                "DDE",
+                "DDG",
+                "DDH",
+                "DDJ",
                 "DDL",
                 "DDM",
                 "DDO",
@@ -1327,10 +1570,13 @@
                 "DDR",
                 "DDS",
                 "DDU",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
                 "EVG",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -1339,31 +1585,104 @@
                 "GRN",
                 "GS1",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
+                "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -1399,7 +1718,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1414,20 +1735,49 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40315,
+            "mtgoId": 40314,
             "name": "Forest",
             "number": "88",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD1",
+                "DDD",
+                "DDE",
+                "DDG",
+                "DDH",
+                "DDJ",
                 "DDL",
                 "DDM",
                 "DDO",
@@ -1435,10 +1785,13 @@
                 "DDR",
                 "DDS",
                 "DDU",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
                 "EVG",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -1447,31 +1800,104 @@
                 "GRN",
                 "GS1",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
+                "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -1510,7 +1936,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1523,6 +1951,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
+            "mtgoFoilId": 40281,
+            "mtgoId": 40280,
             "name": "Fume Spitter",
             "number": "49",
             "power": "1",
@@ -1551,7 +1981,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "fa642b81-ab7e-514b-a35b-bd209f50b35a"
+            "uuid": "fa642b81-ab7e-514b-a35b-bd209f50b35a",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Ryan Pancoast",
@@ -1567,7 +1998,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1579,6 +2012,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
+            "mtgoFoilId": 40245,
+            "mtgoId": 40244,
             "name": "Glimmerpoint Stag",
             "number": "12",
             "power": "3",
@@ -1620,7 +2055,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "4e2f2da6-bcb9-51f3-b2ae-17d3bbd38600"
+            "uuid": "4e2f2da6-bcb9-51f3-b2ae-17d3bbd38600",
+            "watermark": "mirran"
         },
         {
             "artist": "Alan Pollack",
@@ -1634,7 +2070,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1647,6 +2085,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40253,
+            "mtgoId": 40252,
             "name": "Gold Myr",
             "number": "6",
             "power": "1",
@@ -1672,7 +2112,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "fcc195b8-3018-54d2-8064-8d5d878f5100"
+            "uuid": "fcc195b8-3018-54d2-8064-8d5d878f5100",
+            "watermark": "mirran"
         },
         {
             "artist": "Allen Williams",
@@ -1684,7 +2125,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1696,6 +2139,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
+            "mtgoFoilId": 40265,
+            "mtgoId": 40264,
             "name": "Grafted Exoskeleton",
             "number": "74",
             "printings": [
@@ -1749,7 +2194,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "58b243e0-eb65-5c65-8d30-d8aa1fac94ab"
+            "uuid": "58b243e0-eb65-5c65-8d30-d8aa1fac94ab",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Steven Belledin",
@@ -1765,7 +2211,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1776,6 +2224,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{U}",
+            "mtgoFoilId": 40257,
+            "mtgoId": 40256,
             "name": "Grand Architect",
             "number": "10",
             "power": "1",
@@ -1812,7 +2262,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "6b2d8a85-fdaa-5a55-91b3-1d2b656066fa"
+            "uuid": "6b2d8a85-fdaa-5a55-91b3-1d2b656066fa",
+            "watermark": "mirran"
         },
         {
             "artist": "Carl Critchlow",
@@ -1829,7 +2280,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1840,6 +2293,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
+            "mtgoFoilId": 40327,
+            "mtgoId": 40326,
             "name": "Innocent Blood",
             "number": "66",
             "printings": [
@@ -1868,7 +2323,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "fece8008-741a-5958-86b1-993bcaec4e67"
+            "uuid": "fece8008-741a-5958-86b1-993bcaec4e67",
+            "watermark": "phyrexian"
         },
         {
             "artist": "John Avon",
@@ -1882,7 +2338,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1897,20 +2355,47 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40379,
+            "mtgoId": 40378,
             "name": "Island",
             "number": "45",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD2",
+                "DDE",
+                "DDF",
+                "DDH",
+                "DDI",
                 "DDJ",
                 "DDM",
                 "DDN",
@@ -1920,8 +2405,10 @@
                 "DDT",
                 "DDU",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -1929,35 +2416,105 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "JVC",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL02",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -1993,7 +2550,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2008,20 +2567,47 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40275,
+            "mtgoId": 40274,
             "name": "Island",
             "number": "46",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD2",
+                "DDE",
+                "DDF",
+                "DDH",
+                "DDI",
                 "DDJ",
                 "DDM",
                 "DDN",
@@ -2031,8 +2617,10 @@
                 "DDT",
                 "DDU",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -2040,35 +2628,105 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "JVC",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL02",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -2104,7 +2762,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2119,20 +2779,47 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40271,
+            "mtgoId": 40270,
             "name": "Island",
             "number": "47",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DD2",
+                "DDE",
+                "DDF",
+                "DDH",
+                "DDI",
                 "DDJ",
                 "DDM",
                 "DDN",
@@ -2142,8 +2829,10 @@
                 "DDT",
                 "DDU",
                 "DOM",
+                "DPA",
                 "DTK",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -2151,35 +2840,105 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "JVC",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL02",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -2213,7 +2972,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2225,6 +2986,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
+            "mtgoFoilId": 40279,
+            "mtgoId": 40278,
             "name": "Kuldotha Forgemaster",
             "number": "14",
             "power": "3",
@@ -2253,7 +3016,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "5549de4e-26d7-5324-a865-f90517b0c50f"
+            "uuid": "5549de4e-26d7-5324-a865-f90517b0c50f",
+            "watermark": "mirran"
         },
         {
             "artist": "Randis Albion",
@@ -2266,7 +3030,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2278,6 +3044,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{6}",
+            "mtgoFoilId": 40311,
+            "mtgoId": 40310,
             "name": "Lumengrid Gargoyle",
             "number": "18",
             "power": "4",
@@ -2301,7 +3069,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "3a88e5bb-4c1a-5f42-a36c-ba4de0627dc0"
+            "uuid": "3a88e5bb-4c1a-5f42-a36c-ba4de0627dc0",
+            "watermark": "mirran"
         },
         {
             "artist": "Svetlin Velinov",
@@ -2314,7 +3083,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2325,6 +3096,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{0}",
+            "mtgoFoilId": 40247,
+            "mtgoId": 40246,
             "name": "Memnite",
             "number": "2",
             "power": "1",
@@ -2349,7 +3122,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "1d193ac5-de2c-53a1-9c5f-8b2ec3ba6211"
+            "uuid": "1d193ac5-de2c-53a1-9c5f-8b2ec3ba6211",
+            "watermark": "mirran"
         },
         {
             "artist": "Raymond Swanland",
@@ -2365,7 +3139,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2377,6 +3153,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{G}",
+            "mtgoFoilId": 40239,
+            "mtgoId": 40238,
             "name": "Mitotic Slime",
             "number": "61",
             "power": "4",
@@ -2403,7 +3181,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "fd0c337c-2106-55af-9285-3d4f39ed5a90"
+            "uuid": "fd0c337c-2106-55af-9285-3d4f39ed5a90",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Mike Bierek",
@@ -2420,7 +3199,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2433,6 +3214,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{B}",
+            "mtgoFoilId": 40325,
+            "mtgoId": 40324,
             "name": "Morbid Plunder",
             "number": "72",
             "printings": [
@@ -2451,7 +3234,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "b0c31f9f-1ecb-5ce1-a1aa-6857154e691e"
+            "uuid": "b0c31f9f-1ecb-5ce1-a1aa-6857154e691e",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Eric Deschamps",
@@ -2463,7 +3247,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2475,6 +3261,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40285,
+            "mtgoId": 40284,
             "name": "Mortarpod",
             "number": "68",
             "printings": [
@@ -2501,7 +3289,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "f6377c87-29db-548a-94b5-a241449f7507"
+            "uuid": "f6377c87-29db-548a-94b5-a241449f7507",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Trevor Hairsine",
@@ -2514,7 +3303,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2522,9 +3313,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40373,
+            "mtgoId": 40372,
             "name": "Myr Retriever",
             "number": "7",
             "power": "1",
@@ -2552,7 +3346,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "5cdece32-629f-5092-8ca5-73273f0ea441"
+            "uuid": "5cdece32-629f-5092-8ca5-73273f0ea441",
+            "watermark": "mirran"
         },
         {
             "artist": "Jaime Jones",
@@ -2565,7 +3360,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2578,6 +3375,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40289,
+            "mtgoId": 40288,
             "name": "Myr Sire",
             "number": "50",
             "power": "1",
@@ -2604,7 +3403,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "f3b24037-a90b-5082-bb9b-f9ca87a204ca"
+            "uuid": "f3b24037-a90b-5082-bb9b-f9ca87a204ca",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Jaime Jones",
@@ -2620,7 +3420,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2631,6 +3433,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{B}",
+            "mtgoFoilId": 40151,
+            "mtgoId": 40150,
             "name": "Necroskitter",
             "number": "55",
             "power": "1",
@@ -2667,7 +3471,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "ff02b2e9-52e5-5ec9-8b20-7b9f2d8dc314"
+            "uuid": "ff02b2e9-52e5-5ec9-8b20-7b9f2d8dc314",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Francis Tsai",
@@ -2681,7 +3486,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2694,6 +3501,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40431,
+            "mtgoId": 40430,
             "name": "Neurok Stealthsuit",
             "number": "25",
             "printings": [
@@ -2714,7 +3523,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "ff77b95d-c9a0-5d3c-b4bf-942592fb3ff0"
+            "uuid": "ff77b95d-c9a0-5d3c-b4bf-942592fb3ff0",
+            "watermark": "mirran"
         },
         {
             "artist": "Darrell Riche",
@@ -2730,7 +3540,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2742,6 +3554,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}",
+            "mtgoFoilId": 40389,
+            "mtgoId": 40388,
             "name": "One Dozen Eyes",
             "number": "80",
             "printings": [
@@ -2762,7 +3576,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "e7df3a88-9f1e-5adc-890f-73687d9d7261"
+            "uuid": "e7df3a88-9f1e-5adc-890f-73687d9d7261",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Ron Spears",
@@ -2775,7 +3590,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2785,6 +3602,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgoFoilId": 40211,
+            "mtgoId": 40210,
             "name": "Phyrexian Altar",
             "number": "71",
             "printings": [
@@ -2804,7 +3623,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "5338b1fe-e23b-5bdb-acdf-471b21c8207e"
+            "uuid": "5338b1fe-e23b-5bdb-acdf-471b21c8207e",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Pete Venters",
@@ -2821,7 +3641,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2833,6 +3655,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}",
+            "mtgoFoilId": 40135,
+            "mtgoId": 40134,
             "name": "Phyrexian Ghoul",
             "number": "53",
             "power": "2",
@@ -2859,7 +3683,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "90180095-4307-5216-8054-a228929162af"
+            "uuid": "90180095-4307-5216-8054-a228929162af",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Kev Walker",
@@ -2872,7 +3697,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2884,6 +3711,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{6}",
+            "mtgoFoilId": 40309,
+            "mtgoId": 40308,
             "name": "Phyrexian Juggernaut",
             "number": "63",
             "power": "5",
@@ -2907,7 +3736,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "094ff9b9-1a70-522c-a3ba-28826e61524b"
+            "uuid": "094ff9b9-1a70-522c-a3ba-28826e61524b",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Kev Walker",
@@ -2924,7 +3754,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2936,6 +3768,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{B}",
+            "mtgoFoilId": 40137,
+            "mtgoId": 40136,
             "name": "Phyrexian Plaguelord",
             "number": "48",
             "power": "4",
@@ -2963,7 +3797,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "609e61e5-48f8-5668-bfff-9d300575e3f6"
+            "uuid": "609e61e5-48f8-5668-bfff-9d300575e3f6",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Efrem Palacios",
@@ -2976,7 +3811,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2988,6 +3825,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40299,
+            "mtgoId": 40298,
             "name": "Plague Myr",
             "number": "51",
             "power": "1",
@@ -3013,7 +3852,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "559535de-ca13-543c-94fc-890db94ad11e"
+            "uuid": "559535de-ca13-543c-94fc-890db94ad11e",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Whit Brachna",
@@ -3030,7 +3870,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3042,6 +3884,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}{G}",
+            "mtgoFoilId": 40291,
+            "mtgoId": 40290,
             "name": "Plaguemaw Beast",
             "number": "62",
             "power": "4",
@@ -3073,7 +3917,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "5b398d3e-3cfd-5ac8-80a1-000d1f1922e9"
+            "uuid": "5b398d3e-3cfd-5ac8-80a1-000d1f1922e9",
+            "watermark": "phyrexian"
         },
         {
             "artist": "James Paick",
@@ -3087,7 +3932,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3102,20 +3949,48 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40383,
+            "mtgoId": 40382,
             "name": "Plains",
             "number": "42",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDE",
+                "DDF",
+                "DDG",
+                "DDH",
+                "DDI",
                 "DDK",
                 "DDL",
                 "DDN",
@@ -3126,6 +4001,7 @@
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -3133,36 +4009,104 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
                 "PDGM",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -3198,7 +4142,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3213,20 +4159,48 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40273,
+            "mtgoId": 40272,
             "name": "Plains",
             "number": "43",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDE",
+                "DDF",
+                "DDG",
+                "DDH",
+                "DDI",
                 "DDK",
                 "DDL",
                 "DDN",
@@ -3237,6 +4211,7 @@
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -3244,36 +4219,104 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
                 "PDGM",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -3309,7 +4352,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3324,20 +4369,48 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40377,
+            "mtgoId": 40376,
             "name": "Plains",
             "number": "44",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDE",
+                "DDF",
+                "DDG",
+                "DDH",
+                "DDI",
                 "DDK",
                 "DDL",
                 "DDN",
@@ -3348,6 +4421,7 @@
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -3355,36 +4429,104 @@
                 "GNT",
                 "GRN",
                 "GS1",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
                 "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
                 "PC2",
                 "PCA",
                 "PDGM",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
                 "PZ2",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC00",
+                "WC02",
+                "WC03",
+                "WC04",
+                "WC97",
+                "WC98",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -3419,7 +4561,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3430,6 +4574,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{7}",
+            "mtgoFoilId": 40363,
+            "mtgoId": 40362,
             "name": "Platinum Angel",
             "number": "1",
             "power": "4",
@@ -3480,7 +4626,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "ee0f9f6c-18aa-5813-91e3-aa10ccfc3008"
+            "uuid": "ee0f9f6c-18aa-5813-91e3-aa10ccfc3008",
+            "watermark": "mirran"
         },
         {
             "artist": "Matt Cavotta",
@@ -3497,7 +4644,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3508,6 +4657,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}{G}",
+            "mtgoFoilId": 40451,
+            "mtgoId": 40450,
             "name": "Protean Hulk",
             "number": "65",
             "power": "6",
@@ -3541,7 +4692,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "bd5fbaee-168a-5bb2-9a88-a68d539d98b4"
+            "uuid": "bd5fbaee-168a-5bb2-9a88-a68d539d98b4",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Pete Venters",
@@ -3558,7 +4710,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3570,6 +4724,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgoFoilId": 40421,
+            "mtgoId": 40420,
             "name": "Purge",
             "number": "28",
             "printings": [
@@ -3589,7 +4745,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "ad6783ff-9d66-5aae-afd1-0afb370d5d78"
+            "uuid": "ad6783ff-9d66-5aae-afd1-0afb370d5d78",
+            "watermark": "mirran"
         },
         {
             "artist": "Jim Nelson",
@@ -3608,7 +4765,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3620,6 +4779,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{G}",
+            "mtgoFoilId": 40439,
+            "mtgoId": 40438,
             "name": "Putrefy",
             "number": "73",
             "printings": [
@@ -3655,7 +4816,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "c0f4ea52-b4eb-5acb-93ae-cc59446b7daa"
+            "uuid": "c0f4ea52-b4eb-5acb-93ae-cc59446b7daa",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Mark Tedin",
@@ -3672,7 +4834,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3683,6 +4847,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{B}",
+            "mtgoFoilId": 40133,
+            "mtgoId": 40132,
             "name": "Reprocess",
             "number": "77",
             "printings": [
@@ -3707,7 +4873,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "8e67d5cb-c186-56d8-9628-49b69bf737b5"
+            "uuid": "8e67d5cb-c186-56d8-9628-49b69bf737b5",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Nils Hamm",
@@ -3723,7 +4890,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3736,6 +4905,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoFoilId": 40297,
+            "mtgoId": 40296,
             "name": "Rot Wolf",
             "number": "54",
             "power": "2",
@@ -3763,7 +4934,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "7b325975-415c-5b17-b6b7-cfdf95719425"
+            "uuid": "7b325975-415c-5b17-b6b7-cfdf95719425",
+            "watermark": "phyrexian"
         },
         {
             "artist": "John Avon",
@@ -3778,7 +4950,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3789,6 +4963,8 @@
                 "pauper": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40387,
+            "mtgoId": 40386,
             "name": "Seat of the Synod",
             "number": "40",
             "printings": [
@@ -3814,7 +4990,8 @@
                 "Artifact",
                 "Land"
             ],
-            "uuid": "5cdf6a35-34e0-52f3-b4e0-20569d75d008"
+            "uuid": "5cdf6a35-34e0-52f3-b4e0-20569d75d008",
+            "watermark": "mirran"
         },
         {
             "artist": "Mark Zug",
@@ -3827,7 +5004,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3838,6 +5017,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
+            "mtgoFoilId": 40433,
+            "mtgoId": 40432,
             "name": "Silent Arbiter",
             "number": "11",
             "power": "1",
@@ -3862,7 +5043,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "4057aab6-5bf1-595d-901c-504c654be14f"
+            "uuid": "4057aab6-5bf1-595d-901c-504c654be14f",
+            "watermark": "mirran"
         },
         {
             "artist": "Alan Pollack",
@@ -3877,7 +5059,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3890,6 +5074,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40251,
+            "mtgoId": 40250,
             "name": "Silver Myr",
             "number": "8",
             "power": "1",
@@ -3916,7 +5102,8 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "b401db1b-b548-57e8-baad-e514227e22e5"
+            "uuid": "b401db1b-b548-57e8-baad-e514227e22e5",
+            "watermark": "mirran"
         },
         {
             "artist": "Justin Sweet",
@@ -3928,7 +5115,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3941,6 +5130,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}",
+            "mtgoFoilId": 40371,
+            "mtgoId": 40370,
             "name": "Slagwurm Armor",
             "number": "21",
             "printings": [
@@ -3962,7 +5153,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "5ce5a4f3-2520-5ae2-bb79-8dc53a903cbb"
+            "uuid": "5ce5a4f3-2520-5ae2-bb79-8dc53a903cbb",
+            "watermark": "mirran"
         },
         {
             "artist": "Izzy",
@@ -3979,7 +5171,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3987,9 +5181,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{B}",
+            "mtgoFoilId": 40149,
+            "mtgoId": 40148,
             "name": "Soul Snuffers",
             "number": "60",
             "power": "3",
@@ -4018,7 +5215,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "d44cc025-be0f-5eca-9235-efa1d1c697b8"
+            "uuid": "d44cc025-be0f-5eca-9235-efa1d1c697b8",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Tony Szczudlo",
@@ -4030,7 +5228,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4038,9 +5238,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40419,
+            "mtgoId": 40418,
             "name": "Spawning Pit",
             "number": "69",
             "printings": [
@@ -4059,7 +5262,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "6d52363a-5e9f-57c3-a35b-a60e0d4a5b8b"
+            "uuid": "6d52363a-5e9f-57c3-a35b-a60e0d4a5b8b",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Johann Bodin",
@@ -4076,7 +5280,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4089,6 +5295,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}",
+            "mtgoFoilId": 40303,
+            "mtgoId": 40302,
             "name": "Spire Serpent",
             "number": "15",
             "power": "3",
@@ -4120,7 +5328,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "0a3034af-0b86-5864-b071-1ee90b7dd3d5"
+            "uuid": "0a3034af-0b86-5864-b071-1ee90b7dd3d5",
+            "watermark": "mirran"
         },
         {
             "artist": "Jaime Jones",
@@ -4137,7 +5346,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4150,6 +5361,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{B}",
+            "mtgoFoilId": 40323,
+            "mtgoId": 40322,
             "name": "Spread the Sickness",
             "number": "79",
             "printings": [
@@ -4178,7 +5391,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "48b8115d-6939-5174-b787-55d66de2ae6b"
+            "uuid": "48b8115d-6939-5174-b787-55d66de2ae6b",
+            "watermark": "phyrexian"
         },
         {
             "artist": "David Day",
@@ -4191,7 +5405,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4204,6 +5420,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}",
+            "mtgoFoilId": 40393,
+            "mtgoId": 40392,
             "name": "Steel Wall",
             "number": "3",
             "power": "0",
@@ -4228,10 +5446,11 @@
                 "Artifact",
                 "Creature"
             ],
-            "uuid": "f396f55c-9fec-53ea-be10-4e78c21d0f86"
+            "uuid": "f396f55c-9fec-53ea-be10-4e78c21d0f86",
+            "watermark": "mirran"
         },
         {
-            "artist": "Tim Hildebrandt",
+            "artist": "Greg Hildebrandt",
             "borderColor": "black",
             "colorIdentity": [
                 "W"
@@ -4245,7 +5464,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4256,6 +5477,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}",
+            "mtgoFoilId": 40429,
+            "mtgoId": 40428,
             "name": "Steelshaper's Gift",
             "number": "24",
             "printings": [
@@ -4274,7 +5497,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "ad1922dc-74a2-5354-ac79-e9c0d5be9f83"
+            "uuid": "ad1922dc-74a2-5354-ac79-e9c0d5be9f83",
+            "watermark": "mirran"
         },
         {
             "artist": "Chris Rahn",
@@ -4291,7 +5515,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4304,6 +5530,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{U}",
+            "mtgoFoilId": 40267,
+            "mtgoId": 40266,
             "name": "Stoic Rebuttal",
             "number": "34",
             "printings": [
@@ -4332,7 +5560,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "db02fe1f-0050-5f6c-85dd-8d11a07e98f4"
+            "uuid": "db02fe1f-0050-5f6c-85dd-8d11a07e98f4",
+            "watermark": "mirran"
         },
         {
             "artist": "Lars Grant-West",
@@ -4346,7 +5575,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4361,20 +5592,47 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40335,
+            "mtgoId": 40334,
             "name": "Swamp",
             "number": "83",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDD",
+                "DDE",
+                "DDH",
                 "DDJ",
                 "DDK",
                 "DDM",
@@ -4382,10 +5640,13 @@
                 "DDP",
                 "DDQ",
                 "DDR",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -4393,32 +5654,104 @@
                 "GNT",
                 "GRN",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PD3",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PHUK",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -4454,7 +5787,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4469,20 +5804,47 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40319,
+            "mtgoId": 40318,
             "name": "Swamp",
             "number": "84",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDD",
+                "DDE",
+                "DDH",
                 "DDJ",
                 "DDK",
                 "DDM",
@@ -4490,10 +5852,13 @@
                 "DDP",
                 "DDQ",
                 "DDR",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -4501,32 +5866,104 @@
                 "GNT",
                 "GRN",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PD3",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PHUK",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -4562,7 +5999,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4577,20 +6016,47 @@
                 "standard": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40317,
+            "mtgoId": 40316,
             "name": "Swamp",
             "number": "85",
             "printings": [
+                "10E",
+                "2ED",
+                "3ED",
+                "4BB",
+                "4ED",
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
                 "AKH",
+                "ALA",
+                "ARC",
+                "ATH",
+                "AVR",
                 "BBD",
                 "BFZ",
+                "BRB",
+                "BTD",
                 "C13",
                 "C14",
                 "C15",
                 "C16",
                 "C17",
                 "C18",
+                "CED",
+                "CEI",
+                "CHK",
                 "CM2",
                 "CMA",
+                "CMD",
+                "CST",
+                "DDC",
+                "DDD",
+                "DDE",
+                "DDH",
                 "DDJ",
                 "DDK",
                 "DDM",
@@ -4598,10 +6064,13 @@
                 "DDP",
                 "DDQ",
                 "DDR",
+                "DKM",
                 "DOM",
+                "DPA",
                 "DTK",
                 "DVD",
                 "E01",
+                "FBB",
                 "FRF",
                 "G17",
                 "GK1",
@@ -4609,32 +6078,104 @@
                 "GNT",
                 "GRN",
                 "GVL",
+                "H09",
+                "HOP",
                 "HOU",
+                "ICE",
+                "INV",
+                "ISD",
+                "ITP",
                 "J14",
                 "KLD",
                 "KTK",
+                "LEA",
+                "LEB",
+                "LRW",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
                 "M14",
                 "M15",
                 "M19",
+                "M20",
+                "MBS",
                 "MD1",
+                "ME1",
+                "ME3",
+                "MIR",
+                "MMQ",
+                "MRD",
+                "NPH",
+                "ODY",
+                "ONS",
                 "ORI",
+                "P02",
+                "PAL00",
+                "PAL01",
+                "PAL03",
+                "PAL04",
+                "PAL05",
+                "PAL06",
+                "PAL99",
+                "PALP",
+                "PARL",
+                "PC2",
                 "PCA",
+                "PD3",
+                "PELP",
                 "PF19",
                 "PGPX",
+                "PGRU",
+                "PHUK",
+                "PMPS",
+                "PMPS06",
+                "PMPS07",
+                "PMPS08",
+                "PMPS09",
+                "PMPS10",
+                "PMPS11",
+                "POR",
+                "PPP1",
                 "PRM",
                 "PRW2",
                 "PRWK",
+                "PS11",
+                "PSAL",
                 "PSS2",
                 "PSS3",
+                "PTC",
+                "PTK",
+                "RAV",
                 "RIX",
                 "RNA",
+                "ROE",
+                "RQS",
                 "RTR",
+                "S99",
+                "SHM",
                 "SOI",
+                "SOM",
+                "SUM",
+                "TD0",
+                "TD2",
                 "THS",
+                "TMP",
                 "TPR",
+                "TSP",
+                "UGL",
+                "UNH",
+                "USG",
                 "UST",
                 "WAR",
-                "XLN"
+                "WC01",
+                "WC02",
+                "WC03",
+                "WC97",
+                "WC98",
+                "WC99",
+                "XLN",
+                "ZEN"
             ],
             "rarity": "common",
             "rulings": [],
@@ -4672,7 +6213,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4684,6 +6227,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
+            "mtgoFoilId": 40355,
+            "mtgoId": 40354,
             "name": "Symbiotic Elf",
             "number": "59",
             "power": "2",
@@ -4706,7 +6251,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "727ff1df-55ea-5bc8-a9ca-570c7515981d"
+            "uuid": "727ff1df-55ea-5bc8-a9ca-570c7515981d",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Rob Alexander",
@@ -4721,7 +6267,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4730,6 +6278,8 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40349,
+            "mtgoId": 40348,
             "name": "Tainted Wood",
             "number": "82",
             "printings": [
@@ -4751,7 +6301,8 @@
             "types": [
                 "Land"
             ],
-            "uuid": "2a9468c5-9d5d-5e5c-b45c-9b34bfc87291"
+            "uuid": "2a9468c5-9d5d-5e5c-b45c-9b34bfc87291",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Mike Dringenberg",
@@ -4766,7 +6317,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4777,6 +6330,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40365,
+            "mtgoId": 40364,
             "name": "Talisman of Progress",
             "number": "26",
             "printings": [
@@ -4796,7 +6351,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "1b051f5a-6f15-5aba-acaf-01aa6f763b47"
+            "uuid": "1b051f5a-6f15-5aba-acaf-01aa6f763b47",
+            "watermark": "mirran"
         },
         {
             "artist": "Dan Scott",
@@ -4808,7 +6364,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4817,8 +6375,11 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 40459,
+            "mtgoId": 40458,
             "name": "Terramorphic Expanse",
             "number": "41",
             "printings": [
@@ -4862,7 +6423,8 @@
             "types": [
                 "Land"
             ],
-            "uuid": "632d4bc5-c037-53b1-be61-25e96641aac3"
+            "uuid": "632d4bc5-c037-53b1-be61-25e96641aac3",
+            "watermark": "mirran"
         },
         {
             "artist": "Vance Kovacs",
@@ -4879,7 +6441,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4892,6 +6456,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgoFoilId": 40397,
+            "mtgoId": 40396,
             "name": "Test of Faith",
             "number": "29",
             "printings": [
@@ -4917,7 +6483,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "8550bc40-6608-5715-9f18-c1ff4923d12e"
+            "uuid": "8550bc40-6608-5715-9f18-c1ff4923d12e",
+            "watermark": "mirran"
         },
         {
             "artist": "Ben Thompson",
@@ -4934,7 +6501,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4945,6 +6514,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoFoilId": 40369,
+            "mtgoId": 40368,
             "name": "Thirst for Knowledge",
             "number": "33",
             "printings": [
@@ -4975,7 +6546,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "a7ce5ce8-ef2f-587b-943d-d95c5f047068"
+            "uuid": "a7ce5ce8-ef2f-587b-943d-d95c5f047068",
+            "watermark": "mirran"
         },
         {
             "artist": "Kaja Foglio",
@@ -4987,7 +6559,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4999,6 +6573,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgoFoilId": 40139,
+            "mtgoId": 40138,
             "name": "Thunderstaff",
             "number": "31",
             "printings": [
@@ -5025,7 +6601,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "de115b28-18b3-50d3-b8f0-a818cbda4082"
+            "uuid": "de115b28-18b3-50d3-b8f0-a818cbda4082",
+            "watermark": "mirran"
         },
         {
             "artist": "Scott Chou",
@@ -5041,7 +6618,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5050,10 +6629,11 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "pauper": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoFoilId": 40263,
+            "mtgoId": 40262,
             "name": "Trinket Mage",
             "number": "9",
             "power": "2",
@@ -5086,7 +6666,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "1a3486a1-17f1-5c7a-b33e-7efac714c2a2"
+            "uuid": "1a3486a1-17f1-5c7a-b33e-7efac714c2a2",
+            "watermark": "mirran"
         },
         {
             "artist": "Izzy",
@@ -5102,7 +6683,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5110,9 +6693,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgoFoilId": 40351,
+            "mtgoId": 40350,
             "name": "Triumph of the Hordes",
             "number": "78",
             "printings": [
@@ -5136,7 +6722,8 @@
             "types": [
                 "Sorcery"
             ],
-            "uuid": "e9ace4aa-905d-5fe5-8e9d-4a557362dc8f"
+            "uuid": "e9ace4aa-905d-5fe5-8e9d-4a557362dc8f",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Jason Felix",
@@ -5153,7 +6740,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5166,6 +6755,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
+            "mtgoFoilId": 40305,
+            "mtgoId": 40304,
             "name": "Turn the Tide",
             "number": "30",
             "printings": [
@@ -5190,7 +6781,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "ab37b8b1-34bd-5e54-b231-f505b04d9daf"
+            "uuid": "ab37b8b1-34bd-5e54-b231-f505b04d9daf",
+            "watermark": "mirran"
         },
         {
             "artist": "Karl Kopinski",
@@ -5207,7 +6799,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5220,6 +6814,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{U}",
+            "mtgoFoilId": 40259,
+            "mtgoId": 40258,
             "name": "Vedalken Certarch",
             "number": "5",
             "power": "1",
@@ -5243,7 +6839,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "bb41577a-4b69-52e7-b247-14b7c5f7593d"
+            "uuid": "bb41577a-4b69-52e7-b247-14b7c5f7593d",
+            "watermark": "mirran"
         },
         {
             "artist": "Marc Simonetti",
@@ -5256,7 +6853,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5268,6 +6867,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoFoilId": 40283,
+            "mtgoId": 40282,
             "name": "Viridian Claw",
             "number": "27",
             "printings": [
@@ -5288,7 +6889,8 @@
             "types": [
                 "Artifact"
             ],
-            "uuid": "b8d59cff-60af-5d2d-b55e-bfaacd93bed0"
+            "uuid": "b8d59cff-60af-5d2d-b55e-bfaacd93bed0",
+            "watermark": "mirran"
         },
         {
             "artist": "Matt Cavotta",
@@ -5304,7 +6906,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5316,6 +6920,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{G}",
+            "mtgoFoilId": 40295,
+            "mtgoId": 40294,
             "name": "Viridian Corrupter",
             "number": "56",
             "power": "2",
@@ -5348,7 +6954,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "ff3dc3b5-dc01-5163-b81e-37a9cfa26e33"
+            "uuid": "ff3dc3b5-dc01-5163-b81e-37a9cfa26e33",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Matt Stewart",
@@ -5364,7 +6971,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5377,6 +6986,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoFoilId": 40287,
+            "mtgoId": 40286,
             "name": "Viridian Emissary",
             "number": "52",
             "power": "2",
@@ -5404,7 +7015,8 @@
             "types": [
                 "Creature"
             ],
-            "uuid": "def0566a-838a-507e-8439-40603ac6811d"
+            "uuid": "def0566a-838a-507e-8439-40603ac6811d",
+            "watermark": "phyrexian"
         },
         {
             "artist": "Mike Bierek",
@@ -5421,7 +7033,9 @@
             "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5433,6 +7047,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{X}{W}{W}{W}",
+            "mtgoFoilId": 40321,
+            "mtgoId": 40320,
             "name": "White Sun's Zenith",
             "number": "35",
             "printings": [
@@ -5458,7 +7074,8 @@
             "types": [
                 "Instant"
             ],
-            "uuid": "53000cf2-32fa-59a4-a65b-dcbe982cddaa"
+            "uuid": "53000cf2-32fa-59a4-a65b-dcbe982cddaa",
+            "watermark": "mirran"
         }
     ],
     "code": "TD2",
@@ -5466,9 +7083,9 @@
     "isOnlineOnly": true,
     "keyruneCode": "TD2",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "mtgoCode": "TD2",
     "name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",

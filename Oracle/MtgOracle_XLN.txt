@@ -1126,9 +1126,9 @@ When Dreamcaller Siren enters the battlefield, if you control another Pirate, ta
 <Name>Jace, Cunning Castaway</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>[+1]: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
-[-2]: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
-[-5]: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
+<CardText>+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
+-2: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
+-5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>435212</Multiverseid>
 <Rulings>2017/09/29: The delayed triggered ability created by Jace's first ability can trigger more than once in a turn if creatures you control deal combat damage at different times in a turn (most likely because one or more has first strike) or if creatures you control deal combat damage to more than one player at once.
@@ -4345,8 +4345,8 @@ Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many
 <Name>Huatli, Warrior Poet</Name>
 <Type>Legendary Planeswalker — Huatli (Loyalty: 3)</Type>
 <ManaCost>3RW (5)</ManaCost>
-<CardText>[+2]: You gain life equal to the greatest power among creatures you control.
-[0]: Create a 3/3 green Dinosaur creature token with trample.
+<CardText>+2: You gain life equal to the greatest power among creatures you control.
+0: Create a 3/3 green Dinosaur creature token with trample.
 -X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Multiverseid>435380</Multiverseid>
@@ -4500,9 +4500,9 @@ When Tishana enters the battlefield, draw a card for each creature you control.<
 <Name>Vraska, Relic Seeker</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 6)</Type>
 <ManaCost>4BG (6)</ManaCost>
-<CardText>[+2]: Create a 2/2 black Pirate creature token with menace.
-[-3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
-[-10]: Target player's life total becomes 1.</CardText>
+<CardText>+2: Create a 2/2 black Pirate creature token with menace.
+-3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+-10: Target player's life total becomes 1.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>435388</Multiverseid>
 <Rulings>2017/09/29: If the target artifact, creature, or enchantment is an illegal target by the time Vraska's second ability resolves, the entire ability doesn't resolve. You won't get a Treasure. If, on the other hand, the target is a legal target but isn't destroyed (most likely because it has indestructible), you will get a Treasure.
@@ -5537,9 +5537,9 @@ Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
 <Name>Jace, Ingenious Mind-Mage</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+1]: Draw a card.
-[+1]: Untap all creatures you control.
-[-9]: Gain control of up to three target creatures.</CardText>
+<CardText>+1: Draw a card.
++1: Untap all creatures you control.
+-9: Gain control of up to three target creatures.</CardText>
 <Artist>Clint Cearley</Artist>
 <Multiverseid>435441</Multiverseid>
 <Rulings>2017/09/29: The control-change effect of Jace's last ability lasts indefinitely. It doesn't wear off during the cleanup step or when you lose control of Jace.
@@ -5628,9 +5628,9 @@ Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage,
 <Name>Huatli, Dinosaur Knight</Name>
 <Type>Legendary Planeswalker — Huatli (Loyalty: 4)</Type>
 <ManaCost>4RW (6)</ManaCost>
-<CardText>[+2]: Put two +1/+1 counters on up to one target Dinosaur you control.
-[-3]: Target Dinosaur you control deals damage equal to its power to target creature you don't control.
-[-7]: Dinosaurs you control get +4/+4 until end of turn.</CardText>
+<CardText>+2: Put two +1/+1 counters on up to one target Dinosaur you control.
+-3: Target Dinosaur you control deals damage equal to its power to target creature you don't control.
+-7: Dinosaurs you control get +4/+4 until end of turn.</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>435446</Multiverseid>
 <Rulings>2017/09/29: If either creature is an illegal target as Huatli's second ability resolves, the creature you control won't deal damage.

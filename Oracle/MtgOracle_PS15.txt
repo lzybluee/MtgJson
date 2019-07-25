@@ -4,9 +4,9 @@
 <Name>Gideon, Battle-Forged</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
 <ColorIndicator>White</ColorIndicator>
-<CardText>[+2]: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
-[+1]: Until your next turn, target creature gains indestructible. Untap that creature.
-[0]: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<CardText>+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
++1: Until your next turn, target creature gains indestructible. Untap that creature.
+0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
 2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
@@ -77,9 +77,9 @@
 <Name>Jace, Telepath Unbound</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
 <ColorIndicator>Blue</ColorIndicator>
-<CardText>[+1]: Up to one target creature gets -2/-0 until your next turn.
-[-3]: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
-[-9]: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
+<CardText>+1: Up to one target creature gets -2/-0 until your next turn.
+-3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
+-9: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Rulings>2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
 2015/06/22: A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal.
@@ -145,9 +145,9 @@
 <Name>Liliana, Defiant Necromancer</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ColorIndicator>Black</ColorIndicator>
-<CardText>[+2]: Each player discards a card.
+<CardText>+2: Each player discards a card.
 -X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.
-[-8]: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
+-8: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
 2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
@@ -206,9 +206,9 @@ Whenever another nontoken creature you control dies, exile Liliana, Heretical He
 <Name>Chandra, Roaring Flame</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ColorIndicator>Red</ColorIndicator>
-<CardText>[+1]: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
-[-2]: Chandra, Roaring Flame deals 2 damage to target creature.
-[-7]: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
+<CardText>+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
+-2: Chandra, Roaring Flame deals 2 damage to target creature.
+-7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Rulings>2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
 2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
@@ -273,9 +273,9 @@ Whenever another nontoken creature you control dies, exile Liliana, Heretical He
 <Name>Nissa, Sage Animist</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ColorIndicator>Green</ColorIndicator>
-<CardText>[+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
-[-2]: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.
-[-7]: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
+<CardText>+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+-2: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.
+-7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
 2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.

@@ -2971,9 +2971,9 @@ When World Shaper dies, put all land cards from your graveyard onto the battlefi
 <Name>Angrath, the Flame-Chained</Name>
 <Type>Legendary Planeswalker — Angrath (Loyalty: 4)</Type>
 <ManaCost>3BR (5)</ManaCost>
-<CardText>[+1]: Each opponent discards a card and loses 2 life.
-[-3]: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less.
-[-8]: Each opponent loses life equal to the number of cards in their graveyard.</CardText>
+<CardText>+1: Each opponent discards a card and loses 2 life.
+-3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less.
+-8: Each opponent loses life equal to the number of cards in their graveyard.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>439809</Multiverseid>
 <Rulings>2018/01/19: Angrath's first ability causes each opponent to lose 2 life even if some or all of those players were unable to discard a card.
@@ -3134,9 +3134,9 @@ When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, wher
 <Name>Huatli, Radiant Champion</Name>
 <Type>Legendary Planeswalker — Huatli (Loyalty: 3)</Type>
 <ManaCost>2GW (4)</ManaCost>
-<CardText>[+1]: Put a loyalty counter on Huatli, Radiant Champion for each creature you control.
-[-1]: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
-[-8]: You get an emblem with "Whenever a creature enters the battlefield under your control, you may draw a card."</CardText>
+<CardText>+1: Put a loyalty counter on Huatli, Radiant Champion for each creature you control.
+-1: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+-8: You get an emblem with "Whenever a creature enters the battlefield under your control, you may draw a card."</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>439817</Multiverseid>
 <Rulings>2018/01/19: If you activate Huatli's first ability while you control no creatures, she'll get one loyalty counter from the ability's activation cost and no others as it resolves.
@@ -4025,9 +4025,9 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Vraska, Scheming Gorgon</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 5)</Type>
 <ManaCost>4BB (6)</ManaCost>
-<CardText>[+2]: Creatures you control get +1/+0 until end of turn.
-[-3]: Destroy target creature.
-[-10]: Until end of turn, creatures you control gain deathtouch and "Whenever this creature deals damage to an opponent, that player loses the game."</CardText>
+<CardText>+2: Creatures you control get +1/+0 until end of turn.
+-3: Destroy target creature.
+-10: Until end of turn, creatures you control gain deathtouch and "Whenever this creature deals damage to an opponent, that player loses the game."</CardText>
 <Artist>Grzegorz Rutkowski</Artist>
 <Multiverseid>441891</Multiverseid>
 <Rulings>2018/01/19: Vraska's first and last abilities affect only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't get +1/+0 or gain abilities.
@@ -4095,9 +4095,9 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 <Name>Angrath, Minotaur Pirate</Name>
 <Type>Legendary Planeswalker — Angrath (Loyalty: 5)</Type>
 <ManaCost>4BR (6)</ManaCost>
-<CardText>[+2]: Angrath, Minotaur Pirate deals 1 damage to target opponent or planeswalker and each creature that player or that planeswalker's controller controls.
-[-3]: Return target Pirate card from your graveyard to the battlefield.
-[-11]: Destroy all creatures target opponent controls. Angrath, Minotaur Pirate deals damage to that player equal to their total power.</CardText>
+<CardText>+2: Angrath, Minotaur Pirate deals 1 damage to target opponent or planeswalker and each creature that player or that planeswalker's controller controls.
+-3: Return target Pirate card from your graveyard to the battlefield.
+-11: Destroy all creatures target opponent controls. Angrath, Minotaur Pirate deals damage to that player equal to their total power.</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>441895</Multiverseid>
 <Rulings>2018/01/19: Angrath's first and last abilities target only the player. Creatures with hexproof that player controls will be affected.

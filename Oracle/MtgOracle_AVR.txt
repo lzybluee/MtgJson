@@ -1508,9 +1508,9 @@ As long as Stern Mentor is paired with another creature, each of those creatures
 <Name>Tamiyo, the Moon Sage</Name>
 <Type>Legendary Planeswalker — Tamiyo (Loyalty: 4)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>[+1]: Tap target permanent. It doesn't untap during its controller's next untap step.
-[-2]: Draw a card for each tapped creature target player controls.
-[-8]: You get an emblem with "You have no maximum hand size" and "Whenever a card is put into your graveyard from anywhere, you may return it to your hand."</CardText>
+<CardText>+1: Tap target permanent. It doesn't untap during its controller's next untap step.
+-2: Draw a card for each tapped creature target player controls.
+-8: You get an emblem with "You have no maximum hand size" and "Whenever a card is put into your graveyard from anywhere, you may return it to your hand."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>240070</Multiverseid>
 <Rulings>2012/05/01: Tamiyo's first ability tracks the permanent, but not its controller. If the permanent changes controllers before its first controller's next untap step has come around, then it won't untap during its new controller's next untap step.
@@ -3041,9 +3041,9 @@ Miracle {R} (You may cast this card for its miracle cost when you draw it if it'
 <Name>Tibalt, the Fiend-Blooded</Name>
 <Type>Legendary Planeswalker — Tibalt (Loyalty: 2)</Type>
 <ManaCost>RR (2)</ManaCost>
-<CardText>[+1]: Draw a card, then discard a card at random.
-[-4]: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
-[-6]: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.</CardText>
+<CardText>+1: Draw a card, then discard a card at random.
+-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
+-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.</CardText>
 <Artist>Peter Mohrbacher</Artist>
 <Multiverseid>276497</Multiverseid>
 <Rulings>2012/05/01: The number of cards in the target player's hand is determined when Tibalt's second ability resolves.

@@ -4,9 +4,9 @@
 <Name>Ajani Steadfast</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>3W (4)</ManaCost>
-<CardText>[+1]: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.
-[-2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
-[-7]: You get an emblem with "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage."</CardText>
+<CardText>+1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.
+-2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
+-7: You get an emblem with "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage."</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>383180</Multiverseid>
 <Rulings>2014/07/18: You may activate the first ability with no targets. If you do, you simply put a loyalty counter on Ajani to pay the cost of the ability.
@@ -1223,9 +1223,9 @@ Enchanted creature can't be blocked except by Walls.</CardText>
 <Name>Jace, the Living Guildpact</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
 <ManaCost>2UU (4)</ManaCost>
-<CardText>[+1]: Look at the top two cards of your library. Put one of them into your graveyard.
-[-3]: Return another target nonland permanent to its owner's hand.
-[-8]: Each player shuffles their hand and graveyard into their library. You draw seven cards.</CardText>
+<CardText>+1: Look at the top two cards of your library. Put one of them into your graveyard.
+-3: Return another target nonland permanent to its owner's hand.
+-8: Each player shuffles their hand and graveyard into their library. You draw seven cards.</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>383285</Multiverseid>
 <Rulings>2014/07/18: When the first ability resolves, the card you don't put into your graveyard stays on top of your library.
@@ -2021,9 +2021,9 @@ At the beginning of your upkeep, draw a card unless target opponent sacrifices a
 <Name>Liliana Vess</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+1]: Target player discards a card.
-[-2]: Search your library for a card, then shuffle your library and put that card on top of it.
-[-8]: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
+<CardText>+1: Target player discards a card.
+-2: Search your library for a card, then shuffle your library and put that card on top of it.
+-8: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>383300</Multiverseid>
 <Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
@@ -2606,9 +2606,9 @@ Enchanted creature has "{T}: This creature deals damage equal to its power to an
 <Name>Chandra, Pyromaster</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
-[0]: Exile the top card of your library. You may play it this turn.
-[-7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
 <Artist>Winona Nelson</Artist>
 <Multiverseid>383204</Multiverseid>
 <Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
@@ -3626,9 +3626,9 @@ Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +
 <Name>Nissa, Worldwaker</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+1]: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
-[+1]: Untap up to four target Forests.
-[-7]: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
+<CardText>+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
++1: Untap up to four target Forests.
+-7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
 <Artist>Peter Mohrbacher</Artist>
 <Multiverseid>383328</Multiverseid>
 <Rulings>2014/07/18: The type-changing effects of the first and third abilities don't have a duration. They last indefinitely.
@@ -4064,10 +4064,10 @@ Enchanted creature gets +1/+1.
 <Name>Garruk, Apex Predator</Name>
 <Type>Legendary Planeswalker — Garruk (Loyalty: 5)</Type>
 <ManaCost>5BG (7)</ManaCost>
-<CardText>[+1]: Destroy another target planeswalker.
-[+1]: Create a 3/3 black Beast creature token with deathtouch.
-[-3]: Destroy target creature. You gain life equal to its toughness.
-[-8]: Target opponent gets an emblem with "Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn."</CardText>
+<CardText>+1: Destroy another target planeswalker.
++1: Create a 3/3 black Beast creature token with deathtouch.
+-3: Destroy target creature. You gain life equal to its toughness.
+-8: Target opponent gets an emblem with "Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn."</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Multiverseid>383251</Multiverseid>
 <Rulings>2014/07/18: The first ability can target and destroy a Garruk planeswalker controlled by another player.

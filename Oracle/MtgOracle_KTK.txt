@@ -2550,9 +2550,9 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 <Name>Sarkhan, the Dragonspeaker</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 4)</Type>
 <ManaCost>3RR (5)</ManaCost>
-<CardText>[+1]: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)
-[-3]: Sarkhan, the Dragonspeaker deals 4 damage to target creature.
-[-6]: You get an emblem with "At the beginning of your draw step, draw two additional cards" and "At the beginning of your end step, discard your hand."</CardText>
+<CardText>+1: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)
+-3: Sarkhan, the Dragonspeaker deals 4 damage to target creature.
+-6: You get an emblem with "At the beginning of your draw step, draw two additional cards" and "At the beginning of your end step, discard your hand."</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>386650</Multiverseid>
 <Rulings>2014/09/20: If <Sarkhan, the Dragonspeaker> becomes a creature due to his first ability, that doesn't count as having a creature enter the battlefield. Sarkhan was already on the battlefield; he only changed his types. Abilities that trigger whenever a creature enters the battlefield won't trigger.
@@ -4299,9 +4299,9 @@ Morph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. 
 <Name>Sorin, Solemn Visitor</Name>
 <Type>Legendary Planeswalker — Sorin (Loyalty: 4)</Type>
 <ManaCost>2WB (4)</ManaCost>
-<CardText>[+1]: Until your next turn, creatures you control get +1/+0 and gain lifelink.
-[-2]: Create a 2/2 black Vampire creature token with flying.
-[-6]: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."</CardText>
+<CardText>+1: Until your next turn, creatures you control get +1/+0 and gain lifelink.
+-2: Create a 2/2 black Vampire creature token with flying.
+-6: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."</CardText>
 <Artist>Cynthia Sheppard</Artist>
 <Multiverseid>386672</Multiverseid>
 <Rulings>2014/09/20: Only creatures you control as the first ability resolves will get the bonuses. Creatures you come to control after that happens will not.

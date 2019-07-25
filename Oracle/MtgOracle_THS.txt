@@ -172,9 +172,9 @@ Enchanted creature gets +0/+2.</CardText>
 <Name>Elspeth, Sun's Champion</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>4WW (6)</ManaCost>
-<CardText>[+1]: Create three 1/1 white Soldier creature tokens.
-[-3]: Destroy all creatures with power 4 or greater.
-[-7]: You get an emblem with "Creatures you control get +2/+2 and have flying."</CardText>
+<CardText>+1: Create three 1/1 white Soldier creature tokens.
+-3: Destroy all creatures with power 4 or greater.
+-7: You get an emblem with "Creatures you control get +2/+2 and have flying."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>373649</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3800,9 +3800,9 @@ When Ashen Rider enters the battlefield or dies, exile target permanent.</CardTe
 <Name>Ashiok, Nightmare Weaver</Name>
 <Type>Legendary Planeswalker — Ashiok (Loyalty: 3)</Type>
 <ManaCost>1UB (3)</ManaCost>
-<CardText>[+2]: Exile the top three cards of target opponent's library.
+<CardText>+2: Exile the top three cards of target opponent's library.
 -X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
-[-10]: Exile all cards from all opponents' hands and graveyards.</CardText>
+-10: Exile all cards from all opponents' hands and graveyards.</CardText>
 <Artist>Karla Ortiz</Artist>
 <Multiverseid>373500</Multiverseid>
 <Rulings>2013/09/15: Ashiok's second ability refers to any creature card exiled because of Ashiok's first or third ability.
@@ -4220,9 +4220,9 @@ When Underworld Cerberus dies, exile it and each player returns all creature car
 <Name>Xenagos, the Reveler</Name>
 <Type>Legendary Planeswalker — Xenagos (Loyalty: 3)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>[+1]: Add X mana in any combination of {R} and/or {G}, where X is the number of creatures you control.
-[0]: Create a 2/2 red and green Satyr creature token with haste.
-[-6]: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.</CardText>
+<CardText>+1: Add X mana in any combination of {R} and/or {G}, where X is the number of creatures you control.
+0: Create a 2/2 red and green Satyr creature token with haste.
+-6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>373502</Multiverseid>
 <Rulings>2013/09/15: Xenagos's first ability isn't a mana ability. It uses the stack and can be responded to. Count the number of creatures you control as the ability resolves to determine how much mana to add. You choose how much of that mana is red and how much is green at that time.

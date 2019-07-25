@@ -11,6 +11,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -19,6 +22,8 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70550,
+            "mtgoId": 70549,
             "mtgstocksId": 47172,
             "multiverseId": 457135,
             "name": "Ancient Tomb",
@@ -26,23 +31,21 @@
             "originalText": "{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 139.0,
-                    "2019-01-30": 137.0,
-                    "2019-02-06": 135.0,
-                    "2019-02-13": 130.0,
-                    "2019-02-20": 128.5,
-                    "2019-02-27": 125.86,
-                    "2019-03-06": 120.2,
-                    "2019-03-13": 120.0,
-                    "2019-03-20": 119.91,
-                    "2019-03-27": 116.3,
-                    "2019-04-03": 118.8,
-                    "2019-04-10": 115.0,
-                    "2019-04-17": 115.48,
-                    "2019-04-24": 115.89,
-                    "2019-05-01": 117.41,
-                    "2019-05-08": 115.91
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 117.32,
+                    "2019-05-05": 115.48,
+                    "2019-05-12": 117.97,
+                    "2019-05-19": 118.13,
+                    "2019-05-26": 115.0,
+                    "2019-06-02": 109.99,
+                    "2019-06-09": 111.7,
+                    "2019-06-16": 110.0,
+                    "2019-06-23": 109.98,
+                    "2019-06-30": 110.46,
+                    "2019-07-07": 107.75,
+                    "2019-07-14": 105.01,
+                    "2019-07-21": 104.64
                 }
             },
             "printings": [
@@ -88,6 +91,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -98,6 +104,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{R}{R}",
+            "mtgoFoilId": 70322,
+            "mtgoId": 70321,
             "mtgstocksId": 47155,
             "multiverseId": 457118,
             "name": "Balefire Dragon",
@@ -106,23 +114,21 @@
             "originalType": "Creature — Dragon",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 48.0,
-                    "2019-01-30": 45.99,
-                    "2019-02-06": 46.49,
-                    "2019-02-13": 46.49,
-                    "2019-02-20": 46.99,
-                    "2019-02-27": 46.49,
-                    "2019-03-06": 45.54,
-                    "2019-03-13": 45.0,
-                    "2019-03-20": 45.0,
-                    "2019-03-27": 42.7,
-                    "2019-04-03": 42.68,
-                    "2019-04-10": 42.34,
-                    "2019-04-17": 40.97,
-                    "2019-04-24": 40.84,
-                    "2019-05-01": 41.23,
-                    "2019-05-08": 40.84
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 40.53,
+                    "2019-05-05": 41.99,
+                    "2019-05-12": 41.54,
+                    "2019-05-19": 42.0,
+                    "2019-05-26": 41.09,
+                    "2019-06-02": 41.54,
+                    "2019-06-09": 42.62,
+                    "2019-06-16": 42.19,
+                    "2019-06-23": 42.76,
+                    "2019-06-30": 42.0,
+                    "2019-07-07": 43.0,
+                    "2019-07-14": 42.99,
+                    "2019-07-21": 42.62
                 }
             },
             "printings": [
@@ -172,6 +178,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -182,6 +191,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}",
+            "mtgoFoilId": 70244,
+            "mtgoId": 70243,
             "mtgstocksId": 47148,
             "multiverseId": 457111,
             "name": "Bitterblossom",
@@ -190,23 +201,21 @@
             "originalText": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.",
             "originalType": "Tribal Enchantment — Faerie",
             "prices": {
-                "paper": {
-                    "2019-01-23": 105.05,
-                    "2019-01-30": 104.02,
-                    "2019-02-06": 100.0,
-                    "2019-02-13": 100.0,
-                    "2019-02-20": 103.63,
-                    "2019-02-27": 104.18,
-                    "2019-03-06": 109.68,
-                    "2019-03-13": 106.89,
-                    "2019-03-20": 105.05,
-                    "2019-03-27": 103.18,
-                    "2019-04-03": 102.14,
-                    "2019-04-10": 102.58,
-                    "2019-04-17": 101.29,
-                    "2019-04-24": 102.58,
-                    "2019-05-01": 100.0,
-                    "2019-05-08": 100.66
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 102.58,
+                    "2019-05-05": 100.0,
+                    "2019-05-12": 102.45,
+                    "2019-05-19": 103.15,
+                    "2019-05-26": 103.15,
+                    "2019-06-02": 100.7,
+                    "2019-06-09": 101.29,
+                    "2019-06-16": 100.0,
+                    "2019-06-23": 103.58,
+                    "2019-06-30": 104.0,
+                    "2019-07-07": 104.39,
+                    "2019-07-14": 100.0,
+                    "2019-07-21": 112.63
                 }
             },
             "printings": [
@@ -259,6 +268,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -268,6 +280,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70552,
+            "mtgoId": 70551,
             "mtgstocksId": 47173,
             "multiverseId": 457136,
             "name": "Cavern of Souls",
@@ -275,23 +289,21 @@
             "originalText": "As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 224.99,
-                    "2019-01-30": 222.99,
-                    "2019-02-06": 227.5,
-                    "2019-02-13": 224.99,
-                    "2019-02-20": 224.99,
-                    "2019-02-27": 219.99,
-                    "2019-03-06": 222.09,
-                    "2019-03-13": 224.5,
-                    "2019-03-20": 219.99,
-                    "2019-03-27": 220.96,
-                    "2019-04-03": 224.89,
-                    "2019-04-10": 224.7,
-                    "2019-04-17": 224.5,
-                    "2019-04-24": 223.87,
-                    "2019-05-01": 223.28,
-                    "2019-05-08": 221.63
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 221.92,
+                    "2019-05-05": 220.96,
+                    "2019-05-12": 222.09,
+                    "2019-05-19": 224.5,
+                    "2019-05-26": 224.98,
+                    "2019-06-02": 224.98,
+                    "2019-06-09": 224.96,
+                    "2019-06-16": 224.99,
+                    "2019-06-23": 224.99,
+                    "2019-06-30": 226.52,
+                    "2019-07-07": 222.3,
+                    "2019-07-14": 227.37,
+                    "2019-07-21": 226.74
                 }
             },
             "printings": [
@@ -342,6 +354,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -351,6 +366,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70554,
+            "mtgoId": 70553,
             "mtgstocksId": 47174,
             "multiverseId": 457137,
             "name": "Celestial Colonnade",
@@ -358,23 +375,21 @@
             "originalText": "Celestial Colonnade enters the battlefield tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 83.93,
-                    "2019-01-30": 80.0,
-                    "2019-02-06": 80.0,
-                    "2019-02-13": 80.0,
-                    "2019-02-20": 80.0,
-                    "2019-02-27": 79.97,
-                    "2019-03-06": 79.39,
-                    "2019-03-13": 77.99,
-                    "2019-03-20": 75.0,
-                    "2019-03-27": 74.99,
-                    "2019-04-03": 74.86,
-                    "2019-04-10": 74.62,
-                    "2019-04-17": 73.01,
-                    "2019-04-24": 72.75,
-                    "2019-05-01": 72.61,
-                    "2019-05-08": 72.48
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 72.61,
+                    "2019-05-05": 72.49,
+                    "2019-05-12": 71.99,
+                    "2019-05-19": 70.63,
+                    "2019-05-26": 70.99,
+                    "2019-06-02": 69.99,
+                    "2019-06-09": 68.58,
+                    "2019-06-16": 67.61,
+                    "2019-06-23": 68.37,
+                    "2019-06-30": 68.96,
+                    "2019-07-07": 68.82,
+                    "2019-07-14": 69.99,
+                    "2019-07-21": 69.99
                 }
             },
             "printings": [
@@ -434,6 +449,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -443,6 +461,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70556,
+            "mtgoId": 70555,
             "mtgstocksId": 47175,
             "multiverseId": 457138,
             "name": "Creeping Tar Pit",
@@ -450,23 +470,21 @@
             "originalText": "Creeping Tar Pit enters the battlefield tapped.\n{T}: Add {U} or {B}.\n{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 45.1,
-                    "2019-01-30": 42.72,
-                    "2019-02-06": 43.47,
-                    "2019-02-13": 42.72,
-                    "2019-02-20": 43.99,
-                    "2019-02-27": 42.24,
-                    "2019-03-06": 42.24,
-                    "2019-03-13": 43.48,
-                    "2019-03-20": 42.8,
-                    "2019-03-27": 43.02,
-                    "2019-04-03": 42.95,
-                    "2019-04-10": 43.27,
-                    "2019-04-17": 43.02,
-                    "2019-04-24": 43.09,
-                    "2019-05-01": 43.19,
-                    "2019-05-08": 43.33
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 43.39,
+                    "2019-05-05": 43.14,
+                    "2019-05-12": 43.83,
+                    "2019-05-19": 43.67,
+                    "2019-05-26": 43.19,
+                    "2019-06-02": 43.0,
+                    "2019-06-09": 42.95,
+                    "2019-06-16": 43.05,
+                    "2019-06-23": 43.19,
+                    "2019-06-30": 43.51,
+                    "2019-07-07": 42.95,
+                    "2019-07-14": 42.98,
+                    "2019-07-21": 43.09
                 }
             },
             "printings": [
@@ -510,9 +528,13 @@
             "colors": [],
             "convertedManaCost": 0.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -522,6 +544,8 @@
                 "modern": "Banned",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70560,
+            "mtgoId": 70559,
             "mtgstocksId": 47176,
             "multiverseId": 457139,
             "name": "Dark Depths",
@@ -530,23 +554,21 @@
             "originalText": "Dark Depths enters the battlefield with ten ice counters on it.\n{3}: Remove an ice counter from Dark Depths.\nWhen Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.",
             "originalType": "Legendary Snow Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 131.18,
-                    "2019-01-30": 132.73,
-                    "2019-02-06": 133.11,
-                    "2019-02-13": 129.0,
-                    "2019-02-20": 128.25,
-                    "2019-02-27": 127.49,
-                    "2019-03-06": 120.57,
-                    "2019-03-13": 121.62,
-                    "2019-03-20": 120.74,
-                    "2019-03-27": 119.99,
-                    "2019-04-03": 119.99,
-                    "2019-04-10": 119.99,
-                    "2019-04-17": 120.2,
-                    "2019-04-24": 119.99,
-                    "2019-05-01": 119.99,
-                    "2019-05-08": 119.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 119.99,
+                    "2019-05-05": 119.99,
+                    "2019-05-12": 119.99,
+                    "2019-05-19": 115.1,
+                    "2019-05-26": 115.0,
+                    "2019-06-02": 118.49,
+                    "2019-06-09": 119.99,
+                    "2019-06-16": 115.0,
+                    "2019-06-23": 115.0,
+                    "2019-06-30": 119.99,
+                    "2019-07-07": 119.75,
+                    "2019-07-14": 116.46,
+                    "2019-07-21": 116.0
                 }
             },
             "printings": [
@@ -605,6 +627,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -614,6 +639,8 @@
                 "vintage": "Restricted"
             },
             "manaCost": "{1}{B}",
+            "mtgoFoilId": 70260,
+            "mtgoId": 70259,
             "mtgstocksId": 47149,
             "multiverseId": 457112,
             "name": "Demonic Tutor",
@@ -621,23 +648,21 @@
             "originalText": "Search your library for a card, put that card into your hand, then shuffle your library.",
             "originalType": "Sorcery",
             "prices": {
-                "paper": {
-                    "2019-01-23": 179.95,
-                    "2019-01-30": 179.92,
-                    "2019-02-06": 178.69,
-                    "2019-02-13": 174.99,
-                    "2019-02-20": 173.96,
-                    "2019-02-27": 166.46,
-                    "2019-03-06": 164.99,
-                    "2019-03-13": 164.99,
-                    "2019-03-20": 160.0,
-                    "2019-03-27": 159.72,
-                    "2019-04-03": 159.99,
-                    "2019-04-10": 159.5,
-                    "2019-04-17": 159.0,
-                    "2019-04-24": 158.91,
-                    "2019-05-01": 159.0,
-                    "2019-05-08": 154.03
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 159.5,
+                    "2019-05-05": 153.27,
+                    "2019-05-12": 158.86,
+                    "2019-05-19": 159.0,
+                    "2019-05-26": 150.4,
+                    "2019-06-02": 149.99,
+                    "2019-06-09": 149.99,
+                    "2019-06-16": 149.99,
+                    "2019-06-23": 150.0,
+                    "2019-06-30": 149.99,
+                    "2019-07-07": 149.99,
+                    "2019-07-14": 145.0,
+                    "2019-07-21": 148.14
                 }
             },
             "printings": [
@@ -698,9 +723,13 @@
             "colors": [],
             "convertedManaCost": 15.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -711,6 +740,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{15}",
+            "mtgoId": 70082,
             "mtgstocksId": 47142,
             "multiverseId": 457105,
             "name": "Emrakul, the Aeons Torn",
@@ -719,23 +749,21 @@
             "originalType": "Legendary Creature — Eldrazi",
             "power": "15",
             "prices": {
-                "paper": {
-                    "2019-01-23": 80.0,
-                    "2019-01-30": 79.99,
-                    "2019-02-06": 79.47,
-                    "2019-02-13": 74.5,
-                    "2019-02-20": 74.99,
-                    "2019-02-27": 74.0,
-                    "2019-03-06": 74.99,
-                    "2019-03-13": 74.99,
-                    "2019-03-20": 74.99,
-                    "2019-03-27": 74.0,
-                    "2019-04-03": 75.0,
-                    "2019-04-10": 79.0,
-                    "2019-04-17": 78.63,
-                    "2019-04-24": 76.7,
-                    "2019-05-01": 79.49,
-                    "2019-05-08": 78.75
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 79.0,
+                    "2019-05-05": 79.0,
+                    "2019-05-12": 76.62,
+                    "2019-05-19": 78.63,
+                    "2019-05-26": 75.0,
+                    "2019-06-02": 74.98,
+                    "2019-06-09": 74.97,
+                    "2019-06-16": 72.44,
+                    "2019-06-23": 74.99,
+                    "2019-06-30": 74.98,
+                    "2019-07-07": 69.99,
+                    "2019-07-14": 74.99,
+                    "2019-07-21": 78.51
                 }
             },
             "printings": [
@@ -807,6 +835,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -817,6 +848,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{X}",
+            "mtgoFoilId": 70532,
+            "mtgoId": 70531,
             "mtgstocksId": 47169,
             "multiverseId": 457132,
             "name": "Engineered Explosives",
@@ -824,23 +857,21 @@
             "originalText": "Sunburst\n{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.",
             "originalType": "Artifact",
             "prices": {
-                "paper": {
-                    "2019-01-23": 85.0,
-                    "2019-01-30": 84.49,
-                    "2019-02-06": 84.49,
-                    "2019-02-13": 81.23,
-                    "2019-02-20": 82.99,
-                    "2019-02-27": 80.0,
-                    "2019-03-06": 79.99,
-                    "2019-03-13": 81.11,
-                    "2019-03-20": 80.0,
-                    "2019-03-27": 79.99,
-                    "2019-04-03": 79.99,
-                    "2019-04-10": 79.99,
-                    "2019-04-17": 79.6,
-                    "2019-04-24": 79.99,
-                    "2019-05-01": 78.24,
-                    "2019-05-08": 77.09
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 79.8,
+                    "2019-05-05": 77.61,
+                    "2019-05-12": 78.0,
+                    "2019-05-19": 76.57,
+                    "2019-05-26": 74.4,
+                    "2019-06-02": 73.41,
+                    "2019-06-09": 72.04,
+                    "2019-06-16": 71.97,
+                    "2019-06-23": 69.99,
+                    "2019-06-30": 71.41,
+                    "2019-07-07": 69.99,
+                    "2019-07-14": 68.99,
+                    "2019-07-21": 68.99
                 }
             },
             "printings": [
@@ -901,6 +932,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -911,6 +945,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{G}",
+            "mtgoFoilId": 70400,
+            "mtgoId": 70399,
             "mtgstocksId": 47157,
             "multiverseId": 457120,
             "name": "Eternal Witness",
@@ -919,23 +955,21 @@
             "originalType": "Creature — Human Shaman",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 82.09,
-                    "2019-01-30": 82.67,
-                    "2019-02-06": 82.25,
-                    "2019-02-13": 79.1,
-                    "2019-02-20": 80.0,
-                    "2019-02-27": 74.33,
-                    "2019-03-06": 72.0,
-                    "2019-03-13": 74.61,
-                    "2019-03-20": 73.15,
-                    "2019-03-27": 72.99,
-                    "2019-04-03": 75.0,
-                    "2019-04-10": 74.66,
-                    "2019-04-17": 75.0,
-                    "2019-04-24": 74.99,
-                    "2019-05-01": 75.48,
-                    "2019-05-08": 74.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 74.98,
+                    "2019-05-05": 75.5,
+                    "2019-05-12": 76.0,
+                    "2019-05-19": 77.22,
+                    "2019-05-26": 78.6,
+                    "2019-06-02": 78.22,
+                    "2019-06-09": 78.87,
+                    "2019-06-16": 78.19,
+                    "2019-06-23": 78.57,
+                    "2019-06-30": 79.11,
+                    "2019-07-07": 77.22,
+                    "2019-07-14": 75.09,
+                    "2019-07-21": 74.99
                 }
             },
             "printings": [
@@ -999,6 +1033,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1009,6 +1046,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B/R}{B/R}",
+            "mtgoFoilId": 70504,
+            "mtgoId": 70503,
             "mtgstocksId": 47167,
             "multiverseId": 457130,
             "name": "Fulminator Mage",
@@ -1017,23 +1056,21 @@
             "originalType": "Creature — Elemental Shaman",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 55.25,
-                    "2019-01-30": 54.99,
-                    "2019-02-06": 54.99,
-                    "2019-02-13": 54.99,
-                    "2019-02-20": 55.25,
-                    "2019-02-27": 55.49,
-                    "2019-03-06": 55.0,
-                    "2019-03-13": 55.0,
-                    "2019-03-20": 51.99,
-                    "2019-03-27": 49.99,
-                    "2019-04-03": 46.23,
-                    "2019-04-10": 46.0,
-                    "2019-04-17": 45.81,
-                    "2019-04-24": 49.99,
-                    "2019-05-01": 49.74,
-                    "2019-05-08": 46.46
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 50.0,
+                    "2019-05-05": 48.98,
+                    "2019-05-12": 47.96,
+                    "2019-05-19": 47.48,
+                    "2019-05-26": 46.46,
+                    "2019-06-02": 46.23,
+                    "2019-06-09": 45.59,
+                    "2019-06-16": 45.0,
+                    "2019-06-23": 44.97,
+                    "2019-06-30": 44.99,
+                    "2019-07-07": 43.32,
+                    "2019-07-14": 44.68,
+                    "2019-07-21": 44.97
                 }
             },
             "printings": [
@@ -1068,7 +1105,7 @@
         },
         {
             "artist": "Greg Staples",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "G",
                 "W"
@@ -1079,9 +1116,13 @@
             ],
             "convertedManaCost": 2.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1092,6 +1133,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}{W}",
+            "mtgoFoilId": 70036,
+            "mtgoId": 70035,
             "mtgstocksId": 47162,
             "multiverseId": 457125,
             "name": "Gaddock Teeg",
@@ -1100,23 +1143,21 @@
             "originalType": "Legendary Creature — Kithkin Advisor",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 48.5,
-                    "2019-01-30": 48.48,
-                    "2019-02-06": 47.7,
-                    "2019-02-13": 45.0,
-                    "2019-02-20": 44.99,
-                    "2019-02-27": 44.47,
-                    "2019-03-06": 44.03,
-                    "2019-03-13": 43.68,
-                    "2019-03-20": 41.97,
-                    "2019-03-27": 40.53,
-                    "2019-04-03": 41.03,
-                    "2019-04-10": 40.54,
-                    "2019-04-17": 40.05,
-                    "2019-04-24": 40.0,
-                    "2019-05-01": 40.0,
-                    "2019-05-08": 39.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 40.0,
+                    "2019-05-05": 39.99,
+                    "2019-05-12": 40.0,
+                    "2019-05-19": 40.05,
+                    "2019-05-26": 40.0,
+                    "2019-06-02": 39.9,
+                    "2019-06-09": 39.95,
+                    "2019-06-16": 40.0,
+                    "2019-06-23": 38.0,
+                    "2019-06-30": 39.0,
+                    "2019-07-07": 37.99,
+                    "2019-07-14": 37.99,
+                    "2019-07-21": 37.98
                 }
             },
             "printings": [
@@ -1163,7 +1204,7 @@
         },
         {
             "artist": "Randy Vargas",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "B"
             ],
@@ -1175,6 +1216,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1185,6 +1229,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}",
+            "mtgoFoilId": 70012,
+            "mtgoId": 70011,
             "mtgstocksId": 47150,
             "multiverseId": 457113,
             "name": "Goryo's Vengeance",
@@ -1192,23 +1238,21 @@
             "originalText": "Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.\nSplice onto Arcane {2}{B}",
             "originalType": "Instant — Arcane",
             "prices": {
-                "paper": {
-                    "2019-01-23": 54.99,
-                    "2019-01-30": 54.99,
-                    "2019-02-06": 54.99,
-                    "2019-02-13": 50.99,
-                    "2019-02-20": 50.99,
-                    "2019-02-27": 49.99,
-                    "2019-03-06": 49.99,
-                    "2019-03-13": 49.28,
-                    "2019-03-20": 49.28,
-                    "2019-03-27": 44.99,
-                    "2019-04-03": 43.79,
-                    "2019-04-10": 41.7,
-                    "2019-04-17": 41.53,
-                    "2019-04-24": 41.54,
-                    "2019-05-01": 44.55,
-                    "2019-05-08": 43.61
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 44.18,
+                    "2019-05-05": 43.47,
+                    "2019-05-12": 44.99,
+                    "2019-05-19": 43.63,
+                    "2019-05-26": 41.7,
+                    "2019-06-02": 40.0,
+                    "2019-06-09": 39.99,
+                    "2019-06-16": 40.95,
+                    "2019-06-23": 40.95,
+                    "2019-06-30": 41.32,
+                    "2019-07-07": 39.09,
+                    "2019-07-14": 39.04,
+                    "2019-07-21": 37.57
                 }
             },
             "printings": [
@@ -1268,9 +1312,13 @@
             "colors": [],
             "convertedManaCost": 0.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1279,6 +1327,8 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70566,
+            "mtgoId": 70565,
             "mtgstocksId": 47177,
             "multiverseId": 457140,
             "name": "Karakas",
@@ -1286,23 +1336,21 @@
             "originalText": "{T}: Add {W}.\n{T}: Return target legendary creature to its owner's hand.",
             "originalType": "Legendary Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 73.39,
-                    "2019-01-30": 70.87,
-                    "2019-02-06": 70.0,
-                    "2019-02-13": 67.49,
-                    "2019-02-20": 65.03,
-                    "2019-02-27": 64.47,
-                    "2019-03-06": 61.09,
-                    "2019-03-13": 62.33,
-                    "2019-03-20": 60.11,
-                    "2019-03-27": 60.0,
-                    "2019-04-03": 60.0,
-                    "2019-04-10": 60.0,
-                    "2019-04-17": 60.05,
-                    "2019-04-24": 68.57,
-                    "2019-05-01": 68.0,
-                    "2019-05-08": 66.64
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 67.55,
+                    "2019-05-05": 67.55,
+                    "2019-05-12": 62.39,
+                    "2019-05-19": 63.97,
+                    "2019-05-26": 60.0,
+                    "2019-06-02": 60.0,
+                    "2019-06-09": 60.39,
+                    "2019-06-16": 61.93,
+                    "2019-06-23": 66.71,
+                    "2019-06-30": 67.16,
+                    "2019-07-07": 69.79,
+                    "2019-07-14": 70.02,
+                    "2019-07-21": 70.04
                 }
             },
             "printings": [
@@ -1339,7 +1387,7 @@
         },
         {
             "artist": "Jason Chan",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [],
             "colors": [],
             "convertedManaCost": 7.0,
@@ -1347,6 +1395,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1358,6 +1409,8 @@
             },
             "loyalty": "6",
             "manaCost": "{7}",
+            "mtgoFoilId": 69998,
+            "mtgoId": 69997,
             "mtgstocksId": 47143,
             "multiverseId": 457106,
             "name": "Karn Liberated",
@@ -1365,23 +1418,21 @@
             "originalText": "+4: Target player exiles a card from their hand.\n−3: Exile target permanent.\n−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.",
             "originalType": "Legendary Planeswalker — Karn",
             "prices": {
-                "paper": {
-                    "2019-01-23": 188.23,
-                    "2019-01-30": 179.99,
-                    "2019-02-06": 189.99,
-                    "2019-02-13": 181.88,
-                    "2019-02-20": 189.99,
-                    "2019-02-27": 187.49,
-                    "2019-03-06": 169.97,
-                    "2019-03-13": 164.99,
-                    "2019-03-20": 164.99,
-                    "2019-03-27": 164.99,
-                    "2019-04-03": 169.99,
-                    "2019-04-10": 169.99,
-                    "2019-04-17": 169.99,
-                    "2019-04-24": 169.99,
-                    "2019-05-01": 169.99,
-                    "2019-05-08": 172.47
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 169.04,
+                    "2019-05-05": 172.47,
+                    "2019-05-12": 172.47,
+                    "2019-05-19": 178.09,
+                    "2019-05-26": 183.6,
+                    "2019-06-02": 184.99,
+                    "2019-06-09": 181.5,
+                    "2019-06-16": 186.23,
+                    "2019-06-23": 182.99,
+                    "2019-06-30": 182.99,
+                    "2019-07-07": 180.75,
+                    "2019-07-14": 178.0,
+                    "2019-07-21": 179.99
                 }
             },
             "printings": [
@@ -1460,7 +1511,7 @@
             ],
             "tcgplayerProductId": 179449,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/14b7fef7938ec31f",
-            "text": "+4: Target player exiles a card from their hand.\n−3: Exile target permanent.\n−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.",
+            "text": "[+4]: Target player exiles a card from their hand.\n[−3]: Exile target permanent.\n[−14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.",
             "type": "Legendary Planeswalker — Karn",
             "types": [
                 "Planeswalker"
@@ -1483,6 +1534,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1493,6 +1547,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G/W}{G/W}",
+            "mtgoFoilId": 70506,
+            "mtgoId": 70505,
             "mtgstocksId": 47168,
             "multiverseId": 457131,
             "name": "Kitchen Finks",
@@ -1501,23 +1557,21 @@
             "originalType": "Creature — Ouphe",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 39.4,
-                    "2019-01-30": 38.95,
-                    "2019-02-06": 37.99,
-                    "2019-02-13": 37.98,
-                    "2019-02-20": 38.94,
-                    "2019-02-27": 37.99,
-                    "2019-03-06": 38.77,
-                    "2019-03-13": 37.92,
-                    "2019-03-20": 37.95,
-                    "2019-03-27": 36.03,
-                    "2019-04-03": 36.06,
-                    "2019-04-10": 35.47,
-                    "2019-04-17": 35.34,
-                    "2019-04-24": 35.23,
-                    "2019-05-01": 35.53,
-                    "2019-05-08": 35.18
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 35.35,
+                    "2019-05-05": 35.71,
+                    "2019-05-12": 34.99,
+                    "2019-05-19": 34.99,
+                    "2019-05-26": 34.99,
+                    "2019-06-02": 34.19,
+                    "2019-06-09": 34.29,
+                    "2019-06-16": 34.94,
+                    "2019-06-23": 34.99,
+                    "2019-06-30": 34.99,
+                    "2019-07-07": 33.88,
+                    "2019-07-14": 33.36,
+                    "2019-07-21": 33.97
                 }
             },
             "printings": [
@@ -1582,14 +1636,18 @@
         },
         {
             "artist": "Michael Komarck",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [],
             "colors": [],
             "convertedManaCost": 10.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1600,6 +1658,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{10}",
+            "mtgoFoilId": 70000,
+            "mtgoId": 69999,
             "mtgstocksId": 47144,
             "multiverseId": 457107,
             "name": "Kozilek, Butcher of Truth",
@@ -1608,23 +1668,21 @@
             "originalType": "Legendary Creature — Eldrazi",
             "power": "12",
             "prices": {
-                "paper": {
-                    "2019-01-23": 77.99,
-                    "2019-01-30": 78.0,
-                    "2019-02-06": 76.24,
-                    "2019-02-13": 74.99,
-                    "2019-02-20": 74.99,
-                    "2019-02-27": 74.0,
-                    "2019-03-06": 74.47,
-                    "2019-03-13": 74.94,
-                    "2019-03-20": 72.99,
-                    "2019-03-27": 70.89,
-                    "2019-04-03": 70.89,
-                    "2019-04-10": 70.69,
-                    "2019-04-17": 72.99,
-                    "2019-04-24": 70.95,
-                    "2019-05-01": 72.04,
-                    "2019-05-08": 71.45
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 71.09,
+                    "2019-05-05": 72.99,
+                    "2019-05-12": 72.99,
+                    "2019-05-19": 72.99,
+                    "2019-05-26": 73.25,
+                    "2019-06-02": 70.95,
+                    "2019-06-09": 70.48,
+                    "2019-06-16": 71.09,
+                    "2019-06-23": 70.95,
+                    "2019-06-30": 70.48,
+                    "2019-07-07": 70.0,
+                    "2019-07-14": 70.0,
+                    "2019-07-21": 70.0
                 }
             },
             "printings": [
@@ -1684,6 +1742,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1693,6 +1754,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70568,
+            "mtgoId": 70567,
             "mtgstocksId": 47178,
             "multiverseId": 457141,
             "name": "Lavaclaw Reaches",
@@ -1700,23 +1763,21 @@
             "originalText": "Lavaclaw Reaches enters the battlefield tapped.\n{T}: Add {B} or {R}.\n{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with \"{X}: This creature gets +X/+0 until end of turn.\" It's still a land.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 21.98,
-                    "2019-01-30": 22.9,
-                    "2019-02-06": 22.9,
-                    "2019-02-13": 21.74,
-                    "2019-02-20": 21.49,
-                    "2019-02-27": 20.95,
-                    "2019-03-06": 20.79,
-                    "2019-03-13": 20.97,
-                    "2019-03-20": 21.0,
-                    "2019-03-27": 20.95,
-                    "2019-04-03": 20.92,
-                    "2019-04-10": 20.97,
-                    "2019-04-17": 20.85,
-                    "2019-04-24": 20.9,
-                    "2019-05-01": 20.94,
-                    "2019-05-08": 20.85
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 20.94,
+                    "2019-05-05": 20.81,
+                    "2019-05-12": 20.94,
+                    "2019-05-19": 20.85,
+                    "2019-05-26": 20.19,
+                    "2019-06-02": 20.0,
+                    "2019-06-09": 19.99,
+                    "2019-06-16": 19.89,
+                    "2019-06-23": 19.99,
+                    "2019-06-30": 20.0,
+                    "2019-07-07": 19.99,
+                    "2019-07-14": 19.99,
+                    "2019-07-21": 19.97
                 }
             },
             "printings": [
@@ -1768,9 +1829,13 @@
             ],
             "convertedManaCost": 3.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1780,6 +1845,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}{G}{U}",
+            "mtgoFoilId": 70478,
+            "mtgoId": 70477,
             "mtgstocksId": 47163,
             "multiverseId": 457126,
             "name": "Leovold, Emissary of Trest",
@@ -1788,23 +1855,21 @@
             "originalType": "Legendary Creature — Elf Advisor",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 68.49,
-                    "2019-01-30": 66.9,
-                    "2019-02-06": 64.99,
-                    "2019-02-13": 64.99,
-                    "2019-02-20": 64.9,
-                    "2019-02-27": 63.62,
-                    "2019-03-06": 62.99,
-                    "2019-03-13": 63.11,
-                    "2019-03-20": 62.99,
-                    "2019-03-27": 60.0,
-                    "2019-04-03": 60.0,
-                    "2019-04-10": 60.0,
-                    "2019-04-17": 60.0,
-                    "2019-04-24": 59.9,
-                    "2019-05-01": 59.98,
-                    "2019-05-08": 59.41
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 59.98,
+                    "2019-05-05": 59.94,
+                    "2019-05-12": 58.9,
+                    "2019-05-19": 59.08,
+                    "2019-05-26": 56.5,
+                    "2019-06-02": 56.13,
+                    "2019-06-09": 55.49,
+                    "2019-06-16": 54.0,
+                    "2019-06-23": 54.0,
+                    "2019-06-30": 55.49,
+                    "2019-07-07": 52.99,
+                    "2019-07-14": 53.74,
+                    "2019-07-21": 54.81
                 }
             },
             "printings": [
@@ -1874,6 +1939,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1884,6 +1952,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoFoilId": 70418,
+            "mtgoId": 70417,
             "mtgstocksId": 47158,
             "multiverseId": 457121,
             "name": "Life from the Loam",
@@ -1891,23 +1961,21 @@
             "originalText": "Return up to three target land cards from your graveyard to your hand.\nDredge 3",
             "originalType": "Sorcery",
             "prices": {
-                "paper": {
-                    "2019-01-23": 92.98,
-                    "2019-01-30": 97.35,
-                    "2019-02-06": 92.5,
-                    "2019-02-13": 92.5,
-                    "2019-02-20": 93.71,
-                    "2019-02-27": 92.5,
-                    "2019-03-06": 90.0,
-                    "2019-03-13": 90.0,
-                    "2019-03-20": 91.25,
-                    "2019-03-27": 91.0,
-                    "2019-04-03": 90.0,
-                    "2019-04-10": 90.0,
-                    "2019-04-17": 90.0,
-                    "2019-04-24": 90.0,
-                    "2019-05-01": 90.0,
-                    "2019-05-08": 89.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 90.0,
+                    "2019-05-05": 89.99,
+                    "2019-05-12": 89.48,
+                    "2019-05-19": 89.0,
+                    "2019-05-26": 89.48,
+                    "2019-06-02": 99.99,
+                    "2019-06-09": 110.09,
+                    "2019-06-16": 110.0,
+                    "2019-06-23": 110.0,
+                    "2019-06-30": 109.95,
+                    "2019-07-07": 104.98,
+                    "2019-07-14": 109.95,
+                    "2019-07-21": 109.94
                 }
             },
             "printings": [
@@ -1965,6 +2033,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1976,6 +2047,8 @@
             },
             "loyalty": "3",
             "manaCost": "{1}{B}{B}",
+            "mtgoFoilId": 70014,
+            "mtgoId": 70013,
             "mtgstocksId": 47151,
             "multiverseId": 457114,
             "name": "Liliana of the Veil",
@@ -1983,23 +2056,21 @@
             "originalText": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.",
             "originalType": "Legendary Planeswalker — Liliana",
             "prices": {
-                "paper": {
-                    "2019-01-23": 295.42,
-                    "2019-01-30": 295.29,
-                    "2019-02-06": 299.99,
-                    "2019-02-13": 299.99,
-                    "2019-02-20": 299.99,
-                    "2019-02-27": 297.77,
-                    "2019-03-06": 299.95,
-                    "2019-03-13": 299.99,
-                    "2019-03-20": 299.99,
-                    "2019-03-27": 299.98,
-                    "2019-04-03": 299.99,
-                    "2019-04-10": 299.99,
-                    "2019-04-17": 299.99,
-                    "2019-04-24": 299.99,
-                    "2019-05-01": 299.99,
-                    "2019-05-08": 299.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 299.99,
+                    "2019-05-05": 299.99,
+                    "2019-05-12": 299.99,
+                    "2019-05-19": 299.99,
+                    "2019-05-26": 299.99,
+                    "2019-06-02": 299.99,
+                    "2019-06-09": 299.99,
+                    "2019-06-16": 299.48,
+                    "2019-06-23": 299.47,
+                    "2019-06-30": 299.97,
+                    "2019-07-07": 298.12,
+                    "2019-07-14": 294.99,
+                    "2019-07-21": 298.98
                 }
             },
             "printings": [
@@ -2044,7 +2115,7 @@
             ],
             "tcgplayerProductId": 179466,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/9eb67c29eb99ad59",
-            "text": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.",
+            "text": "[+1]: Each player discards a card.\n[−2]: Target player sacrifices a creature.\n[−6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -2067,6 +2138,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2077,6 +2151,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{G}",
+            "mtgoFoilId": 70040,
+            "mtgoId": 70039,
             "mtgstocksId": 47164,
             "multiverseId": 457127,
             "name": "Lord of Extinction",
@@ -2085,23 +2161,21 @@
             "originalType": "Creature — Elemental",
             "power": "*",
             "prices": {
-                "paper": {
-                    "2019-01-23": 29.96,
-                    "2019-01-30": 28.64,
-                    "2019-02-06": 28.49,
-                    "2019-02-13": 28.49,
-                    "2019-02-20": 28.0,
-                    "2019-02-27": 28.49,
-                    "2019-03-06": 28.0,
-                    "2019-03-13": 28.25,
-                    "2019-03-20": 27.52,
-                    "2019-03-27": 27.03,
-                    "2019-04-03": 26.78,
-                    "2019-04-10": 26.9,
-                    "2019-04-17": 26.13,
-                    "2019-04-24": 25.37,
-                    "2019-05-01": 25.73,
-                    "2019-05-08": 25.38
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 25.83,
+                    "2019-05-05": 25.99,
+                    "2019-05-12": 25.91,
+                    "2019-05-19": 25.83,
+                    "2019-05-26": 25.25,
+                    "2019-06-02": 25.99,
+                    "2019-06-09": 25.98,
+                    "2019-06-16": 25.1,
+                    "2019-06-23": 25.0,
+                    "2019-06-30": 25.0,
+                    "2019-07-07": 24.71,
+                    "2019-07-14": 24.63,
+                    "2019-07-21": 24.65
                 }
             },
             "printings": [
@@ -2144,7 +2218,7 @@
         },
         {
             "artist": "John Avon",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "B",
                 "G"
@@ -2159,6 +2233,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2169,6 +2246,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{G}",
+            "mtgoFoilId": 70482,
+            "mtgoId": 70481,
             "mtgstocksId": 47165,
             "multiverseId": 457128,
             "name": "Maelstrom Pulse",
@@ -2176,23 +2255,21 @@
             "originalText": "Destroy target nonland permanent and all other permanents with the same name as that permanent.",
             "originalType": "Sorcery",
             "prices": {
-                "paper": {
-                    "2019-01-23": 41.0,
-                    "2019-01-30": 40.08,
-                    "2019-02-06": 40.36,
-                    "2019-02-13": 39.99,
-                    "2019-02-20": 39.99,
-                    "2019-02-27": 38.43,
-                    "2019-03-06": 38.1,
-                    "2019-03-13": 38.35,
-                    "2019-03-20": 37.89,
-                    "2019-03-27": 36.92,
-                    "2019-04-03": 37.09,
-                    "2019-04-10": 36.99,
-                    "2019-04-17": 37.0,
-                    "2019-04-24": 36.62,
-                    "2019-05-01": 36.25,
-                    "2019-05-08": 35.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 36.62,
+                    "2019-05-05": 36.04,
+                    "2019-05-12": 35.99,
+                    "2019-05-19": 35.8,
+                    "2019-05-26": 35.05,
+                    "2019-06-02": 35.39,
+                    "2019-06-09": 35.09,
+                    "2019-06-16": 35.0,
+                    "2019-06-23": 34.99,
+                    "2019-06-30": 34.89,
+                    "2019-07-07": 32.99,
+                    "2019-07-14": 32.81,
+                    "2019-07-21": 32.99
                 }
             },
             "printings": [
@@ -2255,6 +2332,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2264,6 +2344,8 @@
                 "vintage": "Restricted"
             },
             "manaCost": "{1}",
+            "mtgoFoilId": 70536,
+            "mtgoId": 70535,
             "mtgstocksId": 47170,
             "multiverseId": 457133,
             "name": "Mana Vault",
@@ -2271,23 +2353,21 @@
             "originalText": "Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}.",
             "originalType": "Artifact",
             "prices": {
-                "paper": {
-                    "2019-01-23": 138.83,
-                    "2019-01-30": 135.99,
-                    "2019-02-06": 142.81,
-                    "2019-02-13": 140.3,
-                    "2019-02-20": 141.1,
-                    "2019-02-27": 139.47,
-                    "2019-03-06": 134.62,
-                    "2019-03-13": 135.99,
-                    "2019-03-20": 129.21,
-                    "2019-03-27": 121.65,
-                    "2019-04-03": 124.95,
-                    "2019-04-10": 126.9,
-                    "2019-04-17": 125.41,
-                    "2019-04-24": 124.73,
-                    "2019-05-01": 129.95,
-                    "2019-05-08": 128.62
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 125.32,
+                    "2019-05-05": 129.95,
+                    "2019-05-12": 125.99,
+                    "2019-05-19": 129.8,
+                    "2019-05-26": 124.99,
+                    "2019-06-02": 124.97,
+                    "2019-06-09": 125.0,
+                    "2019-06-16": 124.97,
+                    "2019-06-23": 125.0,
+                    "2019-06-30": 124.99,
+                    "2019-07-07": 124.99,
+                    "2019-07-14": 120.79,
+                    "2019-07-21": 120.0
                 }
             },
             "printings": [
@@ -2340,9 +2420,13 @@
             ],
             "convertedManaCost": 6.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2353,6 +2437,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{B}{B}",
+            "mtgoFoilId": 70016,
+            "mtgoId": 70015,
             "mtgstocksId": 47152,
             "multiverseId": 457115,
             "name": "Mikaeus, the Unhallowed",
@@ -2361,23 +2447,21 @@
             "originalType": "Legendary Creature — Zombie Cleric",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 67.0,
-                    "2019-01-30": 63.74,
-                    "2019-02-06": 63.99,
-                    "2019-02-13": 60.91,
-                    "2019-02-20": 59.62,
-                    "2019-02-27": 59.97,
-                    "2019-03-06": 60.0,
-                    "2019-03-13": 60.09,
-                    "2019-03-20": 59.11,
-                    "2019-03-27": 59.99,
-                    "2019-04-03": 58.06,
-                    "2019-04-10": 58.0,
-                    "2019-04-17": 58.03,
-                    "2019-04-24": 58.0,
-                    "2019-05-01": 57.05,
-                    "2019-05-08": 58.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 58.03,
+                    "2019-05-05": 56.99,
+                    "2019-05-12": 58.0,
+                    "2019-05-19": 58.0,
+                    "2019-05-26": 56.43,
+                    "2019-06-02": 57.98,
+                    "2019-06-09": 58.0,
+                    "2019-06-16": 55.9,
+                    "2019-06-23": 57.02,
+                    "2019-06-30": 55.0,
+                    "2019-07-07": 54.99,
+                    "2019-07-14": 55.0,
+                    "2019-07-21": 55.0
                 }
             },
             "printings": [
@@ -2444,6 +2528,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2454,6 +2541,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}",
+            "mtgoFoilId": 70422,
+            "mtgoId": 70421,
             "mtgstocksId": 47159,
             "multiverseId": 457122,
             "name": "Noble Hierarch",
@@ -2462,23 +2551,21 @@
             "originalType": "Creature — Human Druid",
             "power": "0",
             "prices": {
-                "paper": {
-                    "2019-01-23": 125.0,
-                    "2019-01-30": 125.0,
-                    "2019-02-06": 129.98,
-                    "2019-02-13": 125.0,
-                    "2019-02-20": 124.99,
-                    "2019-02-27": 121.84,
-                    "2019-03-06": 119.99,
-                    "2019-03-13": 119.97,
-                    "2019-03-20": 119.95,
-                    "2019-03-27": 119.95,
-                    "2019-04-03": 119.99,
-                    "2019-04-10": 119.99,
-                    "2019-04-17": 119.99,
-                    "2019-04-24": 119.97,
-                    "2019-05-01": 119.56,
-                    "2019-05-08": 118.11
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 119.97,
+                    "2019-05-05": 119.56,
+                    "2019-05-12": 115.76,
+                    "2019-05-19": 113.52,
+                    "2019-05-26": 114.41,
+                    "2019-06-02": 112.76,
+                    "2019-06-09": 112.0,
+                    "2019-06-16": 115.7,
+                    "2019-06-23": 113.52,
+                    "2019-06-30": 110.04,
+                    "2019-07-07": 109.99,
+                    "2019-07-14": 109.99,
+                    "2019-07-21": 105.99
                 }
             },
             "printings": [
@@ -2524,6 +2611,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2534,6 +2624,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{8}",
+            "mtgoFoilId": 70544,
+            "mtgoId": 70543,
             "mtgstocksId": 47171,
             "multiverseId": 457134,
             "name": "Platinum Emperion",
@@ -2542,23 +2634,21 @@
             "originalType": "Artifact Creature — Golem",
             "power": "8",
             "prices": {
-                "paper": {
-                    "2019-01-23": 39.99,
-                    "2019-01-30": 39.99,
-                    "2019-02-06": 39.97,
-                    "2019-02-13": 39.24,
-                    "2019-02-20": 37.11,
-                    "2019-02-27": 36.95,
-                    "2019-03-06": 36.99,
-                    "2019-03-13": 35.0,
-                    "2019-03-20": 35.0,
-                    "2019-03-27": 35.0,
-                    "2019-04-03": 34.99,
-                    "2019-04-10": 34.99,
-                    "2019-04-17": 35.0,
-                    "2019-04-24": 35.0,
-                    "2019-05-01": 35.0,
-                    "2019-05-08": 35.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 35.0,
+                    "2019-05-05": 35.0,
+                    "2019-05-12": 35.0,
+                    "2019-05-19": 35.0,
+                    "2019-05-26": 35.0,
+                    "2019-06-02": 34.99,
+                    "2019-06-09": 34.84,
+                    "2019-06-16": 34.0,
+                    "2019-06-23": 33.92,
+                    "2019-06-30": 33.15,
+                    "2019-07-07": 31.86,
+                    "2019-07-14": 31.56,
+                    "2019-07-21": 31.09
                 }
             },
             "printings": [
@@ -2644,6 +2734,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2653,6 +2746,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70576,
+            "mtgoId": 70575,
             "mtgstocksId": 47179,
             "multiverseId": 457142,
             "name": "Raging Ravine",
@@ -2660,23 +2755,21 @@
             "originalText": "Raging Ravine enters the battlefield tapped.\n{T}: Add {R} or {G}.\n{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with \"Whenever this creature attacks, put a +1/+1 counter on it.\" It's still a land.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 42.97,
-                    "2019-01-30": 42.73,
-                    "2019-02-06": 41.89,
-                    "2019-02-13": 40.99,
-                    "2019-02-20": 41.0,
-                    "2019-02-27": 40.41,
-                    "2019-03-06": 40.0,
-                    "2019-03-13": 39.99,
-                    "2019-03-20": 40.0,
-                    "2019-03-27": 39.55,
-                    "2019-04-03": 39.99,
-                    "2019-04-10": 39.99,
-                    "2019-04-17": 38.0,
-                    "2019-04-24": 38.38,
-                    "2019-05-01": 39.99,
-                    "2019-05-08": 38.74
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 39.99,
+                    "2019-05-05": 38.0,
+                    "2019-05-12": 38.0,
+                    "2019-05-19": 39.99,
+                    "2019-05-26": 38.75,
+                    "2019-06-02": 38.75,
+                    "2019-06-09": 37.09,
+                    "2019-06-16": 37.0,
+                    "2019-06-23": 37.0,
+                    "2019-06-30": 37.75,
+                    "2019-07-07": 35.5,
+                    "2019-07-14": 35.99,
+                    "2019-07-21": 36.45
                 }
             },
             "printings": [
@@ -2723,7 +2816,7 @@
         },
         {
             "artist": "Johann Bodin",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "B"
             ],
@@ -2735,16 +2828,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
+            "mtgoFoilId": 70294,
+            "mtgoId": 70293,
             "mtgstocksId": 47153,
             "multiverseId": 457116,
             "name": "Reanimate",
@@ -2752,23 +2849,21 @@
             "originalText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.",
             "originalType": "Sorcery",
             "prices": {
-                "paper": {
-                    "2019-01-23": 72.0,
-                    "2019-01-30": 71.04,
-                    "2019-02-06": 72.0,
-                    "2019-02-13": 69.99,
-                    "2019-02-20": 69.99,
-                    "2019-02-27": 66.33,
-                    "2019-03-06": 66.46,
-                    "2019-03-13": 65.24,
-                    "2019-03-20": 64.99,
-                    "2019-03-27": 64.99,
-                    "2019-04-03": 64.99,
-                    "2019-04-10": 64.99,
-                    "2019-04-17": 64.0,
-                    "2019-04-24": 62.5,
-                    "2019-05-01": 61.85,
-                    "2019-05-08": 62.5
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 62.5,
+                    "2019-05-05": 61.14,
+                    "2019-05-12": 64.0,
+                    "2019-05-19": 61.19,
+                    "2019-05-26": 60.0,
+                    "2019-06-02": 60.0,
+                    "2019-06-09": 60.0,
+                    "2019-06-16": 59.99,
+                    "2019-06-23": 59.99,
+                    "2019-06-30": 60.28,
+                    "2019-07-07": 58.05,
+                    "2019-07-14": 58.68,
+                    "2019-07-21": 58.0
                 }
             },
             "printings": [
@@ -2837,9 +2932,13 @@
             ],
             "convertedManaCost": 5.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2850,6 +2949,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{W}{W}",
+            "mtgoFoilId": 70044,
+            "mtgoId": 70043,
             "mtgstocksId": 47166,
             "multiverseId": 457129,
             "name": "Sigarda, Host of Herons",
@@ -2858,23 +2959,21 @@
             "originalType": "Legendary Creature — Angel",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 64.99,
-                    "2019-01-30": 64.99,
-                    "2019-02-06": 64.99,
-                    "2019-02-13": 62.72,
-                    "2019-02-20": 61.99,
-                    "2019-02-27": 59.0,
-                    "2019-03-06": 57.99,
-                    "2019-03-13": 58.26,
-                    "2019-03-20": 57.01,
-                    "2019-03-27": 56.94,
-                    "2019-04-03": 56.94,
-                    "2019-04-10": 56.89,
-                    "2019-04-17": 56.84,
-                    "2019-04-24": 55.71,
-                    "2019-05-01": 53.99,
-                    "2019-05-08": 53.47
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 53.99,
+                    "2019-05-05": 53.47,
+                    "2019-05-12": 53.47,
+                    "2019-05-19": 54.37,
+                    "2019-05-26": 54.99,
+                    "2019-06-02": 54.49,
+                    "2019-06-09": 53.99,
+                    "2019-06-16": 52.8,
+                    "2019-06-23": 53.99,
+                    "2019-06-30": 53.99,
+                    "2019-07-07": 51.66,
+                    "2019-07-14": 50.75,
+                    "2019-07-21": 50.59
                 }
             },
             "printings": [
@@ -2923,7 +3022,7 @@
         },
         {
             "artist": "Ryan Alexander Lee",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "U"
             ],
@@ -2935,6 +3034,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2945,6 +3047,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
+            "mtgoFoilId": 70216,
+            "mtgoId": 70215,
             "mtgstocksId": 47146,
             "multiverseId": 457109,
             "name": "Snapcaster Mage",
@@ -2953,23 +3057,21 @@
             "originalType": "Creature — Human Wizard",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 200.0,
-                    "2019-01-30": 199.18,
-                    "2019-02-06": 210.0,
-                    "2019-02-13": 210.0,
-                    "2019-02-20": 210.0,
-                    "2019-02-27": 210.0,
-                    "2019-03-06": 210.0,
-                    "2019-03-13": 210.0,
-                    "2019-03-20": 225.0,
-                    "2019-03-27": 225.0,
-                    "2019-04-03": 214.99,
-                    "2019-04-10": 214.99,
-                    "2019-04-17": 214.99,
-                    "2019-04-24": 214.99,
-                    "2019-05-01": 214.99,
-                    "2019-05-08": 214.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 214.99,
+                    "2019-05-05": 214.99,
+                    "2019-05-12": 214.99,
+                    "2019-05-19": 214.99,
+                    "2019-05-26": 225.0,
+                    "2019-06-02": 223.6,
+                    "2019-06-09": 225.0,
+                    "2019-06-16": 225.0,
+                    "2019-06-23": 229.99,
+                    "2019-06-30": 229.99,
+                    "2019-07-07": 223.0,
+                    "2019-07-14": 214.99,
+                    "2019-07-21": 214.99
                 }
             },
             "printings": [
@@ -3027,7 +3129,7 @@
         },
         {
             "artist": "Eric Deschamps",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "G",
                 "W"
@@ -3038,6 +3140,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3047,6 +3152,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70580,
+            "mtgoId": 70579,
             "mtgstocksId": 47180,
             "multiverseId": 457143,
             "name": "Stirring Wildwood",
@@ -3054,23 +3161,21 @@
             "originalText": "Stirring Wildwood enters the battlefield tapped.\n{T}: Add {G} or {W}.\n{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.",
             "originalType": "Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 25.0,
-                    "2019-01-30": 25.0,
-                    "2019-02-06": 24.99,
-                    "2019-02-13": 24.93,
-                    "2019-02-20": 24.07,
-                    "2019-02-27": 24.44,
-                    "2019-03-06": 24.25,
-                    "2019-03-13": 24.34,
-                    "2019-03-20": 23.7,
-                    "2019-03-27": 23.53,
-                    "2019-04-03": 23.28,
-                    "2019-04-10": 23.41,
-                    "2019-04-17": 22.89,
-                    "2019-04-24": 22.68,
-                    "2019-05-01": 22.5,
-                    "2019-05-08": 21.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 22.71,
+                    "2019-05-05": 22.13,
+                    "2019-05-12": 22.13,
+                    "2019-05-19": 21.99,
+                    "2019-05-26": 21.0,
+                    "2019-06-02": 20.6,
+                    "2019-06-09": 20.59,
+                    "2019-06-16": 20.26,
+                    "2019-06-23": 20.6,
+                    "2019-06-30": 20.28,
+                    "2019-07-07": 20.28,
+                    "2019-07-14": 20.0,
+                    "2019-07-21": 19.99
                 }
             },
             "printings": [
@@ -3123,6 +3228,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3133,6 +3241,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoFoilId": 70032,
+            "mtgoId": 70031,
             "mtgstocksId": 47160,
             "multiverseId": 457123,
             "name": "Tarmogoyf",
@@ -3141,23 +3251,21 @@
             "originalType": "Creature — Lhurgoyf",
             "power": "*",
             "prices": {
-                "paper": {
-                    "2019-01-23": 185.61,
-                    "2019-01-30": 184.58,
-                    "2019-02-06": 179.99,
-                    "2019-02-13": 176.48,
-                    "2019-02-20": 175.0,
-                    "2019-02-27": 174.99,
-                    "2019-03-06": 173.99,
-                    "2019-03-13": 173.99,
-                    "2019-03-20": 169.25,
-                    "2019-03-27": 167.06,
-                    "2019-04-03": 167.35,
-                    "2019-04-10": 161.99,
-                    "2019-04-17": 160.4,
-                    "2019-04-24": 160.0,
-                    "2019-05-01": 157.59,
-                    "2019-05-08": 153.51
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 159.3,
+                    "2019-05-05": 154.99,
+                    "2019-05-12": 154.01,
+                    "2019-05-19": 153.62,
+                    "2019-05-26": 150.0,
+                    "2019-06-02": 148.09,
+                    "2019-06-09": 144.75,
+                    "2019-06-16": 142.51,
+                    "2019-06-23": 147.94,
+                    "2019-06-30": 145.44,
+                    "2019-07-07": 144.18,
+                    "2019-07-14": 143.82,
+                    "2019-07-21": 142.47
                 }
             },
             "printings": [
@@ -3221,9 +3329,13 @@
             ],
             "convertedManaCost": 6.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3235,6 +3347,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{B}",
+            "mtgoFoilId": 70308,
+            "mtgoId": 70307,
             "mtgstocksId": 47154,
             "multiverseId": 457117,
             "name": "Tasigur, the Golden Fang",
@@ -3243,23 +3357,21 @@
             "originalType": "Legendary Creature — Human Shaman",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 42.0,
-                    "2019-01-30": 43.17,
-                    "2019-02-06": 43.09,
-                    "2019-02-13": 40.77,
-                    "2019-02-20": 40.25,
-                    "2019-02-27": 39.86,
-                    "2019-03-06": 38.99,
-                    "2019-03-13": 38.99,
-                    "2019-03-20": 38.0,
-                    "2019-03-27": 38.0,
-                    "2019-04-03": 38.99,
-                    "2019-04-10": 38.99,
-                    "2019-04-17": 38.99,
-                    "2019-04-24": 38.5,
-                    "2019-05-01": 38.47,
-                    "2019-05-08": 38.25
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 38.59,
+                    "2019-05-05": 38.47,
+                    "2019-05-12": 38.75,
+                    "2019-05-19": 38.65,
+                    "2019-05-26": 38.24,
+                    "2019-06-02": 38.24,
+                    "2019-06-09": 37.26,
+                    "2019-06-16": 37.41,
+                    "2019-06-23": 37.64,
+                    "2019-06-30": 38.39,
+                    "2019-07-07": 38.28,
+                    "2019-07-14": 37.28,
+                    "2019-07-21": 37.25
                 }
             },
             "printings": [
@@ -3341,6 +3453,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3350,6 +3465,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}{U}",
+            "mtgoFoilId": 70006,
+            "mtgoId": 70005,
             "mtgstocksId": 47147,
             "multiverseId": 457110,
             "name": "Temporal Manipulation",
@@ -3357,23 +3474,21 @@
             "originalText": "Take an extra turn after this one.",
             "originalType": "Sorcery",
             "prices": {
-                "paper": {
-                    "2019-01-23": 59.33,
-                    "2019-01-30": 55.72,
-                    "2019-02-06": 56.0,
-                    "2019-02-13": 54.99,
-                    "2019-02-20": 54.99,
-                    "2019-02-27": 51.0,
-                    "2019-03-06": 50.38,
-                    "2019-03-13": 50.0,
-                    "2019-03-20": 49.99,
-                    "2019-03-27": 49.99,
-                    "2019-04-03": 49.32,
-                    "2019-04-10": 48.74,
-                    "2019-04-17": 48.74,
-                    "2019-04-24": 48.66,
-                    "2019-05-01": 49.42,
-                    "2019-05-08": 49.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 48.77,
+                    "2019-05-05": 49.85,
+                    "2019-05-12": 49.98,
+                    "2019-05-19": 49.94,
+                    "2019-05-26": 49.92,
+                    "2019-06-02": 49.36,
+                    "2019-06-09": 48.44,
+                    "2019-06-16": 48.0,
+                    "2019-06-23": 48.0,
+                    "2019-06-30": 48.04,
+                    "2019-07-07": 48.15,
+                    "2019-07-14": 47.99,
+                    "2019-07-21": 48.4
                 }
             },
             "printings": [
@@ -3423,6 +3538,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3433,6 +3551,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{R}",
+            "mtgoFoilId": 70024,
+            "mtgoId": 70023,
             "mtgstocksId": 47156,
             "multiverseId": 457119,
             "name": "Through the Breach",
@@ -3440,23 +3560,21 @@
             "originalText": "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\nSplice onto Arcane {2}{R}{R}",
             "originalType": "Instant — Arcane",
             "prices": {
-                "paper": {
-                    "2019-01-23": 82.99,
-                    "2019-01-30": 80.0,
-                    "2019-02-06": 79.99,
-                    "2019-02-13": 79.0,
-                    "2019-02-20": 78.5,
-                    "2019-02-27": 77.42,
-                    "2019-03-06": 75.0,
-                    "2019-03-13": 76.96,
-                    "2019-03-20": 75.19,
-                    "2019-03-27": 73.99,
-                    "2019-04-03": 74.86,
-                    "2019-04-10": 74.09,
-                    "2019-04-17": 72.67,
-                    "2019-04-24": 69.99,
-                    "2019-05-01": 65.98,
-                    "2019-05-08": 65.88
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 68.05,
+                    "2019-05-05": 65.98,
+                    "2019-05-12": 65.88,
+                    "2019-05-19": 65.99,
+                    "2019-05-26": 64.99,
+                    "2019-06-02": 62.73,
+                    "2019-06-09": 61.85,
+                    "2019-06-16": 60.69,
+                    "2019-06-23": 60.83,
+                    "2019-06-30": 60.83,
+                    "2019-07-07": 60.83,
+                    "2019-07-14": 61.4,
+                    "2019-07-21": 61.55
                 }
             },
             "printings": [
@@ -3515,9 +3633,13 @@
             "colors": [],
             "convertedManaCost": 11.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3528,6 +3650,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{11}",
+            "mtgoFoilId": 70088,
+            "mtgoId": 70087,
             "mtgstocksId": 47145,
             "multiverseId": 457108,
             "name": "Ulamog, the Infinite Gyre",
@@ -3536,23 +3660,21 @@
             "originalType": "Legendary Creature — Eldrazi",
             "power": "10",
             "prices": {
-                "paper": {
-                    "2019-01-23": 60.0,
-                    "2019-01-30": 60.0,
-                    "2019-02-06": 60.0,
-                    "2019-02-13": 58.09,
-                    "2019-02-20": 58.09,
-                    "2019-02-27": 57.95,
-                    "2019-03-06": 57.95,
-                    "2019-03-13": 58.09,
-                    "2019-03-20": 59.89,
-                    "2019-03-27": 55.79,
-                    "2019-04-03": 59.73,
-                    "2019-04-10": 59.04,
-                    "2019-04-17": 57.74,
-                    "2019-04-24": 55.85,
-                    "2019-05-01": 55.41,
-                    "2019-05-08": 55.82
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 56.2,
+                    "2019-05-05": 56.21,
+                    "2019-05-12": 57.7,
+                    "2019-05-19": 56.59,
+                    "2019-05-26": 55.82,
+                    "2019-06-02": 54.99,
+                    "2019-06-09": 54.56,
+                    "2019-06-16": 54.14,
+                    "2019-06-23": 54.57,
+                    "2019-06-30": 55.59,
+                    "2019-07-07": 55.82,
+                    "2019-07-14": 55.71,
+                    "2019-07-21": 55.27
                 }
             },
             "printings": [
@@ -3606,14 +3728,18 @@
         },
         {
             "artist": "Jung Park",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [],
             "colors": [],
             "convertedManaCost": 0.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3624,6 +3750,8 @@
                 "modern": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoFoilId": 70586,
+            "mtgoId": 70585,
             "mtgstocksId": 47181,
             "multiverseId": 457144,
             "name": "Urborg, Tomb of Yawgmoth",
@@ -3631,23 +3759,21 @@
             "originalText": "Each land is a Swamp in addition to its other land types.",
             "originalType": "Legendary Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 90.99,
-                    "2019-01-30": 90.34,
-                    "2019-02-06": 89.99,
-                    "2019-02-13": 89.98,
-                    "2019-02-20": 89.63,
-                    "2019-02-27": 89.99,
-                    "2019-03-06": 90.0,
-                    "2019-03-13": 90.0,
-                    "2019-03-20": 90.0,
-                    "2019-03-27": 90.0,
-                    "2019-04-03": 89.99,
-                    "2019-04-10": 89.97,
-                    "2019-04-17": 89.86,
-                    "2019-04-24": 89.95,
-                    "2019-05-01": 89.99,
-                    "2019-05-08": 90.0
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 89.95,
+                    "2019-05-05": 89.99,
+                    "2019-05-12": 90.0,
+                    "2019-05-19": 90.05,
+                    "2019-05-26": 90.05,
+                    "2019-06-02": 92.75,
+                    "2019-06-09": 92.77,
+                    "2019-06-16": 93.41,
+                    "2019-06-23": 96.8,
+                    "2019-06-30": 93.06,
+                    "2019-07-07": 95.0,
+                    "2019-07-14": 98.41,
+                    "2019-07-21": 99.0
                 }
             },
             "printings": [
@@ -3694,7 +3820,7 @@
         },
         {
             "artist": "Raymond Swanland",
-            "borderColor": "black",
+            "borderColor": "borderless",
             "colorIdentity": [
                 "G"
             ],
@@ -3706,6 +3832,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3716,6 +3845,8 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgoFoilId": 70452,
+            "mtgoId": 70451,
             "mtgstocksId": 47161,
             "multiverseId": 457124,
             "name": "Vengevine",
@@ -3724,23 +3855,21 @@
             "originalType": "Creature — Elemental",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 51.0,
-                    "2019-01-30": 49.99,
-                    "2019-02-06": 50.0,
-                    "2019-02-13": 49.99,
-                    "2019-02-20": 49.99,
-                    "2019-02-27": 49.95,
-                    "2019-03-06": 49.76,
-                    "2019-03-13": 49.95,
-                    "2019-03-20": 49.61,
-                    "2019-03-27": 48.62,
-                    "2019-04-03": 47.8,
-                    "2019-04-10": 48.01,
-                    "2019-04-17": 47.55,
-                    "2019-04-24": 47.5,
-                    "2019-05-01": 47.07,
-                    "2019-05-08": 46.44
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 46.99,
+                    "2019-05-05": 46.99,
+                    "2019-05-12": 45.67,
+                    "2019-05-19": 45.97,
+                    "2019-05-26": 45.06,
+                    "2019-06-02": 44.99,
+                    "2019-06-09": 47.5,
+                    "2019-06-16": 70.04,
+                    "2019-06-23": 70.0,
+                    "2019-06-30": 69.99,
+                    "2019-07-07": 69.75,
+                    "2019-07-14": 66.05,
+                    "2019-07-21": 60.0
                 }
             },
             "printings": [
@@ -3796,9 +3925,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "UMA",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "mtgoCode": "PUMA",
     "name": "Ultimate Box Topper",

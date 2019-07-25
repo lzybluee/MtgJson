@@ -4,9 +4,9 @@
 <Name>Jace, Architect of Thought</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
 <ManaCost>2UU (4)</ManaCost>
-<CardText>[+1]: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.
-[-2]: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.
-[-8]: For each player, search that player's library for a nonland card and exile it, then that player shuffles their library. You may cast those cards without paying their mana costs.</CardText>
+<CardText>+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.
+-2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.
+-8: For each player, search that player's library for a nonland card and exile it, then that player shuffles their library. You may cast those cards without paying their mana costs.</CardText>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>380190</Multiverseid>
 <Rulings>2012/10/01: Jace's first ability creates a delayed triggered ability that triggers whenever a creature an opponent controls attacks. It doesn't matter which player or planeswalker that creature is attacking.
@@ -801,9 +801,9 @@ When Halimar Depths enters the battlefield, look at the top three cards of your 
 <Name>Vraska the Unseen</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 5)</Type>
 <ManaCost>3BG (5)</ManaCost>
-<CardText>[+1]: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.
-[-3]: Destroy target nonland permanent.
-[-7]: Create three 1/1 black Assassin creature tokens with "Whenever this creature deals combat damage to a player, that player loses the game."</CardText>
+<CardText>+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.
+-3: Destroy target nonland permanent.
+-7: Create three 1/1 black Assassin creature tokens with "Whenever this creature deals combat damage to a player, that player loses the game."</CardText>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>380214</Multiverseid>
 <Rulings>2012/10/01: If an effect creates a copy of one of the Assassin creature tokens, the copy will also have the triggered ability.

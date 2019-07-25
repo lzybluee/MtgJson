@@ -103,9 +103,9 @@ Metalcraft — That player sacrifices two attacking creatures instead if you con
 <Name>Elspeth Tirel</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>[+2]: You gain 1 life for each creature you control.
-[-2]: Create three 1/1 white Soldier creature tokens.
-[-5]: Destroy all other permanents except for lands and tokens.</CardText>
+<CardText>+2: You gain 1 life for each creature you control.
+-2: Create three 1/1 white Soldier creature tokens.
+-5: Destroy all other permanents except for lands and tokens.</CardText>
 <Artist>Michael Komarck</Artist>
 <Multiverseid>212241</Multiverseid>
 <Rulings>2011/01/01: As <Elspeth Tirel>'s last ability resolves, each permanent that isn't a token, a land, or <Elspeth Tirel> herself is destroyed.</Rulings>
@@ -1908,9 +1908,9 @@ Goblin Gaveleer gets +2/+0 for each Equipment attached to it.</CardText>
 <Name>Koth of the Hammer</Name>
 <Type>Legendary Planeswalker — Koth (Loyalty: 3)</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>[+1]: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.
-[-2]: Add {R} for each Mountain you control.
-[-5]: You get an emblem with "Mountains you control have '{T}: This land deals 1 damage to any target.'"</CardText>
+<CardText>+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+-2: Add {R} for each Mountain you control.
+-5: You get an emblem with "Mountains you control have '{T}: This land deals 1 damage to any target.'"</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>212238</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
@@ -2750,9 +2750,9 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 <Name>Venser, the Sojourner</Name>
 <Type>Legendary Planeswalker — Venser (Loyalty: 3)</Type>
 <ManaCost>3WU (5)</ManaCost>
-<CardText>[+2]: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.
-[-1]: Creatures can't be blocked this turn.
-[-8]: You get an emblem with "Whenever you cast a spell, exile target permanent."</CardText>
+<CardText>+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.
+-1: Creatures can't be blocked this turn.
+-8: You get an emblem with "Whenever you cast a spell, exile target permanent."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>212240</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.

@@ -13,6 +13,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -29,8 +31,25 @@
             "manaCost": "{2}",
             "mcmId": 372922,
             "mcmMetaId": 239396,
+            "mtgstocksId": 48316,
             "name": "Blackblade Reforged",
             "number": "8",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 1.25,
+                    "2019-06-23": 1.98,
+                    "2019-06-30": 1.35,
+                    "2019-07-07": 1.1,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 0.99
+                },
+                "paperFoil": {
+                    "2019-06-30": 24.99,
+                    "2019-07-07": 17.42,
+                    "2019-07-14": 16.62,
+                    "2019-07-21": 10.99
+                }
+            },
             "printings": [
                 "DOM",
                 "PDOM",
@@ -38,6 +57,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/ae78317bc82d6f11",
+                "mtgstocks": "https://mtgjson.com/links/c0bffc8273c0daa7",
                 "tcgplayer": "https://mtgjson.com/links/a3e1c15ecc751f79"
             },
             "rarity": "rare",
@@ -83,6 +103,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -96,8 +118,28 @@
             "manaCost": "{3}{W}{W}",
             "mcmId": 372929,
             "mcmMetaId": 11140,
+            "mtgstocksId": 48309,
             "name": "Gideon Jura",
             "number": "1",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 1.99,
+                    "2019-06-16": 1.49,
+                    "2019-06-23": 1.99,
+                    "2019-06-30": 1.2,
+                    "2019-07-07": 1.46,
+                    "2019-07-14": 1.4,
+                    "2019-07-21": 1.25
+                },
+                "paperFoil": {
+                    "2019-06-09": 4.99,
+                    "2019-06-23": 4.98,
+                    "2019-06-30": 4.49,
+                    "2019-07-07": 4.48,
+                    "2019-07-14": 4.44,
+                    "2019-07-21": 3.86
+                }
+            },
             "printings": [
                 "E01",
                 "M12",
@@ -107,6 +149,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/d5eb212cb04a392e",
+                "mtgstocks": "https://mtgjson.com/links/f0bbbc1c47699eb3",
                 "tcgplayer": "https://mtgjson.com/links/2ab7b25b2796c74b"
             },
             "rarity": "mythic",
@@ -163,7 +206,7 @@
             ],
             "tcgplayerProductId": 188991,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/2ab7b25b2796c74b",
-            "text": "+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.\n−2: Destroy target tapped creature.\n0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+            "text": "[+2]: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.\n[−2]: Destroy target tapped creature.\n[0]: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
             "type": "Legendary Planeswalker — Gideon",
             "types": [
                 "Planeswalker"
@@ -185,6 +228,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -196,14 +241,36 @@
             "manaCost": "{4}{W}{W}",
             "mcmId": 372928,
             "mcmMetaId": 203370,
+            "mtgstocksId": 48310,
             "name": "Martyr's Bond",
             "number": "2",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 4.99,
+                    "2019-06-16": 3.99,
+                    "2019-06-23": 3.98,
+                    "2019-06-30": 2.59,
+                    "2019-07-07": 1.99,
+                    "2019-07-14": 1.5,
+                    "2019-07-21": 1.46
+                },
+                "paperFoil": {
+                    "2019-06-09": 14.99,
+                    "2019-06-16": 14.99,
+                    "2019-06-23": 12.49,
+                    "2019-06-30": 7.84,
+                    "2019-07-07": 7.64,
+                    "2019-07-14": 6.98,
+                    "2019-07-21": 6.3
+                }
+            },
             "printings": [
                 "CMD",
                 "SS2"
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/3b77edd66ddb5509",
+                "mtgstocks": "https://mtgjson.com/links/9b8c84874e16f7f1",
                 "tcgplayer": "https://mtgjson.com/links/c20592903033b62d"
             },
             "rarity": "rare",
@@ -245,6 +312,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -257,8 +326,26 @@
             "manaCost": "{W}",
             "mcmId": 372927,
             "mcmMetaId": 10286,
+            "mtgstocksId": 48311,
             "name": "Path to Exile",
             "number": "3",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 8.99,
+                    "2019-06-23": 12.95,
+                    "2019-06-30": 10.21,
+                    "2019-07-07": 9.85,
+                    "2019-07-14": 9.52,
+                    "2019-07-21": 8.91
+                },
+                "paperFoil": {
+                    "2019-06-23": 19.98,
+                    "2019-06-30": 18.0,
+                    "2019-07-07": 17.59,
+                    "2019-07-14": 15.95,
+                    "2019-07-21": 15.89
+                }
+            },
             "printings": [
                 "ARC",
                 "CMA",
@@ -276,6 +363,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/2ae223a799921bf5",
+                "mtgstocks": "https://mtgjson.com/links/494b9d2dcbc3a62b",
                 "tcgplayer": "https://mtgjson.com/links/34d6ec16e2ea5311"
             },
             "rarity": "rare",
@@ -318,6 +406,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -330,8 +420,26 @@
             "manaCost": "{1}{W}",
             "mcmId": 372926,
             "mcmMetaId": 206526,
+            "mtgstocksId": 48312,
             "name": "Rest in Peace",
             "number": "4",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 8.49,
+                    "2019-06-16": 9.49,
+                    "2019-06-23": 9.98,
+                    "2019-06-30": 7.88,
+                    "2019-07-07": 7.0,
+                    "2019-07-14": 6.5,
+                    "2019-07-21": 6.39
+                },
+                "paperFoil": {
+                    "2019-06-30": 20.0,
+                    "2019-07-07": 19.5,
+                    "2019-07-14": 18.24,
+                    "2019-07-21": 16.49
+                }
+            },
             "printings": [
                 "A25",
                 "RTR",
@@ -339,6 +447,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/2f60321a377e8e6d",
+                "mtgstocks": "https://mtgjson.com/links/47e39ae871655e94",
                 "tcgplayer": "https://mtgjson.com/links/802437b225905b5a"
             },
             "rarity": "rare",
@@ -384,6 +493,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -395,8 +506,28 @@
             "manaCost": "{1}{W}{W}",
             "mcmId": 372925,
             "mcmMetaId": 221089,
+            "mtgstocksId": 48313,
             "name": "Shielded by Faith",
             "number": "5",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 1.49,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 1.15,
+                    "2019-06-30": 0.89,
+                    "2019-07-07": 0.82,
+                    "2019-07-14": 0.75,
+                    "2019-07-21": 0.69
+                },
+                "paperFoil": {
+                    "2019-06-09": 3.99,
+                    "2019-06-23": 4.98,
+                    "2019-06-30": 3.62,
+                    "2019-07-07": 2.99,
+                    "2019-07-14": 1.99,
+                    "2019-07-21": 1.99
+                }
+            },
             "printings": [
                 "C15",
                 "E02",
@@ -405,6 +536,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/812d8a49c177e437",
+                "mtgstocks": "https://mtgjson.com/links/275ff34492d955df",
                 "tcgplayer": "https://mtgjson.com/links/79e2a85b991a1a04"
             },
             "rarity": "rare",
@@ -440,6 +572,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -453,8 +587,28 @@
             "manaCost": "{3}{W}{W}{W}",
             "mcmId": 372924,
             "mcmMetaId": 200729,
+            "mtgstocksId": 48314,
             "name": "True Conviction",
             "number": "6",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 1.49,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 1.25,
+                    "2019-06-30": 0.91,
+                    "2019-07-07": 0.8,
+                    "2019-07-14": 0.99,
+                    "2019-07-21": 0.99
+                },
+                "paperFoil": {
+                    "2019-06-09": 3.99,
+                    "2019-06-23": 4.73,
+                    "2019-06-30": 3.8,
+                    "2019-07-07": 3.49,
+                    "2019-07-14": 2.99,
+                    "2019-07-21": 2.61
+                }
+            },
             "printings": [
                 "C14",
                 "SOM",
@@ -462,6 +616,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/e7cc256e17e29cd4",
+                "mtgstocks": "https://mtgjson.com/links/d7deca603292a6a6",
                 "tcgplayer": "https://mtgjson.com/links/7a72f6d9e9181737"
             },
             "rarity": "rare",
@@ -495,6 +650,8 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -507,8 +664,27 @@
             "manaCost": "{3}{W}",
             "mcmId": 372923,
             "mcmMetaId": 6732,
+            "mtgstocksId": 48315,
             "name": "Worship",
             "number": "7",
+            "prices": {
+                "paper": {
+                    "2019-06-09": 4.99,
+                    "2019-06-16": 3.99,
+                    "2019-06-23": 3.98,
+                    "2019-06-30": 3.49,
+                    "2019-07-07": 3.11,
+                    "2019-07-14": 2.99,
+                    "2019-07-21": 2.88
+                },
+                "paperFoil": {
+                    "2019-06-23": 11.49,
+                    "2019-06-30": 8.06,
+                    "2019-07-07": 7.99,
+                    "2019-07-14": 5.91,
+                    "2019-07-21": 4.92
+                }
+            },
             "printings": [
                 "7ED",
                 "8ED",
@@ -520,6 +696,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/80c88a09edba294c",
+                "mtgstocks": "https://mtgjson.com/links/5b5b0c914efa092f",
                 "tcgplayer": "https://mtgjson.com/links/1dc4850bc2300db2"
             },
             "rarity": "rare",
@@ -551,13 +728,13 @@
     "code": "SS2",
     "isFoilOnly": false,
     "isOnlineOnly": false,
-    "keyruneCode": "DEFAULT",
+    "keyruneCode": "SS2",
     "mcmId": 2460,
     "mcmName": "Signature Spellbook: Gideon",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Signature Spellbook: Gideon",
     "releaseDate": "2019-06-28",

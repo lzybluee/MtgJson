@@ -4,9 +4,9 @@
 <Name>Ajani, Caller of the Pride</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>1WW (3)</ManaCost>
-<CardText>[+1]: Put a +1/+1 counter on up to one target creature.
-[-3]: Target creature gains flying and double strike until end of turn.
-[-8]: Create X 2/2 white Cat creature tokens, where X is your life total.</CardText>
+<CardText>+1: Put a +1/+1 counter on up to one target creature.
+-3: Target creature gains flying and double strike until end of turn.
+-8: Create X 2/2 white Cat creature tokens, where X is your life total.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>249695</Multiverseid>
 <Rulings>2012/07/01: You can activate the first ability without a target. You'll still put one loyalty counter on Ajani when you activate the ability.
@@ -1058,9 +1058,9 @@ Harbor Serpent can't attack unless there are five or more Islands on the battlef
 <Name>Jace, Memory Adept</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>[+1]: Draw a card. Target player puts the top card of their library into their graveyard.
-[0]: Target player puts the top ten cards of their library into their graveyard.
-[-7]: Any number of target players each draw twenty cards.</CardText>
+<CardText>+1: Draw a card. Target player puts the top card of their library into their graveyard.
+0: Target player puts the top ten cards of their library into their graveyard.
+-7: Any number of target players each draw twenty cards.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>254107</Multiverseid>
 <Rulings>2011/09/22: If you target yourself with Jace's first ability, you'll draw a card first, then put the top card of your library into your graveyard.
@@ -1835,9 +1835,9 @@ Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1
 <Name>Liliana of the Dark Realms</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>2BB (4)</ManaCost>
-<CardText>[+1]: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
-[-3]: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
-[-6]: You get an emblem with "Swamps you control have '{T}: Add {B}{B}{B}{B}.'"</CardText>
+<CardText>+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
+-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
+-6: You get an emblem with "Swamps you control have '{T}: Add {B}{B}{B}{B}.'"</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>259695</Multiverseid>
 <Rulings>2012/07/01: You can activate Liliana's first ability even if your library contains no Swamp cards (or you don't want to find one). You'll still search your library and shuffle it.
@@ -2319,9 +2319,9 @@ Whenever a Swamp enters the battlefield under your control, you may return Veilb
 <Name>Chandra, the Firebrand</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 3)</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>[+1]: Chandra, the Firebrand deals 1 damage to any target.
-[-2]: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
-[-6]: Chandra, the Firebrand deals 6 damage to each of up to six targets.</CardText>
+<CardText>+1: Chandra, the Firebrand deals 1 damage to any target.
+-2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+-6: Chandra, the Firebrand deals 6 damage to each of up to six targets.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>259205</Multiverseid>
 <Rulings>2011/09/22: Chandra's second ability creates a delayed triggered ability that will copy the next instant or sorcery spell you cast that turn, regardless of whether that spell has targets.
@@ -3278,9 +3278,9 @@ As long as you have 7 or more life, damage that would reduce your life total to 
 <Name>Garruk, Primal Hunter</Name>
 <Type>Legendary Planeswalker — Garruk (Loyalty: 3)</Type>
 <ManaCost>2GGG (5)</ManaCost>
-<CardText>[+1]: Create a 3/3 green Beast creature token.
-[-3]: Draw cards equal to the greatest power among creatures you control.
-[-6]: Create a 6/6 green Wurm creature token for each land you control.</CardText>
+<CardText>+1: Create a 3/3 green Beast creature token.
+-3: Draw cards equal to the greatest power among creatures you control.
+-6: Create a 6/6 green Wurm creature token for each land you control.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>253669</Multiverseid>
 <Rulings>2011/09/22: For Garruk's second ability, the greatest power among creatures you control is determined when that ability begins resolving.
@@ -3749,9 +3749,9 @@ You may cast green creature spells as though they had flash.</CardText>
 <Name>Nicol Bolas, Planeswalker</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 5)</Type>
 <ManaCost>4UBBR (8)</ManaCost>
-<CardText>[+3]: Destroy target noncreature permanent.
-[-2]: Gain control of target creature.
-[-9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
+<CardText>+3: Destroy target noncreature permanent.
+-2: Gain control of target creature.
+-9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>260991</Multiverseid>
 <Rulings>2009/02/01: The control-change effect has no duration. It will last until the game ends or the affected creature leaves the battlefield. It may be superseded by a later control-change effect.

@@ -4,9 +4,9 @@
 <Name>Ajani, Caller of the Pride</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>1WW (3)</ManaCost>
-<CardText>[+1]: Put a +1/+1 counter on up to one target creature.
-[-3]: Target creature gains flying and double strike until end of turn.
-[-8]: Create X 2/2 white Cat creature tokens, where X is your life total.</CardText>
+<CardText>+1: Put a +1/+1 counter on up to one target creature.
+-3: Target creature gains flying and double strike until end of turn.
+-8: Create X 2/2 white Cat creature tokens, where X is your life total.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>370680</Multiverseid>
 <Rulings>2012/07/01: You can activate the first ability without a target. You'll still put one loyalty counter on Ajani when you activate the ability.
@@ -1130,9 +1130,9 @@ When enchanted creature becomes the target of a spell or ability, sacrifice Illu
 <Name>Jace, Memory Adept</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>[+1]: Draw a card. Target player puts the top card of their library into their graveyard.
-[0]: Target player puts the top ten cards of their library into their graveyard.
-[-7]: Any number of target players each draw twenty cards.</CardText>
+<CardText>+1: Draw a card. Target player puts the top card of their library into their graveyard.
+0: Target player puts the top ten cards of their library into their graveyard.
+-7: Any number of target players each draw twenty cards.</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>370728</Multiverseid>
 <Rulings>2011/09/22: If you target yourself with Jace's first ability, you'll draw a card first, then put the top card of your library into your graveyard.
@@ -1923,9 +1923,9 @@ When Lifebane Zombie enters the battlefield, target opponent reveals their hand.
 <Name>Liliana of the Dark Realms</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>2BB (4)</ManaCost>
-<CardText>[+1]: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
-[-3]: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
-[-6]: You get an emblem with "Swamps you control have '{T}: Add {B}{B}{B}{B}.'"</CardText>
+<CardText>+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
+-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
+-6: You get an emblem with "Swamps you control have '{T}: Add {B}{B}{B}{B}.'"</CardText>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>370658</Multiverseid>
 <Rulings>2012/07/01: You can activate Liliana's first ability even if your library contains no Swamp cards (or you don't want to find one). You'll still search your library and shuffle it.
@@ -2504,9 +2504,9 @@ Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.</C
 <Name>Chandra, Pyromaster</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
-[0]: Exile the top card of your library. You may play it this turn.
-[-7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
 <Artist>Winona Nelson</Artist>
 <Multiverseid>370637</Multiverseid>
 <Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
@@ -3256,9 +3256,9 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
 <Name>Garruk, Caller of Beasts</Name>
 <Type>Legendary Planeswalker — Garruk (Loyalty: 4)</Type>
 <ManaCost>4GG (6)</ManaCost>
-<CardText>[+1]: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
-[-3]: You may put a green creature card from your hand onto the battlefield.
-[-7]: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."</CardText>
+<CardText>+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+-3: You may put a green creature card from your hand onto the battlefield.
+-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."</CardText>
 <Artist>Karl Kopinski</Artist>
 <Multiverseid>370687</Multiverseid>
 <Rulings>2013/07/01: You choose what green creature card to put onto the battlefield, if any, when the second ability resolves.

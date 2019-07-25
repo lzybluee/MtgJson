@@ -1600,9 +1600,9 @@ Other creatures you control have melee. (If a creature has multiple instances of
 <Name>Daretti, Ingenious Iconoclast</Name>
 <Type>Legendary Planeswalker — Daretti (Loyalty: 3)</Type>
 <ManaCost>1BR (3)</ManaCost>
-<CardText>[+1]: Create a 1/1 colorless Construct artifact creature token with defender.
-[-1]: You may sacrifice an artifact. If you do, destroy target artifact or creature.
-[-6]: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.</CardText>
+<CardText>+1: Create a 1/1 colorless Construct artifact creature token with defender.
+-1: You may sacrifice an artifact. If you do, destroy target artifact or creature.
+-6: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Multiverseid>416831</Multiverseid>
 <Rulings>2016/08/23: For the second ability, you choose the target artifact or creature as you activate the ability. You choose whether to sacrifice an artifact and which artifact to sacrifice as the ability resolves.
@@ -1619,9 +1619,9 @@ Other creatures you control have melee. (If a creature has multiple instances of
 <Name>Kaya, Ghost Assassin</Name>
 <Type>Legendary Planeswalker — Kaya (Loyalty: 5)</Type>
 <ManaCost>2WB (4)</ManaCost>
-<CardText>[0]: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
-[-1]: Each opponent loses 2 life and you gain 2 life.
-[-2]: Each opponent discards a card and you draw a card.</CardText>
+<CardText>0: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
+-1: Each opponent loses 2 life and you gain 2 life.
+-2: Each opponent discards a card and you draw a card.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>416832</Multiverseid>
 <Rulings>2016/08/23: You choose whether or not to target a creature as you activate the first ability. If you chose a target creature, you choose whether to exile Kaya or that creature as the ability resolves. If you chose a creature and that creature is no longer a legal target as the ability tries to resolve, the ability doesn't resolve and none of its effects happen. You won't exile Kaya or lose 2 life.
@@ -4386,9 +4386,9 @@ Whenever you draw a card, each opponent loses 1 life.</CardText>
 <Name>Kaya, Ghost Assassin</Name>
 <Type>Legendary Planeswalker — Kaya (Loyalty: 5)</Type>
 <ManaCost>2WB (4)</ManaCost>
-<CardText>[0]: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
-[-1]: Each opponent loses 2 life and you gain 2 life.
-[-2]: Each opponent discards a card and you draw a card.</CardText>
+<CardText>0: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
+-1: Each opponent loses 2 life and you gain 2 life.
+-2: Each opponent discards a card and you draw a card.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>417421</Multiverseid>
 <Rulings>2016/08/23: You choose whether or not to target a creature as you activate the first ability. If you chose a target creature, you choose whether to exile Kaya or that creature as the ability resolves. If you chose a creature and that creature is no longer a legal target as the ability tries to resolve, the ability doesn't resolve and none of its effects happen. You won't exile Kaya or lose 2 life.

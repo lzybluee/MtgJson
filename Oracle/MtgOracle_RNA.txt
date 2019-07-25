@@ -3288,9 +3288,9 @@ At the beginning of your upkeep, choose one that hasn't been chosen —
 <Name>Domri, Chaos Bringer</Name>
 <Type>Legendary Planeswalker — Domri (Loyalty: 5)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>[+1]: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters the battlefield with your choice of a +1/+1 counter or haste.)
-[-3]: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
-[-8]: You get an emblem with "At the beginning of each end step, create a 4/4 red and green Beast creature token with trample."</CardText>
+<CardText>+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters the battlefield with your choice of a +1/+1 counter or haste.)
+-3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+-8: You get an emblem with "At the beginning of each end step, create a 4/4 red and green Beast creature token with trample."</CardText>
 <Artist>Zack Stella</Artist>
 <Multiverseid>457310</Multiverseid>
 <Rulings>2019/01/25: Because it's a loyalty ability, Domri's first ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.
@@ -3311,9 +3311,9 @@ At the beginning of your upkeep, choose one that hasn't been chosen —
 <Name>Dovin, Grand Arbiter</Name>
 <Type>Legendary Planeswalker — Dovin (Loyalty: 3)</Type>
 <ManaCost>1WU (3)</ManaCost>
-<CardText>[+1]: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter.
-[-1]: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life.
-[-7]: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order.</CardText>
+<CardText>+1: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter.
+-1: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life.
+-7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>457311</Multiverseid>
 <Rulings>2019/01/25: The delayed triggered ability created by Dovin's first ability triggers for each creature you control that deals combat damage to a player this turn. Dovin gets only one loyalty counter as each ability resolves, no matter how much damage was dealt.
@@ -3705,9 +3705,9 @@ Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 
 <Name>Kaya, Orzhov Usurper</Name>
 <Type>Legendary Planeswalker — Kaya (Loyalty: 3)</Type>
 <ManaCost>1WB (3)</ManaCost>
-<CardText>[+1]: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.
-[-1]: Exile target nonland permanent with converted mana cost 1 or less.
-[-5]: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.</CardText>
+<CardText>+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.
+-1: Exile target nonland permanent with converted mana cost 1 or less.
+-5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>457330</Multiverseid>
 <Rulings>2019/01/25: If a permanent has {X} in its mana cost, X is considered to be 0.
@@ -5502,9 +5502,9 @@ As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it 
 <Name>Dovin, Architect of Law</Name>
 <Type>Legendary Planeswalker — Dovin (Loyalty: 5)</Type>
 <ManaCost>4WU (6)</ManaCost>
-<CardText>[+1]: You gain 2 life and draw a card.
-[-1]: Tap target creature. It doesn't untap during its controller's next untap step.
-[-9]: Tap all permanents target opponent controls. That player skips their next untap step.</CardText>
+<CardText>+1: You gain 2 life and draw a card.
+-1: Tap target creature. It doesn't untap during its controller's next untap step.
+-9: Tap all permanents target opponent controls. That player skips their next untap step.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>459999</Multiverseid>
 <Rulings>2019/01/25: Dovin's second ability can target a creature that's already tapped. That creature won't untap during its controller's next untap step.
@@ -5577,9 +5577,9 @@ As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it 
 <Name>Domri, City Smasher</Name>
 <Type>Legendary Planeswalker — Domri (Loyalty: 4)</Type>
 <ManaCost>4RG (6)</ManaCost>
-<CardText>[+2]: Creatures you control get +1/+1 and gain haste until end of turn.
-[-3]: Domri, City Smasher deals 3 damage to any target.
-[-8]: Put three +1/+1 counters on each creature you control. Those creatures gain trample until end of turn.</CardText>
+<CardText>+2: Creatures you control get +1/+1 and gain haste until end of turn.
+-3: Domri, City Smasher deals 3 damage to any target.
+-8: Put three +1/+1 counters on each creature you control. Those creatures gain trample until end of turn.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>460003</Multiverseid>
 <Rulings>2019/01/25: Domri's first and third abilities affect only creatures you control at the time they resolve. Creatures you begin to control later in the turn won't get +1/+1 or gain haste if his first ability has resolved, and won't gain trample or get three +1/+1 counters if his third ability has resolved.</Rulings>

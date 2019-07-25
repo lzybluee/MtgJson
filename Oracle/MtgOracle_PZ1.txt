@@ -155,9 +155,9 @@ When Kalemne's Captain becomes monstrous, exile all artifacts and enchantments.<
 <Name>Nahiri, the Lithomancer</Name>
 <Type>Legendary Planeswalker — Nahiri (Loyalty: 3)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>[+2]: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
-[-2]: You may put an Equipment card from your hand or graveyard onto the battlefield.
-[-10]: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
+<CardText>+2: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
+-2: You may put an Equipment card from your hand or graveyard onto the battlefield.
+-10: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
 Nahiri, the Lithomancer can be your commander.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Vintage>Legal</Vintage>
@@ -634,9 +634,9 @@ For each creature attacking you or a planeswalker you control, create a token th
 <Name>Teferi, Temporal Archmage</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+1]: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
-[-1]: Untap up to four target permanents.
-[-10]: You get an emblem with "You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant."
+<CardText>+1: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+-1: Untap up to four target permanents.
+-10: You get an emblem with "You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant."
 Teferi, Temporal Archmage can be your commander.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Rulings>2014/11/07: If you control Teferi's emblem, the rule that says you can activate a loyalty ability only if none of that permanent's loyalty abilities have been activated that turn still applies. In other words, you could activate a planeswalker's loyalty ability once on your turn and once on each of your opponents' turns.
@@ -834,9 +834,9 @@ When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.</CardT
 <Name>Ob Nixilis of the Black Oath</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 3)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+2]: Each opponent loses 1 life. You gain life equal to the life lost this way.
-[-2]: Create a 5/5 black Demon creature token with flying. You lose 2 life.
-[-8]: You get an emblem with "{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
+<CardText>+2: Each opponent loses 1 life. You gain life equal to the life lost this way.
+-2: Create a 5/5 black Demon creature token with flying. You lose 2 life.
+-8: You get an emblem with "{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
 Ob Nixilis of the Black Oath can be your commander.</CardText>
 <Artist>Daarken</Artist>
 <Vintage>Legal</Vintage>
@@ -1035,9 +1035,9 @@ As long as Anger is in your graveyard and you control a Mountain, creatures you 
 <Name>Daretti, Scrap Savant</Name>
 <Type>Legendary Planeswalker — Daretti (Loyalty: 3)</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>[+2]: Discard up to two cards, then draw that many cards.
-[-2]: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
-[-10]: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
+<CardText>+2: Discard up to two cards, then draw that many cards.
+-2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
+-10: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
 Daretti, Scrap Savant can be your commander.</CardText>
 <Artist>Dan Scott</Artist>
 <Rulings>2014/11/07: You may choose to discard zero cards as the first ability resolves. In that case, you won't draw any cards.
@@ -1439,9 +1439,9 @@ Whenever a land card is put into a graveyard from anywhere, you may pay {G}{G}. 
 <Name>Freyalise, Llanowar's Fury</Name>
 <Type>Legendary Planeswalker — Freyalise (Loyalty: 3)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+2]: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."
-[-2]: Destroy target artifact or enchantment.
-[-6]: Draw a card for each green creature you control.
+<CardText>+2: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."
+-2: Destroy target artifact or enchantment.
+-6: Draw a card for each green creature you control.
 Freyalise, Llanowar's Fury can be your commander.</CardText>
 <Artist>Adam Paquette</Artist>
 <Vintage>Legal</Vintage>
@@ -1786,9 +1786,9 @@ Equip {3}</CardText>
 <Name>Dack Fayden</Name>
 <Type>Legendary Planeswalker — Dack (Loyalty: 3)</Type>
 <ManaCost>1UR (3)</ManaCost>
-<CardText>[+1]: Target player draws two cards, then discards two cards.
-[-2]: Gain control of target artifact.
-[-6]: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."</CardText>
+<CardText>+1: Target player draws two cards, then discards two cards.
+-2: Gain control of target artifact.
+-6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Rulings>2016/06/08: The targeted player draws two cards and discards two cards all while Dack's first ability is resolving. Nothing can happen between the two, and no player may choose to take actions.
 2016/06/08: The ability of Dack's emblem will resolve before the spell that caused it to trigger.

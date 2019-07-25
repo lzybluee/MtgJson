@@ -16,7 +16,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -27,6 +29,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{B}",
+            "mtgoId": 59005,
             "name": "Abyssal Persecutor",
             "number": "38",
             "power": "6",
@@ -93,7 +96,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -103,6 +108,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{U}",
+            "mtgoId": 59213,
             "name": "Aethersnatch",
             "number": "18",
             "printings": [
@@ -159,7 +165,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -169,6 +177,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgoId": 59077,
             "name": "Anger",
             "number": "53",
             "power": "2",
@@ -222,7 +231,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -232,6 +243,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}{U}{R}",
+            "mtgoId": 59053,
             "name": "Animar, Soul of Elements",
             "number": "93",
             "power": "1",
@@ -289,7 +301,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -299,6 +313,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}{W}",
+            "mtgoId": 59155,
             "name": "Anya, Merciless Angel",
             "number": "94",
             "power": "4",
@@ -354,7 +369,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -364,6 +381,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoId": 59201,
             "name": "Arachnogenesis",
             "number": "70",
             "printings": [
@@ -399,7 +417,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -407,8 +427,10 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58979,
             "name": "Arcane Sanctum",
             "number": "134",
             "printings": [
@@ -452,7 +474,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -462,6 +486,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{R}",
+            "mtgoId": 59141,
             "name": "Arjun, the Shifting Flame",
             "number": "95",
             "power": "5",
@@ -512,7 +537,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -522,6 +549,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgoId": 59203,
             "name": "Awaken the Sky Tyrant",
             "number": "54",
             "printings": [
@@ -565,7 +593,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -575,6 +605,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{B}",
+            "mtgoId": 59197,
             "name": "Banshee of the Dread Choir",
             "number": "39",
             "power": "4",
@@ -643,7 +674,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -653,6 +686,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgoId": 59089,
             "name": "Basalt Monolith",
             "number": "120",
             "printings": [
@@ -705,7 +739,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -715,6 +751,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgoId": 59139,
             "name": "Bastion Protector",
             "number": "1",
             "power": "3",
@@ -770,7 +807,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -782,6 +821,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{W}",
+            "mtgoId": 58993,
             "name": "Behemoth Sledge",
             "number": "96",
             "printings": [
@@ -822,7 +862,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -832,6 +874,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoId": 59065,
             "name": "Blade of Selves",
             "number": "121",
             "printings": [
@@ -914,7 +957,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -924,6 +969,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgoId": 59225,
             "name": "Bloodspore Thrinax",
             "number": "71",
             "power": "2",
@@ -966,7 +1012,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -977,6 +1025,7 @@
                 "pauper": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58999,
             "name": "Bojuka Bog",
             "number": "135",
             "printings": [
@@ -1018,7 +1067,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1029,6 +1080,7 @@
                 "vintage": "Restricted"
             },
             "manaCost": "{U}",
+            "mtgoId": 58989,
             "name": "Brainstorm",
             "number": "19",
             "printings": [
@@ -1087,7 +1139,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1098,6 +1152,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
+            "mtgoId": 59079,
             "name": "Brawn",
             "number": "72",
             "power": "3",
@@ -1141,7 +1196,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1152,6 +1209,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}",
+            "mtgoId": 59151,
             "name": "Broodbirth Viper",
             "number": "20",
             "power": "3",
@@ -1223,17 +1281,19 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}{G}",
+            "mtgoId": 59153,
             "name": "Caller of the Pack",
             "number": "73",
             "power": "8",
@@ -1306,7 +1366,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1316,6 +1378,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
+            "mtgoId": 59023,
             "name": "Centaur Vinecrasher",
             "number": "74",
             "power": "1",
@@ -1362,7 +1425,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1372,6 +1437,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgoId": 59045,
             "name": "Chaos Warp",
             "number": "55",
             "printings": [
@@ -1431,7 +1497,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1440,6 +1508,7 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59191,
             "name": "Command Beacon",
             "number": "136",
             "printings": [
@@ -1485,7 +1554,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1495,6 +1566,7 @@
                 "pauper": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59093,
             "name": "Command Tower",
             "number": "137",
             "printings": [
@@ -1553,7 +1625,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1562,10 +1636,10 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "pauper": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoId": 59233,
             "name": "Compulsive Research",
             "number": "21",
             "printings": [
@@ -1611,7 +1685,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1621,6 +1697,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgoId": 59121,
             "name": "Containment Priest",
             "number": "2",
             "power": "2",
@@ -1684,7 +1761,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1694,6 +1773,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}",
+            "mtgoId": 59021,
             "name": "Corpse Augur",
             "number": "40",
             "power": "4",
@@ -1741,7 +1821,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1752,6 +1834,7 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58977,
             "name": "Crumbling Necropolis",
             "number": "138",
             "printings": [
@@ -1794,7 +1877,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1806,6 +1891,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoId": 59015,
             "name": "Cultivate",
             "number": "75",
             "printings": [
@@ -1859,7 +1945,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1870,6 +1958,7 @@
             },
             "loyalty": "3",
             "manaCost": "{1}{U}{R}",
+            "mtgoId": 59067,
             "name": "Dack Fayden",
             "number": "97",
             "printings": [
@@ -1911,7 +2000,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Target player draws two cards, then discards two cards.\n−2: Gain control of target artifact.\n−6: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
+            "text": "[+1]: Target player draws two cards, then discards two cards.\n[−2]: Gain control of target artifact.\n[−6]: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
             "type": "Legendary Planeswalker — Dack",
             "types": [
                 "Planeswalker"
@@ -1932,7 +2021,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1943,6 +2034,7 @@
             },
             "loyalty": "3",
             "manaCost": "{3}{R}",
+            "mtgoId": 59115,
             "name": "Daretti, Scrap Savant",
             "number": "56",
             "printings": [
@@ -1976,7 +2068,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: Discard up to two cards, then draw that many cards.\n−2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.\n−10: You get an emblem with \"Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.\"\nDaretti, Scrap Savant can be your commander.",
+            "text": "[+2]: Discard up to two cards, then draw that many cards.\n[−2]: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.\n[−10]: You get an emblem with \"Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.\"\nDaretti, Scrap Savant can be your commander.",
             "type": "Legendary Planeswalker — Daretti",
             "types": [
                 "Planeswalker"
@@ -1997,7 +2089,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2007,6 +2101,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{W}{W}",
+            "mtgoId": 59101,
             "name": "Dawnbreak Reclaimer",
             "number": "3",
             "power": "5",
@@ -2057,7 +2152,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2067,6 +2164,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{B}",
+            "mtgoId": 59133,
             "name": "Daxos the Returned",
             "number": "98",
             "power": "2",
@@ -2135,7 +2233,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2145,6 +2245,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}",
+            "mtgoId": 59189,
             "name": "Daxos's Torment",
             "number": "41",
             "printings": [
@@ -2189,7 +2290,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2199,6 +2302,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{B}{B}",
+            "mtgoId": 59159,
             "name": "Deadly Tempest",
             "number": "42",
             "printings": [
@@ -2238,7 +2342,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2246,9 +2352,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoId": 59031,
             "name": "Deceiver Exarch",
             "number": "22",
             "power": "1",
@@ -2290,7 +2398,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2300,6 +2410,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{6}{B}{B}",
+            "mtgoId": 59099,
             "name": "Decree of Pain",
             "number": "43",
             "printings": [
@@ -2352,7 +2463,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2360,9 +2473,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}",
+            "mtgoId": 59033,
             "name": "Deep Analysis",
             "number": "23",
             "printings": [
@@ -2406,7 +2521,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2416,6 +2533,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}{U}",
+            "mtgoId": 58947,
             "name": "Desertion",
             "number": "24",
             "printings": [
@@ -2467,7 +2585,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2477,6 +2597,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgoId": 58963,
             "name": "Diaochan, Artful Beauty",
             "number": "57",
             "power": "1",
@@ -2528,7 +2649,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2538,6 +2661,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{R}{G}{G}",
+            "mtgoId": 59085,
             "name": "Dragonlair Spider",
             "number": "99",
             "power": "5",
@@ -2589,7 +2713,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2599,6 +2725,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{X}{B}{B}",
+            "mtgoId": 59221,
             "name": "Dread Summons",
             "number": "44",
             "printings": [
@@ -2638,7 +2765,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2649,6 +2778,7 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59239,
             "name": "Dreadship Reef",
             "number": "139",
             "printings": [
@@ -2687,7 +2817,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2697,6 +2829,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{R}{R}",
+            "mtgoId": 59145,
             "name": "Dream Pillager",
             "number": "58",
             "power": "4",
@@ -2753,7 +2886,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2765,6 +2900,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{6}",
+            "mtgoId": 59097,
             "name": "Duplicant",
             "number": "122",
             "power": "2",
@@ -2835,7 +2971,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2845,6 +2983,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{U}",
+            "mtgoId": 59041,
             "name": "Edric, Spymaster of Trest",
             "number": "100",
             "power": "2",
@@ -2906,7 +3045,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2918,6 +3059,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{R}",
+            "mtgoId": 59235,
             "name": "Electrolyze",
             "number": "101",
             "printings": [
@@ -2974,7 +3116,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2985,6 +3129,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{G}",
+            "mtgoId": 59229,
             "name": "Eternal Witness",
             "number": "76",
             "power": "2",
@@ -3042,7 +3187,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3052,6 +3199,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}{G}{G}",
+            "mtgoId": 59187,
             "name": "Ezuri's Predation",
             "number": "77",
             "printings": [
@@ -3105,7 +3253,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3115,6 +3265,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{U}",
+            "mtgoId": 59143,
             "name": "Ezuri, Claw of Progress",
             "number": "102",
             "power": "3",
@@ -3170,16 +3321,21 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}",
+            "mtgoId": 58985,
             "name": "Fact or Fiction",
             "number": "25",
             "printings": [
@@ -3204,11 +3360,11 @@
             "rarity": "uncommon",
             "rulings": [
                 {
-                    "date": "2016-06-08",
+                    "date": "2019-06-14",
                     "text": "You choose which pile to put into your hand."
                 },
                 {
-                    "date": "2016-06-08",
+                    "date": "2019-06-14",
                     "text": "Each pile may contain from zero to five cards; they don’t have to be split “evenly.”"
                 }
             ],
@@ -3239,7 +3395,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3251,6 +3409,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{R}",
+            "mtgoId": 59073,
             "name": "Faithless Looting",
             "number": "59",
             "printings": [
@@ -3297,7 +3456,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3307,6 +3468,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{R}",
+            "mtgoId": 59177,
             "name": "Fiery Confluence",
             "number": "60",
             "printings": [
@@ -3373,7 +3535,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3385,6 +3549,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R/G}",
+            "mtgoId": 58969,
             "name": "Firespout",
             "number": "103",
             "printings": [
@@ -3435,16 +3600,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgoId": 59025,
             "name": "Flametongue Kavu",
             "number": "61",
             "power": "4",
@@ -3501,16 +3670,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "modern": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{U}",
+            "mtgoId": 59039,
             "name": "Flusterstorm",
             "number": "26",
             "printings": [
@@ -3571,7 +3744,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3582,6 +3757,7 @@
             },
             "loyalty": "3",
             "manaCost": "{3}{G}{G}",
+            "mtgoId": 59123,
             "name": "Freyalise, Llanowar's Fury",
             "number": "78",
             "printings": [
@@ -3601,7 +3777,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: Create a 1/1 green Elf Druid creature token with \"{T}: Add {G}.\"\n−2: Destroy target artifact or enchantment.\n−6: Draw a card for each green creature you control.\nFreyalise, Llanowar's Fury can be your commander.",
+            "text": "[+2]: Create a 1/1 green Elf Druid creature token with \"{T}: Add {G}.\"\n[−2]: Destroy target artifact or enchantment.\n[−6]: Draw a card for each green creature you control.\nFreyalise, Llanowar's Fury can be your commander.",
             "type": "Legendary Planeswalker — Freyalise",
             "types": [
                 "Planeswalker"
@@ -3621,7 +3797,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3632,6 +3810,7 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59237,
             "name": "Fungal Reaches",
             "number": "140",
             "printings": [
@@ -3671,7 +3850,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3681,6 +3862,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{B}{G}",
+            "mtgoId": 59051,
             "name": "Ghave, Guru of Spores",
             "number": "104",
             "power": "0",
@@ -3726,7 +3908,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3737,6 +3921,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgoId": 58949,
             "name": "Ghostly Prison",
             "number": "4",
             "printings": [
@@ -3789,7 +3974,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3799,6 +3986,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}",
+            "mtgoId": 59207,
             "name": "Gigantoplasm",
             "number": "27",
             "power": "0",
@@ -3886,7 +4074,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3896,6 +4086,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgoId": 59107,
             "name": "Goblin Sharpshooter",
             "number": "62",
             "power": "1",
@@ -3936,7 +4127,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3946,6 +4139,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{W}",
+            "mtgoId": 59223,
             "name": "Grasp of Fate",
             "number": "5",
             "printings": [
@@ -4002,7 +4196,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4012,6 +4208,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}",
+            "mtgoId": 59035,
             "name": "Great Oak Guardian",
             "number": "79",
             "power": "4",
@@ -4061,7 +4258,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4072,6 +4271,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{G}",
+            "mtgoId": 59003,
             "name": "Harmonize",
             "number": "80",
             "printings": [
@@ -4125,17 +4325,19 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}{W}",
+            "mtgoId": 59181,
             "name": "Herald of the Host",
             "number": "6",
             "power": "4",
@@ -4209,7 +4411,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4218,6 +4422,7 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59043,
             "name": "Homeward Path",
             "number": "141",
             "printings": [
@@ -4267,7 +4472,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4278,6 +4485,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{R}{G}",
+            "mtgoId": 59013,
             "name": "Hull Breach",
             "number": "105",
             "printings": [
@@ -4316,7 +4524,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4327,6 +4537,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}",
+            "mtgoId": 59137,
             "name": "Illusory Ambusher",
             "number": "28",
             "power": "4",
@@ -4376,7 +4587,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4384,9 +4597,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "pauper": "Banned",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoId": 58991,
             "name": "Invigorate",
             "number": "81",
             "printings": [
@@ -4436,7 +4651,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4447,6 +4664,7 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58975,
             "name": "Jungle Shrine",
             "number": "142",
             "printings": [
@@ -4492,7 +4710,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4502,6 +4722,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}{W}{B}",
+            "mtgoId": 59047,
             "name": "Kaalia of the Vast",
             "number": "106",
             "power": "2",
@@ -4559,7 +4780,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4569,6 +4792,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}{W}",
+            "mtgoId": 59211,
             "name": "Kalemne's Captain",
             "number": "7",
             "power": "5",
@@ -4624,7 +4848,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4634,6 +4860,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{W}",
+            "mtgoId": 59171,
             "name": "Kalemne, Disciple of Iroas",
             "number": "107",
             "power": "3",
@@ -4693,7 +4920,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4703,6 +4932,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{B}",
+            "mtgoId": 59219,
             "name": "Karlov of the Ghost Council",
             "number": "108",
             "power": "2",
@@ -4760,7 +4990,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4770,6 +5002,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{U}",
+            "mtgoId": 59165,
             "name": "Kaseto, Orochi Archmage",
             "number": "109",
             "power": "2",
@@ -4814,7 +5047,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4825,6 +5060,7 @@
                 "pauper": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58997,
             "name": "Khalni Garden",
             "number": "143",
             "printings": [
@@ -4866,7 +5102,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4877,6 +5115,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoId": 59245,
             "name": "Krosan Grip",
             "number": "82",
             "printings": [
@@ -4938,7 +5177,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4947,6 +5188,7 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59081,
             "name": "Krosan Verge",
             "number": "144",
             "printings": [
@@ -4985,7 +5227,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -4996,6 +5240,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoId": 59105,
             "name": "Lightning Greaves",
             "number": "123",
             "printings": [
@@ -5050,7 +5295,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5060,6 +5307,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgoId": 58965,
             "name": "Loyal Retainers",
             "number": "8",
             "power": "1",
@@ -5112,7 +5360,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5122,6 +5372,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}{U}{R}",
+            "mtgoId": 59083,
             "name": "Maelstrom Wanderer",
             "number": "110",
             "power": "7",
@@ -5179,7 +5430,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5189,6 +5442,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgoId": 59183,
             "name": "Magus of the Wheel",
             "number": "63",
             "power": "3",
@@ -5239,7 +5493,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5249,6 +5505,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{B}{R}",
+            "mtgoId": 59113,
             "name": "Marchesa, the Black Rose",
             "number": "111",
             "power": "3",
@@ -5324,7 +5581,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5334,6 +5593,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{G}",
+            "mtgoId": 59227,
             "name": "Mazirek, Kraul Death Priest",
             "number": "112",
             "power": "2",
@@ -5391,7 +5651,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5401,6 +5663,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{G}",
+            "mtgoId": 59147,
             "name": "Meren of Clan Nel Toth",
             "number": "113",
             "power": "3",
@@ -5470,7 +5733,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5480,6 +5745,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{X}{R}{R}{R}",
+            "mtgoId": 59149,
             "name": "Meteor Blast",
             "number": "64",
             "printings": [
@@ -5521,7 +5787,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5532,6 +5800,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
+            "mtgoId": 59095,
             "name": "Mind's Eye",
             "number": "124",
             "printings": [
@@ -5573,16 +5842,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}{W}",
+            "mtgoId": 58959,
             "name": "Mirari's Wake",
             "number": "115",
             "printings": [
@@ -5624,7 +5897,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5634,6 +5909,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{U}",
+            "mtgoId": 59167,
             "name": "Mirror Match",
             "number": "29",
             "printings": [
@@ -5711,7 +5987,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5721,6 +5999,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}{R}",
+            "mtgoId": 59135,
             "name": "Mizzix of the Izmagnus",
             "number": "116",
             "power": "2",
@@ -5800,7 +6079,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5810,6 +6091,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}",
+            "mtgoId": 59205,
             "name": "Mizzix's Mastery",
             "number": "65",
             "printings": [
@@ -5872,7 +6154,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5883,6 +6167,7 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59243,
             "name": "Molten Slagheap",
             "number": "145",
             "printings": [
@@ -5920,7 +6205,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -5930,6 +6217,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}{U}",
+            "mtgoId": 59131,
             "name": "Mystic Confluence",
             "number": "30",
             "printings": [
@@ -5991,7 +6279,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6002,6 +6292,7 @@
             },
             "loyalty": "3",
             "manaCost": "{3}{W}{W}",
+            "mtgoId": 59119,
             "name": "Nahiri, the Lithomancer",
             "number": "9",
             "printings": [
@@ -6020,7 +6311,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.\n−2: You may put an Equipment card from your hand or graveyard onto the battlefield.\n−10: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, \"Equipped creature gets +5/+5 and has double strike,\" and equip {0}.\nNahiri, the Lithomancer can be your commander.",
+            "text": "[+2]: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.\n[−2]: You may put an Equipment card from your hand or graveyard onto the battlefield.\n[−10]: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, \"Equipped creature gets +5/+5 and has double strike,\" and equip {0}.\nNahiri, the Lithomancer can be your commander.",
             "type": "Legendary Planeswalker — Nahiri",
             "types": [
                 "Planeswalker"
@@ -6042,7 +6333,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6054,6 +6347,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoId": 59007,
             "name": "Nest Invader",
             "number": "83",
             "power": "2",
@@ -6096,7 +6390,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6107,6 +6403,7 @@
             },
             "loyalty": "3",
             "manaCost": "{3}{B}{B}",
+            "mtgoId": 59127,
             "name": "Ob Nixilis of the Black Oath",
             "number": "45",
             "printings": [
@@ -6125,7 +6422,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+2: Each opponent loses 1 life. You gain life equal to the life lost this way.\n−2: Create a 5/5 black Demon creature token with flying. You lose 2 life.\n−8: You get an emblem with \"{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.\"\nOb Nixilis of the Black Oath can be your commander.",
+            "text": "[+2]: Each opponent loses 1 life. You gain life equal to the life lost this way.\n[−2]: Create a 5/5 black Demon creature token with flying. You lose 2 life.\n[−8]: You get an emblem with \"{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.\"\nOb Nixilis of the Black Oath can be your commander.",
             "type": "Legendary Planeswalker — Nixilis",
             "types": [
                 "Planeswalker"
@@ -6146,7 +6443,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6156,6 +6455,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgoId": 59169,
             "name": "Oreskos Explorer",
             "number": "10",
             "power": "2",
@@ -6208,7 +6508,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6218,6 +6520,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{G}{G}",
+            "mtgoId": 59217,
             "name": "Pathbreaker Ibex",
             "number": "84",
             "power": "3",
@@ -6267,7 +6570,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6277,6 +6582,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoId": 58953,
             "name": "Propaganda",
             "number": "31",
             "printings": [
@@ -6339,7 +6645,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6347,9 +6655,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Banned",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}",
+            "mtgoId": 58955,
             "name": "Punishing Fire",
             "number": "66",
             "printings": [
@@ -6399,7 +6709,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6411,6 +6723,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}",
+            "mtgoId": 58967,
             "name": "Rancor",
             "number": "85",
             "printings": [
@@ -6465,7 +6778,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6473,10 +6788,10 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{6}{W}{W}{W}",
+            "mtgoId": 59001,
             "name": "Reya Dawnbringer",
             "number": "11",
             "power": "4",
@@ -6525,7 +6840,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6536,6 +6853,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoId": 58995,
             "name": "Rhystic Study",
             "number": "32",
             "printings": [
@@ -6583,7 +6901,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6593,6 +6913,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}{W}",
+            "mtgoId": 59179,
             "name": "Righteous Confluence",
             "number": "12",
             "printings": [
@@ -6656,7 +6977,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6666,6 +6989,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}{R}",
+            "mtgoId": 59163,
             "name": "Rite of the Raging Storm",
             "number": "67",
             "printings": [
@@ -6711,7 +7035,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6723,6 +7049,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoId": 59231,
             "name": "Sakura-Tribe Elder",
             "number": "86",
             "power": "1",
@@ -6776,7 +7103,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6787,6 +7116,7 @@
                 "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59241,
             "name": "Saltcrusted Steppe",
             "number": "146",
             "printings": [
@@ -6820,7 +7150,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6830,6 +7162,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{7}",
+            "mtgoId": 59161,
             "name": "Sandstone Oracle",
             "number": "125",
             "power": "4",
@@ -6872,7 +7205,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6880,8 +7215,10 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58971,
             "name": "Savage Lands",
             "number": "147",
             "printings": [
@@ -6925,7 +7262,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6935,6 +7274,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{B}{B}",
+            "mtgoId": 59193,
             "name": "Scourge of Nel Toth",
             "number": "46",
             "power": "6",
@@ -6984,7 +7324,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -6994,6 +7336,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoId": 58951,
             "name": "Scroll Rack",
             "number": "126",
             "printings": [
@@ -7033,7 +7376,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7043,6 +7388,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
+            "mtgoId": 59209,
             "name": "Scytheclaw",
             "number": "127",
             "printings": [
@@ -7085,7 +7431,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7095,6 +7443,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
+            "mtgoId": 59185,
             "name": "Seal of the Guildpact",
             "number": "128",
             "printings": [
@@ -7155,7 +7504,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7163,9 +7514,9 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 58973,
             "name": "Seaside Citadel",
             "number": "148",
             "printings": [
@@ -7210,17 +7561,19 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{U}",
+            "mtgoId": 58987,
             "name": "Shardless Agent",
             "number": "117",
             "power": "2",
@@ -7265,7 +7618,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7275,6 +7630,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{W}",
+            "mtgoId": 59129,
             "name": "Shielded by Faith",
             "number": "13",
             "printings": [
@@ -7313,7 +7669,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7323,6 +7681,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoId": 59157,
             "name": "Skullwinder",
             "number": "87",
             "power": "1",
@@ -7367,7 +7726,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7377,6 +7738,7 @@
                 "vintage": "Restricted"
             },
             "manaCost": "{1}",
+            "mtgoId": 59019,
             "name": "Sol Ring",
             "number": "129",
             "printings": [
@@ -7399,6 +7761,7 @@
                 "LEB",
                 "ME4",
                 "MPS",
+                "PF19",
                 "PRM",
                 "PZ1",
                 "SUM",
@@ -7434,7 +7797,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7442,9 +7807,11 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgoId": 59027,
             "name": "Spirit Mantle",
             "number": "14",
             "printings": [
@@ -7479,7 +7846,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7490,6 +7859,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoId": 59029,
             "name": "Swiftfoot Boots",
             "number": "130",
             "printings": [
@@ -7540,7 +7910,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7550,6 +7922,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoId": 59091,
             "name": "Sylvan Library",
             "number": "88",
             "printings": [
@@ -7624,7 +7997,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7634,6 +8009,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{U}",
+            "mtgoId": 59199,
             "name": "Synthetic Destiny",
             "number": "33",
             "printings": [
@@ -7693,7 +8069,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7704,6 +8082,7 @@
             },
             "loyalty": "5",
             "manaCost": "{4}{U}{U}",
+            "mtgoId": 59125,
             "name": "Teferi, Temporal Archmage",
             "number": "34",
             "printings": [
@@ -7731,7 +8110,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.\n−1: Untap up to four target permanents.\n−10: You get an emblem with \"You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.\"\nTeferi, Temporal Archmage can be your commander.",
+            "text": "[+1]: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.\n[−1]: Untap up to four target permanents.\n[−10]: You get an emblem with \"You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.\"\nTeferi, Temporal Archmage can be your commander.",
             "type": "Legendary Planeswalker — Teferi",
             "types": [
                 "Planeswalker"
@@ -7749,7 +8128,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7758,6 +8139,7 @@
                 "legacy": "Legal",
                 "vintage": "Legal"
             },
+            "mtgoId": 59103,
             "name": "Temple of the False God",
             "number": "149",
             "printings": [
@@ -7808,7 +8190,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7818,6 +8202,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{G}{U}",
+            "mtgoId": 59037,
             "name": "The Mimeoplasm",
             "number": "114",
             "power": "0",
@@ -7883,7 +8268,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7893,6 +8280,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{B}{B}",
+            "mtgoId": 59173,
             "name": "Thief of Blood",
             "number": "47",
             "power": "1",
@@ -7938,16 +8326,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
+            "mtgoId": 59069,
             "name": "Thought Vessel",
             "number": "131",
             "printings": [
@@ -7981,7 +8373,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -7991,6 +8385,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
+            "mtgoId": 58981,
             "name": "Thran Dynamo",
             "number": "132",
             "printings": [
@@ -8031,7 +8426,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8041,6 +8438,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}{G}",
+            "mtgoId": 59117,
             "name": "Titania, Protector of Argoth",
             "number": "89",
             "power": "5",
@@ -8083,7 +8481,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8093,6 +8493,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}",
+            "mtgoId": 59111,
             "name": "Toxic Deluge",
             "number": "48",
             "printings": [
@@ -8142,7 +8543,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8154,6 +8557,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
+            "mtgoId": 59071,
             "name": "Tragic Slip",
             "number": "49",
             "printings": [
@@ -8192,7 +8596,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8202,6 +8608,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{U}",
+            "mtgoId": 59109,
             "name": "True-Name Nemesis",
             "number": "35",
             "power": "3",
@@ -8251,7 +8658,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8261,6 +8670,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{B}",
+            "mtgoId": 59087,
             "name": "Vela the Night-Clad",
             "number": "118",
             "power": "4",
@@ -8310,7 +8720,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8320,6 +8732,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{G}{G}",
+            "mtgoId": 59195,
             "name": "Verdant Confluence",
             "number": "90",
             "printings": [
@@ -8384,7 +8797,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8396,6 +8811,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
+            "mtgoId": 59017,
             "name": "Viscera Seer",
             "number": "50",
             "power": "1",
@@ -8446,16 +8862,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgoId": 59055,
             "name": "Vow of Duty",
             "number": "15",
             "printings": [
@@ -8497,7 +8917,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8508,6 +8930,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}",
+            "mtgoId": 59061,
             "name": "Vow of Flight",
             "number": "36",
             "printings": [
@@ -8548,16 +8971,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgoId": 59057,
             "name": "Vow of Lightning",
             "number": "68",
             "printings": [
@@ -8596,16 +9023,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}",
+            "mtgoId": 59063,
             "name": "Vow of Malice",
             "number": "51",
             "printings": [
@@ -8646,16 +9077,20 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgoId": 59059,
             "name": "Vow of Wildness",
             "number": "91",
             "printings": [
@@ -8696,16 +9131,21 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgoId": 58957,
             "name": "Wall of Blossoms",
             "number": "92",
             "power": "0",
@@ -8714,6 +9154,7 @@
                 "C16",
                 "CMA",
                 "F02",
+                "MH1",
                 "PC2",
                 "PCA",
                 "PRM",
@@ -8756,7 +9197,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8767,6 +9210,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgoId": 59009,
             "name": "Wall of Omens",
             "number": "16",
             "power": "0",
@@ -8810,7 +9254,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8821,6 +9267,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}{R}",
+            "mtgoId": 59175,
             "name": "Warchief Giant",
             "number": "69",
             "power": "5",
@@ -8895,7 +9342,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8906,6 +9355,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}",
+            "mtgoId": 59075,
             "name": "Wonder",
             "number": "37",
             "power": "2",
@@ -8950,7 +9400,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -8960,6 +9412,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}",
+            "mtgoId": 58961,
             "name": "Worn Powerstone",
             "number": "133",
             "printings": [
@@ -9002,7 +9455,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -9013,6 +9468,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
+            "mtgoId": 59011,
             "name": "Wrath of God",
             "number": "17",
             "printings": [
@@ -9074,7 +9530,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -9084,6 +9542,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{B}",
+            "mtgoId": 59215,
             "name": "Wretched Confluence",
             "number": "52",
             "printings": [
@@ -9148,7 +9607,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": true,
+            "isMtgo": true,
             "isOnlineOnly": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -9158,6 +9619,7 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{R}{W}",
+            "mtgoId": 59049,
             "name": "Zedruu the Greathearted",
             "number": "119",
             "power": "2",
@@ -9206,12 +9668,12 @@
     "isOnlineOnly": true,
     "keyruneCode": "PZ1",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "mtgoCode": "PZ1",
-    "name": "Legendary Cube",
+    "name": "Legendary Cube Prize Pack",
     "releaseDate": "2015-11-18",
     "tokens": [],
     "totalSetSize": 149,

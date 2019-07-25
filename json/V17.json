@@ -22,6 +22,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -34,6 +37,7 @@
             },
             "mcmId": 312680,
             "mcmMetaId": 222093,
+            "mtgoId": 66393,
             "mtgstocksId": 36775,
             "multiverseId": 439315,
             "name": "Avacyn, the Purifier",
@@ -46,23 +50,21 @@
             "originalType": "Legendary Creature — Angel",
             "power": "6",
             "prices": {
-                "paper": {
-                    "2019-01-23": 5.66,
-                    "2019-01-30": 5.99,
-                    "2019-02-06": 6.0,
-                    "2019-02-13": 6.0,
-                    "2019-02-20": 6.0,
-                    "2019-02-27": 5.99,
-                    "2019-03-06": 5.97,
-                    "2019-03-13": 6.0,
-                    "2019-03-20": 5.92,
-                    "2019-03-27": 6.0,
-                    "2019-04-03": 6.0,
-                    "2019-04-10": 5.99,
-                    "2019-04-17": 5.91,
-                    "2019-04-24": 6.01,
-                    "2019-05-01": 6.05,
-                    "2019-05-08": 6.22
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.02,
+                    "2019-05-05": 6.29,
+                    "2019-05-12": 6.21,
+                    "2019-05-19": 6.16,
+                    "2019-05-26": 6.12,
+                    "2019-06-02": 6.12,
+                    "2019-06-09": 6.1,
+                    "2019-06-16": 6.17,
+                    "2019-06-23": 6.16,
+                    "2019-06-30": 6.12,
+                    "2019-07-07": 6.07,
+                    "2019-07-14": 6.18,
+                    "2019-07-21": 6.12
                 }
             },
             "printings": [
@@ -126,6 +128,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -138,6 +143,7 @@
             "manaCost": "{3}{W}{W}",
             "mcmId": 312680,
             "mcmMetaId": 222093,
+            "mtgoId": 66393,
             "mtgstocksId": 36775,
             "multiverseId": 439314,
             "name": "Archangel Avacyn",
@@ -150,23 +156,21 @@
             "originalType": "Legendary Creature — Angel",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 5.66,
-                    "2019-01-30": 5.99,
-                    "2019-02-06": 6.0,
-                    "2019-02-13": 6.0,
-                    "2019-02-20": 6.0,
-                    "2019-02-27": 5.99,
-                    "2019-03-06": 5.97,
-                    "2019-03-13": 6.0,
-                    "2019-03-20": 5.92,
-                    "2019-03-27": 6.0,
-                    "2019-04-03": 6.0,
-                    "2019-04-10": 5.99,
-                    "2019-04-17": 5.91,
-                    "2019-04-24": 6.01,
-                    "2019-05-01": 6.05,
-                    "2019-05-08": 6.22
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.02,
+                    "2019-05-05": 6.29,
+                    "2019-05-12": 6.21,
+                    "2019-05-19": 6.16,
+                    "2019-05-26": 6.12,
+                    "2019-06-02": 6.12,
+                    "2019-06-09": 6.1,
+                    "2019-06-16": 6.17,
+                    "2019-06-23": 6.16,
+                    "2019-06-30": 6.12,
+                    "2019-07-07": 6.07,
+                    "2019-07-14": 6.18,
+                    "2019-07-21": 6.12
                 }
             },
             "printings": [
@@ -228,6 +232,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -243,6 +250,7 @@
             },
             "mcmId": 312681,
             "mcmMetaId": 226877,
+            "mtgoId": 66397,
             "mtgstocksId": 36776,
             "multiverseId": 439317,
             "name": "Temple of Aclazotz",
@@ -254,23 +262,21 @@
             "originalText": "(Transforms from Arguel's Blood Fast.)\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
             "originalType": "Legendary Land",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.52,
-                    "2019-01-30": 2.48,
-                    "2019-02-06": 2.46,
-                    "2019-02-13": 2.44,
-                    "2019-02-20": 2.4,
-                    "2019-02-27": 2.3,
-                    "2019-03-06": 2.29,
-                    "2019-03-13": 2.3,
-                    "2019-03-20": 2.27,
-                    "2019-03-27": 2.3,
-                    "2019-04-03": 2.26,
-                    "2019-04-10": 2.19,
-                    "2019-04-17": 2.12,
-                    "2019-04-24": 2.09,
-                    "2019-05-01": 2.06,
-                    "2019-05-08": 1.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.06,
+                    "2019-05-05": 2.0,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.99,
+                    "2019-05-26": 1.8,
+                    "2019-06-02": 1.9,
+                    "2019-06-09": 1.9,
+                    "2019-06-16": 1.92,
+                    "2019-06-23": 1.93,
+                    "2019-06-30": 1.89,
+                    "2019-07-07": 1.87,
+                    "2019-07-14": 1.87,
+                    "2019-07-21": 1.82
                 }
             },
             "printings": [
@@ -340,6 +346,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -355,6 +364,7 @@
             "manaCost": "{1}{B}",
             "mcmId": 312681,
             "mcmMetaId": 226877,
+            "mtgoId": 66397,
             "mtgstocksId": 36776,
             "multiverseId": 439316,
             "name": "Arguel's Blood Fast",
@@ -366,23 +376,21 @@
             "originalText": "{1}{B}, Pay 2 life: Draw a card.\nAt the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",
             "originalType": "Legendary Enchantment",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.52,
-                    "2019-01-30": 2.48,
-                    "2019-02-06": 2.46,
-                    "2019-02-13": 2.44,
-                    "2019-02-20": 2.4,
-                    "2019-02-27": 2.3,
-                    "2019-03-06": 2.29,
-                    "2019-03-13": 2.3,
-                    "2019-03-20": 2.27,
-                    "2019-03-27": 2.3,
-                    "2019-04-03": 2.26,
-                    "2019-04-10": 2.19,
-                    "2019-04-17": 2.12,
-                    "2019-04-24": 2.09,
-                    "2019-05-01": 2.06,
-                    "2019-05-08": 1.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.06,
+                    "2019-05-05": 2.0,
+                    "2019-05-12": 1.99,
+                    "2019-05-19": 1.99,
+                    "2019-05-26": 1.8,
+                    "2019-06-02": 1.9,
+                    "2019-06-09": 1.9,
+                    "2019-06-16": 1.92,
+                    "2019-06-23": 1.93,
+                    "2019-06-30": 1.89,
+                    "2019-07-07": 1.87,
+                    "2019-07-14": 1.87,
+                    "2019-07-21": 1.82
                 }
             },
             "printings": [
@@ -457,6 +465,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -469,6 +480,7 @@
             },
             "mcmId": 312682,
             "mcmMetaId": 222161,
+            "mtgoId": 66401,
             "mtgstocksId": 36777,
             "multiverseId": 439319,
             "name": "Arlinn, Embraced by the Moon",
@@ -480,23 +492,21 @@
             "originalText": "+1: Creatures you control get +1/+1 and gain trample until end of turn.\n−1: Arlinn, Embraced by the Moon deals 3 damage to target creature or player. Transform Arlinn, Embraced by the Moon.\n−6: You get an emblem with \"Creatures you control have haste and ‘{T}: This creature deals damage equal to its power to target creature or player.'\"",
             "originalType": "Legendary Planeswalker — Arlinn",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.72,
-                    "2019-01-30": 3.75,
-                    "2019-02-06": 3.88,
-                    "2019-02-13": 3.81,
-                    "2019-02-20": 3.86,
-                    "2019-02-27": 3.96,
-                    "2019-03-06": 3.92,
-                    "2019-03-13": 3.98,
-                    "2019-03-20": 3.97,
-                    "2019-03-27": 3.99,
-                    "2019-04-03": 3.99,
-                    "2019-04-10": 3.99,
-                    "2019-04-17": 3.97,
-                    "2019-04-24": 3.99,
-                    "2019-05-01": 4.09,
-                    "2019-05-08": 4.09
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.04,
+                    "2019-05-05": 4.07,
+                    "2019-05-12": 4.21,
+                    "2019-05-19": 4.28,
+                    "2019-05-26": 4.9,
+                    "2019-06-02": 4.99,
+                    "2019-06-09": 5.0,
+                    "2019-06-16": 4.94,
+                    "2019-06-23": 4.98,
+                    "2019-06-30": 4.98,
+                    "2019-07-07": 4.99,
+                    "2019-07-14": 5.06,
+                    "2019-07-21": 5.11
                 }
             },
             "printings": [
@@ -559,7 +569,7 @@
             ],
             "tcgplayerProductId": 151634,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/ec41c0a42926d9c1",
-            "text": "+1: Creatures you control get +1/+1 and gain trample until end of turn.\n−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform Arlinn, Embraced by the Moon.\n−6: You get an emblem with \"Creatures you control have haste and '{T}: This creature deals damage equal to its power to any target.'\"",
+            "text": "[+1]: Creatures you control get +1/+1 and gain trample until end of turn.\n[−1]: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform Arlinn, Embraced by the Moon.\n[−6]: You get an emblem with \"Creatures you control have haste and '{T}: This creature deals damage equal to its power to any target.'\"",
             "type": "Legendary Planeswalker — Arlinn",
             "types": [
                 "Planeswalker"
@@ -584,6 +594,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -597,6 +610,7 @@
             "manaCost": "{2}{R}{G}",
             "mcmId": 312682,
             "mcmMetaId": 222161,
+            "mtgoId": 66401,
             "mtgstocksId": 36777,
             "multiverseId": 439318,
             "name": "Arlinn Kord",
@@ -608,23 +622,21 @@
             "originalText": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
             "originalType": "Legendary Planeswalker — Arlinn",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.72,
-                    "2019-01-30": 3.75,
-                    "2019-02-06": 3.88,
-                    "2019-02-13": 3.81,
-                    "2019-02-20": 3.86,
-                    "2019-02-27": 3.96,
-                    "2019-03-06": 3.92,
-                    "2019-03-13": 3.98,
-                    "2019-03-20": 3.97,
-                    "2019-03-27": 3.99,
-                    "2019-04-03": 3.99,
-                    "2019-04-10": 3.99,
-                    "2019-04-17": 3.97,
-                    "2019-04-24": 3.99,
-                    "2019-05-01": 4.09,
-                    "2019-05-08": 4.09
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.04,
+                    "2019-05-05": 4.07,
+                    "2019-05-12": 4.21,
+                    "2019-05-19": 4.28,
+                    "2019-05-26": 4.9,
+                    "2019-06-02": 4.99,
+                    "2019-06-09": 5.0,
+                    "2019-06-16": 4.94,
+                    "2019-06-23": 4.98,
+                    "2019-06-30": 4.98,
+                    "2019-07-07": 4.99,
+                    "2019-07-14": 5.06,
+                    "2019-07-21": 5.11
                 }
             },
             "printings": [
@@ -687,7 +699,7 @@
             ],
             "tcgplayerProductId": 151634,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/ec41c0a42926d9c1",
-            "text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
+            "text": "[+1]: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n[0]: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
             "type": "Legendary Planeswalker — Arlinn",
             "types": [
                 "Planeswalker"
@@ -713,6 +725,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -725,6 +740,7 @@
             },
             "mcmId": 312683,
             "mcmMetaId": 204049,
+            "mtgoId": 66405,
             "mtgstocksId": 36778,
             "multiverseId": 439321,
             "name": "Lord of Lineage",
@@ -737,23 +753,21 @@
             "originalType": "Creature — Vampire",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 8.64,
-                    "2019-01-30": 8.48,
-                    "2019-02-06": 8.49,
-                    "2019-02-13": 8.45,
-                    "2019-02-20": 8.45,
-                    "2019-02-27": 8.34,
-                    "2019-03-06": 8.2,
-                    "2019-03-13": 8.25,
-                    "2019-03-20": 7.95,
-                    "2019-03-27": 8.11,
-                    "2019-04-03": 8.17,
-                    "2019-04-10": 8.2,
-                    "2019-04-17": 8.56,
-                    "2019-04-24": 8.18,
-                    "2019-05-01": 8.45,
-                    "2019-05-08": 8.48
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 8.35,
+                    "2019-05-05": 8.41,
+                    "2019-05-12": 8.59,
+                    "2019-05-19": 8.52,
+                    "2019-05-26": 8.39,
+                    "2019-06-02": 8.59,
+                    "2019-06-09": 8.64,
+                    "2019-06-16": 8.54,
+                    "2019-06-23": 8.99,
+                    "2019-06-30": 8.99,
+                    "2019-07-07": 9.51,
+                    "2019-07-14": 9.48,
+                    "2019-07-21": 9.34
                 }
             },
             "printings": [
@@ -805,6 +819,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -817,6 +834,7 @@
             "manaCost": "{2}{B}{B}",
             "mcmId": 312683,
             "mcmMetaId": 204049,
+            "mtgoId": 66405,
             "mtgstocksId": 36778,
             "multiverseId": 439320,
             "name": "Bloodline Keeper",
@@ -829,23 +847,21 @@
             "originalType": "Creature — Vampire",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 8.64,
-                    "2019-01-30": 8.48,
-                    "2019-02-06": 8.49,
-                    "2019-02-13": 8.45,
-                    "2019-02-20": 8.45,
-                    "2019-02-27": 8.34,
-                    "2019-03-06": 8.2,
-                    "2019-03-13": 8.25,
-                    "2019-03-20": 7.95,
-                    "2019-03-27": 8.11,
-                    "2019-04-03": 8.17,
-                    "2019-04-10": 8.2,
-                    "2019-04-17": 8.56,
-                    "2019-04-24": 8.18,
-                    "2019-05-01": 8.45,
-                    "2019-05-08": 8.48
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 8.35,
+                    "2019-05-05": 8.41,
+                    "2019-05-12": 8.59,
+                    "2019-05-19": 8.52,
+                    "2019-05-26": 8.39,
+                    "2019-06-02": 8.59,
+                    "2019-06-09": 8.64,
+                    "2019-06-16": 8.54,
+                    "2019-06-23": 8.99,
+                    "2019-06-30": 8.99,
+                    "2019-07-07": 9.51,
+                    "2019-07-14": 9.48,
+                    "2019-07-21": 9.34
                 }
             },
             "printings": [
@@ -894,6 +910,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "meld",
             "legalities": {
@@ -985,6 +1004,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "meld",
             "legalities": {
@@ -999,6 +1021,7 @@
             "manaCost": "{5}{W}{W}",
             "mcmId": 312684,
             "mcmMetaId": 222994,
+            "mtgoId": 66409,
             "mtgstocksId": 36779,
             "multiverseId": 439322,
             "name": "Bruna, the Fading Light",
@@ -1012,23 +1035,21 @@
             "originalType": "Legendary Creature — Angel Horror",
             "power": "5",
             "prices": {
-                "paper": {
-                    "2019-01-23": 3.4,
-                    "2019-01-30": 3.35,
-                    "2019-02-06": 3.38,
-                    "2019-02-13": 3.13,
-                    "2019-02-20": 3.33,
-                    "2019-02-27": 3.06,
-                    "2019-03-06": 3.16,
-                    "2019-03-13": 3.35,
-                    "2019-03-20": 3.4,
-                    "2019-03-27": 3.49,
-                    "2019-04-03": 3.35,
-                    "2019-04-10": 3.39,
-                    "2019-04-17": 3.47,
-                    "2019-04-24": 3.5,
-                    "2019-05-01": 3.79,
-                    "2019-05-08": 3.65
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.52,
+                    "2019-05-05": 3.57,
+                    "2019-05-12": 3.8,
+                    "2019-05-19": 4.24,
+                    "2019-05-26": 4.29,
+                    "2019-06-02": 4.98,
+                    "2019-06-09": 4.74,
+                    "2019-06-16": 4.38,
+                    "2019-06-23": 4.48,
+                    "2019-06-30": 4.0,
+                    "2019-07-07": 4.24,
+                    "2019-07-14": 4.25,
+                    "2019-07-21": 4.25
                 }
             },
             "printings": [
@@ -1104,6 +1125,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -1112,11 +1136,13 @@
                 "frontier": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "loyalty": "4",
             "mcmId": 312685,
             "mcmMetaId": 220191,
+            "mtgoId": 66413,
             "mtgstocksId": 36780,
             "multiverseId": 439325,
             "name": "Chandra, Roaring Flame",
@@ -1128,23 +1154,21 @@
             "originalText": "+1: Chandra, Roaring Flame deals 2 damage to target player.\n−2: Chandra, Roaring Flame deals 2 damage to target creature.\n−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
             "originalType": "Legendary Planeswalker — Chandra",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.6,
-                    "2019-01-30": 2.56,
-                    "2019-02-06": 2.56,
-                    "2019-02-13": 2.57,
-                    "2019-02-20": 2.59,
-                    "2019-02-27": 2.57,
-                    "2019-03-06": 2.61,
-                    "2019-03-13": 2.64,
-                    "2019-03-20": 2.62,
-                    "2019-03-27": 2.59,
-                    "2019-04-03": 2.65,
-                    "2019-04-10": 2.69,
-                    "2019-04-17": 2.7,
-                    "2019-04-24": 2.63,
-                    "2019-05-01": 2.73,
-                    "2019-05-08": 2.77
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.71,
+                    "2019-05-05": 2.73,
+                    "2019-05-12": 2.76,
+                    "2019-05-19": 2.86,
+                    "2019-05-26": 2.9,
+                    "2019-06-02": 2.92,
+                    "2019-06-09": 2.84,
+                    "2019-06-16": 2.79,
+                    "2019-06-23": 2.99,
+                    "2019-06-30": 2.99,
+                    "2019-07-07": 2.95,
+                    "2019-07-14": 2.99,
+                    "2019-07-21": 2.99
                 }
             },
             "printings": [
@@ -1236,7 +1260,7 @@
             ],
             "tcgplayerProductId": 151637,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/aa25b506ec61aa99",
-            "text": "+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.\n−2: Chandra, Roaring Flame deals 2 damage to target creature.\n−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
+            "text": "[+1]: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.\n[−2]: Chandra, Roaring Flame deals 2 damage to target creature.\n[−7]: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
             "type": "Legendary Planeswalker — Chandra",
             "types": [
                 "Planeswalker"
@@ -1259,6 +1283,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -1266,11 +1293,13 @@
                 "frontier": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}{R}",
             "mcmId": 312685,
             "mcmMetaId": 220191,
+            "mtgoId": 66413,
             "mtgstocksId": 36780,
             "multiverseId": 439324,
             "name": "Chandra, Fire of Kaladesh",
@@ -1283,23 +1312,21 @@
             "originalType": "Legendary Creature — Human Shaman",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 2.6,
-                    "2019-01-30": 2.56,
-                    "2019-02-06": 2.56,
-                    "2019-02-13": 2.57,
-                    "2019-02-20": 2.59,
-                    "2019-02-27": 2.57,
-                    "2019-03-06": 2.61,
-                    "2019-03-13": 2.64,
-                    "2019-03-20": 2.62,
-                    "2019-03-27": 2.59,
-                    "2019-04-03": 2.65,
-                    "2019-04-10": 2.69,
-                    "2019-04-17": 2.7,
-                    "2019-04-24": 2.63,
-                    "2019-05-01": 2.73,
-                    "2019-05-08": 2.77
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.71,
+                    "2019-05-05": 2.73,
+                    "2019-05-12": 2.76,
+                    "2019-05-19": 2.86,
+                    "2019-05-26": 2.9,
+                    "2019-06-02": 2.92,
+                    "2019-06-09": 2.84,
+                    "2019-06-16": 2.79,
+                    "2019-06-23": 2.99,
+                    "2019-06-30": 2.99,
+                    "2019-07-07": 2.95,
+                    "2019-07-14": 2.99,
+                    "2019-07-21": 2.99
                 }
             },
             "printings": [
@@ -1420,6 +1447,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -1432,6 +1462,7 @@
             },
             "mcmId": 312375,
             "mcmMetaId": 204058,
+            "mtgoId": 66417,
             "mtgstocksId": 36781,
             "multiverseId": 439327,
             "name": "Insectile Aberration",
@@ -1444,23 +1475,21 @@
             "originalType": "Creature — Human Insect",
             "power": "3",
             "prices": {
-                "paper": {
-                    "2019-01-23": 9.81,
-                    "2019-01-30": 9.7,
-                    "2019-02-06": 9.5,
-                    "2019-02-13": 9.99,
-                    "2019-02-20": 10.0,
-                    "2019-02-27": 10.0,
-                    "2019-03-06": 10.07,
-                    "2019-03-13": 9.9,
-                    "2019-03-20": 9.93,
-                    "2019-03-27": 9.95,
-                    "2019-04-03": 9.99,
-                    "2019-04-10": 9.94,
-                    "2019-04-17": 9.99,
-                    "2019-04-24": 9.99,
-                    "2019-05-01": 9.98,
-                    "2019-05-08": 9.97
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 9.95,
+                    "2019-05-05": 9.93,
+                    "2019-05-12": 10.0,
+                    "2019-05-19": 10.12,
+                    "2019-05-26": 10.09,
+                    "2019-06-02": 10.0,
+                    "2019-06-09": 9.97,
+                    "2019-06-16": 9.97,
+                    "2019-06-23": 9.75,
+                    "2019-06-30": 9.97,
+                    "2019-07-07": 9.99,
+                    "2019-07-14": 10.0,
+                    "2019-07-21": 10.36
                 }
             },
             "printings": [
@@ -1517,6 +1546,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -1529,6 +1561,7 @@
             "manaCost": "{U}",
             "mcmId": 312375,
             "mcmMetaId": 204058,
+            "mtgoId": 66417,
             "mtgstocksId": 36781,
             "multiverseId": 439326,
             "name": "Delver of Secrets",
@@ -1541,23 +1574,21 @@
             "originalType": "Creature — Human Wizard",
             "power": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 9.81,
-                    "2019-01-30": 9.7,
-                    "2019-02-06": 9.5,
-                    "2019-02-13": 9.99,
-                    "2019-02-20": 10.0,
-                    "2019-02-27": 10.0,
-                    "2019-03-06": 10.07,
-                    "2019-03-13": 9.9,
-                    "2019-03-20": 9.93,
-                    "2019-03-27": 9.95,
-                    "2019-04-03": 9.99,
-                    "2019-04-10": 9.94,
-                    "2019-04-17": 9.99,
-                    "2019-04-24": 9.99,
-                    "2019-05-01": 9.98,
-                    "2019-05-08": 9.97
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 9.95,
+                    "2019-05-05": 9.93,
+                    "2019-05-12": 10.0,
+                    "2019-05-19": 10.12,
+                    "2019-05-26": 10.09,
+                    "2019-06-02": 10.0,
+                    "2019-06-09": 9.97,
+                    "2019-06-16": 9.97,
+                    "2019-06-23": 9.75,
+                    "2019-06-30": 9.97,
+                    "2019-07-07": 9.99,
+                    "2019-07-14": 10.0,
+                    "2019-07-21": 10.36
                 }
             },
             "printings": [
@@ -1618,6 +1649,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -1625,10 +1659,12 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "mcmId": 312686,
             "mcmMetaId": 204890,
+            "mtgoId": 66421,
             "mtgstocksId": 36782,
             "multiverseId": 439329,
             "name": "Withengar Unbound",
@@ -1641,23 +1677,21 @@
             "originalType": "Legendary Creature — Demon",
             "power": "13",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.28,
-                    "2019-01-30": 4.23,
-                    "2019-02-06": 4.32,
-                    "2019-02-13": 4.22,
-                    "2019-02-20": 4.12,
-                    "2019-02-27": 4.15,
-                    "2019-03-06": 4.45,
-                    "2019-03-13": 4.36,
-                    "2019-03-20": 4.25,
-                    "2019-03-27": 4.27,
-                    "2019-04-03": 4.28,
-                    "2019-04-10": 4.49,
-                    "2019-04-17": 4.49,
-                    "2019-04-24": 4.5,
-                    "2019-05-01": 4.48,
-                    "2019-05-08": 4.43
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.49,
+                    "2019-05-05": 4.44,
+                    "2019-05-12": 4.49,
+                    "2019-05-19": 4.49,
+                    "2019-05-26": 4.5,
+                    "2019-06-02": 4.51,
+                    "2019-06-09": 4.45,
+                    "2019-06-16": 4.48,
+                    "2019-06-23": 4.48,
+                    "2019-06-30": 4.49,
+                    "2019-07-07": 4.5,
+                    "2019-07-14": 4.48,
+                    "2019-07-21": 4.43
                 }
             },
             "printings": [
@@ -1726,17 +1760,22 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{7}",
             "mcmId": 312686,
             "mcmMetaId": 204890,
+            "mtgoId": 66421,
             "mtgstocksId": 36782,
             "multiverseId": 439328,
             "name": "Elbrus, the Binding Blade",
@@ -1748,23 +1787,21 @@
             "originalText": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
             "originalType": "Legendary Artifact — Equipment",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.28,
-                    "2019-01-30": 4.23,
-                    "2019-02-06": 4.32,
-                    "2019-02-13": 4.22,
-                    "2019-02-20": 4.12,
-                    "2019-02-27": 4.15,
-                    "2019-03-06": 4.45,
-                    "2019-03-13": 4.36,
-                    "2019-03-20": 4.25,
-                    "2019-03-27": 4.27,
-                    "2019-04-03": 4.28,
-                    "2019-04-10": 4.49,
-                    "2019-04-17": 4.49,
-                    "2019-04-24": 4.5,
-                    "2019-05-01": 4.48,
-                    "2019-05-08": 4.43
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.49,
+                    "2019-05-05": 4.44,
+                    "2019-05-12": 4.49,
+                    "2019-05-19": 4.49,
+                    "2019-05-26": 4.5,
+                    "2019-06-02": 4.51,
+                    "2019-06-09": 4.45,
+                    "2019-06-16": 4.48,
+                    "2019-06-23": 4.48,
+                    "2019-06-30": 4.49,
+                    "2019-07-07": 4.5,
+                    "2019-07-14": 4.48,
+                    "2019-07-21": 4.43
                 }
             },
             "printings": [
@@ -1839,6 +1876,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -1850,6 +1890,7 @@
             },
             "mcmId": 312691,
             "mcmMetaId": 204010,
+            "mtgoId": 66425,
             "mtgstocksId": 36783,
             "multiverseId": 439331,
             "name": "Garruk, the Veil-Cursed",
@@ -1861,23 +1902,21 @@
             "originalText": "+1: Create a 1/1 black Wolf creature token with deathtouch.\n−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
             "originalType": "Legendary Planeswalker — Garruk",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.0,
-                    "2019-01-30": 4.12,
-                    "2019-02-06": 4.11,
-                    "2019-02-13": 4.1,
-                    "2019-02-20": 4.11,
-                    "2019-02-27": 4.05,
-                    "2019-03-06": 4.14,
-                    "2019-03-13": 4.11,
-                    "2019-03-20": 4.14,
-                    "2019-03-27": 3.99,
-                    "2019-04-03": 3.99,
-                    "2019-04-10": 4.17,
-                    "2019-04-17": 4.26,
-                    "2019-04-24": 4.29,
-                    "2019-05-01": 4.4,
-                    "2019-05-08": 4.33
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.44,
+                    "2019-05-05": 4.19,
+                    "2019-05-12": 4.47,
+                    "2019-05-19": 4.73,
+                    "2019-05-26": 4.58,
+                    "2019-06-02": 4.75,
+                    "2019-06-09": 4.77,
+                    "2019-06-16": 4.75,
+                    "2019-06-23": 4.75,
+                    "2019-06-30": 4.75,
+                    "2019-07-07": 4.75,
+                    "2019-07-14": 4.75,
+                    "2019-07-21": 4.77
                 }
             },
             "printings": [
@@ -1931,7 +1970,7 @@
             ],
             "tcgplayerProductId": 151640,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/8add489221ae951d",
-            "text": "+1: Create a 1/1 black Wolf creature token with deathtouch.\n−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
+            "text": "[+1]: Create a 1/1 black Wolf creature token with deathtouch.\n[−1]: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n[−3]: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
             "type": "Legendary Planeswalker — Garruk",
             "types": [
                 "Planeswalker"
@@ -1955,6 +1994,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -1967,6 +2009,7 @@
             "manaCost": "{3}{G}",
             "mcmId": 312691,
             "mcmMetaId": 204010,
+            "mtgoId": 66425,
             "mtgstocksId": 36783,
             "multiverseId": 439330,
             "name": "Garruk Relentless",
@@ -1978,23 +2021,21 @@
             "originalText": "When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.\n0: Create a 2/2 green Wolf creature token.",
             "originalType": "Legendary Planeswalker — Garruk",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.0,
-                    "2019-01-30": 4.12,
-                    "2019-02-06": 4.11,
-                    "2019-02-13": 4.1,
-                    "2019-02-20": 4.11,
-                    "2019-02-27": 4.05,
-                    "2019-03-06": 4.14,
-                    "2019-03-13": 4.11,
-                    "2019-03-20": 4.14,
-                    "2019-03-27": 3.99,
-                    "2019-04-03": 3.99,
-                    "2019-04-10": 4.17,
-                    "2019-04-17": 4.26,
-                    "2019-04-24": 4.29,
-                    "2019-05-01": 4.4,
-                    "2019-05-08": 4.33
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.44,
+                    "2019-05-05": 4.19,
+                    "2019-05-12": 4.47,
+                    "2019-05-19": 4.73,
+                    "2019-05-26": 4.58,
+                    "2019-06-02": 4.75,
+                    "2019-06-09": 4.77,
+                    "2019-06-16": 4.75,
+                    "2019-06-23": 4.75,
+                    "2019-06-30": 4.75,
+                    "2019-07-07": 4.75,
+                    "2019-07-14": 4.75,
+                    "2019-07-21": 4.77
                 }
             },
             "printings": [
@@ -2048,7 +2089,7 @@
             ],
             "tcgplayerProductId": 151640,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/8add489221ae951d",
-            "text": "When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.\n0: Create a 2/2 green Wolf creature token.",
+            "text": "When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n[0]: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.\n[0]: Create a 2/2 green Wolf creature token.",
             "type": "Legendary Planeswalker — Garruk",
             "types": [
                 "Planeswalker"
@@ -2070,6 +2111,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "meld",
             "legalities": {
@@ -2083,6 +2127,7 @@
             "manaCost": "{2}{W}{W}",
             "mcmId": 312687,
             "mcmMetaId": 222995,
+            "mtgoId": 66429,
             "mtgstocksId": 36784,
             "multiverseId": 439332,
             "name": "Gisela, the Broken Blade",
@@ -2096,23 +2141,21 @@
             "originalType": "Legendary Creature — Angel Horror",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 10.99,
-                    "2019-01-30": 11.15,
-                    "2019-02-06": 11.58,
-                    "2019-02-13": 11.16,
-                    "2019-02-20": 11.07,
-                    "2019-02-27": 11.07,
-                    "2019-03-06": 11.37,
-                    "2019-03-13": 11.79,
-                    "2019-03-20": 12.0,
-                    "2019-03-27": 11.99,
-                    "2019-04-03": 11.99,
-                    "2019-04-10": 11.99,
-                    "2019-04-17": 11.87,
-                    "2019-04-24": 12.13,
-                    "2019-05-01": 12.0,
-                    "2019-05-08": 12.48
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 12.25,
+                    "2019-05-05": 12.37,
+                    "2019-05-12": 13.69,
+                    "2019-05-19": 12.59,
+                    "2019-05-26": 14.86,
+                    "2019-06-02": 15.99,
+                    "2019-06-09": 15.97,
+                    "2019-06-16": 15.19,
+                    "2019-06-23": 15.19,
+                    "2019-06-30": 15.95,
+                    "2019-07-07": 15.95,
+                    "2019-07-14": 15.2,
+                    "2019-07-21": 15.35
                 }
             },
             "printings": [
@@ -2187,6 +2230,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -2198,6 +2244,7 @@
             },
             "mcmId": 312374,
             "mcmMetaId": 204771,
+            "mtgoId": 66431,
             "mtgstocksId": 36785,
             "multiverseId": 439334,
             "name": "Ravager of the Fells",
@@ -2210,23 +2257,21 @@
             "originalType": "Creature — Werewolf",
             "power": "4",
             "prices": {
-                "paper": {
-                    "2019-01-23": 12.03,
-                    "2019-01-30": 12.34,
-                    "2019-02-06": 12.0,
-                    "2019-02-13": 12.0,
-                    "2019-02-20": 12.21,
-                    "2019-02-27": 12.0,
-                    "2019-03-06": 12.08,
-                    "2019-03-13": 12.2,
-                    "2019-03-20": 12.1,
-                    "2019-03-27": 12.1,
-                    "2019-04-03": 11.98,
-                    "2019-04-10": 12.08,
-                    "2019-04-17": 11.98,
-                    "2019-04-24": 11.71,
-                    "2019-05-01": 12.0,
-                    "2019-05-08": 12.28
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 12.0,
+                    "2019-05-05": 12.13,
+                    "2019-05-12": 12.2,
+                    "2019-05-19": 12.13,
+                    "2019-05-26": 12.06,
+                    "2019-06-02": 12.34,
+                    "2019-06-09": 12.45,
+                    "2019-06-16": 12.45,
+                    "2019-06-23": 12.55,
+                    "2019-06-30": 12.71,
+                    "2019-07-07": 12.76,
+                    "2019-07-14": 13.18,
+                    "2019-07-21": 12.9
                 }
             },
             "printings": [
@@ -2280,6 +2325,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -2291,6 +2339,7 @@
             "manaCost": "{2}{R}{G}",
             "mcmId": 312374,
             "mcmMetaId": 204771,
+            "mtgoId": 66431,
             "mtgstocksId": 36785,
             "multiverseId": 439333,
             "name": "Huntmaster of the Fells",
@@ -2303,23 +2352,21 @@
             "originalType": "Creature — Human Werewolf",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 12.03,
-                    "2019-01-30": 12.34,
-                    "2019-02-06": 12.0,
-                    "2019-02-13": 12.0,
-                    "2019-02-20": 12.21,
-                    "2019-02-27": 12.0,
-                    "2019-03-06": 12.08,
-                    "2019-03-13": 12.2,
-                    "2019-03-20": 12.1,
-                    "2019-03-27": 12.1,
-                    "2019-04-03": 11.98,
-                    "2019-04-10": 12.08,
-                    "2019-04-17": 11.98,
-                    "2019-04-24": 11.71,
-                    "2019-05-01": 12.0,
-                    "2019-05-08": 12.28
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 12.0,
+                    "2019-05-05": 12.13,
+                    "2019-05-12": 12.2,
+                    "2019-05-19": 12.13,
+                    "2019-05-26": 12.06,
+                    "2019-06-02": 12.34,
+                    "2019-06-09": 12.45,
+                    "2019-06-16": 12.45,
+                    "2019-06-23": 12.55,
+                    "2019-06-30": 12.71,
+                    "2019-07-07": 12.76,
+                    "2019-07-14": 13.18,
+                    "2019-07-21": 12.9
                 }
             },
             "printings": [
@@ -2375,6 +2422,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -2388,6 +2438,7 @@
             "loyalty": "5",
             "mcmId": 312688,
             "mcmMetaId": 220211,
+            "mtgoId": 66435,
             "mtgstocksId": 36786,
             "multiverseId": 439336,
             "name": "Jace, Telepath Unbound",
@@ -2399,23 +2450,21 @@
             "originalText": "+1: Up to one target creature gets -2/-0 until your next turn.\n−3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n−9: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.\"",
             "originalType": "Legendary Planeswalker — Jace",
             "prices": {
-                "paper": {
-                    "2019-01-23": 18.0,
-                    "2019-01-30": 18.0,
-                    "2019-02-06": 18.0,
-                    "2019-02-13": 18.56,
-                    "2019-02-20": 18.99,
-                    "2019-02-27": 18.95,
-                    "2019-03-06": 18.71,
-                    "2019-03-13": 18.99,
-                    "2019-03-20": 19.0,
-                    "2019-03-27": 19.99,
-                    "2019-04-03": 19.99,
-                    "2019-04-10": 19.99,
-                    "2019-04-17": 20.0,
-                    "2019-04-24": 20.73,
-                    "2019-05-01": 21.65,
-                    "2019-05-08": 21.56
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 21.24,
+                    "2019-05-05": 21.39,
+                    "2019-05-12": 22.0,
+                    "2019-05-19": 21.89,
+                    "2019-05-26": 20.95,
+                    "2019-06-02": 21.08,
+                    "2019-06-09": 20.5,
+                    "2019-06-16": 20.35,
+                    "2019-06-23": 21.01,
+                    "2019-06-30": 22.99,
+                    "2019-07-07": 24.0,
+                    "2019-07-14": 25.0,
+                    "2019-07-21": 25.59
                 }
             },
             "printings": [
@@ -2511,7 +2560,7 @@
             ],
             "tcgplayerProductId": 151644,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/89d3d02c7227eb19",
-            "text": "+1: Up to one target creature gets -2/-0 until your next turn.\n−3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n−9: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard.\"",
+            "text": "[+1]: Up to one target creature gets -2/-0 until your next turn.\n[−3]: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n[−9]: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard.\"",
             "type": "Legendary Planeswalker — Jace",
             "types": [
                 "Planeswalker"
@@ -2535,6 +2584,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -2547,6 +2599,7 @@
             "manaCost": "{1}{U}",
             "mcmId": 312688,
             "mcmMetaId": 220211,
+            "mtgoId": 66435,
             "mtgstocksId": 36786,
             "multiverseId": 439335,
             "name": "Jace, Vryn's Prodigy",
@@ -2559,23 +2612,21 @@
             "originalType": "Legendary Creature — Human Wizard",
             "power": "0",
             "prices": {
-                "paper": {
-                    "2019-01-23": 18.0,
-                    "2019-01-30": 18.0,
-                    "2019-02-06": 18.0,
-                    "2019-02-13": 18.56,
-                    "2019-02-20": 18.99,
-                    "2019-02-27": 18.95,
-                    "2019-03-06": 18.71,
-                    "2019-03-13": 18.99,
-                    "2019-03-20": 19.0,
-                    "2019-03-27": 19.99,
-                    "2019-04-03": 19.99,
-                    "2019-04-10": 19.99,
-                    "2019-04-17": 20.0,
-                    "2019-04-24": 20.73,
-                    "2019-05-01": 21.65,
-                    "2019-05-08": 21.56
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 21.24,
+                    "2019-05-05": 21.39,
+                    "2019-05-12": 22.0,
+                    "2019-05-19": 21.89,
+                    "2019-05-26": 20.95,
+                    "2019-06-02": 21.08,
+                    "2019-06-09": 20.5,
+                    "2019-06-16": 20.35,
+                    "2019-06-23": 21.01,
+                    "2019-06-30": 22.99,
+                    "2019-07-07": 24.0,
+                    "2019-07-14": 25.0,
+                    "2019-07-21": 25.59
                 }
             },
             "printings": [
@@ -2699,6 +2750,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -2712,6 +2766,7 @@
             "loyalty": "3",
             "mcmId": 312689,
             "mcmMetaId": 220189,
+            "mtgoId": 66439,
             "mtgstocksId": 36787,
             "multiverseId": 439338,
             "name": "Gideon, Battle-Forged",
@@ -2723,23 +2778,21 @@
             "originalText": "+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.\n+1: Until your next turn, target creature gains indestructible. Untap that creature.\n0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
             "originalType": "Legendary Planeswalker — Gideon",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.18,
-                    "2019-01-30": 4.33,
-                    "2019-02-06": 4.36,
-                    "2019-02-13": 4.41,
-                    "2019-02-20": 4.49,
-                    "2019-02-27": 4.48,
-                    "2019-03-06": 4.49,
-                    "2019-03-13": 4.43,
-                    "2019-03-20": 4.38,
-                    "2019-03-27": 4.38,
-                    "2019-04-03": 4.43,
-                    "2019-04-10": 4.49,
-                    "2019-04-17": 4.49,
-                    "2019-04-24": 4.5,
-                    "2019-05-01": 4.59,
-                    "2019-05-08": 4.59
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.55,
+                    "2019-05-05": 4.55,
+                    "2019-05-12": 4.73,
+                    "2019-05-19": 4.81,
+                    "2019-05-26": 4.76,
+                    "2019-06-02": 4.81,
+                    "2019-06-09": 4.95,
+                    "2019-06-16": 4.76,
+                    "2019-06-23": 4.62,
+                    "2019-06-30": 4.63,
+                    "2019-07-07": 4.59,
+                    "2019-07-14": 4.56,
+                    "2019-07-21": 4.4
                 }
             },
             "printings": [
@@ -2843,7 +2896,7 @@
             ],
             "tcgplayerProductId": 151641,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/56ea88aadd4916da",
-            "text": "+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.\n+1: Until your next turn, target creature gains indestructible. Untap that creature.\n0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+            "text": "[+2]: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.\n[+1]: Until your next turn, target creature gains indestructible. Untap that creature.\n[0]: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
             "type": "Legendary Planeswalker — Gideon",
             "types": [
                 "Planeswalker"
@@ -2866,6 +2919,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -2878,6 +2934,7 @@
             "manaCost": "{W}",
             "mcmId": 312689,
             "mcmMetaId": 220189,
+            "mtgoId": 66439,
             "mtgstocksId": 36787,
             "multiverseId": 439337,
             "name": "Kytheon, Hero of Akros",
@@ -2890,23 +2947,21 @@
             "originalType": "Legendary Creature — Human Soldier",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 4.18,
-                    "2019-01-30": 4.33,
-                    "2019-02-06": 4.36,
-                    "2019-02-13": 4.41,
-                    "2019-02-20": 4.49,
-                    "2019-02-27": 4.48,
-                    "2019-03-06": 4.49,
-                    "2019-03-13": 4.43,
-                    "2019-03-20": 4.38,
-                    "2019-03-27": 4.38,
-                    "2019-04-03": 4.43,
-                    "2019-04-10": 4.49,
-                    "2019-04-17": 4.49,
-                    "2019-04-24": 4.5,
-                    "2019-05-01": 4.59,
-                    "2019-05-08": 4.59
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.55,
+                    "2019-05-05": 4.55,
+                    "2019-05-12": 4.73,
+                    "2019-05-19": 4.81,
+                    "2019-05-26": 4.76,
+                    "2019-06-02": 4.81,
+                    "2019-06-09": 4.95,
+                    "2019-06-16": 4.76,
+                    "2019-06-23": 4.62,
+                    "2019-06-30": 4.63,
+                    "2019-07-07": 4.59,
+                    "2019-07-14": 4.56,
+                    "2019-07-21": 4.4
                 }
             },
             "printings": [
@@ -3038,6 +3093,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -3051,6 +3109,7 @@
             "loyalty": "3",
             "mcmId": 312373,
             "mcmMetaId": 220185,
+            "mtgoId": 66443,
             "mtgstocksId": 36788,
             "multiverseId": 439340,
             "name": "Liliana, Defiant Necromancer",
@@ -3062,23 +3121,21 @@
             "originalText": "+2: Each player discards a card.\n−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n−8: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
             "originalType": "Legendary Planeswalker — Liliana",
             "prices": {
-                "paper": {
-                    "2019-01-23": 9.99,
-                    "2019-01-30": 10.0,
-                    "2019-02-06": 10.0,
-                    "2019-02-13": 10.0,
-                    "2019-02-20": 10.1,
-                    "2019-02-27": 10.97,
-                    "2019-03-06": 11.95,
-                    "2019-03-13": 11.85,
-                    "2019-03-20": 11.85,
-                    "2019-03-27": 12.87,
-                    "2019-04-03": 11.99,
-                    "2019-04-10": 11.99,
-                    "2019-04-17": 11.89,
-                    "2019-04-24": 11.99,
-                    "2019-05-01": 13.07,
-                    "2019-05-08": 13.79
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 12.64,
+                    "2019-05-05": 13.59,
+                    "2019-05-12": 14.0,
+                    "2019-05-19": 14.49,
+                    "2019-05-26": 14.25,
+                    "2019-06-02": 14.49,
+                    "2019-06-09": 15.0,
+                    "2019-06-16": 16.0,
+                    "2019-06-23": 16.5,
+                    "2019-06-30": 15.99,
+                    "2019-07-07": 15.99,
+                    "2019-07-14": 15.99,
+                    "2019-07-21": 15.87
                 }
             },
             "printings": [
@@ -3158,7 +3215,7 @@
             ],
             "tcgplayerProductId": 151645,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b4778fde72073849",
-            "text": "+2: Each player discards a card.\n−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n−8: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
+            "text": "[+2]: Each player discards a card.\n−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n[−8]: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -3181,6 +3238,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -3193,6 +3253,7 @@
             "manaCost": "{1}{B}{B}",
             "mcmId": 312373,
             "mcmMetaId": 220185,
+            "mtgoId": 66443,
             "mtgstocksId": 36788,
             "multiverseId": 439339,
             "name": "Liliana, Heretical Healer",
@@ -3205,23 +3266,21 @@
             "originalType": "Legendary Creature — Human Cleric",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 9.99,
-                    "2019-01-30": 10.0,
-                    "2019-02-06": 10.0,
-                    "2019-02-13": 10.0,
-                    "2019-02-20": 10.1,
-                    "2019-02-27": 10.97,
-                    "2019-03-06": 11.95,
-                    "2019-03-13": 11.85,
-                    "2019-03-20": 11.85,
-                    "2019-03-27": 12.87,
-                    "2019-04-03": 11.99,
-                    "2019-04-10": 11.99,
-                    "2019-04-17": 11.89,
-                    "2019-04-24": 11.99,
-                    "2019-05-01": 13.07,
-                    "2019-05-08": 13.79
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 12.64,
+                    "2019-05-05": 13.59,
+                    "2019-05-12": 14.0,
+                    "2019-05-19": 14.49,
+                    "2019-05-26": 14.25,
+                    "2019-06-02": 14.49,
+                    "2019-06-09": 15.0,
+                    "2019-06-16": 16.0,
+                    "2019-06-23": 16.5,
+                    "2019-06-30": 15.99,
+                    "2019-07-07": 15.99,
+                    "2019-07-14": 15.99,
+                    "2019-07-21": 15.87
                 }
             },
             "printings": [
@@ -3329,6 +3388,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "transform",
             "legalities": {
@@ -3342,6 +3404,7 @@
             "loyalty": "3",
             "mcmId": 312690,
             "mcmMetaId": 220212,
+            "mtgoId": 66447,
             "mtgstocksId": 36789,
             "multiverseId": 439342,
             "name": "Nissa, Sage Animist",
@@ -3353,23 +3416,21 @@
             "originalText": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n−2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
             "originalType": "Legendary Planeswalker — Nissa",
             "prices": {
-                "paper": {
-                    "2019-01-23": 6.78,
-                    "2019-01-30": 7.0,
-                    "2019-02-06": 7.4,
-                    "2019-02-13": 7.59,
-                    "2019-02-20": 7.49,
-                    "2019-02-27": 7.44,
-                    "2019-03-06": 7.5,
-                    "2019-03-13": 7.74,
-                    "2019-03-20": 7.95,
-                    "2019-03-27": 8.67,
-                    "2019-04-03": 8.47,
-                    "2019-04-10": 8.0,
-                    "2019-04-17": 8.0,
-                    "2019-04-24": 8.45,
-                    "2019-05-01": 8.72,
-                    "2019-05-08": 8.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 8.75,
+                    "2019-05-05": 8.99,
+                    "2019-05-12": 9.55,
+                    "2019-05-19": 9.81,
+                    "2019-05-26": 9.25,
+                    "2019-06-02": 9.87,
+                    "2019-06-09": 9.37,
+                    "2019-06-16": 9.34,
+                    "2019-06-23": 9.48,
+                    "2019-06-30": 9.75,
+                    "2019-07-07": 9.5,
+                    "2019-07-14": 9.59,
+                    "2019-07-21": 9.79
                 }
             },
             "printings": [
@@ -3453,7 +3514,7 @@
             ],
             "tcgplayerProductId": 151646,
             "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b2705251a1847a7a",
-            "text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n−2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
+            "text": "[+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n[−2]: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.\n[−7]: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
             "type": "Legendary Planeswalker — Nissa",
             "types": [
                 "Planeswalker"
@@ -3476,6 +3537,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "transform",
             "legalities": {
                 "commander": "Legal",
@@ -3488,6 +3552,7 @@
             "manaCost": "{2}{G}",
             "mcmId": 312690,
             "mcmMetaId": 220212,
+            "mtgoId": 66447,
             "mtgstocksId": 36789,
             "multiverseId": 439341,
             "name": "Nissa, Vastwood Seer",
@@ -3500,23 +3565,21 @@
             "originalType": "Legendary Creature — Elf Scout",
             "power": "2",
             "prices": {
-                "paper": {
-                    "2019-01-23": 6.78,
-                    "2019-01-30": 7.0,
-                    "2019-02-06": 7.4,
-                    "2019-02-13": 7.59,
-                    "2019-02-20": 7.49,
-                    "2019-02-27": 7.44,
-                    "2019-03-06": 7.5,
-                    "2019-03-13": 7.74,
-                    "2019-03-20": 7.95,
-                    "2019-03-27": 8.67,
-                    "2019-04-03": 8.47,
-                    "2019-04-10": 8.0,
-                    "2019-04-17": 8.0,
-                    "2019-04-24": 8.45,
-                    "2019-05-01": 8.72,
-                    "2019-05-08": 8.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 8.75,
+                    "2019-05-05": 8.99,
+                    "2019-05-12": 9.55,
+                    "2019-05-19": 9.81,
+                    "2019-05-26": 9.25,
+                    "2019-06-02": 9.87,
+                    "2019-06-09": 9.37,
+                    "2019-06-16": 9.34,
+                    "2019-06-23": 9.48,
+                    "2019-06-30": 9.75,
+                    "2019-07-07": 9.5,
+                    "2019-07-14": 9.59,
+                    "2019-07-21": 9.79
                 }
             },
             "printings": [
@@ -3617,9 +3680,9 @@
     "mcmId": 1819,
     "mcmName": "From the Vault: Transform",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "mtgoCode": "V17",
     "name": "From the Vault: Transform",

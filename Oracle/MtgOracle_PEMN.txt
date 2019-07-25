@@ -734,9 +734,9 @@ Tap three untapped Zombies you control: You draw a card and you lose 1 life.</Ca
 <Name>Liliana, the Last Hope</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>[+1]: Up to one target creature gets -2/-1 until your next turn.
-[-2]: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
-[-7]: You get an emblem with "At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control."</CardText>
+<CardText>+1: Up to one target creature gets -2/-1 until your next turn.
+-2: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
+-7: You get an emblem with "At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control."</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Rulings>2016/07/13: You can activate Liliana's first ability without any targets just to add a loyalty counter to her.
 2016/07/13: Liliana's second ability doesn't target the card to return to your hand. After putting the top two cards of your library into your graveyard, you may choose from among any creature cards there.
@@ -1391,9 +1391,9 @@ When Spell Queller leaves the battlefield, the exiled card's owner may cast that
 <Name>Tamiyo, Field Researcher</Name>
 <Type>Legendary Planeswalker — Tamiyo (Loyalty: 4)</Type>
 <ManaCost>1GWU (4)</ManaCost>
-<CardText>[+1]: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
-[-2]: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
-[-7]: Draw three cards. You get an emblem with "You may cast spells from your hand without paying their mana costs."</CardText>
+<CardText>+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
+-2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
+-7: Draw three cards. You get an emblem with "You may cast spells from your hand without paying their mana costs."</CardText>
 <Artist>Tianhua X</Artist>
 <Rulings>2016/07/13: Tamiyo's first ability sets up a delayed triggered ability that triggers even if Tamiyo has left the battlefield before those creatures deal combat damage.
 2016/07/13: You must follow the normal timing permissions and restrictions of each nonland card you cast once you get Tamiyo's emblem.

@@ -15,6 +15,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -30,23 +33,21 @@
             "name": "Ajani, Caller of the Pride",
             "number": "1",
             "prices": {
-                "paper": {
-                    "2019-01-23": 85.0,
-                    "2019-01-30": 85.0,
-                    "2019-02-06": 82.97,
-                    "2019-02-13": 82.97,
-                    "2019-02-20": 85.0,
-                    "2019-02-27": 82.97,
-                    "2019-03-06": 83.75,
-                    "2019-03-13": 80.93,
-                    "2019-03-20": 81.71,
-                    "2019-03-27": 78.61,
-                    "2019-04-03": 76.28,
-                    "2019-04-10": 76.03,
-                    "2019-04-17": 76.0,
-                    "2019-04-24": 75.5,
-                    "2019-05-01": 79.3,
-                    "2019-05-08": 76.39
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 76.39,
+                    "2019-05-05": 76.39,
+                    "2019-05-12": 76.39,
+                    "2019-05-19": 79.66,
+                    "2019-05-26": 80.66,
+                    "2019-06-02": 76.37,
+                    "2019-06-09": 79.18,
+                    "2019-06-16": 76.21,
+                    "2019-06-23": 79.21,
+                    "2019-06-30": 79.97,
+                    "2019-07-07": 79.97,
+                    "2019-07-14": 76.98,
+                    "2019-07-21": 76.74
                 }
             },
             "printings": [
@@ -75,7 +76,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 70708,
-            "text": "+1: Put a +1/+1 counter on up to one target creature.\n−3: Target creature gains flying and double strike until end of turn.\n−8: Create X 2/2 white Cat creature tokens, where X is your life total.",
+            "text": "[+1]: Put a +1/+1 counter on up to one target creature.\n[−3]: Target creature gains flying and double strike until end of turn.\n[−8]: Create X 2/2 white Cat creature tokens, where X is your life total.",
             "type": "Legendary Planeswalker — Ajani",
             "types": [
                 "Planeswalker"
@@ -96,6 +97,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -112,23 +116,21 @@
             "name": "Chandra, Pyromaster",
             "number": "131",
             "prices": {
-                "paper": {
-                    "2019-01-23": 119.99,
-                    "2019-01-30": 119.95,
-                    "2019-02-06": 119.95,
-                    "2019-02-13": 119.95,
-                    "2019-02-20": 119.95,
-                    "2019-02-27": 119.95,
-                    "2019-03-06": 118.64,
-                    "2019-03-13": 116.71,
-                    "2019-03-20": 117.33,
-                    "2019-03-27": 118.09,
-                    "2019-04-03": 117.33,
-                    "2019-04-10": 117.33,
-                    "2019-04-17": 117.33,
-                    "2019-04-24": 117.33,
-                    "2019-05-01": 118.16,
-                    "2019-05-08": 118.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 118.16,
+                    "2019-05-05": 117.33,
+                    "2019-05-12": 118.16,
+                    "2019-05-19": 117.33,
+                    "2019-05-26": 117.33,
+                    "2019-06-02": 117.33,
+                    "2019-06-09": 117.33,
+                    "2019-06-16": 117.33,
+                    "2019-06-23": 118.64,
+                    "2019-06-30": 118.64,
+                    "2019-07-07": 118.64,
+                    "2019-07-14": 118.64,
+                    "2019-07-21": 118.64
                 }
             },
             "printings": [
@@ -188,7 +190,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 70709,
-            "text": "+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n0: Exile the top card of your library. You may play it this turn.\n−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
+            "text": "[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[−7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
             "type": "Legendary Planeswalker — Chandra",
             "types": [
                 "Planeswalker"
@@ -209,6 +211,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -224,23 +229,21 @@
             "name": "Garruk, Caller of Beasts",
             "number": "172",
             "prices": {
-                "paper": {
-                    "2019-01-23": 67.56,
-                    "2019-01-30": 67.56,
-                    "2019-02-06": 68.79,
-                    "2019-02-13": 68.79,
-                    "2019-02-20": 66.66,
-                    "2019-02-27": 66.66,
-                    "2019-03-06": 66.32,
-                    "2019-03-13": 65.5,
-                    "2019-03-20": 65.5,
-                    "2019-03-27": 68.99,
-                    "2019-04-03": 72.99,
-                    "2019-04-10": 72.99,
-                    "2019-04-17": 70.98,
-                    "2019-04-24": 71.0,
-                    "2019-05-01": 75.46,
-                    "2019-05-08": 74.99
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 75.46,
+                    "2019-05-05": 75.46,
+                    "2019-05-12": 71.0,
+                    "2019-05-19": 67.0,
+                    "2019-05-26": 71.04,
+                    "2019-06-02": 67.0,
+                    "2019-06-09": 67.0,
+                    "2019-06-16": 66.91,
+                    "2019-06-23": 66.96,
+                    "2019-06-30": 66.96,
+                    "2019-07-07": 66.96,
+                    "2019-07-14": 67.0,
+                    "2019-07-21": 67.0
                 }
             },
             "printings": [
@@ -268,7 +271,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 70711,
-            "text": "+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.\n−3: You may put a green creature card from your hand onto the battlefield.\n−7: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\"",
+            "text": "[+1]: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.\n[−3]: You may put a green creature card from your hand onto the battlefield.\n[−7]: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\"",
             "type": "Legendary Planeswalker — Garruk",
             "types": [
                 "Planeswalker"
@@ -289,6 +292,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -304,23 +310,20 @@
             "name": "Jace, Memory Adept",
             "number": "60",
             "prices": {
-                "paper": {
-                    "2019-01-23": 75.01,
-                    "2019-01-30": 74.99,
-                    "2019-02-06": 75.23,
-                    "2019-02-13": 74.99,
-                    "2019-02-20": 74.99,
-                    "2019-02-27": 74.99,
-                    "2019-03-06": 74.99,
-                    "2019-03-13": 83.99,
-                    "2019-03-20": 83.99,
-                    "2019-03-27": 76.98,
-                    "2019-04-03": 79.98,
-                    "2019-04-10": 79.98,
-                    "2019-04-17": 79.98,
-                    "2019-04-24": 79.98,
-                    "2019-05-01": 114.57,
-                    "2019-05-08": 119.55
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 114.57,
+                    "2019-05-05": 119.55,
+                    "2019-05-12": 84.96,
+                    "2019-05-19": 84.96,
+                    "2019-05-26": 154.14,
+                    "2019-06-02": 137.07,
+                    "2019-06-09": 154.14,
+                    "2019-06-23": 161.05,
+                    "2019-06-30": 169.99,
+                    "2019-07-07": 169.99,
+                    "2019-07-14": 169.99,
+                    "2019-07-21": 169.99
                 }
             },
             "printings": [
@@ -354,7 +357,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 70707,
-            "text": "+1: Draw a card. Target player puts the top card of their library into their graveyard.\n0: Target player puts the top ten cards of their library into their graveyard.\n−7: Any number of target players each draw twenty cards.",
+            "text": "[+1]: Draw a card. Target player puts the top card of their library into their graveyard.\n[0]: Target player puts the top ten cards of their library into their graveyard.\n[−7]: Any number of target players each draw twenty cards.",
             "type": "Legendary Planeswalker — Jace",
             "types": [
                 "Planeswalker"
@@ -375,6 +378,9 @@
             "frameVersion": "2003",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -390,14 +396,21 @@
             "name": "Liliana of the Dark Realms",
             "number": "102",
             "prices": {
-                "paper": {
-                    "2019-03-27": 194.99,
-                    "2019-04-03": 194.99,
-                    "2019-04-10": 194.99,
-                    "2019-04-17": 194.99,
-                    "2019-04-24": 194.99,
-                    "2019-05-01": 208.39,
-                    "2019-05-08": 208.39
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 208.39,
+                    "2019-05-05": 208.39,
+                    "2019-05-12": 110.0,
+                    "2019-05-19": 221.97,
+                    "2019-05-26": 221.97,
+                    "2019-06-02": 221.84,
+                    "2019-06-09": 221.84,
+                    "2019-06-16": 223.13,
+                    "2019-06-23": 223.13,
+                    "2019-06-30": 220.0,
+                    "2019-07-07": 220.0,
+                    "2019-07-14": 220.0,
+                    "2019-07-21": 220.0
                 }
             },
             "printings": [
@@ -434,7 +447,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 70710,
-            "text": "+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.\n−3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n−6: You get an emblem with \"Swamps you control have '{T}: Add {B}{B}{B}{B}.'\"",
+            "text": "[+1]: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.\n[−3]: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n[−6]: You get an emblem with \"Swamps you control have '{T}: Add {B}{B}{B}{B}.'\"",
             "type": "Legendary Planeswalker — Liliana",
             "types": [
                 "Planeswalker"
@@ -447,9 +460,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "San Diego Comic-Con 2013",
     "releaseDate": "2013-07-18",

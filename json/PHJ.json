@@ -15,6 +15,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -66,6 +69,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -121,6 +127,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -192,6 +201,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -235,6 +247,9 @@
             "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -278,12 +293,13 @@
     ],
     "code": "PHJ",
     "isFoilOnly": false,
+    "isForeignOnly": true,
     "isOnlineOnly": false,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Hobby Japan Promos",
     "releaseDate": "2002-07-01",

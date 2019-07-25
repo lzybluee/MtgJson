@@ -226,9 +226,9 @@ At the beginning of your upkeep, if you have 40 or more life, you win the game.<
 <Name>Gideon, Ally of Zendikar</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>[+1]: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
-[0]: Create a 2/2 white Knight Ally creature token.
-[-4]: You get an emblem with "Creatures you control get +1/+1."</CardText>
+<CardText>+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+0: Create a 2/2 white Knight Ally creature token.
+-4: You get an emblem with "Creatures you control get +1/+1."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Rulings>2015/08/25: Gideon's first ability doesn't count as a creature entering the battlefield. Gideon was already on the battlefield; he only changed his types. Specifically, your rally abilities won't trigger. (Of course, Gideon's second ability will cause rally abilities to trigger.)
 2015/08/25: If Gideon becomes a creature the same turn he enters the battlefield, you can't attack with him or use any of his {T} abilities (if he gains any).
@@ -686,9 +686,9 @@ Landfall — Whenever a land enters the battlefield under your control, other cr
 <Name>Ob Nixilis Reignited</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+1]: You draw a card and you lose 1 life.
-[-3]: Destroy target creature.
-[-8]: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
+<CardText>+1: You draw a card and you lose 1 life.
+-3: Destroy target creature.
+-8: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2015/08/25: The emblem created by <Ob Nixilis Reignited>'s last ability is both owned and controlled by the target opponent. In a multiplayer game, if you own <Ob Nixilis Reignited> and use him to give one of your opponents an emblem, the emblem remains even if you leave the game.</Rulings>
 <Vintage>Legal</Vintage>
@@ -1315,9 +1315,9 @@ Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each other
 <Name>Kiora, Master of the Depths</Name>
 <Type>Legendary Planeswalker — Kiora (Loyalty: 4)</Type>
 <ManaCost>2GU (4)</ManaCost>
-<CardText>[+1]: Untap up to one target creature and up to one target land.
-[-2]: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
-[-8]: You get an emblem with "Whenever a creature enters the battlefield under your control, you may have it fight target creature." Then create three 8/8 blue Octopus creature tokens.</CardText>
+<CardText>+1: Untap up to one target creature and up to one target land.
+-2: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
+-8: You get an emblem with "Whenever a creature enters the battlefield under your control, you may have it fight target creature." Then create three 8/8 blue Octopus creature tokens.</CardText>
 <Artist>Jason Chan</Artist>
 <Rulings>2015/08/25: You can activate Kiora's first ability with no targets just to put a loyalty counter on her.
 2015/08/25: With Kiora's second ability, you could put no cards, a creature card, a land card, or a creature card and a land card into your hand.

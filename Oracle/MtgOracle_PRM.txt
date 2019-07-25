@@ -2098,9 +2098,9 @@ At the beginning of your draw step, draw an additional card.</CardText>
 <Name>Ajani Vengeant</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 3)</Type>
 <ManaCost>2RW (4)</ManaCost>
-<CardText>[+1]: Target permanent doesn't untap during its controller's next untap step.
-[-2]: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
-[-7]: Destroy all lands target player controls.</CardText>
+<CardText>+1: Target permanent doesn't untap during its controller's next untap step.
+-2: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
+-7: Destroy all lands target player controls.</CardText>
 <Artist>Jason Chan</Artist>
 <Rulings>2008/10/01: You may target any permanent with <Ajani Vengeant>'s first ability. It doesn't have to be tapped.
 2008/10/01: The first ability tracks the permanent, but not its controller. If the permanent changes controllers before its first controller's next untap step has come around, then it won't untap during its new controller's next untap step.</Rulings>
@@ -6760,9 +6760,9 @@ Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield.
 <Name>Jace Beleren</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>[+2]: Each player draws a card.
-[-1]: Target player draws a card.
-[-10]: Target player puts the top twenty cards of their library into their graveyard.</CardText>
+<CardText>+2: Each player draws a card.
+-1: Target player draws a card.
+-10: Target player puts the top twenty cards of their library into their graveyard.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Rulings>2009/10/01: If there are fewer than twenty cards in the targeted player's library, that player puts all the cards from their library into their graveyard.</Rulings>
 <Vintage>Legal</Vintage>
@@ -6778,9 +6778,9 @@ Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield.
 <Name>Garruk Wildspeaker</Name>
 <Type>Legendary Planeswalker — Garruk (Loyalty: 3)</Type>
 <ManaCost>2GG (4)</ManaCost>
-<CardText>[+1]: Untap two target lands.
-[-1]: Create a 3/3 green Beast creature token.
-[-4]: Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
+<CardText>+1: Untap two target lands.
+-1: Create a 3/3 green Beast creature token.
+-4: Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
 <Artist>Nils Hamm</Artist>
 <Rulings>2009/10/01: The first ability can target any two lands. They don't have to be tapped.
 2009/10/01: The third ability affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn.</Rulings>
@@ -8628,9 +8628,9 @@ Search your library for up to two basic land cards, put them onto the battlefiel
 <Name>Ajani Goldmane</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>[+1]: You gain 2 life.
-[-1]: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
-[-6]: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
+<CardText>+1: You gain 2 life.
+-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+-6: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
 <Artist>Christopher Moeller</Artist>
 <Rulings>2007/10/01: The vigilance granted to a creature by the second ability remains until the end of the turn even if the +1/+1 counter is removed.
 2007/10/01: The power and toughness of the Avatar created by the third ability will change as your life total changes.</Rulings>
@@ -15824,9 +15824,9 @@ When Jeskai Infiltrator deals combat damage to a player, exile it and the top ca
 <Name>Ugin, the Spirit Dragon</Name>
 <Type>Legendary Planeswalker — Ugin (Loyalty: 7)</Type>
 <ManaCost>8 (8)</ManaCost>
-<CardText>[+2]: Ugin, the Spirit Dragon deals 3 damage to any target.
+<CardText>+2: Ugin, the Spirit Dragon deals 3 damage to any target.
 -X: Exile each permanent with converted mana cost X or less that's one or more colors.
-[-10]: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</CardText>
+-10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2014/11/24: If you choose to put permanent cards with morph onto the battlefield with the third ability, you must put them onto the battlefield face up.
 2014/11/24: <Ugin, the Spirit Dragon> is not a Dragon card; that is, he doesn't have the creature type Dragon. Spells and abilities that refer to Dragon cards or Dragons don't apply to Ugin.</Rulings>
@@ -16198,9 +16198,9 @@ Whenever another nontoken creature you control dies, draw a card.</CardText>
 <Name>Liliana of the Veil</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>[+1]: Each player discards a card.
-[-2]: Target player sacrifices a creature.
-[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
+<CardText>+1: Each player discards a card.
+-2: Target player sacrifices a creature.
+-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
 <Artist>Steve Argyle</Artist>
 <Rulings>2018/12/07: You can activate Liliana's first ability even if some or all players will be unable to discard a card.
 2018/12/07: When Liliana's first ability resolves, first the player whose turn it is chooses a card in hand without revealing it, then each other player in turn order does the same. Then all the chosen cards are discarded at the same time.
@@ -17436,9 +17436,9 @@ When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white
 <Name>Elspeth, Sun's Champion</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>4WW (6)</ManaCost>
-<CardText>[+1]: Create three 1/1 white Soldier creature tokens.
-[-3]: Destroy all creatures with power 4 or greater.
-[-7]: You get an emblem with "Creatures you control get +2/+2 and have flying."</CardText>
+<CardText>+1: Create three 1/1 white Soldier creature tokens.
+-3: Destroy all creatures with power 4 or greater.
+-7: You get an emblem with "Creatures you control get +2/+2 and have flying."</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -17468,9 +17468,9 @@ When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white
 <Name>Kiora, the Crashing Wave</Name>
 <Type>Legendary Planeswalker — Kiora (Loyalty: 2)</Type>
 <ManaCost>2GU (4)</ManaCost>
-<CardText>[+1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
-[-1]: Draw a card. You may play an additional land this turn.
-[-5]: You get an emblem with "At the beginning of your end step, create a 9/9 blue Kraken creature token."</CardText>
+<CardText>+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
+-1: Draw a card. You may play an additional land this turn.
+-5: You get an emblem with "At the beginning of your end step, create a 9/9 blue Kraken creature token."</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Rulings>2014/02/01: Kiora's first ability can target any permanent an opponent controls, not just one that can deal or be dealt damage.
 2014/02/01: Once the first ability resolves, the damage prevention continues to apply even if that permanent changes controllers.
@@ -19694,9 +19694,9 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <Name>Ob Nixilis Reignited</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>[+1]: You draw a card and you lose 1 life.
-[-3]: Destroy target creature.
-[-8]: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
+<CardText>+1: You draw a card and you lose 1 life.
+-3: Destroy target creature.
+-8: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
 <Artist>Raymond Swanland</Artist>
 <Rulings>2015/08/25: The emblem created by <Ob Nixilis Reignited>'s last ability is both owned and controlled by the target opponent. In a multiplayer game, if you own <Ob Nixilis Reignited> and use him to give one of your opponents an emblem, the emblem remains even if you leave the game.</Rulings>
 <Vintage>Legal</Vintage>
@@ -19712,9 +19712,9 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <Name>Nissa, Voice of Zendikar</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ManaCost>1GG (3)</ManaCost>
-<CardText>[+1]: Create a 0/1 green Plant creature token.
-[-2]: Put a +1/+1 counter on each creature you control.
-[-7]: You gain X life and draw X cards, where X is the number of lands you control.</CardText>
+<CardText>+1: Create a 0/1 green Plant creature token.
+-2: Put a +1/+1 counter on each creature you control.
+-7: You gain X life and draw X cards, where X is the number of lands you control.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -20453,9 +20453,9 @@ Revolt — Destroy that creature if it has converted mana cost 4 or less instead
 <Name>Gideon Jura</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 6)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>[+2]: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
-[-2]: Destroy target tapped creature.
-[0]: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<CardText>+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
+-2: Destroy target tapped creature.
+0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2010/06/15: <Gideon Jura>'s first ability causes creatures to attack him if able. If, during the affected player's declare attackers step, a creature they control is tapped, is affected by a spell or ability that says it can't attack, or is affected by "summoning sickness," then that creature doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so the creature doesn't have to attack in that case either.
 2010/06/15: If a creature controlled by the affected player can't attack <Gideon Jura> (because he's no longer on the battlefield, for example), that player may have it attack you, another one of your planeswalkers, or nothing at all.
@@ -20480,9 +20480,9 @@ Revolt — Destroy that creature if it has converted mana cost 4 or less instead
 <Name>Nissa, Worldwaker</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+1]: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
-[+1]: Untap up to four target Forests.
-[-7]: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
+<CardText>+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.
++1: Untap up to four target Forests.
+-7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2014/07/18: The type-changing effects of the first and third abilities don't have a duration. They last indefinitely.
 2014/07/18: If the land targeted by the first ability entered the battlefield this turn, it won't be able to attack and its activated abilities with {T} in the cost (including its mana ability) can't be activated (unless something gives it haste). The same is true for the lands put onto the battlefield with the third ability.</Rulings>
@@ -20499,9 +20499,9 @@ Revolt — Destroy that creature if it has converted mana cost 4 or less instead
 <Name>Chandra, Pyromaster</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
-[0]: Exile the top card of your library. You may play it this turn.
-[-7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
+<CardText>+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2014/07/18: To activate the first ability, you must target a player but you can choose to not target any creatures.
 2014/07/18: If the first ability resolves but the damage is prevented or redirected, the target creature still won't be able to block that turn.
@@ -20525,9 +20525,9 @@ Revolt — Destroy that creature if it has converted mana cost 4 or less instead
 <Name>Nicol Bolas, Planeswalker</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 5)</Type>
 <ManaCost>4UBBR (8)</ManaCost>
-<CardText>[+3]: Destroy target noncreature permanent.
-[-2]: Gain control of target creature.
-[-9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
+<CardText>+3: Destroy target noncreature permanent.
+-2: Gain control of target creature.
+-9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2009/02/01: The control-change effect has no duration. It will last until the game ends or the affected creature leaves the battlefield. It may be superseded by a later control-change effect.
 2012/07/01: If the damage from Nicol Bolas's third ability is prevented or redirected, the rest of the effect will still happen. Specifically, the number of cards discarded and permanents sacrificed isn't tied to the amount of damage dealt.
@@ -21641,9 +21641,9 @@ You control enchanted creature.</CardText>
 <Name>Jace, Cunning Castaway</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>[+1]: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
-[-2]: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
-[-5]: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
+<CardText>+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
+-2: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
+-5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
 <Artist>Terese Nielsen</Artist>
 <Rulings>2017/09/29: The delayed triggered ability created by Jace's first ability can trigger more than once in a turn if creatures you control deal combat damage at different times in a turn (most likely because one or more has first strike) or if creatures you control deal combat damage to more than one player at once.
 2017/09/29: If a token created by Jace's second ability becomes the target of a spell, its ability triggers and goes on the stack on top of that spell. The ability will resolve first (causing the token to be sacrificed). Unless the spell has another target, it will then be countered when it tries to resolve for having no legal targets.
@@ -21663,10 +21663,10 @@ You control enchanted creature.</CardText>
 <Name>Chandra, Torch of Defiance</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>2RR (4)</ManaCost>
-<CardText>[+1]: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
-[+1]: Add {R}{R}.
-[-3]: Chandra, Torch of Defiance deals 4 damage to target creature.
-[-7]: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."</CardText>
+<CardText>+1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
++1: Add {R}{R}.
+-3: Chandra, Torch of Defiance deals 4 damage to target creature.
+-7: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."</CardText>
 <Artist>Terese Nielsen</Artist>
 <Rulings>2016/09/20: An effect that instructs you to "cast" a card doesn't allow you to play lands. If the card exiled with Chandra's first ability is a land card, you can't play it and Chandra deals 2 damage to each opponent.
 2016/09/20: If you cast the exiled card, you do so as part of the resolution of Chandra's ability. You can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
@@ -21688,9 +21688,9 @@ You control enchanted creature.</CardText>
 <Name>Nissa, Vital Force</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 5)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+1]: Untap target land you control. Until your next turn, it becomes a 5/5 Elemental creature with haste. It's still a land.
-[-3]: Return target permanent card from your graveyard to your hand.
-[-6]: You get an emblem with "Whenever a land enters the battlefield under your control, you may draw a card."</CardText>
+<CardText>+1: Untap target land you control. Until your next turn, it becomes a 5/5 Elemental creature with haste. It's still a land.
+-3: Return target permanent card from your graveyard to your hand.
+-6: You get an emblem with "Whenever a land enters the battlefield under your control, you may draw a card."</CardText>
 <Artist>Terese Nielsen</Artist>
 <Rulings>2016/09/20: You can activate Nissa's first ability targeting a land that's already untapped.
 2016/09/20: After resolving Nissa's first ability, the target land still has any abilities it had before it became a creature and any other types it had.
@@ -21708,9 +21708,9 @@ You control enchanted creature.</CardText>
 <Name>Liliana, Untouched by Death</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 4)</Type>
 <ManaCost>2BB (4)</ManaCost>
-<CardText>[+1]: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
-[-2]: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
-[-3]: You may cast Zombie cards from your graveyard this turn.</CardText>
+<CardText>+1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
+-2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
+-3: You may cast Zombie cards from your graveyard this turn.</CardText>
 <Artist>Terese Nielsen</Artist>
 <Rulings>2018/07/13: Once Liliana's third ability has resolved, any Zombie cards in your graveyard may be cast this turn, including Zombie cards that enter your graveyard later in the turn.
 2018/07/13: In a Two-Headed Giant game, Liliana's first ability causes the opposing team to lose 4 life and you gain 2 life.
@@ -21729,9 +21729,9 @@ You control enchanted creature.</CardText>
 <Name>Gideon of the Trials</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
 <ManaCost>1WW (3)</ManaCost>
-<CardText>[+1]: Until your next turn, prevent all damage target permanent would deal.
-[0]: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
-[0]: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
+<CardText>+1: Until your next turn, prevent all damage target permanent would deal.
+0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+0: You get an emblem with "As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game."</CardText>
 <Artist>Terese Nielsen</Artist>
 <Rulings>2017/04/18: Gideon's first ability will continue to prevent damage dealt by the target permanent even if Gideon leaves the battlefield before your next turn.
 2017/04/18: Gideon's second ability doesn't count as a creature entering the battlefield. Gideon was already on the battlefield; he only changed his types.

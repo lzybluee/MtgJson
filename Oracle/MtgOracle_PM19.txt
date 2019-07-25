@@ -4,9 +4,9 @@
 <Name>Ajani, Adversary of Tyrants</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>[+1]: Put a +1/+1 counter on each of up to two target creatures.
-[-2]: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
-[-7]: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."</CardText>
+<CardText>+1: Put a +1/+1 counter on each of up to two target creatures.
+-2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+-7: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Rulings>2018/07/13: If a card in your graveyard has {X} in its mana cost, X is considered to be 0.</Rulings>
 <Vintage>Legal</Vintage>
@@ -517,9 +517,9 @@ Other Spirits you control get +1/+1.</CardText>
 <Name>Tezzeret, Artifice Master</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>[+1]: Create a 1/1 colorless Thopter artifact creature token with flying.
-[0]: Draw a card. If you control three or more artifacts, draw two cards instead.
-[-9]: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library."</CardText>
+<CardText>+1: Create a 1/1 colorless Thopter artifact creature token with flying.
+0: Draw a card. If you control three or more artifacts, draw two cards instead.
+-9: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library."</CardText>
 <Artist>Josh Hass</Artist>
 <Rulings>2018/07/13: If you put a permanent onto the battlefield with Tezzeret's emblem's ability, any triggered abilities of that permanent that trigger during your end step won't trigger during that same end step.</Rulings>
 <Vintage>Legal</Vintage>
@@ -742,9 +742,9 @@ Whenever Isareth the Awakener attacks, you may pay {X}. When you do, return targ
 <Name>Liliana, Untouched by Death</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 4)</Type>
 <ManaCost>2BB (4)</ManaCost>
-<CardText>[+1]: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
-[-2]: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
-[-3]: You may cast Zombie cards from your graveyard this turn.</CardText>
+<CardText>+1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
+-2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
+-3: You may cast Zombie cards from your graveyard this turn.</CardText>
 <Artist>Bastien L. Deharme</Artist>
 <Rulings>2018/07/13: Once Liliana's third ability has resolved, any Zombie cards in your graveyard may be cast this turn, including Zombie cards that enter your graveyard later in the turn.
 2018/07/13: In a Two-Headed Giant game, Liliana's first ability causes the opposing team to lose 4 life and you gain 2 life.
@@ -1064,9 +1064,9 @@ Whenever another nontoken Dragon enters the battlefield under your control, crea
 <Name>Sarkhan, Fireblood</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 3)</Type>
 <ManaCost>1RR (3)</ManaCost>
-<CardText>[+1]: You may discard a card. If you do, draw a card.
-[+1]: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
-[-7]: Create four 5/5 red Dragon creature tokens with flying.</CardText>
+<CardText>+1: You may discard a card. If you do, draw a card.
++1: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
+-7: Create four 5/5 red Dragon creature tokens with flying.</CardText>
 <Artist>Grzegorz Rutkowski</Artist>
 <Rulings>2018/07/13: Because it's a loyalty ability, Sarkhan's second ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.
 2018/07/13: A "Dragon spell" refers only to a spell that has the Dragon subtype, regardless of its name. For example, Dragon's Hoard isn't a Dragon spell.</Rulings>
@@ -1366,9 +1366,9 @@ Enchanted creature gets +7/+7 and has trample.</CardText>
 <Name>Vivien Reid</Name>
 <Type>Legendary Planeswalker — Vivien (Loyalty: 5)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-[-3]: Destroy target artifact, enchantment, or creature with flying.
-[-8]: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
+<CardText>+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+-3: Destroy target artifact, enchantment, or creature with flying.
+-8: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1383,9 +1383,9 @@ Enchanted creature gets +7/+7 and has trample.</CardText>
 <Name>Vivien Reid</Name>
 <Type>Legendary Planeswalker — Vivien (Loyalty: 5)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-[-3]: Destroy target artifact, enchantment, or creature with flying.
-[-8]: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
+<CardText>+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+-3: Destroy target artifact, enchantment, or creature with flying.
+-8: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1459,10 +1459,10 @@ Discard a card: Until end of turn, Chromium, the Mutable becomes a Human with ba
 <Name>Nicol Bolas, the Arisen</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 7)</Type>
 <ColorIndicator>Blue Black Red</ColorIndicator>
-<CardText>[+2]: Draw two cards.
-[-3]: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.
-[-4]: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
-[-12]: Exile all but the bottom card of target player's library.</CardText>
+<CardText>+2: Draw two cards.
+-3: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.
+-4: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+-12: Exile all but the bottom card of target player's library.</CardText>
 <Artist>Svetlin Velinov</Artist>
 <Rulings>2018/07/13: When Nicol Bolas's enters-the-battlefield triggered ability resolves, first the next opponent in turn order (or, if it's an opponent's turn, that opponent) chooses a card in their hand without revealing it, then each other opponent in turn order does the same. Then all the chosen cards are discarded at the same time.
 2018/07/13: If Nicol Bolas leaves the battlefield after his creature face's activated ability has been activated but before it resolves, the card remains in whichever zone it moves to. It won't be exiled or return transformed.

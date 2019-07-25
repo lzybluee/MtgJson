@@ -19,6 +19,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -32,8 +35,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{U}{U}",
+            "mtgstocksId": 47843,
             "name": "Absorb",
             "number": "151s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.4,
+                    "2019-05-05": 4.3,
+                    "2019-05-12": 4.43,
+                    "2019-05-19": 4.34,
+                    "2019-05-26": 4.23,
+                    "2019-06-02": 4.15,
+                    "2019-06-09": 4.07,
+                    "2019-06-16": 4.07,
+                    "2019-06-23": 4.06,
+                    "2019-06-30": 4.0,
+                    "2019-07-07": 3.99,
+                    "2019-07-14": 3.99,
+                    "2019-07-21": 3.96
+                }
+            },
             "printings": [
                 "INV",
                 "PRNA",
@@ -51,6 +73,7 @@
             "scryfallOracleId": "132ca99a-a3c7-4ed6-b4d0-0edcd7140ca2",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183992,
             "text": "Counter target spell. You gain 3 life.",
             "type": "Instant",
             "types": [
@@ -73,6 +96,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -87,9 +113,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{R}",
+            "mtgstocksId": 47858,
             "name": "Amplifire",
             "number": "92s",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.35,
+                    "2019-05-05": 1.3,
+                    "2019-05-12": 1.31,
+                    "2019-05-19": 1.25,
+                    "2019-05-26": 1.24,
+                    "2019-06-02": 1.13,
+                    "2019-06-09": 1.08,
+                    "2019-06-16": 1.07,
+                    "2019-06-23": 1.08,
+                    "2019-06-30": 1.06,
+                    "2019-07-07": 1.08,
+                    "2019-07-14": 1.0,
+                    "2019-07-21": 1.0
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -116,6 +161,7 @@
                 "Elemental"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184100,
             "text": "At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order.",
             "toughness": "1",
             "type": "Creature — Elemental",
@@ -139,6 +185,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -153,8 +202,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{B}",
+            "mtgstocksId": 47857,
             "name": "Awaken the Erstwhile",
             "number": "61s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.29,
+                    "2019-05-05": 1.28,
+                    "2019-05-12": 1.3,
+                    "2019-05-19": 1.27,
+                    "2019-05-26": 1.22,
+                    "2019-06-02": 1.17,
+                    "2019-06-09": 1.12,
+                    "2019-06-16": 1.11,
+                    "2019-06-23": 1.14,
+                    "2019-06-30": 1.1,
+                    "2019-07-07": 1.19,
+                    "2019-07-14": 1.08,
+                    "2019-07-21": 1.08
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -171,12 +239,144 @@
             "scryfallOracleId": "06fa6719-aa4f-4857-8029-e42d01232645",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184101,
             "text": "Each player discards all the cards in their hand, then creates that many 2/2 black Zombie creature tokens.",
             "type": "Sorcery",
             "types": [
                 "Sorcery"
             ],
             "uuid": "8dc3e754-e95f-5e9f-8156-92475d6f9c2f"
+        },
+        {
+            "artist": "Randy Vargas",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B",
+                "R"
+            ],
+            "colors": [
+                "B",
+                "R"
+            ],
+            "convertedManaCost": 8.0,
+            "faceConvertedManaCost": 6.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "split",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{4}{B}{R}",
+            "name": "Bedazzle",
+            "names": [
+                "Bedeck",
+                "Bedazzle"
+            ],
+            "number": "221p",
+            "printings": [
+                "PRNA",
+                "RNA"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2019-01-25",
+                    "text": "You can’t cast Bedazzle without a target nonbasic land and a target opponent or planeswalker. If one of the targets is illegal when Bedazzle tries to resolve, the other is still affected as appropriate."
+                }
+            ],
+            "scryfallId": "4411a717-fda0-45f1-a8ba-618884de5ce2",
+            "scryfallIllustrationId": "69851c5d-11b6-45f6-ac7f-3e20c5e84553",
+            "scryfallOracleId": "b8bb97a8-5f5d-48e9-a4c1-b4c20efe7739",
+            "side": "b",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 193424,
+            "text": "Destroy target nonbasic land. Bedazzle deals 2 damage to target opponent or planeswalker.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "1f1ae081-53e6-5211-b3af-5f12456e44bf",
+            "watermark": "rakdos"
+        },
+        {
+            "artist": "Randy Vargas",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B",
+                "R"
+            ],
+            "colors": [
+                "B",
+                "R"
+            ],
+            "convertedManaCost": 8.0,
+            "faceConvertedManaCost": 2,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "layout": "split",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{B/R}{B/R}",
+            "name": "Bedeck",
+            "names": [
+                "Bedeck",
+                "Bedazzle"
+            ],
+            "number": "221p",
+            "printings": [
+                "PRNA",
+                "RNA"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2019-01-25",
+                    "text": "You can’t cast Bedazzle without a target nonbasic land and a target opponent or planeswalker. If one of the targets is illegal when Bedazzle tries to resolve, the other is still affected as appropriate."
+                }
+            ],
+            "scryfallId": "4411a717-fda0-45f1-a8ba-618884de5ce2",
+            "scryfallIllustrationId": "69851c5d-11b6-45f6-ac7f-3e20c5e84553",
+            "scryfallOracleId": "b8bb97a8-5f5d-48e9-a4c1-b4c20efe7739",
+            "side": "a",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 193424,
+            "text": "Target creature gets +3/-3 until end of turn.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "61d285ec-023f-5f04-9fa7-a9dcbb497c59",
+            "watermark": "rakdos"
         },
         {
             "artist": "Seb McKinnon",
@@ -195,6 +395,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -208,8 +411,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}{B}{R}",
+            "mtgstocksId": 47856,
             "name": "Bedevil",
             "number": "157s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 8.95,
+                    "2019-05-05": 8.99,
+                    "2019-05-12": 8.95,
+                    "2019-05-19": 8.6,
+                    "2019-05-26": 8.0,
+                    "2019-06-02": 8.19,
+                    "2019-06-09": 7.82,
+                    "2019-06-16": 7.99,
+                    "2019-06-23": 8.42,
+                    "2019-06-30": 7.99,
+                    "2019-07-07": 7.76,
+                    "2019-07-14": 7.86,
+                    "2019-07-21": 7.56
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -221,6 +443,7 @@
             "scryfallOracleId": "bceecc64-96f1-4e7b-8904-0aef90377764",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184009,
             "text": "Destroy target artifact, creature, or planeswalker.",
             "type": "Instant",
             "types": [
@@ -243,7 +466,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -258,8 +484,106 @@
             },
             "manaCost": "{U}",
             "name": "Benthic Biomancer",
+            "number": "32p",
+            "power": "1",
+            "printings": [
+                "PRNA",
+                "RNA"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2019-01-25",
+                    "text": "An ability that triggers when counters are put on a permanent will trigger if that permanent somehow enters the battlefield with those counters."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "You draw a card and discard a card all while Benthic Biomancer’s triggered ability is resolving. Nothing can happen between the two, and no player may choose to take actions."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won’t put any +1/+1 counters on it."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters."
+                }
+            ],
+            "scryfallId": "fa24f634-1042-4f7b-939b-8ca480b07f2c",
+            "scryfallIllustrationId": "3b91597e-6285-4862-b1b5-6e60b43cd3a3",
+            "scryfallOracleId": "b9000917-4f09-42f4-ae85-fc1ac7571d93",
+            "subtypes": [
+                "Merfolk",
+                "Wizard",
+                "Mutant"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193378,
+            "text": "{1}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\nWhenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.",
+            "toughness": "1",
+            "type": "Creature — Merfolk Wizard Mutant",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "5a52e957-4db4-5980-82a6-b69fa4dbc00f",
+            "variations": [
+                "6765befa-1da5-5985-966e-63f445588d5e"
+            ],
+            "watermark": "simic"
+        },
+        {
+            "artist": "Daarken",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 1.0,
+            "flavorText": "\"I am my life's work.\"",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{U}",
+            "mtgstocksId": 47852,
+            "name": "Benthic Biomancer",
             "number": "32s",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.0,
+                    "2019-05-05": 3.99,
+                    "2019-05-12": 3.96,
+                    "2019-05-19": 3.96,
+                    "2019-05-26": 3.98,
+                    "2019-06-02": 3.96,
+                    "2019-06-09": 3.96,
+                    "2019-06-16": 3.96,
+                    "2019-06-23": 3.96,
+                    "2019-06-30": 3.85,
+                    "2019-07-07": 3.8,
+                    "2019-07-14": 3.76,
+                    "2019-07-21": 3.42
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -292,6 +616,7 @@
                 "Mutant"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184004,
             "text": "{1}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\nWhenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.",
             "toughness": "1",
             "type": "Creature — Merfolk Wizard Mutant",
@@ -299,6 +624,9 @@
                 "Creature"
             ],
             "uuid": "6765befa-1da5-5985-966e-63f445588d5e",
+            "variations": [
+                "5a52e957-4db4-5980-82a6-b69fa4dbc00f"
+            ],
             "watermark": "simic"
         },
         {
@@ -317,6 +645,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -330,9 +661,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}{U}",
+            "mtgstocksId": 47838,
             "name": "Biomancer's Familiar",
             "number": "158s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.96,
+                    "2019-05-05": 2.89,
+                    "2019-05-12": 2.8,
+                    "2019-05-19": 2.7,
+                    "2019-05-26": 2.73,
+                    "2019-06-02": 2.79,
+                    "2019-06-09": 2.7,
+                    "2019-06-16": 2.56,
+                    "2019-06-23": 2.55,
+                    "2019-06-30": 2.49,
+                    "2019-07-07": 2.45,
+                    "2019-07-14": 2.36,
+                    "2019-07-21": 2.38
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -363,6 +713,7 @@
                 "Mutant"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183991,
             "text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.\n{T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.",
             "toughness": "2",
             "type": "Creature — Mutant",
@@ -388,6 +739,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -401,8 +755,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{R}{G}",
+            "mtgstocksId": 47827,
             "name": "Cindervines",
             "number": "161s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.51,
+                    "2019-05-05": 5.36,
+                    "2019-05-12": 5.42,
+                    "2019-05-19": 5.13,
+                    "2019-05-26": 4.9,
+                    "2019-06-02": 4.89,
+                    "2019-06-09": 4.87,
+                    "2019-06-16": 4.94,
+                    "2019-06-23": 4.75,
+                    "2019-06-30": 4.79,
+                    "2019-07-07": 4.59,
+                    "2019-07-14": 4.59,
+                    "2019-07-21": 4.5
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -427,6 +800,7 @@
             "scryfallOracleId": "92d95e12-fa51-4360-88e4-9078ccc5d8d3",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183980,
             "text": "Whenever an opponent casts a noncreature spell, Cindervines deals 1 damage to that player.\n{1}, Sacrifice Cindervines: Destroy target artifact or enchantment. Cindervines deals 2 damage to that permanent's controller.",
             "type": "Enchantment",
             "types": [
@@ -451,6 +825,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -464,9 +841,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{U}",
+            "mtgstocksId": 47837,
             "name": "Deputy of Detention",
             "number": "165s",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.49,
+                    "2019-05-05": 6.93,
+                    "2019-05-12": 6.71,
+                    "2019-05-19": 6.71,
+                    "2019-05-26": 6.79,
+                    "2019-06-02": 7.16,
+                    "2019-06-09": 7.0,
+                    "2019-06-16": 6.86,
+                    "2019-06-23": 6.96,
+                    "2019-06-30": 6.97,
+                    "2019-07-07": 6.99,
+                    "2019-07-14": 6.97,
+                    "2019-07-21": 6.81
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -510,6 +906,7 @@
                 "Wizard"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183990,
             "text": "When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield.",
             "toughness": "3",
             "type": "Creature — Vedalken Wizard",
@@ -535,6 +932,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -548,8 +948,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{W}{U}",
+            "mtgstocksId": 47832,
             "name": "Emergency Powers",
             "number": "169s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.0,
+                    "2019-05-05": 5.0,
+                    "2019-05-12": 4.8,
+                    "2019-05-19": 4.71,
+                    "2019-05-26": 4.59,
+                    "2019-06-02": 4.75,
+                    "2019-06-09": 4.64,
+                    "2019-06-16": 4.49,
+                    "2019-06-23": 4.54,
+                    "2019-06-30": 4.29,
+                    "2019-07-07": 4.11,
+                    "2019-07-14": 3.99,
+                    "2019-07-21": 3.99
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -574,6 +993,7 @@
             "scryfallOracleId": "9127ac59-4c7b-4652-b1e5-d82af47f2717",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183986,
             "text": "Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers.\nAddendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield.",
             "type": "Instant",
             "types": [
@@ -597,6 +1017,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -611,9 +1034,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{G}{G}{G}",
+            "mtgstocksId": 47861,
             "name": "End-Raze Forerunners",
             "number": "124s",
             "power": "7",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.46,
+                    "2019-05-05": 2.46,
+                    "2019-05-12": 2.49,
+                    "2019-05-19": 2.46,
+                    "2019-05-26": 2.43,
+                    "2019-06-02": 2.41,
+                    "2019-06-09": 2.4,
+                    "2019-06-16": 2.24,
+                    "2019-06-23": 2.38,
+                    "2019-06-30": 2.09,
+                    "2019-07-07": 2.1,
+                    "2019-07-14": 2.04,
+                    "2019-07-21": 2.05
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -632,6 +1074,7 @@
                 "Boar"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184103,
             "text": "Vigilance, trample, haste\nWhen End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn.",
             "toughness": "7",
             "type": "Creature — Boar",
@@ -657,6 +1100,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -666,13 +1112,31 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}{W}{B}",
+            "mtgstocksId": 47853,
             "name": "Ethereal Absolution",
             "number": "170s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.4,
+                    "2019-05-05": 2.35,
+                    "2019-05-12": 2.44,
+                    "2019-05-19": 2.37,
+                    "2019-05-26": 2.56,
+                    "2019-06-02": 2.5,
+                    "2019-06-09": 2.51,
+                    "2019-06-16": 2.47,
+                    "2019-06-23": 2.44,
+                    "2019-06-30": 2.35,
+                    "2019-07-07": 2.41,
+                    "2019-07-14": 2.39,
+                    "2019-07-21": 2.37
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -684,6 +1148,7 @@
             "scryfallOracleId": "e6f95e3a-61a6-40a9-8070-ffd2767764ad",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184006,
             "text": "Creatures you control get +1/+1.\nCreatures your opponents control get -1/-1.\n{2}{W}{B}: Exile target card from an opponent's graveyard. If it was a creature card, you create a 1/1 white and black Spirit creature token with flying.",
             "type": "Enchantment",
             "types": [
@@ -707,6 +1172,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -721,8 +1189,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
+            "mtgstocksId": 47863,
             "name": "Font of Agonies",
             "number": "74s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.64,
+                    "2019-05-05": 1.76,
+                    "2019-05-12": 1.5,
+                    "2019-05-19": 1.47,
+                    "2019-05-26": 1.44,
+                    "2019-06-02": 1.44,
+                    "2019-06-09": 1.46,
+                    "2019-06-16": 1.34,
+                    "2019-06-23": 1.44,
+                    "2019-06-30": 1.49,
+                    "2019-07-07": 1.49,
+                    "2019-07-14": 1.25,
+                    "2019-07-21": 1.3
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -743,6 +1230,7 @@
             "scryfallOracleId": "ab44c6fe-6a66-42f0-9e75-8b25641e1f13",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184207,
             "text": "Whenever you pay life, put that many blood counters on Font of Agonies.\n{1}{B}, Remove four blood counters from Font of Agonies: Destroy target creature.",
             "type": "Enchantment",
             "types": [
@@ -760,6 +1248,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -774,9 +1265,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{8}",
+            "mtgstocksId": 47866,
             "name": "Gate Colossus",
             "number": "232",
             "power": "8",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.25,
+                    "2019-05-05": 1.03,
+                    "2019-05-12": 1.0,
+                    "2019-05-19": 0.99,
+                    "2019-05-26": 0.99,
+                    "2019-06-02": 0.97,
+                    "2019-06-09": 0.99,
+                    "2019-06-16": 0.98,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.98,
+                    "2019-07-07": 0.97,
+                    "2019-07-14": 0.88,
+                    "2019-07-21": 0.88
+                }
+            },
             "printings": [
                 "PRM",
                 "PRNA",
@@ -796,6 +1306,7 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182122,
             "text": "This spell costs {1} less to cast for each Gate you control.\nGate Colossus can't be blocked by creatures with power 2 or less.\nWhenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library.",
             "toughness": "8",
             "type": "Artifact Creature — Construct",
@@ -823,6 +1334,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -837,8 +1351,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}{U}",
+            "mtgstocksId": 47808,
             "name": "Growth Spiral",
             "number": "178",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.03,
+                    "2019-05-05": 3.89,
+                    "2019-05-12": 3.61,
+                    "2019-05-19": 3.5,
+                    "2019-05-26": 3.25,
+                    "2019-06-02": 3.0,
+                    "2019-06-09": 2.9,
+                    "2019-06-16": 2.58,
+                    "2019-06-23": 2.69,
+                    "2019-06-30": 2.59,
+                    "2019-07-07": 2.59,
+                    "2019-07-14": 2.57,
+                    "2019-07-21": 2.6
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -855,6 +1388,7 @@
             "scryfallOracleId": "34bcc217-dd91-45a0-90d7-a94d02f1f317",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182124,
             "text": "Draw a card. You may put a land card from your hand onto the battlefield.",
             "type": "Instant",
             "types": [
@@ -877,6 +1411,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -890,9 +1427,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}",
+            "mtgstocksId": 47839,
             "name": "Growth-Chamber Guardian",
             "number": "128s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.0,
+                    "2019-05-05": 4.94,
+                    "2019-05-12": 4.76,
+                    "2019-05-19": 4.95,
+                    "2019-05-26": 4.91,
+                    "2019-06-02": 4.57,
+                    "2019-06-09": 4.49,
+                    "2019-06-16": 4.05,
+                    "2019-06-23": 4.49,
+                    "2019-06-30": 4.57,
+                    "2019-07-07": 4.36,
+                    "2019-07-14": 4.08,
+                    "2019-07-21": 4.04
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -921,6 +1477,7 @@
                 "Warrior"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184000,
             "text": "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\nWhenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library.",
             "toughness": "2",
             "type": "Creature — Elf Crab Warrior",
@@ -947,6 +1504,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -960,9 +1520,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}{G}",
+            "mtgstocksId": 47835,
             "name": "Gruul Spellbreaker",
             "number": "179s",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.9,
+                    "2019-05-05": 4.75,
+                    "2019-05-12": 4.77,
+                    "2019-05-19": 4.66,
+                    "2019-05-26": 4.15,
+                    "2019-06-02": 3.99,
+                    "2019-06-09": 3.99,
+                    "2019-06-16": 3.99,
+                    "2019-06-23": 4.01,
+                    "2019-06-30": 3.99,
+                    "2019-07-07": 4.0,
+                    "2019-07-14": 4.01,
+                    "2019-07-21": 4.07
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -990,6 +1569,7 @@
                 "Warrior"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183989,
             "text": "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)\nTrample\nAs long as it's your turn, you and Gruul Spellbreaker have hexproof.",
             "toughness": "3",
             "type": "Creature — Ogre Warrior",
@@ -1014,6 +1594,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1028,8 +1611,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
+            "mtgstocksId": 47840,
             "name": "Guardian Project",
             "number": "130s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 17.99,
+                    "2019-05-05": 17.85,
+                    "2019-05-12": 17.78,
+                    "2019-05-19": 16.85,
+                    "2019-05-26": 16.29,
+                    "2019-06-02": 14.99,
+                    "2019-06-09": 12.89,
+                    "2019-06-16": 8.18,
+                    "2019-06-23": 7.39,
+                    "2019-06-30": 7.1,
+                    "2019-07-07": 6.98,
+                    "2019-07-14": 6.96,
+                    "2019-07-21": 6.99
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1058,6 +1660,7 @@
             "scryfallOracleId": "4f9e07ae-6341-4b46-9f77-f17ab659d266",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183993,
             "text": "Whenever a nontoken creature enters the battlefield under your control, if it doesn't have the same name as another creature you control or a creature card in your graveyard, draw a card.",
             "type": "Enchantment",
             "types": [
@@ -1079,7 +1682,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1094,8 +1700,96 @@
             },
             "manaCost": "{B}",
             "name": "Gutterbones",
+            "number": "76p",
+            "power": "2",
+            "printings": [
+                "PRNA",
+                "RNA"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2019-01-25",
+                    "text": "Damage dealt to a player causes that player to lose that much life."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "In a multiplayer game, if an opponent loses life during your turn and then leaves the game, you can activate Gutterbones’s ability."
+                }
+            ],
+            "scryfallId": "f6cd598a-f42d-4402-a7f7-c81ad0a87b07",
+            "scryfallIllustrationId": "54bac551-83b4-4ea5-8a1c-00c465f5e08d",
+            "scryfallOracleId": "76ae3779-c821-4cd3-8d0f-8c42d1206ce4",
+            "subtypes": [
+                "Skeleton",
+                "Warrior"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193379,
+            "text": "Gutterbones enters the battlefield tapped.\n{1}{B}: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.",
+            "toughness": "1",
+            "type": "Creature — Skeleton Warrior",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "01edf33b-eb9f-5d0d-9c0c-3b1586a59312",
+            "variations": [
+                "e67384a6-622a-5e3f-baf7-a898d261aca2"
+            ]
+        },
+        {
+            "artist": "Grzegorz Rutkowski",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 1.0,
+            "flavorText": "\"Down here, things don't stay dead.\"\n—Lavinia",
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{B}",
+            "mtgstocksId": 47860,
+            "name": "Gutterbones",
             "number": "76s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.53,
+                    "2019-05-05": 2.95,
+                    "2019-05-12": 2.99,
+                    "2019-05-19": 3.0,
+                    "2019-05-26": 2.99,
+                    "2019-06-02": 2.99,
+                    "2019-06-09": 2.97,
+                    "2019-06-16": 2.98,
+                    "2019-06-23": 2.99,
+                    "2019-06-30": 2.97,
+                    "2019-07-07": 2.96,
+                    "2019-07-14": 2.79,
+                    "2019-07-21": 2.75
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1119,13 +1813,17 @@
                 "Warrior"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184102,
             "text": "Gutterbones enters the battlefield tapped.\n{1}{B}: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.",
             "toughness": "1",
             "type": "Creature — Skeleton Warrior",
             "types": [
                 "Creature"
             ],
-            "uuid": "e67384a6-622a-5e3f-baf7-a898d261aca2"
+            "uuid": "e67384a6-622a-5e3f-baf7-a898d261aca2",
+            "variations": [
+                "01edf33b-eb9f-5d0d-9c0c-3b1586a59312"
+            ]
         },
         {
             "artist": "Bram Sels",
@@ -1142,6 +1840,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1155,9 +1856,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgstocksId": 47834,
             "name": "Hero of Precinct One",
             "number": "11s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.85,
+                    "2019-05-05": 3.8,
+                    "2019-05-12": 3.75,
+                    "2019-05-19": 3.79,
+                    "2019-05-26": 3.89,
+                    "2019-06-02": 3.79,
+                    "2019-06-09": 3.92,
+                    "2019-06-16": 3.99,
+                    "2019-06-23": 3.98,
+                    "2019-06-30": 3.99,
+                    "2019-07-07": 3.99,
+                    "2019-07-14": 3.89,
+                    "2019-07-21": 3.89
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1177,6 +1897,7 @@
                 "Warrior"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183985,
             "text": "Whenever you cast a multicolored spell, create a 1/1 white Human creature token.",
             "toughness": "2",
             "type": "Creature — Human Warrior",
@@ -1202,6 +1923,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1215,9 +1939,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{X}{G}{U}",
+            "mtgstocksId": 47850,
             "name": "Hydroid Krasis",
             "number": "183s",
             "power": "0",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 35.96,
+                    "2019-05-05": 35.91,
+                    "2019-05-12": 34.19,
+                    "2019-05-19": 32.8,
+                    "2019-05-26": 32.49,
+                    "2019-06-02": 30.4,
+                    "2019-06-09": 30.52,
+                    "2019-06-16": 30.28,
+                    "2019-06-23": 29.99,
+                    "2019-06-30": 29.35,
+                    "2019-07-07": 29.0,
+                    "2019-07-14": 28.87,
+                    "2019-07-21": 28.82
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1238,6 +1981,7 @@
                 "Beast"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184001,
             "text": "When you cast this spell, you gain half X life and draw half X cards. Round down each time.\nFlying, trample\nHydroid Krasis enters the battlefield with X +1/+1 counters on it.",
             "toughness": "0",
             "type": "Creature — Jellyfish Hydra Beast",
@@ -1262,6 +2006,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1276,9 +2023,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}",
+            "mtgstocksId": 47830,
             "name": "Immolation Shaman",
             "number": "106s",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.68,
+                    "2019-05-05": 1.66,
+                    "2019-05-12": 1.61,
+                    "2019-05-19": 1.6,
+                    "2019-05-26": 1.53,
+                    "2019-06-02": 1.5,
+                    "2019-06-09": 1.5,
+                    "2019-06-16": 1.5,
+                    "2019-06-23": 1.46,
+                    "2019-06-30": 1.38,
+                    "2019-07-07": 1.34,
+                    "2019-07-14": 1.3,
+                    "2019-07-21": 1.27
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1314,6 +2080,7 @@
                 "Shaman"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183983,
             "text": "Whenever an opponent activates an ability of an artifact, creature, or land that isn't a mana ability, Immolation Shaman deals 1 damage to that player.\n{3}{R}{R}: Immolation Shaman gets +3/+3 and gains menace until end of turn.",
             "toughness": "3",
             "type": "Creature — Viashino Shaman",
@@ -1335,7 +2102,10 @@
             "foreignData": [],
             "frameVersion": "2015",
             "hasFoil": true,
-            "hasNonFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1350,8 +2120,112 @@
             },
             "manaCost": "{1}{G}",
             "name": "Incubation Druid",
+            "number": "131p",
+            "power": "0",
+            "printings": [
+                "PRNA",
+                "RNA"
+            ],
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2019-01-25",
+                    "text": "The types of mana are white, blue, black, red, green, and colorless."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "Any change to a land’s type or abilities gained by a land can affect the types of mana a land can produce."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "Incubation Druid checks the effects of all mana-producing abilities of lands you control, but it doesn’t check their costs or legality. For example, Spire of Industry says “{T}, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact.” If you control Spire of Industry and Incubation Druid, you can tap Incubation Druid for any color of mana. It doesn’t matter whether you control an artifact, whether you can pay 1 life, or whether Spire of Industry is untapped."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "Incubation Druid doesn’t care about any restrictions or riders your lands put on the mana they produce, such as those of Unclaimed Territory and Guildmages’ Forum. It just produces one mana of the appropriate type, with no restrictions or riders."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won’t put any +1/+1 counters on it."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters."
+                }
+            ],
+            "scryfallId": "cf10896d-77c4-41b8-9b8a-da65a3b1f32c",
+            "scryfallIllustrationId": "a0a0a56a-2eda-4f2d-ada6-a4c2edd70ff8",
+            "scryfallOracleId": "34428f42-03ac-4795-8286-6cbea796df2b",
+            "subtypes": [
+                "Elf",
+                "Druid"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193381,
+            "text": "{T}: Add one mana of any type that a land you control could produce. If Incubation Druid has a +1/+1 counter on it, add three mana of that type instead.\n{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)",
+            "toughness": "2",
+            "type": "Creature — Elf Druid",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "29b63d68-b39a-5171-adbe-d37520c09b40",
+            "variations": [
+                "5d5adebb-5462-5bcc-b560-061fd0f00913"
+            ],
+            "watermark": "simic"
+        },
+        {
+            "artist": "Daniel Ljunggren",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 2.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{G}",
+            "mtgstocksId": 47855,
+            "name": "Incubation Druid",
             "number": "131s",
             "power": "0",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.28,
+                    "2019-05-05": 6.2,
+                    "2019-05-12": 6.29,
+                    "2019-05-19": 6.23,
+                    "2019-05-26": 6.2,
+                    "2019-06-02": 5.99,
+                    "2019-06-09": 6.01,
+                    "2019-06-16": 5.95,
+                    "2019-06-23": 6.0,
+                    "2019-06-30": 6.0,
+                    "2019-07-07": 6.08,
+                    "2019-07-14": 5.99,
+                    "2019-07-21": 5.99
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1391,6 +2265,7 @@
                 "Druid"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184007,
             "text": "{T}: Add one mana of any type that a land you control could produce. If Incubation Druid has a +1/+1 counter on it, add three mana of that type instead.\n{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)",
             "toughness": "2",
             "type": "Creature — Elf Druid",
@@ -1398,6 +2273,9 @@
                 "Creature"
             ],
             "uuid": "5d5adebb-5462-5bcc-b560-061fd0f00913",
+            "variations": [
+                "29b63d68-b39a-5171-adbe-d37520c09b40"
+            ],
             "watermark": "simic"
         },
         {
@@ -1418,6 +2296,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1431,9 +2312,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{R}",
+            "mtgstocksId": 47836,
             "name": "Judith, the Scourge Diva",
             "number": "185s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 8.35,
+                    "2019-05-05": 8.25,
+                    "2019-05-12": 7.97,
+                    "2019-05-19": 7.66,
+                    "2019-05-26": 7.5,
+                    "2019-06-02": 7.0,
+                    "2019-06-09": 6.96,
+                    "2019-06-16": 6.83,
+                    "2019-06-23": 6.49,
+                    "2019-06-30": 6.13,
+                    "2019-07-07": 6.04,
+                    "2019-07-14": 5.99,
+                    "2019-07-21": 5.95
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1463,6 +2363,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 183988,
             "text": "Other creatures you control get +1/+0.\nWhenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target.",
             "toughness": "2",
             "type": "Legendary Creature — Human Shaman",
@@ -1489,6 +2390,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1502,8 +2406,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{W}{B}{B}",
+            "mtgstocksId": 47854,
             "name": "Kaya's Wrath",
             "number": "187s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.99,
+                    "2019-05-05": 5.89,
+                    "2019-05-12": 5.85,
+                    "2019-05-19": 5.9,
+                    "2019-05-26": 5.64,
+                    "2019-06-02": 5.66,
+                    "2019-06-09": 5.59,
+                    "2019-06-16": 5.56,
+                    "2019-06-23": 5.23,
+                    "2019-06-30": 5.06,
+                    "2019-07-07": 4.84,
+                    "2019-07-14": 4.94,
+                    "2019-07-21": 5.0
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1520,6 +2443,7 @@
             "scryfallOracleId": "bc8de6c7-c69d-4add-8f25-825d945874f9",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184008,
             "text": "Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way.",
             "type": "Sorcery",
             "types": [
@@ -1541,9 +2465,14 @@
             ],
             "convertedManaCost": 2.0,
             "foreignData": [],
+            "frameEffect": "legendary",
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isFullArt": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1557,9 +2486,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{U}",
+            "mtgstocksId": 47987,
             "name": "Lavinia, Azorius Renegade",
             "number": "189",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.75,
+                    "2019-05-05": 4.22,
+                    "2019-05-12": 4.37,
+                    "2019-05-19": 4.37,
+                    "2019-05-26": 4.34,
+                    "2019-06-02": 4.39,
+                    "2019-06-09": 4.5,
+                    "2019-06-16": 4.56,
+                    "2019-06-23": 4.49,
+                    "2019-06-30": 4.22,
+                    "2019-07-07": 4.49,
+                    "2019-07-14": 4.49,
+                    "2019-07-21": 4.22
+                }
+            },
             "printings": [
                 "PRM",
                 "PRNA",
@@ -1594,6 +2542,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 182130,
             "text": "Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.",
             "toughness": "2",
             "type": "Legendary Creature — Human Soldier",
@@ -1623,6 +2572,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1636,9 +2588,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{U}",
+            "mtgstocksId": 47841,
             "name": "Lavinia, Azorius Renegade",
             "number": "189s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 5.24,
+                    "2019-05-05": 4.97,
+                    "2019-05-12": 4.79,
+                    "2019-05-19": 4.54,
+                    "2019-05-26": 4.41,
+                    "2019-06-02": 4.33,
+                    "2019-06-09": 4.23,
+                    "2019-06-16": 4.03,
+                    "2019-06-23": 4.21,
+                    "2019-06-30": 3.58,
+                    "2019-07-07": 3.49,
+                    "2019-07-14": 3.08,
+                    "2019-07-21": 3.01
+                }
+            },
             "printings": [
                 "PRM",
                 "PRNA",
@@ -1673,6 +2644,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 183994,
             "text": "Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.",
             "toughness": "2",
             "type": "Legendary Creature — Human Soldier",
@@ -1700,6 +2672,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1713,8 +2688,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}",
+            "mtgstocksId": 47807,
             "name": "Light Up the Stage",
             "number": "107",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.9,
+                    "2019-05-05": 4.15,
+                    "2019-05-12": 4.08,
+                    "2019-05-19": 4.01,
+                    "2019-05-26": 4.09,
+                    "2019-06-02": 3.89,
+                    "2019-06-09": 3.92,
+                    "2019-06-16": 3.92,
+                    "2019-06-23": 3.68,
+                    "2019-06-30": 3.75,
+                    "2019-07-07": 3.57,
+                    "2019-07-14": 3.8,
+                    "2019-07-21": 3.85
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1759,6 +2753,7 @@
             "scryfallOracleId": "8d286376-f386-43ab-a9bd-8478fb9e2497",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182126,
             "text": "Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nExile the top two cards of your library. Until the end of your next turn, you may play those cards.",
             "type": "Sorcery",
             "types": [
@@ -1781,6 +2776,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1795,9 +2793,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{W}",
+            "mtgstocksId": 47862,
             "name": "Lumbering Battlement",
             "number": "15s",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.96,
+                    "2019-05-05": 0.95,
+                    "2019-05-12": 0.92,
+                    "2019-05-19": 0.97,
+                    "2019-05-26": 0.92,
+                    "2019-06-02": 0.95,
+                    "2019-06-09": 0.99,
+                    "2019-06-16": 0.99,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.98,
+                    "2019-07-07": 0.99,
+                    "2019-07-14": 0.95,
+                    "2019-07-21": 0.98
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1824,6 +2841,7 @@
                 "Beast"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184208,
             "text": "Vigilance\nWhen Lumbering Battlement enters the battlefield, exile any number of other nontoken creatures you control until it leaves the battlefield.\nLumbering Battlement gets +2/+2 for each card exiled with it.",
             "toughness": "5",
             "type": "Creature — Beast",
@@ -1846,6 +2864,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1860,8 +2881,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{R}",
+            "mtgstocksId": 47864,
             "name": "Mirror March",
             "number": "108s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.46,
+                    "2019-05-05": 1.53,
+                    "2019-05-12": 1.49,
+                    "2019-05-19": 1.47,
+                    "2019-05-26": 1.39,
+                    "2019-06-02": 1.37,
+                    "2019-06-09": 1.4,
+                    "2019-06-16": 1.4,
+                    "2019-06-23": 1.29,
+                    "2019-06-30": 1.29,
+                    "2019-07-07": 1.36,
+                    "2019-07-14": 1.29,
+                    "2019-07-21": 1.25
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -1898,6 +2938,7 @@
             "scryfallOracleId": "945eaa8b-0ba5-45a6-a02a-763e5bfe3af8",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184105,
             "text": "Whenever a nontoken creature enters the battlefield under your control, flip a coin until you lose a flip. For each flip you won, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.",
             "type": "Enchantment",
             "types": [
@@ -1922,6 +2963,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -1931,12 +2975,32 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{B}",
+            "mtgstocksId": 47809,
             "name": "Mortify",
             "number": "192",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.0,
+                    "2019-05-05": 1.98,
+                    "2019-05-12": 1.95,
+                    "2019-05-19": 1.95,
+                    "2019-05-26": 2.0,
+                    "2019-06-02": 1.99,
+                    "2019-06-09": 1.98,
+                    "2019-06-16": 1.95,
+                    "2019-06-23": 1.95,
+                    "2019-06-30": 1.88,
+                    "2019-07-07": 1.83,
+                    "2019-07-14": 1.73,
+                    "2019-07-21": 1.75
+                }
+            },
             "printings": [
                 "C16",
                 "C17",
@@ -1965,6 +3029,7 @@
             "scryfallOracleId": "faa01ed1-ccfa-4e58-951f-cd81f9068027",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182128,
             "text": "Destroy target creature or enchantment.",
             "type": "Instant",
             "types": [
@@ -1991,6 +3056,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2005,9 +3073,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}{G}",
+            "mtgstocksId": 47851,
             "name": "Nikya of the Old Ways",
             "number": "193s",
             "power": "5",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.67,
+                    "2019-05-05": 3.64,
+                    "2019-05-12": 3.63,
+                    "2019-05-19": 3.63,
+                    "2019-05-26": 3.57,
+                    "2019-06-02": 3.56,
+                    "2019-06-09": 3.54,
+                    "2019-06-16": 3.4,
+                    "2019-06-23": 3.47,
+                    "2019-06-30": 3.35,
+                    "2019-07-07": 3.23,
+                    "2019-07-14": 3.14,
+                    "2019-07-21": 3.14
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2037,6 +3124,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 184005,
             "text": "You can't cast noncreature spells.\nWhenever you tap a land for mana, add one mana of any type that land produced.",
             "toughness": "5",
             "type": "Legendary Creature — Centaur Druid",
@@ -2061,6 +3149,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2075,8 +3166,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}{U}",
+            "mtgstocksId": 47849,
             "name": "Precognitive Perception",
             "number": "45s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.87,
+                    "2019-05-05": 1.9,
+                    "2019-05-12": 1.9,
+                    "2019-05-19": 1.89,
+                    "2019-05-26": 1.85,
+                    "2019-06-02": 1.75,
+                    "2019-06-09": 1.75,
+                    "2019-06-16": 1.75,
+                    "2019-06-23": 1.72,
+                    "2019-06-30": 1.71,
+                    "2019-07-07": 1.71,
+                    "2019-07-14": 1.71,
+                    "2019-07-21": 1.73
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2097,6 +3207,7 @@
             "scryfallOracleId": "275d0b90-a8d6-4388-b7db-34615287f532",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183999,
             "text": "Draw three cards.\nAddendum — If you cast this spell during your main phase, instead scry 3, then draw three cards.",
             "type": "Instant",
             "types": [
@@ -2120,6 +3231,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2133,9 +3247,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}",
+            "mtgstocksId": 47846,
             "name": "Priest of Forgotten Gods",
             "number": "83s",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.83,
+                    "2019-05-05": 4.5,
+                    "2019-05-12": 4.47,
+                    "2019-05-19": 4.47,
+                    "2019-05-26": 4.5,
+                    "2019-06-02": 4.41,
+                    "2019-06-09": 4.5,
+                    "2019-06-16": 4.46,
+                    "2019-06-23": 4.68,
+                    "2019-06-30": 4.57,
+                    "2019-07-07": 4.57,
+                    "2019-07-14": 4.6,
+                    "2019-07-21": 4.51
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2163,6 +3296,7 @@
                 "Cleric"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 184003,
             "text": "{T}, Sacrifice two other creatures: Any number of target players each lose 2 life and sacrifice a creature. You add {B}{B} and draw a card.",
             "toughness": "2",
             "type": "Creature — Human Cleric",
@@ -2187,6 +3321,10 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isFullArt": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2201,9 +3339,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}{B}{R}{R}",
+            "mtgstocksId": 47793,
             "name": "Rakdos Firewheeler",
             "number": "197",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.5,
+                    "2019-05-05": 0.5,
+                    "2019-05-12": 0.49,
+                    "2019-05-19": 0.49,
+                    "2019-05-26": 0.49,
+                    "2019-06-02": 0.49,
+                    "2019-06-09": 0.49,
+                    "2019-06-16": 0.49,
+                    "2019-06-23": 0.5,
+                    "2019-06-30": 0.49,
+                    "2019-07-07": 0.49,
+                    "2019-07-14": 0.49,
+                    "2019-07-21": 0.5
+                }
+            },
             "printings": [
                 "PRM",
                 "PRNA",
@@ -2224,6 +3381,7 @@
                 "Rogue"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182118,
             "text": "When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker.",
             "toughness": "3",
             "type": "Creature — Human Rogue",
@@ -2250,6 +3408,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2263,9 +3424,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{B}{R}",
+            "mtgstocksId": 47829,
             "name": "Rakdos, the Showstopper",
             "number": "199s",
             "power": "6",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 7.06,
+                    "2019-05-05": 7.15,
+                    "2019-05-12": 6.97,
+                    "2019-05-19": 6.91,
+                    "2019-05-26": 6.91,
+                    "2019-06-02": 6.46,
+                    "2019-06-09": 6.32,
+                    "2019-06-16": 6.2,
+                    "2019-06-23": 6.12,
+                    "2019-06-30": 5.98,
+                    "2019-07-07": 5.96,
+                    "2019-07-14": 5.82,
+                    "2019-07-21": 5.8
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2290,6 +3470,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 183982,
             "text": "Flying, trample\nWhen Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails.",
             "toughness": "6",
             "type": "Legendary Creature — Demon",
@@ -2314,6 +3495,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2328,8 +3512,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
+            "mtgstocksId": 47848,
             "name": "Rampage of the Clans",
             "number": "134s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.69,
+                    "2019-05-05": 1.51,
+                    "2019-05-12": 1.5,
+                    "2019-05-19": 1.49,
+                    "2019-05-26": 1.45,
+                    "2019-06-02": 1.47,
+                    "2019-06-09": 1.3,
+                    "2019-06-16": 1.15,
+                    "2019-06-23": 1.17,
+                    "2019-06-30": 1.08,
+                    "2019-07-07": 1.07,
+                    "2019-07-14": 1.07,
+                    "2019-07-21": 1.08
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2350,6 +3553,7 @@
             "scryfallOracleId": "5dc34e93-97e3-434b-9f12-f45c6d556f13",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184002,
             "text": "Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token.",
             "type": "Instant",
             "types": [
@@ -2373,6 +3577,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2386,9 +3593,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}{G}{G}",
+            "mtgstocksId": 47842,
             "name": "Ravager Wurm",
             "number": "200s",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.9,
+                    "2019-05-05": 3.7,
+                    "2019-05-12": 3.82,
+                    "2019-05-19": 3.9,
+                    "2019-05-26": 3.5,
+                    "2019-06-02": 3.49,
+                    "2019-06-09": 3.49,
+                    "2019-06-16": 3.38,
+                    "2019-06-23": 3.49,
+                    "2019-06-30": 3.2,
+                    "2019-07-07": 2.99,
+                    "2019-07-14": 2.89,
+                    "2019-07-21": 2.79
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2427,6 +3653,7 @@
                 "Wurm"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183996,
             "text": "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)\nWhen Ravager Wurm enters the battlefield, choose up to one —\n• Ravager Wurm fights target creature you don't control.\n• Destroy target land with an activated ability that isn't a mana ability.",
             "toughness": "5",
             "type": "Creature — Wurm",
@@ -2451,6 +3678,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2464,9 +3694,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}",
+            "mtgstocksId": 47828,
             "name": "Rix Maadi Reveler",
             "number": "109s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.72,
+                    "2019-05-05": 2.59,
+                    "2019-05-12": 2.6,
+                    "2019-05-19": 2.52,
+                    "2019-05-26": 2.41,
+                    "2019-06-02": 2.4,
+                    "2019-06-09": 2.31,
+                    "2019-06-16": 2.25,
+                    "2019-06-23": 2.26,
+                    "2019-06-30": 2.19,
+                    "2019-07-07": 2.19,
+                    "2019-07-14": 2.1,
+                    "2019-07-21": 2.07
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2510,6 +3759,7 @@
                 "Shaman"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183979,
             "text": "Spectacle {2}{B}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nWhen Rix Maadi Reveler enters the battlefield, discard a card, then draw a card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your hand, then draw three cards.",
             "toughness": "2",
             "type": "Creature — Human Shaman",
@@ -2535,6 +3785,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2548,9 +3801,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{B}",
+            "mtgstocksId": 47831,
             "name": "Seraph of the Scales",
             "number": "205s",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 13.73,
+                    "2019-05-05": 13.77,
+                    "2019-05-12": 13.73,
+                    "2019-05-19": 13.5,
+                    "2019-05-26": 12.89,
+                    "2019-06-02": 11.99,
+                    "2019-06-09": 11.51,
+                    "2019-06-16": 11.69,
+                    "2019-06-23": 11.74,
+                    "2019-06-30": 11.5,
+                    "2019-07-07": 10.83,
+                    "2019-07-14": 9.92,
+                    "2019-07-21": 9.7
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2573,6 +3845,7 @@
                 "Angel"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183984,
             "text": "Flying\n{W}: Seraph of the Scales gains vigilance until end of turn.\n{B}: Seraph of the Scales gains deathtouch until end of turn.\nAfterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)",
             "toughness": "3",
             "type": "Creature — Angel",
@@ -2598,6 +3871,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2607,13 +3883,31 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{G}{U}",
+            "mtgstocksId": 47865,
             "name": "Simic Ascendancy",
             "number": "207",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.46,
+                    "2019-05-05": 1.23,
+                    "2019-05-12": 1.21,
+                    "2019-05-19": 1.2,
+                    "2019-05-26": 1.24,
+                    "2019-06-02": 1.43,
+                    "2019-06-09": 1.44,
+                    "2019-06-16": 1.41,
+                    "2019-06-23": 1.42,
+                    "2019-06-30": 1.49,
+                    "2019-07-07": 1.47,
+                    "2019-07-14": 1.42,
+                    "2019-07-21": 1.47
+                }
+            },
             "printings": [
                 "PRM",
                 "PRNA",
@@ -2643,6 +3937,7 @@
             "scryfallOracleId": "57c1a98e-c4fb-4144-9e3e-d0fe6789ba26",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182120,
             "text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy.\nAt the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game.",
             "type": "Enchantment",
             "types": [
@@ -2670,6 +3965,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2679,13 +3977,31 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{G}{U}",
+            "mtgstocksId": 47825,
             "name": "Simic Ascendancy",
             "number": "207s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.49,
+                    "2019-05-05": 2.05,
+                    "2019-05-12": 1.9,
+                    "2019-05-19": 1.81,
+                    "2019-05-26": 1.7,
+                    "2019-06-02": 1.74,
+                    "2019-06-09": 1.9,
+                    "2019-06-16": 2.15,
+                    "2019-06-23": 2.13,
+                    "2019-06-30": 1.89,
+                    "2019-07-07": 1.97,
+                    "2019-07-14": 1.97,
+                    "2019-07-21": 1.97
+                }
+            },
             "printings": [
                 "PRM",
                 "PRNA",
@@ -2715,6 +4031,7 @@
             "scryfallOracleId": "57c1a98e-c4fb-4144-9e3e-d0fe6789ba26",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183978,
             "text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy.\nAt the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game.",
             "type": "Enchantment",
             "types": [
@@ -2725,6 +4042,87 @@
                 "0ec5f9e0-f395-5727-8608-e94398084344"
             ],
             "watermark": "simic"
+        },
+        {
+            "artist": "Svetlin Velinov",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 5.0,
+            "foreignData": [],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
+            "isStarter": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "frontier": "Legal",
+                "future": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{R}{R}",
+            "name": "Skarrgan Hellkite",
+            "number": "114p",
+            "power": "4",
+            "printings": [
+                "PRNA",
+                "RNA"
+            ],
+            "rarity": "mythic",
+            "rulings": [
+                {
+                    "date": "2019-01-25",
+                    "text": "You divide the damage as you activate Skarrgan Hellkite’s ability, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you activate the ability, you choose whether to have Skarrgan Hellkite deal 2 damage to a single target, or deal 1 damage to each of two targets."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "If Skarrgan Hellkite’s ability has two targets and one becomes illegal, the remaining target is dealt 1 damage, not 2."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "Once Skarrgan Hellkite’s ability has been activated, it resolves even if all +1/+1 counters are removed from it or if Skarrgan Hellkite leaves the battlefield."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "Riot is a replacement effect. Players can’t respond to your choice of +1/+1 counter or haste, and they can’t take actions while the creature is on the battlefield without one or the other."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "If a creature entering the battlefield has riot but can’t have a +1/+1 counter put onto it, it gains haste."
+                },
+                {
+                    "date": "2019-01-25",
+                    "text": "If you choose for the creature to gain haste, it gains haste indefinitely. It won’t lose it as the turn ends or as another player gains control of it."
+                }
+            ],
+            "scryfallId": "69b82c39-3e9c-426b-9742-a7b3295dc195",
+            "scryfallIllustrationId": "da580719-c28b-4618-9d17-d0d588a68456",
+            "scryfallOracleId": "bfbe28a2-b656-4575-8b7e-9dbc22f8d4bc",
+            "subtypes": [
+                "Dragon"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 193380,
+            "text": "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)\nFlying\n{3}{R}: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it.",
+            "toughness": "4",
+            "type": "Creature — Dragon",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "df53cbc4-1117-567b-bcaf-2b4b3b50c454",
+            "watermark": "gruul"
         },
         {
             "artist": "Titus Lunter",
@@ -2741,6 +4139,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2750,14 +4151,32 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}{U}",
+            "mtgstocksId": 47845,
             "name": "Sphinx of Foresight",
             "number": "55s",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.98,
+                    "2019-05-05": 2.68,
+                    "2019-05-12": 2.73,
+                    "2019-05-19": 2.51,
+                    "2019-05-26": 2.38,
+                    "2019-06-02": 2.35,
+                    "2019-06-09": 2.36,
+                    "2019-06-16": 2.24,
+                    "2019-06-23": 2.33,
+                    "2019-06-30": 2.33,
+                    "2019-07-07": 2.35,
+                    "2019-07-14": 2.25,
+                    "2019-07-21": 2.15
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2780,6 +4199,7 @@
                 "Sphinx"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183997,
             "text": "You may reveal this card from your opening hand. If you do, scry 3 at the beginning of your first upkeep.\nFlying\nAt the beginning of your upkeep, scry 1.",
             "toughness": "4",
             "type": "Creature — Sphinx",
@@ -2806,6 +4226,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2815,14 +4238,32 @@
                 "future": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "standard": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{B}",
+            "mtgstocksId": 47826,
             "name": "Teysa Karlov",
             "number": "212s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 12.49,
+                    "2019-05-05": 12.48,
+                    "2019-05-12": 12.21,
+                    "2019-05-19": 11.39,
+                    "2019-05-26": 11.3,
+                    "2019-06-02": 10.99,
+                    "2019-06-09": 10.15,
+                    "2019-06-16": 9.99,
+                    "2019-06-23": 9.99,
+                    "2019-06-30": 9.98,
+                    "2019-07-07": 9.66,
+                    "2019-07-14": 9.49,
+                    "2019-07-21": 9.48
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2880,6 +4321,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 183981,
             "text": "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nCreature tokens you control have vigilance and lifelink.",
             "toughness": "4",
             "type": "Legendary Creature — Human Advisor",
@@ -2905,6 +4347,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2918,8 +4363,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{R}",
+            "mtgstocksId": 47833,
             "name": "Theater of Horrors",
             "number": "213s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.55,
+                    "2019-05-05": 3.42,
+                    "2019-05-12": 3.41,
+                    "2019-05-19": 3.42,
+                    "2019-05-26": 3.29,
+                    "2019-06-02": 3.14,
+                    "2019-06-09": 3.0,
+                    "2019-06-16": 2.97,
+                    "2019-06-23": 2.98,
+                    "2019-06-30": 2.64,
+                    "2019-07-07": 2.5,
+                    "2019-07-14": 2.48,
+                    "2019-07-21": 2.37
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -2948,6 +4412,7 @@
             "scryfallOracleId": "b391a4ce-52ce-4a8c-bbe5-6053951ee1d4",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 183987,
             "text": "At the beginning of your upkeep, exile the top card of your library.\nDuring your turn, if an opponent lost life this turn, you may play cards exiled with Theater of Horrors.\n{3}{R}: Theater of Horrors deals 1 damage to target opponent or planeswalker.",
             "type": "Enchantment",
             "types": [
@@ -2970,6 +4435,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -2983,9 +4451,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
+            "mtgstocksId": 47847,
             "name": "Tithe Taker",
             "number": "27s",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.99,
+                    "2019-05-05": 3.99,
+                    "2019-05-12": 4.88,
+                    "2019-05-19": 4.99,
+                    "2019-05-26": 5.11,
+                    "2019-06-02": 5.0,
+                    "2019-06-09": 5.0,
+                    "2019-06-16": 4.79,
+                    "2019-06-23": 4.69,
+                    "2019-06-30": 4.59,
+                    "2019-07-07": 4.41,
+                    "2019-07-14": 4.08,
+                    "2019-07-21": 4.04
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -3017,6 +4504,7 @@
                 "Soldier"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 183998,
             "text": "During your turn, spells your opponents cast cost {1} more to cast and abilities your opponents activate cost {1} more to activate unless they're mana abilities.\nAfterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",
             "toughness": "1",
             "type": "Creature — Human Soldier",
@@ -3040,6 +4528,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3053,8 +4544,27 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
+            "mtgstocksId": 47859,
             "name": "Unbreakable Formation",
             "number": "29s",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.1,
+                    "2019-05-05": 2.22,
+                    "2019-05-12": 2.08,
+                    "2019-05-19": 2.24,
+                    "2019-05-26": 2.24,
+                    "2019-06-02": 2.31,
+                    "2019-06-09": 2.31,
+                    "2019-06-16": 2.32,
+                    "2019-06-23": 2.3,
+                    "2019-06-30": 2.29,
+                    "2019-07-07": 2.23,
+                    "2019-07-14": 2.3,
+                    "2019-07-21": 2.29
+                }
+            },
             "printings": [
                 "PRNA",
                 "RNA"
@@ -3079,6 +4589,7 @@
             "scryfallOracleId": "97435e03-2fff-4fe0-8fa9-69ab0a046a33",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 184104,
             "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.",
             "type": "Instant",
             "types": [
@@ -3104,6 +4615,9 @@
             "frameVersion": "2015",
             "hasFoil": true,
             "hasNonFoil": false,
+            "isPaper": true,
+            "isPromo": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -3117,9 +4631,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{U}",
+            "mtgstocksId": 47844,
             "name": "Zegana, Utopian Speaker",
             "number": "214s",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 2.23,
+                    "2019-05-05": 2.26,
+                    "2019-05-12": 2.25,
+                    "2019-05-19": 2.14,
+                    "2019-05-26": 2.03,
+                    "2019-06-02": 2.02,
+                    "2019-06-09": 2.01,
+                    "2019-06-16": 1.98,
+                    "2019-06-23": 1.99,
+                    "2019-06-30": 1.99,
+                    "2019-07-07": 1.97,
+                    "2019-07-14": 1.97,
+                    "2019-07-21": 1.93
+                }
+            },
             "printings": [
                 "GK2",
                 "PRNA",
@@ -3146,6 +4679,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 183995,
             "text": "When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card.\n{4}{G}{U}: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)\nEach creature you control with a +1/+1 counter on it has trample.",
             "toughness": "4",
             "type": "Legendary Creature — Merfolk Wizard",
@@ -3161,15 +4695,15 @@
     "isOnlineOnly": false,
     "keyruneCode": "RNA",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Ravnica Allegiance Promos",
     "parentCode": "RNA",
     "releaseDate": "2019-01-25",
     "tokens": [],
-    "totalSetSize": 47,
+    "totalSetSize": 52,
     "translations": {},
     "type": "promo"
 }

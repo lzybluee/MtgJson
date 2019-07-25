@@ -20,6 +20,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -64,6 +65,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 146639,
             "text": "Flying\nPlayers can't cast spells during combat.\n{R}: Target creature attacks this turn if able.",
             "toughness": "4",
             "type": "Legendary Creature — Angel",
@@ -91,6 +93,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -137,6 +140,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 146640,
             "text": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
             "toughness": "2",
             "type": "Legendary Creature — Elf Rogue",
@@ -164,6 +168,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -173,9 +178,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{U}{R}",
+            "mtgstocksId": 36225,
             "name": "Nin, the Pain Artist",
             "number": "213",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 10.1,
+                    "2019-05-05": 10.07,
+                    "2019-05-12": 10.05,
+                    "2019-05-19": 10.02,
+                    "2019-05-26": 10.01,
+                    "2019-06-02": 10.01,
+                    "2019-06-09": 10.01,
+                    "2019-06-16": 10.01,
+                    "2019-06-23": 10.01,
+                    "2019-06-30": 10.01,
+                    "2019-07-07": 10.01,
+                    "2019-07-14": 10.01,
+                    "2019-07-21": 10.01
+                }
+            },
             "printings": [
                 "C17",
                 "CMD",
@@ -215,6 +239,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 146641,
             "text": "{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.",
             "toughness": "1",
             "type": "Legendary Creature — Vedalken Wizard",
@@ -241,6 +266,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -250,9 +276,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{B}{G}",
+            "mtgstocksId": 36211,
             "name": "Skullbriar, the Walking Grave",
             "number": "227",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 26.12,
+                    "2019-05-05": 31.21,
+                    "2019-05-12": 34.99,
+                    "2019-05-19": 44.33,
+                    "2019-05-26": 64.86,
+                    "2019-06-02": 107.49,
+                    "2019-06-09": 141.55,
+                    "2019-06-16": 160.96,
+                    "2019-06-23": 205.31,
+                    "2019-06-30": 214.55,
+                    "2019-07-07": 236.01,
+                    "2019-07-14": 328.27,
+                    "2019-07-21": 358.48
+                }
+            },
             "printings": [
                 "CM2",
                 "CMD",
@@ -299,6 +344,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 146129,
             "text": "Haste\nWhenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it.\nCounters remain on Skullbriar as it moves to any zone other than a player's hand or library.",
             "toughness": "1",
             "type": "Legendary Creature — Zombie Elemental",
@@ -325,6 +371,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -334,9 +381,20 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{W}{B}{B}",
+            "mtgstocksId": 37064,
             "name": "Vish Kal, Blood Arbiter",
             "number": "234",
             "power": "5",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-06-09": 15.0,
+                    "2019-06-16": 15.0,
+                    "2019-06-23": 15.0,
+                    "2019-06-30": 15.0,
+                    "2019-07-21": 15.0
+                }
+            },
             "printings": [
                 "CMD",
                 "PCMD"
@@ -357,6 +415,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 146642,
             "text": "Flying, lifelink\nSacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature's power.\nRemove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.",
             "toughness": "5",
             "type": "Legendary Creature — Vampire",
@@ -372,9 +431,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "CMD",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Commander 2011 Launch Party",
     "parentCode": "CMD",

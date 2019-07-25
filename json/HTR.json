@@ -16,6 +16,7 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {},
@@ -37,7 +38,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Create a 2/2 red Gremlin creature token.\n−2: Chandra, Gremlin Wrangler deals X damage to any target, where X is the number of Gremlins you control.",
+            "text": "[+1]: Create a 2/2 red Gremlin creature token.\n[−2]: Chandra, Gremlin Wrangler deals X damage to any target, where X is the number of Gremlins you control.",
             "type": "Legendary Planeswalker — Chandra",
             "types": [
                 "Planeswalker"
@@ -60,6 +61,7 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {},
@@ -82,7 +84,7 @@
             "supertypes": [
                 "Legendary"
             ],
-            "text": "+1: Target opponent creates a 1/1 black Skeleton creature token with \"When this creature dies, each opponent gains 2 life.\"\n+1: Roll a d20. If you roll a 1, skip your next turn. If you roll a 12 or higher, draw a card.\n−6: You get an adventuring party. (Your party is a 3/3 red Fighter with first strike, a 1/1 white Cleric with lifelink, a 2/2 black Rogue with hexproof, and a 1/1 blue Wizard with flying.)",
+            "text": "[+1]: Target opponent creates a 1/1 black Skeleton creature token with \"When this creature dies, each opponent gains 2 life.\"\n[+1]: Roll a d20. If you roll a 1, skip your next turn. If you roll a 12 or higher, draw a card.\n[−6]: You get an adventuring party. (Your party is a 3/3 red Fighter with first strike, a 1/1 white Cleric with lifelink, a 2/2 black Rogue with hexproof, and a 1/1 blue Wizard with flying.)",
             "type": "Legendary Planeswalker — Dungeon Master",
             "types": [
                 "Planeswalker"
@@ -112,6 +114,7 @@
             "frameVersion": "2015",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {},
@@ -149,9 +152,9 @@
     "mcmId": 2417,
     "mcmName": "Heroes of the Realm Promos",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "2016 Heroes of the Realm",
     "releaseDate": "2017-09-20",

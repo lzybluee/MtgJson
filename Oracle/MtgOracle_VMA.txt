@@ -1301,10 +1301,10 @@ Draw two cards.</CardText>
 <Name>Jace, the Mind Sculptor</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>2UU (4)</ManaCost>
-<CardText>[+2]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
-[0]: Draw three cards, then put two cards from your hand on top of your library in any order.
-[-1]: Return target creature to its owner's hand.
-[-12]: Exile all cards from target player's library, then that player shuffles their hand into their library.</CardText>
+<CardText>+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+0: Draw three cards, then put two cards from your hand on top of your library in any order.
+-1: Return target creature to its owner's hand.
+-12: Exile all cards from target player's library, then that player shuffles their hand into their library.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>382979</Multiverseid>
 <Rulings>2018/03/16: You draw three cards and put two cards back all while Jace's second ability is resolving. Nothing can happen between the two, and no player may choose to take actions.
@@ -4383,9 +4383,9 @@ Whenever Brago, King Eternal deals combat damage to a player, exile any number o
 <Name>Dack Fayden</Name>
 <Type>Legendary Planeswalker — Dack (Loyalty: 3)</Type>
 <ManaCost>1UR (3)</ManaCost>
-<CardText>[+1]: Target player draws two cards, then discards two cards.
-[-2]: Gain control of target artifact.
-[-6]: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."</CardText>
+<CardText>+1: Target player draws two cards, then discards two cards.
+-2: Gain control of target artifact.
+-6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>382903</Multiverseid>
 <Rulings>2016/06/08: The targeted player draws two cards and discards two cards all while Dack's first ability is resolving. Nothing can happen between the two, and no player may choose to take actions.

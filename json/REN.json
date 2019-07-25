@@ -24,6 +24,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -42,7 +44,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/0eebd5d0b3f919b9"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -57,6 +61,8 @@
                 "Horror"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182052,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0eebd5d0b3f919b9",
             "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
             "toughness": "6",
             "type": "Creature — Horror",
@@ -88,12 +94,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{X}{W}{W}",
@@ -112,7 +121,8 @@
                 "RQS"
             ],
             "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/eab37c261b676027"
+                "cardmarket": "https://mtgjson.com/links/eab37c261b676027",
+                "tcgplayer": "https://mtgjson.com/links/2fde2eb64d3c1159"
             },
             "rarity": "common",
             "rulings": [],
@@ -121,6 +131,8 @@
             "scryfallOracleId": "2fcca686-03c8-4407-9f9f-2b7462470044",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182053,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/2fde2eb64d3c1159",
             "text": "Choose one —\n• Target player gains X life.\n• Prevent the next X damage that would be dealt to any target this turn.",
             "type": "Instant",
             "types": [
@@ -151,6 +163,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -170,7 +184,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/3c8c334ff4c8e7c4"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -190,6 +206,8 @@
                 "Rogue"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182054,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/3c8c334ff4c8e7c4",
             "text": "{R}: Tap target Wall.",
             "toughness": "1",
             "type": "Creature — Human Rogue",
@@ -221,6 +239,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -241,7 +261,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/016bbcf84ad6d0ce"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -256,6 +278,8 @@
                 "Kithkin"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182055,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/016bbcf84ad6d0ce",
             "text": "Amrou Kithkin can't be blocked by creatures with power 3 or greater.",
             "toughness": "1",
             "type": "Creature — Kithkin",
@@ -283,6 +307,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -305,7 +331,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/517a733c1d62b2ae"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "eba5c52c-11ab-433e-af96-e6d72198c200",
@@ -313,6 +341,8 @@
             "scryfallOracleId": "8eca999e-f7f8-4354-b419-2df4249c4361",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182056,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/517a733c1d62b2ae",
             "text": "{2}, {T}: Prevent the next 1 damage that would be dealt to any target this turn.",
             "type": "Artifact",
             "types": [
@@ -343,6 +373,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -363,7 +395,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/34efd8bd8dc1768e"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "f277d201-9171-40a1-a425-0f80becf51e0",
@@ -373,6 +407,8 @@
                 "Human"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182057,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/34efd8bd8dc1768e",
             "text": "Trample\nAs long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.",
             "toughness": "2+*",
             "type": "Creature — Human",
@@ -404,6 +440,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -411,7 +449,6 @@
                 "legacy": "Legal",
                 "oldschool": "Legal",
                 "pauper": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{U}",
@@ -425,7 +462,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/f2b0aee79f31b9d5"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "aede7a04-96ad-478c-99f2-968712f17d9e",
@@ -436,6 +475,8 @@
                 "Wizard"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182058,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/f2b0aee79f31b9d5",
             "text": "{U}, {T}: Add {C}{C}{C}.",
             "toughness": "1",
             "type": "Creature — Human Wizard",
@@ -467,12 +508,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{B}",
@@ -488,7 +532,9 @@
                 "REN",
                 "TD0"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/8ccb30d648477b21"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -505,6 +551,8 @@
             "scryfallOracleId": "944a52d9-bb14-43c5-8d05-2afaf023dc9f",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182059,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/8ccb30d648477b21",
             "text": "Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.",
             "type": "Sorcery",
             "types": [
@@ -531,6 +579,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -549,7 +599,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/c2a43b170b3c5542"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "f4f4e1c6-a26b-4fe0-a2f3-f730a38a7fc4",
@@ -557,6 +609,8 @@
             "scryfallOracleId": "b5a390fd-2864-4481-84b4-41e8fac91a80",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182061,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/c2a43b170b3c5542",
             "text": "You may choose not to untap Ashnod's Battle Gear during your untap step.\n{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.",
             "type": "Artifact",
             "types": [
@@ -587,6 +641,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -604,7 +660,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/41e3c4b21b235393"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "4de3f44d-0aec-4c91-ab6f-87ccc300b615",
@@ -614,6 +672,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182062,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/41e3c4b21b235393",
             "text": "Enchant creature\nWhenever enchanted creature deals damage to you, Backfire deals that much damage to that creature's controller.",
             "type": "Enchantment — Aura",
             "types": [
@@ -644,6 +704,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -672,7 +734,9 @@
                 "REN",
                 "WC98"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/314c4f2f2f618dfe"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -687,6 +751,8 @@
                 "Elemental"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182063,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/314c4f2f2f618dfe",
             "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning.",
             "toughness": "1",
             "type": "Creature — Elemental",
@@ -714,12 +780,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}",
@@ -736,7 +805,9 @@
                 "RIN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/a6f7c2b00fbe390e"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -763,6 +834,8 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182064,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/a6f7c2b00fbe390e",
             "text": "At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)\nWhenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.",
             "toughness": "1",
             "type": "Artifact Creature — Construct",
@@ -795,6 +868,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -818,7 +893,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/f542bfcbe0048875"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "37bec516-2742-4e36-b807-0b9ffb86f66a",
@@ -829,6 +906,8 @@
                 "Bird"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182065,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/f542bfcbe0048875",
             "text": "Flying",
             "toughness": "2",
             "type": "Creature — Human Bird",
@@ -858,6 +937,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -875,7 +956,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/cf866e7fed8902fe"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -888,6 +971,8 @@
             "scryfallOracleId": "dc3b2bab-755d-4b2f-97c0-70a74d721a79",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182066,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/cf866e7fed8902fe",
             "text": "{2}, {T}: Put a charge counter on Black Mana Battery.\n{T}, Remove any number of charge counters from Black Mana Battery: Add {B}, then add an additional {B} for each charge counter removed this way.",
             "type": "Artifact",
             "types": [
@@ -918,6 +1003,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -937,7 +1024,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/d448a3d4e10316b6"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "099a0a13-6b89-475f-aad1-5c5c562861a3",
@@ -947,6 +1036,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182067,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/d448a3d4e10316b6",
             "text": "Enchant land\nWhen enchanted land becomes tapped, destroy it.",
             "type": "Enchantment — Aura",
             "types": [
@@ -977,6 +1068,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -997,7 +1090,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/387507fe06b3e4d5"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -1010,6 +1105,8 @@
             "scryfallOracleId": "55a253f9-f44d-4898-af83-fea68b7b279d",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182068,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/387507fe06b3e4d5",
             "text": "If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.",
             "type": "Instant",
             "types": [
@@ -1038,6 +1135,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1055,7 +1154,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/d7d7939f5d93dacc"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -1068,6 +1169,8 @@
             "scryfallOracleId": "79e91e8a-cee7-411b-b0a3-d3383c0d4a43",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182069,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/d7d7939f5d93dacc",
             "text": "{2}, {T}: Put a charge counter on Blue Mana Battery.\n{T}, Remove any number of charge counters from Blue Mana Battery: Add {U}, then add an additional {U} for each charge counter removed this way.",
             "type": "Artifact",
             "types": [
@@ -1098,6 +1201,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1127,7 +1232,9 @@
                 "RQS",
                 "S99"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/665564f5c66eeb4b"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "33eb7e04-dc9f-40ee-93d1-39df5e9e8f1f",
@@ -1137,6 +1244,8 @@
                 "Imp"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182070,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/665564f5c66eeb4b",
             "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
             "toughness": "1",
             "type": "Creature — Imp",
@@ -1168,6 +1277,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1188,7 +1299,9 @@
                 "PZ2",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/990c04e637c0fd0a"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -1211,6 +1324,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182071,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/990c04e637c0fd0a",
             "text": "Enchant creature\nEnchanted creature can't attack unless its controller pays {3}.",
             "type": "Enchantment — Aura",
             "types": [
@@ -1237,6 +1352,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Banned",
@@ -1255,7 +1372,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/0ef448b20e593aea"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -1284,6 +1403,8 @@
             "scryfallOracleId": "a1ab033f-9605-4ca2-a98b-c0b2e1599609",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182072,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0ef448b20e593aea",
             "text": "Remove Bronze Tablet from your deck before playing if you're not playing for ante.\nBronze Tablet enters the battlefield tapped.\n{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If they do, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.",
             "type": "Artifact",
             "types": [
@@ -1314,6 +1435,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1335,7 +1458,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e88517810f97d6d6"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "4048b350-cebe-4bb6-a101-54310d6af1e9",
@@ -1346,6 +1471,8 @@
                 "Shaman"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182073,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e88517810f97d6d6",
             "text": "{1}{R}{R}: Brothers of Fire deals 1 damage to any target and 1 damage to you.",
             "toughness": "2",
             "type": "Creature — Human Shaman",
@@ -1377,12 +1504,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
@@ -1397,7 +1527,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/243b9f47e8f55a1d"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "8e2022e3-7c9b-4d6f-9cae-869cc1ef5d02",
@@ -1408,6 +1540,8 @@
                 "Wall"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182074,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/243b9f47e8f55a1d",
             "text": "Defender",
             "toughness": "5",
             "type": "Creature — Plant Wall",
@@ -1439,12 +1573,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{B}",
@@ -1459,7 +1596,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/72401ba390f95abf"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "f03db020-3f89-4cc4-81bd-b0aa191890b3",
@@ -1469,6 +1608,8 @@
                 "Insect"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182075,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/72401ba390f95abf",
             "text": "{1}: Carrion Ants gets +1/+1 until end of turn.",
             "toughness": "1",
             "type": "Creature — Insect",
@@ -1500,6 +1641,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1519,7 +1662,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/d83d451baeecf36b"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "088e7d7b-cf45-4349-adbd-170b3daad2da",
@@ -1529,6 +1674,8 @@
                 "Human"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182076,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/d83d451baeecf36b",
             "text": "Whenever Cave People attacks, it gets +1/-2 until end of turn.\n{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)",
             "toughness": "4",
             "type": "Creature — Human",
@@ -1560,6 +1707,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1582,7 +1731,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/de6cc11edc57dba0"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "de110603-19c6-4157-9cca-04f4b0a663bb",
@@ -1590,6 +1741,8 @@
             "scryfallOracleId": "2e61e9c0-a2b9-4a24-8cb0-5160accce183",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182077,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/de6cc11edc57dba0",
             "text": "{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.",
             "type": "Enchantment",
             "types": [
@@ -1616,12 +1769,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
@@ -1637,7 +1793,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/706ec6d654f6b9ef"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "b3416313-231c-4b47-a208-71e79429e26b",
@@ -1647,6 +1805,8 @@
                 "Golem"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182078,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/706ec6d654f6b9ef",
             "text": "{2}: Regenerate Clay Statue.",
             "toughness": "1",
             "type": "Artifact Creature — Golem",
@@ -1675,6 +1835,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1696,7 +1858,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/5328c5cd20caac4f"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -1719,6 +1883,8 @@
                 "Bird"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182079,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/5328c5cd20caac4f",
             "text": "Flying\nClockwork Avian enters the battlefield with four +1/+0 counters on it.\nAt end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.",
             "toughness": "4",
             "type": "Artifact Creature — Bird",
@@ -1747,6 +1913,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1771,7 +1939,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/f5d7531ce1eb57d8"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -1786,6 +1956,8 @@
                 "Golem"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182080,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/f5d7531ce1eb57d8",
             "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nColossus of Sardia doesn't untap during your untap step.\n{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.",
             "toughness": "9",
             "type": "Artifact Creature — Golem",
@@ -1814,6 +1986,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1834,7 +2008,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/4d1be5b17211379c"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "899c5bc7-4b9f-449d-b6df-c4006a50af76",
@@ -1842,6 +2018,8 @@
             "scryfallOracleId": "aa2970c8-f2ea-4e06-8b8f-ec89af0012a0",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182081,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/4d1be5b17211379c",
             "text": "{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.",
             "type": "Artifact",
             "types": [
@@ -1872,6 +2050,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1891,7 +2071,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/067fba2646e9de20"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -1906,6 +2088,8 @@
                 "Horror"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182082,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/067fba2646e9de20",
             "text": "First strike\nAt the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.",
             "toughness": "7",
             "type": "Creature — Horror",
@@ -1937,6 +2121,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -1957,7 +2143,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/0dc6af030229ce63"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "acc95fc9-073b-4bac-9826-e6e3466f1b76",
@@ -1967,6 +2155,8 @@
                 "Manticore"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182083,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0dc6af030229ce63",
             "text": "Flying\n{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.",
             "toughness": "2",
             "type": "Creature — Manticore",
@@ -1994,13 +2184,14 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
@@ -2014,7 +2205,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e0e8b187e5334848"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -2035,6 +2228,8 @@
             "scryfallOracleId": "4f04603f-8f91-405b-b6ac-d2b66f05e32f",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182084,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e0e8b187e5334848",
             "text": "As Cursed Rack enters the battlefield, choose an opponent.\nThe chosen player's maximum hand size is four.",
             "type": "Artifact",
             "types": [
@@ -2065,6 +2260,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2086,7 +2283,9 @@
                 "ME4",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/58a3c2c2e5a13741"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -2105,6 +2304,8 @@
                 "Zombie"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182085,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/58a3c2c2e5a13741",
             "text": "When Cyclopean Mummy dies, exile it.",
             "toughness": "1",
             "type": "Creature — Zombie",
@@ -2136,6 +2337,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2162,7 +2365,9 @@
                 "RIN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/5192a41f1ab58da6"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -2175,6 +2380,8 @@
             "scryfallOracleId": "daa90a75-c600-41bd-9311-ec21cf51480b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182086,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/5192a41f1ab58da6",
             "text": "Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.",
             "type": "Sorcery",
             "types": [
@@ -2201,6 +2408,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2221,7 +2430,9 @@
                 "ME4",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e7ae2239aa33c203"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "80520091-1c80-41d8-8c1d-f11ae7d15d90",
@@ -2231,6 +2442,8 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182087,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e7ae2239aa33c203",
             "text": "{3}: Regenerate Diabolic Machine.",
             "toughness": "4",
             "type": "Artifact Creature — Construct",
@@ -2263,6 +2476,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2283,7 +2498,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/2c784c378a67816d"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "8dd92623-d3a6-4f32-bd19-1a1c40e29190",
@@ -2293,6 +2510,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182088,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/2c784c378a67816d",
             "text": "Enchant creature\nEnchanted creature gets +3/+3.",
             "type": "Enchantment — Aura",
             "types": [
@@ -2323,12 +2542,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}{G}",
@@ -2346,7 +2568,9 @@
                 "S00",
                 "S99"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/b16a9648842830a5"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "1cb98559-5a2b-4570-bd47-dc9ab4de7ac7",
@@ -2356,6 +2580,8 @@
                 "Boar"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182089,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b16a9648842830a5",
             "toughness": "4",
             "type": "Creature — Boar",
             "types": [
@@ -2386,6 +2612,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2405,7 +2633,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/731c4e50803e6ada"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -2421,6 +2651,8 @@
                 "Wurm"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182090,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/731c4e50803e6ada",
             "text": "Defender, trample\nWhen Elder Land Wurm blocks, it loses defender.",
             "toughness": "5",
             "type": "Creature — Dragon Wurm",
@@ -2452,6 +2684,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2479,7 +2713,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/cfc865195007a036"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -2494,6 +2730,8 @@
                 "Elf"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182091,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/cfc865195007a036",
             "text": "Elven Riders can't be blocked except by Walls and/or creatures with flying.",
             "toughness": "3",
             "type": "Creature — Elf",
@@ -2525,6 +2763,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2544,7 +2784,9 @@
                 "PZ2",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/72361b6c44bc31ce"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "de4b2432-3431-4867-a9e0-3b99eb2ccb43",
@@ -2552,6 +2794,8 @@
             "scryfallOracleId": "106ae855-574b-411d-8689-cbb9eeb4f602",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182092,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/72361b6c44bc31ce",
             "text": "Tap target untapped creature you control. If you do, add an amount of {C} equal to that creature's converted mana cost.",
             "type": "Sorcery",
             "types": [
@@ -2582,12 +2826,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{U}{U}{U}",
@@ -2599,7 +2846,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/0521459fa8d1b717"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "529e1f70-968c-4eac-a0d6-1c4cb37e340a",
@@ -2609,6 +2858,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182093,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0521459fa8d1b717",
             "text": "Enchant land\nAt the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.",
             "type": "Enchantment — Aura",
             "types": [
@@ -2639,12 +2890,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{R}",
@@ -2657,7 +2911,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/1f7dd2fd6166c8c7"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "470fefdd-1220-4418-8fa5-42dae682a350",
@@ -2667,6 +2923,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182094,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/1f7dd2fd6166c8c7",
             "text": "Enchant creature\nEnchanted creature has vigilance.",
             "type": "Enchantment — Aura",
             "types": [
@@ -2693,6 +2951,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2721,7 +2981,9 @@
                 "PTC",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/fa656c9cab451cf9"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -2758,6 +3020,8 @@
             "scryfallOracleId": "95560508-7ac9-4be9-8a3f-3c7d5b52807b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182095,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/fa656c9cab451cf9",
             "text": "{T}: Add one mana of any color that a land an opponent controls could produce.",
             "type": "Artifact",
             "types": [
@@ -2788,6 +3052,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2795,6 +3061,7 @@
                 "legacy": "Legal",
                 "oldschool": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{R}{R}",
@@ -2807,7 +3074,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/fb22588ae62b46db"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "ddee3964-6725-4524-99d9-0ccd3a3f5cc6",
@@ -2815,6 +3084,8 @@
             "scryfallOracleId": "c8b1e9f3-b014-4e57-b278-6d84a7e88b23",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182096,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/fb22588ae62b46db",
             "text": "Destroy target creature or land. It can't be regenerated.",
             "type": "Instant",
             "types": [
@@ -2845,6 +3116,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2866,7 +3139,9 @@
                 "PZ2",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/677c294cacd48627"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "f7537398-dee1-4966-ab16-81598d59f307",
@@ -2874,6 +3149,8 @@
             "scryfallOracleId": "e8eb2abb-daf9-43e0-b909-d96b679f71c2",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182097,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/677c294cacd48627",
             "text": "{U}{U}: Tap target creature without flying.",
             "type": "Enchantment",
             "types": [
@@ -2904,12 +3181,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{W}",
@@ -2921,7 +3201,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/58e935cc318dbee7"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "1cf22249-d6b3-425c-9d5e-828975943738",
@@ -2929,6 +3211,8 @@
             "scryfallOracleId": "cef37acf-ee97-48bf-a605-b17efcce5ce8",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182098,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/58e935cc318dbee7",
             "text": "Wall creatures you control get +1/+0 and have banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
             "type": "Enchantment",
             "types": [
@@ -2959,6 +3243,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -2983,7 +3269,9 @@
                 "TMP",
                 "TPR"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/9615ae5ee645ef09"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -2998,6 +3286,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182099,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/9615ae5ee645ef09",
             "text": "Enchant creature\nPrevent all combat damage that would be dealt to and dealt by enchanted creature.",
             "type": "Enchantment — Aura",
             "types": [
@@ -3028,6 +3318,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3051,7 +3343,9 @@
                 "REN",
                 "TSB"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/c2b5849c4612e2bf"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "665d9226-0457-4b35-89aa-18e9f54fc3c6",
@@ -3061,6 +3355,8 @@
                 "Spirit"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182100,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/c2b5849c4612e2bf",
             "text": "Flying\n{U}{U}{U}: Regenerate Ghost Ship.",
             "toughness": "4",
             "type": "Creature — Spirit",
@@ -3092,6 +3388,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3114,7 +3412,9 @@
                 "TMP",
                 "VMA"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/d91dea20f6a49d24"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "2bb10423-c909-49cf-9914-fea84700d6fc",
@@ -3124,6 +3424,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182101,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/d91dea20f6a49d24",
             "text": "Enchant creature\nEnchanted creature gets +2/+2.",
             "type": "Enchantment — Aura",
             "types": [
@@ -3154,6 +3456,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3178,7 +3482,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e21d353b759ff8c2"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "96769dd4-50d8-46e6-8831-166ae1bd372b",
@@ -3188,6 +3494,8 @@
                 "Turtle"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182102,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e21d353b759ff8c2",
             "text": "Giant Tortoise gets +0/+3 as long as it's untapped.",
             "toughness": "1",
             "type": "Creature — Turtle",
@@ -3219,12 +3527,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}",
@@ -3237,7 +3548,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/71fa88eb79e6f095"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "89b5d66b-b3df-479f-90b2-e2ec108480cf",
@@ -3247,6 +3560,8 @@
                 "Goblin"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182103,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/71fa88eb79e6f095",
             "text": "Trample\nGoblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.\nGoblin Rock Sled can't attack unless defending player controls a Mountain.",
             "toughness": "1",
             "type": "Creature — Goblin",
@@ -3274,12 +3589,16 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}",
@@ -3296,7 +3615,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/c980c81a5267e436"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "f739ff62-c3a8-4da2-8c56-b28401d53f62",
@@ -3306,6 +3627,8 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182104,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/c980c81a5267e436",
             "text": "{T}: Grapeshot Catapult deals 1 damage to target creature with flying.",
             "toughness": "3",
             "type": "Artifact Creature — Construct",
@@ -3338,6 +3661,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3357,7 +3682,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/fbf4c09710731d4e"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "4dfb9706-8379-48e9-9894-d6b5a574f98c",
@@ -3365,6 +3692,8 @@
             "scryfallOracleId": "1ff62220-be95-4901-b8d8-812b9a1a1b0a",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182105,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/fbf4c09710731d4e",
             "text": "{B}, Pay 2 life: Draw a card.",
             "type": "Enchantment",
             "types": [
@@ -3393,6 +3722,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3410,7 +3741,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/7e63118d2332097e"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -3423,6 +3756,8 @@
             "scryfallOracleId": "b953d19f-6ba7-4aee-b353-c60dc9572610",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182106,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/7e63118d2332097e",
             "text": "{2}, {T}: Put a charge counter on Green Mana Battery.\n{T}, Remove any number of charge counters from Green Mana Battery: Add {G}, then add an additional {G} for each charge counter removed this way.",
             "type": "Artifact",
             "types": [
@@ -3453,12 +3788,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{R}",
@@ -3472,7 +3810,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/c6c349ecf2f922c0"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "85345e74-f424-4bac-8a17-f9f4a9a66d99",
@@ -3482,6 +3822,8 @@
                 "Jackal"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182107,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/c6c349ecf2f922c0",
             "text": "{T}: Target creature can't be regenerated this turn.",
             "toughness": "1",
             "type": "Creature — Jackal",
@@ -3513,6 +3855,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3532,7 +3876,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/61d6462e377df60f"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "276332a0-19e3-4b78-a6da-9656c569d85f",
@@ -3542,6 +3888,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182108,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/61d6462e377df60f",
             "text": "Enchant creature\nEnchanted creature gets +2/-2.",
             "type": "Enchantment — Aura",
             "types": [
@@ -3572,6 +3920,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3595,7 +3945,9 @@
                 "PRM",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/9275f79d4dff7d6f"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "2625be66-c292-4ba7-b9d8-e3991a8c8636",
@@ -3603,6 +3955,8 @@
             "scryfallOracleId": "69e2df4e-c7f3-4c3a-be5b-1c4afb29cead",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182109,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/9275f79d4dff7d6f",
             "text": "Inferno deals 6 damage to each creature and each player.",
             "type": "Instant",
             "types": [
@@ -3633,6 +3987,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3663,7 +4019,9 @@
                 "RQS",
                 "WC98"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/329130f7e0ba6942"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "446c4d22-43c6-4b1b-9b38-eaa3e48283f0",
@@ -3673,6 +4031,8 @@
                 "Orc"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182110,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/329130f7e0ba6942",
             "text": "Ironclaw Orcs can't block creatures with power 2 or greater.",
             "toughness": "2",
             "type": "Creature — Orc",
@@ -3704,6 +4064,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3724,7 +4086,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/b39cc986b1fb4e6e"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "b0f3b75e-4ff0-4568-af8f-0802d250a05c",
@@ -3734,6 +4098,8 @@
                 "Efreet"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182111,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b39cc986b1fb4e6e",
             "text": "Flying\nAt the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.",
             "toughness": "3",
             "type": "Creature — Efreet",
@@ -3765,12 +4131,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{G}",
@@ -3785,7 +4154,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/bba7ccb0cdea4c9b"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "3a8ec22f-6e9d-4975-b00a-ef2d6558777d",
@@ -3795,6 +4166,8 @@
                 "Insect"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182112,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/bba7ccb0cdea4c9b",
             "text": "Flying\n{G}: Killer Bees gets +1/+1 until end of turn.",
             "toughness": "1",
             "type": "Creature — Insect",
@@ -3826,6 +4199,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3846,7 +4221,9 @@
                 "ME4",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/33d4d68e790cb9f7"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -3867,6 +4244,8 @@
             "scryfallOracleId": "81fdd1c4-d43b-4f8b-8712-7c2bf45a3e0b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182113,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/33d4d68e790cb9f7",
             "text": "Artifacts, creatures, and lands your opponents control enter the battlefield tapped.",
             "type": "Enchantment",
             "types": [
@@ -3897,12 +4276,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{G}",
@@ -3915,7 +4297,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e7085d78ca7a0f1d"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "9b16c707-9dd3-4aed-8e10-9402c90f2d74",
@@ -3925,6 +4309,8 @@
                 "Leech"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182114,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e7085d78ca7a0f1d",
             "text": "First strike",
             "toughness": "2",
             "type": "Creature — Leech",
@@ -3956,6 +4342,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -3979,7 +4367,9 @@
                 "PTC",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/59ba32773403fffb"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -4000,6 +4390,8 @@
             "scryfallOracleId": "d2d9ecea-7925-420e-98b9-2f87f41f387c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182115,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/59ba32773403fffb",
             "text": "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.",
             "type": "Enchantment",
             "types": [
@@ -4030,6 +4422,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4053,7 +4447,9 @@
                 "REN",
                 "TSB"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/ffc022c4f8129d49"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -4068,6 +4464,8 @@
                 "Leviathan"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182116,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/ffc022c4f8129d49",
             "text": "Trample\nLeviathan enters the battlefield tapped and doesn't untap during your untap step.\nAt the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.\nLeviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)",
             "toughness": "10",
             "type": "Creature — Leviathan",
@@ -4099,12 +4497,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{B}",
@@ -4121,7 +4522,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/eefb01f805d38683"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "8e9f2ffb-9449-4bc0-b4e8-26990e404cc1",
@@ -4132,6 +4535,8 @@
                 "Minion"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182137,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/eefb01f805d38683",
             "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
             "toughness": "1",
             "type": "Creature — Spirit Minion",
@@ -4163,6 +4568,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4186,7 +4593,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/64f3f81cb8132d26"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -4207,6 +4616,8 @@
             "scryfallOracleId": "a2f5a5fd-14dc-48e8-bdb0-984a83288023",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182138,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/64f3f81cb8132d26",
             "text": "You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.",
             "type": "Sorcery",
             "types": [
@@ -4237,12 +4648,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
@@ -4254,7 +4668,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/886b1ade1c24c1a7"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "ba8aa451-3331-4f5e-b886-9cdb3d6f289f",
@@ -4262,6 +4678,8 @@
             "scryfallOracleId": "08ae9f91-48c8-4721-a82d-063defc1b727",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182139,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/886b1ade1c24c1a7",
             "text": "All creatures get -2/-0 until end of turn.",
             "type": "Instant",
             "types": [
@@ -4292,12 +4710,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{G}",
@@ -4311,7 +4732,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/fde4119af294d8b9"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "822826c6-d147-4e9c-bcc9-7dc15e12e003",
@@ -4321,6 +4744,8 @@
                 "Snake"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182140,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/fde4119af294d8b9",
             "text": "Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",
             "toughness": "2",
             "type": "Creature — Snake",
@@ -4352,6 +4777,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4370,7 +4797,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/f8717b92737a21c0"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "54be1492-b38b-4bcb-83bd-5e1ff79076a3",
@@ -4378,6 +4807,8 @@
             "scryfallOracleId": "fad1562d-0ab9-4a3f-b80a-476d8132f66d",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182141,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/f8717b92737a21c0",
             "text": "Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards they discarded this way.",
             "type": "Sorcery",
             "types": [
@@ -4404,6 +4835,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4429,7 +4862,9 @@
                 "RIN",
                 "TD0"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/39c261374580bd98"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -4458,6 +4893,8 @@
             "scryfallOracleId": "5963e0ef-e0bc-4611-ad4f-813a4c0eacfb",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182142,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/39c261374580bd98",
             "text": "{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
             "type": "Land",
             "types": [
@@ -4488,12 +4925,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{W}",
@@ -4505,7 +4945,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/1475d19369ee3cc3"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "3a9cb474-c6f0-481f-b724-4171ff2dd2be",
@@ -4513,6 +4955,8 @@
             "scryfallOracleId": "8af9d623-efa3-4cbc-a903-aaec32d78b0a",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182143,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/1475d19369ee3cc3",
             "text": "Attacking creatures get +1/+1 until end of turn.",
             "type": "Instant",
             "types": [
@@ -4543,12 +4987,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}",
@@ -4564,7 +5011,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/159eed6cf94bcf15"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -4579,6 +5028,8 @@
                 "Zombie"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182144,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/159eed6cf94bcf15",
             "text": "Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.",
             "toughness": "2",
             "type": "Creature — Zombie",
@@ -4610,12 +5061,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{G}",
@@ -4629,7 +5083,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/228ae11e68fe180d"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -4656,6 +5112,8 @@
                 "Snake"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182145,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/228ae11e68fe180d",
             "text": "Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.",
             "toughness": "1",
             "type": "Creature — Snake",
@@ -4683,6 +5141,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4690,6 +5150,7 @@
                 "legacy": "Legal",
                 "oldschool": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "name": "Oasis",
@@ -4702,7 +5163,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/4e6c299039135f8d"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "ea9f541b-8f78-4bfd-974d-b49e03c3113a",
@@ -4710,6 +5173,8 @@
             "scryfallOracleId": "4533ce78-0594-4195-96fb-46cbadd0db69",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182146,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/4e6c299039135f8d",
             "text": "{T}: Prevent the next 1 damage that would be dealt to target creature this turn.",
             "type": "Land",
             "types": [
@@ -4740,6 +5205,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4761,7 +5228,9 @@
                 "ME4",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/ac0f2dbe1b960646"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -4776,6 +5245,8 @@
                 "Bird"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182147,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/ac0f2dbe1b960646",
             "text": "Flying\nAt the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures.\nRemove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.",
             "toughness": "1",
             "type": "Creature — Bird",
@@ -4807,12 +5278,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}",
@@ -4824,7 +5298,9 @@
                 "ARN",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/0de1a73dbdfd3a79"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "e02fcd65-12b4-4a24-989b-72dcaa2df236",
@@ -4832,6 +5308,8 @@
             "scryfallOracleId": "0c017406-7fc3-4701-93ec-ddb02044c12a",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182148,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0de1a73dbdfd3a79",
             "text": "Blocking creatures get +0/+3 until end of turn.",
             "type": "Instant",
             "types": [
@@ -4862,12 +5340,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}",
@@ -4881,7 +5362,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/627fa920ca8f788f"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -4909,6 +5392,8 @@
                 "Soldier"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182149,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/627fa920ca8f788f",
             "text": "First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
             "toughness": "1",
             "type": "Creature — Human Soldier",
@@ -4940,6 +5425,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -4961,7 +5448,9 @@
                 "PZ2",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/7ade57771cbefcde"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "92402e21-fa0c-4ffc-a8eb-8647c6109edf",
@@ -4971,6 +5460,8 @@
                 "Scorpion"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182150,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/7ade57771cbefcde",
             "text": "Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)",
             "toughness": "1",
             "type": "Creature — Scorpion",
@@ -5002,12 +5493,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
@@ -5022,7 +5516,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/0c4e33f333340f03"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "a129116a-b819-413a-9195-74583f2e1203",
@@ -5033,6 +5529,8 @@
                 "Nomad"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182151,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/0c4e33f333340f03",
             "text": "{1}{G}, {T}: Target creature gets -2/-0 until end of turn.",
             "toughness": "1",
             "type": "Creature — Human Nomad",
@@ -5064,6 +5562,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5082,7 +5582,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/478ee2afaf4141ac"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -5097,6 +5599,8 @@
                 "Illusion"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182152,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/478ee2afaf4141ac",
             "text": "{T}: Psionic Entity deals 2 damage to any target and 3 damage to itself.",
             "toughness": "2",
             "type": "Creature — Illusion",
@@ -5128,6 +5632,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5135,6 +5641,7 @@
                 "frontier": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "pauper": "Legal",
                 "penny": "Legal",
                 "vintage": "Legal"
             },
@@ -5156,7 +5663,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/4aa6f474958fea4b"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -5177,6 +5686,8 @@
             "scryfallOracleId": "794b9ddf-1660-441f-9cc2-a0f5d4d0cf22",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182153,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/4aa6f474958fea4b",
             "text": "Pyrotechnics deals 4 damage divided as you choose among any number of targets.",
             "type": "Sorcery",
             "types": [
@@ -5207,6 +5718,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5228,7 +5741,9 @@
                 "ME4",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/bceb7db0f0a07f3c"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -5243,6 +5758,8 @@
                 "Spirit"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182154,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/bceb7db0f0a07f3c",
             "text": "{T}: Target creature loses flying until end of turn.",
             "toughness": "2",
             "type": "Creature — Spirit",
@@ -5274,12 +5791,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{B}",
@@ -5295,7 +5815,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/8d22ce8b751394ad"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "dee9fbab-9050-4c4c-a9eb-4809e10a1954",
@@ -5306,6 +5828,8 @@
                 "Minion"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182155,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/8d22ce8b751394ad",
             "text": "{B}{B}{B}, {T}: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn.",
             "toughness": "1",
             "type": "Creature — Human Minion",
@@ -5337,6 +5861,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Banned",
@@ -5354,7 +5880,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/dece93e9855fffed"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "0a217e8b-8b4f-45aa-9d1f-46aa06aacdb2",
@@ -5362,6 +5890,8 @@
             "scryfallOracleId": "d17576b2-4a47-4848-8908-3152c8b4afe2",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182156,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/dece93e9855fffed",
             "text": "Remove Rebirth from your deck before playing if you're not playing for ante.\nEach player may ante the top card of their library. If a player does, that player's life total becomes 20.",
             "type": "Sorcery",
             "types": [
@@ -5390,6 +5920,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5407,7 +5939,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/088863d3f8236b7c"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -5420,6 +5954,8 @@
             "scryfallOracleId": "8ceb295c-a611-4ac7-940b-557bf60f8a8b",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182157,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/088863d3f8236b7c",
             "text": "{2}, {T}: Put a charge counter on Red Mana Battery.\n{T}, Remove any number of charge counters from Red Mana Battery: Add {R}, then add an additional {R} for each charge counter removed this way.",
             "type": "Artifact",
             "types": [
@@ -5450,6 +5986,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5467,7 +6005,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/1a7dc59147cbbb6f"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "34f3418f-61d5-4533-be12-ff1abd1d0f7d",
@@ -5477,6 +6017,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182158,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/1a7dc59147cbbb6f",
             "text": "Enchant artifact an opponent controls\nWhenever enchanted artifact becomes tapped, choose one —\n• Relic Bind deals 1 damage to target player or planeswalker.\n• Target player gains 1 life.",
             "type": "Enchantment — Aura",
             "types": [
@@ -5507,6 +6049,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5530,7 +6074,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/bd59abe1604e6c7c"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "42447300-d67a-4548-a33a-dddceadefeee",
@@ -5538,6 +6084,8 @@
             "scryfallOracleId": "7bb41690-f8ec-462a-ba29-be453eb86fca",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182159,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/bd59abe1604e6c7c",
             "text": "Sandstorm deals 1 damage to each attacking creature.",
             "type": "Instant",
             "types": [
@@ -5568,12 +6116,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{2}{W}{W}",
@@ -5625,6 +6176,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5645,7 +6198,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/aee2d031624fbc64"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "70741d66-46a0-4fb3-bdd9-14012db4a502",
@@ -5655,6 +6210,8 @@
                 "Leviathan"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182161,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/aee2d031624fbc64",
             "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
             "toughness": "3",
             "type": "Creature — Leviathan",
@@ -5682,6 +6239,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5703,7 +6262,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/55088e1fa6c688f7"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -5722,6 +6283,8 @@
                 "Shapeshifter"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182162,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/55088e1fa6c688f7",
             "text": "As Shapeshifter enters the battlefield, choose a number between 0 and 7.\nAt the beginning of your upkeep, you may choose a number between 0 and 7.\nShapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.",
             "toughness": "7-*",
             "type": "Artifact Creature — Shapeshifter",
@@ -5754,6 +6317,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5776,7 +6341,9 @@
                 "RIN",
                 "TSB"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/6ca3b6b13633ff2f"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -5795,6 +6362,8 @@
                 "Human"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182163,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/6ca3b6b13633ff2f",
             "text": "{T}: Draw a card and reveal it. If it isn't a land card, discard it.",
             "toughness": "1",
             "type": "Creature — Human",
@@ -5826,12 +6395,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}{R}",
@@ -5844,7 +6416,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/054dfe77815823fa"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "5621419d-6813-4aff-a4b7-d5d04a52ff78",
@@ -5855,6 +6429,8 @@
                 "Shaman"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182164,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/054dfe77815823fa",
             "text": "{T}: Add {R}.",
             "toughness": "2",
             "type": "Creature — Human Shaman",
@@ -5886,6 +6462,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5913,7 +6491,9 @@
                 "REN",
                 "WC98"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/174d1eac8d619f77"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -5932,6 +6512,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182165,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/174d1eac8d619f77",
             "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature deals damage, you gain that much life.",
             "type": "Enchantment — Aura",
             "types": [
@@ -5962,6 +6544,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -5981,7 +6565,9 @@
                 "ME3",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/1e977874e4bac837"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -5996,6 +6582,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182167,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/1e977874e4bac837",
             "text": "Enchant creature\nWhenever enchanted creature becomes tapped, put a -0/-2 counter on it.",
             "type": "Enchantment — Aura",
             "types": [
@@ -6022,6 +6610,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6045,7 +6635,9 @@
                 "V09",
                 "VMA"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/76f0e50fcc232003"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "eebb0f28-ac34-4b2e-9e22-df0d70fb3cd9",
@@ -6053,6 +6645,8 @@
             "scryfallOracleId": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182166,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/76f0e50fcc232003",
             "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
             "type": "Land",
             "types": [
@@ -6083,13 +6677,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
-                "penny": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{U}{U}",
@@ -6102,7 +6698,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/1868008329277b9d"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "9e08d51b-cee5-4728-ba5c-b1c86cc7e242",
@@ -6110,6 +6708,8 @@
             "scryfallOracleId": "17841133-c526-42a3-a1d2-a874e9bb7138",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182168,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/1868008329277b9d",
             "text": "At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}.\nBlue creatures get +1/+1.",
             "type": "Enchantment",
             "types": [
@@ -6140,6 +6740,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6165,7 +6767,9 @@
                 "REN",
                 "VMA"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/6595f12911fae98b"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6202,6 +6806,8 @@
             "scryfallOracleId": "92eed395-62ca-4293-882b-8565c40daab5",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182169,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/6595f12911fae98b",
             "text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
             "type": "Enchantment",
             "types": [
@@ -6228,6 +6834,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6249,7 +6857,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/a141d18f88983f42"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "14e77d06-2cbb-4014-b479-14de06a2fcb3",
@@ -6257,6 +6867,8 @@
             "scryfallOracleId": "2138533a-d33c-477a-9765-7369d1ec30b0",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182170,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/a141d18f88983f42",
             "text": "{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",
             "type": "Artifact",
             "types": [
@@ -6283,6 +6895,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6303,7 +6917,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/b1e06bae46735c58"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "70dc51de-8a4a-4f41-8677-0d1dfcf1c1c4",
@@ -6311,6 +6927,8 @@
             "scryfallOracleId": "f07f98bb-4190-4643-aeb9-c5eaf358c97c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182171,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b1e06bae46735c58",
             "text": "You may choose not to untap Tawnos's Weaponry during your untap step.\n{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.",
             "type": "Artifact",
             "types": [
@@ -6341,6 +6959,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Banned",
@@ -6359,7 +6979,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/db2d364d55932a21"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "0ab3cb25-19ac-49f4-99af-4285d2e9cf87",
@@ -6369,6 +6991,8 @@
                 "Efreet"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182172,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/db2d364d55932a21",
             "text": "Remove Tempest Efreet from your deck before playing if you're not playing for ante.\n{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, they reveal a card at random from their hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard. This change in ownership is permanent.",
             "toughness": "3",
             "type": "Creature — Efreet",
@@ -6396,6 +7020,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6417,7 +7043,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/1b656da096449441"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6444,6 +7072,8 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182173,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/1b656da096449441",
             "text": "Flying\nTetravus enters the battlefield with three +1/+1 counters on it.\nAt the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, create that many 1/1 colorless Tetravite artifact creature tokens. They each have flying and \"This creature can't be enchanted.\"\nAt the beginning of your upkeep, you may exile any number of tokens created with Tetravus. If you do, put that many +1/+1 counters on Tetravus.",
             "toughness": "1",
             "type": "Artifact Creature — Construct",
@@ -6476,12 +7106,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{R}",
@@ -6494,7 +7127,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/b9a956cbbc9abfa3"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "464f6962-2639-4134-a7fd-55e00bc2df5b",
@@ -6504,6 +7139,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182174,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/b9a956cbbc9abfa3",
             "text": "Enchant creature\nEnchanted creature gets +1/+0.\n{R}{R}{R}: Regenerate enchanted creature.",
             "type": "Enchantment — Aura",
             "types": [
@@ -6534,6 +7171,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6555,7 +7194,9 @@
                 "ME1",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e0b12ba888536ef6"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6578,6 +7219,8 @@
                 "Elemental"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182175,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e0b12ba888536ef6",
             "text": "When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you.\n{2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.",
             "toughness": "2",
             "type": "Creature — Elemental",
@@ -6605,6 +7248,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6629,7 +7274,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/606993eacc317cf9"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6648,6 +7295,8 @@
                 "Construct"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182176,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/606993eacc317cf9",
             "text": "Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: It deals 1 damage to any target.",
             "toughness": "1",
             "type": "Artifact Creature — Construct",
@@ -6680,6 +7329,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6706,7 +7357,9 @@
                 "PS11",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/04a4b5191fd31f56"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "80e33f22-78c6-48fc-b65c-a5d031a80788",
@@ -6716,6 +7369,8 @@
                 "Wolf"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182177,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/04a4b5191fd31f56",
             "text": "First strike (This creature deals combat damage before creatures without first strike.)",
             "toughness": "1",
             "type": "Creature — Wolf",
@@ -6747,6 +7402,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6777,7 +7434,9 @@
                 "RIN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/2f8c46186352a568"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -6794,6 +7453,8 @@
             "scryfallOracleId": "773ad2ef-5acc-49ea-8d85-056330e87039",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182178,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/2f8c46186352a568",
             "text": "You may tap or untap target artifact, creature, or land.",
             "type": "Instant",
             "types": [
@@ -6824,6 +7485,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6831,6 +7494,7 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "oldschool": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{B}{B}",
@@ -6844,7 +7508,9 @@
                 "REN",
                 "TSB"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/ac4b67c4429bf4de"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6859,6 +7525,8 @@
                 "Human"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182179,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/ac4b67c4429bf4de",
             "text": "Prevent all damage that would be dealt to Uncle Istvan by creatures.",
             "toughness": "3",
             "type": "Creature — Human",
@@ -6890,6 +7558,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6916,7 +7586,9 @@
                 "RQS",
                 "S99"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/d8efbf4c264d6612"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6933,6 +7605,8 @@
             "scryfallOracleId": "b3b4c21d-f8d7-455f-be46-d5eb909d54df",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182180,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/d8efbf4c264d6612",
             "text": "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.",
             "type": "Sorcery",
             "types": [
@@ -6959,6 +7633,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -6979,7 +7655,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/ff04912b153a414c"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -6994,6 +7672,8 @@
                 "Shapeshifter"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182181,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/ff04912b153a414c",
             "text": "{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
             "toughness": "4",
             "type": "Artifact Creature — Shapeshifter",
@@ -7026,6 +7706,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7034,6 +7716,7 @@
                 "modern": "Legal",
                 "oldschool": "Legal",
                 "pauper": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{B}",
@@ -7052,7 +7735,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/bd8af8f18a282558"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "3f81c865-43c6-4c99-ab2e-edfa4c4f535c",
@@ -7062,6 +7747,8 @@
                 "Bat"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182184,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/bd8af8f18a282558",
             "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.",
             "toughness": "1",
             "type": "Creature — Bat",
@@ -7093,12 +7780,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{G}{G}",
@@ -7111,7 +7801,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/cf7fa88b0503bfe0"
+            },
             "rarity": "common",
             "rulings": [
                 {
@@ -7126,6 +7818,8 @@
                 "Aura"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182185,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/cf7fa88b0503bfe0",
             "text": "Enchant creature\nWhenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.",
             "type": "Enchantment — Aura",
             "types": [
@@ -7156,6 +7850,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7173,7 +7869,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/697d8a03d3288cd1"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -7194,6 +7892,8 @@
             "scryfallOracleId": "448fa4e3-7269-446b-8089-675bc1bff5f9",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182186,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/697d8a03d3288cd1",
             "text": "Look at the top five cards of target player's library. You may then have that player shuffle that library.",
             "type": "Sorcery",
             "types": [
@@ -7224,6 +7924,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7242,7 +7944,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/047b85cbfd438853"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "31de6b33-fe0b-44c8-8af2-631b69d4dc7e",
@@ -7252,6 +7956,8 @@
                 "Wall"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182187,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/047b85cbfd438853",
             "text": "Defender (This creature can't attack.)\nWhenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.",
             "toughness": "4",
             "type": "Creature — Wall",
@@ -7279,6 +7985,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7286,6 +7994,7 @@
                 "legacy": "Legal",
                 "modern": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "penny": "Legal",
                 "vintage": "Legal"
             },
@@ -7305,7 +8014,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/3cdec41296c71138"
+            },
             "rarity": "uncommon",
             "rulings": [],
             "scryfallId": "3343f6a2-51b6-4e4a-a8a7-002e29a4cb81",
@@ -7315,6 +8026,8 @@
                 "Wall"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182188,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/3cdec41296c71138",
             "text": "Defender (This creature can't attack.)\nFirst strike",
             "toughness": "3",
             "type": "Artifact Creature — Wall",
@@ -7347,6 +8060,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7378,7 +8093,9 @@
                 "TSB",
                 "WC97"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/750f430c132410bb"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -7394,6 +8111,8 @@
                 "Monk"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182189,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/750f430c132410bb",
             "text": "Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.",
             "toughness": "1",
             "type": "Creature — Human Monk",
@@ -7423,6 +8142,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7440,7 +8161,9 @@
                 "LEG",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/e374cef727b574d6"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -7453,6 +8176,8 @@
             "scryfallOracleId": "cf58682f-c305-4803-b54b-37f0841788e9",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182190,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/e374cef727b574d6",
             "text": "{2}, {T}: Put a charge counter on White Mana Battery.\n{T}, Remove any number of charge counters from White Mana Battery: Add {W}, then add an additional {W} for each charge counter removed this way.",
             "type": "Artifact",
             "types": [
@@ -7483,6 +8208,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7503,7 +8230,9 @@
                 "POR",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/a9b988446751c531"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -7516,6 +8245,8 @@
             "scryfallOracleId": "f525cf10-e24c-4c46-9a13-6f8579d09d50",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182191,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/a9b988446751c531",
             "text": "Each player shuffles the cards from their hand into their library, then draws that many cards.",
             "type": "Sorcery",
             "types": [
@@ -7546,6 +8277,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7567,7 +8300,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/cd0330e72123fcee"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -7584,6 +8319,8 @@
             "scryfallOracleId": "594827de-e85f-4aac-b0e6-d92878f0f26c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182192,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/cd0330e72123fcee",
             "text": "Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.",
             "type": "Sorcery",
             "types": [
@@ -7614,12 +8351,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{X}{B}{B}",
@@ -7631,7 +8371,9 @@
                 "DRK",
                 "REN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/be65121748a09602"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "c9be775e-9c01-4c83-9b74-17895b5a16b3",
@@ -7639,6 +8381,8 @@
             "scryfallOracleId": "8bbc9f21-2b4d-4d03-aef1-f5bf0b79257c",
             "subtypes": [],
             "supertypes": [],
+            "tcgplayerProductId": 182193,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/be65121748a09602",
             "text": "Tap X target creatures.",
             "type": "Sorcery",
             "types": [
@@ -7669,6 +8413,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7690,7 +8436,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/447fb1fc822e4f1b"
+            },
             "rarity": "uncommon",
             "rulings": [
                 {
@@ -7709,6 +8457,8 @@
                 "Spirit"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182194,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/447fb1fc822e4f1b",
             "text": "{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.",
             "toughness": "1",
             "type": "Creature — Spirit",
@@ -7736,6 +8486,8 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
@@ -7761,7 +8513,9 @@
                 "REN",
                 "RIN"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/5b9ce6ed9b1600a7"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "02bb75b5-2ed8-43e3-9b08-904c324f16a2",
@@ -7771,6 +8525,8 @@
                 "Soldier"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182195,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/5b9ce6ed9b1600a7",
             "text": "Vigilance",
             "toughness": "4",
             "type": "Artifact Creature — Soldier",
@@ -7803,12 +8559,15 @@
             "frameVersion": "1993",
             "hasFoil": false,
             "hasNonFoil": true,
+            "isPaper": true,
+            "isReprint": true,
             "layout": "normal",
             "legalities": {
                 "commander": "Legal",
                 "duel": "Legal",
                 "legacy": "Legal",
                 "oldschool": "Legal",
+                "pauper": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}",
@@ -7824,7 +8583,9 @@
                 "REN",
                 "RQS"
             ],
-            "purchaseUrls": {},
+            "purchaseUrls": {
+                "tcgplayer": "https://mtgjson.com/links/fd495746ad6bfa34"
+            },
             "rarity": "common",
             "rulings": [],
             "scryfallId": "c8fce95e-e195-4166-a7ca-f309c5eba798",
@@ -7834,6 +8595,8 @@
                 "Bird"
             ],
             "supertypes": [],
+            "tcgplayerProductId": 182196,
+            "tcgplayerPurchaseUrl": "https://mtgjson.com/links/fd495746ad6bfa34",
             "text": "Flying, vigilance",
             "toughness": "1",
             "type": "Creature — Bird",
@@ -7845,14 +8608,15 @@
     ],
     "code": "REN",
     "isFoilOnly": false,
+    "isForeignOnly": true,
     "isOnlineOnly": false,
     "keyruneCode": "REN",
     "mcmId": 60,
     "mcmName": "Renaissance",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Renaissance",
     "releaseDate": "1995-08-01",

@@ -211,7 +211,8 @@ Whenever Broodbirth Viper deals combat damage to a player, you may draw a card.<
 <Type>Creature — Shapeshifter 0/0</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>You may have Gigantoplasm enter the battlefield as a copy of any creature on the battlefield, except it has "{X}: This creature has base power and toughness X/X."</CardText>
-<Flavor>"I appreciate things that exceed expectations."—Mizzix</Flavor>
+<Flavor>"I appreciate things that exceed expectations."
+—Mizzix</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>405241</Multiverseid>
 <Rulings>2015/11/04: The activated ability <Gigantoplasm> gives itself becomes part of its copiable values. Unless the ability is overwritten by another copy effect, a creature that's a copy of <Gigantoplasm> will have that ability.
@@ -240,7 +241,8 @@ Whenever Broodbirth Viper deals combat damage to a player, you may draw a card.<
 <ManaCost>4U (5)</ManaCost>
 <CardText>Flash (You may cast this spell any time you could cast an instant.)
 Whenever Illusory Ambusher is dealt damage, draw that many cards.</CardText>
-<Flavor>"Violence is the food it craves. Feed it if you dare."—Doriel, mentor of Mistral Isle</Flavor>
+<Flavor>"Violence is the food it craves. Feed it if you dare."
+—Doriel, mentor of Mistral Isle</Flavor>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>405260</Multiverseid>
 <Rulings>2017/11/17: Creatures may be dealt damage greater than their toughness. For example, if a source deals 5 damage to <Illusory Ambusher>, you'll draw five cards.
@@ -406,7 +408,8 @@ Whenever Banshee of the Dread Choir deals combat damage to a player, that player
 <Type>Sorcery</Type>
 <ManaCost>XBB (2)</ManaCost>
 <CardText>Each player puts the top X cards of their library into their graveyard. For each creature card put into a graveyard this way, you create a tapped 2/2 black Zombie creature token.</CardText>
-<Flavor>"Did you have a nice nap?"—Liliana Vess</Flavor>
+<Flavor>"Did you have a nice nap?"
+—Liliana Vess</Flavor>
 <Artist>Izzy</Artist>
 <Multiverseid>405205</Multiverseid>
 <Rulings>2015/11/04: If a creature card has an ability that replaces going to the graveyard with moving somewhere else "instead," that card won't count toward the number of Zombies you get. Conversely, creature cards with a triggered ability that removes them from the graveyard when they're put there from anywhere (or your library) will count toward that number.</Rulings>
@@ -424,7 +427,8 @@ Whenever Banshee of the Dread Choir deals combat damage to a player, that player
 <ManaCost>5BB (7)</ManaCost>
 <CardText>Flying
 You may cast Scourge of Nel Toth from your graveyard by paying {B}{B} and sacrificing two creatures rather than paying its mana cost.</CardText>
-<Flavor>"May all the cairns of Jund be toppled."—Meren of Clan Nel Toth</Flavor>
+<Flavor>"May all the cairns of Jund be toppled."
+—Meren of Clan Nel Toth</Flavor>
 <Artist>Mark Winters</Artist>
 <Multiverseid>405367</Multiverseid>
 <Rulings>2015/11/04: Casting <Scourge of Nel Toth> from your graveyard by paying the alternative cost doesn't change when you can cast it. You can cast it only at the normal time you could cast a creature spell.
@@ -567,7 +571,8 @@ Whenever Dream Pillager deals combat damage to a player, exile that many cards f
 <Type>Sorcery</Type>
 <ManaCost>XRRR (3)</ManaCost>
 <CardText>Meteor Blast deals 4 damage to each of X targets.</CardText>
-<Flavor>"Behold astronomy's contribution to war."—Fennor Rhyl, starcaller</Flavor>
+<Flavor>"Behold astronomy's contribution to war."
+—Fennor Rhyl, starcaller</Flavor>
 <Artist>Mike Sass</Artist>
 <Multiverseid>405299</Multiverseid>
 <Rulings>2015/11/04: <Meteor Blast> can't target the same permanent or player more than once.
@@ -765,7 +770,8 @@ When Great Oak Guardian enters the battlefield, creatures target player controls
 <Type>Creature — Goat 3/3</Type>
 <ManaCost>4GG (6)</ManaCost>
 <CardText>Whenever Pathbreaker Ibex attacks, creatures you control gain trample and get +X/+X until end of turn, where X is the greatest power among creatures you control.</CardText>
-<Flavor>"My skills are wasted here."—Juruk, Kalonian tracker</Flavor>
+<Flavor>"My skills are wasted here."
+—Juruk, Kalonian tracker</Flavor>
 <Artist>Christopher Moeller</Artist>
 <Multiverseid>405336</Multiverseid>
 <Rulings>2015/11/04: The value of X is calculated as <Pathbreaker Ibex>'s ability resolves. Notably, if you attack with two <Pathbreaker Ibex> (and control no other creatures), the first ability to resolve will give those Ibex +3/+3. The second ability will then give them +6/+6.
@@ -1094,7 +1100,8 @@ Equip {3}</CardText>
 <ManaCost>5 (5)</ManaCost>
 <CardText>As Seal of the Guildpact enters the battlefield, choose two colors.
 Each spell you cast costs {1} less to cast for each of the chosen colors it is.</CardText>
-<Flavor>"I'd rather see the guilds contend together with words in the halls of power, than in the streets with swords."—Jace Beleren</Flavor>
+<Flavor>"I'd rather see the guilds contend together with words in the halls of power, than in the streets with swords."
+—Jace Beleren</Flavor>
 <Artist>Franz Vohwinkel</Artist>
 <Multiverseid>405371</Multiverseid>
 <Rulings>2015/11/04: You must choose two different colors.
@@ -1277,7 +1284,8 @@ Enchanted creature can't attack or block.
 <ManaCost>3WW (5)</ManaCost>
 <CardText>Flying
 Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.</CardText>
-<Flavor>"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings."—Josuri</Flavor>
+<Flavor>"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings."
+—Josuri</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>405167</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1358,7 +1366,8 @@ Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creat
 <ManaCost>2W (3)</ManaCost>
 <CardText>Flying
 {8}: Tap all creatures target player controls.</CardText>
-<Flavor>"What we knew as Emeria, Ula, and Cosi were not divine beings at all, but a cruel trick, and a grave error."—The Invokers' Tales</Flavor>
+<Flavor>"What we knew as Emeria, Ula, and Cosi were not divine beings at all, but a cruel trick, and a grave error."
+—The Invokers' Tales</Flavor>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>405190</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1376,7 +1385,8 @@ Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creat
 <ManaCost>3WW (5)</ManaCost>
 <CardText>Flash
 Creatures you control get +2/+2.</CardText>
-<Flavor>"In our war Heliod gave mortals some favor, yet other times he withheld aid. Are we still no more than game pieces to him?"—Polyxene the Doubter</Flavor>
+<Flavor>"In our war Heliod gave mortals some favor, yet other times he withheld aid. Are we still no more than game pieces to him?"
+—Polyxene the Doubter</Flavor>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>405200</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1584,7 +1594,8 @@ Destroy target artifact or enchantment. If this spell was kicked, it deals damag
 <Type>Enchantment</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</CardText>
-<Flavor>"I am the purifier, the light that clears all shadows."—Seal inscription</Flavor>
+<Flavor>"I am the purifier, the light that clears all shadows."
+—Seal inscription</Flavor>
 <Artist>Christopher Moeller</Artist>
 <Multiverseid>405369</Multiverseid>
 <Rulings>2004/10/04: This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it.</Rulings>
@@ -1684,7 +1695,8 @@ Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink 
 <ManaCost>2W (3)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.</CardText>
-<Flavor>"I prefer loyalty to be a matter of respect, not of magic. But one does what one must."—Kaalia of the Vast</Flavor>
+<Flavor>"I prefer loyalty to be a matter of respect, not of magic. But one does what one must."
+—Kaalia of the Vast</Flavor>
 <Artist>Wayne Reynolds</Artist>
 <Multiverseid>405444</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1756,7 +1768,8 @@ Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswa
 <Type>Instant</Type>
 <ManaCost>XUUU (3)</ManaCost>
 <CardText>Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.</CardText>
-<Flavor>"The Origin Query will wait. We must ensure we survive to return to it."—Pelyus, vedalken ordinar</Flavor>
+<Flavor>"The Origin Query will wait. We must ensure we survive to return to it."
+—Pelyus, vedalken ordinar</Flavor>
 <Artist>Izzy</Artist>
 <Multiverseid>405150</Multiverseid>
 <Rulings>2011/06/01: If this spell doesn't resolve, none of its effects occur. In particular, it will go to the graveyard rather than to its owner's library.
@@ -1837,7 +1850,8 @@ When Day of the Dragons leaves the battlefield, sacrifice all Dragons you contro
 <Type>Instant</Type>
 <ManaCost>X1UU (3)</ManaCost>
 <CardText>Gain control of target creature with converted mana cost X or less.</CardText>
-<Flavor>"I've come to reclaim what is mine. And you, Greven, are mine."—Volrath</Flavor>
+<Flavor>"I've come to reclaim what is mine. And you, Greven, are mine."
+—Volrath</Flavor>
 <Artist>Scott Hampton</Artist>
 <Multiverseid>405202</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2020,7 +2034,8 @@ When Plaxmanta enters the battlefield, sacrifice it unless {G} was spent to cast
 <Type>Instant</Type>
 <ManaCost>U (1)</ManaCost>
 <CardText>Destroy target creature. It can't be regenerated. That creature's controller creates a 3/3 green Frog Lizard creature token.</CardText>
-<Flavor>"We've merged your life essence with that of several creatures at once. You're welcome."—Speaker Trifon</Flavor>
+<Flavor>"We've merged your life essence with that of several creatures at once. You're welcome."
+—Speaker Trifon</Flavor>
 <Artist>Jack Wang</Artist>
 <Multiverseid>405354</Multiverseid>
 <Rulings>2013/01/24: If the creature is an illegal target when <Rapid Hybridization> tries to resolve, it won't resolve and none of its effects will happen. No Frog Lizard token will be created.
@@ -2191,7 +2206,8 @@ Create a token that's a copy of target creature. If this spell was kicked, creat
 <Type>Sorcery</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.</CardText>
-<Flavor>"To fill your mind with knowledge, we must start by emptying it."—Barrin, master wizard</Flavor>
+<Flavor>"To fill your mind with knowledge, we must start by emptying it."
+—Barrin, master wizard</Flavor>
 <Artist>Pete Venters</Artist>
 <Multiverseid>405451</Multiverseid>
 <Vintage>Restricted</Vintage>
@@ -2208,7 +2224,8 @@ Create a token that's a copy of target creature. If this spell was kicked, creat
 <ManaCost>1B (2)</ManaCost>
 <CardText>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards.</CardText>
-<Flavor>"Don't worry, your death will be as informative as possible."—Gorghul, augur of skulls</Flavor>
+<Flavor>"Don't worry, your death will be as informative as possible."
+—Gorghul, augur of skulls</Flavor>
 <Artist>Donato Giancola</Artist>
 <Multiverseid>405122</Multiverseid>
 <Rulings>2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
@@ -2260,7 +2277,8 @@ Draw two cards.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>2BB (4)</ManaCost>
 <CardText>Each player sacrifices two creatures.</CardText>
-<Flavor>"We must all make sacrifices for the good of Innistrad."—Sorin Markov</Flavor>
+<Flavor>"We must all make sacrifices for the good of Innistrad."
+—Sorin Markov</Flavor>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>405138</Multiverseid>
 <Rulings>2012/05/01: The active player chooses which creatures will be sacrificed first, then each other player in turn order does the same. Then all creatures are sacrificed simultaneously.
@@ -2470,7 +2488,8 @@ When Fallen Ideal is put into a graveyard from the battlefield, return Fallen Id
 <Type>Enchantment Creature — Hag 3/4</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player.</CardText>
-<Flavor>"Never forget that the life you've built can be undone by a single loose thread."—Perisophia the philosopher</Flavor>
+<Flavor>"Never forget that the life you've built can be undone by a single loose thread."
+—Perisophia the philosopher</Flavor>
 <Artist>David Palumbo</Artist>
 <Multiverseid>405228</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2506,7 +2525,8 @@ When Fallen Ideal is put into a graveyard from the battlefield, return Fallen Id
 <Type>Enchantment</Type>
 <ManaCost>1B (2)</ManaCost>
 <CardText>When a nonblack creature enters the battlefield, sacrifice Grave Peril. If you do, destroy that creature.</CardText>
-<Flavor>"Sometimes the grave does not wait for death before relishing its feast of flesh and bones."—Ezrith, druid of the Dark Hours</Flavor>
+<Flavor>"Sometimes the grave does not wait for death before relishing its feast of flesh and bones."
+—Ezrith, druid of the Dark Hours</Flavor>
 <Artist>Daarken</Artist>
 <Multiverseid>405250</Multiverseid>
 <Rulings>2007/05/01: This ability is not optional.
@@ -2569,7 +2589,8 @@ Nighthowler and enchanted creature each get +X/+X, where X is the number of crea
 <ManaCost>3BB (5)</ManaCost>
 <CardText>{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.
 Sacrifice a creature: Target creature gets -1/-1 until end of turn.</CardText>
-<Flavor>"The final stage of the illness: delirium, convulsions, and death."—Phyrexian progress notes</Flavor>
+<Flavor>"The final stage of the illness: delirium, convulsions, and death."
+—Phyrexian progress notes</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>405338</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2586,7 +2607,8 @@ Sacrifice a creature: Target creature gets -1/-1 until end of turn.</CardText>
 <Type>Creature — Horror 2/2</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.</CardText>
-<Flavor>"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first."—Sheoldred, Whispering One</Flavor>
+<Flavor>"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first."
+—Sheoldred, Whispering One</Flavor>
 <Artist>Stephan Martiniere</Artist>
 <Multiverseid>405339</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2619,7 +2641,8 @@ Sacrifice a creature: Target creature gets -1/-1 until end of turn.</CardText>
 <Type>Sorcery</Type>
 <ManaCost>4B (5)</ManaCost>
 <CardText>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</CardText>
-<Flavor>"Death is no excuse for disobedience."—Liliana Vess</Flavor>
+<Flavor>"Death is no excuse for disobedience."
+—Liliana Vess</Flavor>
 <Artist>Vance Kovacs</Artist>
 <Multiverseid>405359</Multiverseid>
 <Rulings>2018/07/13: <Rise from the Grave> doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype.
@@ -2639,7 +2662,8 @@ Sacrifice a creature: Target creature gets -1/-1 until end of turn.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Sacrifice Seal of Doom: Destroy target nonblack creature. It can't be regenerated.</CardText>
-<Flavor>"A basilisk's gaze is effective, but disposing of physical remains is a tiresome task. It's far more discreet to dissolve one's victim entirely."—Szadek</Flavor>
+<Flavor>"A basilisk's gaze is effective, but disposing of physical remains is a tiresome task. It's far more discreet to dissolve one's victim entirely."
+—Szadek</Flavor>
 <Artist>Ralph Horsley</Artist>
 <Multiverseid>405370</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2714,7 +2738,8 @@ Enchanted land has "{T}, Pay 1 life: Draw a card."</CardText>
 <Type>Sorcery</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.</CardText>
-<Flavor>"Die. But die knowing that your pathetic life will yield a great bounty for me."—Zul Ashur, lich lord</Flavor>
+<Flavor>"Die. But die knowing that your pathetic life will yield a great bounty for me."
+—Zul Ashur, lich lord</Flavor>
 <Artist>Craig J Spearing</Artist>
 <Multiverseid>405434</Multiverseid>
 <Rulings>2016/06/08: You must choose two targets. You can't cast <Victimize> targeting only one creature card.
@@ -2809,7 +2834,8 @@ Breath of Darigaaz deals 1 damage to each creature without flying and each playe
 <Type>Sorcery</Type>
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.</CardText>
-<Flavor>"We train for the improbable, like lightning striking the same place twice, or striking everywhere at once."—Nundari, Sea Gate militia captain</Flavor>
+<Flavor>"We train for the improbable, like lightning striking the same place twice, or striking everywhere at once."
+—Nundari, Sea Gate militia captain</Flavor>
 <Artist>Trevor Claxton</Artist>
 <Multiverseid>405170</Multiverseid>
 <Rulings>2010/03/01: The value of X is determined as <Chain Reaction> resolves.</Rulings>
@@ -3036,7 +3062,8 @@ Creatures your opponents control attack each combat if able.</CardText>
 <Type>Creature — Giant Warrior 6/6</Type>
 <ManaCost>6R (7)</ManaCost>
 <CardText>Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power.</CardText>
-<Flavor>"If you live on a giant's back, there's only one individual you'll ever need to fear."—Gaddock Teeg</Flavor>
+<Flavor>"If you live on a giant's back, there's only one individual you'll ever need to fear."
+—Gaddock Teeg</Flavor>
 <Artist>Paolo Parente & Brian Snõddy</Artist>
 <Multiverseid>405254</Multiverseid>
 <Rulings>2012/07/01: The value of X is determined as the ability begins resolving. If the other creature is no longer on the battlefield, its last known existence on the battlefield is checked to determine its power.</Rulings>
@@ -3054,7 +3081,8 @@ Creatures your opponents control attack each combat if able.</CardText>
 <Type>Creature — Giant Warrior 5/4</Type>
 <ManaCost>4RR (6)</ManaCost>
 <CardText>{T}: Hammerfist Giant deals 4 damage to each creature without flying and each player.</CardText>
-<Flavor>"Oh sure, they buy a lot of ale, but I always find myself needing to rebuild after the giants have paid a visit."—Belko, owner of Titan's Keg tavern</Flavor>
+<Flavor>"Oh sure, they buy a lot of ale, but I always find myself needing to rebuild after the giants have paid a visit."
+—Belko, owner of Titan's Keg tavern</Flavor>
 <Artist>Carl Critchlow</Artist>
 <Multiverseid>405255</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3147,7 +3175,8 @@ Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divi
 <Type>Instant</Type>
 <ManaCost>XRR (2)</ManaCost>
 <CardText>Magmaquake deals X damage to each creature without flying and each planeswalker.</CardText>
-<Flavor>"Where will you run when I punish you with the very ground you flee on?"—Nicol Bolas</Flavor>
+<Flavor>"Where will you run when I punish you with the very ground you flee on?"
+—Nicol Bolas</Flavor>
 <Artist>Gabor Szikszai</Artist>
 <Multiverseid>405292</Multiverseid>
 <Rulings>2012/07/01: <Magmaquake> doesn't target any creature or planeswalker. For example, it will deal damage to a creature without flying that has hexproof.</Rulings>
@@ -3613,7 +3642,8 @@ At the beginning of your upkeep, you may move any number of +1/+1 counters from 
 <Type>Creature — Beast 4/4</Type>
 <ManaCost>4G (5)</ManaCost>
 <CardText>When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.</CardText>
-<Flavor>"An indrik's howl has destructive power much subtler than that of its crushing foot. The sound is mundane, but inaudible vibrations scatter and sunder magical contrivances."—Simic research notes</Flavor>
+<Flavor>"An indrik's howl has destructive power much subtler than that of its crushing foot. The sound is mundane, but inaudible vibrations scatter and sunder magical contrivances."
+—Simic research notes</Flavor>
 <Artist>Carl Critchlow</Artist>
 <Multiverseid>405261</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3650,7 +3680,8 @@ At the beginning of your upkeep, you may move any number of +1/+1 counters from 
 <Type>Sorcery — Arcane</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.</CardText>
-<Flavor>"The land grows only where the kami will it."—Dosan the Falling Leaf</Flavor>
+<Flavor>"The land grows only where the kami will it."
+—Dosan the Falling Leaf</Flavor>
 <Artist>Heather Hudson</Artist>
 <Multiverseid>405280</Multiverseid>
 <Rulings>2004/12/01: You can get just one basic land card if you wish (or even none at all). If you get only one land card, you put it onto the battlefield tapped.</Rulings>
@@ -3669,7 +3700,8 @@ At the beginning of your upkeep, you may move any number of +1/+1 counters from 
 <ManaCost>2G (3)</ManaCost>
 <CardText>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
 Destroy target artifact or enchantment.</CardText>
-<Flavor>"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough."—Zyd, Kamahlite druid</Flavor>
+<Flavor>"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough."
+—Zyd, Kamahlite druid</Flavor>
 <Artist>Zoltan Boros & Gabor Szikszai</Artist>
 <Multiverseid>405283</Multiverseid>
 <Rulings>2013/06/07: Players still get priority while a card with split second is on the stack.
@@ -3991,7 +4023,8 @@ When Thelonite Hermit is turned face up, create four 1/1 green Saproling creatur
 <Type>Instant</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Each opponent sacrifices an artifact or enchantment.</CardText>
-<Flavor>"You may enter, but leave those lifeless things of your world behind."—Modruni, maro-sorcerer</Flavor>
+<Flavor>"You may enter, but leave those lifeless things of your world behind."
+—Modruni, maro-sorcerer</Flavor>
 <Artist>Hideaki Takamura</Artist>
 <Multiverseid>405425</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4270,7 +4303,8 @@ If a source would deal damage to you or a permanent you control, prevent half th
 • All creatures get -1/-1 until end of turn.
 • Destroy target enchantment.
 • Regenerate each creature you control.</CardText>
-<Flavor>"Let the rest of Ravnica sneer. One way or another, they all end up in the undercity."—Jarad</Flavor>
+<Flavor>"Let the rest of Ravnica sneer. One way or another, they all end up in the undercity."
+—Jarad</Flavor>
 <Artist>Zoltan Boros</Artist>
 <Multiverseid>405245</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4344,7 +4378,8 @@ Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.</
 <Type>Creature — Snake 2/2</Type>
 <ManaCost>1GU (3)</ManaCost>
 <CardText>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.</CardText>
-<Flavor>"The enlightenment I never found in etherium I have found traced in the coatl's scales."—Ranalus, vedalken heretic</Flavor>
+<Flavor>"The enlightenment I never found in etherium I have found traced in the coatl's scales."
+—Ranalus, vedalken heretic</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>405288</Multiverseid>
 <Rulings>2018/03/16: If a spell or ability causes you to draw multiple cards, <Lorescale Coatl>'s ability triggers that many times.
@@ -4483,7 +4518,8 @@ When Prime Speaker Zegana enters the battlefield, draw cards equal to its power.
 <Type>Instant</Type>
 <ManaCost>1BG (3)</ManaCost>
 <CardText>Destroy target artifact or creature. It can't be regenerated.</CardText>
-<Flavor>"We are all decaying, always in a state of near-death. One moment without breath and we begin to break down."—Cevraya, Golgari shaman</Flavor>
+<Flavor>"We are all decaying, always in a state of near-death. One moment without breath and we begin to break down."
+—Cevraya, Golgari shaman</Flavor>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>405352</Multiverseid>
 <Rulings>2006/02/01: This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an artifact, even if it changed from one to the other between targeting and resolution.</Rulings>
@@ -4601,7 +4637,8 @@ Whenever Trygon Predator deals combat damage to a player, you may destroy target
 <ManaCost>3BG (5)</ManaCost>
 <CardText>Flying
 Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on Vulturous Zombie.</CardText>
-<Flavor>"When something dies, all things benefit. Well okay, just our things."—Ezoc, Golgari rot farmer</Flavor>
+<Flavor>"When something dies, all things benefit. Well okay, just our things."
+—Ezoc, Golgari rot farmer</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>405446</Multiverseid>
 <Rulings>2005/10/01: The ability doesn't care why a card goes to your opponent's graveyard — only that it does. The ability triggers when a card is put into your opponent's graveyard from the stack (a spell resolves, fails to resolve, or is countered), from the battlefield (a permanent is destroyed or sacrificed), from the player's hand (a card is discarded), from the player's library (from a Millstone-like effect), or from any other zone.
@@ -4620,7 +4657,8 @@ Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 c
 <Type>Sorcery</Type>
 <ManaCost>4{G/U}{G/U}{G/U} (7)</ManaCost>
 <CardText>Draw a card for each creature target player controls, then draw a card for each creature another target player controls.</CardText>
-<Flavor>"Look beyond, to the vascular awareness that all life is a map to greater knowledge."—Momir Vig, Biomancy, vol. I</Flavor>
+<Flavor>"Look beyond, to the vascular awareness that all life is a map to greater knowledge."
+—Momir Vig, Biomancy, vol. I</Flavor>
 <Artist>Dan Scott</Artist>
 <Multiverseid>405143</Multiverseid>
 <Rulings>2006/05/01: You choose both targets before you draw any cards. The targets must be different. One of them may be you.</Rulings>
@@ -4758,7 +4796,8 @@ Equip {2}</CardText>
 <ManaCost>3 (3)</ManaCost>
 <CardText>{T}: Add {R} or {W}.
 {R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.</CardText>
-<Flavor>"In case of fire, treachery, citywide riot, political upheaval, or worldwide societal collapse, break glass."—Cluestone inscription</Flavor>
+<Flavor>"In case of fire, treachery, citywide riot, political upheaval, or worldwide societal collapse, break glass."
+—Cluestone inscription</Flavor>
 <Artist>Raoul Vitale</Artist>
 <Multiverseid>405154</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4775,7 +4814,8 @@ Equip {2}</CardText>
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{1}, {T}: Add {R}{W}.</CardText>
-<Flavor>"Have you ever held a Boros signet? There's a weight to it that belies its size—a weight of strength and of pride."—Agrus Kos</Flavor>
+<Flavor>"Have you ever held a Boros signet? There's a weight to it that belies its size—a weight of strength and of pride."
+—Agrus Kos</Flavor>
 <Artist>Mike Sass</Artist>
 <Multiverseid>405157</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4845,7 +4885,8 @@ As Coldsteel Heart enters the battlefield, choose a color.
 <ManaCost>3 (3)</ManaCost>
 <CardText>Indestructible
 {T}: Add one mana of any color.</CardText>
-<Flavor>"It reflects the purity of Mirrodin-that-was."—Koth of the Hammer</Flavor>
+<Flavor>"It reflects the purity of Mirrodin-that-was."
+—Koth of the Hammer</Flavor>
 <Artist>Martina Pilcerova</Artist>
 <Multiverseid>405187</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4881,7 +4922,8 @@ As Coldsteel Heart enters the battlefield, choose a color.
 <ManaCost>5 (5)</ManaCost>
 <CardText>Creatures you control get +1/+1 and have flying and indestructible.
 At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.</CardText>
-<Flavor>"Gods don't die. They merely slumber."—Ayli, Kamsa cleric</Flavor>
+<Flavor>"Gods don't die. They merely slumber."
+—Ayli, Kamsa cleric</Flavor>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>405213</Multiverseid>
 <Rulings>2009/10/01: If you control any creatures as the triggered ability resolves, you must sacrifice one. You can't choose to sacrifice <Eldrazi Monument> instead. You sacrifice the Monument only if you had no creatures to sacrifice.
@@ -4900,7 +4942,8 @@ At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice E
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{T}: Add one mana of any color that a land an opponent controls could produce.</CardText>
-<Flavor>"What do you have that I cannot obtain?"—Mairsil, the Pretender</Flavor>
+<Flavor>"What do you have that I cannot obtain?"
+—Mairsil, the Pretender</Flavor>
 <Artist>John Avon</Artist>
 <Multiverseid>405229</Multiverseid>
 <Rulings>2004/10/04: This works even if the opponent's lands are tapped. It only checks what kinds of mana can be produced, not if the abilities that produce them are usable right now.
@@ -4978,7 +5021,8 @@ Equip {0}</CardText>
 <ManaCost>3 (3)</ManaCost>
 <CardText>Equipped creature gets +3/+0 and has trample and lifelink.
 Equip {3}</CardText>
-<Flavor>"A crafter must imbue her weapon with part of her soul—something the Phyrexians are incapable of doing."—Melira</Flavor>
+<Flavor>"A crafter must imbue her weapon with part of her soul—something the Phyrexians are incapable of doing."
+—Melira</Flavor>
 <Artist>Jeremy Jarvis</Artist>
 <Multiverseid>405290</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4996,7 +5040,8 @@ Equip {3}</CardText>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{T}: Add {C}.
 {1}, {T}, Sacrifice Mind Stone: Draw a card.</CardText>
-<Flavor>"What is mana but possibility, an idea not yet given form?"—Jhoira, master artificer</Flavor>
+<Flavor>"What is mana but possibility, an idea not yet given form?"
+—Jhoira, master artificer</Flavor>
 <Artist>Adam Rex</Artist>
 <Multiverseid>405300</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5066,7 +5111,8 @@ Equip {3}</CardText>
 <ManaCost>5 (5)</ManaCost>
 <CardText>Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.
 Whenever you draw a card, each opponent loses 1 life.</CardText>
-<Flavor>"If that brain can't figure out the secret of the serum, then add more brains."—Rhmir, Hand of the Augur</Flavor>
+<Flavor>"If that brain can't figure out the secret of the serum, then add more brains."
+—Rhmir, Hand of the Augur</Flavor>
 <Artist>Stephan Martiniere</Artist>
 <Multiverseid>405351</Multiverseid>
 <Rulings>2011/06/01: If an effect causes you to draw multiple cards, <Psychosis Crawler> will trigger that many times.</Rulings>
@@ -5193,7 +5239,8 @@ When Solemn Simulacrum dies, you may draw a card.</CardText>
 <ManaCost>6 (6)</ManaCost>
 <CardText>At the beginning of your upkeep, draw a card.
 {T}: Staff of Nin deals 1 damage to any target.</CardText>
-<Flavor>"I have attuned the staff to your screams so that only I may benefit from your pain."—Volux, disciple of Nin</Flavor>
+<Flavor>"I have attuned the staff to your screams so that only I may benefit from your pain."
+—Volux, disciple of Nin</Flavor>
 <Artist>Dan Scott</Artist>
 <Multiverseid>405393</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5211,7 +5258,8 @@ When Solemn Simulacrum dies, you may draw a card.</CardText>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Equipped creature has hexproof and haste.
 Equip {1}</CardText>
-<Flavor>"There is great wisdom in rushing headlong into combat . . . if you're prepared."—Kenjek, captain of the Thousand Swords</Flavor>
+<Flavor>"There is great wisdom in rushing headlong into combat . . . if you're prepared."
+—Kenjek, captain of the Thousand Swords</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>405406</Multiverseid>
 <Rulings>2018/03/16: If a creature enters the battlefield under your control and gains haste, but then loses it before attacking, it won't be able to attack that turn. This means that you can't use one <Swiftfoot Boots> to allow two new creatures to attack in the same turn.</Rulings>
@@ -5248,7 +5296,8 @@ Equip {3}</CardText>
 <ManaCost>3 (3)</ManaCost>
 <CardText>As Urza's Incubator enters the battlefield, choose a creature type.
 Creature spells of the chosen type cost {2} less to cast.</CardText>
-<Flavor>"Stop thinking like an artificer, Urza, and start thinking like a father!"—Rayne, chancellor of the Tolarian Academy</Flavor>
+<Flavor>"Stop thinking like an artificer, Urza, and start thinking like a father!"
+—Rayne, chancellor of the Tolarian Academy</Flavor>
 <Artist>Pete Venters</Artist>
 <Multiverseid>405429</Multiverseid>
 <Rulings>2004/10/04: Multiple Incubators are cumulative.
@@ -5510,7 +5559,8 @@ When Golgari Rot Farm enters the battlefield, return a land you control to its o
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {2}{B}{G}, {T}, Sacrifice a creature: Draw a card.</CardText>
-<Flavor>"I love what they've done with the place."—Liliana Vess</Flavor>
+<Flavor>"I love what they've done with the place."
+—Liliana Vess</Flavor>
 <Artist>Vincent Proce</Artist>
 <Multiverseid>405252</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5647,7 +5697,8 @@ When New Benalia enters the battlefield, scry 1. (Look at the top card of your l
 <Type>Land</Type>
 <CardText>{T}: Add {C}.
 {G}{U}, {T}: Put a +1/+1 counter on each creature that entered the battlefield this turn.</CardText>
-<Flavor>"The unnatural pressures of life in this city are best withstood by lifeforms that adapt with unnatural swiftness."—Momir Vig</Flavor>
+<Flavor>"The unnatural pressures of life in this city are best withstood by lifeforms that adapt with unnatural swiftness."
+—Momir Vig</Flavor>
 <Artist>Martina Pilcerova</Artist>
 <Multiverseid>405322</Multiverseid>
 <Rulings>2006/05/01: The second ability puts a counter on each applicable creature regardless of who controls it.</Rulings>

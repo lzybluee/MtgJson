@@ -18,6 +18,7 @@
             "hasFoil": false,
             "hasNonFoil": true,
             "isOversized": true,
+            "isPaper": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {},
@@ -27,23 +28,21 @@
             "number": "1",
             "prices": {
                 "paper": {
-                    "2019-01-23": 2.0,
-                    "2019-01-30": 2.0,
-                    "2019-02-06": 1.92,
-                    "2019-02-13": 2.0,
-                    "2019-02-20": 2.0,
-                    "2019-02-27": 1.69,
-                    "2019-03-06": 1.83,
-                    "2019-03-13": 1.92,
-                    "2019-03-20": 2.0,
-                    "2019-03-27": 1.99,
-                    "2019-04-03": 1.99,
-                    "2019-04-10": 2.0,
-                    "2019-04-17": 2.65,
-                    "2019-04-24": 2.64,
-                    "2019-05-01": 2.81,
-                    "2019-05-08": 2.62
-                }
+                    "2019-04-28": 2.64,
+                    "2019-05-05": 2.65,
+                    "2019-05-12": 2.62,
+                    "2019-05-19": 2.7,
+                    "2019-05-26": 2.9,
+                    "2019-06-02": 2.89,
+                    "2019-06-09": 2.6,
+                    "2019-06-16": 2.43,
+                    "2019-06-23": 2.39,
+                    "2019-06-30": 2.29,
+                    "2019-07-07": 2.57,
+                    "2019-07-14": 2.57,
+                    "2019-07-21": 2.0
+                },
+                "paperFoil": {}
             },
             "printings": [
                 "PPC1"
@@ -60,7 +59,7 @@
                 "Legendary"
             ],
             "tcgplayerProductId": 91617,
-            "text": "0: Put a 2/2 green Wolf creature token onto the battlefield.\n+4: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.\n-10: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature's toughness.\n-25: Destroy all creatures Garruk the Slayer doesn't control.",
+            "text": "[0]: Put a 2/2 green Wolf creature token onto the battlefield.\n[+4]: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.\n[-10]: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature's toughness.\n[-25]: Destroy all creatures Garruk the Slayer doesn't control.",
             "type": "Legendary Planeswalker — Garruk",
             "types": [
                 "Planeswalker"
@@ -73,9 +72,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "M15",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "M15 Prerelease Challenge",
     "parentCode": "M15",

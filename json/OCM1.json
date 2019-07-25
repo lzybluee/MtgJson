@@ -18,6 +18,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -28,9 +29,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}",
+            "mtgstocksId": 34240,
             "name": "Azusa, Lost but Seeking",
             "number": "1",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 20.0,
+                    "2019-05-05": 19.94,
+                    "2019-05-12": 19.94,
+                    "2019-05-19": 19.94,
+                    "2019-05-26": 19.88,
+                    "2019-06-02": 18.0,
+                    "2019-06-09": 18.0,
+                    "2019-06-16": 15.45,
+                    "2019-06-23": 17.78,
+                    "2019-06-30": 13.93,
+                    "2019-07-07": 15.2,
+                    "2019-07-14": 15.2,
+                    "2019-07-21": 23.5
+                }
+            },
             "printings": [
                 "A25",
                 "CHK",
@@ -55,6 +75,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94984,
             "text": "You may play two additional lands on each of your turns.",
             "toughness": "2",
             "type": "Legendary Creature — Human Monk",
@@ -80,6 +101,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -91,9 +113,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{W}",
+            "mtgstocksId": 34268,
             "name": "Brion Stoutarm",
             "number": "2",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.0,
+                    "2019-05-05": 1.01,
+                    "2019-05-12": 1.01,
+                    "2019-05-19": 1.0,
+                    "2019-05-26": 1.0,
+                    "2019-06-02": 1.01,
+                    "2019-06-09": 1.02,
+                    "2019-06-16": 1.02,
+                    "2019-06-23": 1.02,
+                    "2019-06-30": 1.01,
+                    "2019-07-07": 1.02,
+                    "2019-07-14": 1.01,
+                    "2019-07-21": 1.0
+                }
+            },
             "printings": [
                 "A25",
                 "CMD",
@@ -120,6 +161,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94981,
             "text": "Lifelink\n{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player or planeswalker.",
             "toughness": "4",
             "type": "Legendary Creature — Giant Warrior",
@@ -145,6 +187,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -152,13 +195,31 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{B}{G}{G}",
+            "mtgstocksId": 34381,
             "name": "Glissa, the Traitor",
             "number": "3",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 3.0,
+                    "2019-05-05": 2.99,
+                    "2019-05-12": 3.0,
+                    "2019-05-19": 3.0,
+                    "2019-05-26": 3.2,
+                    "2019-06-02": 3.5,
+                    "2019-06-09": 3.49,
+                    "2019-06-16": 3.49,
+                    "2019-06-23": 3.7,
+                    "2019-06-30": 3.49,
+                    "2019-07-07": 3.5,
+                    "2019-07-14": 3.5,
+                    "2019-07-21": 3.5
+                }
+            },
             "printings": [
                 "MBS",
                 "OCM1",
@@ -183,6 +244,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94982,
             "text": "First strike, deathtouch\nWhenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.",
             "toughness": "3",
             "type": "Legendary Creature — Zombie Elf",
@@ -206,6 +268,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -216,9 +279,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}{R}",
+            "mtgstocksId": 34382,
             "name": "Godo, Bandit Warlord",
             "number": "4",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.36,
+                    "2019-05-05": 1.48,
+                    "2019-05-12": 1.48,
+                    "2019-05-19": 1.64,
+                    "2019-05-26": 1.48,
+                    "2019-06-02": 1.8,
+                    "2019-06-09": 1.8,
+                    "2019-06-16": 1.71,
+                    "2019-06-23": 1.51,
+                    "2019-06-30": 1.64,
+                    "2019-07-07": 1.64,
+                    "2019-07-14": 1.48,
+                    "2019-07-21": 1.64
+                }
+            },
             "printings": [
                 "C16",
                 "CHK",
@@ -241,6 +323,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94983,
             "text": "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.\nWhenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.",
             "toughness": "3",
             "type": "Legendary Creature — Human Barbarian",
@@ -266,6 +349,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -276,9 +360,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{U}{B}",
+            "mtgstocksId": 34388,
             "name": "Grimgrin, Corpse-Born",
             "number": "5",
             "power": "5",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 6.77,
+                    "2019-05-05": 8.95,
+                    "2019-05-12": 8.48,
+                    "2019-05-19": 8.0,
+                    "2019-05-26": 8.59,
+                    "2019-06-02": 8.0,
+                    "2019-06-09": 8.9,
+                    "2019-06-16": 8.9,
+                    "2019-06-23": 9.79,
+                    "2019-06-30": 9.79,
+                    "2019-07-07": 9.79,
+                    "2019-07-14": 9.78,
+                    "2019-07-21": 9.79
+                }
+            },
             "printings": [
                 "ISD",
                 "OCM1"
@@ -308,6 +411,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94980,
             "text": "Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.\nSacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.\nWhenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",
             "toughness": "5",
             "type": "Legendary Creature — Zombie Warrior",
@@ -327,6 +431,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -338,9 +443,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{5}",
+            "mtgstocksId": 34434,
             "name": "Karn, Silver Golem",
             "number": "6",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 7.25,
+                    "2019-05-05": 10.0,
+                    "2019-05-12": 10.0,
+                    "2019-05-19": 10.0,
+                    "2019-05-26": 7.47,
+                    "2019-06-02": 7.24,
+                    "2019-06-09": 9.45,
+                    "2019-06-16": 9.76,
+                    "2019-06-23": 5.5,
+                    "2019-06-30": 4.39,
+                    "2019-07-07": 4.78,
+                    "2019-07-14": 5.14,
+                    "2019-07-21": 5.24
+                }
+            },
             "printings": [
                 "OCM1",
                 "PAL99",
@@ -370,6 +494,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94976,
             "text": "Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.",
             "toughness": "4",
             "type": "Legendary Artifact Creature — Golem",
@@ -398,6 +523,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -408,9 +534,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{4}{B}{R}{G}",
+            "mtgstocksId": 34436,
             "name": "Karrthus, Tyrant of Jund",
             "number": "7",
             "power": "7",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 15.38,
+                    "2019-05-05": 19.87,
+                    "2019-05-12": 19.87,
+                    "2019-05-19": 19.87,
+                    "2019-05-26": 8.38,
+                    "2019-06-02": 8.38,
+                    "2019-06-09": 8.38,
+                    "2019-06-16": 8.38,
+                    "2019-06-23": 9.68,
+                    "2019-06-30": 9.68,
+                    "2019-07-07": 9.63,
+                    "2019-07-14": 9.92,
+                    "2019-07-21": 9.92
+                }
+            },
             "printings": [
                 "ARB",
                 "OCM1"
@@ -435,6 +580,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94977,
             "text": "Flying, haste\nWhen Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.\nOther Dragon creatures you control have haste.",
             "toughness": "7",
             "type": "Legendary Creature — Dragon",
@@ -462,6 +608,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -525,6 +672,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isReserved": true,
             "isStarter": true,
             "layout": "normal",
@@ -583,6 +731,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -590,13 +739,31 @@
                 "duel": "Restricted",
                 "legacy": "Legal",
                 "modern": "Legal",
-                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{1}{W}{U}{B}",
+            "mtgstocksId": 34645,
             "name": "Zur the Enchanter",
             "number": "10",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 4.0,
+                    "2019-05-05": 4.34,
+                    "2019-05-12": 4.68,
+                    "2019-05-19": 4.68,
+                    "2019-05-26": 4.27,
+                    "2019-06-02": 4.0,
+                    "2019-06-09": 4.0,
+                    "2019-06-16": 4.0,
+                    "2019-06-23": 4.0,
+                    "2019-06-30": 4.54,
+                    "2019-07-07": 4.55,
+                    "2019-07-14": 4.28,
+                    "2019-07-21": 4.55
+                }
+            },
             "printings": [
                 "CSP",
                 "J16",
@@ -624,6 +791,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 94979,
             "text": "Flying\nWhenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.",
             "toughness": "4",
             "type": "Legendary Creature — Human Wizard",
@@ -638,9 +806,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "CM1",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Commander's Arsenal Oversized",
     "parentCode": "CM1",

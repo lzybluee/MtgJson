@@ -794,9 +794,9 @@ When Whiptongue Hydra enters the battlefield, destroy all creatures with flying.
 <Name>Aminatou, the Fateshifter</Name>
 <Type>Legendary Planeswalker — Aminatou (Loyalty: 3)</Type>
 <ManaCost>WUB (3)</ManaCost>
-<CardText>[+1]: Draw a card, then put a card from your hand on top of your library.
-[-1]: Exile another target permanent you own, then return it to the battlefield under your control.
-[-6]: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
+<CardText>+1: Draw a card, then put a card from your hand on top of your library.
+-1: Exile another target permanent you own, then return it to the battlefield under your control.
+-6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
 Aminatou, the Fateshifter can be your commander.</CardText>
 <Artist>Seb McKinnon</Artist>
 <Multiverseid>450638</Multiverseid>
@@ -865,9 +865,9 @@ At the beginning of combat on your turn, create a 2/1 blue Myr artifact creature
 <Name>Estrid, the Masked</Name>
 <Type>Legendary Planeswalker — Estrid (Loyalty: 3)</Type>
 <ManaCost>1GWU (4)</ManaCost>
-<CardText>[+2]: Untap each enchanted permanent you control.
-[-1]: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
-[-7]: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
+<CardText>+2: Untap each enchanted permanent you control.
+-1: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
+-7: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
 Estrid, the Masked can be your commander.</CardText>
 <Artist>Johannes Voss</Artist>
 <Multiverseid>450641</Multiverseid>
@@ -951,9 +951,9 @@ Whenever an enchanted creature or enchantment creature you control attacks, draw
 <Name>Lord Windgrace</Name>
 <Type>Legendary Planeswalker — Windgrace (Loyalty: 5)</Type>
 <ManaCost>2BRG (5)</ManaCost>
-<CardText>[+2]: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
-[-3]: Return up to two target land cards from your graveyard to the battlefield.
-[-11]: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
+<CardText>+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
+-3: Return up to two target land cards from your graveyard to the battlefield.
+-11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
 Lord Windgrace can be your commander.</CardText>
 <Artist>Bram Sels</Artist>
 <Multiverseid>450644</Multiverseid>
@@ -971,9 +971,9 @@ Lord Windgrace can be your commander.</CardText>
 <Name>Saheeli, the Gifted</Name>
 <Type>Legendary Planeswalker — Saheeli (Loyalty: 4)</Type>
 <ManaCost>2UR (4)</ManaCost>
-<CardText>[+1]: Create a 1/1 colorless Servo artifact creature token.
-[+1]: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
-[-7]: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
+<CardText>+1: Create a 1/1 colorless Servo artifact creature token.
++1: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
+-7: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
 Saheeli, the Gifted can be your commander.</CardText>
 <Artist>Ryan Pancoast</Artist>
 <Multiverseid>450645</Multiverseid>
@@ -2678,7 +2678,8 @@ Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dr
 <Type>Instant</Type>
 <ManaCost>XRR (2)</ManaCost>
 <CardText>Magmaquake deals X damage to each creature without flying and each planeswalker.</CardText>
-<Flavor>"Where will you run when I punish you with the very ground you flee on?"—Nicol Bolas</Flavor>
+<Flavor>"Where will you run when I punish you with the very ground you flee on?"
+—Nicol Bolas</Flavor>
 <Artist>Gabor Szikszai</Artist>
 <Multiverseid>451080</Multiverseid>
 <Rulings>2012/07/01: <Magmaquake> doesn't target any creature or planeswalker. For example, it will deal damage to a creature without flying that has hexproof.</Rulings>
@@ -4079,7 +4080,8 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 <Type>Creature — Elemental */4</Type>
 <ManaCost>2RG (4)</ManaCost>
 <CardText>Zendikar Incarnate's power is equal to the number of lands you control.</CardText>
-<Flavor>"Her people angered Zendikar, and they faced the land's wrath. That is why Nissa is the last of the animists."—Numa, Joraga chieftain</Flavor>
+<Flavor>"Her people angered Zendikar, and they faced the land's wrath. That is why Nissa is the last of the animists."
+—Numa, Joraga chieftain</Flavor>
 <Artist>Lucas Graciano</Artist>
 <Multiverseid>451150</Multiverseid>
 <Rulings>2015/06/22: The ability defining <Zendikar Incarnate>'s power works in all zones, not just the battlefield. <Zendikar Incarnate>'s power changes as the number of lands you control does.</Rulings>

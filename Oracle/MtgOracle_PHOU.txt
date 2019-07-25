@@ -898,10 +898,10 @@ When The Locust God dies, return it to its owner's hand at the beginning of the 
 <Name>Nicol Bolas, God-Pharaoh</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 7)</Type>
 <ManaCost>4UBR (7)</ManaCost>
-<CardText>[+2]: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
-[+1]: Each opponent exiles two cards from their hand.
-[-4]: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
-[-12]: Exile each nonland permanent your opponents control.</CardText>
+<CardText>+2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
++1: Each opponent exiles two cards from their hand.
+-4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
+-12: Exile each nonland permanent your opponents control.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Rulings>2017/07/14: The cards exiled by Nicol Bolas's first and second abilities are exiled face up.
 2017/07/14: You may cast the nonland card exiled by Nicol Bolas's first ability that turn even if Nicol Bolas is no longer on the battlefield or under your control.
@@ -924,9 +924,9 @@ When The Locust God dies, return it to its owner's hand at the beginning of the 
 <Name>Samut, the Tested</Name>
 <Type>Legendary Planeswalker — Samut (Loyalty: 4)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>[+1]: Up to one target creature gains double strike until end of turn.
-[-2]: Samut, the Tested deals 2 damage divided as you choose among one or two targets.
-[-7]: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.</CardText>
+<CardText>+1: Up to one target creature gains double strike until end of turn.
+-2: Samut, the Tested deals 2 damage divided as you choose among one or two targets.
+-7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Rulings>2017/07/14: You divide the damage as you activate Samut's second ability, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you activate the ability, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
 2017/07/14: If Samut's second ability has two targets and one becomes an illegal target, the remaining target is dealt 1 damage, not 2.

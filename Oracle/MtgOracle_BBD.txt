@@ -4,9 +4,9 @@
 <Name>Will Kenrith</Name>
 <Type>Legendary Planeswalker — Will (Loyalty: 4)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+2]: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities.
-[-2]: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast.
-[-8]: Target player gets an emblem with "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy."
+<CardText>+2: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities.
+-2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast.
+-8: Target player gets an emblem with "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy."
 Partner with Rowan Kenrith
 Will Kenrith can be your commander.</CardText>
 <Artist>Anna Steinbauer</Artist>
@@ -48,9 +48,9 @@ Will Kenrith can be your commander.</CardText>
 <Name>Rowan Kenrith</Name>
 <Type>Legendary Planeswalker — Rowan (Loyalty: 4)</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>[+2]: During target player's next turn, each creature that player controls attacks if able.
-[-2]: Rowan Kenrith deals 3 damage to each tapped creature target player controls.
-[-8]: Target player gets an emblem with "Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy."
+<CardText>+2: During target player's next turn, each creature that player controls attacks if able.
+-2: Rowan Kenrith deals 3 damage to each tapped creature target player controls.
+-8: Target player gets an emblem with "Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy."
 Partner with Will Kenrith
 Rowan Kenrith can be your commander.</CardText>
 <Artist>Anna Steinbauer</Artist>
@@ -2788,7 +2788,8 @@ True-Name Nemesis has protection from the chosen player. (This creature can't be
 <Type>Creature — Elemental 2/3</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>{U}: Watercourser gets +1/-1 until end of turn.</CardText>
-<Flavor>"Beware an eddy where there should be none or a stretch that flows too fast or too slow."—Old Fishbones, Martyne river guide</Flavor>
+<Flavor>"Beware an eddy where there should be none or a stretch that flows too fast or too slow."
+—Old Fishbones, Martyne river guide</Flavor>
 <Artist>Mathias Kollros</Artist>
 <Multiverseid>446105</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4080,7 +4081,8 @@ Enchanted creature has "{T}: Add one mana of any color."</CardText>
 <ManaCost>4GGG (7)</ManaCost>
 <CardText>Trample
 Hexproof (This creature can't be the target of spells or abilities your opponents control.)</CardText>
-<Flavor>"It might fight the Eldrazi, but don't mistake it for a companion, Gideon. It's not interested in your concept of strength through unity."—Najiya, leader of the Tajuru</Flavor>
+<Flavor>"It might fight the Eldrazi, but don't mistake it for a companion, Gideon. It's not interested in your concept of strength through unity."
+—Najiya, leader of the Tajuru</Flavor>
 <Artist>Jama Jurabaev</Artist>
 <Multiverseid>446175</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4945,9 +4947,9 @@ Players may spend mana as though it were mana of any color.</CardText>
 <Name>Will Kenrith</Name>
 <Type>Legendary Planeswalker — Will (Loyalty: 4)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>[+2]: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities.
-[-2]: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast.
-[-8]: Target player gets an emblem with "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy."
+<CardText>+2: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities.
+-2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast.
+-8: Target player gets an emblem with "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy."
 Partner with Rowan Kenrith
 Will Kenrith can be your commander.</CardText>
 <Artist>Anna Steinbauer</Artist>
@@ -4989,9 +4991,9 @@ Will Kenrith can be your commander.</CardText>
 <Name>Rowan Kenrith</Name>
 <Type>Legendary Planeswalker — Rowan (Loyalty: 4)</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>[+2]: During target player's next turn, each creature that player controls attacks if able.
-[-2]: Rowan Kenrith deals 3 damage to each tapped creature target player controls.
-[-8]: Target player gets an emblem with "Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy."
+<CardText>+2: During target player's next turn, each creature that player controls attacks if able.
+-2: Rowan Kenrith deals 3 damage to each tapped creature target player controls.
+-8: Target player gets an emblem with "Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy."
 Partner with Will Kenrith
 Rowan Kenrith can be your commander.</CardText>
 <Artist>Anna Steinbauer</Artist>

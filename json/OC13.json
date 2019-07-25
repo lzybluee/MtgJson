@@ -21,6 +21,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -30,9 +31,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{G}{W}{U}",
+            "mtgstocksId": 34312,
             "name": "Derevi, Empyrial Tactician",
             "number": "186",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.86,
+                    "2019-05-05": 0.88,
+                    "2019-05-12": 0.86,
+                    "2019-05-19": 0.87,
+                    "2019-05-26": 0.85,
+                    "2019-06-02": 0.85,
+                    "2019-06-09": 0.86,
+                    "2019-06-16": 0.82,
+                    "2019-06-23": 0.83,
+                    "2019-06-30": 0.82,
+                    "2019-07-07": 0.81,
+                    "2019-07-14": 0.82,
+                    "2019-07-21": 0.81
+                }
+            },
             "printings": [
                 "C13",
                 "CMA",
@@ -63,6 +83,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80118,
             "text": "Flying\nWhenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.\n{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.",
             "toughness": "3",
             "type": "Legendary Creature — Bird Wizard",
@@ -91,6 +112,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -100,9 +122,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{R}{G}{W}",
+            "mtgstocksId": 34370,
             "name": "Gahiji, Honored One",
             "number": "191",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.75,
+                    "2019-05-05": 0.78,
+                    "2019-05-12": 0.74,
+                    "2019-05-19": 0.74,
+                    "2019-05-26": 0.74,
+                    "2019-06-02": 0.81,
+                    "2019-06-09": 0.79,
+                    "2019-06-16": 0.81,
+                    "2019-06-23": 0.75,
+                    "2019-06-30": 0.76,
+                    "2019-07-07": 0.81,
+                    "2019-07-14": 0.79,
+                    "2019-07-21": 0.8
+                }
+            },
             "printings": [
                 "C13",
                 "OC13"
@@ -118,6 +159,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80119,
             "text": "Whenever a creature attacks one of your opponents or a planeswalker an opponent controls, that creature gets +2/+0 until end of turn.",
             "toughness": "4",
             "type": "Legendary Creature — Beast",
@@ -145,6 +187,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -154,9 +197,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{U}{B}{R}",
+            "mtgstocksId": 34425,
             "name": "Jeleva, Nephalia's Scourge",
             "number": "194",
             "power": "1",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.75,
+                    "2019-05-05": 0.75,
+                    "2019-05-12": 0.72,
+                    "2019-05-19": 0.73,
+                    "2019-05-26": 0.73,
+                    "2019-06-02": 0.75,
+                    "2019-06-09": 0.73,
+                    "2019-06-16": 0.73,
+                    "2019-06-23": 0.73,
+                    "2019-06-30": 0.73,
+                    "2019-07-07": 0.73,
+                    "2019-07-14": 0.71,
+                    "2019-07-21": 0.71
+                }
+            },
             "printings": [
                 "C13",
                 "OC13"
@@ -210,6 +272,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80120,
             "text": "Flying\nWhen Jeleva, Nephalia's Scourge enters the battlefield, each player exiles the top X cards of their library, where X is the amount of mana spent to cast Jeleva.\nWhenever Jeleva attacks, you may cast an instant or sorcery card exiled with it without paying its mana cost.",
             "toughness": "3",
             "type": "Legendary Creature — Vampire Wizard",
@@ -237,6 +300,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -246,9 +310,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{R}{G}{W}",
+            "mtgstocksId": 34456,
             "name": "Marath, Will of the Wild",
             "number": "198",
             "power": "0",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.76,
+                    "2019-05-05": 0.78,
+                    "2019-05-12": 0.78,
+                    "2019-05-19": 0.78,
+                    "2019-05-26": 0.78,
+                    "2019-06-02": 0.79,
+                    "2019-06-09": 0.78,
+                    "2019-06-16": 0.79,
+                    "2019-06-23": 0.8,
+                    "2019-06-30": 0.8,
+                    "2019-07-07": 0.81,
+                    "2019-07-14": 0.81,
+                    "2019-07-21": 0.81
+                }
+            },
             "printings": [
                 "C13",
                 "OC13"
@@ -286,6 +369,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80121,
             "text": "Marath, Will of the Wild enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.\n{X}, Remove X +1/+1 counters from Marath: Choose one —\n• Put X +1/+1 counters on target creature. X can't be 0.\n• Marath deals X damage to any target. X can't be 0.\n• Create an X/X green Elemental creature token. X can't be 0.",
             "toughness": "0",
             "type": "Legendary Creature — Elemental Beast",
@@ -314,6 +398,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -373,6 +458,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -383,9 +469,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{U}{B}{R}",
+            "mtgstocksId": 34492,
             "name": "Nekusar, the Mindrazer",
             "number": "201",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.97,
+                    "2019-05-05": 0.99,
+                    "2019-05-12": 0.98,
+                    "2019-05-19": 0.98,
+                    "2019-05-26": 0.98,
+                    "2019-06-02": 0.99,
+                    "2019-06-09": 0.98,
+                    "2019-06-16": 0.98,
+                    "2019-06-23": 0.99,
+                    "2019-06-30": 0.99,
+                    "2019-07-07": 0.98,
+                    "2019-07-14": 0.97,
+                    "2019-07-21": 0.98
+                }
+            },
             "printings": [
                 "C13",
                 "J14",
@@ -404,6 +509,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80123,
             "text": "At the beginning of each player's draw step, that player draws an additional card.\nWhenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.",
             "toughness": "4",
             "type": "Legendary Creature — Zombie Wizard",
@@ -431,6 +537,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -440,9 +547,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}{U}{B}",
+            "mtgstocksId": 34501,
             "name": "Oloro, Ageless Ascetic",
             "number": "203",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 1.43,
+                    "2019-05-05": 1.45,
+                    "2019-05-12": 1.33,
+                    "2019-05-19": 1.33,
+                    "2019-05-26": 1.4,
+                    "2019-06-02": 1.49,
+                    "2019-06-09": 1.46,
+                    "2019-06-16": 1.46,
+                    "2019-06-23": 1.44,
+                    "2019-06-30": 1.19,
+                    "2019-07-07": 1.47,
+                    "2019-07-14": 1.41,
+                    "2019-07-21": 1.59
+                }
+            },
             "printings": [
                 "C13",
                 "J14",
@@ -494,6 +620,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80124,
             "text": "At the beginning of your upkeep, you gain 2 life.\nWhenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.\nAt the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.",
             "toughness": "5",
             "type": "Legendary Creature — Giant Soldier",
@@ -521,6 +648,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -530,9 +658,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{B}{R}{G}",
+            "mtgstocksId": 34528,
             "name": "Prossh, Skyraider of Kher",
             "number": "204",
             "power": "5",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.86,
+                    "2019-05-05": 0.88,
+                    "2019-05-12": 0.86,
+                    "2019-05-19": 0.85,
+                    "2019-05-26": 0.84,
+                    "2019-06-02": 0.85,
+                    "2019-06-09": 0.85,
+                    "2019-06-16": 0.86,
+                    "2019-06-23": 0.86,
+                    "2019-06-30": 0.86,
+                    "2019-07-07": 0.86,
+                    "2019-07-14": 0.83,
+                    "2019-07-21": 0.8
+                }
+            },
             "printings": [
                 "A25",
                 "C13",
@@ -562,6 +709,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80125,
             "text": "When you cast this spell, create X 0/1 red Kobold creature tokens named Kobolds of Kher Keep, where X is the amount of mana spent to cast Prossh.\nFlying\nSacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end of turn.",
             "toughness": "5",
             "type": "Legendary Creature — Dragon",
@@ -590,6 +738,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -599,9 +748,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{W}{U}",
+            "mtgstocksId": 34541,
             "name": "Roon of the Hidden Realm",
             "number": "206",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.73,
+                    "2019-05-05": 0.75,
+                    "2019-05-12": 0.73,
+                    "2019-05-19": 0.73,
+                    "2019-05-26": 0.73,
+                    "2019-06-02": 0.75,
+                    "2019-06-09": 0.75,
+                    "2019-06-16": 0.75,
+                    "2019-06-23": 0.78,
+                    "2019-06-30": 0.79,
+                    "2019-07-07": 0.81,
+                    "2019-07-14": 0.81,
+                    "2019-07-21": 0.8
+                }
+            },
             "printings": [
                 "C13",
                 "CMA",
@@ -624,6 +792,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80126,
             "text": "Vigilance, trample\n{2}, {T}: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
             "toughness": "4",
             "type": "Legendary Creature — Rhino Soldier",
@@ -652,6 +821,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -661,9 +831,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{G}{W}{U}",
+            "mtgstocksId": 34544,
             "name": "Rubinia Soulsinger",
             "number": "207",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.72,
+                    "2019-05-05": 0.74,
+                    "2019-05-12": 0.74,
+                    "2019-05-19": 0.74,
+                    "2019-05-26": 0.74,
+                    "2019-06-02": 0.74,
+                    "2019-06-09": 0.72,
+                    "2019-06-16": 0.71,
+                    "2019-06-23": 0.72,
+                    "2019-06-30": 0.71,
+                    "2019-07-07": 0.71,
+                    "2019-07-14": 0.71,
+                    "2019-07-21": 0.71
+                }
+            },
             "printings": [
                 "C13",
                 "CHR",
@@ -697,6 +886,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80127,
             "text": "You may choose not to untap Rubinia Soulsinger during your untap step.\n{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.",
             "toughness": "3",
             "type": "Legendary Creature — Faerie",
@@ -725,6 +915,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -736,9 +927,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{2}{B}{R}{G}",
+            "mtgstocksId": 34551,
             "name": "Sek'Kuar, Deathkeeper",
             "number": "210",
             "power": "4",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.71,
+                    "2019-05-05": 0.7,
+                    "2019-05-12": 0.69,
+                    "2019-05-19": 0.67,
+                    "2019-05-26": 0.68,
+                    "2019-06-02": 0.66,
+                    "2019-06-09": 0.66,
+                    "2019-06-16": 0.65,
+                    "2019-06-23": 0.65,
+                    "2019-06-30": 0.65,
+                    "2019-07-07": 0.65,
+                    "2019-07-14": 0.65,
+                    "2019-07-21": 0.65
+                }
+            },
             "printings": [
                 "C13",
                 "CSP",
@@ -756,6 +966,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80128,
             "text": "Whenever another nontoken creature you control dies, create a 3/1 black and red Graveborn creature token with haste.",
             "toughness": "3",
             "type": "Legendary Creature — Orc Shaman",
@@ -784,6 +995,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -794,9 +1006,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{3}{W}{U}{B}",
+            "mtgstocksId": 34556,
             "name": "Sharuum the Hegemon",
             "number": "212",
             "power": "5",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.72,
+                    "2019-05-05": 0.72,
+                    "2019-05-12": 0.69,
+                    "2019-05-19": 0.69,
+                    "2019-05-26": 0.7,
+                    "2019-06-02": 0.71,
+                    "2019-06-09": 0.71,
+                    "2019-06-16": 0.7,
+                    "2019-06-23": 0.7,
+                    "2019-06-30": 0.66,
+                    "2019-07-07": 0.69,
+                    "2019-07-14": 0.67,
+                    "2019-07-21": 0.66
+                }
+            },
             "printings": [
                 "ALA",
                 "C13",
@@ -815,6 +1046,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80129,
             "text": "Flying\nWhen Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.",
             "toughness": "5",
             "type": "Legendary Artifact Creature — Sphinx",
@@ -843,6 +1075,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -852,9 +1085,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{1}{B}{R}{G}",
+            "mtgstocksId": 34557,
             "name": "Shattergang Brothers",
             "number": "213",
             "power": "3",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.75,
+                    "2019-05-05": 0.76,
+                    "2019-05-12": 0.73,
+                    "2019-05-19": 0.73,
+                    "2019-05-26": 0.75,
+                    "2019-06-02": 0.79,
+                    "2019-06-09": 0.77,
+                    "2019-06-16": 0.77,
+                    "2019-06-23": 0.75,
+                    "2019-06-30": 0.75,
+                    "2019-07-07": 0.74,
+                    "2019-07-14": 0.74,
+                    "2019-07-21": 0.75
+                }
+            },
             "printings": [
                 "C13",
                 "OC13"
@@ -871,6 +1123,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 80130,
             "text": "{2}{B}, Sacrifice a creature: Each other player sacrifices a creature.\n{2}{R}, Sacrifice an artifact: Each other player sacrifices an artifact.\n{2}{G}, Sacrifice an enchantment: Each other player sacrifices an enchantment.",
             "toughness": "3",
             "type": "Legendary Creature — Goblin Artificer",
@@ -898,6 +1151,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -907,9 +1161,28 @@
                 "vintage": "Legal"
             },
             "manaCost": "{W}{U}{B}",
+            "mtgstocksId": 34583,
             "name": "Sydri, Galvanic Genius",
             "number": "220",
             "power": "2",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.85,
+                    "2019-05-05": 0.85,
+                    "2019-05-12": 0.6,
+                    "2019-05-19": 0.73,
+                    "2019-05-26": 0.73,
+                    "2019-06-02": 0.93,
+                    "2019-06-09": 0.76,
+                    "2019-06-16": 0.69,
+                    "2019-06-23": 0.61,
+                    "2019-06-30": 0.74,
+                    "2019-07-07": 0.85,
+                    "2019-07-14": 0.74,
+                    "2019-07-21": 0.65
+                }
+            },
             "printings": [
                 "C13",
                 "C16",
@@ -944,6 +1217,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 126163,
             "text": "{U}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.\n{W}{B}: Target artifact creature gains deathtouch and lifelink until end of turn.",
             "toughness": "2",
             "type": "Legendary Creature — Human Artificer",
@@ -972,6 +1246,7 @@
             "hasFoil": true,
             "hasNonFoil": false,
             "isOversized": true,
+            "isReprint": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {
@@ -979,12 +1254,32 @@
                 "duel": "Legal",
                 "legacy": "Legal",
                 "modern": "Legal",
+                "penny": "Legal",
                 "vintage": "Legal"
             },
             "manaCost": "{4}{U}{B}{R}",
+            "mtgstocksId": 34618,
             "name": "Thraximundar",
             "number": "221",
             "power": "6",
+            "prices": {
+                "paper": {},
+                "paperFoil": {
+                    "2019-04-28": 0.5,
+                    "2019-05-05": 0.5,
+                    "2019-05-12": 0.49,
+                    "2019-05-19": 0.5,
+                    "2019-05-26": 0.49,
+                    "2019-06-02": 0.55,
+                    "2019-06-09": 0.58,
+                    "2019-06-16": 0.5,
+                    "2019-06-23": 0.5,
+                    "2019-06-30": 0.51,
+                    "2019-07-07": 0.58,
+                    "2019-07-14": 0.58,
+                    "2019-07-21": 0.5
+                }
+            },
             "printings": [
                 "ARB",
                 "C13",
@@ -1011,6 +1306,7 @@
             "supertypes": [
                 "Legendary"
             ],
+            "tcgplayerProductId": 82822,
             "text": "Haste\nWhenever Thraximundar attacks, defending player sacrifices a creature.\nWhenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.",
             "toughness": "6",
             "type": "Legendary Creature — Zombie Assassin",
@@ -1025,9 +1321,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "C13",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Commander 2013 Oversized",
     "parentCode": "C13",

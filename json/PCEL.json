@@ -62,15 +62,25 @@
             "convertedManaCost": 4.0,
             "flavorText": "... and when you want to go explore, the number you should have is four. —Sandra Boynton",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
             "isStarter": true,
             "layout": "normal",
             "legalities": {},
             "manaCost": "{U}{U}{U}{U}",
+            "mtgstocksId": 23153,
             "name": "Fraternal Exaltation",
             "number": "5",
+            "prices": {
+                "paper": {
+                    "2019-06-30": 5000.0,
+                    "2019-07-07": 5000.0,
+                    "2019-07-14": 5000.0,
+                    "2019-07-21": 5000.0
+                },
+                "paperFoil": {}
+            },
             "printings": [
                 "PCEL"
             ],
@@ -178,7 +188,7 @@
             "convertedManaCost": 4.0,
             "flavorText": "Why did the chicken cross the road? To die in the name of science.",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "2003",
             "hasFoil": false,
             "hasNonFoil": true,
             "isStarter": true,
@@ -222,7 +232,7 @@
             ],
             "convertedManaCost": 9.0,
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
             "isStarter": true,
@@ -263,7 +273,7 @@
             "convertedManaCost": 4.0,
             "flavorText": "She discovered with great delight that one does not love one's children because they are one's children but because of the friendship formed while raising them. Gabriel Garciá Márquez",
             "foreignData": [],
-            "frameVersion": "1993",
+            "frameVersion": "1997",
             "hasFoil": false,
             "hasNonFoil": true,
             "isStarter": true,
@@ -296,9 +306,9 @@
     "isOnlineOnly": false,
     "keyruneCode": "DEFAULT",
     "meta": {
-        "date": "2019-04-28",
-        "pricesDate": "2019-05-20",
-        "version": "4.4.0"
+        "date": "2019-07-21",
+        "pricesDate": "2019-07-21",
+        "version": "4.4.2-rebuild.4"
     },
     "name": "Celebration Cards",
     "releaseDate": "1996-08-14",

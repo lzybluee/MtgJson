@@ -1880,9 +1880,9 @@ Whenever a creature an opponent controls dies, you may return target artifact ca
 <Name>Tezzeret, Agent of Bolas</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 3)</Type>
 <ManaCost>2UB (4)</ManaCost>
-<CardText>[+1]: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
-[-1]: Target artifact becomes an artifact creature with base power and toughness 5/5.
-[-4]: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.</CardText>
+<CardText>+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+-1: Target artifact becomes an artifact creature with base power and toughness 5/5.
+-4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>214065</Multiverseid>
 <Rulings>2011/06/01: The artifact targeted by the second ability will retain any types, subtypes, or supertypes it has. Notably, if an Equipment becomes an artifact creature, it can't be attached to another creature. If it was attached to a creature, it becomes unattached.

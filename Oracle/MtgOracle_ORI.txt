@@ -129,7 +129,8 @@ Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.<
 <Type>Instant</Type>
 <ManaCost>WW (2)</ManaCost>
 <CardText>Target player sacrifices an attacking or blocking creature.</CardText>
-<Flavor>"You were defeated the moment you declared your aggression."—Gideon Jura</Flavor>
+<Flavor>"You were defeated the moment you declared your aggression."
+—Gideon Jura</Flavor>
 <Artist>Clint Cearley</Artist>
 <Multiverseid>398488</Multiverseid>
 <Rulings>2013/07/01: <Celestial Flare> targets only a player, not any creature. A creature with hexproof or protection from white can be sacrificed this way.
@@ -260,7 +261,8 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <ManaCost>1W (2)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature gets +1/+1 and has "Whenever this creature attacks, tap target creature defending player controls."</CardText>
-<Flavor>"There is power in abandon, but far more in control."—Warden Hixus, to Kytheon</Flavor>
+<Flavor>"There is power in abandon, but far more in control."
+—Warden Hixus, to Kytheon</Flavor>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>398558</Multiverseid>
 <Rulings>2015/06/22: The triggered ability granted to the enchanted creature will tap the creature before blockers are declared.
@@ -452,9 +454,9 @@ Enchanted creature gets +2/+2 and has vigilance.</CardText>
 <Name>Gideon, Battle-Forged</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
 <ColorIndicator>White</ColorIndicator>
-<CardText>[+2]: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
-[+1]: Until your next turn, target creature gains indestructible. Untap that creature.
-[0]: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<CardText>+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
++1: Until your next turn, target creature gains indestructible. Untap that creature.
+0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
 <Artist>Willian Murai</Artist>
 <Multiverseid>398429</Multiverseid>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
@@ -531,7 +533,8 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <Type>Instant</Type>
 <ManaCost>1W (2)</ManaCost>
 <CardText>Target creature gets +2/+2 and gains flying until end of turn.</CardText>
-<Flavor>"The southern fortress taken by invaders? Heh, sure . . . when elephants fly."—Brezard Skeinbow, captain of the guard</Flavor>
+<Flavor>"The southern fortress taken by invaders? Heh, sure . . . when elephants fly."
+—Brezard Skeinbow, captain of the guard</Flavor>
 <Artist>rk post</Artist>
 <Multiverseid>398630</Multiverseid>
 <Rulings>2018/07/13: Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast <Mighty Leap> during the declare attackers step at the latest.</Rulings>
@@ -686,7 +689,8 @@ As long as you control five or more enchantments, each other non-Aura enchantmen
 <ManaCost>3W (4)</ManaCost>
 <CardText>Enchant nonland permanent
 Enchanted permanent can't attack or block, and its activated abilities can't be activated.</CardText>
-<Flavor>"A master of hieromancy can see the advantage in any scenario."—Warden Hixus, to Kytheon</Flavor>
+<Flavor>"A master of hieromancy can see the advantage in any scenario."
+—Warden Hixus, to Kytheon</Flavor>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>398602</Multiverseid>
 <Rulings>2015/06/22: <Suppression Bonds> can enchant any nonland permanent, not just a creature.
@@ -933,7 +937,8 @@ When Aspiring Aeronaut enters the battlefield, create a 1/1 colorless Thopter ar
 <ManaCost>2UU (4)</ManaCost>
 <CardText>Counter target creature spell.
 Draw a card.</CardText>
-<Flavor>"I can think of worse ways to go. On second thought, maybe not."—Ludevic, necro-alchemist</Flavor>
+<Flavor>"I can think of worse ways to go. On second thought, maybe not."
+—Ludevic, necro-alchemist</Flavor>
 <Artist>Clint Cearley</Artist>
 <Multiverseid>398539</Multiverseid>
 <Rulings>2019/07/12: A creature spell that can't be countered is a legal target for <Bone to Ash>. The creature spell won't be countered when <Bone to Ash> resolves, but you'll still draw a card.</Rulings>
@@ -1160,7 +1165,8 @@ When Harbinger of the Tides enters the battlefield, you may return target tapped
 <ManaCost>2U (3)</ManaCost>
 <CardText>Attacking creatures get -2/-0 until end of turn.
 Draw a card.</CardText>
-<Flavor>"I don't need your mage-rings or your mana equations. I call, and the sea answers."—Keyta, rebel hydromancer</Flavor>
+<Flavor>"I don't need your mage-rings or your mana equations. I call, and the sea answers."
+—Keyta, rebel hydromancer</Flavor>
 <Artist>Clint Cearley</Artist>
 <Multiverseid>398666</Multiverseid>
 <Rulings>2015/06/22: You may cast <Hydrolash> even if there aren't any attacking creatures simply to draw a card.</Rulings>
@@ -1212,9 +1218,9 @@ Draw a card.</CardText>
 <Name>Jace, Telepath Unbound</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
 <ColorIndicator>Blue</ColorIndicator>
-<CardText>[+1]: Up to one target creature gets -2/-0 until your next turn.
-[-3]: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
-[-9]: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
+<CardText>+1: Up to one target creature gets -2/-0 until your next turn.
+-3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
+-9: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
 <Artist>Jaime Jones</Artist>
 <Multiverseid>398435</Multiverseid>
 <Rulings>2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
@@ -1417,7 +1423,8 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 <ManaCost>2U (3)</ManaCost>
 <CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 Scrapskin Drake can block only creatures with flying.</CardText>
-<Flavor>"The cathars killed my skaabs down below. Let's see how high their swords can reach."—Ludevic, necro-alchemist</Flavor>
+<Flavor>"The cathars killed my skaabs down below. Let's see how high their swords can reach."
+—Ludevic, necro-alchemist</Flavor>
 <Artist>Kev Walker</Artist>
 <Multiverseid>398478</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1472,7 +1479,8 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <Type>Creature — Human Wizard 2/2</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand.</CardText>
-<Flavor>"As long as each side thinks it can win, the balance holds, and the mage-rings stand."—Alhammarret</Flavor>
+<Flavor>"As long as each side thinks it can win, the balance holds, and the mage-rings stand."
+—Alhammarret</Flavor>
 <Artist>Jason Rainville</Artist>
 <Multiverseid>398608</Multiverseid>
 <Rulings>2015/06/22: <Separatist Voidmage>'s ability can target itself.</Rulings>
@@ -1669,7 +1677,8 @@ When Tower Geist enters the battlefield, look at the top two cards of your libra
 <Type>Creature — Elemental 2/3</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>{U}: Watercourser gets +1/-1 until end of turn.</CardText>
-<Flavor>"Beware an eddy where there should be none or a stretch that flows too fast or too slow."—Old Fishbones, Martyne river guide</Flavor>
+<Flavor>"Beware an eddy where there should be none or a stretch that flows too fast or too slow."
+—Old Fishbones, Martyne river guide</Flavor>
 <Artist>Mathias Kollros</Artist>
 <Multiverseid>398540</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1744,7 +1753,8 @@ Tap two untapped artifacts you control: Target creature can't be blocked this tu
 <Name>Catacomb Slug</Name>
 <Type>Creature — Slug 2/6</Type>
 <ManaCost>4B (5)</ManaCost>
-<Flavor>"The entire murder scene was covered in dripping, oozing slime. No need for a soothsayer to solve that one."—Pel Javya, Wojek investigator</Flavor>
+<Flavor>"The entire murder scene was covered in dripping, oozing slime. No need for a soothsayer to solve that one."
+—Pel Javya, Wojek investigator</Flavor>
 <Artist>Nils Hamm</Artist>
 <Multiverseid>398473</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -1934,7 +1944,8 @@ Whenever a creature card leaves an opponent's graveyard, you may discard a card.
 <Type>Sorcery</Type>
 <ManaCost>2BB (4)</ManaCost>
 <CardText>Non-Elf creatures get -2/-2 until end of turn.</CardText>
-<Flavor>"I've already seen so much evil, so much darkness. Why do you insist on adding more?"—Nissa Revane, to Dwynen</Flavor>
+<Flavor>"I've already seen so much evil, so much darkness. Why do you insist on adding more?"
+—Nissa Revane, to Dwynen</Flavor>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>398645</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2143,9 +2154,9 @@ Whenever another nontoken creature you control dies, exile Liliana, Heretical He
 <Name>Liliana, Defiant Necromancer</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ColorIndicator>Black</ColorIndicator>
-<CardText>[+2]: Each player discards a card.
+<CardText>+2: Each player discards a card.
 -X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.
-[-8]: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
+-8: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
 <Artist>Karla Ortiz</Artist>
 <Multiverseid>398442</Multiverseid>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
@@ -2176,7 +2187,8 @@ Whenever another nontoken creature you control dies, exile Liliana, Heretical He
 <Type>Sorcery</Type>
 <ManaCost>1B (2)</ManaCost>
 <CardText>Return up to two target creature cards from your graveyard to your hand, then discard a card.</CardText>
-<Flavor>"All dead move to the hollow rhythm of necromancy."—Savra</Flavor>
+<Flavor>"All dead move to the hollow rhythm of necromancy."
+—Savra</Flavor>
 <Artist>Jim Murray</Artist>
 <Multiverseid>398494</Multiverseid>
 <Rulings>2018/07/13: If you have no other cards in hand, you'll have to discard one of the creature cards you return to your hand.
@@ -2212,7 +2224,8 @@ Whenever another nontoken creature you control dies, exile Liliana, Heretical He
 <Type>Creature — Zombie Insect 2/2</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.</CardText>
-<Flavor>"The soul sheds light, and death is its shadow. When the light dims, life and death embrace."—Nantuko teaching</Flavor>
+<Flavor>"The soul sheds light, and death is its shadow. When the light dims, life and death embrace."
+—Nantuko teaching</Flavor>
 <Artist>Carl Critchlow</Artist>
 <Multiverseid>398440</Multiverseid>
 <Rulings>2015/06/22: You can sacrifice <Nantuko Husk> itself to activate its own ability. However, the only thing that will do is put <Nantuko Husk> into the graveyard.</Rulings>
@@ -2324,7 +2337,8 @@ When Rabid Bloodsucker enters the battlefield, each player loses 2 life.</CardTe
 <Type>Sorcery</Type>
 <ManaCost>1B (2)</ManaCost>
 <CardText>Destroy target creature with power 3 or less.</CardText>
-<Flavor>"I was not convinced you had a soul until I saw it for myself."—Liliana Vess</Flavor>
+<Flavor>"I was not convinced you had a soul until I saw it for myself."
+—Liliana Vess</Flavor>
 <Artist>David Palumbo</Artist>
 <Multiverseid>398591</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -2412,7 +2426,8 @@ Revenant's power and toughness are each equal to the number of creature cards in
 <Type>Enchantment</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>If an opponent would gain life, that player loses that much life instead.</CardText>
-<Flavor>"Drink this, brother. It will bring you rest."—Liliana Vess</Flavor>
+<Flavor>"Drink this, brother. It will bring you rest."
+—Liliana Vess</Flavor>
 <Artist>Izzy</Artist>
 <Multiverseid>398612</Multiverseid>
 <Rulings>2015/06/22: If more than one replacement effect tries to apply to a life gain event, the player who would gain life chooses the order in which they apply. For example, if a player who controls Alhammarret's Archive would gain 3 life while <Tainted Remedy> is on the battlefield, that player may choose to have the 3 life become doubled to 6 life and then lose 6 life. The player may also choose to apply <Tainted Remedy> first, turning "gain 3 life" into "lose 3 life." Alhammarret's Archive would then not apply.
@@ -2449,7 +2464,8 @@ Revenant's power and toughness are each equal to the number of creature cards in
 <ManaCost>2B (3)</ManaCost>
 <CardText>As an additional cost to cast this spell, sacrifice a creature.
 Target player discards a number of cards equal to the sacrificed creature's power.</CardText>
-<Flavor>"Not all nightmares can be escaped by waking."—Ashiok</Flavor>
+<Flavor>"Not all nightmares can be escaped by waking."
+—Ashiok</Flavor>
 <Artist>Allen Williams</Artist>
 <Multiverseid>398623</Multiverseid>
 <Rulings>2014/04/26: The targeted player will discard a number of cards equal to the power of the sacrificed creature as it last existed on the battlefield.
@@ -2488,7 +2504,8 @@ Target player discards a number of cards equal to the sacrificed creature's powe
 <Type>Creature — Zombie 3/2</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>When Undead Servant enters the battlefield, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.</CardText>
-<Flavor>"Get up. You're not finished yet."—Liliana Vess</Flavor>
+<Flavor>"Get up. You're not finished yet."
+—Liliana Vess</Flavor>
 <Artist>James Zapata</Artist>
 <Multiverseid>398484</Multiverseid>
 <Rulings>2019/07/12: Count the number of <Undead Servant>s in your graveyard as the ability resolves to determine how many tokens to put onto the battlefield. If <Undead Servant> dies in response to its own triggered ability and is in your graveyard as that ability resolves, it will count toward the number of Zombies you get.</Rulings>
@@ -2736,9 +2753,9 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
 <Name>Chandra, Roaring Flame</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ColorIndicator>Red</ColorIndicator>
-<CardText>[+1]: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
-[-2]: Chandra, Roaring Flame deals 2 damage to target creature.
-[-7]: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
+<CardText>+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
+-2: Chandra, Roaring Flame deals 2 damage to target creature.
+-7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>398423</Multiverseid>
 <Rulings>2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
@@ -3187,7 +3204,8 @@ Draw two cards.</CardText>
 <Type>Creature — Boar 3/3</Type>
 <ManaCost>4R (5)</ManaCost>
 <CardText>As long as it's your turn, Prickleboar gets +2/+0 and has first strike. (It deals combat damage before creatures without first strike.)</CardText>
-<Flavor>"Canyons in the Phoberos badlands are essentially gates to the Underworld."—Mirinthes, Akroan captain</Flavor>
+<Flavor>"Canyons in the Phoberos badlands are essentially gates to the Underworld."
+—Mirinthes, Akroan captain</Flavor>
 <Artist>Jesper Ejsing</Artist>
 <Multiverseid>398449</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3246,7 +3264,8 @@ Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renown
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3RR (5)</ManaCost>
 <CardText>When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.</CardText>
-<Flavor>"Trying to stop it would be foolish. If you feel it coming—run!"—Sergeant Ryda</Flavor>
+<Flavor>"Trying to stop it would be foolish. If you feel it coming—run!"
+—Sergeant Ryda</Flavor>
 <Artist>Jasper Sandner</Artist>
 <Multiverseid>398579</Multiverseid>
 <Rulings>2015/06/22: No creature without flying will be able to block that turn, including creatures that lose flying after <Seismic Elemental>'s ability resolves and creatures without flying that enter the battlefield after that ability resolves.</Rulings>
@@ -3410,7 +3429,8 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <Type>Creature — Insect 1/1</Type>
 <ManaCost>G (1)</ManaCost>
 <CardText>{1}{G}, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment.</CardText>
-<Flavor>"The rare and beautiful butterflies inspire the design of our thopters. The larvae, however, are a different story entirely."—Kiran Nalaar, Ghirapur inventor</Flavor>
+<Flavor>"The rare and beautiful butterflies inspire the design of our thopters. The larvae, however, are a different story entirely."
+—Kiran Nalaar, Ghirapur inventor</Flavor>
 <Artist>Jack Wang</Artist>
 <Multiverseid>398409</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3464,7 +3484,8 @@ Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf 
 <Type>Creature — Elf Warrior 2/2</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>When Dwynen's Elite enters the battlefield, if you control another Elf, create a 1/1 green Elf Warrior creature token.</CardText>
-<Flavor>"Come, my beautiful brothers and sisters. Let us hunt."—Dwynen, Gilt-Leaf daen</Flavor>
+<Flavor>"Come, my beautiful brothers and sisters. Let us hunt."
+—Dwynen, Gilt-Leaf daen</Flavor>
 <Artist>Lius Lasahido</Artist>
 <Multiverseid>398609</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3481,7 +3502,8 @@ Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf 
 <Type>Enchantment</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card.</CardText>
-<Flavor>"I want to help Zendikar. Show me the way."—Nissa Revane</Flavor>
+<Flavor>"I want to help Zendikar. Show me the way."
+—Nissa Revane</Flavor>
 <Artist>David Gaillet</Artist>
 <Multiverseid>398406</Multiverseid>
 <Rulings>2015/06/22: The creature must have power 3 or greater as it enters the battlefield, or <Elemental Bond>'s ability won't trigger. Static abilities that raise (or lower) a creature's power are taken into account. However, you can't have a creature with power 2 or less enter the battlefield and try to raise its power with a spell, an activated ability, or a triggered ability.</Rulings>
@@ -3653,7 +3675,8 @@ As long as Honored Hierarch is renowned, it has vigilance and "{T}: Add one mana
 <Type>Sorcery</Type>
 <ManaCost>4GG (6)</ManaCost>
 <CardText>Each creature you control gets +3/+3 until end of turn and must be blocked this turn if able.</CardText>
-<Flavor>"A single tree does not a forest make. We are stronger when we stand together."—Numa, Joraga chieftain</Flavor>
+<Flavor>"A single tree does not a forest make. We are stronger when we stand together."
+—Numa, Joraga chieftain</Flavor>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>398642</Multiverseid>
 <Rulings>2015/06/22: If multiple attacking creatures must be blocked if able, the defending player must assign at least one blocker to each of them if possible. For example, if two such creatures were attacking and there were two potential blockers, they couldn't both be assigned to block the same attacker.
@@ -3724,7 +3747,8 @@ Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.</CardT
 <ManaCost>1G (2)</ManaCost>
 <CardText>Enchant creature
 Enchanted creature gets +1/+3 and has reach. (It can block creatures with flying.)</CardText>
-<Flavor>"Why does everything the Golgari touch end up sticky?"—Arrester Lavinia, Tenth Precinct</Flavor>
+<Flavor>"Why does everything the Golgari touch end up sticky?"
+—Arrester Lavinia, Tenth Precinct</Flavor>
 <Artist>Mathias Kollros</Artist>
 <Multiverseid>398577</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3791,9 +3815,9 @@ Whenever a land enters the battlefield under your control, if you control seven 
 <Name>Nissa, Sage Animist</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ColorIndicator>Green</ColorIndicator>
-<CardText>[+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
-[-2]: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.
-[-7]: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
+<CardText>+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+-2: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.
+-7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
 <Artist>Wesley Burt</Artist>
 <Multiverseid>398432</Multiverseid>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
@@ -3863,7 +3887,8 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
 <Type>Creature — Spirit 2/2</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Orchard Spirit can't be blocked except by creatures with flying or reach.</CardText>
-<Flavor>"Pick not the rotten fruit, but neither touch the best. Leave those as an offering for our unseen guests."—Radwick, farmer of Gatstaf</Flavor>
+<Flavor>"Pick not the rotten fruit, but neither touch the best. Leave those as an offering for our unseen guests."
+—Radwick, farmer of Gatstaf</Flavor>
 <Artist>Howard Lyon</Artist>
 <Multiverseid>398644</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4084,7 +4109,8 @@ Whenever a creature you control becomes renowned, draw a card.</CardText>
 <Name>Vastwood Gorger</Name>
 <Type>Creature — Wurm 5/6</Type>
 <ManaCost>5G (6)</ManaCost>
-<Flavor>"A long and difficult incision revealed that all vital organs are housed in the head, save for a long chain of stomachs, forty in all, leading from its throat to the end of the tail."—Mulak Ffar, Vastwood Biodiversity</Flavor>
+<Flavor>"A long and difficult incision revealed that all vital organs are housed in the head, save for a long chain of stomachs, forty in all, leading from its throat to the end of the tail."
+—Mulak Ffar, Vastwood Biodiversity</Flavor>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>398469</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4173,7 +4199,8 @@ Whenever a creature you control becomes renowned, draw a card.</CardText>
 <Type>Enchantment</Type>
 <ManaCost>3GG (5)</ManaCost>
 <CardText>Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token.</CardText>
-<Flavor>"I was wrong. Zendikar isn't after me. It isn't after any of us. It's not evil or vengeful. It's magnificent . . . but it's in pain."—Nissa Revane</Flavor>
+<Flavor>"I was wrong. Zendikar isn't after me. It isn't after any of us. It's not evil or vengeful. It's magnificent . . . but it's in pain."
+—Nissa Revane</Flavor>
 <Artist>Sam Burley</Artist>
 <Multiverseid>398518</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4356,7 +4383,8 @@ Other creatures you control with flying get +1/+1.</CardText>
 <Type>Creature — Elemental */4</Type>
 <ManaCost>2RG (4)</ManaCost>
 <CardText>Zendikar Incarnate's power is equal to the number of lands you control.</CardText>
-<Flavor>"Her people angered Zendikar, and they faced the land's wrath. That is why Nissa is the last of the animists."—Numa, Joraga chieftain</Flavor>
+<Flavor>"Her people angered Zendikar, and they faced the land's wrath. That is why Nissa is the last of the animists."
+—Numa, Joraga chieftain</Flavor>
 <Artist>Lucas Graciano</Artist>
 <Multiverseid>398661</Multiverseid>
 <Rulings>2015/06/22: The ability defining <Zendikar Incarnate>'s power works in all zones, not just the battlefield. <Zendikar Incarnate>'s power changes as the number of lands you control does.</Rulings>
@@ -4416,7 +4444,8 @@ If you would draw a card except the first one you draw in each of your draw step
 <Type>Artifact</Type>
 <ManaCost>3 (3)</ManaCost>
 <CardText>Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn.</CardText>
-<Flavor>"Faith can quicken the stones themselves with life."—Writings of Mikaeus</Flavor>
+<Flavor>"Faith can quicken the stones themselves with life."
+—Writings of Mikaeus</Flavor>
 <Artist>Dan Scott</Artist>
 <Multiverseid>398418</Multiverseid>
 <Rulings>2015/06/22: If <Angel's Tomb> is already a creature when a creature enters the battlefield under your control, its ability will override any effects that set its base power and toughness to specific values, but other changes to its power and toughness (such as the one created by Titanic Growth) will still apply.

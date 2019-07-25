@@ -94,9 +94,9 @@ When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner sh
 <Name>Karn Liberated</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 6)</Type>
 <ManaCost>7 (7)</ManaCost>
-<CardText>[+4]: Target player exiles a card from their hand.
-[-3]: Exile target permanent.
-[-14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
+<CardText>+4: Target player exiles a card from their hand.
+-3: Exile target permanent.
+-14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>456601</Multiverseid>
 <Rulings>2018/12/07: A game that restarts immediately ends the preceding game. The players in that game then immediately begin a new game. No player wins, loses, or draws the original game as a result of Karn's ability.
@@ -2084,9 +2084,9 @@ When Grave Scrabbler enters the battlefield, if its madness cost was paid, you m
 <Name>Liliana of the Veil</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>[+1]: Each player discards a card.
-[-2]: Target player sacrifices a creature.
-[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
+<CardText>+1: Each player discards a card.
+-2: Target player sacrifices a creature.
+-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>456700</Multiverseid>
 <Rulings>2018/12/07: You can activate Liliana's first ability even if some or all players will be unable to discard a card.
