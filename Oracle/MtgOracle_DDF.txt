@@ -4,9 +4,9 @@
 <Name>Elspeth, Knight-Errant</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: Create a 1/1 white Soldier creature token.
-+1: Target creature gets +3/+3 and gains flying until end of turn.
--8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
+<CardText>[+1]: Create a 1/1 white Soldier creature token.
+[+1]: Target creature gets +3/+3 and gains flying until end of turn.
+[-8]: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>217825</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
@@ -704,9 +704,9 @@ Reinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target c
 <Name>Tezzeret the Seeker</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 4)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>+1: Untap up to two target artifacts.
+<CardText>[+1]: Untap up to two target artifacts.
 -X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
--5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
+[-5]: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
 <Artist>Igor Kieryluk</Artist>
 <Multiverseid>217826</Multiverseid>
 <Rulings>2008/10/01: The first ability can target zero, one, or two artifacts. You may activate it with no targets just to put a loyalty counter on Tezzeret.
@@ -728,7 +728,7 @@ Reinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target c
 <Name>Arcbound Worker</Name>
 <Type>Artifact Creature — Construct 0/0</Type>
 <ManaCost>1 (1)</ManaCost>
-<CardText>Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<CardText>Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Flavor>The parts are as strong as the whole.</Flavor>
 <Artist>Darrell Riche</Artist>
 <Multiverseid>222733</Multiverseid>
@@ -803,7 +803,7 @@ Reinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target c
 —Sargis Haz, artificer</Flavor>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>222714</Multiverseid>
-<Rulings>2010/08/15: <Steel Overseer> is affected by its own ability (assuming that, by the time the ability resolves, you still control <Steel Overseer> and its types haven't changed). You'll put a +1/+1 counter on it, as well as on each other artifact creature you control.</Rulings>
+<Rulings>2019/07/12: <Steel Overseer>'s ability puts a +1/+1 counter on each artifact creature you control, including <Steel Overseer>.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

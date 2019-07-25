@@ -1,0 +1,20 @@
+<Card>
+<SetId>PMH1</SetId>
+<No>3</No>
+<Name>Astral Drift</Name>
+<Type>Enchantment</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Whenever you cycle Astral Drift or cycle another card while Astral Drift is on the battlefield, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2019/06/14: <Astral Drift>'s triggered ability resolves before the cycling ability does. You won't draw until after you choose the target and choose whether to exile the creature.
+2019/06/14: If you cycle a card during a player's end step, the exiled creature will remain exiled until the next turn's end step.
+2019/06/14: Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist. Once the exiled creature returns, it's considered a new object with no relation to the object that it was.
+2019/06/14: If a token is exiled this way, it will cease to exist and won't return to the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Modern Horizons Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+

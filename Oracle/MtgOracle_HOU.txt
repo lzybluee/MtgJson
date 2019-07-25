@@ -2503,11 +2503,12 @@ At the beginning of each combat, Majestic Myriarch gains flying until end of tur
 <Name>Overcome</Name>
 <Type>Sorcery</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>Creatures you control get +2/+2 and gain trample until end of turn.</CardText>
+<CardText>Creatures you control get +2/+2 and gain trample until end of turn. (They can deal excess combat damage to the player or planeswalker they're attacking.)</CardText>
 <Flavor>"Forward! Until the horizon is ours!"
 —Khemses, charioteer</Flavor>
 <Artist>Craig J Spearing</Artist>
 <Multiverseid>430814</Multiverseid>
+<Rulings>2019/07/12: <Overcome> affects only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't get +2/+2 or gain trample.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2805,10 +2806,10 @@ When The Locust God dies, return it to its owner's hand at the beginning of the 
 <Name>Nicol Bolas, God-Pharaoh</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 7)</Type>
 <ManaCost>4UBR (7)</ManaCost>
-<CardText>+2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
-+1: Each opponent exiles two cards from their hand.
--4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
--12: Exile each nonland permanent your opponents control.</CardText>
+<CardText>[+2]: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
+[+1]: Each opponent exiles two cards from their hand.
+[-4]: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
+[-12]: Exile each nonland permanent your opponents control.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>430829</Multiverseid>
 <Rulings>2017/07/14: The cards exiled by Nicol Bolas's first and second abilities are exiled face up.
@@ -2900,9 +2901,9 @@ Whenever you exert a creature, Resolute Survivors deals 1 damage to each opponen
 <Name>Samut, the Tested</Name>
 <Type>Legendary Planeswalker — Samut (Loyalty: 4)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>+1: Up to one target creature gains double strike until end of turn.
--2: Samut, the Tested deals 2 damage divided as you choose among one or two targets.
--7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.</CardText>
+<CardText>[+1]: Up to one target creature gains double strike until end of turn.
+[-2]: Samut, the Tested deals 2 damage divided as you choose among one or two targets.
+[-7]: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>430833</Multiverseid>
 <Rulings>2017/07/14: You divide the damage as you activate Samut's second ability, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you activate the ability, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets.
@@ -4327,9 +4328,9 @@ When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/
 <Name>Nissa, Genesis Mage</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 5)</Type>
 <ManaCost>5GG (7)</ManaCost>
-<CardText>+2: Untap up to two target creatures and up to two target lands.
--3: Target creature gets +5/+5 until end of turn.
--10: Look at the top ten cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</CardText>
+<CardText>[+2]: Untap up to two target creatures and up to two target lands.
+[-3]: Target creature gets +5/+5 until end of turn.
+[-10]: Look at the top ten cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>432879</Multiverseid>
 <Rulings>2017/07/14: You can activate Nissa's first ability with fewer than four targets. For example, you could target one creature and two lands, or no creatures and two lands. You could even choose no targets at all.
@@ -4419,9 +4420,9 @@ When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/
 <Name>Nicol Bolas, the Deceiver</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 5)</Type>
 <ManaCost>5UBR (8)</ManaCost>
-<CardText>+3: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
--3: Destroy target creature. Draw a card.
--11: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw seven cards.</CardText>
+<CardText>[+3]: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
+[-3]: Destroy target creature. Draw a card.
+[-11]: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw seven cards.</CardText>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>432884</Multiverseid>
 <Rulings>2017/07/14: While resolving Nicol Bolas's first ability, your opponent chooses a card to be discarded without revealing it, chooses a nonland permanent to be sacrificed, or chooses to do neither. Then that player discards that card, sacrifices that permanent, or loses 3 life. Your opponent can always choose to lose 3 life, even if they have cards to discard or nonland permanents to sacrifice.

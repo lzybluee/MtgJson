@@ -82,6 +82,7 @@ When Tidehollow Sculler leaves the battlefield, return the exiled card to its ow
 <CardText>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
 {3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions.</CardText>
 <Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>382196</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -169,6 +170,7 @@ When Tidehollow Sculler leaves the battlefield, return the exiled card to its ow
 Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.
 Equip {2}</CardText>
 <Artist>Chris Rahn</Artist>
+<Watermark>Mirran</Watermark>
 <Multiverseid>382200</Multiverseid>
 <Rulings>2011/06/01: You'll untap all lands you control even if the player doesn't discard a card.</Rulings>
 <Vintage>Legal</Vintage>
@@ -224,9 +226,9 @@ Flashback {1}{B} (You may cast this card from your graveyard for its flashback c
 <Name>Elspeth, Knight-Errant</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: Create a 1/1 white Soldier creature token.
-+1: Target creature gets +3/+3 and gains flying until end of turn.
--8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
+<CardText>[+1]: Create a 1/1 white Soldier creature token.
+[+1]: Target creature gets +3/+3 and gains flying until end of turn.
+[-8]: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
 <Artist>Volkan Baǵa</Artist>
 <Multiverseid>382184</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
@@ -450,6 +452,7 @@ Target creature gets -5/-5 until end of turn.</CardText>
 <Flavor>"You serve Phyrexia. Your pieces would better serve Phyrexia elsewhere."
 —Azax-Azog, the Demon Thane</Flavor>
 <Artist>Terese Nielsen</Artist>
+<Watermark>Phyrexian</Watermark>
 <Multiverseid>382182</Multiverseid>
 <Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
 2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.

@@ -1,5 +1,25 @@
 <Card>
 <SetId>PXLN</SetId>
+<No>2p</No>
+<Name>Ashes of the Abhorrent</Name>
+<Type>Enchantment</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Players can't cast spells from graveyards or activate abilities of cards in graveyards.
+Whenever a creature dies, you gain 1 life.</CardText>
+<Flavor>"Let no trace of the vampires' foulness remain."</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2017/09/29: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities (such as embalm from the Amonkhet set) are activated abilities and will have colons in their reminder text. Triggered abilities (starting with "when," "whenever," or "at") are unaffected by <Ashes of the Abhorrent>.
+2017/09/29: <Ashes of the Abhorrent> doesn't stop players from playing land cards from the graveyard if an effect allows them to do so.
+2017/09/29: If a creature dies at the same time that <Ashes of the Abhorrent> is destroyed, you'll gain 1 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>2s</No>
 <Name>Ashes of the Abhorrent</Name>
 <Type>Enchantment</Type>
@@ -98,6 +118,25 @@ Whenever Goring Ceratops attacks, other creatures you control gain double strike
 
 <Card>
 <SetId>PXLN</SetId>
+<No>19p</No>
+<Name>Kinjalli's Sunwing</Name>
+<Type>Creature — Dinosaur 2/3</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Flying
+Creatures your opponents control enter the battlefield tapped.</CardText>
+<Flavor>"There are moments when I feel I could fly like the sunwing. Far away I would soar, but always a golden gale pushes me back."
+—Huatli</Flavor>
+<Artist>Simon Dominic</Artist>
+<Rulings>2017/09/29: If a creature an opponent controls enters the battlefield at the same time that <Kinjalli's Sunwing> enters the battlefield under your control, <Kinjalli's Sunwing>'s effect doesn't apply to your opponent's creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>19s</No>
 <Name>Kinjalli's Sunwing</Name>
 <Type>Creature — Dinosaur 2/3</Type>
@@ -159,6 +198,23 @@ When you attack with three or more creatures, transform Legion's Landing.</CardT
 
 <Card>
 <SetId>PXLN</SetId>
+<No>24p</No>
+<Name>Mavren Fein, Dusk Apostle</Name>
+<Type>Legendary Creature — Vampire Cleric 2/2</Type>
+<ManaCost>2W (3)</ManaCost>
+<CardText>Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink.</CardText>
+<Flavor>In the rapture of his Blood Fast, he destroyed the navigator's tools and steered the ship to shore by faith alone.</Flavor>
+<Artist>Daarken</Artist>
+<Rulings>2017/09/29: Once you attack with one or more nontoken Vampires, Mavren Fein's ability will create a Vampire token even if some or all of those Vampires leave the battlefield or are removed from combat.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>24s</No>
 <Name>Mavren Fein, Dusk Apostle</Name>
 <Type>Legendary Creature — Vampire Cleric 2/2</Type>
@@ -213,6 +269,24 @@ When you attack with three or more creatures, transform Legion's Landing.</CardT
 
 <Card>
 <SetId>PXLN</SetId>
+<No>34p</No>
+<Name>Settle the Wreckage</Name>
+<Type>Instant</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library.</CardText>
+<Artist>Dimitar Marinski</Artist>
+<Rulings>2017/09/29: <Settle the Wreckage> targets only the player. Creatures with hexproof that player controls will be exiled as this spell resolves.
+2017/09/29: That player can find fewer basic land cards than the number of exiled creatures, whether because they want to or because they don't have that many basic land cards left.
+2017/09/29: The number of lands that player may find is the number of attacking creatures that were exiled, even if some of those creatures were tokens, weren't creature cards, or didn't end up in exile (most likely because one was that player's commander in the Commander variant).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>34s</No>
 <Name>Settle the Wreckage</Name>
 <Type>Instant</Type>
@@ -222,6 +296,28 @@ When you attack with three or more creatures, transform Legion's Landing.</CardT
 <Rulings>2017/09/29: <Settle the Wreckage> targets only the player. Creatures with hexproof that player controls will be exiled as this spell resolves.
 2017/09/29: That player can find fewer basic land cards than the number of exiled creatures, whether because they want to or because they don't have that many basic land cards left.
 2017/09/29: The number of lands that player may find is the number of attacking creatures that were exiled, even if some of those creatures were tokens, weren't creature cards, or didn't end up in exile (most likely because one was that player's commander in the Commander variant).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>42p</No>
+<Name>Tocatli Honor Guard</Name>
+<Type>Creature — Human Soldier 1/3</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Creatures entering the battlefield don't cause abilities to trigger.</CardText>
+<Flavor>The glorious city of Pachatupa is the center of the Sun Empire, and Tocatli, the emperor's palace, is its glowing heart.</Flavor>
+<Artist>Sara Winters</Artist>
+<Rulings>2017/09/29: Triggered abilities use the word "when," "whenever," or "at." They're usually written as "[Trigger condition], [effect]."
+2017/09/29: Replacement effects, such as a permanent entering the battlefield tapped or with counters on it, are unaffected. Abilities that apply "as [this creature] enters the battlefield" are replacement effects.
+2017/09/29: <Tocatli Honor Guard>'s ability stops a creature's own enters-the-battlefield triggered abilities as well as other triggered abilities that would trigger when a creature enters the battlefield. This includes abilities that would trigger when <Tocatli Honor Guard> itself enters the battlefield.
+2017/09/29: The trigger event doesn't have to specify "creatures" entering the battlefield. For example, Contraband Kingpin has an ability that says "Whenever an artifact enters the battlefield under your control, scry 1." If an artifact creature enters the battlefield under your control, that ability won't trigger. If a noncreature artifact enters the battlefield under your control, the ability will trigger.
+2017/09/29: Look at the permanent as it exists on the battlefield, taking into account continuous effects, to determine whether any triggered abilities will trigger. For example, if you control March of the Machines, which says, in part, "Each noncreature artifact is an artifact creature," each artifact will be a creature at the time it enters the battlefield and will not cause triggered abilities to trigger.
+2017/09/29: If <Tocatli Honor Guard> and another creature enter the battlefield at the same time, neither creature entering the battlefield will cause triggered abilities to trigger.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -268,6 +364,24 @@ When you attack with three or more creatures, transform Legion's Landing.</CardT
 <Modern>Legal</Modern>
 <Set>Ixalan Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>46p</No>
+<Name>Arcane Adaptation</Name>
+<Type>Enchantment</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>As Arcane Adaptation enters the battlefield, choose a creature type.
+Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.</CardText>
+<Artist>Mark Behm</Artist>
+<Rulings>2017/09/29: Replacement effects that modify creatures of a certain type as they enter the battlefield will apply after you apply <Arcane Adaptation>'s effect. This is a change from previous rules. If you control <Arcane Adaptation> and the Aether Revolt card Metallic Mimic, with the same creature type chosen for both, then any creature you control will enter the battlefield with an additional +1/+1 counter on it.
+2018/01/19: To choose a creature type, you must choose an existing creature type, such as Vampire or Knight. You can't choose multiple creature types, such as "Vampire Knight." Card types such as artifact can't be chosen, nor can subtypes that aren't creature types, such as Jace, Vehicle, or Treasure.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -327,6 +441,25 @@ When Dreamcaller Siren enters the battlefield, if you control another Pirate, ta
 
 <Card>
 <SetId>PXLN</SetId>
+<No>55p</No>
+<Name>Entrancing Melody</Name>
+<Type>Sorcery</Type>
+<ManaCost>XUU (2)</ManaCost>
+<CardText>Gain control of target creature with converted mana cost X.</CardText>
+<Flavor>The stronger the will, the more bewitching the song.</Flavor>
+<Artist>Winona Nelson</Artist>
+<Rulings>2017/09/29: If a permanent has {X} in its mana cost, X is considered to be 0.
+2017/09/29: The control-change effect of <Entrancing Melody> lasts indefinitely. It doesn't wear off during the cleanup step.
+2017/09/29: In a multiplayer game, if a player leaves the game, all cards that player owns leave as well, and any effects that give the player control of permanents immediately end.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>55s</No>
 <Name>Entrancing Melody</Name>
 <Type>Sorcery</Type>
@@ -364,6 +497,23 @@ When Dreamcaller Siren enters the battlefield, if you control another Pirate, ta
 
 <Card>
 <SetId>PXLN</SetId>
+<No>59p</No>
+<Name>Herald of Secret Streams</Name>
+<Type>Creature — Merfolk Warrior 2/3</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>Creatures you control with +1/+1 counters on them can't be blocked.</CardText>
+<Flavor>"You might as well try to stop the waterfall."</Flavor>
+<Artist>Sara Winters</Artist>
+<Rulings>2017/09/29: Once a creature you control has become blocked, putting a +1/+1 counter on it won't cause it to become unblocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>59s</No>
 <Name>Herald of Secret Streams</Name>
 <Type>Creature — Merfolk Warrior 2/3</Type>
@@ -385,9 +535,9 @@ When Dreamcaller Siren enters the battlefield, if you control another Pirate, ta
 <Name>Jace, Cunning Castaway</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
--2: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
--5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
+<CardText>[+1]: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
+[-2]: Create a 2/2 blue Illusion creature token with "When this creature becomes the target of a spell, sacrifice it."
+[-5]: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Rulings>2017/09/29: The delayed triggered ability created by Jace's first ability can trigger more than once in a turn if creatures you control deal combat damage at different times in a turn (most likely because one or more has first strike) or if creatures you control deal combat damage to more than one player at once.
 2017/09/29: If a token created by Jace's second ability becomes the target of a spell, its ability triggers and goes on the stack on top of that spell. The ability will resolve first (causing the token to be sacrificed). Unless the spell has another target, it will then be countered when it tries to resolve for having no legal targets.
@@ -399,6 +549,27 @@ When Dreamcaller Siren enters the battlefield, if you control another Pirate, ta
 <Modern>Legal</Modern>
 <Set>Ixalan Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>61p</No>
+<Name>Kopala, Warden of Waves</Name>
+<Type>Legendary Creature — Merfolk Wizard 2/2</Type>
+<ManaCost>1UU (3)</ManaCost>
+<CardText>Spells your opponents cast that target a Merfolk you control cost {2} more to cast.
+Abilities your opponents activate that target a Merfolk you control cost {2} more to activate.</CardText>
+<Flavor>"I know these waters better than you know yourselves."</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Rulings>2017/09/29: To determine the total cost of an opponent's spell that targets a Merfolk you control, start with the mana cost or alternative cost that player is paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
+2017/09/29: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]."
+2017/09/29: Kopala's abilities won't affect triggered abilities (starting with "when," "whenever," or "at") that target a Merfolk you control.
+2017/09/29: Spells and abilities that target more than one Merfolk you control cost only {2} more to cast or activate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -436,6 +607,24 @@ Abilities your opponents activate that target a Merfolk you control cost {2} mor
 <Modern>Legal</Modern>
 <Set>Ixalan Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>71p</No>
+<Name>River's Rebuke</Name>
+<Type>Sorcery</Type>
+<ManaCost>4UU (6)</ManaCost>
+<CardText>Return all nonland permanents target player controls to their owner's hand.</CardText>
+<Flavor>Carefully following the thaumatic compass Bolas had given her, Vraska blundered straight into the River Heralds' trap.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -500,11 +689,28 @@ Abilities your opponents activate that target a Merfolk you control cost {2} mor
 
 <Card>
 <SetId>PXLN</SetId>
+<No>82p</No>
+<Name>Spell Swindle</Name>
+<Type>Instant</Type>
+<ManaCost>3UU (5)</ManaCost>
+<CardText>Counter target spell. Create X Treasure tokens, where X is that spell's converted mana cost. (They're artifacts with "{T}, Sacrifice this artifact: Add one mana of any color.")</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Rulings>2017/09/29: For spells with {X} in their mana costs, use the value chosen for X to determine the spell's converted mana cost.
+2017/09/29: You may target a spell that can't be countered. When <Spell Swindle> resolves, the target spell will be unaffected, but you'll still get Treasures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>82s</No>
 <Name>Spell Swindle</Name>
 <Type>Instant</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Counter target spell. Create X colorless Treasure artifact tokens, where X is that spell's converted mana cost. They have "{T}, Sacrifice this artifact: Add one mana of any color."</CardText>
+<CardText>Counter target spell. Create X Treasure tokens, where X is that spell's converted mana cost. (They're artifacts with "{T}, Sacrifice this artifact: Add one mana of any color.")</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Rulings>2017/09/29: For spells with {X} in their mana costs, use the value chosen for X to determine the spell's converted mana cost.
 2017/09/29: You may target a spell that can't be countered. When <Spell Swindle> resolves, the target spell will be unaffected, but you'll still get Treasures.</Rulings>
@@ -602,6 +808,27 @@ Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each c
 
 <Card>
 <SetId>PXLN</SetId>
+<No>99p</No>
+<Name>Deadeye Tracker</Name>
+<Type>Creature — Human Pirate 1/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>{1}{B}, {T}: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</CardText>
+<Artist>Deruchenko Alexander</Artist>
+<Rulings>2017/09/29: You can't activate <Deadeye Tracker>'s ability without targeting two cards in a single opponent's graveyard.
+2017/09/29: If one target card is an illegal target by the time <Deadeye Tracker>'s ability resolves, the remaining legal target is exiled and <Deadeye Tracker> explores.
+2017/09/29: If each target card is an illegal target by the time <Deadeye Tracker>'s ability resolves, the entire ability doesn't resolve. <Deadeye Tracker> won't explore.
+2018/01/19: Once an ability that causes a creature to explore begins to resolve, no player may take any other actions until it's done. Notably, opponents can't try to remove the exploring creature after you reveal a nonland card but before it receives a counter.
+2018/01/19: If no card is revealed, most likely because that player's library is empty, the exploring creature receives a +1/+1 counter.
+2018/01/19: If a resolving spell or ability instructs a specific creature to explore but that creature has left the battlefield, the creature still explores. If you reveal a nonland card this way, you won't put a +1/+1 counter on anything, but you may put the revealed card into your graveyard. Effects that trigger "whenever a creature you control explores" trigger if appropriate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>99s</No>
 <Name>Deadeye Tracker</Name>
 <Type>Creature — Human Pirate 1/1</Type>
@@ -643,6 +870,25 @@ When Dire Fleet Ravager enters the battlefield, each player loses a third of the
 
 <Card>
 <SetId>PXLN</SetId>
+<No>106p</No>
+<Name>Fathom Fleet Captain</Name>
+<Type>Creature — Human Pirate 2/1</Type>
+<ManaCost>1B (2)</ManaCost>
+<CardText>Menace
+Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace.</CardText>
+<Flavor>"Join me, and take the world for yourself!"</Flavor>
+<Artist>Matt Stewart</Artist>
+<Rulings>2017/09/29: While resolving <Fathom Fleet Captain>'s triggered ability, you can't pay {2} multiple times to create more than one Pirate token.
+2017/09/29: If you don't control another nontoken Pirate at the moment <Fathom Fleet Captain> attacks, its triggered ability won't trigger. If you don't control another nontoken Pirate as that ability resolves, you can't pay {2}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>106s</No>
 <Name>Fathom Fleet Captain</Name>
 <Type>Creature — Human Pirate 2/1</Type>
@@ -662,17 +908,58 @@ Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, y
 
 <Card>
 <SetId>PXLN</SetId>
-<No>117s</No>
+<No>117p</No>
 <Name>Revel in Riches</Name>
 <Type>Enchantment</Type>
 <ManaCost>4B (5)</ManaCost>
-<CardText>Whenever a creature an opponent controls dies, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+<CardText>Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
 At the beginning of your upkeep, if you control ten or more Treasures, you win the game.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Rulings>2017/09/29: If you don't control ten Treasures as your upkeep begins, the second ability of <Revel in Riches> won't trigger. You can't take any actions during your turn before your upkeep begins.
 2017/09/29: If you don't control ten Treasures as the second ability of <Revel in Riches> resolves, you won't win the game.
 2017/09/29: If an opponent's creature dies at the same time that <Revel in Riches> is destroyed, you'll get a Treasure.
 2017/09/29: If the second ability of <Revel in Riches> causes you to win the game, please refrain from throwing your Treasure tokens into the air as this may distract or injure other players.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>117s</No>
+<Name>Revel in Riches</Name>
+<Type>Enchantment</Type>
+<ManaCost>4B (5)</ManaCost>
+<CardText>Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+At the beginning of your upkeep, if you control ten or more Treasures, you win the game.</CardText>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2017/09/29: If you don't control ten Treasures as your upkeep begins, the second ability of <Revel in Riches> won't trigger. You can't take any actions during your turn before your upkeep begins.
+2017/09/29: If you don't control ten Treasures as the second ability of <Revel in Riches> resolves, you won't win the game.
+2017/09/29: If an opponent's creature dies at the same time that <Revel in Riches> is destroyed, you'll get a Treasure.
+2017/09/29: If the second ability of <Revel in Riches> causes you to win the game, please refrain from throwing your Treasure tokens into the air as this may distract or injure other players.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>118p</No>
+<Name>Ruin Raider</Name>
+<Type>Creature — Orc Pirate 3/2</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Raid — At the beginning of your end step, if you attacked with a creature this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2017/09/29: If the mana cost of the revealed card includes {X}, X is considered to be 0.
+2017/09/29: If the revealed card doesn't have a mana cost (because it's a land card, for example), its converted mana cost is 0.
+2017/09/29: The converted mana cost of a split card, such as cards with aftermath from the Amonkhet block, is based on the combined mana cost of its two halves.
+2018/01/19: Raid abilities care only that you attacked with a creature. It doesn't matter how many creatures you attacked with, or which opponent or planeswalker controlled by an opponent those creatures attacked.
+2018/01/19: Raid abilities evaluate the entire turn to see if you attacked with a creature. That creature doesn't have to still be on the battlefield. Similarly, the player or planeswalker it attacked doesn't have to still be in the game or on the battlefield, respectively.
+2018/01/19: Some raid abilities trigger at the beginning of your end step. These abilities trigger if you attacked with a creature that turn, even if the card with that raid ability wasn't on the battlefield when you attacked.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -703,6 +990,23 @@ At the beginning of your upkeep, if you control ten or more Treasures, you win t
 
 <Card>
 <SetId>PXLN</SetId>
+<No>120p</No>
+<Name>Sanctum Seeker</Name>
+<Type>Creature — Vampire Knight 3/4</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.</CardText>
+<Flavor>The Sanctum Seekers were the first of the knightly orders to cross the sea and are still the most zealous.</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2017/09/29: In a Two-Headed Giant game, <Sanctum Seeker>'s ability causes the opposing team to lose 2 life and you to gain 1 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>120s</No>
 <Name>Sanctum Seeker</Name>
 <Type>Creature — Vampire Knight 3/4</Type>
@@ -711,6 +1015,24 @@ At the beginning of your upkeep, if you control ten or more Treasures, you win t
 <Flavor>The Sanctum Seekers were the first of the knightly orders to cross the sea and are still the most zealous.</Flavor>
 <Artist>Volkan Baǵa</Artist>
 <Rulings>2017/09/29: In a Two-Headed Giant game, <Sanctum Seeker>'s ability causes the opposing team to lose 2 life and you to gain 1 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>126p</No>
+<Name>Sword-Point Diplomacy</Name>
+<Type>Sorcery</Type>
+<ManaCost>2B (3)</ManaCost>
+<CardText>Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.</CardText>
+<Flavor>"Take my blood if you want. Just don't take my gold!"</Flavor>
+<Artist>Eric Deschamps</Artist>
+<Rulings>2017/09/29: You reveal all three cards before opponents choose whether to pay life for any of them.
+2017/09/29: In a multiplayer game, each opponent in turn order chooses whether to pay life for one card before proceeding to the next card. You choose the order to perform this process for the cards, but opponents may discuss them before making any choices. Opponents will then know choices made by earlier opponents when making their choices.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -729,6 +1051,25 @@ At the beginning of your upkeep, if you control ten or more Treasures, you win t
 <Artist>Eric Deschamps</Artist>
 <Rulings>2017/09/29: You reveal all three cards before opponents choose whether to pay life for any of them.
 2017/09/29: In a multiplayer game, each opponent in turn order chooses whether to pay life for one card before proceeding to the next card. You choose the order to perform this process for the cards, but opponents may discuss them before making any choices. Opponents will then know choices made by earlier opponents when making their choices.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>129p</No>
+<Name>Vraska's Contempt</Name>
+<Type>Instant</Type>
+<ManaCost>2BB (4)</ManaCost>
+<CardText>Exile target creature or planeswalker. You gain 2 life.</CardText>
+<Flavor>It wasn't long before the taverns of High and Dry were full of whispers about the new captain who could turn a person to stone with a glance.</Flavor>
+<Artist>Clint Cearley</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2017/09/29: If the target creature or planeswalker is an illegal target by the time <Vraska's Contempt> resolves, the entire spell doesn't resolve. You won't gain life.
+2018/01/19: There are many important moments in the story, but the most crucial—called "story spotlights"—are shown on cards. These cards have the Planeswalker symbol in their text box; this symbol has no effect on gameplay. You can read more about these events in the official Magic fiction at http://www.mtgstory.com.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -796,7 +1137,8 @@ At the beginning of your upkeep, if you control ten or more Treasures, you win t
 <Type>Creature — Dinosaur Avatar 6/6</Type>
 <ManaCost>3RRR (6)</ManaCost>
 <CardText>When Burning Sun's Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.</CardText>
-<Flavor>"Tilonalli's searing rays carry the spark of life's eventual destruction as all light fades." – Chitlati, Lightning Rider</Flavor>
+<Flavor>"Tilonalli's searing rays carry the spark of life's eventual destruction as all light fades."
+— Chitlati, Lightning Rider</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Rulings>2017/09/29: The ability of <Burning Sun's Avatar> can target any creature, not just one controlled by the target opponent.
 2017/09/29: If the ability of <Burning Sun's Avatar> has two targets and one becomes illegal, the other will still be dealt damage.</Rulings>
@@ -828,17 +1170,54 @@ At the beginning of your upkeep, if you control ten or more Treasures, you win t
 
 <Card>
 <SetId>PXLN</SetId>
-<No>136s</No>
+<No>136p</No>
 <Name>Captain Lannery Storm</Name>
 <Type>Legendary Creature — Human Pirate 2/2</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Haste
-Whenever Captain Lannery Storm attacks, create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
+Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
 Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.</CardText>
 <Artist>Chris Rallis</Artist>
 <Rulings>2017/09/29: You can activate the mana ability of a Treasure even if you have nothing to spend that mana on.
 2017/09/29: <Captain Lannery Storm>'s last ability triggers whenever you sacrifice a Treasure for any reason, not just to activate a Treasure's mana ability.
 2017/09/29: If you sacrifice Treasures to cast <Captain Lannery Storm>, its last ability won't trigger for those Treasures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>136s</No>
+<Name>Captain Lannery Storm</Name>
+<Type>Legendary Creature — Human Pirate 2/2</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Haste
+Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.</CardText>
+<Artist>Chris Rallis</Artist>
+<Rulings>2017/09/29: You can activate the mana ability of a Treasure even if you have nothing to spend that mana on.
+2017/09/29: <Captain Lannery Storm>'s last ability triggers whenever you sacrifice a Treasure for any reason, not just to activate a Treasure's mana ability.
+2017/09/29: If you sacrifice Treasures to cast <Captain Lannery Storm>, its last ability won't trigger for those Treasures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>137p</No>
+<Name>Captivating Crew</Name>
+<Type>Creature — Human Pirate 4/3</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.</CardText>
+<Flavor>"We sail. We plunder. Then we dance."</Flavor>
+<Artist>Winona Nelson</Artist>
+<Rulings>2017/09/29: You can target and gain control of an untapped creature this way.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -925,6 +1304,23 @@ When Rowdy Crew enters the battlefield, draw three cards, then discard two cards
 
 <Card>
 <SetId>PXLN</SetId>
+<No>161p</No>
+<Name>Star of Extinction</Name>
+<Type>Sorcery</Type>
+<ManaCost>5RR (7)</ManaCost>
+<CardText>Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.</CardText>
+<Flavor>"The visions haunt me. I see the end of the world, brought on by the search for the Immortal Sun."
+—Shaper Pashona</Flavor>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>161s</No>
 <Name>Star of Extinction</Name>
 <Type>Sorcery</Type>
@@ -938,6 +1334,29 @@ When Rowdy Crew enters the battlefield, draw three cards, then discard two cards
 <Modern>Legal</Modern>
 <Set>Ixalan Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>165p</No>
+<Name>Sunbird's Invocation</Name>
+<Type>Enchantment</Type>
+<ManaCost>5R (6)</ManaCost>
+<CardText>Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a card revealed this way with converted mana cost X or less without paying its mana cost. Put the rest on the bottom of your library in a random order.</CardText>
+<Artist>Christine Choi</Artist>
+<Rulings>2017/09/29: Casting <Sunbird's Invocation> won't cause its own ability to trigger.
+2017/09/29: The ability of <Sunbird's Invocation> resolves before the spell that caused it to trigger. It will resolve even if that spell is countered. If you cast a spell as part of the resolution of the ability, that spell resolves before the spell that caused the ability to trigger.
+2017/09/29: For spells with {X} in their mana costs, use the value chosen for X to determine the spell's converted mana cost.
+2017/09/29: If the spell's converted mana cost is 0, you do nothing as the ability of <Sunbird's Invocation> resolves.
+2017/09/29: If a revealed card in your library has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost.
+2017/09/29: If you cast one of the revealed cards, you do so as part of the resolution of the triggered ability. You can't wait to cast it later in the turn. Timing permissions based on the card's type are ignored, but other restrictions (such as "Cast [this card] only during combat") are not.
+2017/09/29: If you cast a card "without paying its mana cost," you can't pay any alternative costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Costly Plunder, those must be paid to cast the card.
+2017/09/29: The converted mana cost of a split card, such as cards with aftermath from the Amonkhet block, is based on the combined mana cost of its two halves. The converted mana cost of the resulting spell is based only on the half you cast.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -1038,6 +1457,23 @@ Whenever you cast your third spell in a turn, you may transform Vance's Blasting
 
 <Card>
 <SetId>PXLN</SetId>
+<No>179p</No>
+<Name>Carnage Tyrant</Name>
+<Type>Creature — Dinosaur 7/6</Type>
+<ManaCost>4GG (6)</ManaCost>
+<CardText>This spell can't be countered.
+Trample, hexproof</CardText>
+<Flavor>Sun Empire commanders are well versed in advanced martial strategy. Still, the correct maneuver is usually to deploy the giant, implacable death lizard.</Flavor>
+<Artist>Yeong-Hao Han</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>179s</No>
 <Name>Carnage Tyrant</Name>
 <Type>Creature — Dinosaur 7/6</Type>
@@ -1051,6 +1487,22 @@ Trample, hexproof</CardText>
 <Modern>Legal</Modern>
 <Set>Ixalan Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>184p</No>
+<Name>Deathgorge Scavenger</Name>
+<Type>Creature — Dinosaur 3/2</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.</CardText>
+<Artist>Tyler Jacobson</Artist>
+<Rulings>2017/09/29: There's no way to get both bonuses at once while <Deathgorge Scavenger>'s ability is resolving. If an artifact creature card is exiled this way, it's a creature card and not a noncreature card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -1077,6 +1529,23 @@ Trample, hexproof</CardText>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.</CardText>
 <Artist>Alex Konstad</Artist>
+<Rulings>2017/09/29: <Deeproot Champion>'s ability resolves before the spell that caused it to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>185p</No>
+<Name>Deeproot Champion</Name>
+<Type>Creature — Merfolk Shaman 1/1</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.</CardText>
+<Flavor>"No good will come from what you seek. Turn back now or suffer an ignoble death far from your home."</Flavor>
+<Artist>Raymond Swanland</Artist>
 <Rulings>2017/09/29: <Deeproot Champion>'s ability resolves before the spell that caused it to trigger.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1181,6 +1650,24 @@ At the beginning of your end step, if you control four or more creatures, transf
 
 <Card>
 <SetId>PXLN</SetId>
+<No>203p</No>
+<Name>Ripjaw Raptor</Name>
+<Type>Creature — Dinosaur 4/5</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card.</CardText>
+<Flavor>Raptors are clever enough to tear away a hard metal shell to get at the tasty morsel inside.</Flavor>
+<Artist>Ryan Pancoast</Artist>
+<Rulings>2018/01/19: If multiple sources deal damage to a creature with an enrage ability at the same time, most likely because multiple creatures blocked that creature, the enrage ability triggers only once.
+2018/01/19: If lethal damage is dealt to a creature with an enrage ability, that ability triggers. The creature with that enrage ability leaves the battlefield before that ability resolves, so it won't be affected by the resolving ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>203s</No>
 <Name>Ripjaw Raptor</Name>
 <Type>Creature — Dinosaur 4/5</Type>
@@ -1199,6 +1686,24 @@ At the beginning of your end step, if you control four or more creatures, transf
 
 <Card>
 <SetId>PXLN</SetId>
+<No>206p</No>
+<Name>Shapers' Sanctuary</Name>
+<Type>Enchantment</Type>
+<ManaCost>G (1)</ManaCost>
+<CardText>Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.</CardText>
+<Flavor>Protection is woven into every vine and branch.</Flavor>
+<Artist>Zezhou Chen</Artist>
+<Rulings>2017/09/29: The triggered ability of <Shapers' Sanctuary> resolves before the spell or ability that caused it to trigger.
+2017/09/29: Players can cast spells and activate abilities after the triggered ability of <Shapers' Sanctuary> resolves but before the spell or ability that caused it to trigger does. Notably, the card you draw may be able to counter that spell or ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>206s</No>
 <Name>Shapers' Sanctuary</Name>
 <Type>Enchantment</Type>
@@ -1208,6 +1713,24 @@ At the beginning of your end step, if you control four or more creatures, transf
 <Artist>Zezhou Chen</Artist>
 <Rulings>2017/09/29: The triggered ability of <Shapers' Sanctuary> resolves before the spell or ability that caused it to trigger.
 2017/09/29: Players can cast spells and activate abilities after the triggered ability of <Shapers' Sanctuary> resolves but before the spell or ability that caused it to trigger does. Notably, the card you draw may be able to counter that spell or ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>213p</No>
+<Name>Verdant Sun's Avatar</Name>
+<Type>Creature — Dinosaur Avatar 5/5</Type>
+<ManaCost>5GG (7)</ManaCost>
+<CardText>Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness.</CardText>
+<Flavor>"Ixalli's fertile rays enliven us all. Each of us is a testament to the sun's strength and love."
+—Chitlati, Lightning Rider</Flavor>
+<Artist>Izzy</Artist>
+<Rulings>2017/09/29: The entering creature's toughness is determined as the ability of <Verdant Sun's Avatar> resolves. If that creature has left the battlefield, use its toughness as it last existed on the battlefield. If the creature's toughness was less than 0, your life total won't change.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1299,8 +1822,7 @@ Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many
 <ManaCost>2UB (4)</ManaCost>
 <CardText>When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</CardText>
 <Artist>Wayne Reynolds</Artist>
-<Rulings>2017/08/28: This card has recieved prerelease eratta to avoid an infinite loop. For more info see: https://twitter.com/EliShffrn/status/902187390063714306
-2017/09/29: <Hostage Taker> has received errata to prevent it from targeting itself. The correct Oracle wording appears above.
+<Rulings>2017/09/29: <Hostage Taker> has received errata to prevent it from targeting itself. The correct Oracle wording appears above.
 2017/09/29: If <Hostage Taker> leaves the battlefield before its triggered ability resolves, the target permanent won't be exiled.
 2017/09/29: Auras attached to the exiled permanent will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on the exiled permanent will cease to exist.
 2017/09/29: If a token is exiled this way, it will cease to exist and won't return to the battlefield. You can't cast it.
@@ -1321,8 +1843,8 @@ Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many
 <Name>Huatli, Warrior Poet</Name>
 <Type>Legendary Planeswalker — Huatli (Loyalty: 3)</Type>
 <ManaCost>3RW (5)</ManaCost>
-<CardText>+2: You gain life equal to the greatest power among creatures you control.
-0: Create a 3/3 green Dinosaur creature token with trample.
+<CardText>[+2]: You gain life equal to the greatest power among creatures you control.
+[0]: Create a 3/3 green Dinosaur creature token with trample.
 -X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Rulings>2017/09/29: The greatest power among creatures you control is determined as Huatli's first ability resolves. If that number is negative, you won't gain or lose any life.
@@ -1334,6 +1856,24 @@ Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many
 <Modern>Legal</Modern>
 <Set>Ixalan Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>227p</No>
+<Name>Regisaur Alpha</Name>
+<Type>Creature — Dinosaur 4/4</Type>
+<ManaCost>3RG (5)</ManaCost>
+<CardText>Other Dinosaurs you control have haste.
+When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample.</CardText>
+<Flavor>"Seeing a pack of these monsters hunt together, I'm at a loss to imagine the size of their prey."
+—Adrian Adanto of Lujio</Flavor>
+<Artist>Jonathan Kuo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -1394,13 +1934,32 @@ When Tishana enters the battlefield, draw a card for each creature you control.<
 
 <Card>
 <SetId>PXLN</SetId>
+<No>232p</No>
+<Name>Vraska, Relic Seeker</Name>
+<Type>Legendary Planeswalker — Vraska (Loyalty: 6)</Type>
+<ManaCost>4BG (6)</ManaCost>
+<CardText>[+2]: Create a 2/2 black Pirate creature token with menace.
+[-3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+[-10]: Target player's life total becomes 1.</CardText>
+<Artist>Chris Rahn</Artist>
+<Rulings>2017/09/29: If the target artifact, creature, or enchantment is an illegal target by the time Vraska's second ability resolves, the entire ability doesn't resolve. You won't get a Treasure. If, on the other hand, the target is a legal target but isn't destroyed (most likely because it has indestructible), you will get a Treasure.
+2017/09/29: For a player's life total to become 1, what actually happens is that the player loses the appropriate amount of life (or in some rare cases, gains the appropriate amount of life). For example, if the targeted player's life total is 4 when this ability resolves, that player loses 3 life. Other cards that interact with life loss will interact with this effect accordingly.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>232s</No>
 <Name>Vraska, Relic Seeker</Name>
 <Type>Legendary Planeswalker — Vraska (Loyalty: 6)</Type>
 <ManaCost>4BG (6)</ManaCost>
-<CardText>+2: Create a 2/2 black Pirate creature token with menace.
--3: Destroy target artifact, creature, or enchantment. Create a colorless Treasure artifact token with "{T}, Sacrifice this artifact: Add one mana of any color."
--10: Target player's life total becomes 1.</CardText>
+<CardText>[+2]: Create a 2/2 black Pirate creature token with menace.
+[-3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+[-10]: Target player's life total becomes 1.</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2017/09/29: If the target artifact, creature, or enchantment is an illegal target by the time Vraska's second ability resolves, the entire ability doesn't resolve. You won't get a Treasure. If, on the other hand, the target is a legal target but isn't destroyed (most likely because it has indestructible), you will get a Treasure.
 2017/09/29: For a player's life total to become 1, what actually happens is that the player loses the appropriate amount of life (or in some rare cases, gains the appropriate amount of life). For example, if the targeted player's life total is 4 when this ability resolves, that player loses 3 life. Other cards that interact with life loss will interact with this effect accordingly.</Rulings>
@@ -1641,6 +2200,27 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 
 <Card>
 <SetId>PXLN</SetId>
+<No>248p</No>
+<Name>Sorcerous Spyglass</Name>
+<Type>Artifact</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.</CardText>
+<Artist>Kieran Yanner</Artist>
+<Rulings>2017/09/29: You can choose any card name, even if that card doesn't normally have an activated ability. You're not limited to the names of cards you saw in the opponent's hand.
+2017/09/29: You can't choose the name of a token unless that token has the same name as a card.
+2017/09/29: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities (such as equip and crew) are activated abilities and will have colons in their reminder text. Triggered abilities (starting with "when," "whenever," or "at") are unaffected by the last ability of <Sorcerous Spyglass>.
+2017/09/29: An activated mana ability is one that produces mana as it resolves, not one that costs mana to activate.
+2017/09/29: <Sorcerous Spyglass> affects cards regardless of what zone they're in. This includes cards in hand, cards in the graveyard, and exiled cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>248s</No>
 <Name>Sorcerous Spyglass</Name>
 <Type>Artifact</Type>
@@ -1733,7 +2313,7 @@ At the beginning of your end step, if you control seven or more lands, transform
 <Name>Treasure Map</Name>
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
-<CardText>{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three colorless Treasure artifact tokens with "{T}, Sacrifice this artifact: Add one mana of any color."</CardText>
+<CardText>{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with "{T}, Sacrifice this artifact: Add one mana of any color.")</CardText>
 <Artist>Cliff Childs</Artist>
 <Rulings>2017/09/29: If a third landmark counter is put on <Treasure Map> by something other than the resolution of its first ability (as modified by any applicable replacement effects), you won't remove those counters, transform <Treasure Map>, or get Treasures yet. You'll have to wait until you activate its first ability again.
 2017/09/29: If <Treasure Map> leaves the battlefield before its ability resolves, you can't put a landmark counter on it. However, if it somehow already had three landmark counters on it before it left the battlefield, you'll get three Treasures.
@@ -1744,6 +2324,26 @@ At the beginning of your end step, if you control seven or more lands, transform
 <Set>Ixalan Promos</Set>
 <Rarity>Rare</Rarity>
 <OtherPart>Treasure Cove</OtherPart>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>251p</No>
+<Name>Vanquisher's Banner</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>As Vanquisher's Banner enters the battlefield, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
+<Artist>Milivoj Ćeran</Artist>
+<Rulings>2017/09/29: The choice of creature type is made as <Vanquisher's Banner> enters the battlefield. Players can't respond to this choice. The bonus starts applying immediately.
+2017/09/29: The last ability of <Vanquisher's Banner> resolves before the spell that caused it to trigger. The ability will resolve even if the creature spell is countered.
+2018/01/19: To choose a creature type, you must choose an existing creature type, such as Vampire or Knight. You can't choose multiple creature types, such as "Vampire Knight." Card types such as artifact can't be chosen, nor can subtypes that aren't creature types, such as Jace, Vehicle, or Treasure.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -1768,6 +2368,24 @@ Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
 
 <Card>
 <SetId>PXLN</SetId>
+<No>252p</No>
+<Name>Dragonskull Summit</Name>
+<Type>Land</Type>
+<CardText>Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R}.</CardText>
+<Flavor>When the Planeswalker Angrath called dinosaurs "dragons," the name stuck in certain pirate circles.</Flavor>
+<Artist>Alayna Danner</Artist>
+<Rulings>2009/10/01: This checks for lands you control with the land type Swamp or Mountain, not for lands named Swamp or Mountain. The lands it checks for don't have to be basic lands. For example, if you control Stomping Ground (a nonbasic land with the land types Mountain and Forest), <Dragonskull Summit> will enter the battlefield untapped.
+2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>252s</No>
 <Name>Dragonskull Summit</Name>
 <Type>Land</Type>
@@ -1776,6 +2394,24 @@ Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
 <Flavor>When the Planeswalker Angrath called dinosaurs "dragons," the name stuck in certain pirate circles.</Flavor>
 <Artist>Alayna Danner</Artist>
 <Rulings>2009/10/01: This checks for lands you control with the land type Swamp or Mountain, not for lands named Swamp or Mountain. The lands it checks for don't have to be basic lands. For example, if you control Stomping Ground (a nonbasic land with the land types Mountain and Forest), <Dragonskull Summit> will enter the battlefield untapped.
+2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>253p</No>
+<Name>Drowned Catacomb</Name>
+<Type>Land</Type>
+<CardText>Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B}.</CardText>
+<Flavor>None can tell how many vessels are tangled up on the sea floor—or how much treasure remains unclaimed.</Flavor>
+<Artist>Jung Park</Artist>
+<Rulings>2009/10/01: This checks for lands you control with the land type Island or Swamp, not for lands named Island or Swamp. The lands it checks for don't have to be basic lands. For example, if you control Blood Crypt (a nonbasic land with the land types Swamp and Mountain), <Drowned Catacomb> will enter the battlefield untapped.
 2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1804,6 +2440,24 @@ Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
 
 <Card>
 <SetId>PXLN</SetId>
+<No>255p</No>
+<Name>Glacial Fortress</Name>
+<Type>Land</Type>
+<CardText>Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U}.</CardText>
+<Flavor>Ships blown north in their voyage across the Stormwreck Sea become trapped in the unmelting ice.</Flavor>
+<Artist>James Paick</Artist>
+<Rulings>2009/10/01: This checks for lands you control with the land type Plains or Island, not for lands named Plains or Island. The lands it checks for don't have to be basic lands. For example, if you control Watery Grave (a nonbasic land with the land types Island and Swamp), <Glacial Fortress> will enter the battlefield untapped.
+2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>255s</No>
 <Name>Glacial Fortress</Name>
 <Type>Land</Type>
@@ -1822,6 +2476,24 @@ Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
 
 <Card>
 <SetId>PXLN</SetId>
+<No>256p</No>
+<Name>Rootbound Crag</Name>
+<Type>Land</Type>
+<CardText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G}.</CardText>
+<Flavor>Cliffs echo and branches quake at the roar of life.</Flavor>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2009/10/01: This checks for lands you control with the land type Mountain or Forest, not for lands named Mountain or Forest. The lands it checks for don't have to be basic lands. For example, if you control Temple Garden (a nonbasic land with the land types Forest and Plains), <Rootbound Crag> will enter the battlefield untapped.
+2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
 <No>256s</No>
 <Name>Rootbound Crag</Name>
 <Type>Land</Type>
@@ -1830,6 +2502,24 @@ Whenever you cast a creature spell of the chosen type, draw a card.</CardText>
 <Flavor>Cliffs echo and branches quake at the roar of life.</Flavor>
 <Artist>Grzegorz Rutkowski</Artist>
 <Rulings>2009/10/01: This checks for lands you control with the land type Mountain or Forest, not for lands named Mountain or Forest. The lands it checks for don't have to be basic lands. For example, if you control Temple Garden (a nonbasic land with the land types Forest and Plains), <Rootbound Crag> will enter the battlefield untapped.
+2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ixalan Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PXLN</SetId>
+<No>257p</No>
+<Name>Sunpetal Grove</Name>
+<Type>Land</Type>
+<CardText>Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W}.</CardText>
+<Flavor>To the Sun Empire, any place where daylight brightens the jungle floor is sacred ground.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Rulings>2009/10/01: This checks for lands you control with the land type Forest or Plains, not for lands named Forest or Plains. The lands it checks for don't have to be basic lands. For example, if you control Hallowed Fountain (a nonbasic land with the land types Plains and Island), <Sunpetal Grove> will enter the battlefield untapped.
 2009/10/01: As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example).</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>

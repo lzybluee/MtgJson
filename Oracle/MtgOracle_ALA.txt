@@ -174,9 +174,9 @@ Whenever a creature you control attacks alone, it gains lifelink until end of tu
 <Name>Elspeth, Knight-Errant</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: Create a 1/1 white Soldier creature token.
-+1: Target creature gets +3/+3 and gains flying until end of turn.
--8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
+<CardText>[+1]: Create a 1/1 white Soldier creature token.
+[+1]: Target creature gets +3/+3 and gains flying until end of turn.
+[-8]: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
 <Artist>Volkan Baǵa</Artist>
 <Multiverseid>174859</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
@@ -1194,9 +1194,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
 <Name>Tezzeret the Seeker</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 4)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>+1: Untap up to two target artifacts.
+<CardText>[+1]: Untap up to two target artifacts.
 -X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
--5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
+[-5]: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
 <Artist>Anthony Francisco</Artist>
 <Multiverseid>174912</Multiverseid>
 <Rulings>2008/10/01: The first ability can target zero, one, or two artifacts. You may activate it with no targets just to put a loyalty counter on Tezzeret.
@@ -1335,9 +1335,8 @@ Destroy target creature.</CardText>
 <Flavor>Witches of the Split-Eye Coven speak of a future when Grixis will overflow with life energy. For now, they must harvest vis from the living to fuel their dark magics.</Flavor>
 <Artist>Cole Eastburn</Artist>
 <Multiverseid>174967</Multiverseid>
-<Rulings>2017/03/14: You must sacrifice exactly one creature to cast this spell; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures.
-2017/03/14: Once you begin to cast <Bone Splinters>, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.
-2017/03/14: You can cast <Bone Splinters> targeting the creature you intend to sacrifice for its cost. This is because targets are chosen before costs are paid. <Bone Splinters> won't resolve as it tries to resolve in this case.</Rulings>
+<Rulings>2019/07/12: You must sacrifice exactly one creature to cast this spell; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures.
+2019/07/12: Once you begin to cast <Bone Splinters>, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3011,9 +3010,9 @@ Target creature gets -0/-3 until end of turn.</CardText>
 <Name>Ajani Vengeant</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 3)</Type>
 <ManaCost>2RW (4)</ManaCost>
-<CardText>+1: Target permanent doesn't untap during its controller's next untap step.
--2: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
--7: Destroy all lands target player controls.</CardText>
+<CardText>[+1]: Target permanent doesn't untap during its controller's next untap step.
+[-2]: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
+[-7]: Destroy all lands target player controls.</CardText>
 <Artist>Wayne Reynolds</Artist>
 <Multiverseid>174852</Multiverseid>
 <Rulings>2008/10/01: You may target any permanent with <Ajani Vengeant>'s first ability. It doesn't have to be tapped.
@@ -3743,9 +3742,9 @@ When Realm Razer leaves the battlefield, return the exiled cards to the battlefi
 <Name>Sarkhan Vol</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 4)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>+1: Creatures you control get +1/+1 and gain haste until end of turn.
--2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
--6: Create five 4/4 red Dragon creature tokens with flying.</CardText>
+<CardText>[+1]: Creatures you control get +1/+1 and gain haste until end of turn.
+[-2]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-6]: Create five 4/4 red Dragon creature tokens with flying.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>174983</Multiverseid>
 <Rulings>2008/10/01: You may activate the first ability even if you control no creatures. <Sarkhan Vol> gains a loyalty counter, but the ability will have no effect.

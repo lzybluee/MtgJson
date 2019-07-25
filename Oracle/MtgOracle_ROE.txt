@@ -448,9 +448,9 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 <Name>Gideon Jura</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 6)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
--2: Destroy target tapped creature.
-0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<CardText>[+2]: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
+[-2]: Destroy target tapped creature.
+[0]: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>192218</Multiverseid>
 <Rulings>2010/06/15: <Gideon Jura>'s first ability causes creatures to attack him if able. If, during the affected player's declare attackers step, a creature they control is tapped, is affected by a spell or ability that says it can't attack, or is affected by "summoning sickness," then that creature doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so the creature doesn't have to attack in that case either.
@@ -3627,7 +3627,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 <Type>Legendary Creature — Goblin 1/1</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Haste
-When Tuktuk the Explorer dies, create a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned.</CardText>
+When Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 colorless Goblin Golem artifact creature token.</CardText>
 <Flavor>Remade by Eldrazi magic, Tuktuk inspired an entire clan of misguided goblins.</Flavor>
 <Artist>Volkan Baǵa</Artist>
 <Multiverseid>194940</Multiverseid>
@@ -4204,8 +4204,8 @@ You gain life equal to the revealed card's converted mana cost.</CardText>
 <Flavor>The Joraga elves never need ask a troll to leave their territory. They merely grant it their combined strength, and it can't resist embarking on a merry rampage.</Flavor>
 <Artist>Johann Bodin</Artist>
 <Multiverseid>193547</Multiverseid>
-<Rulings>2018/10/05: The bonus is determined as <Might of the Masses> resolves. It won't change if the number of creatures you control changes later in the turn.
-2018/10/05: If you target a creature you control with <Might of the Masses>, remember to count that creature when determining the amount of the bonus.</Rulings>
+<Rulings>2019/07/12: The size of the bonus is determined as <Might of the Masses> resolves; it won't change if the number of creatures you control changes later in the turn.
+2019/07/12: If you target a creature you control with <Might of the Masses>, remember to count that creature when determining the amount of the bonus.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4578,9 +4578,9 @@ Whenever you cast a spell, if it's the second creature spell you cast this turn,
 <Name>Sarkhan the Mad</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 7)</Type>
 <ManaCost>3BR (5)</ManaCost>
-<CardText>0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.
--2: Target creature's controller sacrifices it, then that player creates a 5/5 red Dragon creature token with flying.
--4: Each Dragon creature you control deals damage equal to its power to target player or planeswalker.</CardText>
+<CardText>[0]: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.
+[-2]: Target creature's controller sacrifices it, then that player creates a 5/5 red Dragon creature token with flying.
+[-4]: Each Dragon creature you control deals damage equal to its power to target player or planeswalker.</CardText>
 <Artist>Chippy</Artist>
 <Multiverseid>193659</Multiverseid>
 <Rulings>2010/06/15: Unlike previous planeswalkers, <Sarkhan the Mad> has no way to raise his loyalty.

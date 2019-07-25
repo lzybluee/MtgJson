@@ -4,9 +4,9 @@
 <Name>Karn Liberated</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 6)</Type>
 <ManaCost>7 (7)</ManaCost>
-<CardText>+4: Target player exiles a card from their hand.
--3: Exile target permanent.
--14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
+<CardText>[+4]: Target player exiles a card from their hand.
+[-3]: Exile target permanent.
+[-14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>214350</Multiverseid>
 <Rulings>2018/12/07: A game that restarts immediately ends the preceding game. The players in that game then immediately begin a new game. No player wins, loses, or draws the original game as a result of Karn's ability.
@@ -331,12 +331,12 @@ Marrow Shards deals 1 damage to each attacking creature.</CardText>
 <Type>Creature — Human Artificer 1/1</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
-Golem creatures you control get +1/+1.</CardText>
+Golems you control get +1/+1.</CardText>
 <Flavor>With Phyrexia's victory at hand, each sect began perfecting its vision.</Flavor>
 <Artist>Chippy</Artist>
 <Watermark>Phyrexian</Watermark>
 <Multiverseid>233062</Multiverseid>
-<Rulings>2017/03/14: If a creature has been dealt damage, that damage remains marked on it until the cleanup step. If <Master Splicer> leaves the battlefield and a Golem creature you control has been dealt damage, that creature will be destroyed if the damage is now lethal. Similarly, if that causes a Golem to have 0 toughness, it's put into its owner's graveyard.</Rulings>
+<Rulings>2019/07/12: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to Golems you control may become lethal if <Master Splicer> leaves the battlefield during that turn.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

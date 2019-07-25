@@ -98,8 +98,8 @@ At the beginning of your upkeep, if you have 5 or less life, you may transform A
 <Name>Arlinn Kord</Name>
 <Type>Legendary Planeswalker — Arlinn (Loyalty: 3)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.
-0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.</CardText>
+<CardText>[+1]: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.
+[0]: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.</CardText>
 <Artist>Winona Nelson</Artist>
 <Multiverseid>439318</Multiverseid>
 <Rulings>2016/04/08: When the ability that transforms <Arlinn Kord> into Arlinn, Embraced by the Moon (or vice versa) resolves, the number of loyalty counters on her doesn't change.
@@ -125,9 +125,9 @@ At the beginning of your upkeep, if you have 5 or less life, you may transform A
 <Name>Arlinn, Embraced by the Moon</Name>
 <Type>Legendary Planeswalker — Arlinn</Type>
 <ColorIndicator>Red Green</ColorIndicator>
-<CardText>+1: Creatures you control get +1/+1 and gain trample until end of turn.
--1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform Arlinn, Embraced by the Moon.
--6: You get an emblem with "Creatures you control have haste and '{T}: This creature deals damage equal to its power to any target.'"</CardText>
+<CardText>[+1]: Creatures you control get +1/+1 and gain trample until end of turn.
+[-1]: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform Arlinn, Embraced by the Moon.
+[-6]: You get an emblem with "Creatures you control have haste and '{T}: This creature deals damage equal to its power to any target.'"</CardText>
 <Artist>Winona Nelson</Artist>
 <Multiverseid>439319</Multiverseid>
 <Rulings>2016/04/08: When the ability that transforms Arlinn Kord into <Arlinn, Embraced by the Moon> (or vice versa) resolves, the number of loyalty counters on her doesn't change.
@@ -275,9 +275,9 @@ Your opponents can't cast spells with converted mana cost 3 or less.</CardText>
 <Name>Chandra, Roaring Flame</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ColorIndicator>Red</ColorIndicator>
-<CardText>+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
--2: Chandra, Roaring Flame deals 2 damage to target creature.
--7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
+<CardText>[+1]: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.
+[-2]: Chandra, Roaring Flame deals 2 damage to target creature.
+[-7]: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>439325</Multiverseid>
 <Rulings>2015/06/22: The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face.
@@ -400,8 +400,8 @@ Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbou
 <Type>Legendary Planeswalker — Garruk (Loyalty: 3)</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>When Garruk Relentless has two or fewer loyalty counters on him, transform him.
-0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.
-0: Create a 2/2 green Wolf creature token.</CardText>
+[0]: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.
+[0]: Create a 2/2 green Wolf creature token.</CardText>
 <Artist>Grzegorz Rutkowski</Artist>
 <Multiverseid>439330</Multiverseid>
 <Rulings>2011/09/22: You don't add or remove loyalty counters from <Garruk Relentless> when he transforms into Garruk, the Veil-Cursed. In most cases, he'll have one or two loyalty counters on him.
@@ -425,9 +425,9 @@ Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbou
 <Name>Garruk, the Veil-Cursed</Name>
 <Type>Legendary Planeswalker — Garruk</Type>
 <ColorIndicator>Black Green</ColorIndicator>
-<CardText>+1: Create a 1/1 black Wolf creature token with deathtouch.
--1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
--3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</CardText>
+<CardText>[+1]: Create a 1/1 black Wolf creature token with deathtouch.
+[-1]: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+[-3]: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</CardText>
 <Artist>Grzegorz Rutkowski</Artist>
 <Multiverseid>439331</Multiverseid>
 <Rulings>2011/09/22: You don't add or remove loyalty counters from Garruk Relentless when he transforms into <Garruk, the Veil-Cursed>. In most cases, he'll have one or two loyalty counters on him.
@@ -548,9 +548,9 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
 <Name>Jace, Telepath Unbound</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 5)</Type>
 <ColorIndicator>Blue</ColorIndicator>
-<CardText>+1: Up to one target creature gets -2/-0 until your next turn.
--3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
--9: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
+<CardText>[+1]: Up to one target creature gets -2/-0 until your next turn.
+[-3]: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
+[-9]: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."</CardText>
 <Artist>Jaime Jones</Artist>
 <Multiverseid>439336</Multiverseid>
 <Rulings>2015/06/22: A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up.
@@ -621,9 +621,9 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
 <Name>Gideon, Battle-Forged</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 3)</Type>
 <ColorIndicator>White</ColorIndicator>
-<CardText>+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
-+1: Until your next turn, target creature gains indestructible. Untap that creature.
-0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
+<CardText>[+2]: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
+[+1]: Until your next turn, target creature gains indestructible. Untap that creature.
+[0]: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</CardText>
 <Artist>Willian Murai</Artist>
 <Multiverseid>439338</Multiverseid>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
@@ -690,9 +690,9 @@ Whenever another nontoken creature you control dies, exile Liliana, Heretical He
 <Name>Liliana, Defiant Necromancer</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ColorIndicator>Black</ColorIndicator>
-<CardText>+2: Each player discards a card.
+<CardText>[+2]: Each player discards a card.
 -X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.
--8: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
+[-8]: You get an emblem with "Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."</CardText>
 <Artist>Karla Ortiz</Artist>
 <Multiverseid>439340</Multiverseid>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.
@@ -754,9 +754,9 @@ Whenever a land enters the battlefield under your control, if you control seven 
 <Name>Nissa, Sage Animist</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 3)</Type>
 <ColorIndicator>Green</ColorIndicator>
-<CardText>+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
--2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.
--7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
+<CardText>[+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+[-2]: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.
+[-7]: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</CardText>
 <Artist>Wesley Burt</Artist>
 <Multiverseid>439342</Multiverseid>
 <Rulings>2015/06/22: The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast.

@@ -4,9 +4,9 @@
 <Name>Ajani, Adversary of Tyrants</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: Put a +1/+1 counter on each of up to two target creatures.
--2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
--7: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."</CardText>
+<CardText>[+1]: Put a +1/+1 counter on each of up to two target creatures.
+[-2]: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+[-7]: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Rulings>2018/07/13: If a card in your graveyard has {X} in its mana cost, X is considered to be 0.</Rulings>
 <Vintage>Legal</Vintage>
@@ -28,6 +28,24 @@ When a spell or ability an opponent controls causes you to discard this card, if
 <Rulings>2018/07/13: If multiple creatures and/or planeswalkers you control die at the same time, the first ability of <Ajani's Last Stand> triggers that many times. However, you can sacrifice it only once, so you'll get only one token.
 2018/07/13: In a Magic game, cards are discarded only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded.
 2018/07/13: If a spell or ability an opponent controls causes you to make a choice and you choose to discard <Ajani's Last Stand>, its last ability will trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>9p</No>
+<Name>Cleansing Nova</Name>
+<Type>Sorcery</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Choose one —
+• Destroy all creatures.
+• Destroy all artifacts and enchantments.</CardText>
+<Flavor>In their final moments, the demons gazed upon grace in its purest form.</Flavor>
+<Artist>Noah Bradley</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -92,6 +110,24 @@ Sacrifice Lena: Creatures you control with power less than Lena's power gain ind
 
 <Card>
 <SetId>PM19</SetId>
+<No>23p</No>
+<Name>Leonin Warleader</Name>
+<Type>Creature — Cat Soldier 4/4</Type>
+<ManaCost>2WW (4)</ManaCost>
+<CardText>Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.</CardText>
+<Flavor>When one leonin hunts, many more are surely nearby.</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Rulings>2018/07/13: You choose which players or planeswalkers the two tokens are attacking. They don't have to be attacking the same player or planeswalker that <Leonin Warleader> is attacking, and they can each be attacking different players and/or planeswalkers.
+2018/07/13: Although the tokens are attacking, they were never declared as attacking creatures (for the purposes of abilities that trigger whenever a creature attacks, for example).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>23s</No>
 <Name>Leonin Warleader</Name>
 <Type>Creature — Cat Soldier 4/4</Type>
@@ -146,6 +182,23 @@ When Militia Bugler enters the battlefield, look at the top four cards of your l
 
 <Card>
 <SetId>PM19</SetId>
+<No>33p</No>
+<Name>Remorseful Cleric</Name>
+<Type>Creature — Spirit Cleric 2/1</Type>
+<ManaCost>1W (2)</ManaCost>
+<CardText>Flying
+Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard.</CardText>
+<Flavor>A lifetime of keeping up appearances is not enough to earn an eternity of rest.</Flavor>
+<Artist>Grzegorz Rutkowski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>33s</No>
 <Name>Remorseful Cleric</Name>
 <Type>Creature — Spirit Cleric 2/1</Type>
@@ -159,6 +212,28 @@ Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard.</Ca
 <Modern>Legal</Modern>
 <Set>Core Set 2019 Promos</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>34p</No>
+<Name>Resplendent Angel</Name>
+<Type>Creature — Angel 3/3</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Rulings>2018/07/13: <Resplendent Angel>'s triggered ability checks if you gained 5 or more life total during the turn. It doesn't matter if you also lost life or whether your life total is greater than it was at the beginning of the turn. It also doesn't matter whether <Resplendent Angel> was on the battlefield when any of the life gain happened.
+2018/07/13: You don't need to have gained 5 life all at once to satisfy <Resplendent Angel>'s triggered ability.
+2018/07/13: If you didn't gain life during the turn before the end step begins, <Resplendent Angel>'s triggered ability won't trigger at all. Gaining life during the end step won't cause the ability to trigger.
+2018/07/13: You create only one Angel token, no matter how many times you gained 5 or more life.
+2018/07/13: In a Two-Headed Giant game, life gained by your teammate won't satisfy <Resplendent Angel>'s triggered ability, even though it caused your team's life total to increase.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
 </Card>
 
 <Card>
@@ -366,6 +441,24 @@ Enchanted creature is a copy of the chosen creature.</CardText>
 
 <Card>
 <SetId>PM19</SetId>
+<No>69p</No>
+<Name>Sai, Master Thopterist</Name>
+<Type>Legendary Creature — Human Artificer 1/4</Type>
+<ManaCost>2U (3)</ManaCost>
+<CardText>Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
+{1}{U}, Sacrifice two artifacts: Draw a card.</CardText>
+<Flavor>"Industry without artistry is just a fancy way to fill the junkyard."</Flavor>
+<Artist>Adam Paquette</Artist>
+<Rulings>2018/07/13: Sai's triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>69s</No>
 <Name>Sai, Master Thopterist</Name>
 <Type>Legendary Creature — Human Artificer 1/4</Type>
@@ -375,6 +468,24 @@ Enchanted creature is a copy of the chosen creature.</CardText>
 <Flavor>"Industry without artistry is just a fancy way to fill the junkyard."</Flavor>
 <Artist>Adam Paquette</Artist>
 <Rulings>2018/07/13: Sai's triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>76p</No>
+<Name>Supreme Phantom</Name>
+<Type>Creature — Spirit 1/3</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Flying
+Other Spirits you control get +1/+1.</CardText>
+<Flavor>A king's knowledge does not vanish when the heart stops beating.</Flavor>
+<Artist>Robbie Trevino</Artist>
+<Rulings>2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Spirit you control may become lethal if <Supreme Phantom> leaves the battlefield during that turn.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -406,9 +517,9 @@ Other Spirits you control get +1/+1.</CardText>
 <Name>Tezzeret, Artifice Master</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>+1: Create a 1/1 colorless Thopter artifact creature token with flying.
-0: Draw a card. If you control three or more artifacts, draw two cards instead.
--9: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library."</CardText>
+<CardText>[+1]: Create a 1/1 colorless Thopter artifact creature token with flying.
+[0]: Draw a card. If you control three or more artifacts, draw two cards instead.
+[-9]: You get an emblem with "At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library."</CardText>
 <Artist>Josh Hass</Artist>
 <Rulings>2018/07/13: If you put a permanent onto the battlefield with Tezzeret's emblem's ability, any triggered abilities of that permanent that trigger during your end step won't trigger during that same end step.</Rulings>
 <Vintage>Legal</Vintage>
@@ -463,6 +574,25 @@ Whenever a creature with flying attacks, you may draw a card.</CardText>
 <ManaCost>1BB (3)</ManaCost>
 <CardText>Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.</CardText>
 <Artist>Slawomir Maniak</Artist>
+<Rulings>2018/07/13: A creature that's both a Skeleton and a Zombie will get the bonus only once.
+2018/07/13: <Death Baron> doesn't normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch.
+2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Skeleton or Zombie you control may become lethal if <Death Baron> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>90p</No>
+<Name>Death Baron</Name>
+<Type>Creature — Zombie Wizard 2/2</Type>
+<ManaCost>1BB (3)</ManaCost>
+<CardText>Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.</CardText>
+<Flavor>For the necromancer barons, killing and recruitment are one and the same.</Flavor>
+<Artist>Nils Hamm</Artist>
 <Rulings>2018/07/13: A creature that's both a Skeleton and a Zombie will get the bonus only once.
 2018/07/13: <Death Baron> doesn't normally affect itself. If you manage to turn it into a Skeleton, however, then it will give itself +1/+1 and deathtouch.
 2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Skeleton or Zombie you control may become lethal if <Death Baron> leaves the battlefield during that turn.</Rulings>
@@ -612,9 +742,9 @@ Whenever Isareth the Awakener attacks, you may pay {X}. When you do, return targ
 <Name>Liliana, Untouched by Death</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 4)</Type>
 <ManaCost>2BB (4)</ManaCost>
-<CardText>+1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
--2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
--3: You may cast Zombie cards from your graveyard this turn.</CardText>
+<CardText>[+1]: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
+[-2]: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
+[-3]: You may cast Zombie cards from your graveyard this turn.</CardText>
 <Artist>Bastien L. Deharme</Artist>
 <Rulings>2018/07/13: Once Liliana's third ability has resolved, any Zombie cards in your graveyard may be cast this turn, including Zombie cards that enter your graveyard later in the turn.
 2018/07/13: In a Two-Headed Giant game, Liliana's first ability causes the opposing team to lose 4 life and you gain 2 life.
@@ -747,6 +877,26 @@ If this spell was cast from your hand, add ten mana of any one color.</CardText>
 
 <Card>
 <SetId>PM19</SetId>
+<No>130p</No>
+<Name>Banefire</Name>
+<Type>Sorcery</Type>
+<ManaCost>XR (1)</ManaCost>
+<CardText>Banefire deals X damage to any target.
+If X is 5 or more, this spell can't be countered and the damage can't be prevented.</CardText>
+<Flavor>For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.</Flavor>
+<Artist>Raymond Swanland</Artist>
+<Rulings>2018/07/13: To determine whether it can be countered and its damage can be prevented, <Banefire> checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal.
+2018/07/13: <Banefire> can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter <Banefire> won't do anything. Any other effects those spells have will work as normal.
+2018/07/13: If its target is illegal by the time <Banefire> tries to resolve, the spell isn't countered, but it doesn't resolve. The target won't be dealt damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>130s</No>
 <Name>Banefire</Name>
 <Type>Sorcery</Type>
@@ -787,6 +937,23 @@ If X is 5 or more, this spell can't be countered and the damage can't be prevent
 
 <Card>
 <SetId>PM19</SetId>
+<No>135p</No>
+<Name>Demanding Dragon</Name>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Flying
+When Demanding Dragon enters the battlefield, it deals 5 damage to target opponent unless that player sacrifices a creature.</CardText>
+<Flavor>A knight's devotion to their steed goes only so far.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>135s</No>
 <Name>Demanding Dragon</Name>
 <Type>Creature — Dragon 5/5</Type>
@@ -812,6 +979,25 @@ When Demanding Dragon enters the battlefield, it deals 5 damage to target oppone
 {2}{R}, {T}, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature.</CardText>
 <Flavor>"Burn. Burn. Keep. Burn".</Flavor>
 <Artist>Bram Sels</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>144p</No>
+<Name>Goblin Trashmaster</Name>
+<Type>Creature — Goblin Warrior 3/3</Type>
+<ManaCost>2RR (4)</ManaCost>
+<CardText>Other Goblins you control get +1/+1.
+Sacrifice a Goblin: Destroy target artifact.</CardText>
+<Flavor>"Folks 'round here are too in love with their contraptions. Does them some good if we smash every one so often."</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Rulings>2018/07/13: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a Goblin you control may become lethal if <Goblin Trashmaster> leaves the battlefield during that turn.
+2018/07/13: You can sacrifice <Goblin Trashmaster> to pay the cost for its own ability.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -878,9 +1064,9 @@ Whenever another nontoken Dragon enters the battlefield under your control, crea
 <Name>Sarkhan, Fireblood</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 3)</Type>
 <ManaCost>1RR (3)</ManaCost>
-<CardText>+1: You may discard a card. If you do, draw a card.
-+1: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
--7: Create four 5/5 red Dragon creature tokens with flying.</CardText>
+<CardText>[+1]: You may discard a card. If you do, draw a card.
+[+1]: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
+[-7]: Create four 5/5 red Dragon creature tokens with flying.</CardText>
 <Artist>Grzegorz Rutkowski</Artist>
 <Rulings>2018/07/13: Because it's a loyalty ability, Sarkhan's second ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.
 2018/07/13: A "Dragon spell" refers only to a spell that has the Dragon subtype, regardless of its name. For example, Dragon's Hoard isn't a Dragon spell.</Rulings>
@@ -929,6 +1115,23 @@ Whenever a Dragon enters the battlefield under your control, you may pay {R}. If
 
 <Card>
 <SetId>PM19</SetId>
+<No>179p</No>
+<Name>Elvish Clancaller</Name>
+<Type>Creature — Elf Druid 1/1</Type>
+<ManaCost>GG (2)</ManaCost>
+<CardText>Other Elves you control get +1/+1.
+{4}{G}{G}, {T}: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.</CardText>
+<Flavor>No single root feeds the forest.</Flavor>
+<Artist>Matt Stewart</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>179s</No>
 <Name>Elvish Clancaller</Name>
 <Type>Creature — Elf Druid 1/1</Type>
@@ -962,6 +1165,22 @@ Whenever a Dragon enters the battlefield under your control, you may pay {R}. If
 
 <Card>
 <SetId>PM19</SetId>
+<No>185p</No>
+<Name>Gigantosaurus</Name>
+<Type>Creature — Dinosaur 10/10</Type>
+<ManaCost>GGGGG (5)</ManaCost>
+<Flavor>"Each tooth is the length of a horse, and new ones grow in every sixteen days. Let's get a closer look!"
+—Vivien Reid</Flavor>
+<Artist>Jonathan Kuo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>185s</No>
 <Name>Gigantosaurus</Name>
 <Type>Creature — Dinosaur 10/10</Type>
@@ -969,6 +1188,26 @@ Whenever a Dragon enters the battlefield under your control, you may pay {R}. If
 <Flavor>"Each tooth is the length of a horse, and new ones grow in every sixteen days. Let's get a closer look!"
 —Vivien Reid</Flavor>
 <Artist>Jonathan Kuo</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
+<No>186p</No>
+<Name>Goreclaw, Terror of Qal Sisma</Name>
+<Type>Legendary Creature — Bear 4/3</Type>
+<ManaCost>3G (4)</ManaCost>
+<CardText>Creature spells you cast with power 4 or greater cost {2} less to cast.
+Whenever Goreclaw, Terror of Qal Sisma attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.</CardText>
+<Flavor>You don't want to know how she got that name.</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/07/13: If you cast a creature spell that will enter the battlefield with a number of +1/+1 counters, such as Hungering Hydra, those counters aren't considered when determining whether Goreclaw reduces that spell's cost. Similarly, effects that will raise the creature's power once it has entered the battlefield won't apply.
+2018/07/13: If another creature has an ability that changes its power when it attacks, such as Brawl-Bash Ogre, you may have that ability resolve before Goreclaw's last ability.
+2018/07/13: Goreclaw's last ability affects only creatures you control with the appropriate power at the time it resolves. Creatures you begin to control later in the turn won't get either bonus, and a creature you control whose power decreases later in the turn won't lose either bonus.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1089,6 +1328,23 @@ Enchanted creature gets +7/+7 and has trample.</CardText>
 
 <Card>
 <SetId>PM19</SetId>
+<No>203p</No>
+<Name>Thorn Lieutenant</Name>
+<Type>Creature — Elf Warrior 2/3</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
+{5}{G}: Thorn Lieutenant gets +4/+4 until end of turn.</CardText>
+<Artist>Uriah Voth</Artist>
+<Rulings>2018/07/13: <Thorn Lieutenant>'s triggered ability resolves before the spell or ability that caused it to trigger. It resolves even if that spell or ability is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>203s</No>
 <Name>Thorn Lieutenant</Name>
 <Type>Creature — Elf Warrior 2/3</Type>
@@ -1106,13 +1362,30 @@ Enchanted creature gets +7/+7 and has trample.</CardText>
 
 <Card>
 <SetId>PM19</SetId>
+<No>208p</No>
+<Name>Vivien Reid</Name>
+<Type>Legendary Planeswalker — Vivien (Loyalty: 5)</Type>
+<ManaCost>3GG (5)</ManaCost>
+<CardText>[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+[-3]: Destroy target artifact, enchantment, or creature with flying.
+[-8]: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
+<Artist>Anna Steinbauer</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2019 Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM19</SetId>
 <No>208s</No>
 <Name>Vivien Reid</Name>
 <Type>Legendary Planeswalker — Vivien (Loyalty: 5)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
--3: Destroy target artifact, enchantment, or creature with flying.
--8: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
+<CardText>[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+[-3]: Destroy target artifact, enchantment, or creature with flying.
+[-8]: You get an emblem with "Creatures you control get +2/+2 and have vigilance, trample, and indestructible."</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1186,10 +1459,10 @@ Discard a card: Until end of turn, Chromium, the Mutable becomes a Human with ba
 <Name>Nicol Bolas, the Arisen</Name>
 <Type>Legendary Planeswalker — Bolas (Loyalty: 7)</Type>
 <ColorIndicator>Blue Black Red</ColorIndicator>
-<CardText>+2: Draw two cards.
--3: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.
--4: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
--12: Exile all but the bottom card of target player's library.</CardText>
+<CardText>[+2]: Draw two cards.
+[-3]: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.
+[-4]: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+[-12]: Exile all but the bottom card of target player's library.</CardText>
 <Artist>Svetlin Velinov</Artist>
 <Rulings>2018/07/13: When Nicol Bolas's enters-the-battlefield triggered ability resolves, first the next opponent in turn order (or, if it's an opponent's turn, that opponent) chooses a card in their hand without revealing it, then each other opponent in turn order does the same. Then all the chosen cards are discarded at the same time.
 2018/07/13: If Nicol Bolas leaves the battlefield after his creature face's activated ability has been activated but before it resolves, the card remains in whichever zone it moves to. It won't be exiled or return transformed.

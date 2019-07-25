@@ -478,7 +478,7 @@ At the beginning of your end step, if you control seven or more lands, transform
 <Name>Treasure Map</Name>
 <Type>Artifact</Type>
 <ManaCost>2 (2)</ManaCost>
-<CardText>{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three colorless Treasure artifact tokens with "{T}, Sacrifice this artifact: Add one mana of any color."</CardText>
+<CardText>{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with "{T}, Sacrifice this artifact: Add one mana of any color.")</CardText>
 <Artist>Cliff Childs</Artist>
 <Watermark>Set</Watermark>
 <Rulings>2017/09/29: If a third landmark counter is put on <Treasure Map> by something other than the resolution of its first ability (as modified by any applicable replacement effects), you won't remove those counters, transform <Treasure Map>, or get Treasures yet. You'll have to wait until you activate its first ability again.

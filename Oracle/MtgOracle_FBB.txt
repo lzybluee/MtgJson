@@ -726,7 +726,7 @@ Enchanted creature has protection from white. This effect doesn't remove White W
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<CardText>Flying</CardText>
 <Artist>Richard Thomas</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -3444,6 +3444,7 @@ All creatures able to block enchanted creature do so.</CardText>
 <Artist>Dameon Willich</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Foreign Black Border</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -4873,7 +4874,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 <Name>Forest</Name>
 <Type>Basic Land — Forest</Type>
 <CardText>({T}: Add {G}.)</CardText>
-<Artist>Christopher Rush</Artist>
+<Artist>Jesper Myrfors</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

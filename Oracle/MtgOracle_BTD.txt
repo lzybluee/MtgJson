@@ -4,7 +4,7 @@
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<CardText>Flying</CardText>
 <Flavor>As insubstantial, and as powerful, as the wind that carries it.</Flavor>
 <Artist>Doug Chaffee</Artist>
 <Multiverseid>26654</Multiverseid>
@@ -251,7 +251,7 @@ Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as a
 <Name>Snapping Drake</Name>
 <Type>Creature — Drake 3/2</Type>
 <ManaCost>3U (4)</ManaCost>
-<CardText>Flying</CardText>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
 <Flavor>Drakes claim to be dragons—until the dragons show up.</Flavor>
 <Artist>Christopher Rush</Artist>
 <Multiverseid>27262</Multiverseid>
@@ -306,7 +306,7 @@ Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as a
 {U}: Put Wayward Soul on top of its owner's library.</CardText>
 <Flavor>"no home no heart no hope"
 —Stronghold graffito</Flavor>
-<Artist>DiTerlizzi</Artist>
+<Artist>M. W. Kaluta & DiTerlizzi</Artist>
 <Multiverseid>27266</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -394,6 +394,7 @@ Draw a card at the beginning of the next turn's upkeep.</CardText>
 <Multiverseid>27251</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Beatdown Box Set</Set>
 <Rarity>Common</Rarity>
 </Card>

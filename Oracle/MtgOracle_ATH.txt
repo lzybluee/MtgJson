@@ -571,12 +571,13 @@ Goblin Grenade deals 5 damage to any target.</CardText>
 <Name>Goblin Matron</Name>
 <Type>Creature — Goblin 1/1</Type>
 <ManaCost>2R (3)</ManaCost>
-<CardText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</CardText>
+<CardText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library.</CardText>
 <Artist>Daniel Gelon</Artist>
 <Rulings>2004/10/04: Because the "search" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to.
-2008/04/01: You can search for any card with the creature type Goblin, including Creature or Tribal cards. Older cards of type "Summon Goblin" and "Summon Goblins" also count. You can't search for cards that have Goblin in the name but don't have the creature type Goblin.</Rulings>
+2019/06/14: If an effect refers to a "[subtype] spell" or "[subtype] card," it refers only to a spell or card that has that subtype. For example, Goblin War Party is a card that references and creates Goblins, but it isn't a Goblin card.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Anthologies</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -841,7 +842,7 @@ Pyrokinesis deals 4 damage divided as you choose among any number of target crea
 <Name>Volcanic Dragon</Name>
 <Type>Creature — Dragon 4/4</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>Flying
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
 <Flavor>Speed and fire are always a deadly combination.</Flavor>
 <Artist>Janine Johnston</Artist>
@@ -998,7 +999,7 @@ Haste (This creature can attack and {T} as soon as it comes under your control.)
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Anthologies</Set>
-<Rarity>Uncommon</Rarity>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>

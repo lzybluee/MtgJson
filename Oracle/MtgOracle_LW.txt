@@ -4,9 +4,9 @@
 <Name>Ajani Goldmane</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: You gain 2 life.
--1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
--6: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
+<CardText>[+1]: You gain 2 life.
+[-1]: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+[-6]: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>140233</Multiverseid>
 <Rulings>2007/10/01: The vigilance granted to a creature by the second ability remains until the end of the turn even if the +1/+1 counter is removed.
@@ -1312,9 +1312,9 @@ When Inkfathom Divers enters the battlefield, look at the top four cards of your
 <Name>Jace Beleren</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>1UU (3)</ManaCost>
-<CardText>+2: Each player draws a card.
--1: Target player draws a card.
--10: Target player puts the top twenty cards of their library into their graveyard.</CardText>
+<CardText>[+2]: Each player draws a card.
+[-1]: Target player draws a card.
+[-10]: Target player puts the top twenty cards of their library into their graveyard.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>140222</Multiverseid>
 <Rulings>2009/10/01: If there are fewer than twenty cards in the targeted player's library, that player puts all the cards from their library into their graveyard.</Rulings>
@@ -2236,9 +2236,9 @@ Draw a card.</CardText>
 <Name>Liliana Vess</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>+1: Target player discards a card.
--2: Search your library for a card, then shuffle your library and put that card on top of it.
--8: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
+<CardText>[+1]: Target player discards a card.
+[-2]: Search your library for a card, then shuffle your library and put that card on top of it.
+[-8]: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>140212</Multiverseid>
 <Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
@@ -2931,9 +2931,9 @@ Up to two target creatures each get +2/+0 and gain all creature types until end 
 <Name>Chandra Nalaar</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 6)</Type>
 <ManaCost>3RR (5)</ManaCost>
-<CardText>+1: Chandra Nalaar deals 1 damage to target player or planeswalker.
+<CardText>[+1]: Chandra Nalaar deals 1 damage to target player or planeswalker.
 -X: Chandra Nalaar deals X damage to target creature.
--8: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</CardText>
+[-8]: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>140176</Multiverseid>
 <Rulings>2007/10/01: To activate the second ability, you choose a value of X equal to or less than the number of loyalty counters on <Chandra Nalaar>. You may choose 0. You can't choose a negative number.</Rulings>
@@ -3915,9 +3915,9 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 <Name>Garruk Wildspeaker</Name>
 <Type>Legendary Planeswalker — Garruk (Loyalty: 3)</Type>
 <ManaCost>2GG (4)</ManaCost>
-<CardText>+1: Untap two target lands.
--1: Create a 3/3 green Beast creature token.
--4: Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
+<CardText>[+1]: Untap two target lands.
+[-1]: Create a 3/3 green Beast creature token.
+[-4]: Creatures you control get +3/+3 and gain trample until end of turn.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>140205</Multiverseid>
 <Rulings>2009/10/01: The first ability can target any two lands. They don't have to be tapped.

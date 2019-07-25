@@ -2902,9 +2902,9 @@ As long as Swarmborn Giant is monstrous, it has reach.</CardText>
 <Name>Ajani, Mentor of Heroes</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>3GW (5)</ManaCost>
-<CardText>+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.
-+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
--8: You gain 100 life.</CardText>
+<CardText>[+1]: Distribute three +1/+1 counters among one, two, or three target creatures you control.
+[+1]: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-8]: You gain 100 life.</CardText>
 <Artist>Aaron Miller</Artist>
 <Multiverseid>380367</Multiverseid>
 <Rulings>2014/04/26: You announce how many counters will be placed on each target creature as you activate Ajani's first ability. Each target must receive at least one counter.
@@ -3321,7 +3321,7 @@ Creatures you control of the chosen color get +1/+1.</CardText>
 <Name>Temple of Epiphany</Name>
 <Type>Land</Type>
 <CardText>Temple of Epiphany enters the battlefield tapped.
-When Temple of Epiphany enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+When Temple of Epiphany enters the battlefield, scry 1.
 {T}: Add {U} or {R}.</CardText>
 <Artist>Noah Bradley</Artist>
 <Multiverseid>380514</Multiverseid>
@@ -3338,7 +3338,7 @@ When Temple of Epiphany enters the battlefield, scry 1. (Look at the top card of
 <Name>Temple of Malady</Name>
 <Type>Land</Type>
 <CardText>Temple of Malady enters the battlefield tapped.
-When Temple of Malady enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+When Temple of Malady enters the battlefield, scry 1.
 {T}: Add {B} or {G}.</CardText>
 <Artist>James Paick</Artist>
 <Multiverseid>380515</Multiverseid>

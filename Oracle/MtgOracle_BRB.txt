@@ -39,7 +39,7 @@ Whenever Abyssal Specter deals damage to a player, that player discards a card.<
 <Name>Air Elemental</Name>
 <Type>Creature — Elemental 4/4</Type>
 <ManaCost>3UU (5)</ManaCost>
-<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)</CardText>
+<CardText>Flying</CardText>
 <Flavor>These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.</Flavor>
 <Artist>D. Alexander Gregory</Artist>
 <Multiverseid>21121</Multiverseid>
@@ -676,9 +676,10 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 —Naimah, Femeref philosopher</Flavor>
 <Artist>Jon J Muth</Artist>
 <Multiverseid>21138</Multiverseid>
-<Rulings>2016/06/08: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
+<Rulings>2019/06/14: If there are no other creatures on the battlefield when <Man-o'-War> enters the battlefield, its ability must target itself.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Battle Royale Box Set</Set>
 <Rarity>Common</Rarity>
 </Card>

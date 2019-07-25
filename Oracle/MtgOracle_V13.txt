@@ -96,6 +96,7 @@ When Wall of Blossoms enters the battlefield, draw a card.</CardText>
 <Multiverseid>373319</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>From the Vault: Twenty</Set>
 <Rarity>Mythic Rare</Rarity>
 </Card>
@@ -141,10 +142,11 @@ At the beginning of each player's upkeep, that player taps an untapped artifact,
 <CardText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</CardText>
 <Artist>Terese Nielsen</Artist>
 <Multiverseid>373325</Multiverseid>
-<Rulings>2016/06/08: You choose which pile to put into your hand.
-2016/06/08: Each pile may contain from zero to five cards; they don't have to be split "evenly."</Rulings>
+<Rulings>2019/06/14: You choose which pile to put into your hand.
+2019/06/14: Each pile may contain from zero to five cards; they don't have to be split "evenly."</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>From the Vault: Twenty</Set>
 <Rarity>Mythic Rare</Rarity>
 </Card>
@@ -301,10 +303,10 @@ Protection from black
 <Name>Jace, the Mind Sculptor</Name>
 <Type>Legendary Planeswalker — Jace (Loyalty: 3)</Type>
 <ManaCost>2UU (4)</ManaCost>
-<CardText>+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
-0: Draw three cards, then put two cards from your hand on top of your library in any order.
--1: Return target creature to its owner's hand.
--12: Exile all cards from target player's library, then that player shuffles their hand into their library.</CardText>
+<CardText>[+2]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+[0]: Draw three cards, then put two cards from your hand on top of your library in any order.
+[-1]: Return target creature to its owner's hand.
+[-12]: Exile all cards from target player's library, then that player shuffles their hand into their library.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>373316</Multiverseid>
 <Rulings>2018/03/16: You draw three cards and put two cards back all while Jace's second ability is resolving. Nothing can happen between the two, and no player may choose to take actions.

@@ -236,9 +236,9 @@ Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains fl
 <Name>Elspeth, Knight-Errant</Name>
 <Type>Legendary Planeswalker — Elspeth (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: Create a 1/1 white Soldier creature token.
-+1: Target creature gets +3/+3 and gains flying until end of turn.
--8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
+<CardText>[+1]: Create a 1/1 white Soldier creature token.
+[+1]: Target creature gets +3/+3 and gains flying until end of turn.
+[-8]: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."</CardText>
 <Artist>Volkan Baǵa</Artist>
 <Multiverseid>370551</Multiverseid>
 <Rulings>2011/01/01: Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability.
@@ -1444,7 +1444,7 @@ When a creature is put into an opponent's graveyard from the battlefield, if Bri
 2018/12/07: If a nontoken creature you control and a creature an opponent controls die at the same time, you choose the order in which <Bridge from Below>'s triggered abilities resolve. You can create a token before you exile <Bridge from Below>.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
-<Modern>Legal</Modern>
+<Modern>Banned</Modern>
 <Set>Modern Masters</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -3654,9 +3654,9 @@ If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and
 <Name>Sarkhan Vol</Name>
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 4)</Type>
 <ManaCost>2RG (4)</ManaCost>
-<CardText>+1: Creatures you control get +1/+1 and gain haste until end of turn.
--2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
--6: Create five 4/4 red Dragon creature tokens with flying.</CardText>
+<CardText>[+1]: Creatures you control get +1/+1 and gain haste until end of turn.
+[-2]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-6]: Create five 4/4 red Dragon creature tokens with flying.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>370566</Multiverseid>
 <Rulings>2008/10/01: You may activate the first ability even if you control no creatures. <Sarkhan Vol> gains a loyalty counter, but the ability will have no effect.
@@ -3964,7 +3964,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 <Type>Artifact Creature — Beast 0/0</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
-Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Artist>Kev Walker</Artist>
 <Multiverseid>370510</Multiverseid>
 <Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
@@ -3982,7 +3982,7 @@ Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies,
 <Type>Artifact Creature — Insect 0/0</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Flying
-Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Artist>Darrell Riche</Artist>
 <Multiverseid>370443</Multiverseid>
 <Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
@@ -3999,7 +3999,7 @@ Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies,
 <Name>Arcbound Wanderer</Name>
 <Type>Artifact Creature — Golem 0/0</Type>
 <ManaCost>6 (6)</ManaCost>
-<CardText>Modular—Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<CardText>Modular—Sunburst (This creature enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Artist>Christopher Moeller</Artist>
 <Multiverseid>370523</Multiverseid>
 <Rulings>2004/12/01: This card has modular—sunburst, a combination of two keyword abilities. The sunburst ability sets the number for the modular ability. Basically, the number of +1/+1 counters the Wanderer gets as it enters the battlefield is equal to the number of colors of mana used to pay its cost.
@@ -4019,7 +4019,7 @@ Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies,
 <Name>Arcbound Worker</Name>
 <Type>Artifact Creature — Construct 0/0</Type>
 <ManaCost>1 (1)</ManaCost>
-<CardText>Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<CardText>Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Flavor>The parts are as strong as the whole.</Flavor>
 <Artist>Darrell Riche</Artist>
 <Multiverseid>370517</Multiverseid>

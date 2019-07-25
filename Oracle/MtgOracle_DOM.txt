@@ -4,9 +4,9 @@
 <Name>Karn, Scion of Urza</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
 <ManaCost>4 (4)</ManaCost>
-<CardText>+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
--1: Put a card you own with a silver counter on it from exile into your hand.
--2: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
+<CardText>[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+[-1]: Put a card you own with a silver counter on it from exile into your hand.
+[-2]: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>442889</Multiverseid>
 <Rulings>2018/04/27: A token created by Karn's last ability will count itself, so it'll be at least 1/1.
@@ -882,10 +882,11 @@ Whenever you cast a historic spell, scry 1. (Artifacts, legendaries, and Sagas a
 <ManaCost>2U (3)</ManaCost>
 <CardText>Target creature gets -4/-0 until end of turn.
 Draw a card.</CardText>
-<Flavor>"The trick to talking sense into Keldons is getting them to hold still. I learned that from Radha." –Jhoira</Flavor>
+<Flavor>"The trick to talking sense into Keldons is getting them to hold still. I learned that from Radha."
+—Jhoira</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>442933</Multiverseid>
-<Rulings>2018/04/27: If the target creature is an illegal target by the time <Befuddle> tries to resolve, the spell doesn't resolve. You won't draw a card.</Rulings>
+<Rulings>2019/07/12: If the target creature is an illegal target by the time <Befuddle> tries to resolve, the spell doesn't resolve. You won't draw a card.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1821,7 +1822,7 @@ III — Put target creature or planeswalker card from a graveyard onto the battl
 <Name>Feral Abomination</Name>
 <Type>Creature — Thrull 5/5</Type>
 <ManaCost>5B (6)</ManaCost>
-<CardText>Deathtouch</CardText>
+<CardText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</CardText>
 <Flavor>"Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms."
 —Mister Lostspoons, Skulltown gossip.</Flavor>
 <Artist>Darek Zabrocki</Artist>
@@ -2614,9 +2615,9 @@ At the beginning of your end step, if two or more permanents you don't control h
 <Name>Jaya Ballard</Name>
 <Type>Legendary Planeswalker — Jaya (Loyalty: 5)</Type>
 <ManaCost>2RRR (5)</ManaCost>
-<CardText>+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
-+1: Discard up to three cards, then draw that many cards.
--8: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
+<CardText>[+1]: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
+[+1]: Discard up to three cards, then draw that many cards.
+[-8]: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>443020</Multiverseid>
 <Rulings>2018/04/27: Mana produced by Jaya's first ability can be spent among any number of instant and/or sorcery spells.
@@ -3348,7 +3349,7 @@ When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life.</C
 <Name>Mammoth Spider</Name>
 <Type>Creature — Spider 3/5</Type>
 <ManaCost>4G (5)</ManaCost>
-<CardText>Reach</CardText>
+<CardText>Reach (This creature can block creatures with flying.)</CardText>
 <Flavor>Most spiders of Llanowar disdain elvish alliances. No elf has as many beautiful eyes or as many strong arms.</Flavor>
 <Artist>Lars Grant-West</Artist>
 <Multiverseid>443059</Multiverseid>
@@ -4071,9 +4072,9 @@ Shanna gets +1/+1 for each creature you control.</CardText>
 <Name>Teferi, Hero of Dominaria</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 4)</Type>
 <ManaCost>3WU (5)</ManaCost>
-<CardText>+1: Draw a card. At the beginning of the next end step, untap up to two lands.
--3: Put target nonland permanent into its owner's library third from the top.
--8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
+<CardText>[+1]: Draw a card. At the beginning of the next end step, untap up to two lands.
+[-3]: Put target nonland permanent into its owner's library third from the top.
+[-8]: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>443095</Multiverseid>
 <Rulings>2018/04/27: You don't decide which two lands to untap until the next end step.
@@ -5187,9 +5188,9 @@ Crew 3</CardText>
 <Name>Teferi, Timebender</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 5)</Type>
 <ManaCost>4WU (6)</ManaCost>
-<CardText>+2: Untap up to one target artifact or creature.
--3: You gain 2 life and draw two cards.
--9: Take an extra turn after this one.</CardText>
+<CardText>[+2]: Untap up to one target artifact or creature.
+[-3]: You gain 2 life and draw two cards.
+[-9]: Take an extra turn after this one.</CardText>
 <Artist>Zack Stella</Artist>
 <Multiverseid>445848</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5277,9 +5278,9 @@ Crew 3</CardText>
 <Name>Chandra, Bold Pyromancer</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 5)</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>+1: Add {R}{R}. Chandra, Bold Pyromancer deals 2 damage to target player.
--3: Chandra, Bold Pyromancer deals 3 damage to target creature or planeswalker.
--7: Chandra, Bold Pyromancer deals 10 damage to target player and each creature and planeswalker they control.</CardText>
+<CardText>[+1]: Add {R}{R}. Chandra, Bold Pyromancer deals 2 damage to target player.
+[-3]: Chandra, Bold Pyromancer deals 3 damage to target creature or planeswalker.
+[-7]: Chandra, Bold Pyromancer deals 10 damage to target player and each creature and planeswalker they control.</CardText>
 <Artist>Zack Stella</Artist>
 <Multiverseid>445853</Multiverseid>
 <Rulings>2018/04/27: Chandra's first ability can't target a planeswalker.

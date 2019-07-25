@@ -4,9 +4,9 @@
 <Name>Liliana Vess</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>+1: Target player discards a card.
--2: Search your library for a card, then shuffle your library and put that card on top of it.
--8: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
+<CardText>[+1]: Target player discards a card.
+[-2]: Search your library for a card, then shuffle your library and put that card on top of it.
+[-8]: Put all creature cards from all graveyards onto the battlefield under your control.</CardText>
 <Artist>Kekai Kotaki</Artist>
 <Rulings>2009/10/01: A "creature card" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards.</Rulings>
 <Vintage>Legal</Vintage>
@@ -22,9 +22,9 @@
 <Name>Nissa Revane</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 2)</Type>
 <ManaCost>2GG (4)</ManaCost>
-<CardText>+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
-+1: You gain 2 life for each Elf you control.
--7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
+<CardText>[+1]: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
+[+1]: You gain 2 life for each Elf you control.
+[-7]: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
 <Artist>Jaime Jones</Artist>
 <Rulings>2009/10/01: You may activate Nissa's first ability even if you know you have no cards named Nissa's Chosen in your library. You must still shuffle your library in that situation.
 2009/10/01: You may activate Nissa's second ability even if you control no Elves.</Rulings>

@@ -2097,9 +2097,9 @@ Search target player's library for up to three cards, exile them, then that play
 <Name>Sorin Markov</Name>
 <Type>Legendary Planeswalker — Sorin (Loyalty: 4)</Type>
 <ManaCost>3BBB (6)</ManaCost>
-<CardText>+2: Sorin Markov deals 2 damage to any target and you gain 2 life.
--3: Target opponent's life total becomes 10.
--7: You control target player during that player's next turn.</CardText>
+<CardText>[+2]: Sorin Markov deals 2 damage to any target and you gain 2 life.
+[-3]: Target opponent's life total becomes 10.
+[-7]: You control target player during that player's next turn.</CardText>
 <Artist>Michael Komarck</Artist>
 <Multiverseid>195403</Multiverseid>
 <Rulings>2009/10/01: The player who is being controlled is still the active player.
@@ -2277,9 +2277,9 @@ Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals
 <Name>Chandra Ablaze</Name>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 5)</Type>
 <ManaCost>4RR (6)</ManaCost>
-<CardText>+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to any target.
--2: Each player discards their hand, then draws three cards.
--7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.</CardText>
+<CardText>[+1]: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to any target.
+[-2]: Each player discards their hand, then draws three cards.
+[-7]: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.</CardText>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>195402</Multiverseid>
 <Rulings>2009/10/01: If you activate <Chandra Ablaze>'s first ability, you don't discard a card until the ability resolves. You may activate the ability even if your hand is empty. You choose a target as you activate the ability even if you have no red cards in hand at that time.
@@ -3267,9 +3267,9 @@ When Mold Shambler enters the battlefield, if it was kicked, destroy target nonc
 <Name>Nissa Revane</Name>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 2)</Type>
 <ManaCost>2GG (4)</ManaCost>
-<CardText>+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
-+1: You gain 2 life for each Elf you control.
--7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
+<CardText>[+1]: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
+[+1]: You gain 2 life for each Elf you control.
+[-7]: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.</CardText>
 <Artist>Jaime Jones</Artist>
 <Multiverseid>190411</Multiverseid>
 <Rulings>2009/10/01: You may activate Nissa's first ability even if you know you have no cards named Nissa's Chosen in your library. You must still shuffle your library in that situation.

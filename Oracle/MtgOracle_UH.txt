@@ -235,7 +235,6 @@ Spells cast by players wearing at least one item of women's clothing cost {1} le
 <ManaCost>2W (3)</ManaCost>
 <CardText>As Look at Me, I'm R&D enters the battlefield, choose a number and a second number one higher or one lower than the first number.
 All instances of the first chosen number in the full text of each permanent, spell, and card in any zone are changed to the second chosen number.</CardText>
-<Artist>spork;</Artist>
 <Multiverseid>74360</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1189,7 +1188,7 @@ At the beginning of your upkeep, reveal a card from your hand at random.</CardTe
 <Name>Punctuate</Name>
 <Type>Instant</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. (The punctuation marks are ? , ; : - — ( ) / " " ' ' &amp; .)</CardText>
+<CardText>Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. (The punctuation marks are ? , ; : - — ( ) / " " ' ' & .)</CardText>
 <Flavor>"Ooh—right in the colon."</Flavor>
 <Artist>Jim Pavelec</Artist>
 <Multiverseid>74248</Multiverseid>
@@ -1494,7 +1493,7 @@ Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins wit
 <Type>Enchantment</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Gotcha — If an opponent says a word that's in the name of a card in your graveyard, you may say "Gotcha!" When you do, return that card to your hand.</CardText>
-<Flavor>Gemini (May 21–June 21) This week is a good time to branch out and meet others, but don't forget your roots. Avoid commitments and open flame.</Flavor>
+<Flavor>Gemini (May 21—June 21) This week is a good time to branch out and meet others, but don't forget your roots. Avoid commitments and open flame.</Flavor>
 <Artist>Tony Szczudlo</Artist>
 <Multiverseid>74286</Multiverseid>
 <Set>Unhinged</Set>
@@ -1709,6 +1708,7 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>XW (1)</ManaCost>
 <CardText>Target player gains X life.</CardText>
+<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1722,6 +1722,7 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Destroy target artifact.</CardText>
+<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1735,6 +1736,7 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>2U (3)</ManaCost>
 <CardText>Counter target creature spell.</CardText>
+<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1748,6 +1750,7 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>3B (4)</ManaCost>
 <CardText>Destroy target land.</CardText>
+<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>
@@ -1761,6 +1764,7 @@ Spells with the chosen word in their text box can't be cast.</CardText>
 <Type>Instant</Type>
 <ManaCost>1G (2)</ManaCost>
 <CardText>Destroy target enchantment.</CardText>
+<Artist>Dan Frazier</Artist>
 <Multiverseid>74358</Multiverseid>
 <Set>Unhinged</Set>
 <Rarity>Rare</Rarity>

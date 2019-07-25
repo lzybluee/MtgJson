@@ -16,6 +16,26 @@
 
 <Card>
 <SetId>J19</SetId>
+<No>2</No>
+<Name>Sliver Legion</Name>
+<Type>Legendary Creature — Sliver 7/7</Type>
+<ManaCost>WUBRG (5)</ManaCost>
+<CardText>All Sliver creatures get +1/+1 for each other Sliver on the battlefield.</CardText>
+<Flavor>Hidden within the clicking, chittering swarm is a unique mind, still young, but growing more aware as time passes.</Flavor>
+<Artist>Lius Lasahido</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2007/05/01: If <Sliver Legion> and two other Slivers are on the battlefield, for example, each of them gets +2/+2.
+2013/07/01: Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit.
+2013/07/01: If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Judge Gift Cards 2019</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J19</SetId>
 <No>3</No>
 <Name>Mox Opal</Name>
 <Type>Legendary Artifact</Type>
@@ -27,6 +47,22 @@
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
+<Set>Judge Gift Cards 2019</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>J19</SetId>
+<No>4</No>
+<Name>Isolated Watchtower</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{2}, {T}: Scry 1, then you may reveal the top card of your library. If a basic land card is revealed this way, put it onto the battlefield tapped. Activate this ability only if an opponent controls at least two more lands than you.</CardText>
+<Artist>Alexander Forssberg</Artist>
+<Watermark>Wotc</Watermark>
+<Rulings>2018/07/13: You can activate <Isolated Watchtower>'s ability if you control more lands than an opponent, as long as at least one opponent also controls two or more lands than you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
 <Set>Judge Gift Cards 2019</Set>
 <Rarity>Mythic Rare</Rarity>
 </Card>

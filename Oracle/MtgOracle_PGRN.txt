@@ -227,6 +227,26 @@ Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 lif
 
 <Card>
 <SetId>PGRN</SetId>
+<No>69p</No>
+<Name>Doom Whisperer</Name>
+<Type>Creature — Nightmare Demon 6/6</Type>
+<ManaCost>3BB (5)</ManaCost>
+<CardText>Flying, trample
+Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)</CardText>
+<Flavor>The sound of every twisted secret tempts you to hear another.</Flavor>
+<Artist>Vincent Proce</Artist>
+<Watermark>Dimir</Watermark>
+<Rulings>2018/10/05: When you surveil, you may put all the cards you look at back on top of your library, you may put all of those cards into your graveyard, or you may put some of those cards on top and the rest of them into your graveyard.
+2018/10/05: You perform the actions stated on a card in sequence. For some spells and abilities, you'll surveil last. For others, you'll surveil and then perform other actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
 <No>71s</No>
 <Name>Gruesome Menagerie</Name>
 <Type>Sorcery</Type>
@@ -307,6 +327,31 @@ Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 lif
 
 <Card>
 <SetId>PGRN</SetId>
+<No>99p</No>
+<Name>Experimental Frenzy</Name>
+<Type>Enchantment</Type>
+<ManaCost>3R (4)</ManaCost>
+<CardText>You may look at the top card of your library any time.
+You may play the top card of your library.
+You can't play cards from your hand.
+{3}{R}: Destroy Experimental Frenzy.</CardText>
+<Flavor>Turns out coffee is the weird aunt of invention.</Flavor>
+<Artist>Simon Dominic</Artist>
+<Rulings>2018/10/05: <Experimental Frenzy> lets you look at the top card of your library whenever you want (with one restriction—see below), even if you don't have priority. This action doesn't use the stack. Knowing what that card is becomes part of the information you have access to, just like you can look at the cards in your hand.
+2018/10/05: If the top card of your library changes while you're casting a spell or activating an ability, you can't look at the new top card until you finish casting that spell or activating that ability. This means that if you cast the top card of your library, you can't look at the next one until you're done paying for that spell.
+2018/10/05: You must follow the normal timing permissions and restrictions of the cards you play from your library.
+2018/10/05: You can play a land card on top of your library only if you have available land plays remaining.
+2018/10/05: You'll still pay all costs for a spell you cast from your library, including additional costs. You may also pay alternative costs.
+2018/10/05: You can't cast spells or play lands from your hand, but you may take other actions with those cards (such as discarding them to activate their cycling or bloodrush abilities).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
 <No>109s</No>
 <Name>Legion Warboss</Name>
 <Type>Creature — Goblin Soldier 2/2</Type>
@@ -319,6 +364,28 @@ At the beginning of combat on your turn, create a 1/1 red Goblin creature token.
 2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
 2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
 2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>113p</No>
+<Name>Risk Factor</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Target opponent may have Risk Factor deal 4 damage to them. If that player doesn't, you draw three cards.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</CardText>
+<Artist>Chris Seaman</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: If the target player is an illegal target by the time <Risk Factor> tries to resolve, the spell doesn't resolve. You don't draw three cards.
+2018/10/05: You must still follow any timing restrictions and permissions, including those based on the card's type. For instance, you can cast a sorcery using jump-start only when you could normally cast a sorcery.
+2018/10/05: A spell cast using jump-start will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way.
+2018/10/05: If an effect allows you to pay an alternative cost rather than a spell's mana cost, you may pay that alternative cost when you jump-start a spell. You'll still discard a card as an additional cost to cast it.
+2018/10/05: If a card with jump-start is put into your graveyard during your turn, you'll be able to cast it right away if it's legal to do so, before an opponent can take any actions.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -341,6 +408,25 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 2018/10/05: A spell cast using jump-start will always be exiled afterward, whether it resolves, it's countered, or it leaves the stack in some other way.
 2018/10/05: If an effect allows you to pay an alternative cost rather than a spell's mana cost, you may pay that alternative cost when you jump-start a spell. You'll still discard a card as an additional cost to cast it.
 2018/10/05: If a card with jump-start is put into your graveyard during your turn, you'll be able to cast it right away if it's legal to do so, before an opponent can take any actions.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>115p</No>
+<Name>Runaway Steam-Kin</Name>
+<Type>Creature — Elemental 1/1</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever you cast a red spell, if Runaway Steam-Kin has fewer than three +1/+1 counters on it, put a +1/+1 counter on Runaway Steam-Kin.
+Remove three +1/+1 counters from Runaway Steam-Kin: Add {R}{R}{R}.</CardText>
+<Artist>Jason Felix</Artist>
+<Rulings>2018/10/05: <Runaway Steam-Kin> has to be on the battlefield for its ability to trigger. Casting it won't trigger its own ability.
+2018/10/05: <Runaway Steam-Kin>'s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
+2018/10/05: If <Runaway Steam-Kin> has three or more +1/+1 counters on it after you're done paying for a red spell, its ability doesn't trigger at all. If it has three or more +1/+1 counters on it as its triggered ability resolves, it doesn't get a +1/+1 counter.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -445,6 +531,26 @@ Undergrowth — When you cast this spell, reveal the top X cards of your library
 
 <Card>
 <SetId>PGRN</SetId>
+<No>152p</No>
+<Name>Assassin's Trophy</Name>
+<Type>Instant</Type>
+<ManaCost>BG (2)</ManaCost>
+<CardText>Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.</CardText>
+<Flavor>A power vacuum for the Azorius. A keepsake for Vraska.</Flavor>
+<Artist>Seb McKinnon</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2018/10/05: If the target permanent is an illegal target by the time <Assassin's Trophy> tries to resolve, the spell doesn't resolve. No player searches their library.
+2018/10/05: If the target permanent is a legal target but isn't destroyed, most likely because it has indestructible, its controller may search their library.
+2018/10/05: If the permanent's controller doesn't search their library, they don't shuffle their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
 <No>152s</No>
 <Name>Assassin's Trophy</Name>
 <Type>Instant</Type>
@@ -461,6 +567,30 @@ Undergrowth — When you cast this spell, reveal the top X cards of your library
 <Modern>Legal</Modern>
 <Set>Guilds of Ravnica Promos</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>153p</No>
+<Name>Aurelia, Exemplar of Justice</Name>
+<Type>Legendary Creature — Angel 2/5</Type>
+<ManaCost>2RW (4)</ManaCost>
+<CardText>Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, choose up to one target creature you control. Until end of turn, that creature gets +2/+0, gains trample if it's red, and gains vigilance if it's white.</CardText>
+<Artist>Chris Rahn</Artist>
+<Watermark>Boros</Watermark>
+<Rulings>2018/10/05: Aurelia's last ability resolves before attackers are chosen.
+2018/10/05: The target creature gains trample and vigilance if it's both red and white. It gets +2/+0 only once, even if it's both red and white, and even if it's neither red nor white.
+2018/10/05: Once Aurelia's last ability has resolved, the creature keeps whatever bonuses it got from that ability even if its colors change.
+2018/10/05: Mentor compares the power of the creature with mentor with that of the target creature at two different times: once as the triggered ability is put onto the stack, and once as the triggered ability resolves. If you wish to raise a creature's power so its mentor ability can target a bigger creature, the last chance you have to do so is during the beginning of combat step.
+2018/10/05: If the target creature's power is no longer less than the attacking creature's power as the ability resolves, mentor doesn't add a +1/+1 counter. For example, if two 3/3 creatures with mentor attack and both mentor triggers target the same 2/2 creature, the first to resolve puts a +1/+1 counter on it and the second does nothing.
+2018/10/05: If the creature with mentor leaves the battlefield with mentor on the stack, use its power as that creature last existed on the battlefield to determine whether the target creature has less power.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Mythic Rare</Rarity>
 </Card>
 
 <Card>
@@ -624,6 +754,24 @@ Whenever Etrata deals combat damage to a player, exile target creature that play
 
 <Card>
 <SetId>PGRN</SetId>
+<No>179p</No>
+<Name>Ionize</Name>
+<Type>Instant</Type>
+<ManaCost>1UR (3)</ManaCost>
+<CardText>Counter target spell. Ionize deals 2 damage to that spell's controller.</CardText>
+<Flavor>"Countermagic is a simple process of breaking matter into its elementary particles."</Flavor>
+<Artist>Chase Stone</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: A spell that can't be countered is a legal target for <Ionize>. The spell won't be countered when <Ionize> resolves, but <Ionize> still deals 2 damage to that spell's controller.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
 <No>179s</No>
 <Name>Ionize</Name>
 <Type>Instant</Type>
@@ -653,6 +801,25 @@ Whenever Etrata deals combat damage to a player, exile target creature that play
 <Rulings>2018/10/05: You can activate Izoni's last ability while its undergrowth ability is on the stack. This will increase the number of Insect tokens you'll create.
 2018/10/05: Creature cards with other types, such as artifact creature cards, count for undergrowth abilities.
 2018/10/05: Because tokens aren't cards, they never count for undergrowth abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>183p</No>
+<Name>Knight of Autumn</Name>
+<Type>Creature — Dryad Knight 2/1</Type>
+<ManaCost>1GW (3)</ManaCost>
+<CardText>When Knight of Autumn enters the battlefield, choose one —
+• Put two +1/+1 counters on Knight of Autumn.
+• Destroy target artifact or enchantment.
+• You gain 4 life.</CardText>
+<Artist>Ryan Pancoast</Artist>
+<Watermark>Selesnya</Watermark>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -701,6 +868,29 @@ Whenever Etrata deals combat damage to a player, exile target creature that play
 <Modern>Legal</Modern>
 <Set>Guilds of Ravnica Promos</Set>
 <Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>192p</No>
+<Name>Niv-Mizzet, Parun</Name>
+<Type>Legendary Creature — Dragon Wizard 5/5</Type>
+<ManaCost>UUURRR (6)</ManaCost>
+<CardText>This spell can't be countered.
+Flying
+Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target.
+Whenever a player casts an instant or sorcery spell, you draw a card.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Izzet</Watermark>
+<Rulings>2018/10/05: If an effect instructs you to draw multiple cards, Niv-Mizzet's first triggered ability triggers that many times. You choose targets for those abilities after you've drawn all of the cards.
+2018/10/05: If a spell or ability causes you to put cards into your hand without specifically using the word "draw," Niv-Mizzet's first triggered ability won't trigger.
+2018/10/05: Niv-Mizzet's second triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered. This causes its first triggered ability to trigger, and that also resolves before the spell.
+2018/10/05: Players can cast spells and activate abilities after Niv-Mizzet's second triggered ability resolves but before the spell that caused it to trigger does. Notably, the card you draw may be able to counter that spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -1086,5 +1276,23 @@ Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap it.</Car
 <Set>Guilds of Ravnica Promos</Set>
 <Rarity>Rare</Rarity>
 <OtherPart>Response (Response/Resurgence)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PGRN</SetId>
+<No>233p</No>
+<Name>Chromatic Lantern</Name>
+<Type>Artifact</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Lands you control have "{T}: Add one mana of any color."
+{T}: Add one mana of any color.</CardText>
+<Flavor>By guild tradition, any puddle of multicolored light on the cobblestones can serve as neutral ground.</Flavor>
+<Artist>Jung Park</Artist>
+<Rulings>2018/10/05: Lands you control won't lose any other abilities they had. They also won't gain or lose any land types.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Guilds of Ravnica Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 

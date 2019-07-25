@@ -5,8 +5,8 @@
 <Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
 <ManaCost>4 (4)</ManaCost>
 <CardText>Activated abilities of artifacts your opponents control can't be activated.
-+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
--2: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.</CardText>
+[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+[-2]: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.</CardText>
 <Artist>Wisnu Tan</Artist>
 <Multiverseid>460928</Multiverseid>
 <Rulings>2019/05/03: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keyword abilities are activated abilities and will have colons in their reminder text, such as equip. Triggered abilities (starting with "when," "whenever," or "at") are unaffected by Karn.
@@ -29,8 +29,8 @@
 <Type>Legendary Planeswalker — Ugin (Loyalty: 4)</Type>
 <ManaCost>6 (6)</ManaCost>
 <CardText>Colorless spells you cast cost {2} less to cast.
-+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
--3: Destroy target permanent that's one or more colors.</CardText>
+[+1]: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
+[-3]: Destroy target permanent that's one or more colors.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>460929</Multiverseid>
 <Rulings>2019/05/03: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions (such as that of Ugin). The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
@@ -240,8 +240,8 @@ Draw a card.</CardText>
 <ManaCost>1WW (3)</ManaCost>
 <CardText>As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
 Prevent all damage that would be dealt to Gideon Blackblade during your turn.
-+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
--6: Exile target nonland permanent.</CardText>
+[+1]: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+[-6]: Exile target nonland permanent.</CardText>
 <Artist>Viktor Titov</Artist>
 <Multiverseid>460940</Multiverseid>
 <Rulings>2019/05/03: If an effect causes Gideon to lose all abilities during your turn, he's still a Human Soldier creature and a Gideon planeswalker.
@@ -627,7 +627,7 @@ When Prison Realm enters the battlefield, scry 1.</CardText>
 <Type>Legendary Planeswalker — Teyo (Loyalty: 5)</Type>
 <ManaCost>2W (3)</ManaCost>
 <CardText>You have hexproof. (You can't be the target of spells or abilities your opponents control.)
--2: Create a 0/3 white Wall creature token with defender.</CardText>
+[-2]: Create a 0/3 white Wall creature token with defender.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>460959</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -664,7 +664,7 @@ When Prison Realm enters the battlefield, scry 1.</CardText>
 <CardText>Flying
 Lands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control.
 Your opponents can't play land cards from graveyards.</CardText>
-<Flavor>"Some bend the law. I tie it into knots.</Flavor>
+<Flavor>"Some bend the law. I tie it into knots."</Flavor>
 <Artist>Johannes Voss</Artist>
 <Multiverseid>460961</Multiverseid>
 <Rulings>2019/05/03: Tomik's middle ability is similar to hexproof, but effects that interact with hexproof don't count these lands or land cards as having hexproof.
@@ -703,7 +703,7 @@ Draw a card.</CardText>
 <Name>Trusted Pegasus</Name>
 <Type>Creature — Pegasus 2/2</Type>
 <ManaCost>2W (3)</ManaCost>
-<CardText>Flying
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
 Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.</CardText>
 <Flavor>"Would you give your life to save the world?" Gideon murmured. The pegasus snorted and spread wide its mighty wings.</Flavor>
 <Artist>Chris Rahn</Artist>
@@ -722,7 +722,7 @@ Whenever Trusted Pegasus attacks, target attacking creature without flying gains
 <Type>Legendary Planeswalker (Loyalty: 5)</Type>
 <ManaCost>3W (4)</ManaCost>
 <CardText>Prevent all noncombat damage that would be dealt to you and other permanents you control.
--2: Exile target creature with power 4 or greater.</CardText>
+[-2]: Exile target creature with power 4 or greater.</CardText>
 <Artist>Wesley Burt</Artist>
 <Multiverseid>460964</Multiverseid>
 <Rulings>2019/05/03: If <The Wanderer> would be dealt lethal damage at the same time as you and/or other permanents you control would be dealt noncombat damage, the damage that would be dealt to you and your other permanents is prevented.</Rulings>
@@ -910,12 +910,12 @@ Draw a card.</CardText>
 <Flavor>Niv Mizzet had perfected a plan, but he had no control over the mortal minds who had to agree to implement it.</Flavor>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>460973</Multiverseid>
-<Rulings>2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
+<Rulings>2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.
+2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
 2019/05/03: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
 2019/05/03: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
 2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
-2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.
-2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.</Rulings>
+2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1059,9 +1059,9 @@ You may reveal the first card you draw each turn as you draw it. Whenever you re
 When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.</CardText>
 <Artist>Lius Lasahido</Artist>
 <Multiverseid>460980</Multiverseid>
-<Rulings>2019/05/03: It's important to reveal the first card you draw each turn (or choose not to reveal it) before it is mixed with the other cards in your hand. You look at the card as you draw it before choosing whether to reveal it.
+<Rulings>2019/05/03: If you reveal a card this way, it remains revealed until Kefnet's triggered ability finishes resolving.
+2019/05/03: It's important to reveal the first card you draw each turn (or choose not to reveal it) before it is mixed with the other cards in your hand. You look at the card as you draw it before choosing whether to reveal it.
 2019/05/03: You don't have to reveal a drawn card if you don't wish to copy it at that time.
-2019/05/03: If you reveal a card this way, it remains revealed until Kefnet's triggered ability finishes resolving.
 2019/05/03: You can reveal and copy an instant or sorcery card this way on any turn, not just your own, if it's the first card you've drawn that turn.
 2019/05/03: Multiple card draws are always treated as a sequence of individual card draws. For example, if you haven't drawn any cards yet during a turn and cast a spell that instructs you to draw three cards, you'll draw them one at a time. Only the first card drawn this way may be revealed and copied with Kefnet's ability.
 2019/05/03: If an effect puts a card into your hand without using the word "draw," the card wasn't drawn.
@@ -1091,8 +1091,8 @@ When God-Eternal Kefnet dies or is put into exile from the battlefield, you may 
 <Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
 <ManaCost>1UUU (4)</ManaCost>
 <CardText>If you would draw a card while your library has no cards in it, you win the game instead.
-+1: Target player puts the top two cards of their library into their graveyard. Draw a card.
--8: Draw seven cards. Then if your library has no cards in it, you win the game.</CardText>
+[+1]: Target player puts the top two cards of their library into their graveyard. Draw a card.
+[-8]: Draw seven cards. Then if your library has no cards in it, you win the game.</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>460981</Multiverseid>
 <Rulings>2019/05/03: If for some reason you can't win the game (because your opponent controls Platinum Angel, for example), you won't lose for having tried to draw a card from a library with no cards in it. The draw was still replaced.
@@ -1133,7 +1133,7 @@ When God-Eternal Kefnet dies or is put into exile from the battlefield, you may 
 <Type>Legendary Planeswalker — Kasmina (Loyalty: 5)</Type>
 <ManaCost>3U (4)</ManaCost>
 <CardText>Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
--2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.</CardText>
+[-2]: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>460983</Multiverseid>
 <Rulings>2019/05/03: To determine the total cost of an opponent's spell that targets a creature or planeswalker you control, start with the mana cost or alternative cost that player is paying, add any cost increases (such as that of Kasmina's effect), then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was.
@@ -1237,7 +1237,7 @@ You and permanents you control gain hexproof until end of turn. (You and they ca
 <Type>Legendary Planeswalker — Narset (Loyalty: 5)</Type>
 <ManaCost>1UU (3)</ManaCost>
 <CardText>Each opponent can't draw more than one card each turn.
--2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</CardText>
+[-2]: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>460988</Multiverseid>
 <Rulings>2019/05/03: Your opponents can each draw a maximum of one card each on each player's turn. Subsequent card draws during that turn are ignored.
@@ -1383,10 +1383,10 @@ Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until end of
 <CardText>You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary if that permanent is legendary.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>460995</Multiverseid>
-<Rulings>2019/05/03: <Spark Double> copies exactly what was printed on the original permanent (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it as any counters on it or any Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
+<Rulings>2019/05/03: If the chosen permanent is copying something else (for example, if the chosen permanent is another <Spark Double>), then <Spark Double> enters the battlefield as whatever the chosen permanent copied.
+2019/05/03: <Spark Double> copies exactly what was printed on the original permanent (unless that permanent is copying something else or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or any Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, or so on.
 2019/05/03: <Spark Double> isn't legendary if it copies a legendary permanent, and this exception is copiable. If something else copies <Spark Double> later, that copy also won't be legendary. If you control two or more permanents with the same name but only one is legendary, the "legend rule" doesn't apply.
 2019/05/03: If the copied permanent has {X} in its mana cost, X is considered to be 0.
-2019/05/03: If the chosen permanent is copying something else (for example, if the chosen permanent is another <Spark Double>), then <Spark Double> enters the battlefield as whatever the chosen permanent copied.
 2019/05/03: If the chosen permanent is a token, <Spark Double> copies the original characteristics of that token as stated by the effect that created the token. <Spark Double> doesn't become a token in this case.
 2019/05/03: Any enters-the-battlefield abilities of the copied permanent will trigger when <Spark Double> enters the battlefield. Any "as [this permanent] enters the battlefield" or "[this permanent] enters the battlefield with" abilities of the chosen permanent will also work.
 2019/05/03: If it copies a planeswalker, <Spark Double> enters with the appropriate number of loyalty counters as printed on the card plus one. If it copies a creature, <Spark Double> enters with a +1/+1 counter on it, plus any counters that will be put on it from abilities it copied and other abilities of other objects.
@@ -1672,7 +1672,7 @@ You may play the top card of your library. If you cast a spell this way, pay lif
 <Type>Legendary Planeswalker — Davriel (Loyalty: 3)</Type>
 <ManaCost>2B (3)</ManaCost>
 <CardText>At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
--1: Target player discards a card.</CardText>
+[-1]: Target player discards a card.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>461010</Multiverseid>
 <Rulings>2019/05/03: If an opponent has two or more cards in their hand as their upkeep begins, Davriel's first ability won't trigger. No player may take any actions during a turn before the turn's upkeep begins. Because the upkeep step is before the draw step, that player won't have drawn a card for the turn yet.
@@ -1959,9 +1959,9 @@ When enchanted permanent dies or is put into exile, return that card to the batt
 <Type>Legendary Planeswalker — Liliana (Loyalty: 6)</Type>
 <ManaCost>4BB (6)</ManaCost>
 <CardText>Whenever a creature you control dies, draw a card.
-+1: Create a 2/2 black Zombie creature token.
--4: Each player sacrifices two creatures.
--9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.</CardText>
+[+1]: Create a 2/2 black Zombie creature token.
+[-4]: Each player sacrifices two creatures.
+[-9]: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>461024</Multiverseid>
 <Rulings>2019/05/03: If Liliana dies at the same time as one or more creatures you control, her first ability triggers for each of those creatures.
@@ -2027,7 +2027,7 @@ When Massacre Girl enters the battlefield, each other creature gets -1/-1 until 
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
 <CardText>Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
--2: Destroy target creature. Its controller draws two cards.</CardText>
+[-2]: Destroy target creature. Its controller draws two cards.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>461027</Multiverseid>
 <Rulings>2019/05/03: If the target creature is an illegal target by the time Ob Nixilis's last ability tries to resolve, the ability doesn't resolve. No player draws two cards. If the target is legal but not destroyed (most likely because it has indestructible), its controller does draw two cards.
@@ -2106,7 +2106,7 @@ When Massacre Girl enters the battlefield, each other creature gets -1/-1 until 
 —Nahiri</Flavor>
 <Artist>Daarken</Artist>
 <Multiverseid>461031</Multiverseid>
-<Rulings>2019/05/03: If the target creature is an illegal target by the time <Sorin's Thirst> tries to resolve, the spell doesn't resolve. You won't gain 2 life.</Rulings>
+<Rulings>2019/07/12: If the target creature is an illegal target by the time <Sorin's Thirst> tries to resolve, the spell doesn't resolve. You won't gain 2 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2218,7 +2218,7 @@ Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, 
 <Flavor>"I think I cracked a fang."</Flavor>
 <Artist>Jason Rainville</Artist>
 <Multiverseid>461037</Multiverseid>
-<Rulings>2019/05/03: In a Two-Headed Giant game, <Vampire Opportunist>'s ability causes the opposing team to lose 4 life and you gain 2 life.</Rulings>
+<Rulings>2019/07/12: In a Two-Headed Giant game, <Vampire Opportunist>'s ability causes the opposing team to lose 4 life and you gain 2 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2316,9 +2316,9 @@ Change the target of target spell or ability with a single target.</CardText>
 —Ral Zarek</Flavor>
 <Artist>Svetlin Velinov</Artist>
 <Multiverseid>461042</Multiverseid>
-<Rulings>2019/05/03: Once you announce that you're casting <Bolt Bend>, no player may take actions until the spell has been paid for. Notably, opponents can't try to change whether you control a creature with power 4 or greater.
+<Rulings>2019/05/03: The single target that the target spell or ability targets doesn't have to be a creature you control with power 4 or greater.
+2019/05/03: Once you announce that you're casting <Bolt Bend>, no player may take actions until the spell has been paid for. Notably, opponents can't try to change whether you control a creature with power 4 or greater.
 2019/05/03: Once you've cast <Bolt Bend>, losing control of all creatures with power 4 or greater won't affect the spell or cause you to pay more mana.
-2019/05/03: The single target that the target spell or ability targets doesn't have to be a creature you control with power 4 or greater.
 2019/05/03: You don't choose the new target for the spell or ability until <Bolt Bend> resolves. You must change the target if possible. However, you can't change the target to an illegal target. If there are no legal targets to choose from, the target isn't changed. It doesn't matter if the original target has somehow become illegal itself.
 2019/05/03: If a spell or ability targets multiple things, you can't target it with <Bolt Bend>, even if all but one of those targets have become illegal.
 2019/05/03: If a spell or ability targets the same player or object multiple times, you can't target it with <Bolt Bend>.</Rulings>
@@ -2392,8 +2392,8 @@ Change the target of target spell or ability with a single target.</CardText>
 <Type>Legendary Planeswalker — Chandra (Loyalty: 4)</Type>
 <ManaCost>2RR (4)</ManaCost>
 <CardText>Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
-+1: Exile the top card of your library. You may play it this turn.
--7: Exile the top seven cards of your library. You may play them this turn.</CardText>
+[+1]: Exile the top card of your library. You may play it this turn.
+[-7]: Exile the top seven cards of your library. You may play them this turn.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>461046</Multiverseid>
 <Rulings>2019/05/03: Chandra's first ability triggers if she loses loyalty from being dealt damage, from her last loyalty ability being activated, or because an effect removes loyalty counters from her. If an effect simply causes Chandra to leave the battlefield, no counters were removed and so her ability doesn't trigger.
@@ -2721,7 +2721,7 @@ When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you m
 <Type>Legendary Planeswalker — Jaya (Loyalty: 5)</Type>
 <ManaCost>4R (5)</ManaCost>
 <CardText>If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
--2: Jaya, Venerated Firemage deals 2 damage to any target.</CardText>
+[-2]: Jaya, Venerated Firemage deals 2 damage to any target.</CardText>
 <Artist>Yongjae Choi</Artist>
 <Multiverseid>461062</Multiverseid>
 <Rulings>2019/05/03: Jaya's first ability doesn't cause Jaya to deal damage; it affects the amount of damage dealt by the original red source.
@@ -2875,8 +2875,8 @@ Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswal
 <Type>Legendary Planeswalker — Sarkhan (Loyalty: 5)</Type>
 <ManaCost>3RR (5)</ManaCost>
 <CardText>Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.
-+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.
--3: Create a 4/4 red Dragon creature token with flying.</CardText>
+[+1]: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.
+[-3]: Create a 4/4 red Dragon creature token with flying.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>461070</Multiverseid>
 <Rulings>2019/05/03: A planeswalker that becomes a creature due to Sarkhan's first loyalty ability can't attack unless you've controlled it continuously since your turn began.
@@ -2930,7 +2930,7 @@ Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswal
 <Type>Legendary Planeswalker — Tibalt (Loyalty: 5)</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Your opponents can't gain life.
--2: Create a 1/1 red Devil creature token with "When this creature dies, it deals 1 damage to any target."</CardText>
+[-2]: Create a 1/1 red Devil creature token with "When this creature dies, it deals 1 damage to any target."</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>461073</Multiverseid>
 <Rulings>2019/05/03: Spells and abilities that cause opponents to gain life still resolve while Tibalt is on the battlefield. No opponent will gain life, but any other effects of that spell or ability will happen.
@@ -2972,9 +2972,9 @@ When Turret Ogre enters the battlefield, if you control another creature with po
 <Flavor>Common Gruul career aspirations: berserker, shaman, catapault.</Flavor>
 <Artist>Johann Bodin</Artist>
 <Multiverseid>461075</Multiverseid>
-<Rulings>2019/05/03: In a Two-Headed Giant game, <Turret Ogre>'s ability causes the opposing team to lose 4 life.
-2019/05/03: If you don't control another creature with power 4 or greater immediately after <Turret Ogre> enters the battlefield, its ability doesn't trigger, even if you can raise a creature's power right away. If you control no other creature with power 4 or greater as the ability resolves, nothing happens. These don't have to be the same creature, though.
-2019/05/03: <Turret Ogre>'s ability doesn't deal more than 2 damage if you control more than one other creature with power 4 or greater.</Rulings>
+<Rulings>2019/05/03: If you don't control another creature with power 4 or greater immediately after <Turret Ogre> enters the battlefield, its ability doesn't trigger, even if you can raise a creature's power right away. If you control no other creature with power 4 or greater as the ability resolves, nothing happens. These don't have to be the same creature, though.
+2019/05/03: <Turret Ogre>'s ability doesn't deal more than 2 damage if you control more than one other creature with power 4 or greater.
+2019/05/03: In a Two-Headed Giant game, <Turret Ogre>'s ability causes the opposing team to lose 4 life.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -3009,7 +3009,7 @@ When Arboreal Grazer enters the battlefield, you may put a land card from your h
 <Type>Legendary Planeswalker — Arlinn (Loyalty: 7)</Type>
 <ManaCost>4GG (6)</ManaCost>
 <CardText>Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
--2: Create a 2/2 green Wolf creature token.</CardText>
+[-2]: Create a 2/2 green Wolf creature token.</CardText>
 <Artist>Ryan Pancoast</Artist>
 <Multiverseid>461077</Multiverseid>
 <Rulings>2019/05/03: A creature that's a Wolf or Werewolf enters the battlefield with one +1/+1 counter if it would otherwise enter with no +1/+1 counters.
@@ -3297,7 +3297,7 @@ When God-Eternal Rhonas dies or is put into exile from the battlefield, you may 
 <Type>Legendary Planeswalker — Yanggu (Loyalty: 3)</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>Each creature you control with a +1/+1 counter on it has "{T}: Add one mana of any color."
--1: Put a +1/+1 counter on target creature.</CardText>
+[-1]: Put a +1/+1 counter on target creature.</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>461091</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -3392,8 +3392,8 @@ Enchanted land has "{T}: Add two mana of any one color."</CardText>
 <Type>Legendary Planeswalker — Nissa (Loyalty: 5)</Type>
 <ManaCost>3GG (5)</ManaCost>
 <CardText>Whenever you tap a Forest for mana, add an additional {G}.
-+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
--8: You get an emblem with "Lands you control have indestructible." Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.</CardText>
+[+1]: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+[-8]: You get an emblem with "Lands you control have indestructible." Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>461096</Multiverseid>
 <Rulings>2019/05/03: The effect of Nissa's first loyalty ability lasts indefinitely. It doesn't wear off during the cleanup step.</Rulings>
@@ -3481,11 +3481,11 @@ Enchanted land has "{T}: Add two mana of any one color."</CardText>
 • Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
 <Artist>Matt Stewart</Artist>
 <Multiverseid>461100</Multiverseid>
-<Rulings>2019/05/03: You may choose <Pollenbright Druid> as the target of its own ability.
+<Rulings>2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
+2019/05/03: You may choose <Pollenbright Druid> as the target of its own ability.
 2019/05/03: The War of the Spark set doesn't include any ways for players to have counters, but some cards in other sets say that a player "gets" a counter of a certain kind. Notably, emblems aren't counters.
 2019/05/03: You can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
 2019/05/03: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
-2019/05/03: Players can respond to the spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.
 2019/05/03: If a spell or ability puts counters on a player or permanent and then instructs you to proliferate, choosing that player or permanent will give that player or permanent another of those counters.
 2019/05/03: Putting loyalty counters on planeswalkers doesn't cause their loyalty abilities to be activated.</Rulings>
 <Vintage>Legal</Vintage>
@@ -3617,8 +3617,8 @@ When Thundering Ceratok enters the battlefield, other creatures you control gain
 <Type>Legendary Planeswalker — Vivien (Loyalty: 4)</Type>
 <ManaCost>2G (3)</ManaCost>
 <CardText>You may cast creature spells as though they had flash.
-+1: Until your next turn, up to one target creature gains vigilance and reach.
--2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature card.</CardText>
+[+1]: Until your next turn, up to one target creature gains vigilance and reach.
+[-2]: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature card.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>461107</Multiverseid>
 <Rulings>2019/05/03: While resolving Vivien's last ability, you must exile one of the three cards, even if none of them are creature cards. You may look at the exiled card at any time, even if it's not a creature card.
@@ -3672,7 +3672,7 @@ When Thundering Ceratok enters the battlefield, other creatures you control gain
 <Type>Creature — Crocodile 5/3</Type>
 <ManaCost>4G (5)</ManaCost>
 <CardText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</CardText>
-<Flavor>"The Eternals had to endure Amonkhet's five trails. Let's see if they can pass the Trial of Ravnica."
+<Flavor>"The Eternals had to endure Amonkhet's five trials. Let's see if they can pass the Trial of Ravnica."
 —Jace Beleren</Flavor>
 <Artist>Zezhou Chen</Artist>
 <Multiverseid>461110</Multiverseid>
@@ -3690,8 +3690,8 @@ When Thundering Ceratok enters the battlefield, other creatures you control gain
 <Type>Legendary Planeswalker — Ajani (Loyalty: 5)</Type>
 <ManaCost>2GW (4)</ManaCost>
 <CardText>Creatures you control have vigilance.
-+1: You gain 3 life.
--2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.</CardText>
+[+1]: You gain 3 life.
+[-2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Multiverseid>461111</Multiverseid>
 <Rulings>2019/05/03: If a planeswalker you control is also a creature (most likely because it's Gideon), that planeswalker receives both a +1/+1 counter and a loyalty counter as Ajani's last ability resolves.
@@ -3830,8 +3830,8 @@ Whenever one or more loyalty counters are put on planeswalkers you control, put 
 <Type>Legendary Planeswalker — Domri (Loyalty: 3)</Type>
 <ManaCost>1RG (3)</ManaCost>
 <CardText>Creatures you control get +1/+0.
-+1: Add {R} or {G}. Creature spells you cast this turn can't be countered.
--2: Target creature you control fights target creature you don't control.</CardText>
+[+1]: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+[-2]: Target creature you control fights target creature you don't control.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>461118</Multiverseid>
 <Rulings>2019/05/03: Because it's a loyalty ability, Domri's first loyalty ability isn't a mana ability. It can be activated only any time you could cast a sorcery. It uses the stack and can be responded to.
@@ -4169,9 +4169,9 @@ Search your library for a creature card with converted mana cost equal to 1 plus
 <Type>Legendary Planeswalker — Bolas (Loyalty: 4)</Type>
 <ManaCost>UBBBR (5)</ManaCost>
 <CardText>Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
-+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
--3: Destroy target creature or planeswalker.
--8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.</CardText>
+[+1]: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+[-3]: Destroy target creature or planeswalker.
+[-8]: Each opponent who doesn't control a legendary creature or planeswalker loses the game.</CardText>
 <Artist>Raymond Swanland</Artist>
 <Multiverseid>461134</Multiverseid>
 <Rulings>2019/05/03: Nicol Bolas doesn't remove loyalty abilities from the other planeswalkers.
@@ -4253,16 +4253,17 @@ Whenever an opponent attacks a planeswalker you control with one or more creatur
 <Type>Legendary Planeswalker — Ral (Loyalty: 4)</Type>
 <ManaCost>2UR (4)</ManaCost>
 <CardText>Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker.
-+2: Scry 1.
--2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</CardText>
+[+2]: Scry 1.
+[-2]: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</CardText>
 <Artist>Wesley Burt</Artist>
 <Multiverseid>461138</Multiverseid>
-<Rulings>2019/05/03: Some spells instruct you to "copy target instant or sorcery spell." Because a spell is never a legal target for itself, you can't cast such a spell targeting itself to create a loop that causes Ral's first ability over and over.
-2019/05/03: If an effect copies a spell multiple times, as Finale of Promise may, Ral's first ability triggers that many times.
+<Rulings>2019/05/03: If an effect copies a spell multiple times, as Finale of Promise may, Ral's first ability triggers that many times.
 2019/05/03: If the spell that's copied is modal (that is, it says "Choose one —" or the like), the copy created by Ral's last ability will have the same mode or modes. You can't choose different ones.
-2019/05/03: If the spell that's copied has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2019/05/03: Some spells instruct you to "copy target instant or sorcery spell." Because a spell is never a legal target for itself, you can't cast such a spell targeting itself to create a loop that causes Ral's first ability over and over.
 2019/05/03: You can't choose to pay any additional costs for the copy created by Ral's last ability. However, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too.
-2019/05/03: The copies that Ral's last ability creates are created on the stack, so they're not "cast." Abilities that trigger when a player casts a spell won't trigger.</Rulings>
+2019/05/03: The copies that Ral's last ability creates are created on the stack, so they're not "cast." Abilities that trigger when a player casts a spell won't trigger.
+2019/05/03: If the spell that's copied has damage divided as it was cast, the division can't be changed (although the targets receiving that damage still can). The same is true of spells that distribute counters.
+2019/06/14: If an effect copies a card rather than a spell (such as that of God-Eternal Kefnet), this doesn't cause Ral's first ability to trigger. That ability will trigger if you cast the copy, however.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4385,7 +4386,7 @@ Whenever Rubblebelt Rioters attacks, it gets +X/+0 until end of turn, where X is
 <Type>Legendary Planeswalker — Sorin (Loyalty: 4)</Type>
 <ManaCost>2WB (4)</ManaCost>
 <CardText>As long as it's your turn, creatures and planeswalkers you control have lifelink.
-+2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
+[+2]: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
 -X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.</CardText>
 <Artist>Tommy Arnold</Artist>
 <Multiverseid>461144</Multiverseid>
@@ -4443,8 +4444,8 @@ Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker,
 <Type>Legendary Planeswalker — Tamiyo (Loyalty: 5)</Type>
 <ManaCost>2GU (4)</ManaCost>
 <CardText>Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.
-+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
--3: Return target card from your graveyard to your hand.</CardText>
+[+1]: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
+[-3]: Return target card from your graveyard to your hand.</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>461147</Multiverseid>
 <Rulings>2019/05/03: As a spell or ability an opponent controls resolves, if it would force you to sacrifice a permanent or discard a card, you just don't. That part of the effect does nothing. If that spell or ability gives you the option to sacrifice a permanent or to discard a card, you can't take that option.
@@ -4466,8 +4467,8 @@ Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker,
 <Type>Legendary Planeswalker — Teferi (Loyalty: 4)</Type>
 <ManaCost>1WU (3)</ManaCost>
 <CardText>Each opponent can cast spells only any time they could cast a sorcery.
-+1: Until your next turn, you may cast sorcery spells as though they had flash.
--3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.</CardText>
+[+1]: Until your next turn, you may cast sorcery spells as though they had flash.
+[-3]: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.</CardText>
 <Artist>Chris Rallis</Artist>
 <Multiverseid>461148</Multiverseid>
 <Rulings>2019/05/03: If an effect allows opponents to cast spells any time they could cast an instant (for example, if your opponent also controls a <Teferi, Time Raveler> and activates his +1 loyalty ability), the restriction of Teferi's first ability takes precedence over that permission.
@@ -4587,7 +4588,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Angrath (Loyalty: 5)</Type>
 <ManaCost>2{B/R}{B/R} (4)</ManaCost>
 <CardText>Creatures you control have menace.
--2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)</CardText>
+[-2]: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)</CardText>
 <Artist>Slawomir Maniak</Artist>
 <Multiverseid>461154</Multiverseid>
 <Rulings>2019/05/03: Army is a new creature type. It's possible to control a nontoken Army (perhaps a creature with the changeling ability) and, through combinations of other cards, it's possible to control multiple Army tokens. When instructed to amass, you may put +1/+1 counters on any of your Army creatures, and you may choose a different one each time.
@@ -4606,13 +4607,13 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Ashiok (Loyalty: 5)</Type>
 <ManaCost>1{U/B}{U/B} (3)</ManaCost>
 <CardText>Spells and abilities your opponents control can't cause their controller to search their library.
--1: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.</CardText>
+[-1]: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.</CardText>
 <Artist>Cynthia Sheppard</Artist>
 <Multiverseid>461155</Multiverseid>
-<Rulings>2019/05/03: Spells and abilities your opponents control may cause other players to search their libraries, and spells and abilities you control may cause your opponents to search their libraries.
+<Rulings>2019/05/03: Effects that instruct your opponents to reveal or look at cards from the top of their libraries will still work. Only effects that use the word "search" are affected.
+2019/05/03: Spells and abilities your opponents control may cause other players to search their libraries, and spells and abilities you control may cause your opponents to search their libraries.
 2019/05/03: If an effect says "You may search your library . . . If you do, shuffle your library" or "You may search your library . . . then shuffle your library," your opponents can't choose to search, so they won't shuffle.
 2019/05/03: If an effect says "Search your library . . . then shuffle your library," your opponents shuffle their libraries even though they can't search.
-2019/05/03: Effects that instruct your opponents to reveal or look at cards from the top of their libraries will still work. Only effects that use the word "search" are affected.
 2019/05/03: If Ashiok's last ability targets an opponent, the cards put into their graveyard will be among the cards exiled by the ability. No player may take any actions between the time the cards are put into a graveyard and the time your opponents' graveyards are all exiled.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -4628,7 +4629,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Dovin (Loyalty: 5)</Type>
 <ManaCost>2{W/U} (3)</ManaCost>
 <CardText>Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
--1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.</CardText>
+[-1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>461156</Multiverseid>
 <Rulings>2019/05/03: Dovin's loyalty ability can target any permanent an opponent controls, not just one that can deal or be dealt damage.
@@ -4648,7 +4649,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Huatli (Loyalty: 7)</Type>
 <ManaCost>2{G/W} (3)</ManaCost>
 <CardText>Each creature you control assigns combat damage equal to its toughness rather than its power.
--3: You gain life equal to the greatest toughness among creatures you control.</CardText>
+[-3]: You gain life equal to the greatest toughness among creatures you control.</CardText>
 <Artist>Lius Lasahido</Artist>
 <Multiverseid>461157</Multiverseid>
 <Rulings>2019/05/03: Huatli's first ability doesn't actually change any creature's power. It changes only the amount of combat damage it assigns. All other rules and effects that check power or toughness use the real values. For example, Domri's Ambush won't cause a creature to deal damage equal to its toughness.
@@ -4667,7 +4668,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Kaya (Loyalty: 7)</Type>
 <ManaCost>3{W/B}{W/B}{W/B} (6)</ManaCost>
 <CardText>Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
--3: Exile target creature.</CardText>
+[-3]: Exile target creature.</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Multiverseid>461158</Multiverseid>
 <Rulings>2019/05/03: If a spell or ability you control targets an opponent with hexproof or an opponent's permanent with hexproof, and Kaya leaves the battlefield while that spell or ability is on the stack, that player or permanent becomes an illegal target for that spell or ability. This includes Kaya's own loyalty ability.</Rulings>
@@ -4685,7 +4686,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Kiora (Loyalty: 7)</Type>
 <ManaCost>2{G/U} (3)</ManaCost>
 <CardText>Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
--1: Untap target permanent.</CardText>
+[-1]: Untap target permanent.</CardText>
 <Artist>Jaime Jones</Artist>
 <Multiverseid>461159</Multiverseid>
 <Rulings>2019/05/03: The entering creature must have power 4 or greater as it enters the battlefield, or Kiora's first ability won't trigger. Static abilities that raise or lower a creature's power are taken into account, as well as any +1/+1 counters the creature enters with. However, you can't have a creature with power 3 or less enter the battlefield, raise its power with a spell, an activated ability, or a triggered ability, and have Kiora's ability trigger.
@@ -4721,7 +4722,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Saheeli (Loyalty: 5)</Type>
 <ManaCost>1{U/R}{U/R} (3)</ManaCost>
 <CardText>Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.
--2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.</CardText>
+[-2]: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.</CardText>
 <Artist>Wesley Burt</Artist>
 <Multiverseid>461161</Multiverseid>
 <Rulings>2019/05/03: Saheeli's first ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered.
@@ -4746,7 +4747,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Samut (Loyalty: 5)</Type>
 <ManaCost>2{R/G}{R/G} (4)</ManaCost>
 <CardText>Creatures you control have haste.
--1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.</CardText>
+[-1]: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.</CardText>
 <Artist>Aleksi Briclot</Artist>
 <Multiverseid>461162</Multiverseid>
 <Rulings>2019/05/03: If the target creature is an illegal target by the time Samut's loyalty ability tries to resolve, the ability doesn't resolve. You won't scry 1.</Rulings>
@@ -4764,7 +4765,7 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 <Type>Legendary Planeswalker — Vraska (Loyalty: 5)</Type>
 <ManaCost>2{B/G}{B/G} (4)</ManaCost>
 <CardText>Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
--2: Create a 1/1 black Assassin creature token with deathtouch and "Whenever this creature deals damage to a planeswalker, destroy that planeswalker."</CardText>
+[-2]: Create a 1/1 black Assassin creature token with deathtouch and "Whenever this creature deals damage to a planeswalker, destroy that planeswalker."</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>461163</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -4877,7 +4878,7 @@ When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.<
 <Type>Artifact Creature — Golem 2/1</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>{2}: Add one mana of any color.</CardText>
-<Flavor>It didn't budge when the portal opened, nor when the ancient gods emerged. I came to life only when all ten guilds came together to face a common threat.</Flavor>
+<Flavor>It didn't budge when the portal opened, nor when the ancient gods emerged. It came to life only when all ten guilds came together to face a common threat.</Flavor>
 <Artist>Alayna Danner</Artist>
 <Multiverseid>461169</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -5256,8 +5257,8 @@ When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
 <Type>Legendary Planeswalker — Gideon (Loyalty: 4)</Type>
 <ManaCost>4WW (6)</ManaCost>
 <CardText>Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
-+2: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
--9: Exile Gideon, the Oathsworn and each creature your opponents control.</CardText>
+[+2]: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
+[-9]: Exile Gideon, the Oathsworn and each creature your opponents control.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>463832</Multiverseid>
 <Rulings>2019/05/03: A non-Gideon creature is a creature that isn't also a Gideon planeswalker. For example, Gideon's Company is a non-Gideon creature.
@@ -5362,14 +5363,14 @@ When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
 <Type>Legendary Planeswalker — Jace (Loyalty: 4)</Type>
 <ManaCost>4UU (6)</ManaCost>
 <CardText>Whenever you draw your second card each turn, put a +1/+1 counter on target creature you control.
-+1: Draw a card.
--7: Creatures you control can't be blocked this turn.</CardText>
+[+1]: Draw a card.
+[-7]: Creatures you control can't be blocked this turn.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>463837</Multiverseid>
-<Rulings>2019/05/03: Jace's first ability can trigger only once each turn. It doesn't matter whether Jace was on the battlefield when the first card was drawn.
+<Rulings>2019/05/03: Once Jace's last ability has resolved, its effect applies even if Jace has left the battlefield.
+2019/05/03: Jace's first ability can trigger only once each turn. It doesn't matter whether Jace was on the battlefield when the first card was drawn.
 2019/05/03: If an effect instructs you to draw multiple cards, Jace's first ability triggers after you draw whichever is the second one for the turn (if any). You choose a target for the ability after you've drawn all of the cards.
-2019/05/03: If a spell or ability causes you to put cards into your hand without specifically using the word "draw," it's not a card drawn.
-2019/05/03: Once Jace's last ability has resolved, its effect applies even if Jace has left the battlefield.</Rulings>
+2019/05/03: If a spell or ability causes you to put cards into your hand without specifically using the word "draw," it's not a card drawn.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -5461,9 +5462,9 @@ Whenever Guildpact Informant deals combat damage to a player or planeswalker, pr
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
 <ManaCost>4UB (6)</ManaCost>
 <CardText>Creature and planeswalker spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)
-+2: Tezzeret, Master of the Bridge deals X damage to each opponent, where X is the number of artifacts you control. You gain X life.
--3: Return target artifact card from your graveyard to your hand.
--8: Exile the top ten cards of your library. Put all artifact cards from among them onto the battlefield.</CardText>
+[+2]: Tezzeret, Master of the Bridge deals X damage to each opponent, where X is the number of artifacts you control. You gain X life.
+[-3]: Return target artifact card from your graveyard to your hand.
+[-8]: Exile the top ten cards of your library. Put all artifact cards from among them onto the battlefield.</CardText>
 <Artist>Chase Stone</Artist>
 <Multiverseid>463842</Multiverseid>
 <Rulings>2019/05/03: Affinity for artifacts means "This spell costs {1} less for each artifact you control."

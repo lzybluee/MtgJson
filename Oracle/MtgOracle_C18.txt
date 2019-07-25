@@ -794,9 +794,9 @@ When Whiptongue Hydra enters the battlefield, destroy all creatures with flying.
 <Name>Aminatou, the Fateshifter</Name>
 <Type>Legendary Planeswalker — Aminatou (Loyalty: 3)</Type>
 <ManaCost>WUB (3)</ManaCost>
-<CardText>+1: Draw a card, then put a card from your hand on top of your library.
--1: Exile another target permanent you own, then return it to the battlefield under your control.
--6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
+<CardText>[+1]: Draw a card, then put a card from your hand on top of your library.
+[-1]: Exile another target permanent you own, then return it to the battlefield under your control.
+[-6]: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.
 Aminatou, the Fateshifter can be your commander.</CardText>
 <Artist>Seb McKinnon</Artist>
 <Multiverseid>450638</Multiverseid>
@@ -865,9 +865,9 @@ At the beginning of combat on your turn, create a 2/1 blue Myr artifact creature
 <Name>Estrid, the Masked</Name>
 <Type>Legendary Planeswalker — Estrid (Loyalty: 3)</Type>
 <ManaCost>1GWU (4)</ManaCost>
-<CardText>+2: Untap each enchanted permanent you control.
--1: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
--7: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
+<CardText>[+2]: Untap each enchanted permanent you control.
+[-1]: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
+[-7]: Put the top seven cards of your library into your graveyard. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.
 Estrid, the Masked can be your commander.</CardText>
 <Artist>Johannes Voss</Artist>
 <Multiverseid>450641</Multiverseid>
@@ -951,9 +951,9 @@ Whenever an enchanted creature or enchantment creature you control attacks, draw
 <Name>Lord Windgrace</Name>
 <Type>Legendary Planeswalker — Windgrace (Loyalty: 5)</Type>
 <ManaCost>2BRG (5)</ManaCost>
-<CardText>+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
--3: Return up to two target land cards from your graveyard to the battlefield.
--11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
+<CardText>[+2]: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.
+[-3]: Return up to two target land cards from your graveyard to the battlefield.
+[-11]: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.
 Lord Windgrace can be your commander.</CardText>
 <Artist>Bram Sels</Artist>
 <Multiverseid>450644</Multiverseid>
@@ -971,9 +971,9 @@ Lord Windgrace can be your commander.</CardText>
 <Name>Saheeli, the Gifted</Name>
 <Type>Legendary Planeswalker — Saheeli (Loyalty: 4)</Type>
 <ManaCost>2UR (4)</ManaCost>
-<CardText>+1: Create a 1/1 colorless Servo artifact creature token.
-+1: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
--7: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
+<CardText>[+1]: Create a 1/1 colorless Servo artifact creature token.
+[+1]: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
+[-7]: For each artifact you control, create a token that's a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.
 Saheeli, the Gifted can be your commander.</CardText>
 <Artist>Ryan Pancoast</Artist>
 <Multiverseid>450645</Multiverseid>
@@ -1427,9 +1427,10 @@ Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creat
 Destroy target artifact or enchantment. If this spell was kicked, draw two cards.</CardText>
 <Artist>Mark Tedin</Artist>
 <Multiverseid>451021</Multiverseid>
-<Rulings>2004/10/04: If the target is not legal on resolution, the spell doesn't resolve and you do not get to draw the two cards.</Rulings>
+<Rulings>2019/06/14: If the target artifact or enchantment is an illegal target by the time <Dismantling Blow> tries to resolve, the spell doesn't resolve. You won't draw two cards if it was kicked. If the target is legal but not destroyed (most likely because it has indestructible), you do draw two cards.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2018 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -4852,6 +4853,7 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2018 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5040,6 +5042,7 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2018 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5353,6 +5356,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2018 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5611,6 +5615,7 @@ Cycling {W} ({W}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2018 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5798,6 +5803,7 @@ Cycling {G} ({G}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2018 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>

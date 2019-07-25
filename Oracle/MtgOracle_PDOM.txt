@@ -1,12 +1,31 @@
 <Card>
 <SetId>PDOM</SetId>
+<No>1p</No>
+<Name>Karn, Scion of Urza</Name>
+<Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+[-1]: Put a card you own with a silver counter on it from exile into your hand.
+[-2]: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
+<Artist>Chase Stone</Artist>
+<Rulings>2018/04/27: A token created by Karn's last ability will count itself, so it'll be at least 1/1.
+2018/04/27: Karn is colorless but not an artifact. The Construct tokens created by Karn's last ability don't count Karn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>1s</No>
 <Name>Karn, Scion of Urza</Name>
 <Type>Legendary Planeswalker — Karn (Loyalty: 5)</Type>
 <ManaCost>4 (4)</ManaCost>
-<CardText>+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
--1: Put a card you own with a silver counter on it from exile into your hand.
--2: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
+<CardText>[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+[-1]: Put a card you own with a silver counter on it from exile into your hand.
+[-2]: Create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."</CardText>
 <Artist>Chase Stone</Artist>
 <Rulings>2018/04/27: A token created by Karn's last ability will count itself, so it'll be at least 1/1.
 2018/04/27: Karn is colorless but not an artifact. The Construct tokens created by Karn's last ability don't count Karn.</Rulings>
@@ -34,6 +53,24 @@ Creatures can't attack you or a planeswalker you control unless their controller
 <Modern>Legal</Modern>
 <Set>Dominaria Promos</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>6p</No>
+<Name>Benalish Marshal</Name>
+<Type>Creature — Human Knight 3/3</Type>
+<ManaCost>WWW (3)</ManaCost>
+<CardText>Other creatures you control get +1/+1.</CardText>
+<Flavor>"Some aspire to climb the mountain of Honor. The Benalish are born upon its peak, and from there ascend among the stars."
+—History of Benalia</Flavor>
+<Artist>Mark Zug</Artist>
+<Rulings>2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to a creature you control may become lethal if <Benalish Marshal> leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -139,6 +176,31 @@ II, III — Each player returns two land cards from their graveyard to the battl
 
 <Card>
 <SetId>PDOM</SetId>
+<No>21p</No>
+<Name>History of Benalia</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>1WW (3)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 2/2 white Knight creature token with vigilance.
+III — Knights you control get +2/+1 until end of turn.</CardText>
+<Artist>Noah Bradley</Artist>
+<Rulings>2018/04/27: The final chapter ability of <History of Benalia> affects only Knights you control at the time it resolves. Creatures you begin to control later in the turn or that become Knights later in the turn won't get +2/+1.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>21s</No>
 <Name>History of Benalia</Name>
 <Type>Enchantment — Saga</Type>
@@ -184,6 +246,25 @@ Creatures you control with first strike have double strike.</CardText>
 
 <Card>
 <SetId>PDOM</SetId>
+<No>26p</No>
+<Name>Lyra Dawnbringer</Name>
+<Type>Legendary Creature — Angel 5/5</Type>
+<ManaCost>3WW (5)</ManaCost>
+<CardText>Flying, first strike, lifelink
+Other Angels you control get +1/+1 and have lifelink.</CardText>
+<Flavor>"You are not alone. You never were."</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: Multiple instances of lifelink on the same creature are redundant.
+2018/04/27: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to an Angel you control may become lethal if Lyra leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>26s</No>
 <Name>Lyra Dawnbringer</Name>
 <Type>Legendary Creature — Angel 5/5</Type>
@@ -215,6 +296,23 @@ Other Angels you control get +1/+1 and have lifelink.</CardText>
 <Modern>Legal</Modern>
 <Set>Dominaria Promos</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>35p</No>
+<Name>Shalai, Voice of Plenty</Name>
+<Type>Legendary Creature — Angel 3/4</Type>
+<ManaCost>3W (4)</ManaCost>
+<CardText>Flying
+You, planeswalkers you control, and other creatures you control have hexproof.
+{4}{G}{G}: Put a +1/+1 counter on each creature you control.</CardText>
+<Artist>Victor Adame Minguez</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -268,6 +366,35 @@ Exile all nonland permanents that aren't legendary.</CardText>
 <Artist>Noah Bradley</Artist>
 <Rulings>2018/04/27: You can't cast a legendary sorcery unless you control a legendary creature or a legendary planeswalker. Once you begin to cast a legendary sorcery, losing control of your legendary creatures and planeswalkers won't affect that spell.
 2018/04/27: Other than the casting restriction, the legendary supertype on a sorcery carries no additional rules. You may cast any number of legendary sorceries in a turn, and your deck may contain any number of legendary cards (but no more than four of any with the same name).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>42p</No>
+<Name>The Antiquities War</Name>
+<Type>Enchantment — Saga</Type>
+<ManaCost>3U (4)</ManaCost>
+<CardText>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+III — Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</CardText>
+<Artist>Mark Tedin</Artist>
+<Rulings>2018/04/27: The final chapter ability of <The Antiquities War> affects only artifacts you control at the time it resolves. Artifacts you begin to control later in the turn won't become 5/5 creatures.
+2018/04/27: The final chapter ability of <The Antiquities War> overwrites an artifact creature's normal base power and toughness and all previous effects that set an artifact creature's base power and toughness to specific values. Any power- or toughness-setting effects that start to apply after the ability resolves will overwrite this effect.
+2018/04/27: Effects that modify an artifact creature's power and/or toughness, such as the effect of Titanic Growth, will apply to the creature no matter when they started to take effect. The same is true for any counters that change its power and/or toughness and effects that switch its power and toughness.
+2018/04/27: If <The Antiquities War> somehow becomes an artifact enchantment prior to resolving its final chapter ability, it will become a 5/5 Saga artifact enchantment creature, and will then be sacrificed after that ability resolves.
+2018/04/27: An Equipment that becomes an artifact creature becomes unattached if it's attached to a creature. Its equip ability can be activated, but it won't become attached to the target creature.
+2018/04/27: As a Saga enters the battlefield, its controller puts a lore counter on it. As your precombat main phase begins (immediately after your draw step), you put another lore counter on each Saga you control. Putting a lore counter on a Saga in either of these ways doesn't use the stack.
+2018/04/27: Each symbol on the left of a Saga's text box represents a chapter ability. A chapter ability is a triggered ability that triggers when a lore counter that is put on the Saga causes the number of lore counters on the Saga to become equal to or greater than the ability's chapter number. Chapter abilities are put onto the stack and may be responded to.
+2018/04/27: A chapter ability doesn't trigger if a lore counter is put on a Saga that already had a number of lore counters greater than or equal to that chapter's number. For example, the third lore counter put on a Saga causes the III chapter ability to trigger, but I and II won't trigger again.
+2018/04/27: Once a chapter ability has triggered, the ability on the stack won't be affected if the Saga gains or loses counters, or if it leaves the battlefield.
+2018/04/27: If multiple chapter abilities trigger at the same time, their controller puts them on the stack in any order. If any of them require targets, those targets are chosen as you put the abilities on the stack, before any of those abilities resolve.
+2018/04/27: If counters are removed from a Saga, the appropriate chapter abilities will trigger again when the Saga receives lore counters. Removing lore counters won't cause a previous chapter ability to trigger.
+2018/04/27: Once the number of lore counters on a Saga is greater than or equal to the greatest number among its chapter abilities—in the Dominaria set, this is always three—the Saga's controller sacrifices it as soon as its chapter ability has left the stack, most likely by resolving or being countered. This state-based action doesn't use the stack.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -462,6 +589,24 @@ When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, retur
 <Modern>Legal</Modern>
 <Set>Dominaria Promos</Set>
 <Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>68p</No>
+<Name>Tempest Djinn</Name>
+<Type>Creature — Djinn 0/4</Type>
+<ManaCost>UUU (3)</ManaCost>
+<CardText>Flying
+Tempest Djinn gets +1/+0 for each basic Island you control.</CardText>
+<Flavor>The first to arrive on Dominaria from their distant home, the marids are the oldest tribe of djinn and the most respected by storm and sea.</Flavor>
+<Artist>Zezhou Chen</Artist>
+<Rulings>2018/04/27: <Tempest Djinn>'s ability that modifies its power applies only while it's on the battlefield. In all other zones, it's a 0/4 creature card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -819,6 +964,25 @@ III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to ea
 
 <Card>
 <SetId>PDOM</SetId>
+<No>129p</No>
+<Name>Goblin Chainwhirler</Name>
+<Type>Creature — Goblin Warrior 3/3</Type>
+<ManaCost>RRR (3)</ManaCost>
+<CardText>First strike
+When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each opponent and each creature and planeswalker they control.</CardText>
+<Flavor>"The trick is, once you get moving, don't stop!"</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/04/27: If the damage <Goblin Chainwhirler> would deal to a player is prevented, it still deals 1 damage to that player's creatures and planeswalkers.
+2018/04/27: In a Two-Headed Giant game, the <Goblin Chainwhirler>'s last ability causes the opposing team to lose 2 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>129s</No>
 <Name>Goblin Chainwhirler</Name>
 <Type>Creature — Goblin Warrior 3/3</Type>
@@ -862,9 +1026,9 @@ At the beginning of your end step, if two or more permanents you don't control h
 <Name>Jaya Ballard</Name>
 <Type>Legendary Planeswalker — Jaya (Loyalty: 5)</Type>
 <ManaCost>2RRR (5)</ManaCost>
-<CardText>+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
-+1: Discard up to three cards, then draw that many cards.
--8: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
+<CardText>[+1]: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
+[+1]: Discard up to three cards, then draw that many cards.
+[-8]: You get an emblem with "You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."</CardText>
 <Artist>Magali Villeneuve</Artist>
 <Rulings>2018/04/27: Mana produced by Jaya's first ability can be spent among any number of instant and/or sorcery spells.
 2018/04/27: You choose how many cards to discard while Jaya's second ability is resolving. You can choose to discard zero cards this way (and then draw zero cards) if you wish.
@@ -899,6 +1063,24 @@ Jaya's Immolating Inferno deals X damage to each of up to three targets.</CardTe
 
 <Card>
 <SetId>PDOM</SetId>
+<No>143p</No>
+<Name>Siege-Gang Commander</Name>
+<Type>Creature — Goblin 2/2</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.</CardText>
+<Flavor>"Ready . . . uh . . . fire!"</Flavor>
+<Artist>Aaron Miller</Artist>
+<Rulings>2018/04/27: You can sacrifice any Goblin you control to activate <Siege-Gang Commander>'s activated ability, not just the ones its triggered ability puts onto the battlefield. You can even sacrifice <Siege-Gang Commander> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>143s</No>
 <Name>Siege-Gang Commander</Name>
 <Type>Creature — Goblin 2/2</Type>
@@ -908,6 +1090,24 @@ Jaya's Immolating Inferno deals X damage to each of up to three targets.</CardTe
 <Flavor>"Ready . . . uh . . . fire!"</Flavor>
 <Artist>Aaron Miller</Artist>
 <Rulings>2018/04/27: You can sacrifice any Goblin you control to activate <Siege-Gang Commander>'s activated ability, not just the ones its triggered ability puts onto the battlefield. You can even sacrifice <Siege-Gang Commander> itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>146p</No>
+<Name>Squee, the Immortal</Name>
+<Type>Legendary Creature — Goblin 2/1</Type>
+<ManaCost>1RR (3)</ManaCost>
+<CardText>You may cast Squee, the Immortal from your graveyard or from exile.</CardText>
+<Flavor>"You gotta be pretty smart to live long as me, but not being able to die helps."</Flavor>
+<Artist>Svetlin Velinov</Artist>
+<Rulings>2018/04/27: Squee's ability doesn't prevent you from casting Squee from any other zone.
+2018/04/27: You must follow the normal timing permissions and restrictions and pay its cost to cast Squee from your graveyard or from exile.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1044,6 +1244,24 @@ Look at the top X cards of your library. You may put any number of land and/or l
 
 <Card>
 <SetId>PDOM</SetId>
+<No>172p</No>
+<Name>Marwyn, the Nurturer</Name>
+<Type>Legendary Creature — Elf Druid 1/1</Type>
+<ManaCost>2G (3)</ManaCost>
+<CardText>Whenever another Elf enters the battlefield under your control, put a +1/+1 counter on Marwyn, the Nurturer.
+{T}: Add an amount of {G} equal to Marwyn's power.</CardText>
+<Flavor>Midwife to mothers and leader to all.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: Marwyn's activated ability is a mana ability. It doesn't use the stack and can't be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>172s</No>
 <Name>Marwyn, the Nurturer</Name>
 <Type>Legendary Creature — Elf Druid 1/1</Type>
@@ -1111,6 +1329,23 @@ Multani, Yavimaya's Avatar gets +1/+1 for each land you control and each land ca
 <ManaCost>GGG (3)</ManaCost>
 <CardText>Steel Leaf Champion can't be blocked by creatures with power 2 or less.</CardText>
 <Artist>Simon Dominic</Artist>
+<Rulings>2018/04/27: Once a creature with power 3 or greater has blocked this creature, changing the power of the blocking creature won't cause this creature to become unblocked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>182p</No>
+<Name>Steel Leaf Champion</Name>
+<Type>Creature — Elf Knight 5/4</Type>
+<ManaCost>GGG (3)</ManaCost>
+<CardText>Steel Leaf Champion can't be blocked by creatures with power 2 or less.</CardText>
+<Flavor>One eye open to see the truth of the world. One eye covered to gaze at the goddess within.</Flavor>
+<Artist>Chris Rahn</Artist>
 <Rulings>2018/04/27: Once a creature with power 3 or greater has blocked this creature, changing the power of the blocking creature won't cause this creature to become unblocked.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
@@ -1562,9 +1797,9 @@ Shanna gets +1/+1 for each creature you control.</CardText>
 <Name>Teferi, Hero of Dominaria</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 4)</Type>
 <ManaCost>3WU (5)</ManaCost>
-<CardText>+1: Draw a card. At the beginning of the next end step, untap up to two lands.
--3: Put target nonland permanent into its owner's library third from the top.
--8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
+<CardText>[+1]: Draw a card. At the beginning of the next end step, untap up to two lands.
+[-3]: Put target nonland permanent into its owner's library third from the top.
+[-8]: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</CardText>
 <Artist>Chris Rallis</Artist>
 <Rulings>2018/04/27: You don't decide which two lands to untap until the next end step.
 2018/04/27: You choose the target for the triggered ability of Teferi's emblem after you've seen the card you drew.</Rulings>
@@ -1599,6 +1834,26 @@ Whenever an Aura or Equipment you control is put into a graveyard from the battl
 
 <Card>
 <SetId>PDOM</SetId>
+<No>211p</No>
+<Name>Blackblade Reforged</Name>
+<Type>Legendary Artifact — Equipment</Type>
+<ManaCost>2 (2)</ManaCost>
+<CardText>Equipped creature gets +1/+1 for each land you control.
+Equip legendary creature {3}
+Equip {7}</CardText>
+<Flavor>It spilled the blood of one elder dragon. In Gideon's hands, it may yet taste another's.</Flavor>
+<Artist>Chris Rahn</Artist>
+<Rulings>2018/04/27: "Equip [quality] creature" is a variant of the equip keyword. "Equip [quality] creature [cost]" means "[Cost]: Attach this Equipment to target [quality] creature you control. Activate this ability only any time you could cast a sorcery."
+2018/04/27: Whether the target creature is legendary is checked only as <Blackblade Reforged>'s first equip ability is activated and as that ability resolves. If the creature somehow becomes nonlegendary later, <Blackblade Reforged> remains attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>211s</No>
 <Name>Blackblade Reforged</Name>
 <Type>Legendary Artifact — Equipment</Type>
@@ -1610,6 +1865,24 @@ Equip {7}</CardText>
 <Artist>Chris Rahn</Artist>
 <Rulings>2018/04/27: "Equip [quality] creature" is a variant of the equip keyword. "Equip [quality] creature [cost]" means "[Cost]: Attach this Equipment to target [quality] creature you control. Activate this ability only any time you could cast a sorcery."
 2018/04/27: Whether the target creature is legendary is checked only as <Blackblade Reforged>'s first equip ability is activated and as that ability resolves. If the creature somehow becomes nonlegendary later, <Blackblade Reforged> remains attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>214p</No>
+<Name>Forebear's Blade</Name>
+<Type>Artifact — Equipment</Type>
+<ManaCost>3 (3)</ManaCost>
+<CardText>Equipped creature gets +3/+0 and has vigilance and trample.
+Whenever equipped creature dies, attach Forebear's Blade to target creature you control.
+Equip {3}</CardText>
+<Artist>Scott Murphy</Artist>
+<Rulings>2018/04/27: If there's no target for the triggered ability of <Forebear's Blade>, or if the ability's target becomes illegal, <Forebear's Blade> remains on the battlefield unattached.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1637,6 +1910,23 @@ Equip {3}</CardText>
 
 <Card>
 <SetId>PDOM</SetId>
+<No>215p</No>
+<Name>Gilded Lotus</Name>
+<Type>Artifact</Type>
+<ManaCost>5 (5)</ManaCost>
+<CardText>{T}: Add three mana of any one color.</CardText>
+<Flavor>"The perfection of the lotus reminds me of my hopes for this world . . . and my failures. I will not rest until I've atoned for them."
+—Karn</Flavor>
+<Artist>Volkan Baǵa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>215s</No>
 <Name>Gilded Lotus</Name>
 <Type>Artifact</Type>
@@ -1645,6 +1935,31 @@ Equip {3}</CardText>
 <Flavor>"The perfection of the lotus reminds me of my hopes for this world . . . and my failures. I will not rest until I've atoned for them."
 —Karn</Flavor>
 <Artist>Volkan Baǵa</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>217p</No>
+<Name>Helm of the Host</Name>
+<Type>Legendary Artifact — Equipment</Type>
+<ManaCost>4 (4)</ManaCost>
+<CardText>At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
+Equip {5}</CardText>
+<Flavor>Forged out of flowstone for the queen of Vesuva.</Flavor>
+<Artist>Igor Kieryluk</Artist>
+<Rulings>2018/04/27: The token copies exactly what was printed on the original creature and nothing else (unless that creature is copying something else or is a token; see below). It doesn't copy whether that creature is tapped or untapped, whether it has any counters on it or Auras and Equipment attached to it, or any non-copy effects that have changed its power, toughness, types, color, and so on.
+2018/04/27: The token isn't legendary, and this exception is copiable. If something else copies the token later, that copy also won't be legendary. If you control two or more permanents with the same name but only one is legendary, the "legend rule" doesn't apply.
+2018/04/27: The token gains haste indefinitely, and this effect isn't copiable. If something else copies the token later, that copy won't have haste.
+2018/04/27: If the copied creature has {X} in its mana cost, X is considered to be 0.
+2018/04/27: If the copied creature is a token, the token that's created copies the original characteristics of that token as stated by the effect that created that token.
+2018/04/27: If the copied creature is copying something else (for example, if the copied creature is a Clone), then the token enters the battlefield as whatever that creature copied.
+2018/04/27: Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any "as [this creature] enters the battlefield" or "[this creature] enters the battlefield with" abilities of the chosen creature will also work.
+2018/04/27: If the equipped creature leaves the battlefield before the triggered ability of <Helm of the Host> resolves, or if there is no equipped creature, no token is created. However, if <Helm of the Host> leaves the battlefield while its triggered ability is on the stack, a token will be created of the creature it last equipped. If that creature has also left the battlefield, its last known information is used to determine what the token looks like.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1778,6 +2093,22 @@ Crew 3</CardText>
 
 <Card>
 <SetId>PDOM</SetId>
+<No>238p</No>
+<Name>Cabal Stronghold</Name>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{3}, {T}: Add {B} for each basic Swamp you control.</CardText>
+<Flavor>The seat of Belzenlok's power, the Stronghold serves as the gathering place for the Cabal as their dark influence spreads from Urborg.</Flavor>
+<Artist>Dimitar Marinski</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>238s</No>
 <Name>Cabal Stronghold</Name>
 <Type>Land</Type>
@@ -1794,6 +2125,22 @@ Crew 3</CardText>
 
 <Card>
 <SetId>PDOM</SetId>
+<No>239p</No>
+<Name>Clifftop Retreat</Name>
+<Type>Land</Type>
+<CardText>Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}.</CardText>
+<Flavor>The sunlight falls pristine on the temple at Epityr, softened by the remembered shadows of angelic saviors' wings.</Flavor>
+<Artist>Christine Choi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>239s</No>
 <Name>Clifftop Retreat</Name>
 <Type>Land</Type>
@@ -1801,6 +2148,23 @@ Crew 3</CardText>
 {T}: Add {R} or {W}.</CardText>
 <Flavor>The sunlight falls pristine on the temple at Epityr, softened by the remembered shadows of angelic saviors' wings.</Flavor>
 <Artist>Christine Choi</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>240p</No>
+<Name>Hinterland Harbor</Name>
+<Type>Land</Type>
+<CardText>Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
+{T}: Add {G} or {U}.</CardText>
+<Flavor>"Our ancestors brought down a Phyrexian portal ship, then built our town on its hull. We're pretty proud of that."
+—Alene of Riverspan</Flavor>
+<Artist>Daniel Ljunggren</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1827,6 +2191,22 @@ Crew 3</CardText>
 
 <Card>
 <SetId>PDOM</SetId>
+<No>241p</No>
+<Name>Isolated Chapel</Name>
+<Type>Land</Type>
+<CardText>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.</CardText>
+<Flavor>Serra's blessing lies strongest upon Sursi, where her holy chapels are untouched even as the Cabal encroaches.</Flavor>
+<Artist>Richard Wright</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
 <No>241s</No>
 <Name>Isolated Chapel</Name>
 <Type>Land</Type>
@@ -1834,6 +2214,23 @@ Crew 3</CardText>
 {T}: Add {W} or {B}.</CardText>
 <Flavor>Serra's blessing lies strongest upon Sursi, where her holy chapels are untouched even as the Cabal encroaches.</Flavor>
 <Artist>Richard Wright</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>247p</No>
+<Name>Sulfur Falls</Name>
+<Type>Land</Type>
+<CardText>Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R}.</CardText>
+<Flavor>"We have inherited the mysteries of the Thran, but few of the answers."
+—Jhoira</Flavor>
+<Artist>Cliff Childs</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -1851,6 +2248,23 @@ Crew 3</CardText>
 <Flavor>"We have inherited the mysteries of the Thran, but few of the answers."
 —Jhoira</Flavor>
 <Artist>Cliff Childs</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dominaria Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PDOM</SetId>
+<No>248p</No>
+<Name>Woodland Cemetery</Name>
+<Type>Land</Type>
+<CardText>Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
+{T}: Add {B} or {G}.</CardText>
+<Flavor>"They never found the body of young Josu, or that of his murderous sister."
+—"The Fall of the House of Vess"</Flavor>
+<Artist>Christine Choi</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>

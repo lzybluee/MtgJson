@@ -1,0 +1,133 @@
+<Card>
+<SetId>PM20</SetId>
+<No>69</No>
+<Name>Negate</Name>
+<Type>Instant</Type>
+<ManaCost>1U (2)</ManaCost>
+<CardText>Counter target noncreature spell.</CardText>
+<Flavor>"As one, nature lifts its voice to tell you this: 'No.'"</Flavor>
+<Artist>Magali Villeneuve</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2009/10/01: A "creature spell" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>PM20</SetId>
+<No>95</No>
+<Name>Disfigure</Name>
+<Type>Instant</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Target creature gets -2/-2 until end of turn.</CardText>
+<Flavor>"Let this serve as a reminder of your failure."
+—Exdratha, bog witch</Flavor>
+<Artist>Justin Sweet</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM20</SetId>
+<No>131</No>
+<Name>Chandra's Regulator</Name>
+<Type>Legendary Artifact</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Whenever you activate a loyalty ability of a Chandra planeswalker, you may pay {1}. If you do, copy that ability. You may choose new targets for the copy.
+{1}, {T}, Discard a Mountain card or a red card: Draw a card.</CardText>
+<Artist>Mathias Kollros</Artist>
+<Rulings>2019/07/12: You can't pay {1} more than once for each time the triggered ability of <Chandra's Regulator> resolves.
+2019/07/12: Copying a loyalty ability doesn't add or remove loyalty counters from any object.
+2019/07/12: If the loyalty ability has −X in its cost, the copy uses the same value of X.
+2019/07/12: The triggered ability of <Chandra's Regulator> and the copy it creates both resolve before the loyalty ability that caused it to trigger. They resolve even if that loyalty ability is countered.
+2019/07/12: A Mountain card is a land card with the subtype Mountain, not any land card with a mana ability that produces red mana. Land cards are normally colorless, even if they produce red mana.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM20</SetId>
+<No>139</No>
+<Name>Flame Sweep</Name>
+<Type>Instant</Type>
+<ManaCost>2R (3)</ManaCost>
+<CardText>Flame Sweep deals 2 damage to each creature except for creatures you control with flying.</CardText>
+<Flavor>"I have calculated that a dragon in flight, in a single strafing run, can cover an area of—"
+—Thaedus the Clever, last words</Flavor>
+<Artist>Viktor Titov</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2019/07/12: The only creatures that avoid <Flame Sweep>'s damage are those you control with flying. The set of creatures dealt damage includes creatures you don't control with flying and creatures you control without flying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM20</SetId>
+<No>185</No>
+<Name>Nightpack Ambusher</Name>
+<Type>Creature — Wolf 4/4</Type>
+<ManaCost>2GG (4)</ManaCost>
+<CardText>Flash
+Other Wolves and Werewolves you control get +1/+1.
+At the beginning of your end step, if you didn't cast a spell this turn, create a 2/2 green Wolf creature token.</CardText>
+<Artist>Sam Rowan</Artist>
+<Rulings>2019/07/12: A creature that's both a Wolf and a Werewolf gets only +1/+1 from <Nightpack Ambusher>'s ability.
+2019/07/12: Because damage remains marked on a creature until it's removed as the turn ends, nonlethal damage dealt to other Wolves and Werewolves you control may become lethal if <Nightpack Ambusher> leaves the battlefield during that turn.
+2019/07/12: <Nightpack Ambusher> looks at the entire turn to see if you have cast a spell, even if <Nightpack Ambusher> wasn't on the battlefield when that spell was cast. Notably, you won't get a Wolf token during your end step if you cast <Nightpack Ambusher> during your turn.
+2019/07/12: If you cast a spell that was countered, <Nightpack Ambusher>'s last ability doesn't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PM20</SetId>
+<No>197</No>
+<Name>Thrashing Brontodon</Name>
+<Type>Creature — Dinosaur 3/4</Type>
+<ManaCost>1GG (3)</ManaCost>
+<CardText>{1}, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment.</CardText>
+<Flavor>It cares more about preserving the herd's territory than about preserving itself.</Flavor>
+<Artist>Jakub Kasper</Artist>
+<Watermark>Planeswalker</Watermark>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>PM20</SetId>
+<No>206</No>
+<Name>Corpse Knight</Name>
+<Type>Creature — Zombie Knight 2/2</Type>
+<ManaCost>WB (2)</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, each opponent loses 1 life.</CardText>
+<Flavor>"With each knight that rode out from the bone-white keep, the queen's soldiers felt their courage failing."
+—Krinnea, Siege of the Bone Spire</Flavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Planeswalker</Watermark>
+<Rulings>2019/07/12: In a Two-Headed Giant game, <Corpse Knight>'s ability causes the opposing team to lose 1 life twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Core Set 2020 Promos</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

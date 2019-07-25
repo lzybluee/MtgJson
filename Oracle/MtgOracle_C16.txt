@@ -2481,9 +2481,9 @@ When enchanted creature deals combat damage to a player, sacrifice it and attach
 <Name>Daretti, Scrap Savant</Name>
 <Type>Legendary Planeswalker — Daretti (Loyalty: 3)</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>+2: Discard up to two cards, then draw that many cards.
--2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
--10: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
+<CardText>[+2]: Discard up to two cards, then draw that many cards.
+[-2]: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
+[-10]: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
 Daretti, Scrap Savant can be your commander.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>420740</Multiverseid>
@@ -2507,9 +2507,10 @@ Whenever Dragon Mage deals combat damage to a player, each player discards their
 <Flavor>"You'll bend to my will—with or without your precious sanity."</Flavor>
 <Artist>Matthew D. Wilson</Artist>
 <Multiverseid>420741</Multiverseid>
-<Rulings>2004/10/04: All players discard, not just the player that was damaged.</Rulings>
+<Rulings>2019/07/12: If a player has fewer than seven cards in their library, that player loses the game after <Dragon Mage>'s triggered ability resolves. If each player loses the game this way, the game's a draw.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2016 Edition</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -3480,6 +3481,7 @@ When Wall of Blossoms enters the battlefield, draw a card.</CardText>
 <Multiverseid>420792</Multiverseid>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2016 Edition</Set>
 <Rarity>Uncommon</Rarity>
 </Card>

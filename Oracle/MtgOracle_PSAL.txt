@@ -153,7 +153,7 @@ Whenever Higure, the Still Wind deals combat damage to a player, you may search 
 <ManaCost>4GW (6)</ManaCost>
 <CardText>Other green creatures you control get +1/+1.
 Other white creatures you control get +1/+1.
-{T}: Create a legendary 2/2 green and white Wolf creature token named Voja.</CardText>
+{T}: Create Voja, a legendary 2/2 green and white Wolf creature token.</CardText>
 <Artist>Donato Giancola</Artist>
 <Rulings>2005/10/01: Other creatures you control that are both green and white, including Voja, get +2/+2.
 2005/10/01: The token is named "Voja" and has creature type "Wolf." This is different from most creature tokens, where the name and creature type are the same.
@@ -4994,6 +4994,7 @@ Equip {1}</CardText>
 <Artist>Matt Cavotta</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Salvat 2005</Set>
 <Rarity>Uncommon</Rarity>
 </Card>

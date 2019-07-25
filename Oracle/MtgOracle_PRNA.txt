@@ -78,6 +78,28 @@ Addendum — If you cast this spell during your main phase, put a +1/+1 counter 
 
 <Card>
 <SetId>PRNA</SetId>
+<No>32p</No>
+<Name>Benthic Biomancer</Name>
+<Type>Creature — Merfolk Wizard Mutant 1/1</Type>
+<ManaCost>U (1)</ManaCost>
+<CardText>{1}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.</CardText>
+<Flavor>"I am my life's work."</Flavor>
+<Artist>Daarken</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: An ability that triggers when counters are put on a permanent will trigger if that permanent somehow enters the battlefield with those counters.
+2019/01/25: You draw a card and discard a card all while <Benthic Biomancer>'s triggered ability is resolving. Nothing can happen between the two, and no player may choose to take actions.
+2019/01/25: You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it.
+2019/01/25: If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
 <No>32s</No>
 <Name>Benthic Biomancer</Name>
 <Type>Creature — Merfolk Wizard Mutant 1/1</Type>
@@ -168,6 +190,26 @@ At the beginning of your upkeep, scry 1.</CardText>
 <Artist>Jason A. Engle</Artist>
 <Rulings>2019/01/25: The first ability of <Font of Agonies> is a triggered ability, not an activated ability. It doesn't allow you to pay life whenever you want; rather, you need some other way of paying life, such as with Blood Crypt's ability.
 2019/01/25: An effect that causes you to pay life uses the word "pay." If an effect allows you to choose to lose life or to be dealt damage without using the word "pay," you're not paying life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>76p</No>
+<Name>Gutterbones</Name>
+<Type>Creature — Skeleton Warrior 2/1</Type>
+<ManaCost>B (1)</ManaCost>
+<CardText>Gutterbones enters the battlefield tapped.
+{1}{B}: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.</CardText>
+<Flavor>"Down here, things don't stay dead."
+—Lavinia</Flavor>
+<Artist>Grzegorz Rutkowski</Artist>
+<Rulings>2019/01/25: Damage dealt to a player causes that player to lose that much life.
+2019/01/25: In a multiplayer game, if an opponent loses life during your turn and then leaves the game, you can activate <Gutterbones>'s ability.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -328,6 +370,30 @@ When Rix Maadi Reveler enters the battlefield, discard a card, then draw a card.
 
 <Card>
 <SetId>PRNA</SetId>
+<No>114p</No>
+<Name>Skarrgan Hellkite</Name>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>3RR (5)</ManaCost>
+<CardText>Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Flying
+{3}{R}: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Gruul</Watermark>
+<Rulings>2019/01/25: You divide the damage as you activate <Skarrgan Hellkite>'s ability, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you activate the ability, you choose whether to have <Skarrgan Hellkite> deal 2 damage to a single target, or deal 1 damage to each of two targets.
+2019/01/25: If <Skarrgan Hellkite>'s ability has two targets and one becomes illegal, the remaining target is dealt 1 damage, not 2.
+2019/01/25: Once <Skarrgan Hellkite>'s ability has been activated, it resolves even if all +1/+1 counters are removed from it or if <Skarrgan Hellkite> leaves the battlefield.
+2019/01/25: Riot is a replacement effect. Players can't respond to your choice of +1/+1 counter or haste, and they can't take actions while the creature is on the battlefield without one or the other.
+2019/01/25: If a creature entering the battlefield has riot but can't have a +1/+1 counter put onto it, it gains haste.
+2019/01/25: If you choose for the creature to gain haste, it gains haste indefinitely. It won't lose it as the turn ends or as another player gains control of it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
 <No>124s</No>
 <Name>End-Raze Forerunners</Name>
 <Type>Creature — Boar 7/7</Type>
@@ -378,6 +444,29 @@ Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may 
 2019/01/25: If the entering creature is put into your graveyard while <Guardian Project>'s ability is on the stack, that same card will be a creature card in your graveyard that shares a name with the creature that was on the battlefield, so you won't draw a card.
 2019/01/25: If the entering creature leaves the battlefield and returns while <Guardian Project>'s ability is on the stack, that same card will be a new creature you control that shares a name with the creature that was on the battlefield, so you won't draw a card. However, <Guardian Project>'s ability may trigger for the new creature and you may draw a card as that ability resolves.
 2019/01/25: A face-down creature has no name, so it can't share a name with anything. This includes other creatures with no name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>131p</No>
+<Name>Incubation Druid</Name>
+<Type>Creature — Elf Druid 0/2</Type>
+<ManaCost>1G (2)</ManaCost>
+<CardText>{T}: Add one mana of any type that a land you control could produce. If Incubation Druid has a +1/+1 counter on it, add three mana of that type instead.
+{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)</CardText>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Simic</Watermark>
+<Rulings>2019/01/25: The types of mana are white, blue, black, red, green, and colorless.
+2019/01/25: Any change to a land's type or abilities gained by a land can affect the types of mana a land can produce.
+2019/01/25: <Incubation Druid> checks the effects of all mana-producing abilities of lands you control, but it doesn't check their costs or legality. For example, Spire of Industry says "{T}, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact." If you control Spire of Industry and <Incubation Druid>, you can tap <Incubation Druid> for any color of mana. It doesn't matter whether you control an artifact, whether you can pay 1 life, or whether Spire of Industry is untapped.
+2019/01/25: <Incubation Druid> doesn't care about any restrictions or riders your lands put on the mana they produce, such as those of Unclaimed Territory and Guildmages' Forum. It just produces one mana of the appropriate type, with no restrictions or riders.
+2019/01/25: You can always activate an ability that will cause a creature to adapt. As that ability resolves, if the creature has a +1/+1 counter on it for any reason, you simply won't put any +1/+1 counters on it.
+2019/01/25: If a creature somehow loses all of its +1/+1 counters, it can adapt again and get more +1/+1 counters.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -940,6 +1029,42 @@ Each creature you control with a +1/+1 counter on it has trample.</CardText>
 <Modern>Legal</Modern>
 <Set>Ravnica Allegiance Promos</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>221pa</No>
+<Name>Bedeck (Bedeck/Bedazzle)</Name>
+<Type>Instant</Type>
+<ManaCost>{B/R}{B/R} (2)</ManaCost>
+<CardText>Target creature gets +3/-3 until end of turn.</CardText>
+<Artist>Randy Vargas</Artist>
+<Watermark>Rakdos</Watermark>
+<Rulings>2019/01/25: You can't cast Bedazzle without a target nonbasic land and a target opponent or planeswalker. If one of the targets is illegal when Bedazzle tries to resolve, the other is still affected as appropriate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Bedazzle (Bedeck/Bedazzle)</OtherPart>
+</Card>
+
+<Card>
+<SetId>PRNA</SetId>
+<No>221pb</No>
+<Name>Bedazzle (Bedeck/Bedazzle)</Name>
+<Type>Instant</Type>
+<ManaCost>4BR (6)</ManaCost>
+<CardText>Destroy target nonbasic land. Bedazzle deals 2 damage to target opponent or planeswalker.</CardText>
+<Artist>Randy Vargas</Artist>
+<Watermark>Rakdos</Watermark>
+<Rulings>2019/01/25: You can't cast <Bedazzle> without a target nonbasic land and a target opponent or planeswalker. If one of the targets is illegal when <Bedazzle> tries to resolve, the other is still affected as appropriate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Ravnica Allegiance Promos</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Bedeck (Bedeck/Bedazzle)</OtherPart>
 </Card>
 
 <Card>

@@ -71,10 +71,11 @@ If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters
 <ManaCost>3U (4)</ManaCost>
 <CardText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</CardText>
 <Artist>Terese Nielsen</Artist>
-<Rulings>2016/06/08: You choose which pile to put into your hand.
-2016/06/08: Each pile may contain from zero to five cards; they don't have to be split "evenly."</Rulings>
+<Rulings>2019/06/14: You choose which pile to put into your hand.
+2019/06/14: Each pile may contain from zero to five cards; they don't have to be split "evenly."</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>World Championship Decks 2001</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -333,7 +334,7 @@ Draw two cards.</CardText>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>World Championship Decks 2001</Set>
-<Rarity>Common</Rarity>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>
@@ -888,8 +889,12 @@ All creatures of the chosen type get -1/-1.</CardText>
 <CardText>At the beginning of your upkeep, if Nether Spirit is the only creature card in your graveyard, you may return Nether Spirit to the battlefield.</CardText>
 <Flavor>It roams in both the worlds of the living and the dead but belongs to neither.</Flavor>
 <Artist>Alan Pollack</Artist>
+<Rulings>2019/06/14: If <Nether Spirit> isn't the only creature card in your graveyard as your upkeep begins, its ability won't trigger. You can't take any actions during your turn before your upkeep begins.
+2019/06/14: If <Nether Spirit> isn't the only creature card in your graveyard as its ability resolves, it remains in your graveyard.
+2019/06/14: If you have two <Nether Spirit>s in your graveyard, they stop each other from returning.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>World Championship Decks 2001</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -1007,12 +1012,11 @@ At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it.</CardT
 This spell can't be countered.
 Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented.</CardText>
 <Artist>Matthew D. Wilson</Artist>
-<Rulings>2004/10/04: This spell has a self-replacement in it . This means that if <Urza's Rage> is kicked, the 3 damage is replaced with 10 unpreventable damage before any other replacements can be applied. For example, you can't use Healing Salve to prevent the 3 damage before it gets changed.
-2004/10/04: You can target this spell with spells and abilities, so you can change its target. Those spells and abilities just can't counter it.
-2004/10/04: The damage is unpreventable, but it can be affected by replacement effects.
-2004/10/04: Counterspells can be cast that target it, but when they resolve they simply don't counter it since it can't be countered.</Rulings>
+<Rulings>2019/06/14: A spell or ability that counters spells can still target <Urza's Rage>. When that spell or ability resolves, <Urza's Rage> won't be countered, but any additional effects of that spell or ability will still happen.
+2019/06/14: If the target for <Urza's Rage> becomes an illegal target, the spell won't resolve and will be put into its owner's graveyard with no effect. This is true even if its damage can't be prevented and even though it can't be countered.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>World Championship Decks 2001</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -1027,12 +1031,11 @@ Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it d
 This spell can't be countered.
 Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented.</CardText>
 <Artist>Matthew D. Wilson</Artist>
-<Rulings>2004/10/04: This spell has a self-replacement in it . This means that if <Urza's Rage> is kicked, the 3 damage is replaced with 10 unpreventable damage before any other replacements can be applied. For example, you can't use Healing Salve to prevent the 3 damage before it gets changed.
-2004/10/04: You can target this spell with spells and abilities, so you can change its target. Those spells and abilities just can't counter it.
-2004/10/04: The damage is unpreventable, but it can be affected by replacement effects.
-2004/10/04: Counterspells can be cast that target it, but when they resolve they simply don't counter it since it can't be countered.</Rulings>
+<Rulings>2019/06/14: A spell or ability that counters spells can still target <Urza's Rage>. When that spell or ability resolves, <Urza's Rage> won't be countered, but any additional effects of that spell or ability will still happen.
+2019/06/14: If the target for <Urza's Rage> becomes an illegal target, the spell won't resolve and will be put into its owner's graveyard with no effect. This is true even if its damage can't be prevented and even though it can't be countered.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>World Championship Decks 2001</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -1047,12 +1050,11 @@ Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it d
 This spell can't be countered.
 Urza's Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented.</CardText>
 <Artist>Matthew D. Wilson</Artist>
-<Rulings>2004/10/04: This spell has a self-replacement in it . This means that if <Urza's Rage> is kicked, the 3 damage is replaced with 10 unpreventable damage before any other replacements can be applied. For example, you can't use Healing Salve to prevent the 3 damage before it gets changed.
-2004/10/04: You can target this spell with spells and abilities, so you can change its target. Those spells and abilities just can't counter it.
-2004/10/04: The damage is unpreventable, but it can be affected by replacement effects.
-2004/10/04: Counterspells can be cast that target it, but when they resolve they simply don't counter it since it can't be countered.</Rulings>
+<Rulings>2019/06/14: A spell or ability that counters spells can still target <Urza's Rage>. When that spell or ability resolves, <Urza's Rage> won't be countered, but any additional effects of that spell or ability will still happen.
+2019/06/14: If the target for <Urza's Rage> becomes an illegal target, the spell won't resolve and will be put into its owner's graveyard with no effect. This is true even if its damage can't be prevented and even though it can't be countered.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>World Championship Decks 2001</Set>
 <Rarity>Rare</Rarity>
 </Card>
@@ -1333,7 +1335,7 @@ Each land with an activated ability that isn't a mana ability doesn't untap duri
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>World Championship Decks 2001</Set>
-<Rarity>Common</Rarity>
+<Rarity>Rare</Rarity>
 </Card>
 
 <Card>

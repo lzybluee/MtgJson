@@ -4,9 +4,9 @@
 <Name>Mu Yanling</Name>
 <Type>Legendary Planeswalker — Yanling (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>+2: Target creature can't be blocked this turn.
--3: Draw two cards.
--10: Tap all creatures your opponents control. You take an extra turn after this one.</CardText>
+<CardText>[+2]: Target creature can't be blocked this turn.
+[-3]: Draw two cards.
+[-10]: Tap all creatures your opponents control. You take an extra turn after this one.</CardText>
 <Artist>林玄泰</Artist>
 <Multiverseid>447049</Multiverseid>
 <Vintage>Legal</Vintage>
@@ -346,9 +346,9 @@ Search your library and/or graveyard for a card named Mu Yanling, reveal it, and
 <Name>Jiang Yanggu</Name>
 <Type>Legendary Planeswalker — Yanggu (Loyalty: 4)</Type>
 <ManaCost>4G (5)</ManaCost>
-<CardText>+1: Target creature gets +2/+2 until end of turn.
--1: If you don't control a creature named Mowu, create a legendary 3/3 green Hound creature token named Mowu.
--5: Until end of turn, target creature gains trample and gets +X/+X, where X is the number of lands you control.</CardText>
+<CardText>[+1]: Target creature gets +2/+2 until end of turn.
+[-1]: If you don't control a creature named Mowu, create Mowu, a legendary 3/3 green Hound creature token.
+[-5]: Until end of turn, target creature gains trample and gets +X/+X, where X is the number of lands you control.</CardText>
 <Artist>Tingting Yeh</Artist>
 <Multiverseid>447070</Multiverseid>
 <Vintage>Legal</Vintage>

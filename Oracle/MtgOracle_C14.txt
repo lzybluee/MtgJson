@@ -176,9 +176,9 @@ When Hallowed Spiritkeeper dies, create X 1/1 white Spirit creature tokens with 
 <Name>Nahiri, the Lithomancer</Name>
 <Type>Legendary Planeswalker — Nahiri (Loyalty: 3)</Type>
 <ManaCost>3WW (5)</ManaCost>
-<CardText>+2: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
--2: You may put an Equipment card from your hand or graveyard onto the battlefield.
--10: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
+<CardText>[+2]: Create a 1/1 white Kor Soldier creature token. You may attach an Equipment you control to it.
+[-2]: You may put an Equipment card from your hand or graveyard onto the battlefield.
+[-10]: Create a colorless Equipment artifact token named Stoneforged Blade. It has indestructible, "Equipped creature gets +5/+5 and has double strike," and equip {0}.
 Nahiri, the Lithomancer can be your commander.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>389612</Multiverseid>
@@ -340,9 +340,9 @@ Lieutenant — As long as you control your commander, Stormsurge Kraken gets +2/
 <Name>Teferi, Temporal Archmage</Name>
 <Type>Legendary Planeswalker — Teferi (Loyalty: 5)</Type>
 <ManaCost>4UU (6)</ManaCost>
-<CardText>+1: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
--1: Untap up to four target permanents.
--10: You get an emblem with "You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant."
+<CardText>[+1]: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+[-1]: Untap up to four target permanents.
+[-10]: You get an emblem with "You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant."
 Teferi, Temporal Archmage can be your commander.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Multiverseid>389712</Multiverseid>
@@ -492,9 +492,9 @@ Destroy target nonblack creature.</CardText>
 <Name>Ob Nixilis of the Black Oath</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 3)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>+2: Each opponent loses 1 life. You gain life equal to the life lost this way.
--2: Create a 5/5 black Demon creature token with flying. You lose 2 life.
--8: You get an emblem with "{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
+<CardText>[+2]: Each opponent loses 1 life. You gain life equal to the life lost this way.
+[-2]: Create a 5/5 black Demon creature token with flying. You lose 2 life.
+[-8]: You get an emblem with "{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
 Ob Nixilis of the Black Oath can be your commander.</CardText>
 <Artist>Daarken</Artist>
 <Multiverseid>389618</Multiverseid>
@@ -604,9 +604,9 @@ If a source controlled by one of the chosen players would deal damage to the oth
 <Name>Daretti, Scrap Savant</Name>
 <Type>Legendary Planeswalker — Daretti (Loyalty: 3)</Type>
 <ManaCost>3R (4)</ManaCost>
-<CardText>+2: Discard up to two cards, then draw that many cards.
--2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
--10: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
+<CardText>[+2]: Discard up to two cards, then draw that many cards.
+[-2]: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
+[-10]: You get an emblem with "Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
 Daretti, Scrap Savant can be your commander.</CardText>
 <Artist>Dan Scott</Artist>
 <Multiverseid>389478</Multiverseid>
@@ -805,9 +805,9 @@ All creatures attack each combat if able.
 <Name>Freyalise, Llanowar's Fury</Name>
 <Type>Legendary Planeswalker — Freyalise (Loyalty: 3)</Type>
 <ManaCost>3GG (5)</ManaCost>
-<CardText>+2: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."
--2: Destroy target artifact or enchantment.
--6: Draw a card for each green creature you control.
+<CardText>[+2]: Create a 1/1 green Elf Druid creature token with "{T}: Add {G}."
+[-2]: Destroy target artifact or enchantment.
+[-6]: Draw a card for each green creature you control.
 Freyalise, Llanowar's Fury can be your commander.</CardText>
 <Artist>Adam Paquette</Artist>
 <Multiverseid>389530</Multiverseid>
@@ -1822,16 +1822,18 @@ When Whitemane Lion enters the battlefield, return a creature you control to its
 <Type>Instant</Type>
 <ManaCost>1WW (3)</ManaCost>
 <CardText>Target player sacrifices an attacking creature.
-Storm (When you cast this spell, copy it for each spell cast before it this turn.)</CardText>
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</CardText>
 <Artist>Daren Bader</Artist>
 <Multiverseid>389749</Multiverseid>
-<Rulings>2013/06/07: The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn.
-2013/06/07: Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability.
-2013/06/07: A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies.
-2013/06/07: The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack.
-2013/06/07: You may choose new targets for any of the copies. You can choose differently for each copy.</Rulings>
+<Rulings>2019/06/14: An "attacking creature" is one that has been declared as an attacker or put onto the battlefield attacking during a turn's combat. Unless that creature leaves combat, it continues to be an attacking creature through the end of combat step, even if the player it was attacking has left the game or the planeswalker it was attacking has left combat.
+2019/06/14: If you cast <Wing Shards> after combat damage has been dealt, only creatures that survived combat can be sacrificed.
+2019/06/14: <Wing Shards> doesn't target the creature to be sacrificed. The target player chooses the creature as it resolves.
+2019/06/14: The copies storm creates are created on the stack, so they're not cast. Abilities that trigger when a player casts a spell (such as storm) won't trigger.
+2019/06/14: Storm counts spells cast before the spell with storm was cast. Spells cast after the spell with storm was cast but before the storm ability resolves aren't counted.
+2019/06/14: The storm ability and the copies it creates all resolve before the spell with storm. They resolve even if the spell with storm is countered.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Uncommon</Rarity>
 </Card>
@@ -2047,9 +2049,10 @@ Draw a card.</CardText>
 —Teferi</Flavor>
 <Artist>Greg Staples</Artist>
 <Multiverseid>389510</Multiverseid>
-<Rulings>2018/03/16: <Exclude> can target a creature spell that can't be countered. When <Exclude> resolves, that spell won't be countered, but you'll still draw a card.</Rulings>
+<Rulings>2019/06/14: <Exclude> can target a creature spell that can't be countered. When <Exclude> resolves, that spell won't be countered, but you'll still draw a card.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -3498,7 +3501,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</CardText>
 <Type>Legendary Creature — Goblin 1/1</Type>
 <ManaCost>2R (3)</ManaCost>
 <CardText>Haste
-When Tuktuk the Explorer dies, create a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned.</CardText>
+When Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 colorless Goblin Golem artifact creature token.</CardText>
 <Flavor>Remade by Eldrazi magic, Tuktuk inspired an entire clan of misguided goblins.</Flavor>
 <Artist>Volkan Baǵa</Artist>
 <Multiverseid>389729</Multiverseid>
@@ -5363,6 +5366,7 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5566,6 +5570,7 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5706,6 +5711,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5813,6 +5819,7 @@ Cycling {W} ({W}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>
@@ -5914,6 +5921,7 @@ Cycling {G} ({G}, Discard this card: Draw a card.)</CardText>
 <Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Commander 2014 Edition</Set>
 <Rarity>Common</Rarity>
 </Card>

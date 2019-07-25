@@ -15,7 +15,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -32,7 +32,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -47,7 +47,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -62,7 +62,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -95,7 +95,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -110,7 +110,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Uncommon</Rarity>
 </Card>
 
 <Card>
@@ -126,7 +126,7 @@ When Silver Drake enters the battlefield, return a white or blue creature you co
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -142,7 +142,7 @@ When Silver Drake enters the battlefield, return a white or blue creature you co
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
 <Set>Magazine Inserts</Set>
-<Rarity>Rare</Rarity>
+<Rarity>Common</Rarity>
 </Card>
 
 <Card>
@@ -214,7 +214,7 @@ Darksteel Juggernaut attacks each combat if able.</CardText>
 —Jace Beleren, on Chandra Nalaar</Flavor>
 <Artist>Christopher Moeller</Artist>
 <Watermark>Dengekimaoh</Watermark>
-<Rulings>2018/03/16: If the target creature is an illegal target by the time <Chandra's Outrage> resolves, the spell doesn't resolve. No player is dealt damage.</Rulings>
+<Rulings>2019/07/12: If the target creature is an illegal target by the time <Chandra's Outrage> tries to resolve, the spell doesn't resolve. No player is dealt damage.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -233,9 +233,9 @@ Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 un
 <Flavor>"I've lit most everything on fire—trees, rocks, even the water. Now it's time to burn the clouds."</Flavor>
 <Artist>Justin Sweet</Artist>
 <Watermark>Dengekimaoh</Watermark>
-<Rulings>2010/08/15: Combat damage is the damage that's dealt automatically by attacking and blocking creatures, even if it's redirected (by Harm's Way, perhaps). Noncombat damage is any other damage (generally, it's damage dealt as the result of a spell or ability).
-2010/08/15: The ability triggers just once for each event in which an opponent is dealt noncombat damage, regardless of how much damage that player is dealt. For example, if Lava Axe deals 5 damage to an opponent, <Chandra's Spitfire> gets just +3/+0.
-2010/08/15: In a multiplayer game, if a source such as Earthquake deals damage to multiple opponents at the same time, the ability will trigger that many times.</Rulings>
+<Rulings>2019/07/12: Combat damage is the damage that's dealt automatically by attacking and blocking creatures. Any other damage is noncombat damage, even if it's dealt during a combat phase by an attacking or blocking creature.
+2019/07/12: The last ability of <Chandra's Spitfire> triggers just once for each event in which an opponent is dealt noncombat damage, regardless of how much damage that player is dealt.
+2019/07/12: In a multiplayer game, if a source deals damage to multiple opponents at the same time, the last ability of <Chandra's Spitfire> will trigger as many times as there are opponents who were dealt damage.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -444,7 +444,41 @@ Nonblack creatures get -1/-1.</CardText>
 <Artist>Ron Spencer</Artist>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
 <Set>Magazine Inserts</Set>
 <Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>32</No>
+<Name>Shock</Name>
+<Type>Instant</Type>
+<ManaCost>R (1)</ManaCost>
+<CardText>Shock deals 2 damage to any target.</CardText>
+<Artist>Randy Gallegos</Artist>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>PMEI</SetId>
+<No>33</No>
+<Name>Lava Coil</Name>
+<Type>Sorcery</Type>
+<ManaCost>1R (2)</ManaCost>
+<CardText>Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead.</CardText>
+<Flavor>「司令官、ディミーアのスパイを捕らえ、その遺灰を監禁しました。」
+――ウォジェクの警備兵、クラム</Flavor>
+<Artist>Wesley Burt & コーヘー</Artist>
+<Rulings>2018/10/05: <Lava Coil>'s replacement effect will exile the target creature if it would die this turn for any reason, not just due to lethal damage. It applies to the target creature even if <Lava Coil> deals no damage to it (due to a prevention effect).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Magazine Inserts</Set>
+<Rarity>Uncommon</Rarity>
 </Card>
 

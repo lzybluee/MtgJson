@@ -78,9 +78,9 @@ Fear (This creature can't be blocked except by artifact creatures and/or black c
 <Name>Ajani Goldmane</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: You gain 2 life.
--1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
--6: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
+<CardText>[+1]: You gain 2 life.
+[-1]: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+[-6]: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."</CardText>
 <Artist>Christopher Moeller</Artist>
 <Watermark>Protour</Watermark>
 <Rulings>2007/10/01: The vigilance granted to a creature by the second ability remains until the end of the turn even if the +1/+1 counter is removed.
@@ -98,9 +98,9 @@ Fear (This creature can't be blocked except by artifact creatures and/or black c
 <Name>Liliana of the Veil</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>+1: Each player discards a card.
--2: Target player sacrifices a creature.
--6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
+<CardText>[+1]: Each player discards a card.
+[-2]: Target player sacrifices a creature.
+[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
 <Artist>Steve Argyle</Artist>
 <Rulings>2018/12/07: You can activate Liliana's first ability even if some or all players will be unable to discard a card.
 2018/12/07: When Liliana's first ability resolves, first the player whose turn it is chooses a card in hand without revealing it, then each other player in turn order does the same. Then all the chosen cards are discarded at the same time.
@@ -185,7 +185,7 @@ When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner sh
 <Type>Artifact Creature — Beast 0/0</Type>
 <ManaCost>2 (2)</ManaCost>
 <CardText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
-Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
 <Artist>Chase Stone</Artist>
 <Watermark>Wotc</Watermark>
 <Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>

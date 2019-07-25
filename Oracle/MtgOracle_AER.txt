@@ -1876,7 +1876,7 @@ When enchanted artifact is put into a graveyard, create a 2/2 red Gremlin creatu
 <Type>Legendary Creature — Human Pirate 1/3</Type>
 <ManaCost>1R (2)</ManaCost>
 <CardText>First strike, menace
-Whenever Kari Zev, Skyship Raider attacks, create a legendary 2/1 red Monkey creature token named Ragavan that's tapped and attacking. Exile that token at end of combat.</CardText>
+Whenever Kari Zev, Skyship Raider attacks, create Ragavan, a legendary 2/1 red Monkey creature token. Ragavan enters the battlefield tapped and attacking. Exile that token at end of combat.</CardText>
 <Flavor>Aboard her ship, the Dragon's Smile, Kari follows no one's rules but her own.</Flavor>
 <Artist>Brad Rigney</Artist>
 <Multiverseid>423754</Multiverseid>
@@ -2743,9 +2743,9 @@ Sacrifice Unbridled Growth: Draw a card.</CardText>
 <Name>Ajani Unyielding</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>4GW (6)</ManaCost>
-<CardText>+2: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.
--2: Exile target creature. Its controller gains life equal to its power.
--9: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.</CardText>
+<CardText>[+2]: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.
+[-2]: Exile target creature. Its controller gains life equal to its power.
+[-9]: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.</CardText>
 <Artist>Kieran Yanner</Artist>
 <Multiverseid>423794</Multiverseid>
 <Rulings>2017/02/09: A nonland permanent card is an artifact, creature, enchantment, or planeswalker card.
@@ -2959,9 +2959,9 @@ When Spire Patrol enters the battlefield, tap target creature an opponent contro
 <Name>Tezzeret the Schemer</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
 <ManaCost>2UB (4)</ManaCost>
-<CardText>+1: Create a colorless artifact token named Etherium Cell with "{T}, Sacrifice this artifact: Add one mana of any color."
--2: Target creature gets +X/-X until end of turn, where X is the number of artifacts you control.
--7: You get an emblem with "At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5."</CardText>
+<CardText>[+1]: Create a colorless artifact token named Etherium Cell with "{T}, Sacrifice this artifact: Add one mana of any color."
+[-2]: Target creature gets +X/-X until end of turn, where X is the number of artifacts you control.
+[-7]: You get an emblem with "At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5."</CardText>
 <Artist>Ryan Alexander Lee</Artist>
 <Multiverseid>423804</Multiverseid>
 <Rulings>2017/02/09: The value of X for Tezzeret's second ability is determined only as the ability resolves. It won't change later in the turn if the number of artifacts you control changes.
@@ -4033,9 +4033,9 @@ Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.</
 <Name>Ajani, Valiant Protector</Name>
 <Type>Legendary Planeswalker — Ajani (Loyalty: 4)</Type>
 <ManaCost>4GW (6)</ManaCost>
-<CardText>+2: Put two +1/+1 counters on up to one target creature.
-+1: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
--11: Put X +1/+1 counters on target creature, where X is your life total. That creature gains trample until end of turn.</CardText>
+<CardText>[+2]: Put two +1/+1 counters on up to one target creature.
+[+1]: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+[-11]: Put X +1/+1 counters on target creature, where X is your life total. That creature gains trample until end of turn.</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>425692</Multiverseid>
 <Rulings>2017/02/09: If you don't have a creature card in your library while resolving Ajani's second ability, you'll reveal your library and then randomize it.
@@ -4125,9 +4125,9 @@ Sacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would
 <Name>Tezzeret, Master of Metal</Name>
 <Type>Legendary Planeswalker — Tezzeret (Loyalty: 5)</Type>
 <ManaCost>4UB (6)</ManaCost>
-<CardText>+1: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
--3: Target opponent loses life equal to the number of artifacts you control.
--8: Gain control of all artifacts and creatures target opponent controls.</CardText>
+<CardText>[+1]: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
+[-3]: Target opponent loses life equal to the number of artifacts you control.
+[-8]: Gain control of all artifacts and creatures target opponent controls.</CardText>
 <Artist>Tyler Jacobson</Artist>
 <Multiverseid>425697</Multiverseid>
 <Rulings>2017/02/09: If you don't have an artifact card in your library while resolving Tezzeret's first ability, you'll reveal your library and then randomize it.

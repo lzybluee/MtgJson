@@ -2081,9 +2081,9 @@ When Chittering Host enters the battlefield, other creatures you control get +1/
 <Name>Liliana, the Last Hope</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>+1: Up to one target creature gets -2/-1 until your next turn.
--2: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
--7: You get an emblem with "At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control."</CardText>
+<CardText>[+1]: Up to one target creature gets -2/-1 until your next turn.
+[-2]: Put the top two cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.
+[-7]: You get an emblem with "At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control."</CardText>
 <Artist>Anna Steinbauer</Artist>
 <Multiverseid>414388</Multiverseid>
 <Rulings>2016/07/13: You can activate Liliana's first ability without any targets just to add a loyalty counter to her.
@@ -3947,7 +3947,8 @@ When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature token
 Enchanted creature gets +2/+2.</CardText>
 <Artist>Lindsey Look</Artist>
 <Multiverseid>414483</Multiverseid>
-<Rulings>2016/07/13: If the target becomes illegal while <Wolfkin Bond> is on the stack, the spell doesn't resolve. It won't enter the battlefield and you won't get a Wolf token.</Rulings>
+<Rulings>2019/07/12: You need a creature for <Wolfkin Bond> to target as you cast it. It can't enter the battlefield attached to the Wolf token it will create.
+2019/07/12: If the target creature is an illegal target by the time <Wolfkin Bond> tries to resolve, the spell doesn't resolve. It won't enter the battlefield, so its ability won't trigger.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -4181,9 +4182,9 @@ When Spell Queller leaves the battlefield, the exiled card's owner may cast that
 <Name>Tamiyo, Field Researcher</Name>
 <Type>Legendary Planeswalker — Tamiyo (Loyalty: 4)</Type>
 <ManaCost>1GWU (4)</ManaCost>
-<CardText>+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
--2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
--7: Draw three cards. You get an emblem with "You may cast spells from your hand without paying their mana costs."</CardText>
+<CardText>[+1]: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
+[-2]: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
+[-7]: Draw three cards. You get an emblem with "You may cast spells from your hand without paying their mana costs."</CardText>
 <Artist>Tianhua X</Artist>
 <Multiverseid>414495</Multiverseid>
 <Rulings>2016/07/13: Tamiyo's first ability sets up a delayed triggered ability that triggers even if Tamiyo has left the battlefield before those creatures deal combat damage.

@@ -369,7 +369,7 @@ Enchanted creature has flying.</CardText>
 <Flavor>"Zendikar will triumph this day, and our armies will fly with angels."</Flavor>
 <Artist>Josu Hernaiz</Artist>
 <Multiverseid>401812</Multiverseid>
-<Rulings>2015/08/25: If the target of an Aura becomes illegal before the spell resolves, the Aura won't resolve and will be put into its owner's graveyard. It won't enter the battlefield and you won't draw a card.</Rulings>
+<Rulings>2019/07/12: If the target creature is an illegal target by the time <Angelic Gift> tries to resolve, the spell doesn't resolve. It won't enter the battlefield, so you won't draw a card.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -551,9 +551,9 @@ At the beginning of your upkeep, if you have 40 or more life, you win the game.<
 <Name>Gideon, Ally of Zendikar</Name>
 <Type>Legendary Planeswalker — Gideon (Loyalty: 4)</Type>
 <ManaCost>2WW (4)</ManaCost>
-<CardText>+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
-0: Create a 2/2 white Knight Ally creature token.
--4: You get an emblem with "Creatures you control get +1/+1."</CardText>
+<CardText>[+1]: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+[0]: Create a 2/2 white Knight Ally creature token.
+[-4]: You get an emblem with "Creatures you control get +1/+1."</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>401897</Multiverseid>
 <Rulings>2015/08/25: Gideon's first ability doesn't count as a creature entering the battlefield. Gideon was already on the battlefield; he only changed his types. Specifically, your rally abilities won't trigger. (Of course, Gideon's second ability will cause rally abilities to trigger.)
@@ -2244,9 +2244,8 @@ Destroy target creature.</CardText>
 <Flavor>Vastly outnumbered, the Zendikari found creative ways to even the odds.</Flavor>
 <Artist>Deruchenko Alexander</Artist>
 <Multiverseid>401828</Multiverseid>
-<Rulings>2017/03/14: You must sacrifice exactly one creature to cast this spell; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures.
-2017/03/14: Once you begin to cast <Bone Splinters>, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.
-2017/03/14: You can cast <Bone Splinters> targeting the creature you intend to sacrifice for its cost. This is because targets are chosen before costs are paid. <Bone Splinters> won't resolve as it tries to resolve in this case.</Rulings>
+<Rulings>2019/07/12: You must sacrifice exactly one creature to cast this spell; you can't cast it without sacrificing a creature, and you can't sacrifice additional creatures.
+2019/07/12: Once you begin to cast <Bone Splinters>, no player may take actions until you're done. Notably, opponents can't try to remove the creature you wish to sacrifice.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2517,9 +2516,9 @@ Awaken 3—{5}{B} (If you cast this spell for {5}{B}, also put three +1/+1 count
 <Name>Ob Nixilis Reignited</Name>
 <Type>Legendary Planeswalker — Nixilis (Loyalty: 5)</Type>
 <ManaCost>3BB (5)</ManaCost>
-<CardText>+1: You draw a card and you lose 1 life.
--3: Destroy target creature.
--8: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
+<CardText>[+1]: You draw a card and you lose 1 life.
+[-3]: Destroy target creature.
+[-8]: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."</CardText>
 <Artist>Chris Rahn</Artist>
 <Multiverseid>401971</Multiverseid>
 <Rulings>2015/08/25: The emblem created by <Ob Nixilis Reignited>'s last ability is both owned and controlled by the target opponent. In a multiplayer game, if you own <Ob Nixilis Reignited> and use him to give one of your opponents an emblem, the emblem remains even if you leave the game.</Rulings>
@@ -4219,7 +4218,7 @@ When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion 
 <CardText>Devoid (This card has no color.)
 Choose one or both —
 • Return target spell or creature to its owner's hand.
-• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, exile it instead.</CardText>
+• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</CardText>
 <Artist>Victor Adame Minguez</Artist>
 <Multiverseid>401835</Multiverseid>
 <Rulings>2015/08/25: If a spell is returned to its owner's hand, it's removed from the stack. The spell isn't countered, but it won't resolve. If a copy of a spell is returned to a hand this way, the copy will cease to exist the next time state-based actions are performed.
@@ -4530,9 +4529,9 @@ Landfall — Whenever a land enters the battlefield under your control, Grove Ru
 <Name>Kiora, Master of the Depths</Name>
 <Type>Legendary Planeswalker — Kiora (Loyalty: 4)</Type>
 <ManaCost>2GU (4)</ManaCost>
-<CardText>+1: Untap up to one target creature and up to one target land.
--2: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
--8: You get an emblem with "Whenever a creature enters the battlefield under your control, you may have it fight target creature." Then create three 8/8 blue Octopus creature tokens.</CardText>
+<CardText>[+1]: Untap up to one target creature and up to one target land.
+[-2]: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
+[-8]: You get an emblem with "Whenever a creature enters the battlefield under your control, you may have it fight target creature." Then create three 8/8 blue Octopus creature tokens.</CardText>
 <Artist>Jason Chan</Artist>
 <Multiverseid>401931</Multiverseid>
 <Rulings>2015/08/25: You can activate Kiora's first ability with no targets just to put a loyalty counter on her.

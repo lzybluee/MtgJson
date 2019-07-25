@@ -452,7 +452,7 @@ Prevent all combat damage that would be dealt to and dealt by enchanted creature
 <Flavor>"My faith is stronger than fang, claw, or mindless hunger."</Flavor>
 <Artist>Christopher Moeller</Artist>
 <Multiverseid>226882</Multiverseid>
-<Rulings>2011/09/22: Multiple instances of lifelink on the same creature are redundant.</Rulings>
+<Rulings>2019/07/12: Multiple instances of lifelink on the same creature are redundant.</Rulings>
 <Vintage>Legal</Vintage>
 <Legacy>Legal</Legacy>
 <Modern>Legal</Modern>
@@ -2091,9 +2091,9 @@ Creatures you control get -1/-1.</CardText>
 <Name>Liliana of the Veil</Name>
 <Type>Legendary Planeswalker — Liliana (Loyalty: 3)</Type>
 <ManaCost>1BB (3)</ManaCost>
-<CardText>+1: Each player discards a card.
--2: Target player sacrifices a creature.
--6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
+<CardText>[+1]: Each player discards a card.
+[-2]: Target player sacrifices a creature.
+[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.</CardText>
 <Artist>Steve Argyle</Artist>
 <Multiverseid>235597</Multiverseid>
 <Rulings>2018/12/07: You can activate Liliana's first ability even if some or all players will be unable to discard a card.
@@ -3664,8 +3664,8 @@ Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.</Card
 <Type>Legendary Planeswalker — Garruk (Loyalty: 3)</Type>
 <ManaCost>3G (4)</ManaCost>
 <CardText>When Garruk Relentless has two or fewer loyalty counters on him, transform him.
-0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.
-0: Create a 2/2 green Wolf creature token.</CardText>
+[0]: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.
+[0]: Create a 2/2 green Wolf creature token.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>245250</Multiverseid>
 <Rulings>2011/09/22: You don't add or remove loyalty counters from <Garruk Relentless> when he transforms into Garruk, the Veil-Cursed. In most cases, he'll have one or two loyalty counters on him.
@@ -3689,9 +3689,9 @@ Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.</Card
 <Name>Garruk, the Veil-Cursed</Name>
 <Type>Legendary Planeswalker — Garruk</Type>
 <ColorIndicator>Black Green</ColorIndicator>
-<CardText>+1: Create a 1/1 black Wolf creature token with deathtouch.
--1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
--3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</CardText>
+<CardText>[+1]: Create a 1/1 black Wolf creature token with deathtouch.
+[-1]: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+[-3]: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</CardText>
 <Artist>Eric Deschamps</Artist>
 <Multiverseid>245251</Multiverseid>
 <Rulings>2011/09/22: You don't add or remove loyalty counters from Garruk Relentless when he transforms into <Garruk, the Veil-Cursed>. In most cases, he'll have one or two loyalty counters on him.
